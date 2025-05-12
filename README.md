@@ -17,6 +17,7 @@ This repository functions as:
 ---
 
 ## 📁 Folder Structure
+```
 adlt-learning-journal/
 │
 ├── coding_learning/      # Notes, guides, cheat sheets, and resources related to R, Python, Git, etc.
@@ -24,6 +25,7 @@ adlt-learning-journal/
 ├── math/                 # Pure math topics: calculus, algebra, linear algebra, proofs, etc.
 └── stats/                # Probability, inferential statistics, regression, and statistical modeling.
 ---
+```
 
 ## 🛠️ Tools Used
 
