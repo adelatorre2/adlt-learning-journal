@@ -1,0 +1,39 @@
+---
+title: 'Datacamp: Intermediate R'
+output:
+  word_document: default
+  pdf_document: default
+  html_notebook: default
+---
+Note:
+• Learn more about R notebooks here: https://support.posit.co/hc/en-us/articles/200552276-Creating-Notebooks-from-R-Scripts-in-the-RStudio-IDE
+• This is a dump notebook of all the useful stuff I learned seperated by modules.
+
+# Functions - Intermediate R
+```{r}
+values <- c(1,4,7, 9, NA, 10, 19)
+sd(values)
+# notice that prints NA because of the NA in vector
+sd(x = values, na.rm = TRUE)
+# By contrast, if na.rm - FALSE...
+sd(x = values, na.rm = FALSE) #...we get NA again
+```
+You can also trim the values and calculate the mean (or use an function) to get the mean of muiltiple variables, as well as trim the result:
+
+```{r}
+# The linkedin and facebook vectors have already been created for you
+linkedin <- c(16, 9, 13, 5, 2, 17, 14)
+facebook <- c(17, 7, 5, 16, 8, 13, 14)
+
+# Calculate the mean of the sum
+avg_sum <- mean(linkedin + facebook)
+
+# Calculate the trimmed mean of the sum
+avg_sum_trimmed <- mean(linkedin + facebook, trim = 0.2, na.rm = FALSE)
+
+# Inspect both new variables
+print(avg_sum)
+print(avg_sum_trimmed)
+```
+
+
