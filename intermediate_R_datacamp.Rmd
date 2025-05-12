@@ -36,4 +36,14 @@ print(avg_sum)
 print(avg_sum_trimmed)
 ```
 
-
+Another example of a function is the `apply()` function. It allows you to apply a function to the rows or columns of a matrix or data frame. The syntax is as follows:
+```{r}
+apply(X, MARGIN, FUN, ...)
+```
+Where:
+- `X` is the matrix or data frame
+- `MARGIN` is either 1 (for rows) or 2 (for columns)
+- `FUN` is the function to apply
+- `...` are any additional arguments to pass to the function
+```{r}
+# Create a matrix
