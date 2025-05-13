@@ -9,6 +9,11 @@ Note:
 • Learn more about R notebooks here: https://support.posit.co/hc/en-us/articles/200552276-Creating-Notebooks-from-R-Scripts-in-the-RStudio-IDE
 • This is a dump notebook of all the useful stuff I learned seperated by modules.
 
+#
+# Intermediate R Notes
+#
+Below are selected notes and examples from the DataCamp Intermediate R course.
+
 # Functions - Intermediate R
 ```{r}
 values <- c(1,4,7, 9, NA, 10, 19)
@@ -37,13 +42,16 @@ print(avg_sum_trimmed)
 ```
 
 Another example of a function is the `apply()` function. It allows you to apply a function to the rows or columns of a matrix or data frame. The syntax is as follows:
-```{r}
-apply(X, MARGIN, FUN, ...)
-```
+ 
+# Syntax:
+# apply(X, MARGIN, FUN, ...)
 Where:
 - `X` is the matrix or data frame
 - `MARGIN` is either 1 (for rows) or 2 (for columns)
 - `FUN` is the function to apply
 - `...` are any additional arguments to pass to the function
-```{r}
-# Create a matrix
+
+
+# IMPORTANT: R passes arguments by value
+# The title gives it away already: R passes arguments by value. What does this mean? 
+# Simply put, it means that an R function cannot change the variable that you input to that function.
