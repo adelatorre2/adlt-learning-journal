@@ -41,7 +41,8 @@ print(avg_sum)
 print(avg_sum_trimmed)
 ```
 
-Another example of a function is the `apply()` function. It allows you to apply a function to the rows or columns of a matrix or data frame. The syntax is as follows:
+Another example of a function is the `apply()` function. It allows you to apply a function to the rows or columns of a 
+matrix or data frame. The syntax is as follows:
  
 # Syntax:
 # apply(X, MARGIN, FUN, ...)
@@ -55,3 +56,40 @@ Where:
 # IMPORTANT: R passes arguments by value
 # The title gives it away already: R passes arguments by value. What does this mean? 
 # Simply put, it means that an R function cannot change the variable that you input to that function.
+
+# Using Packaages: https://campus.datacamp.com/courses/intermediate-r/chapter-3-functions?ex=16
+Use the search() function to find the function you want to use.
+```{r}
+#instal the package
+install.packages("ggplot2")
+
+# Load the ggplot2 package
+library(ggplot2)
+
+# Retry the qplot() function
+qplot(mtcars$wt, mtcars$hp)
+
+# Check out the currently attached packages again
+search()
+```
+• R loads 7 packages by default: base, utils, datasets, grDevices, graphics, stats, and methods.
+• require() = loads packages into your R session
+
+There are muiltiple ways to load packages:
+```{r}
+# Chunk 1
+library(data.table)
+require(rjson)
+
+# Chunk 2
+library("data.table")
+require(rjson)
+```
+These two options list all of the chunks that do not generate an error.
+
+# Useful math functions that R features:
+
+• abs(): Calculate the absolute value.
+• sum(): Calculate the sum of all the values in a data structure.
+• mean(): Calculate the arithmetic mean.
+• round(): Round the values to 0 decimal places by default. 
