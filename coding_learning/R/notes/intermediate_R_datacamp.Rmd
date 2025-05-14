@@ -88,7 +88,6 @@ require(rjson)
 These two options list all of the chunks that do not generate an error.
 
 # Useful math functions that R features:
-
 • abs(): Calculate the absolute value.
 • sum(): Calculate the sum of all the values in a data structure.
 • mean(): Calculate the arithmetic mean.
