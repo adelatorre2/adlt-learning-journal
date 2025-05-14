@@ -128,3 +128,124 @@ pattern more robust:
 • \\.edu$, to match the ".edu" part of the email at the end of the string. 
   The \\ part escapes the dot: it tells R that you want to use the . as an actual 
     character.
+
+```{r}
+# sub() and gsub() are used for replacing patterns in strings
+
+# sub() replaces the first match of the pattern
+# sub(pattern, replacement, x, ignore.case = FALSE, perl = FALSE, fixed = FALSE, useBytes = FALSE)
+
+# gsub() replaces all matches of the pattern
+# gsub(pattern, replacement, x, ignore.case = FALSE, perl = FALSE, fixed = FALSE, useBytes = FALSE)
+
+# Example of using sub() and gsub() to replace email domains ewith ".datacamp.edu":
+emails <- c("jdoe@wisc.edu", "hdong@msu.edu", "tchapman@iu.edu")
+sub(pattern = ".*@.*\\.edu$", replacement = "datacamp.edu", x = emails)
+```
+
+# Times & Dates 
+R has a built-in class for dates and times called POSIXct.
+• POSIXct: Represents the number of seconds since the epoch (1970-01-01 00:00:00 UTC).
+• POSIXlt: Represents a list of components (year, month, day, hour, minute, second) 
+  for a specific date and time.
+• Sys.Date(): Returns the current date in the POSIXct format.
+• Sys.time(): Returns the current date and time in the POSIXct format.
+• as.Date(): Converts a character string to a date object.
+• as.POSIXct(): Converts a character string to a POSIXct object.  
+
+Let's try a little exercise to calculate the difference between two dates (first date anniversary--shoutout pookie bear)!
+```{r}
+anniversary <- as.Date("2022-11-18")
+#get the current date
+today <- Sys.Date()
+# Calculate the difference in days
+diff <- today - anniversary
+# Print the difference
+print(cat("It has been ", diff, " days since the anniversary."))
+# Now how about in years?
+diff_years <- as.numeric(diff) / 365
+# Print the difference in years
+print(cat("It has been ", diff_years, " years since the anniversary."))
+```
+Note that under the hood, R is able to do the date arithmetic easily because
+it converts the dates into a number based on the difference between the given 
+date and the epoch date (1970-01-01 at midnight or 00:00:00).
+```{r}
+my_date <- as.Date("2022-11-18")
+unclass(my_date)
+# You should see the following output in the console:
+# [1] 19263
+# The number of days since the epoch date (Jan 1, 1970)
+```
+
+# Create and format dates
+To create a Date object from a simple character string in R, you can use the as.Date() function. The character string has to obey a format that can be defined using a set of symbols (the examples correspond to 13 January, 1982):
+----------------THIS IS REALLY IMPORTANT!!!!----------------
+                %Y: 4-digit year (1982)
+                %y: 2-digit year (82)
+                %m: 2-digit month (01)
+                %d: 2-digit day of the month (13)
+                %A: weekday (Wednesday)
+                %a: abbreviated weekday (Wed)
+                %B: month (January)
+                %b: abbreviated month (Jan)
+----------------THIS IS REALLY IMPORTANT!!!!----------------
+
+The following R commands will all create the same Date object for the 13th day in 
+January of 1982:
+```{r}
+as.Date("1982-01-13")
+as.Date("Jan-13-82", format = "%b-%d-%y")
+as.Date("13 January, 1982", format = "%d %B, %Y")
+```
+Notice that the first line here did not need a format argument, because by default 
+R matches your character string to the formats "%Y-%m-%d" or "%Y/%m/%d".
+
+In addition to creating dates, you can also convert dates to character strings that 
+use a different date notation. For this, you use the format() function. Try the following 
+lines of code:
+```{r}
+today <- Sys.Date()
+format(Sys.Date(), format = "%d %B, %Y")
+format(Sys.Date(), format = "Today is a %A!")
+```
+
+Here is a funky exercise that datacamp threw at me (instrctions below):
+
+• Three character strings representing dates have been created for you. Convert them 
+to dates using as.Date(), and assign them to date1, date2, and date3 respectively. 
+The code for date1 is already included.
+• Extract useful information from the dates as character strings using format(). 
+From the first date, select the weekday. From the second date, select the day of the 
+month. From the third date, you should select the abbreviated month and the 4-digit year, 
+separated by a space.
+```{r}
+# Definition of character strings representing dates
+str1 <- "May 23, '96"
+str2 <- "2012-03-15"
+str3 <- "30/January/2006"
+
+# Convert the strings to dates: date1, date2, date3
+date1 <- as.Date(str1, format = "%b %d, '%y")
+date2 <- as.Date(str2, format = "%Y-%m-%d")
+date3 <- as.Date(str3, format = "%d/%B/%Y")
+
+
+# Convert dates to formatted strings
+format(date1, "%A")
+format(date2, "%d")
+format(date3, "%b %Y")
+```
+# Create and format times
+Similar to working with dates, you can use as.POSIXct() to convert from a 
+character string to a POSIXct object, and format() to convert from a POSIXct 
+object to a character string. Again, you have a wide variety of symbols:
+----------------THIS IS REALLY IMPORTANT!!!!----------------
+              %H: hours as a decimal number (00-23)
+              %I: hours as a decimal number (01-12)
+              %M: minutes as a decimal number
+              %S: seconds as a decimal number
+              %T: shorthand notation for the typical format %H:%M:%S
+              %p: AM/PM indicator
+----------------THIS IS REALLY IMPORTANT!!!!----------------
+For a full list of conversion symbols, consult the strptime documentation
