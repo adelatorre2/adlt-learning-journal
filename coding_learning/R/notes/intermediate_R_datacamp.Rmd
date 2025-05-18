@@ -155,17 +155,30 @@ R has a built-in class for dates and times called POSIXct.
 
 Let's try a little exercise to calculate the difference between two dates (first date anniversary--shoutout pookie bear)!
 ```{r}
-anniversary <- as.Date("2022-11-18")
-#get the current date
+# First date anniversary (Ramen Kid 6:00pm)
+first_date_anniversary <- as.Date("2022-11-18")
+# Anniversary since Officially BF/GF (Collectivo)
+official_anniversary <- as.Date("2023-2-18")
+# Get the current date
 today <- Sys.Date()
+
 # Calculate the difference in days
-diff <- today - anniversary
-# Print the difference
-print(cat("It has been ", diff, " days since the anniversary."))
+diff_first <- today - first_date_anniversary
+diff_official <- today - official_anniversary
+print(cat("It has been ", diff_first, " days since our first date anniversary."))
+print(cat("It has been ", diff_official, " days since our official BF/GF anniversary."))
+
+# Now let do the same thing but in months
+diff_months <- as.numeric(diff_first) / 30
+diff_months_official <- as.numeric(diff_official) / 30
+print(cat("It has been ", diff_months, " months since our first date anniversary."))
+print(cat("It has been ", diff_months_official, " months since our official BF/GF anniversary."))
+
 # Now how about in years?
-diff_years <- as.numeric(diff) / 365
-# Print the difference in years
+diff_years <- as.numeric(diff_first) / 365
+diff_years_official <- as.numeric(diff_official) / 365
 print(cat("It has been ", diff_years, " years since the anniversary."))
+print(cat("It has been ", diff_years_official, " years since the official BF/GF anniversary."))
 ```
 Note that under the hood, R is able to do the date arithmetic easily because
 it converts the dates into a number based on the difference between the given 
