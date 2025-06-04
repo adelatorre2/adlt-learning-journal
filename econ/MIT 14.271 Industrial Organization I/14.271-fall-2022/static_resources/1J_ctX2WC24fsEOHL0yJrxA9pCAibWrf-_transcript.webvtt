@@ -1,0 +1,6383 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.970 align:middle line:90%
+
+
+00:00:00.970 --> 00:00:02.425 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.425 --> 00:00:03.880 align:middle line:90%
+[RUSTLING]
+
+00:00:03.880 --> 00:00:06.305 align:middle line:90%
+[CLICKING]
+
+00:00:06.305 --> 00:00:16.750 align:middle line:90%
+
+
+00:00:16.750 --> 00:00:17.500 align:middle line:90%
+GLENN ELLISON: OK.
+
+00:00:17.500 --> 00:00:18.833 align:middle line:90%
+Let me go ahead and get started.
+
+00:00:18.833 --> 00:00:23.710 align:middle line:84%
+So today, continuing my Monday
+theory, Wednesday empiric stuff,
+
+00:00:23.710 --> 00:00:27.610 align:middle line:84%
+I'm going to talk about
+empirics of dynamic competition.
+
+00:00:27.610 --> 00:00:29.680 align:middle line:84%
+In this set of lectures,
+I say there's also--
+
+00:00:29.680 --> 00:00:33.160 align:middle line:84%
+there's reduced form and
+structural literatures
+
+00:00:33.160 --> 00:00:35.230 align:middle line:84%
+on dynamic competition,
+and here I'm
+
+00:00:35.230 --> 00:00:37.760 align:middle line:84%
+going to completely ignore
+the structural literature.
+
+00:00:37.760 --> 00:00:41.350 align:middle line:84%
+It's just there's some technical
+things that come at the start
+
+00:00:41.350 --> 00:00:44.560 align:middle line:84%
+of that are techniques,
+and so we've left that all
+
+00:00:44.560 --> 00:00:45.590 align:middle line:90%
+for [14.]273.
+
+00:00:45.590 --> 00:00:48.430 align:middle line:84%
+So those we do in [14.]273 in
+the spring, we'll see it there.
+
+00:00:48.430 --> 00:00:51.680 align:middle line:84%
+But I would say that
+also it's one of the--
+
+00:00:51.680 --> 00:00:54.530 align:middle line:84%
+there's some neat structural
+stuff on dynamic competition,
+
+00:00:54.530 --> 00:00:57.650 align:middle line:84%
+but it is a real challenge
+for structural estimation
+
+00:00:57.650 --> 00:00:59.960 align:middle line:84%
+because a lot of
+structural estimation
+
+00:00:59.960 --> 00:01:02.630 align:middle line:84%
+is built on there being
+a unique equilibrium
+
+00:01:02.630 --> 00:01:05.060 align:middle line:84%
+and being able to invert going
+from the equilibrium back
+
+00:01:05.060 --> 00:01:05.925 align:middle line:90%
+to the primitives.
+
+00:01:05.925 --> 00:01:08.300 align:middle line:84%
+If you think about everything
+I said about repeated games
+
+00:01:08.300 --> 00:01:11.870 align:middle line:84%
+when there are a zillion
+different equilibria,
+
+00:01:11.870 --> 00:01:14.300 align:middle line:84%
+if the same primitives
+can lead to a thousand
+
+00:01:14.300 --> 00:01:17.060 align:middle line:84%
+different equilibria, you can't
+necessarily go backwards from,
+
+00:01:17.060 --> 00:01:20.330 align:middle line:84%
+here's what we observed to
+what the primitives are,
+
+00:01:20.330 --> 00:01:22.530 align:middle line:84%
+and that causes challenges
+for that literature.
+
+00:01:22.530 --> 00:01:25.710 align:middle line:84%
+But anyway, I will
+not get in there.
+
+00:01:25.710 --> 00:01:29.120 align:middle line:84%
+So anyway, I'm going to talk
+about reduced form literature,
+
+00:01:29.120 --> 00:01:32.780 align:middle line:84%
+which a lot of it is trying
+to provide evidence on,
+
+00:01:32.780 --> 00:01:36.920 align:middle line:84%
+do the models that we've
+talked about previously apply
+
+00:01:36.920 --> 00:01:39.793 align:middle line:84%
+and can we get anything about
+where they're working well
+
+00:01:39.793 --> 00:01:41.210 align:middle line:84%
+and where they're
+not working well
+
+00:01:41.210 --> 00:01:43.490 align:middle line:84%
+and what else we might
+want to put in them.
+
+00:01:43.490 --> 00:01:46.190 align:middle line:84%
+I'm going to start with
+one of my favorite papers,
+
+00:01:46.190 --> 00:01:48.320 align:middle line:84%
+Rob Porter's "Study
+of Cartel Stability:
+
+00:01:48.320 --> 00:01:51.890 align:middle line:84%
+Joint Executive
+Committee, 1880-1886."
+
+00:01:51.890 --> 00:01:53.900 align:middle line:84%
+You know, I have a
+number of classic papers
+
+00:01:53.900 --> 00:01:55.650 align:middle line:84%
+in this course, a
+number of classic papers
+
+00:01:55.650 --> 00:01:58.260 align:middle line:90%
+I omit from this syllabus.
+
+00:01:58.260 --> 00:02:00.420 align:middle line:84%
+Porter's is a rare paper
+that you pick it up
+
+00:02:00.420 --> 00:02:03.420 align:middle line:84%
+and it's 40 years
+old and somehow,
+
+00:02:03.420 --> 00:02:06.090 align:middle line:84%
+40 years later, it
+still just reads
+
+00:02:06.090 --> 00:02:09.550 align:middle line:84%
+very much like a current
+paper, seems very well done.
+
+00:02:09.550 --> 00:02:12.090 align:middle line:84%
+It's very thoughtful and
+there's hardly anything in it
+
+00:02:12.090 --> 00:02:14.580 align:middle line:84%
+when you look at it and say,
+wow, that seems archaic,
+
+00:02:14.580 --> 00:02:16.290 align:middle line:90%
+the way he's doing things here.
+
+00:02:16.290 --> 00:02:22.902 align:middle line:84%
+So anyway, paper is about
+railroad cartel in the 1880s.
+
+00:02:22.902 --> 00:02:24.360 align:middle line:84%
+Again, if you go
+back to the 1880s,
+
+00:02:24.360 --> 00:02:27.510 align:middle line:84%
+you have to remember a lot of
+things had not yet been invented
+
+00:02:27.510 --> 00:02:29.043 align:middle line:90%
+in 1880.
+
+00:02:29.043 --> 00:02:30.960 align:middle line:84%
+The electric light bulb
+had not been invented.
+
+00:02:30.960 --> 00:02:32.550 align:middle line:90%
+The car had not been invented.
+
+00:02:32.550 --> 00:02:35.495 align:middle line:84%
+The paved road had
+not been invented.
+
+00:02:35.495 --> 00:02:36.870 align:middle line:84%
+Obviously no need
+for paved roads
+
+00:02:36.870 --> 00:02:38.490 align:middle line:90%
+if you hadn't invented the car.
+
+00:02:38.490 --> 00:02:40.708 align:middle line:84%
+But so if you needed
+to transport goods,
+
+00:02:40.708 --> 00:02:42.750 align:middle line:84%
+there were basically two
+ways to transport goods,
+
+00:02:42.750 --> 00:02:46.200 align:middle line:84%
+by water or, then
+newly, by rail.
+
+00:02:46.200 --> 00:02:50.280 align:middle line:84%
+And railroads became an
+incredibly important industry.
+
+00:02:50.280 --> 00:02:52.975 align:middle line:84%
+If you look at the US
+stock market in the 1880s,
+
+00:02:52.975 --> 00:02:55.350 align:middle line:84%
+I think the statistic is like
+railroads were roughly half
+
+00:02:55.350 --> 00:02:57.250 align:middle line:84%
+the capitalization of
+the US stock market.
+
+00:02:57.250 --> 00:03:00.120 align:middle line:84%
+So in some sense, half the
+firms by value in this country
+
+00:03:00.120 --> 00:03:02.940 align:middle line:90%
+were railroads.
+
+00:03:02.940 --> 00:03:05.370 align:middle line:84%
+One thing that was
+challenging for railroads
+
+00:03:05.370 --> 00:03:08.190 align:middle line:84%
+is a lot of this class
+has been about what makes
+
+00:03:08.190 --> 00:03:10.410 align:middle line:90%
+price above marginal cost.
+
+00:03:10.410 --> 00:03:12.120 align:middle line:84%
+Well, if you've
+got a railroad, you
+
+00:03:12.120 --> 00:03:13.890 align:middle line:84%
+need to have price
+above marginal cost
+
+00:03:13.890 --> 00:03:17.580 align:middle line:84%
+because they have these enormous
+fixed costs of laying tracks
+
+00:03:17.580 --> 00:03:20.400 align:middle line:84%
+to get from New
+York City to Chicago
+
+00:03:20.400 --> 00:03:24.420 align:middle line:84%
+and putting down steel rails and
+clearing space on the whole path
+
+00:03:24.420 --> 00:03:25.955 align:middle line:90%
+and acquiring the right of way.
+
+00:03:25.955 --> 00:03:27.330 align:middle line:84%
+And then once
+you've done it, you
+
+00:03:27.330 --> 00:03:30.560 align:middle line:84%
+can transport goods
+fairly cheaply.
+
+00:03:30.560 --> 00:03:33.850 align:middle line:84%
+You can undercut the horse and
+cart by an enormous margin.
+
+00:03:33.850 --> 00:03:39.130 align:middle line:84%
+But marginal cost of carrying
+the goods once you've
+
+00:03:39.130 --> 00:03:41.120 align:middle line:84%
+built the railroad,
+are relatively low,
+
+00:03:41.120 --> 00:03:44.770 align:middle line:84%
+and so if competition forces
+price down to marginal cost,
+
+00:03:44.770 --> 00:03:47.500 align:middle line:84%
+you're never going to make the
+billions of dollars it cost you
+
+00:03:47.500 --> 00:03:49.360 align:middle line:90%
+to build the rails themselves.
+
+00:03:49.360 --> 00:03:51.400 align:middle line:84%
+So there were lots and
+lots of railroads who
+
+00:03:51.400 --> 00:03:52.580 align:middle line:90%
+struggled to keep up prices.
+
+00:03:52.580 --> 00:03:56.880 align:middle line:84%
+There were lots of
+railroad bankruptcies.
+
+00:03:56.880 --> 00:04:01.630 align:middle line:84%
+So Porter's paper is
+studying a cartel.
+
+00:04:01.630 --> 00:04:04.170 align:middle line:84%
+So all of these things which
+are not so visible, but these--
+
+00:04:04.170 --> 00:04:06.330 align:middle line:90%
+I took the old maps.
+
+00:04:06.330 --> 00:04:10.950 align:middle line:84%
+These are all railroads that
+went from Chicago out here
+
+00:04:10.950 --> 00:04:14.340 align:middle line:84%
+on the shore of lake
+Michigan to the East Coast.
+
+00:04:14.340 --> 00:04:17.700 align:middle line:84%
+In 1880, there were three ways
+to get from Chicago to the East
+
+00:04:17.700 --> 00:04:18.870 align:middle line:90%
+Coast.
+
+00:04:18.870 --> 00:04:21.850 align:middle line:84%
+There was the New
+York Central railroad.
+
+00:04:21.850 --> 00:04:23.940 align:middle line:84%
+This is the one
+owned by Vanderbilt.
+
+00:04:23.940 --> 00:04:27.600 align:middle line:84%
+It went either this way or
+this way along the Great Lakes,
+
+00:04:27.600 --> 00:04:29.910 align:middle line:84%
+through Albany, and then
+down to New York City
+
+00:04:29.910 --> 00:04:31.740 align:middle line:90%
+to get to the East Coast.
+
+00:04:31.740 --> 00:04:33.360 align:middle line:84%
+There was the
+Pennsylvania railroad
+
+00:04:33.360 --> 00:04:36.000 align:middle line:84%
+that ran across Pennsylvania
+and got to Philadelphia
+
+00:04:36.000 --> 00:04:37.890 align:middle line:84%
+and then went to places
+from Philadelphia,
+
+00:04:37.890 --> 00:04:39.540 align:middle line:90%
+but got to the East Coast there.
+
+00:04:39.540 --> 00:04:41.760 align:middle line:84%
+And then there was the
+Baltimore and Ohio railroad
+
+00:04:41.760 --> 00:04:44.340 align:middle line:84%
+that started here, took
+a more southerly route
+
+00:04:44.340 --> 00:04:47.400 align:middle line:84%
+across Pennsylvania, and
+ended up in Baltimore.
+
+00:04:47.400 --> 00:04:49.155 align:middle line:84%
+And so from either
+of those three--
+
+00:04:49.155 --> 00:04:51.030 align:middle line:84%
+you could use either of
+those three railroads
+
+00:04:51.030 --> 00:04:53.400 align:middle line:90%
+to get things to the East Coast.
+
+00:04:53.400 --> 00:04:55.440 align:middle line:90%
+Jumping ahead a second.
+
+00:04:55.440 --> 00:04:58.090 align:middle line:90%
+Why was this important?
+
+00:04:58.090 --> 00:05:00.737 align:middle line:84%
+Railroads did carry passengers,
+but passenger travel
+
+00:05:00.737 --> 00:05:02.570 align:middle line:84%
+was not where most of
+their money came from.
+
+00:05:02.570 --> 00:05:04.695 align:middle line:84%
+Most of their money came
+from transporting freight,
+
+00:05:04.695 --> 00:05:07.060 align:middle line:84%
+in particular,
+transporting grain.
+
+00:05:07.060 --> 00:05:11.800 align:middle line:84%
+Then, as now, this is where
+corn grows in the United States.
+
+00:05:11.800 --> 00:05:14.362 align:middle line:84%
+Corn and other grains tend
+to grow in the Midwest.
+
+00:05:14.362 --> 00:05:15.820 align:middle line:84%
+It's much cheaper
+to produce things
+
+00:05:15.820 --> 00:05:17.380 align:middle line:90%
+there than in New Hampshire.
+
+00:05:17.380 --> 00:05:21.110 align:middle line:84%
+So all the grain
+was grown out here.
+
+00:05:21.110 --> 00:05:23.410 align:middle line:84%
+It got to Chicago,
+and then you needed
+
+00:05:23.410 --> 00:05:25.630 align:middle line:84%
+to get it from Chicago
+to the East Coast, which
+
+00:05:25.630 --> 00:05:27.760 align:middle line:84%
+is where a lot of people
+lived in big cities
+
+00:05:27.760 --> 00:05:29.380 align:middle line:90%
+and didn't have farms.
+
+00:05:29.380 --> 00:05:32.170 align:middle line:84%
+And then in addition,
+a lot of the grain,
+
+00:05:32.170 --> 00:05:37.360 align:middle line:84%
+when it reached the East
+Coast, actually went to Europe.
+
+00:05:37.360 --> 00:05:40.400 align:middle line:84%
+So it would go by boat from
+the East Coast to Europe.
+
+00:05:40.400 --> 00:05:43.060 align:middle line:84%
+And because it was going
+from the boat to Europe,
+
+00:05:43.060 --> 00:05:46.300 align:middle line:84%
+in some sense, that equalized
+the prices at all the ports
+
+00:05:46.300 --> 00:05:49.780 align:middle line:84%
+on the East Coast, because
+basically the European demand
+
+00:05:49.780 --> 00:05:51.850 align:middle line:84%
+was big enough that
+roughly you didn't--
+
+00:05:51.850 --> 00:05:55.780 align:middle line:84%
+price getting to New York,
+Philadelphia, Baltimore
+
+00:05:55.780 --> 00:05:56.950 align:middle line:90%
+was all roughly the same.
+
+00:05:56.950 --> 00:05:59.475 align:middle line:90%
+
+
+00:05:59.475 --> 00:06:01.770 align:middle line:84%
+So anyway, cartel
+had three members.
+
+00:06:01.770 --> 00:06:02.613 align:middle line:90%
+What did they do?
+
+00:06:02.613 --> 00:06:05.030 align:middle line:84%
+So there have been a couple
+of failed cartels before that,
+
+00:06:05.030 --> 00:06:08.600 align:middle line:84%
+but cartels were still
+legal until 1887.
+
+00:06:08.600 --> 00:06:12.710 align:middle line:84%
+So what the cartels did is
+they hired the premier cartel
+
+00:06:12.710 --> 00:06:15.170 align:middle line:84%
+consultant of the
+day, Albert Fink.
+
+00:06:15.170 --> 00:06:18.630 align:middle line:90%
+Albert Fink met with them.
+
+00:06:18.630 --> 00:06:20.970 align:middle line:84%
+You know, these firms
+could have merged,
+
+00:06:20.970 --> 00:06:23.987 align:middle line:84%
+but there are many reasons
+why you may not want to merge.
+
+00:06:23.987 --> 00:06:25.570 align:middle line:84%
+Each one had their
+different railroad.
+
+00:06:25.570 --> 00:06:27.400 align:middle line:84%
+They wanted to do
+different things with it.
+
+00:06:27.400 --> 00:06:29.880 align:middle line:84%
+So the three firms continued
+to operate separately
+
+00:06:29.880 --> 00:06:32.490 align:middle line:84%
+and they just hired
+a cartel consultant
+
+00:06:32.490 --> 00:06:36.690 align:middle line:84%
+to arrange how their
+cartel was going to work.
+
+00:06:36.690 --> 00:06:38.557 align:middle line:84%
+What do we know about
+what Albert Fink did?
+
+00:06:38.557 --> 00:06:40.890 align:middle line:84%
+In some sense this was the
+secret to his business model,
+
+00:06:40.890 --> 00:06:43.110 align:middle line:84%
+so he didn't publish
+exactly what it was that he
+
+00:06:43.110 --> 00:06:45.600 align:middle line:90%
+did to maintain cartels.
+
+00:06:45.600 --> 00:06:47.730 align:middle line:84%
+One thing we know he did
+with the railroad cartel
+
+00:06:47.730 --> 00:06:51.355 align:middle line:84%
+is he had the option that
+observability was important,
+
+00:06:51.355 --> 00:06:53.730 align:middle line:84%
+and he had the observation
+that observability is actually
+
+00:06:53.730 --> 00:06:55.897 align:middle line:84%
+an easy thing to do in
+railroad because you can just
+
+00:06:55.897 --> 00:06:58.230 align:middle line:90%
+hire minimum wage employees.
+
+00:06:58.230 --> 00:07:00.370 align:middle line:84%
+Minimum wage employees
+were cheap in the 1880s.
+
+00:07:00.370 --> 00:07:02.120 align:middle line:84%
+You could just hire
+minimum wage employees
+
+00:07:02.120 --> 00:07:03.670 align:middle line:90%
+to count cars leaving Chicago.
+
+00:07:03.670 --> 00:07:06.210 align:middle line:84%
+And so you can just see,
+trains have New York Central
+
+00:07:06.210 --> 00:07:08.610 align:middle line:84%
+or Pennsylvania Railroad
+or Baltimore Ohio
+
+00:07:08.610 --> 00:07:10.590 align:middle line:90%
+painted on the outside of them.
+
+00:07:10.590 --> 00:07:13.500 align:middle line:84%
+You can just count how
+many carts full of grain
+
+00:07:13.500 --> 00:07:16.500 align:middle line:84%
+they have leaving the rail yard
+and you know the quantities
+
+00:07:16.500 --> 00:07:18.500 align:middle line:90%
+from all the firms precisely.
+
+00:07:18.500 --> 00:07:20.770 align:middle line:84%
+What you don't know is
+whether the firms are cheating
+
+00:07:20.770 --> 00:07:24.930 align:middle line:84%
+on their agreements and charging
+less than $0.30 per hundred
+
+00:07:24.930 --> 00:07:27.880 align:middle line:84%
+pounds or whatever they've
+all agreed should be the rate
+
+00:07:27.880 --> 00:07:30.110 align:middle line:84%
+for getting grain from
+Chicago to New York.
+
+00:07:30.110 --> 00:07:33.255 align:middle line:84%
+So it's a situation where
+price is unobservable
+
+00:07:33.255 --> 00:07:34.630 align:middle line:84%
+because you don't
+know if they've
+
+00:07:34.630 --> 00:07:37.270 align:middle line:84%
+cut secret deals with people to
+carry their grain to the East
+
+00:07:37.270 --> 00:07:38.750 align:middle line:90%
+Coast at a lower price.
+
+00:07:38.750 --> 00:07:43.840 align:middle line:84%
+Quantity is clearly observable
+because you can just count cars.
+
+00:07:43.840 --> 00:07:48.020 align:middle line:84%
+And those records that he has
+of his car counters survived,
+
+00:07:48.020 --> 00:07:52.090 align:middle line:84%
+and so that's part of the
+basis of Porter's paper.
+
+00:07:52.090 --> 00:07:52.720 align:middle line:90%
+OK.
+
+00:07:52.720 --> 00:07:58.450 align:middle line:84%
+One other detail is the 1880s
+was before a lot of global
+
+00:07:58.450 --> 00:07:59.120 align:middle line:90%
+warming.
+
+00:07:59.120 --> 00:08:04.450 align:middle line:84%
+So it was not 68 degrees
+in November in the 1880s.
+
+00:08:04.450 --> 00:08:08.650 align:middle line:84%
+In Newton, where I lived, there
+were lots of big ice harvesting
+
+00:08:08.650 --> 00:08:11.770 align:middle line:84%
+businesses where people
+needed ice boxes or whatever,
+
+00:08:11.770 --> 00:08:13.510 align:middle line:84%
+and they would, on
+the lakes in Newton,
+
+00:08:13.510 --> 00:08:16.480 align:middle line:84%
+they would carve big
+foot thick chunks of ice
+
+00:08:16.480 --> 00:08:18.490 align:middle line:90%
+and sell them in the winter.
+
+00:08:18.490 --> 00:08:21.580 align:middle line:84%
+Obviously that
+doesn't work anymore.
+
+00:08:21.580 --> 00:08:23.950 align:middle line:84%
+One thing that also
+didn't work then
+
+00:08:23.950 --> 00:08:26.530 align:middle line:84%
+was you could also get
+grain out of Chicago
+
+00:08:26.530 --> 00:08:31.000 align:middle line:84%
+by shipping it over the northern
+tip of Michigan down here
+
+00:08:31.000 --> 00:08:33.490 align:middle line:84%
+and then through
+canals connecting
+
+00:08:33.490 --> 00:08:36.610 align:middle line:84%
+the other great lakes out to
+the Saint Lawrence seaway.
+
+00:08:36.610 --> 00:08:42.010 align:middle line:84%
+This was the cheaper way to
+get grain out of Chicago.
+
+00:08:42.010 --> 00:08:44.410 align:middle line:84%
+There was a limited
+fleet of boats
+
+00:08:44.410 --> 00:08:46.280 align:middle line:84%
+that would pass through
+the Great Lakes,
+
+00:08:46.280 --> 00:08:48.940 align:middle line:84%
+and so in some sense, there's
+a fixed quantity that's
+
+00:08:48.940 --> 00:08:50.470 align:middle line:84%
+going to go through
+the Great Lakes
+
+00:08:50.470 --> 00:08:53.557 align:middle line:84%
+due to the capacity of the
+ships, but then that's fixed.
+
+00:08:53.557 --> 00:08:55.390 align:middle line:84%
+It's always going to
+undercut the railroads,
+
+00:08:55.390 --> 00:08:57.140 align:middle line:84%
+but it's just a
+limited quantity.
+
+00:08:57.140 --> 00:09:00.940 align:middle line:84%
+And then importantly for this
+paper, pre-global warming,
+
+00:09:00.940 --> 00:09:03.730 align:middle line:84%
+the Straits of Mackinaw were
+frozen for several months a year
+
+00:09:03.730 --> 00:09:05.840 align:middle line:84%
+and were impassable for
+several months a year.
+
+00:09:05.840 --> 00:09:08.350 align:middle line:84%
+So grains harvested in the
+fall, you want to get it out,
+
+00:09:08.350 --> 00:09:11.358 align:middle line:84%
+but then in the
+winter, it's months
+
+00:09:11.358 --> 00:09:13.150 align:middle line:84%
+in which the Straits
+of Mackinaw are closed
+
+00:09:13.150 --> 00:09:14.580 align:middle line:84%
+and you can't get
+it out by ship.
+
+00:09:14.580 --> 00:09:21.650 align:middle line:90%
+
+
+00:09:21.650 --> 00:09:25.300 align:middle line:84%
+Any questions on the
+basics of this situation?
+
+00:09:25.300 --> 00:09:31.550 align:middle line:84%
+So anyway, Porter's thought
+was that interested--
+
+00:09:31.550 --> 00:09:34.220 align:middle line:84%
+there's previous literature
+talking about price wars
+
+00:09:34.220 --> 00:09:37.940 align:middle line:84%
+in this industry and
+failed attempts to collude.
+
+00:09:37.940 --> 00:09:40.220 align:middle line:84%
+Porter's is the
+hypothesis that, no,
+
+00:09:40.220 --> 00:09:42.560 align:middle line:84%
+this wasn't an industry with
+failed attempts to collude.
+
+00:09:42.560 --> 00:09:44.810 align:middle line:84%
+These price wars that
+people were talking about
+
+00:09:44.810 --> 00:09:47.870 align:middle line:84%
+could have been signs that
+Fink had already figured out
+
+00:09:47.870 --> 00:09:50.060 align:middle line:84%
+the Green-Porter
+theory of collusion
+
+00:09:50.060 --> 00:09:52.910 align:middle line:84%
+under imperfect observability,
+and what we were observing
+
+00:09:52.910 --> 00:09:56.840 align:middle line:84%
+is the functioning of a
+Green-Porter style cartel.
+
+00:09:56.840 --> 00:10:01.730 align:middle line:84%
+That's what he takes
+out to investigate.
+
+00:10:01.730 --> 00:10:03.950 align:middle line:84%
+Starting point for
+his paper was then
+
+00:10:03.950 --> 00:10:07.190 align:middle line:84%
+thinking about what
+would we observe
+
+00:10:07.190 --> 00:10:09.440 align:middle line:84%
+if there was a functioning
+Green-Porter cartel
+
+00:10:09.440 --> 00:10:10.560 align:middle line:90%
+in this industry.
+
+00:10:10.560 --> 00:10:12.140 align:middle line:84%
+And so he starts
+with this assumption
+
+00:10:12.140 --> 00:10:16.550 align:middle line:84%
+that demand takes a log
+linear form, log of qt,
+
+00:10:16.550 --> 00:10:18.050 align:middle line:90%
+quantity demanded at--
+
+00:10:18.050 --> 00:10:22.760 align:middle line:84%
+and so these t's are going to
+be weeks in his in his paper.
+
+00:10:22.760 --> 00:10:25.820 align:middle line:84%
+Log of quantity in a
+week as a constant minus
+
+00:10:25.820 --> 00:10:29.640 align:middle line:84%
+alpha times the log of
+the price plus alpha 2
+
+00:10:29.640 --> 00:10:32.800 align:middle line:90%
+times the LAKES dummy plus u1t.
+
+00:10:32.800 --> 00:10:36.600 align:middle line:84%
+So this is a dummy for whether
+the Great Lakes are frozen,
+
+00:10:36.600 --> 00:10:40.260 align:middle line:84%
+which he takes as just an
+exogenous shift in demand.
+
+00:10:40.260 --> 00:10:41.250 align:middle line:90%
+OK.
+
+00:10:41.250 --> 00:10:44.670 align:middle line:84%
+Let me say that's a
+better way to do it in a--
+
+00:10:44.670 --> 00:10:46.980 align:middle line:84%
+it would be better to do that
+in a linear demand model.
+
+00:10:46.980 --> 00:10:50.430 align:middle line:84%
+In a linear demand model you
+would say there's some quantity,
+
+00:10:50.430 --> 00:10:53.730 align:middle line:84%
+like 3,000 tons a week that
+disappears when the Great Lakes
+
+00:10:53.730 --> 00:10:56.410 align:middle line:84%
+are open, and that
+we're subtracting.
+
+00:10:56.410 --> 00:11:00.580 align:middle line:84%
+Why we're doing it additively
+in a log model is less clear,
+
+00:11:00.580 --> 00:11:02.670 align:middle line:84%
+but anyway, that's
+what he what he's able
+
+00:11:02.670 --> 00:11:03.680 align:middle line:90%
+to do in the log model.
+
+00:11:03.680 --> 00:11:07.260 align:middle line:90%
+
+
+00:11:07.260 --> 00:11:10.530 align:middle line:84%
+And then he says, what's
+the cartel going to do?
+
+00:11:10.530 --> 00:11:12.720 align:middle line:84%
+I know that our
+basic markup formula
+
+00:11:12.720 --> 00:11:16.890 align:middle line:84%
+is price minus cost
+over price is minus
+
+00:11:16.890 --> 00:11:19.230 align:middle line:90%
+theta over the elasticity.
+
+00:11:19.230 --> 00:11:21.870 align:middle line:84%
+And he's going to suppose
+that a cartel is doing
+
+00:11:21.870 --> 00:11:24.340 align:middle line:90%
+like what we said cartels do.
+
+00:11:24.340 --> 00:11:25.870 align:middle line:84%
+They set high
+prices for a while.
+
+00:11:25.870 --> 00:11:28.050 align:middle line:84%
+They jump down, they set
+low prices, they go up
+
+00:11:28.050 --> 00:11:29.530 align:middle line:90%
+and they set high prices.
+
+00:11:29.530 --> 00:11:31.660 align:middle line:90%
+They do this.
+
+00:11:31.660 --> 00:11:33.650 align:middle line:84%
+And he has two
+different mark ups.
+
+00:11:33.650 --> 00:11:37.510 align:middle line:84%
+He has theta equals theta c in
+cooperative periods and theta
+
+00:11:37.510 --> 00:11:40.160 align:middle line:84%
+equals theta w in
+price war periods.
+
+00:11:40.160 --> 00:11:43.360 align:middle line:84%
+And you might think that if
+you're setting the monopoly
+
+00:11:43.360 --> 00:11:46.450 align:middle line:84%
+price in the high periods, you
+do price minus cost over price
+
+00:11:46.450 --> 00:11:49.400 align:middle line:84%
+equals one over the elasticity,
+so theta would be one.
+
+00:11:49.400 --> 00:11:52.450 align:middle line:84%
+And in the price war phase, if
+you have go to pricing at cost,
+
+00:11:52.450 --> 00:11:57.460 align:middle line:84%
+it's 0 over the elasticity
+so theta would be zero.
+
+00:11:57.460 --> 00:12:00.280 align:middle line:84%
+That's not exactly what
+an optimal cartel does,
+
+00:12:00.280 --> 00:12:03.150 align:middle line:84%
+though, because if you think
+about the first order condition,
+
+00:12:03.150 --> 00:12:06.190 align:middle line:84%
+d pi dp is equal to zero
+when you're setting prices
+
+00:12:06.190 --> 00:12:07.850 align:middle line:90%
+at the monopoly price.
+
+00:12:07.850 --> 00:12:12.340 align:middle line:84%
+And so because d pi dp is
+zero, cutting prices slightly
+
+00:12:12.340 --> 00:12:14.890 align:middle line:84%
+makes it easier
+to deter collusion
+
+00:12:14.890 --> 00:12:18.260 align:middle line:84%
+and has no first order effect
+on your per period profits.
+
+00:12:18.260 --> 00:12:19.930 align:middle line:84%
+So in an optimal
+Green-Porter cartel,
+
+00:12:19.930 --> 00:12:22.660 align:middle line:84%
+you always want theta
+somewhat less than one
+
+00:12:22.660 --> 00:12:25.330 align:middle line:84%
+because it just makes it
+easier to deter colluding
+
+00:12:25.330 --> 00:12:30.850 align:middle line:84%
+and doesn't do anything to
+your profits to first order.
+
+00:12:30.850 --> 00:12:35.180 align:middle line:84%
+And again, the theta equals
+theta w during price wars.
+
+00:12:35.180 --> 00:12:37.010 align:middle line:84%
+I said that simplest
+Green-Porter model
+
+00:12:37.010 --> 00:12:39.540 align:middle line:84%
+you would want theta equals
+zero, you just price at cost.
+
+00:12:39.540 --> 00:12:43.760 align:middle line:84%
+But a [INAUDIBLE] might note
+you could go to theta below cost
+
+00:12:43.760 --> 00:12:44.990 align:middle line:90%
+or you could--
+
+00:12:44.990 --> 00:12:47.695 align:middle line:84%
+maybe you don't go all
+the way to cost anyway.
+
+00:12:47.695 --> 00:12:49.148 align:middle line:90%
+But we think theta is going to--
+
+00:12:49.148 --> 00:12:50.940 align:middle line:84%
+this one may be a little
+bit less than one,
+
+00:12:50.940 --> 00:12:56.400 align:middle line:84%
+this one may be about zero
+would be the natural assumption.
+
+00:12:56.400 --> 00:12:58.290 align:middle line:84%
+And then he says,
+well, OK, let me--
+
+00:12:58.290 --> 00:12:59.190 align:middle line:90%
+I've got a demand.
+
+00:12:59.190 --> 00:13:01.850 align:middle line:90%
+I've assumed a demand curve.
+
+00:13:01.850 --> 00:13:05.460 align:middle line:84%
+Let me also assume a functional
+form for marginal costs.
+
+00:13:05.460 --> 00:13:07.730 align:middle line:90%
+He picks this one.
+
+00:13:07.730 --> 00:13:14.390 align:middle line:84%
+So marginal cost is a constant
+times quantity to the beta.
+
+00:13:14.390 --> 00:13:15.890 align:middle line:84%
+If there are
+increasing costs, you
+
+00:13:15.890 --> 00:13:18.530 align:middle line:84%
+think beta is going to be
+slightly bigger than one.
+
+00:13:18.530 --> 00:13:20.690 align:middle line:84%
+The more quantity we
+have to carry in a month,
+
+00:13:20.690 --> 00:13:22.800 align:middle line:90%
+the higher is our marginal cost.
+
+00:13:22.800 --> 00:13:25.100 align:middle line:84%
+So our quantity is being
+slightly higher than zero.
+
+00:13:25.100 --> 00:13:28.430 align:middle line:84%
+So beta equals zero would be
+constant marginal costs that
+
+00:13:28.430 --> 00:13:29.600 align:middle line:90%
+are independent of quantity.
+
+00:13:29.600 --> 00:13:32.150 align:middle line:84%
+Beta slightly greater
+than zero is marginal cost
+
+00:13:32.150 --> 00:13:34.160 align:middle line:90%
+increased with quantity.
+
+00:13:34.160 --> 00:13:37.880 align:middle line:84%
+And then a random
+shock in every period.
+
+00:13:37.880 --> 00:13:42.650 align:middle line:84%
+The random shock could reflect
+fuel costs, labor costs,
+
+00:13:42.650 --> 00:13:46.640 align:middle line:84%
+difficulty of getting-- your
+equipment not being in place
+
+00:13:46.640 --> 00:13:49.570 align:middle line:90%
+to carry a load, needing to--
+
+00:13:49.570 --> 00:13:50.817 align:middle line:90%
+whatever.
+
+00:13:50.817 --> 00:13:52.650 align:middle line:84%
+You may have different
+quality of equipment,
+
+00:13:52.650 --> 00:13:54.980 align:middle line:84%
+and so you have some weeks
+you have to go to cheap
+
+00:13:54.980 --> 00:13:59.230 align:middle line:84%
+to run equipment is available,
+some weeks it's not.
+
+00:13:59.230 --> 00:14:00.820 align:middle line:84%
+And so he says,
+what would happen
+
+00:14:00.820 --> 00:14:02.685 align:middle line:90%
+if we had those marginal costs?
+
+00:14:02.685 --> 00:14:04.060 align:middle line:84%
+Well, you would
+get this equation
+
+00:14:04.060 --> 00:14:08.790 align:middle line:84%
+price minus marginal cost
+over price equals this.
+
+00:14:08.790 --> 00:14:11.650 align:middle line:84%
+And so then you just solve
+that equation for price.
+
+00:14:11.650 --> 00:14:15.120 align:middle line:84%
+I put price over to this side
+and I get price times theta
+
+00:14:15.120 --> 00:14:16.720 align:middle line:90%
+over alpha 1.
+
+00:14:16.720 --> 00:14:21.880 align:middle line:84%
+So I have price times 1 minus
+theta over alpha 1 equals this,
+
+00:14:21.880 --> 00:14:24.900 align:middle line:84%
+and so I get price equals
+1 minus theta over alpha
+
+00:14:24.900 --> 00:14:25.835 align:middle line:90%
+1 times that.
+
+00:14:25.835 --> 00:14:29.950 align:middle line:90%
+
+
+00:14:29.950 --> 00:14:32.138 align:middle line:84%
+OK, so this is how a
+firm would price, again,
+
+00:14:32.138 --> 00:14:34.305 align:middle line:84%
+using different thetas in
+the two different periods.
+
+00:14:34.305 --> 00:14:42.050 align:middle line:90%
+
+
+00:14:42.050 --> 00:14:42.550 align:middle line:90%
+OK.
+
+00:14:42.550 --> 00:14:44.980 align:middle line:84%
+This may look like you've
+just got a big mess,
+
+00:14:44.980 --> 00:14:49.210 align:middle line:84%
+but then take logs of both
+sides, and what you get
+
+00:14:49.210 --> 00:14:52.560 align:middle line:90%
+is log of p on the left side.
+
+00:14:52.560 --> 00:14:56.070 align:middle line:84%
+The right side, I
+get some terms that--
+
+00:14:56.070 --> 00:14:59.310 align:middle line:84%
+let me just do this first
+for your inner price war.
+
+00:14:59.310 --> 00:15:01.320 align:middle line:90%
+So this is theta w.
+
+00:15:01.320 --> 00:15:08.490 align:middle line:84%
+I first get some terms that
+I would get these terms,
+
+00:15:08.490 --> 00:15:14.970 align:middle line:84%
+log gamma 0 minus log of 1
+minus theta over alpha 1,
+
+00:15:14.970 --> 00:15:17.543 align:middle line:84%
+and then I just
+get beta 1 log q.
+
+00:15:17.543 --> 00:15:22.040 align:middle line:90%
+
+
+00:15:22.040 --> 00:15:24.890 align:middle line:84%
+And then I get log
+of this is just u2.
+
+00:15:24.890 --> 00:15:32.010 align:middle line:90%
+
+
+00:15:32.010 --> 00:15:34.650 align:middle line:84%
+And so then what Porter
+says is that-- so this
+
+00:15:34.650 --> 00:15:38.730 align:middle line:84%
+is what I would get
+in a price war phase.
+
+00:15:38.730 --> 00:15:41.100 align:middle line:84%
+I would get that if
+you had a price war.
+
+00:15:41.100 --> 00:15:43.950 align:middle line:84%
+And then if you were in
+the cooperative phase,
+
+00:15:43.950 --> 00:15:52.050 align:middle line:84%
+I'd get log gamma 0 minus log
+1 minus theta c over alpha 1
+
+00:15:52.050 --> 00:15:57.810 align:middle line:90%
+plus beta 1 log q plus u2t.
+
+00:15:57.810 --> 00:16:00.790 align:middle line:84%
+That's what you'd get
+if you were cooperating.
+
+00:16:00.790 --> 00:16:03.790 align:middle line:84%
+And so what Porter notes is that
+this is just a linear demand
+
+00:16:03.790 --> 00:16:08.200 align:middle line:84%
+curve where log of pt
+would be a constant,
+
+00:16:08.200 --> 00:16:11.770 align:middle line:84%
+where the constant is this thing
+you get in the price war phase,
+
+00:16:11.770 --> 00:16:17.410 align:middle line:84%
+plus beta 1 log qt plus u2t,
+plus another constant times
+
+00:16:17.410 --> 00:16:20.350 align:middle line:84%
+an indicator for whether you're
+in the cooperative phase.
+
+00:16:20.350 --> 00:16:24.640 align:middle line:84%
+And the cooperative phase just
+shifts you from this to this
+
+00:16:24.640 --> 00:16:28.690 align:middle line:84%
+by adding log 1 minus
+theta w over alpha 1
+
+00:16:28.690 --> 00:16:33.140 align:middle line:84%
+and subtracting 1 minus
+log theta c over alpha 1.
+
+00:16:33.140 --> 00:16:39.360 align:middle line:84%
+So what he says is
+that if you had this--
+
+00:16:39.360 --> 00:16:40.630 align:middle line:90%
+again, two assumptions.
+
+00:16:40.630 --> 00:16:44.020 align:middle line:84%
+You have this log
+linear form for demand
+
+00:16:44.020 --> 00:16:48.190 align:middle line:84%
+and you have this particular
+form for marginal costs,
+
+00:16:48.190 --> 00:16:53.120 align:middle line:84%
+then this is the
+appropriate supply equation.
+
+00:16:53.120 --> 00:16:56.710 align:middle line:84%
+And it's going to
+also be linear.
+
+00:16:56.710 --> 00:16:58.180 align:middle line:84%
+And so then the
+neat thing he's got
+
+00:16:58.180 --> 00:17:01.000 align:middle line:84%
+is that basically this
+assumption of Green-Porter
+
+00:17:01.000 --> 00:17:06.369 align:middle line:84%
+or cartel plus log linear demand
+gives us just a simple two
+
+00:17:06.369 --> 00:17:08.800 align:middle line:90%
+by two supply demand system.
+
+00:17:08.800 --> 00:17:11.960 align:middle line:84%
+So demand is what
+he assumed it is.
+
+00:17:11.960 --> 00:17:14.800 align:middle line:84%
+Supply is what's
+derived like that.
+
+00:17:14.800 --> 00:17:19.480 align:middle line:84%
+And if you think about the
+way that system is working,
+
+00:17:19.480 --> 00:17:21.010 align:middle line:90%
+I think Tobias--
+
+00:17:21.010 --> 00:17:22.810 align:middle line:84%
+or you've seen
+before, you're trying
+
+00:17:22.810 --> 00:17:24.109 align:middle line:90%
+to estimate supply and demand.
+
+00:17:24.109 --> 00:17:25.099 align:middle line:90%
+You need an instrument.
+
+00:17:25.099 --> 00:17:27.948 align:middle line:84%
+You need a variable that's
+excluded from demand to estimate
+
+00:17:27.948 --> 00:17:30.490 align:middle line:84%
+the demand curve and you need
+a variable excluded from supply
+
+00:17:30.490 --> 00:17:32.070 align:middle line:90%
+to estimate the supply curve.
+
+00:17:32.070 --> 00:17:37.180 align:middle line:84%
+And so what he gets is that we
+have a supply demand system.
+
+00:17:37.180 --> 00:17:39.700 align:middle line:84%
+The indicator for whether
+we're in a cooperative phase
+
+00:17:39.700 --> 00:17:43.160 align:middle line:84%
+or a price war phase
+doesn't affect demand.
+
+00:17:43.160 --> 00:17:45.890 align:middle line:84%
+This is a very common
+thing to do in IO.
+
+00:17:45.890 --> 00:17:47.080 align:middle line:90%
+It is a great assumption.
+
+00:17:47.080 --> 00:17:50.770 align:middle line:84%
+You're looking for
+what affects demand
+
+00:17:50.770 --> 00:17:52.750 align:middle line:84%
+without affecting price,
+what affects pricing
+
+00:17:52.750 --> 00:17:55.780 align:middle line:84%
+without affecting
+demand, whether the firm
+
+00:17:55.780 --> 00:17:58.850 align:middle line:84%
+behavior determines their
+prices but it isn't directly
+
+00:17:58.850 --> 00:18:01.680 align:middle line:84%
+affecting demand, other than
+through the price change.
+
+00:18:01.680 --> 00:18:04.190 align:middle line:84%
+So if the firms are
+colluding or not colluding,
+
+00:18:04.190 --> 00:18:06.410 align:middle line:84%
+that affect shifts
+price, but that
+
+00:18:06.410 --> 00:18:08.430 align:middle line:84%
+doesn't have an independent
+effect on demand.
+
+00:18:08.430 --> 00:18:10.805 align:middle line:84%
+And then what does he have
+that has an independent effect
+
+00:18:10.805 --> 00:18:12.330 align:middle line:90%
+on demand but not on price?
+
+00:18:12.330 --> 00:18:14.370 align:middle line:90%
+The Great Lakes being frozen.
+
+00:18:14.370 --> 00:18:17.180 align:middle line:84%
+So if you take this view
+that the Great Lakes are just
+
+00:18:17.180 --> 00:18:19.160 align:middle line:84%
+pulling some amount
+of traffic out,
+
+00:18:19.160 --> 00:18:20.660 align:middle line:84%
+but then once they've
+pulled it out,
+
+00:18:20.660 --> 00:18:23.077 align:middle line:84%
+the remaining traffic is just
+the same residual demand you
+
+00:18:23.077 --> 00:18:26.780 align:middle line:84%
+would have been facing before,
+it's not affecting your--
+
+00:18:26.780 --> 00:18:29.140 align:middle line:84%
+in this model, it's not
+affecting your pricing.
+
+00:18:29.140 --> 00:18:31.800 align:middle line:90%
+
+
+00:18:31.800 --> 00:18:34.750 align:middle line:84%
+So anyway, we can use i as
+the instrument for price
+
+00:18:34.750 --> 00:18:36.420 align:middle line:84%
+in the demand equation,
+we can use lakes
+
+00:18:36.420 --> 00:18:39.300 align:middle line:84%
+as the instrument for quantity
+in the supply equation,
+
+00:18:39.300 --> 00:18:40.625 align:middle line:90%
+and estimate supply and demand.
+
+00:18:40.625 --> 00:18:47.920 align:middle line:90%
+
+
+00:18:47.920 --> 00:18:50.050 align:middle line:84%
+Actually, as I
+said, this argument
+
+00:18:50.050 --> 00:18:52.460 align:middle line:84%
+is better if you use
+linear demand curves.
+
+00:18:52.460 --> 00:18:56.350 align:middle line:84%
+So this week's problem set,
+it's a largely empirical problem
+
+00:18:56.350 --> 00:18:59.170 align:middle line:90%
+set if you haven't seen it yet.
+
+00:18:59.170 --> 00:19:02.410 align:middle line:84%
+I'm giving you the data
+from Porter's actual paper
+
+00:19:02.410 --> 00:19:04.210 align:middle line:84%
+and having you pretend
+you're Rob Porter
+
+00:19:04.210 --> 00:19:06.670 align:middle line:84%
+and you think a linear demand
+specification would be better
+
+00:19:06.670 --> 00:19:09.290 align:middle line:84%
+than a log linear
+demand specification,
+
+00:19:09.290 --> 00:19:11.170 align:middle line:84%
+because in the linear
+demand specification,
+
+00:19:11.170 --> 00:19:14.110 align:middle line:84%
+subtracting the LAKES thing
+is a better thing to do
+
+00:19:14.110 --> 00:19:17.770 align:middle line:84%
+and it's asking you to
+redo his paper had you
+
+00:19:17.770 --> 00:19:21.790 align:middle line:84%
+wanted to assume linear demand
+instead of the log demand.
+
+00:19:21.790 --> 00:19:25.730 align:middle line:84%
+Or at least discuss how you
+would estimate the model.
+
+00:19:25.730 --> 00:19:26.230 align:middle line:90%
+OK.
+
+00:19:26.230 --> 00:19:28.180 align:middle line:90%
+Anyway, so Porter's paper.
+
+00:19:28.180 --> 00:19:32.270 align:middle line:84%
+Again, big data set for 1880
+is a small data set for today.
+
+00:19:32.270 --> 00:19:36.670 align:middle line:90%
+It's 328 weekly observations.
+
+00:19:36.670 --> 00:19:39.250 align:middle line:84%
+What you've got in
+the data set here
+
+00:19:39.250 --> 00:19:43.370 align:middle line:84%
+is total shipments of grain for
+the week, the official price.
+
+00:19:43.370 --> 00:19:47.510 align:middle line:84%
+So Albert Fink himself
+announced what the price was.
+
+00:19:47.510 --> 00:19:50.470 align:middle line:84%
+So the price is $0.30
+per hundred pounds.
+
+00:19:50.470 --> 00:19:52.120 align:middle line:84%
+That was part of
+his responsibility
+
+00:19:52.120 --> 00:19:55.575 align:middle line:84%
+was just to tell the firms what
+price to charge every week.
+
+00:19:55.575 --> 00:19:58.270 align:middle line:90%
+
+
+00:19:58.270 --> 00:20:00.700 align:middle line:84%
+LAKES as a dummy equal
+to one if the Great Lakes
+
+00:20:00.700 --> 00:20:02.300 align:middle line:90%
+were open for shipping.
+
+00:20:02.300 --> 00:20:04.720 align:middle line:84%
+So someone recorded the
+dates at which these lakes
+
+00:20:04.720 --> 00:20:07.240 align:middle line:90%
+froze and unfroze every year.
+
+00:20:07.240 --> 00:20:12.490 align:middle line:84%
+And then when railroads are
+half the economy, there were--
+
+00:20:12.490 --> 00:20:14.240 align:middle line:84%
+if you read the Wall
+Street Journal--
+
+00:20:14.240 --> 00:20:16.240 align:middle line:84%
+I don't know if the Wall
+Street Journal existed,
+
+00:20:16.240 --> 00:20:18.460 align:middle line:84%
+but half of the articles
+would be on railroads
+
+00:20:18.460 --> 00:20:21.080 align:middle line:84%
+because they were half of
+the-- half of the economy.
+
+00:20:21.080 --> 00:20:23.800 align:middle line:84%
+And so there's plenty
+of newspapers--
+
+00:20:23.800 --> 00:20:28.040 align:middle line:84%
+there's actually a
+newspaper he uses called--
+
+00:20:28.040 --> 00:20:31.600 align:middle line:90%
+I think it's Railway Review.
+
+00:20:31.600 --> 00:20:34.180 align:middle line:84%
+So besides being daily
+newspapers on business,
+
+00:20:34.180 --> 00:20:37.220 align:middle line:84%
+there were daily newspapers
+on the railroad industry.
+
+00:20:37.220 --> 00:20:39.700 align:middle line:84%
+And so you could buy a newspaper
+called the Railway Review
+
+00:20:39.700 --> 00:20:42.460 align:middle line:90%
+and read today's railroad news.
+
+00:20:42.460 --> 00:20:45.873 align:middle line:84%
+Harvard Business School library
+has copies of Railway Review.
+
+00:20:45.873 --> 00:20:48.040 align:middle line:84%
+I don't know if you can get
+in there with an MIT ID,
+
+00:20:48.040 --> 00:20:48.710 align:middle line:90%
+I think not.
+
+00:20:48.710 --> 00:20:50.740 align:middle line:84%
+But anyway, when I was
+a graduate student,
+
+00:20:50.740 --> 00:20:53.890 align:middle line:84%
+I did go there at one point
+and look at the old railway
+
+00:20:53.890 --> 00:20:55.945 align:middle line:90%
+reviews there in Baker Library.
+
+00:20:55.945 --> 00:21:00.080 align:middle line:90%
+
+
+00:21:00.080 --> 00:21:04.180 align:middle line:84%
+Anyway, he recorded
+whether there were stories
+
+00:21:04.180 --> 00:21:06.070 align:middle line:84%
+in the Railway Review
+indicating that a price
+
+00:21:06.070 --> 00:21:07.630 align:middle line:84%
+war is occurring
+in the industry,
+
+00:21:07.630 --> 00:21:09.670 align:middle line:90%
+in the railroad industry.
+
+00:21:09.670 --> 00:21:13.300 align:middle line:84%
+And so if the newspaper had
+stories about price wars going
+
+00:21:13.300 --> 00:21:15.580 align:middle line:84%
+on in the railroad
+industry, then he
+
+00:21:15.580 --> 00:21:17.980 align:middle line:84%
+would report it as
+being one, otherwise
+
+00:21:17.980 --> 00:21:19.760 align:middle line:84%
+he would record
+it as being zero.
+
+00:21:19.760 --> 00:21:23.560 align:middle line:84%
+And so in some sense he used
+this as his cooperative phase
+
+00:21:23.560 --> 00:21:28.810 align:middle line:84%
+is no story in Railway
+Review about price war.
+
+00:21:28.810 --> 00:21:31.690 align:middle line:84%
+Price war phase is, Railway
+Review says price war going
+
+00:21:31.690 --> 00:21:34.920 align:middle line:90%
+on in the JEC cartel this week.
+
+00:21:34.920 --> 00:21:39.290 align:middle line:90%
+
+
+00:21:39.290 --> 00:21:43.490 align:middle line:84%
+So we get two ways to
+estimate this model.
+
+00:21:43.490 --> 00:21:46.910 align:middle line:84%
+One, the simplest
+one, is just assume
+
+00:21:46.910 --> 00:21:50.330 align:middle line:84%
+that i is observe-- the
+cooperation indicator's
+
+00:21:50.330 --> 00:21:52.490 align:middle line:84%
+observable and just
+use the PO variable
+
+00:21:52.490 --> 00:21:54.630 align:middle line:84%
+that he got from the
+newspaper to do this.
+
+00:21:54.630 --> 00:21:58.870 align:middle line:84%
+You then just have a standard
+simultaneous equation model.
+
+00:21:58.870 --> 00:22:01.330 align:middle line:84%
+The other approach
+that he uses is
+
+00:22:01.330 --> 00:22:05.290 align:middle line:90%
+to assume that It is unobserved.
+
+00:22:05.290 --> 00:22:09.280 align:middle line:84%
+So it's an unobserved random
+variable with some mean gamma,
+
+00:22:09.280 --> 00:22:11.530 align:middle line:84%
+which is to be
+estimated, and then you
+
+00:22:11.530 --> 00:22:16.000 align:middle line:84%
+have a simultaneous version of
+a switching regressions model.
+
+00:22:16.000 --> 00:22:18.550 align:middle line:84%
+Have switching regressions
+model entirely disappeared
+
+00:22:18.550 --> 00:22:21.730 align:middle line:90%
+from econometric sequence?
+
+00:22:21.730 --> 00:22:22.330 align:middle line:90%
+Yeah?
+
+00:22:22.330 --> 00:22:22.880 align:middle line:90%
+OK.
+
+00:22:22.880 --> 00:22:26.860 align:middle line:84%
+So OK, how does this switching
+regressions model work?
+
+00:22:26.860 --> 00:22:29.650 align:middle line:90%
+So suppose you have the--
+
+00:22:29.650 --> 00:22:36.430 align:middle line:84%
+obviously our
+standard linear model,
+
+00:22:36.430 --> 00:22:40.750 align:middle line:84%
+like y equals x beta plus
+epsilon, I put x here.
+
+00:22:40.750 --> 00:22:49.050 align:middle line:84%
+There's some relationship
+Like y equals x times beta.
+
+00:22:49.050 --> 00:22:52.570 align:middle line:84%
+And what you expect to see is
+a cloud of points like that.
+
+00:22:52.570 --> 00:22:53.070 align:middle line:90%
+OK?
+
+00:22:53.070 --> 00:22:55.530 align:middle line:84%
+So you've got y equals
+a function of x.
+
+00:22:55.530 --> 00:22:56.720 align:middle line:90%
+That's what you observe.
+
+00:22:56.720 --> 00:23:01.280 align:middle line:84%
+You can fit a line by
+OLS going through that.
+
+00:23:01.280 --> 00:23:02.990 align:middle line:90%
+We do that all the time.
+
+00:23:02.990 --> 00:23:04.490 align:middle line:90%
+Suppose you have the following.
+
+00:23:04.490 --> 00:23:07.590 align:middle line:84%
+Suppose there are two
+different relationships.
+
+00:23:07.590 --> 00:23:12.080 align:middle line:84%
+There's y equals x
+beta plus epsilon,
+
+00:23:12.080 --> 00:23:14.520 align:middle line:84%
+and there's also
+another relationship,
+
+00:23:14.520 --> 00:23:16.473 align:middle line:84%
+y equals x beta
+prime plus epsilon.
+
+00:23:16.473 --> 00:23:19.040 align:middle line:90%
+
+
+00:23:19.040 --> 00:23:24.560 align:middle line:84%
+And this happens with
+probability 1 minus gamma,
+
+00:23:24.560 --> 00:23:28.850 align:middle line:84%
+and this happens with
+probability gamma.
+
+00:23:28.850 --> 00:23:29.350 align:middle line:90%
+OK?
+
+00:23:29.350 --> 00:23:33.670 align:middle line:84%
+So suppose there are actually
+two different relationships.
+
+00:23:33.670 --> 00:23:37.167 align:middle line:84%
+For instance, if you were doing
+demand for ice cream on a beach,
+
+00:23:37.167 --> 00:23:38.750 align:middle line:84%
+there are two different
+relationships,
+
+00:23:38.750 --> 00:23:42.280 align:middle line:84%
+demand when it's rainy and
+demand when it's not rainy.
+
+00:23:42.280 --> 00:23:44.423 align:middle line:84%
+You may not have
+raininess, but you
+
+00:23:44.423 --> 00:23:46.090 align:middle line:84%
+know that there's
+going to be one demand
+
+00:23:46.090 --> 00:23:48.633 align:middle line:84%
+curve on rainy days, one
+demand curve on non rainy days,
+
+00:23:48.633 --> 00:23:50.050 align:middle line:84%
+and they're going
+to be different.
+
+00:23:50.050 --> 00:23:56.230 align:middle line:84%
+And it may be that this is the
+demand curve on the non-rainy
+
+00:23:56.230 --> 00:23:57.657 align:middle line:90%
+days as a function of price--
+
+00:23:57.657 --> 00:23:59.240 align:middle line:84%
+I guess the price
+should be positive--
+
+00:23:59.240 --> 00:24:00.910 align:middle line:84%
+and then on the sunny
+hot days, there's
+
+00:24:00.910 --> 00:24:06.400 align:middle line:84%
+some other relationship
+that looks like this.
+
+00:24:06.400 --> 00:24:09.060 align:middle line:84%
+and you might ask yourself,
+OK, suppose it is just--
+
+00:24:09.060 --> 00:24:11.590 align:middle line:84%
+suppose there's one x, but
+then there's also a constant,
+
+00:24:11.590 --> 00:24:13.320 align:middle line:84%
+and suppose that
+it really is just
+
+00:24:13.320 --> 00:24:16.410 align:middle line:84%
+this is the y equals x
+prime beta plus epsilon,
+
+00:24:16.410 --> 00:24:19.200 align:middle line:84%
+and the constant is higher
+on the sunny days and demand
+
+00:24:19.200 --> 00:24:20.500 align:middle line:90%
+looks like that.
+
+00:24:20.500 --> 00:24:21.000 align:middle line:90%
+OK.
+
+00:24:21.000 --> 00:24:24.920 align:middle line:84%
+Question is, can
+you estimate that?
+
+00:24:24.920 --> 00:24:25.850 align:middle line:90%
+OK?
+
+00:24:25.850 --> 00:24:28.520 align:middle line:84%
+First answer is without
+any additional assumptions
+
+00:24:28.520 --> 00:24:32.510 align:middle line:84%
+on-- if you just go with a
+standard expectation of epsilon
+
+00:24:32.510 --> 00:24:38.410 align:middle line:84%
+given x equals zero assumption,
+you can't estimate that.
+
+00:24:38.410 --> 00:24:40.060 align:middle line:84%
+And the reason
+you can't estimate
+
+00:24:40.060 --> 00:24:42.550 align:middle line:84%
+that is you might think,
+well, can't I just
+
+00:24:42.550 --> 00:24:46.450 align:middle line:84%
+draw two best fit lines and ask
+what combination of two lines
+
+00:24:46.450 --> 00:24:50.750 align:middle line:84%
+minimizes the sum of squared
+residuals from the closer line,
+
+00:24:50.750 --> 00:24:54.670 align:middle line:84%
+and isn't that an efficient
+estimator of this model?
+
+00:24:54.670 --> 00:24:58.750 align:middle line:84%
+But the problem is you
+can't tell this model apart
+
+00:24:58.750 --> 00:25:02.560 align:middle line:84%
+from a model where
+there's one line
+
+00:25:02.560 --> 00:25:06.100 align:middle line:84%
+and the epsilons have
+this distribution.
+
+00:25:06.100 --> 00:25:08.920 align:middle line:84%
+If you're only doing
+mean zero errors,
+
+00:25:08.920 --> 00:25:14.620 align:middle line:84%
+you can't tell two lines with
+this distribution of errors
+
+00:25:14.620 --> 00:25:19.570 align:middle line:84%
+apart from one line with
+this distribution of errors.
+
+00:25:19.570 --> 00:25:23.620 align:middle line:84%
+And so without some
+assumption beyond expectation
+
+00:25:23.620 --> 00:25:25.540 align:middle line:84%
+of epsilon given
+x equals zero, you
+
+00:25:25.540 --> 00:25:28.040 align:middle line:84%
+can't estimate the
+switching regressions model.
+
+00:25:28.040 --> 00:25:34.820 align:middle line:84%
+But if you're willing to go
+epsilon normal zero sigma
+
+00:25:34.820 --> 00:25:35.930 align:middle line:90%
+squared.
+
+00:25:35.930 --> 00:25:37.880 align:middle line:84%
+If you're willing to
+add that to your model
+
+00:25:37.880 --> 00:25:41.240 align:middle line:84%
+as an identifying assumption,
+if you're willing to add this,
+
+00:25:41.240 --> 00:25:43.790 align:middle line:84%
+then yeah, the simple intuition
+that I can estimate this one
+
+00:25:43.790 --> 00:25:47.630 align:middle line:84%
+by maximum likelihood and
+just saying what combination
+
+00:25:47.630 --> 00:25:50.330 align:middle line:90%
+of two lines and sigma.
+
+00:25:50.330 --> 00:25:55.900 align:middle line:84%
+So what beta, beta prime, sigma,
+and lambda best fit the data,
+
+00:25:55.900 --> 00:25:58.250 align:middle line:90%
+I can do that.
+
+00:25:58.250 --> 00:26:01.170 align:middle line:84%
+So you need functional forms to
+estimate switching regressions,
+
+00:26:01.170 --> 00:26:03.890 align:middle line:84%
+but if you're willing to
+impose functional forms,
+
+00:26:03.890 --> 00:26:07.205 align:middle line:84%
+then you can estimate this
+and you can recover the--
+
+00:26:07.205 --> 00:26:11.170 align:middle line:90%
+
+
+00:26:11.170 --> 00:26:18.330 align:middle line:84%
+you don't ex-post know which
+equation generated every data
+
+00:26:18.330 --> 00:26:18.830 align:middle line:90%
+point.
+
+00:26:18.830 --> 00:26:21.850 align:middle line:84%
+So there's a data
+point right here.
+
+00:26:21.850 --> 00:26:23.620 align:middle line:84%
+You don't know for
+sure whether it
+
+00:26:23.620 --> 00:26:25.510 align:middle line:84%
+was this line with
+an error of zero
+
+00:26:25.510 --> 00:26:28.670 align:middle line:84%
+or this line with a very
+huge positive error,
+
+00:26:28.670 --> 00:26:31.000 align:middle line:84%
+but you do get a
+Bayesian posterior
+
+00:26:31.000 --> 00:26:34.750 align:middle line:84%
+that, with high probability, it
+was this line that generated it.
+
+00:26:34.750 --> 00:26:39.190 align:middle line:84%
+So what you get is you get
+this model, and then ex-post,
+
+00:26:39.190 --> 00:26:43.420 align:middle line:84%
+you get a probabilistic Bayesian
+posterior on which state
+
+00:26:43.420 --> 00:26:45.460 align:middle line:90%
+generated every data point.
+
+00:26:45.460 --> 00:26:46.090 align:middle line:90%
+OK?
+
+00:26:46.090 --> 00:26:50.020 align:middle line:84%
+Anyway, so what Porter
+does is just basically
+
+00:26:50.020 --> 00:26:53.680 align:middle line:84%
+do the simultaneous equation
+version of a switching
+
+00:26:53.680 --> 00:26:54.980 align:middle line:90%
+regressions model.
+
+00:26:54.980 --> 00:26:56.620 align:middle line:84%
+And he says that
+we have these two
+
+00:26:56.620 --> 00:27:00.700 align:middle line:90%
+models that generated the data.
+
+00:27:00.700 --> 00:27:02.920 align:middle line:84%
+Every period is either
+generated by this
+
+00:27:02.920 --> 00:27:08.590 align:middle line:84%
+with I equals 0 or this with I
+equals 1, but I is unobserved.
+
+00:27:08.590 --> 00:27:13.150 align:middle line:84%
+And all I know is that
+there's probability--
+
+00:27:13.150 --> 00:27:21.110 align:middle line:84%
+there's some probability
+lambda that I equals 1
+
+00:27:21.110 --> 00:27:22.740 align:middle line:90%
+or that It equals 1.
+
+00:27:22.740 --> 00:27:24.860 align:middle line:84%
+But I'm going to treat
+It as an unobservable
+
+00:27:24.860 --> 00:27:29.030 align:middle line:84%
+and fit the data by
+a combination of two
+
+00:27:29.030 --> 00:27:32.630 align:middle line:84%
+simultaneous equation systems,
+one simultaneous equation system
+
+00:27:32.630 --> 00:27:34.730 align:middle line:84%
+with I equals zero, one
+simultaneous equation
+
+00:27:34.730 --> 00:27:36.240 align:middle line:90%
+system with I equals one.
+
+00:27:36.240 --> 00:27:38.090 align:middle line:90%
+And in every period explain--
+
+00:27:38.090 --> 00:27:42.170 align:middle line:84%
+again, it's every period
+you get a ptqt pair,
+
+00:27:42.170 --> 00:27:45.230 align:middle line:84%
+you just ask which model
+best explains ptqt,
+
+00:27:45.230 --> 00:27:47.760 align:middle line:84%
+and is it the model I
+equals zero or I equals one,
+
+00:27:47.760 --> 00:27:50.400 align:middle line:84%
+but I'm going to do this
+by maximum likelihood.
+
+00:27:50.400 --> 00:27:53.380 align:middle line:90%
+
+
+00:27:53.380 --> 00:27:55.780 align:middle line:84%
+I think that's, in some sense,
+the preferred estimation
+
+00:27:55.780 --> 00:27:59.080 align:middle line:84%
+in his model is to say that I
+don't want to trust the Railway
+
+00:27:59.080 --> 00:28:01.120 align:middle line:84%
+Review data and I'm
+going to do this
+
+00:28:01.120 --> 00:28:04.095 align:middle line:84%
+with the unobserved It's and
+say what fits the data better.
+
+00:28:04.095 --> 00:28:08.660 align:middle line:90%
+
+
+00:28:08.660 --> 00:28:14.870 align:middle line:84%
+I think this idea of
+explicit unobservables
+
+00:28:14.870 --> 00:28:16.820 align:middle line:84%
+and putting the
+unobservables in your model
+
+00:28:16.820 --> 00:28:20.930 align:middle line:84%
+and making some assumption about
+the random process they follow,
+
+00:28:20.930 --> 00:28:21.650 align:middle line:90%
+huge.
+
+00:28:21.650 --> 00:28:23.120 align:middle line:84%
+This has also been
+something that's
+
+00:28:23.120 --> 00:28:25.910 align:middle line:84%
+done all over the
+place in IO these days
+
+00:28:25.910 --> 00:28:28.460 align:middle line:84%
+of taking an unobservable,
+putting it in there,
+
+00:28:28.460 --> 00:28:30.710 align:middle line:84%
+modeling the unobservable,
+and then seeing what you
+
+00:28:30.710 --> 00:28:35.130 align:middle line:90%
+can do with that unobservable.
+
+00:28:35.130 --> 00:28:35.670 align:middle line:90%
+OK.
+
+00:28:35.670 --> 00:28:37.445 align:middle line:90%
+What do his estimates look like?
+
+00:28:37.445 --> 00:28:40.430 align:middle line:90%
+
+
+00:28:40.430 --> 00:28:44.810 align:middle line:84%
+The first thing
+is that prices are
+
+00:28:44.810 --> 00:28:47.690 align:middle line:84%
+dramatically higher in
+the cooperative phase
+
+00:28:47.690 --> 00:28:49.500 align:middle line:90%
+than the non-cooperative phase.
+
+00:28:49.500 --> 00:28:57.170 align:middle line:84%
+If you use the PO dummy, prices
+are e to the 0.38 times as high
+
+00:28:57.170 --> 00:29:00.320 align:middle line:84%
+when you are in the
+cooperative phase.
+
+00:29:00.320 --> 00:29:05.810 align:middle line:84%
+When you use the PN dummy,
+prices are e to the 0.545 times
+
+00:29:05.810 --> 00:29:07.220 align:middle line:90%
+as high.
+
+00:29:07.220 --> 00:29:10.200 align:middle line:84%
+So what is e to the 0.545,
+like 80% or something?
+
+00:29:10.200 --> 00:29:12.200 align:middle line:90%
+So prices are much, much higher.
+
+00:29:12.200 --> 00:29:14.090 align:middle line:90%
+Here's a simple table.
+
+00:29:14.090 --> 00:29:16.760 align:middle line:84%
+Again, we don't know
+PN, but we've got
+
+00:29:16.760 --> 00:29:19.640 align:middle line:90%
+PN star, which is what's our--
+
+00:29:19.640 --> 00:29:21.860 align:middle line:84%
+classify them ex-post
+based on which
+
+00:29:21.860 --> 00:29:23.750 align:middle line:84%
+do I think it is after
+seeing the price.
+
+00:29:23.750 --> 00:29:27.800 align:middle line:84%
+And it's like the average price
+is 17in in the cooperative
+
+00:29:27.800 --> 00:29:31.090 align:middle line:84%
+phase, 28 in the
+non-cooperative phase.
+
+00:29:31.090 --> 00:29:31.590 align:middle line:90%
+Sorry.
+
+00:29:31.590 --> 00:29:34.580 align:middle line:84%
+28 in the cooperative,
+16 in the price war.
+
+00:29:34.580 --> 00:29:37.470 align:middle line:84%
+So that's roughly the
+magnitude of how much collusion
+
+00:29:37.470 --> 00:29:38.323 align:middle line:90%
+is affecting prices.
+
+00:29:38.323 --> 00:29:41.370 align:middle line:90%
+
+
+00:29:41.370 --> 00:29:43.890 align:middle line:84%
+The model with the
+switching regressions,
+
+00:29:43.890 --> 00:29:47.460 align:middle line:84%
+assuming that the
+PO is misreported,
+
+00:29:47.460 --> 00:29:50.140 align:middle line:84%
+fits dramatically better
+than the one using PO.
+
+00:29:50.140 --> 00:29:53.610 align:middle line:84%
+The r squared goes
+from 0.32 to 0.86.
+
+00:29:53.610 --> 00:29:56.940 align:middle line:84%
+So it looks like the model with
+the unobserved cooperative phase
+
+00:29:56.940 --> 00:30:00.240 align:middle line:90%
+is really important.
+
+00:30:00.240 --> 00:30:02.940 align:middle line:84%
+The model tells you
+what percentage of weeks
+
+00:30:02.940 --> 00:30:07.140 align:middle line:84%
+are in the price war phase,
+and it says that about 28%
+
+00:30:07.140 --> 00:30:11.410 align:middle line:84%
+of the weeks are in the
+price war phase in the data.
+
+00:30:11.410 --> 00:30:13.720 align:middle line:84%
+And if you just look
+at the raw data,
+
+00:30:13.720 --> 00:30:17.120 align:middle line:84%
+I guess the beginning
+of the first price war,
+
+00:30:17.120 --> 00:30:21.970 align:middle line:84%
+you see prices going on
+this at $0.40, 36, 35,
+
+00:30:21.970 --> 00:30:24.550 align:middle line:84%
+$0.30 per hundred
+pounds, 35, 35.
+
+00:30:24.550 --> 00:30:26.740 align:middle line:90%
+And then it drops to 16.
+
+00:30:26.740 --> 00:30:29.950 align:middle line:84%
+Again, this is not
+some cost shock
+
+00:30:29.950 --> 00:30:32.350 align:middle line:84%
+that you suddenly became
+able to transport grain
+
+00:30:32.350 --> 00:30:34.930 align:middle line:84%
+from Chicago to East
+Coast at half the price as
+
+00:30:34.930 --> 00:30:36.290 align:middle line:90%
+of one week ago.
+
+00:30:36.290 --> 00:30:38.710 align:middle line:84%
+It does look like
+just dramatic evidence
+
+00:30:38.710 --> 00:30:40.080 align:middle line:90%
+that this is a price war.
+
+00:30:40.080 --> 00:30:42.890 align:middle line:84%
+They price really
+low for a long time.
+
+00:30:42.890 --> 00:30:45.190 align:middle line:84%
+We do think they would be
+losing money getting grain
+
+00:30:45.190 --> 00:30:47.200 align:middle line:84%
+to the US, the East
+Coast at $0.12,
+
+00:30:47.200 --> 00:30:48.966 align:middle line:84%
+and then they jump
+back up afterwards.
+
+00:30:48.966 --> 00:30:55.940 align:middle line:90%
+
+
+00:30:55.940 --> 00:30:58.170 align:middle line:84%
+I didn't put that
+other key test in.
+
+00:30:58.170 --> 00:31:00.800 align:middle line:84%
+Obviously, the key test he
+asks of the Green-Porter model
+
+00:31:00.800 --> 00:31:03.770 align:middle line:84%
+is, does a model with
+two supply curves
+
+00:31:03.770 --> 00:31:06.360 align:middle line:84%
+fit better than a model
+with one supply curve?
+
+00:31:06.360 --> 00:31:11.160 align:middle line:84%
+The static Nash story here
+would be that we have this model
+
+00:31:11.160 --> 00:31:15.480 align:middle line:84%
+and there is no I.
+The I is just always--
+
+00:31:15.480 --> 00:31:18.310 align:middle line:84%
+they're just always behaving
+the same in every period.
+
+00:31:18.310 --> 00:31:21.390 align:middle line:84%
+And so if you test these two
+different behaviors versus one
+
+00:31:21.390 --> 00:31:23.610 align:middle line:84%
+behavior model, I
+guess you can think
+
+00:31:23.610 --> 00:31:32.060 align:middle line:84%
+of that as like testing lambda
+is not in either zero or one.
+
+00:31:32.060 --> 00:31:33.890 align:middle line:84%
+Lambda equals zero
+or lambda equals
+
+00:31:33.890 --> 00:31:37.380 align:middle line:84%
+one is the model with one
+regime instead of two.
+
+00:31:37.380 --> 00:31:40.100 align:middle line:84%
+And can you tell whether
+lambda is significantly
+
+00:31:40.100 --> 00:31:41.850 align:middle line:90%
+different from zero or one?
+
+00:31:41.850 --> 00:31:45.150 align:middle line:90%
+
+
+00:31:45.150 --> 00:31:48.180 align:middle line:84%
+I don't have an estimate
+of lambda in here, do I?
+
+00:31:48.180 --> 00:31:52.350 align:middle line:84%
+OK, anyway-- He provides tests
+in the paper and saying it's
+
+00:31:52.350 --> 00:31:55.260 align:middle line:84%
+tremendously significant
+that two supply curves fit
+
+00:31:55.260 --> 00:31:57.420 align:middle line:90%
+better than one supply curve.
+
+00:31:57.420 --> 00:31:59.370 align:middle line:90%
+You know, it's not surprising.
+
+00:31:59.370 --> 00:32:02.010 align:middle line:84%
+It's things like this are really
+hard to fit with one supply
+
+00:32:02.010 --> 00:32:05.040 align:middle line:84%
+curve, whereas with
+two supply curves,
+
+00:32:05.040 --> 00:32:07.850 align:middle line:90%
+you fit that much better.
+
+00:32:07.850 --> 00:32:08.350 align:middle line:90%
+OK.
+
+00:32:08.350 --> 00:32:12.020 align:middle line:84%
+So next I get to go to
+one of my own papers.
+
+00:32:12.020 --> 00:32:16.650 align:middle line:84%
+Still including this,
+just sentimental reasons.
+
+00:32:16.650 --> 00:32:19.650 align:middle line:84%
+So this was actually when I
+was a graduate student here.
+
+00:32:19.650 --> 00:32:21.190 align:middle line:90%
+There was no second year paper.
+
+00:32:21.190 --> 00:32:26.160 align:middle line:84%
+So 14.192 was not invented
+until the year 2019 or whatever.
+
+00:32:26.160 --> 00:32:29.760 align:middle line:84%
+What did exist before then was
+there was both a history paper
+
+00:32:29.760 --> 00:32:31.830 align:middle line:90%
+and an econometrics paper.
+
+00:32:31.830 --> 00:32:35.810 align:middle line:84%
+And one of the great
+bonuses was for--
+
+00:32:35.810 --> 00:32:38.280 align:middle line:84%
+what everyone tried
+to think of as getting
+
+00:32:38.280 --> 00:32:40.697 align:middle line:84%
+through the program with the
+least amount of work possible
+
+00:32:40.697 --> 00:32:43.200 align:middle line:84%
+is could I write a history paper
+that's also my econometrics
+
+00:32:43.200 --> 00:32:43.720 align:middle line:90%
+paper?
+
+00:32:43.720 --> 00:32:45.275 align:middle line:90%
+Because you then got to--
+
+00:32:45.275 --> 00:32:46.650 align:middle line:84%
+there was no rule
+against handing
+
+00:32:46.650 --> 00:32:47.940 align:middle line:84%
+in the same paper for
+your history paper
+
+00:32:47.940 --> 00:32:49.480 align:middle line:90%
+and your econometrics paper.
+
+00:32:49.480 --> 00:32:53.550 align:middle line:84%
+So as a student in
+this program, I--
+
+00:32:53.550 --> 00:32:55.810 align:middle line:84%
+oh, this railroad cartel
+data is from 1880.
+
+00:32:55.810 --> 00:32:57.700 align:middle line:84%
+That qualifies as making
+it a history paper.
+
+00:32:57.700 --> 00:32:59.670 align:middle line:84%
+So anyway, so this
+was my history paper
+
+00:32:59.670 --> 00:33:01.620 align:middle line:90%
+and my econometrics paper.
+
+00:33:01.620 --> 00:33:03.900 align:middle line:90%
+But anyway, and I guess I also--
+
+00:33:03.900 --> 00:33:06.330 align:middle line:84%
+just as combinations
+of you don't
+
+00:33:06.330 --> 00:33:09.400 align:middle line:84%
+have to be all that creative
+and original to write papers.
+
+00:33:09.400 --> 00:33:12.570 align:middle line:84%
+And a lot of the time it works
+to just make small improvements
+
+00:33:12.570 --> 00:33:15.982 align:middle line:84%
+on the existing
+literature and just--
+
+00:33:15.982 --> 00:33:18.440 align:middle line:84%
+you start with something that's
+in the existing literature.
+
+00:33:18.440 --> 00:33:19.580 align:middle line:84%
+You make a small
+improvement of it.
+
+00:33:19.580 --> 00:33:21.195 align:middle line:90%
+You know you're at the frontier.
+
+00:33:21.195 --> 00:33:22.570 align:middle line:84%
+Whereas if you
+start from scratch
+
+00:33:22.570 --> 00:33:23.740 align:middle line:84%
+and do something
+really creative,
+
+00:33:23.740 --> 00:33:25.532 align:middle line:84%
+you can end up with a
+worse version of what
+
+00:33:25.532 --> 00:33:26.720 align:middle line:90%
+someone else did before.
+
+00:33:26.720 --> 00:33:29.530 align:middle line:84%
+And so anyway, so this
+was my paper looking
+
+00:33:29.530 --> 00:33:33.730 align:middle line:84%
+at-- thinking about what more
+could I say about Green-Porter.
+
+00:33:33.730 --> 00:33:39.130 align:middle line:84%
+And the motivating idea
+here was that Porter
+
+00:33:39.130 --> 00:33:40.690 align:middle line:84%
+shows that there
+are two regimes,
+
+00:33:40.690 --> 00:33:44.330 align:middle line:84%
+and two regimes explain
+the data better than one.
+
+00:33:44.330 --> 00:33:46.990 align:middle line:84%
+But I think the content
+of the Green-Porter theory
+
+00:33:46.990 --> 00:33:50.990 align:middle line:84%
+is not just that,
+but price wars occur
+
+00:33:50.990 --> 00:33:53.690 align:middle line:84%
+when there are suspicious
+demand realizations and demand
+
+00:33:53.690 --> 00:33:56.300 align:middle line:84%
+realizations that look like
+someone cheated on the cartel
+
+00:33:56.300 --> 00:34:00.295 align:middle line:84%
+agreement, and then when there
+is a demand realization that
+
+00:34:00.295 --> 00:34:02.420 align:middle line:84%
+looks like someone cheated
+on the cartel agreement,
+
+00:34:02.420 --> 00:34:05.062 align:middle line:84%
+then you should be more
+likely to trigger a price war.
+
+00:34:05.062 --> 00:34:06.770 align:middle line:84%
+And what we think
+these price wars should
+
+00:34:06.770 --> 00:34:09.540 align:middle line:84%
+look like is you're
+pricing high, you go down,
+
+00:34:09.540 --> 00:34:11.540 align:middle line:84%
+you have a price war for
+some number of periods,
+
+00:34:11.540 --> 00:34:14.010 align:middle line:84%
+and then you go back
+to pricing high again.
+
+00:34:14.010 --> 00:34:16.010 align:middle line:84%
+So it's both the price
+wars are supposed
+
+00:34:16.010 --> 00:34:18.110 align:middle line:84%
+to be continuous
+periods and they're
+
+00:34:18.110 --> 00:34:21.020 align:middle line:84%
+supposed to come after
+some demand pattern that
+
+00:34:21.020 --> 00:34:22.770 align:middle line:84%
+looks like someone
+might have cheated.
+
+00:34:22.770 --> 00:34:25.139 align:middle line:84%
+And so that's what I'm
+trying to test here.
+
+00:34:25.139 --> 00:34:31.070 align:middle line:84%
+So basic exercise is just
+re-estimate Porter's model.
+
+00:34:31.070 --> 00:34:36.350 align:middle line:84%
+I do make a few changes which
+reflect this being the 1990s
+
+00:34:36.350 --> 00:34:40.100 align:middle line:84%
+instead of the 1980s and
+computers were better.
+
+00:34:40.100 --> 00:34:45.409 align:middle line:84%
+One is paper allows for
+serial correlation in demand.
+
+00:34:45.409 --> 00:34:48.260 align:middle line:84%
+The demand in Porter is
+tremendously serially correlated
+
+00:34:48.260 --> 00:34:53.340 align:middle line:84%
+if you look at it, so he didn't
+allow serial correlation.
+
+00:34:53.340 --> 00:34:56.340 align:middle line:84%
+Supply is just like
+in Porter, with there
+
+00:34:56.340 --> 00:34:59.090 align:middle line:90%
+being an unobservable It.
+
+00:34:59.090 --> 00:35:02.210 align:middle line:84%
+But then the main
+economic idea is
+
+00:35:02.210 --> 00:35:05.270 align:middle line:84%
+to let the regime transitions
+follow a first order Markov
+
+00:35:05.270 --> 00:35:09.830 align:middle line:84%
+process, where the probability
+of cooperation at t plus 1,
+
+00:35:09.830 --> 00:35:11.780 align:middle line:84%
+conditional on whether
+you are cooperating
+
+00:35:11.780 --> 00:35:15.200 align:middle line:84%
+at t and some other
+observable variables wt,
+
+00:35:15.200 --> 00:35:20.520 align:middle line:84%
+is going to be e to the gamma wt
+over 1 plus e to the gamma wt.
+
+00:35:20.520 --> 00:35:23.970 align:middle line:84%
+So these variables wt
+are going to affect
+
+00:35:23.970 --> 00:35:26.010 align:middle line:84%
+the probability of
+the Markov transitions
+
+00:35:26.010 --> 00:35:29.280 align:middle line:84%
+from cooperating to price
+war or from price war
+
+00:35:29.280 --> 00:35:30.456 align:middle line:90%
+back to cooperation.
+
+00:35:30.456 --> 00:35:33.480 align:middle line:90%
+
+
+00:35:33.480 --> 00:35:36.190 align:middle line:84%
+And what are the
+variables I put in here?
+
+00:35:36.190 --> 00:35:38.370 align:middle line:84%
+So obviously first
+version to estimate
+
+00:35:38.370 --> 00:35:40.090 align:middle line:90%
+is just let w be constant.
+
+00:35:40.090 --> 00:35:44.040 align:middle line:84%
+This is Porter's model
+where the regimes are i.i.d.
+
+00:35:44.040 --> 00:35:48.600 align:middle line:84%
+If there is nothing in
+w other than a constant,
+
+00:35:48.600 --> 00:35:51.980 align:middle line:90%
+this is Porter's model.
+
+00:35:51.980 --> 00:35:54.780 align:middle line:90%
+If you put It in here--
+
+00:35:54.780 --> 00:35:58.820 align:middle line:84%
+so you get the cooperation
+indicator affect--
+
+00:35:58.820 --> 00:36:01.370 align:middle line:84%
+you let It affect the
+probability that It plus 1
+
+00:36:01.370 --> 00:36:02.340 align:middle line:90%
+is one.
+
+00:36:02.340 --> 00:36:05.600 align:middle line:84%
+Then you have first order
+Markov structure on price wars,
+
+00:36:05.600 --> 00:36:09.945 align:middle line:84%
+and you can see whether
+price wars are continuous.
+
+00:36:09.945 --> 00:36:12.320 align:middle line:84%
+Because if price wars are
+continuous periods, what you'll
+
+00:36:12.320 --> 00:36:14.420 align:middle line:84%
+see is if you're
+cooperating, there's
+
+00:36:14.420 --> 00:36:17.132 align:middle line:84%
+a 90% chance you're
+going to cooperate.
+
+00:36:17.132 --> 00:36:18.590 align:middle line:84%
+Once you're in a
+price war, there's
+
+00:36:18.590 --> 00:36:21.980 align:middle line:84%
+a 90% chance you're going
+to be in a price war,
+
+00:36:21.980 --> 00:36:26.840 align:middle line:84%
+so the price wars become
+long, continuous periods.
+
+00:36:26.840 --> 00:36:29.870 align:middle line:84%
+And then the primary
+interest in specifications
+
+00:36:29.870 --> 00:36:32.690 align:middle line:84%
+that also include variables
+that look like suspicious demand
+
+00:36:32.690 --> 00:36:34.860 align:middle line:90%
+patterns.
+
+00:36:34.860 --> 00:36:37.120 align:middle line:90%
+What is it that Fink was doing?
+
+00:36:37.120 --> 00:36:39.040 align:middle line:84%
+Well, Fink could have
+done many, many things.
+
+00:36:39.040 --> 00:36:40.498 align:middle line:84%
+There are lots of
+things that could
+
+00:36:40.498 --> 00:36:42.210 align:middle line:84%
+make you think that
+somebody was cheating
+
+00:36:42.210 --> 00:36:45.480 align:middle line:84%
+or could make the firms
+think someone was cheating.
+
+00:36:45.480 --> 00:36:49.080 align:middle line:84%
+One would be whether any firm
+had an unusually large market
+
+00:36:49.080 --> 00:36:50.190 align:middle line:90%
+share.
+
+00:36:50.190 --> 00:36:52.920 align:middle line:84%
+This isn't in the Green-Porter
+model, but in the JEC,
+
+00:36:52.920 --> 00:36:56.380 align:middle line:84%
+there were guys counting cars
+and counting cars by railroad.
+
+00:36:56.380 --> 00:36:58.800 align:middle line:84%
+And so if you observe the
+Pennsylvania Railroad has
+
+00:36:58.800 --> 00:37:01.500 align:middle line:84%
+50% more demand than
+everybody else this week,
+
+00:37:01.500 --> 00:37:04.085 align:middle line:84%
+it could be that all the
+grain shippers were actually
+
+00:37:04.085 --> 00:37:05.460 align:middle line:84%
+trying to get it
+to Philadelphia,
+
+00:37:05.460 --> 00:37:08.900 align:middle line:84%
+but it could be the Pennsylvania
+railroad was cheating.
+
+00:37:08.900 --> 00:37:11.590 align:middle line:84%
+So if one firm had an
+unusually large market share,
+
+00:37:11.590 --> 00:37:14.920 align:middle line:84%
+that might make you
+trigger a price war.
+
+00:37:14.920 --> 00:37:17.920 align:middle line:84%
+Another thing would be if any
+firm had an unusually small
+
+00:37:17.920 --> 00:37:19.602 align:middle line:90%
+market share.
+
+00:37:19.602 --> 00:37:21.310 align:middle line:84%
+Firms could worry that
+the other two guys
+
+00:37:21.310 --> 00:37:22.970 align:middle line:90%
+are both cheating against me.
+
+00:37:22.970 --> 00:37:27.790 align:middle line:84%
+And so if I see that instead
+of being 30/30/30 or 30/30/40
+
+00:37:27.790 --> 00:37:33.817 align:middle line:84%
+or whatever, it's 40/50/10, the
+firm that's getting the 10 could
+
+00:37:33.817 --> 00:37:36.150 align:middle line:84%
+worry that the other two are
+both cheating on the cartel
+
+00:37:36.150 --> 00:37:36.855 align:middle line:90%
+agreement.
+
+00:37:36.855 --> 00:37:38.730 align:middle line:84%
+And so you might want
+to have a system where,
+
+00:37:38.730 --> 00:37:41.250 align:middle line:84%
+if anybody has an unusually
+small market share,
+
+00:37:41.250 --> 00:37:43.762 align:middle line:90%
+then you start a price war.
+
+00:37:43.762 --> 00:37:46.220 align:middle line:84%
+Another thing you could also
+do is just if aggregate demand
+
+00:37:46.220 --> 00:37:48.140 align:middle line:90%
+is unusually high.
+
+00:37:48.140 --> 00:37:51.270 align:middle line:84%
+This would be more like the
+Green-Porter textbook model,
+
+00:37:51.270 --> 00:37:55.070 align:middle line:84%
+but if suddenly aggregate
+demand is really high,
+
+00:37:55.070 --> 00:37:57.398 align:middle line:84%
+then you think that someone
+out there must be cheating,
+
+00:37:57.398 --> 00:37:59.940 align:middle line:84%
+therefore we're going to be more
+likely to start a price war.
+
+00:37:59.940 --> 00:38:03.200 align:middle line:84%
+And obviously you could do
+many combinations of these.
+
+00:38:03.200 --> 00:38:07.520 align:middle line:84%
+What I do in the paper is
+just put in several of them
+
+00:38:07.520 --> 00:38:10.520 align:middle line:90%
+and see what's there.
+
+00:38:10.520 --> 00:38:14.790 align:middle line:84%
+First is the standard
+model without the w's.
+
+00:38:14.790 --> 00:38:18.440 align:middle line:84%
+So standard model
+without the w's, there's
+
+00:38:18.440 --> 00:38:20.036 align:middle line:90%
+strong serial correlation.
+
+00:38:20.036 --> 00:38:22.560 align:middle line:90%
+
+
+00:38:22.560 --> 00:38:29.290 align:middle line:84%
+The effect of collusion, or the
+cooperative phase, on pricing
+
+00:38:29.290 --> 00:38:31.210 align:middle line:84%
+is even larger than
+Porter by a little bit.
+
+00:38:31.210 --> 00:38:34.540 align:middle line:90%
+It's 0.6 instead of 0.5.
+
+00:38:34.540 --> 00:38:36.310 align:middle line:84%
+But what does change
+when you account
+
+00:38:36.310 --> 00:38:40.300 align:middle line:84%
+for the serial correlation
+is the demand elasticity,
+
+00:38:40.300 --> 00:38:43.550 align:middle line:84%
+which Porter had at 0.8,
+and it was a puzzle.
+
+00:38:43.550 --> 00:38:46.270 align:middle line:84%
+Why would the cartel be pricing
+where the demand elasticity
+
+00:38:46.270 --> 00:38:47.090 align:middle line:90%
+was 0.8?
+
+00:38:47.090 --> 00:38:49.690 align:middle line:84%
+Don't we know that you normally
+price in the elastic part
+
+00:38:49.690 --> 00:38:50.890 align:middle line:90%
+of the demand curve?
+
+00:38:50.890 --> 00:38:52.870 align:middle line:84%
+Once you account for
+the serial correlation,
+
+00:38:52.870 --> 00:38:56.770 align:middle line:84%
+that mystery goes away and I now
+say that the demand elasticity
+
+00:38:56.770 --> 00:39:00.220 align:middle line:90%
+was minus 1.8, not minus 0.8.
+
+00:39:00.220 --> 00:39:06.510 align:middle line:84%
+And so if you think about what
+the implied theta by the data
+
+00:39:06.510 --> 00:39:10.470 align:middle line:84%
+is, the implied theta
+from how they're pricing--
+
+00:39:10.470 --> 00:39:14.070 align:middle line:84%
+again, you have price
+minus cost over price
+
+00:39:14.070 --> 00:39:17.830 align:middle line:84%
+equals theta over
+the elasticity.
+
+00:39:17.830 --> 00:39:25.240 align:middle line:84%
+So now you plug in 1.8
+here instead of 0.8
+
+00:39:25.240 --> 00:39:28.480 align:middle line:84%
+and you say, what's the
+theta that's causing this?
+
+00:39:28.480 --> 00:39:31.330 align:middle line:84%
+Now I'm getting that
+the theta is fairly--
+
+00:39:31.330 --> 00:39:33.730 align:middle line:84%
+they're using a theta
+that's pretty close to 1.
+
+00:39:33.730 --> 00:39:36.110 align:middle line:84%
+It looks like the
+theta is like 0.85.
+
+00:39:36.110 --> 00:39:42.880 align:middle line:84%
+So again, you're not-- if you
+assume that theta c equals zero
+
+00:39:42.880 --> 00:39:44.090 align:middle line:90%
+would imply that theta--
+
+00:39:44.090 --> 00:39:44.590 align:middle line:90%
+sorry.
+
+00:39:44.590 --> 00:39:49.720 align:middle line:84%
+Theta w equals zero would imply
+that theta c is about 0.85.
+
+00:39:49.720 --> 00:39:52.690 align:middle line:84%
+So with this new
+demand elasticity,
+
+00:39:52.690 --> 00:39:55.750 align:middle line:84%
+it looks like it's not just
+a Green-Porter cartel having
+
+00:39:55.750 --> 00:39:56.350 align:middle line:90%
+two regimes.
+
+00:39:56.350 --> 00:39:59.110 align:middle line:84%
+It's two regimes where
+one is close to cost
+
+00:39:59.110 --> 00:40:01.490 align:middle line:84%
+and the other is very close
+to the monopoly price.
+
+00:40:01.490 --> 00:40:03.100 align:middle line:84%
+So it looks like
+they are aggressively
+
+00:40:03.100 --> 00:40:07.856 align:middle line:84%
+trying to get nearly the
+full monopoly profits.
+
+00:40:07.856 --> 00:40:13.580 align:middle line:84%
+And if you look at this, the
+probability of a price war--
+
+00:40:13.580 --> 00:40:16.550 align:middle line:84%
+the probability of cooperating
+when you're cooperating today
+
+00:40:16.550 --> 00:40:22.020 align:middle line:84%
+is e to the 3.6 over
+1 plus e to the 3.6.
+
+00:40:22.020 --> 00:40:24.020 align:middle line:84%
+So if you're cooperating
+today, the probability
+
+00:40:24.020 --> 00:40:26.340 align:middle line:84%
+of cooperating
+tomorrow is very high.
+
+00:40:26.340 --> 00:40:28.760 align:middle line:84%
+If you're in a price war
+today, the probability
+
+00:40:28.760 --> 00:40:34.520 align:middle line:84%
+of cooperating tomorrow is e
+to the minus 2.6 over 1 plus
+
+00:40:34.520 --> 00:40:36.147 align:middle line:90%
+e to the minus 2.6.
+
+00:40:36.147 --> 00:40:37.730 align:middle line:84%
+So that says if
+you're in a price war,
+
+00:40:37.730 --> 00:40:39.397 align:middle line:84%
+there's very low
+probability that you're
+
+00:40:39.397 --> 00:40:41.300 align:middle line:84%
+going to go back to
+cooperating next period.
+
+00:40:41.300 --> 00:40:43.220 align:middle line:84%
+So clearly that these
+numbers are different
+
+00:40:43.220 --> 00:40:47.930 align:middle line:84%
+mean that these price wars are
+continuous periods in the data.
+
+00:40:47.930 --> 00:40:50.690 align:middle line:84%
+Also it makes you reclassify
+some of the periods.
+
+00:40:50.690 --> 00:40:54.260 align:middle line:84%
+In Porter's data, you can be
+like, OK, price war, price war,
+
+00:40:54.260 --> 00:40:56.210 align:middle line:84%
+price war, price war,
+cooperation, price war,
+
+00:40:56.210 --> 00:40:57.680 align:middle line:90%
+price war, price war.
+
+00:40:57.680 --> 00:41:00.368 align:middle line:84%
+And then with putting
+in this variable that
+
+00:41:00.368 --> 00:41:02.660 align:middle line:84%
+reclassifies them and says,
+no, that's a price war too.
+
+00:41:02.660 --> 00:41:05.580 align:middle line:84%
+It's just a price war that has
+a big epsilon attached to it.
+
+00:41:05.580 --> 00:41:10.100 align:middle line:90%
+
+
+00:41:10.100 --> 00:41:12.060 align:middle line:90%
+OK.
+
+00:41:12.060 --> 00:41:12.560 align:middle line:90%
+OK.
+
+00:41:12.560 --> 00:41:14.018 align:middle line:84%
+And then what about
+these variables
+
+00:41:14.018 --> 00:41:16.460 align:middle line:90%
+for things causing price wars?
+
+00:41:16.460 --> 00:41:19.680 align:middle line:84%
+Some of them are
+kind of significant
+
+00:41:19.680 --> 00:41:24.380 align:middle line:84%
+if you do at 5% level
+significant one-sided tail.
+
+00:41:24.380 --> 00:41:29.580 align:middle line:84%
+So some firm having an
+unusually large market share,
+
+00:41:29.580 --> 00:41:34.310 align:middle line:84%
+it seems like that makes price
+wars more likely to start.
+
+00:41:34.310 --> 00:41:40.790 align:middle line:84%
+Also, VT, the aggregate
+demand residual being high,
+
+00:41:40.790 --> 00:41:44.010 align:middle line:84%
+also makes it look like price
+wars are going to start.
+
+00:41:44.010 --> 00:41:46.680 align:middle line:84%
+So if think about this is
+a model of Albert Fink,
+
+00:41:46.680 --> 00:41:51.920 align:middle line:84%
+it does seem like if aggregate
+demand is unusually high
+
+00:41:51.920 --> 00:41:56.000 align:middle line:84%
+or one firm has an
+unusually high market share,
+
+00:41:56.000 --> 00:41:58.340 align:middle line:84%
+that makes it more likely
+that he's declaring price war
+
+00:41:58.340 --> 00:41:59.155 align:middle line:90%
+starts tomorrow.
+
+00:41:59.155 --> 00:42:03.430 align:middle line:90%
+
+
+00:42:03.430 --> 00:42:05.800 align:middle line:84%
+Significance is just
+marginal, though,
+
+00:42:05.800 --> 00:42:08.320 align:middle line:84%
+and the triggers are not
+really powerful enough
+
+00:42:08.320 --> 00:42:09.560 align:middle line:90%
+to deter deviation.
+
+00:42:09.560 --> 00:42:11.530 align:middle line:84%
+So if these were the
+magnitudes of the triggers
+
+00:42:11.530 --> 00:42:14.212 align:middle line:84%
+that Fink was using and you were
+advising the New York Central
+
+00:42:14.212 --> 00:42:16.670 align:middle line:84%
+Railroad, you'd be like, yeah,
+you guys should be cheating.
+
+00:42:16.670 --> 00:42:19.377 align:middle line:84%
+Because if you cheat, you
+gain 10% market share,
+
+00:42:19.377 --> 00:42:20.960 align:middle line:84%
+you're going to earn
+a lot more money,
+
+00:42:20.960 --> 00:42:24.410 align:middle line:84%
+and the probability of price war
+only goes up by a few percent
+
+00:42:24.410 --> 00:42:27.350 align:middle line:84%
+so you'd be better off
+cheating on this agreement.
+
+00:42:27.350 --> 00:42:30.550 align:middle line:84%
+So obviously,
+what's going on is--
+
+00:42:30.550 --> 00:42:31.970 align:middle line:90%
+this leaves multiple hypotheses.
+
+00:42:31.970 --> 00:42:35.680 align:middle line:84%
+So one is that Fink got it
+wrong and his triggers weren't
+
+00:42:35.680 --> 00:42:36.590 align:middle line:90%
+sensitive enough.
+
+00:42:36.590 --> 00:42:38.590 align:middle line:84%
+He was too hesitant
+to trigger price wars,
+
+00:42:38.590 --> 00:42:41.440 align:middle line:84%
+and therefore, firms did
+have an incentive to cheat
+
+00:42:41.440 --> 00:42:43.270 align:middle line:90%
+and firms did cheat.
+
+00:42:43.270 --> 00:42:46.933 align:middle line:84%
+The other hypothesis is
+that he had a trigger that's
+
+00:42:46.933 --> 00:42:49.600 align:middle line:84%
+imperfectly correlated with all
+the variables I've put in there,
+
+00:42:49.600 --> 00:42:51.267 align:middle line:84%
+and because it's
+imperfectly correlated,
+
+00:42:51.267 --> 00:42:53.290 align:middle line:84%
+there's attenuation
+bias, there's
+
+00:42:53.290 --> 00:42:57.168 align:middle line:84%
+a stronger trigger out
+there, I just didn't find it.
+
+00:42:57.168 --> 00:42:59.710 align:middle line:84%
+Unfortunately, this is the kind
+of thing where you might say,
+
+00:42:59.710 --> 00:43:01.918 align:middle line:84%
+could I do some machine
+learning thing and figure out
+
+00:43:01.918 --> 00:43:04.070 align:middle line:84%
+exactly what Albert
+Fink was doing?
+
+00:43:04.070 --> 00:43:07.110 align:middle line:84%
+There are between 8
+and 11 price wars.
+
+00:43:07.110 --> 00:43:10.010 align:middle line:84%
+So in some sense, you only
+have 8 or 11 data points.
+
+00:43:10.010 --> 00:43:13.340 align:middle line:84%
+There's only so much you can do
+with sophisticated statistics
+
+00:43:13.340 --> 00:43:15.880 align:middle line:84%
+when you're trying to figure
+out when a price war started.
+
+00:43:15.880 --> 00:43:20.200 align:middle line:90%
+
+
+00:43:20.200 --> 00:43:20.740 align:middle line:90%
+OK.
+
+00:43:20.740 --> 00:43:21.825 align:middle line:90%
+Any questions on that?
+
+00:43:21.825 --> 00:43:26.580 align:middle line:90%
+
+
+00:43:26.580 --> 00:43:28.540 align:middle line:84%
+Anyway, so other
+things in the paper.
+
+00:43:28.540 --> 00:43:31.090 align:middle line:84%
+I do have something looking
+at Rotemberg-Saloner effects.
+
+00:43:31.090 --> 00:43:34.030 align:middle line:90%
+I won't talk about that.
+
+00:43:34.030 --> 00:43:38.470 align:middle line:84%
+The paper asks the
+question in the back part,
+
+00:43:38.470 --> 00:43:40.670 align:middle line:84%
+are there secret price
+cuts, and does it
+
+00:43:40.670 --> 00:43:44.270 align:middle line:84%
+look like secret price
+cuts were being given?
+
+00:43:44.270 --> 00:43:49.730 align:middle line:84%
+And the way it does this is
+to add extra unobserved demand
+
+00:43:49.730 --> 00:43:53.150 align:middle line:84%
+regimes, saying that if firms
+are giving secret price cuts,
+
+00:43:53.150 --> 00:43:55.850 align:middle line:84%
+demand is going to look
+unusually high relative to what
+
+00:43:55.850 --> 00:43:57.540 align:middle line:90%
+demand normally looks like.
+
+00:43:57.540 --> 00:43:59.090 align:middle line:84%
+Can we estimate
+a hidden demand--
+
+00:43:59.090 --> 00:44:01.360 align:middle line:84%
+a hidden regime
+model to say, does it
+
+00:44:01.360 --> 00:44:03.110 align:middle line:84%
+look like there's some
+fraction of periods
+
+00:44:03.110 --> 00:44:06.033 align:middle line:84%
+in which people are cheating
+and demand is unusually high?
+
+00:44:06.033 --> 00:44:07.700 align:middle line:84%
+And it provides some
+suggestive evidence
+
+00:44:07.700 --> 00:44:10.242 align:middle line:84%
+that it does look like that's
+probably what was going on here
+
+00:44:10.242 --> 00:44:13.580 align:middle line:84%
+historically is that
+there periods where
+
+00:44:13.580 --> 00:44:15.620 align:middle line:84%
+demand is suspiciously
+high, making
+
+00:44:15.620 --> 00:44:18.380 align:middle line:90%
+you think someone is cheating.
+
+00:44:18.380 --> 00:44:19.670 align:middle line:90%
+And so we think the--
+
+00:44:19.670 --> 00:44:22.657 align:middle line:84%
+it aims toward that Fink
+didn't have it quite right
+
+00:44:22.657 --> 00:44:24.865 align:middle line:84%
+and the firms were doing
+some cheating on each other.
+
+00:44:24.865 --> 00:44:27.640 align:middle line:90%
+
+
+00:44:27.640 --> 00:44:29.590 align:middle line:84%
+But obviously, if you
+think about where did I
+
+00:44:29.590 --> 00:44:32.080 align:middle line:84%
+miss an enormous
+opportunity, there
+
+00:44:32.080 --> 00:44:34.060 align:middle line:84%
+are papers written
+subsequent to mine
+
+00:44:34.060 --> 00:44:36.460 align:middle line:84%
+that now have thousands and
+thousands of citations that
+
+00:44:36.460 --> 00:44:38.950 align:middle line:84%
+say, well, what you
+could do in a situation
+
+00:44:38.950 --> 00:44:44.463 align:middle line:84%
+like this is instead of
+estimating the trigger
+
+00:44:44.463 --> 00:44:46.130 align:middle line:84%
+and saying, is the
+trigger strong enough
+
+00:44:46.130 --> 00:44:49.290 align:middle line:90%
+to cause collusion?
+
+00:44:49.290 --> 00:44:51.350 align:middle line:84%
+Maybe what you
+could do is impose
+
+00:44:51.350 --> 00:44:52.850 align:middle line:84%
+that the trigger
+is strong enough
+
+00:44:52.850 --> 00:44:56.420 align:middle line:84%
+to stop firms from colluding,
+and then estimate the model
+
+00:44:56.420 --> 00:44:59.317 align:middle line:84%
+and see if you can find
+the trigger based on that,
+
+00:44:59.317 --> 00:45:00.900 align:middle line:84%
+allowing some extra
+measurement error.
+
+00:45:00.900 --> 00:45:04.520 align:middle line:84%
+So it could be that the price
+wars start one week earlier
+
+00:45:04.520 --> 00:45:08.420 align:middle line:84%
+than I think they start because
+some firm had an enormous market
+
+00:45:08.420 --> 00:45:10.140 align:middle line:90%
+share one week earlier.
+
+00:45:10.140 --> 00:45:11.750 align:middle line:84%
+The reported price
+is still high,
+
+00:45:11.750 --> 00:45:14.480 align:middle line:84%
+but maybe the price war actually
+started one week earlier
+
+00:45:14.480 --> 00:45:17.600 align:middle line:84%
+with a mismeasured-- there
+was an enormous cheating
+
+00:45:17.600 --> 00:45:19.230 align:middle line:90%
+incident for two weeks earlier.
+
+00:45:19.230 --> 00:45:20.790 align:middle line:90%
+They start the price war.
+
+00:45:20.790 --> 00:45:22.490 align:middle line:84%
+The price war only
+shows up in my data,
+
+00:45:22.490 --> 00:45:27.980 align:middle line:84%
+which uses posted prices one
+week later, therefore I miss it.
+
+00:45:27.980 --> 00:45:31.190 align:middle line:84%
+So anyway, I think this
+is, in some sense, what
+
+00:45:31.190 --> 00:45:34.100 align:middle line:84%
+the structural literature
+has done is to say,
+
+00:45:34.100 --> 00:45:36.350 align:middle line:84%
+if we think that the firms
+are playing an equilibrium,
+
+00:45:36.350 --> 00:45:39.260 align:middle line:84%
+we should impose that an
+equilibrium is being played
+
+00:45:39.260 --> 00:45:41.843 align:middle line:84%
+and make that an extra
+constraint on the model
+
+00:45:41.843 --> 00:45:43.676 align:middle line:84%
+and estimate the model
+with that constraint.
+
+00:45:43.676 --> 00:45:46.650 align:middle line:90%
+
+
+00:45:46.650 --> 00:45:49.920 align:middle line:84%
+I didn't think to do that at
+the time, but in some sense,
+
+00:45:49.920 --> 00:45:51.720 align:middle line:84%
+it is a very
+natural thing to say
+
+00:45:51.720 --> 00:45:53.920 align:middle line:84%
+is let's impose that
+constraint, see what happens,
+
+00:45:53.920 --> 00:45:56.128 align:middle line:84%
+and is the model now able
+to explain the data better.
+
+00:45:56.128 --> 00:45:59.800 align:middle line:90%
+
+
+00:45:59.800 --> 00:46:00.310 align:middle line:90%
+Yeah.
+
+00:46:00.310 --> 00:46:05.560 align:middle line:84%
+So for instance, in this
+week, it's very clear
+
+00:46:05.560 --> 00:46:07.810 align:middle line:90%
+where this price war starts.
+
+00:46:07.810 --> 00:46:10.390 align:middle line:90%
+The price war starts here.
+
+00:46:10.390 --> 00:46:12.670 align:middle line:84%
+But it could be
+that in this week
+
+00:46:12.670 --> 00:46:15.070 align:middle line:84%
+the firms were already
+cheating on the agreement
+
+00:46:15.070 --> 00:46:17.770 align:middle line:84%
+and they were
+actually pricing here,
+
+00:46:17.770 --> 00:46:20.382 align:middle line:84%
+and we just have a mismeasured
+price because the prices
+
+00:46:20.382 --> 00:46:22.090 align:middle line:84%
+in this data set are
+the prices that they
+
+00:46:22.090 --> 00:46:23.840 align:middle line:84%
+were supposed to be
+charging, not the ones
+
+00:46:23.840 --> 00:46:25.840 align:middle line:90%
+they actually charged.
+
+00:46:25.840 --> 00:46:30.290 align:middle line:84%
+Next thing I want
+to get to is this
+
+00:46:30.290 --> 00:46:32.690 align:middle line:84%
+is something I had the benefit
+of seeing with my career.
+
+00:46:32.690 --> 00:46:33.620 align:middle line:90%
+It's interesting.
+
+00:46:33.620 --> 00:46:35.078 align:middle line:84%
+I read Mass Control
+for many years,
+
+00:46:35.078 --> 00:46:37.037 align:middle line:84%
+and Mass Control would
+point out that, be like,
+
+00:46:37.037 --> 00:46:38.900 align:middle line:84%
+these Edgeworth
+cycles are possible.
+
+00:46:38.900 --> 00:46:40.370 align:middle line:84%
+It was always
+thought of, at least
+
+00:46:40.370 --> 00:46:45.830 align:middle line:84%
+seen as this is an
+interesting possibility
+
+00:46:45.830 --> 00:46:48.500 align:middle line:84%
+that, in models with
+small numbers of firms,
+
+00:46:48.500 --> 00:46:50.210 align:middle line:84%
+firms can collude and
+they could collude
+
+00:46:50.210 --> 00:46:55.460 align:middle line:84%
+not on constant prices like
+in the standard repeated game
+
+00:46:55.460 --> 00:46:57.980 align:middle line:84%
+equilibrium, but
+they might collude--
+
+00:46:57.980 --> 00:47:00.020 align:middle line:84%
+collusion might lead to
+these Edgeworth cycles
+
+00:47:00.020 --> 00:47:01.850 align:middle line:90%
+where price goes like that.
+
+00:47:01.850 --> 00:47:04.400 align:middle line:84%
+And I think it was always
+at least initially thought
+
+00:47:04.400 --> 00:47:08.033 align:middle line:84%
+of as a intellectual curiosity
+that collusive models might
+
+00:47:08.033 --> 00:47:09.950 align:middle line:84%
+actually more naturally
+lead to cycling prices
+
+00:47:09.950 --> 00:47:11.600 align:middle line:90%
+rather than high prices.
+
+00:47:11.600 --> 00:47:13.730 align:middle line:84%
+And then this is a view
+that the world actually
+
+00:47:13.730 --> 00:47:17.480 align:middle line:84%
+has changed as high frequency
+price data came into--
+
+00:47:17.480 --> 00:47:21.280 align:middle line:84%
+started getting collected
+because, again, if I ask you,
+
+00:47:21.280 --> 00:47:23.030 align:middle line:84%
+like, what are the
+prices at gas stations,
+
+00:47:23.030 --> 00:47:25.490 align:middle line:84%
+and what do prices
+at gas stations do?
+
+00:47:25.490 --> 00:47:27.740 align:middle line:84%
+You know, you may know that
+like, yeah, sometimes gas
+
+00:47:27.740 --> 00:47:32.790 align:middle line:84%
+is 3.69, sometimes it's
+3.79, sometimes it's 3.59.
+
+00:47:32.790 --> 00:47:34.470 align:middle line:84%
+I've never really
+noticed a pattern
+
+00:47:34.470 --> 00:47:35.700 align:middle line:84%
+other than knowing
+that sometimes I
+
+00:47:35.700 --> 00:47:37.283 align:middle line:84%
+get a good deal on
+gas and sometimes I
+
+00:47:37.283 --> 00:47:39.450 align:middle line:90%
+get a bad deal on gas.
+
+00:47:39.450 --> 00:47:43.620 align:middle line:84%
+And so actually, Mike Noel was
+a student sitting in this class
+
+00:47:43.620 --> 00:47:46.740 align:middle line:84%
+where you guys are sitting
+in the early 2000s,
+
+00:47:46.740 --> 00:47:51.690 align:middle line:84%
+and he decided he would actually
+investigate the Edgeworth cycle
+
+00:47:51.690 --> 00:47:52.680 align:middle line:90%
+hypothesis.
+
+00:47:52.680 --> 00:47:56.730 align:middle line:84%
+At least had some notion
+that it seemed like--
+
+00:47:56.730 --> 00:47:59.130 align:middle line:84%
+he had the view that
+in Toronto, where
+
+00:47:59.130 --> 00:48:04.890 align:middle line:84%
+I grew up and went to college,
+I think prices did cycle,
+
+00:48:04.890 --> 00:48:07.060 align:middle line:84%
+or at least I know
+they changed a lot
+
+00:48:07.060 --> 00:48:09.840 align:middle line:84%
+and I wonder if
+they are cycling.
+
+00:48:09.840 --> 00:48:13.350 align:middle line:84%
+And so what Mike
+did was he still
+
+00:48:13.350 --> 00:48:15.120 align:middle line:84%
+had a girlfriend who
+was in Toronto when
+
+00:48:15.120 --> 00:48:17.580 align:middle line:84%
+he was a PhD student,
+and he got her
+
+00:48:17.580 --> 00:48:19.650 align:middle line:90%
+to collect a data set for him.
+
+00:48:19.650 --> 00:48:29.280 align:middle line:84%
+And the way she did this was she
+had a, like, 25 or 30 minute car
+
+00:48:29.280 --> 00:48:34.740 align:middle line:84%
+commute in Toronto, and
+she stuck a voice recorder
+
+00:48:34.740 --> 00:48:36.820 align:middle line:90%
+in her pocket or whatever.
+
+00:48:36.820 --> 00:48:42.060 align:middle line:84%
+And as she passed gas stations
+on the way to and from work,
+
+00:48:42.060 --> 00:48:45.390 align:middle line:84%
+she just read to herself what
+prices they were charging,
+
+00:48:45.390 --> 00:48:48.390 align:middle line:90%
+and then transcribed them.
+
+00:48:48.390 --> 00:48:52.890 align:middle line:84%
+And so what she got
+was a twice weekly data
+
+00:48:52.890 --> 00:48:57.930 align:middle line:84%
+set of prices of gas
+stations in Toronto
+
+00:48:57.930 --> 00:48:59.770 align:middle line:90%
+which are located along--
+
+00:48:59.770 --> 00:49:04.150 align:middle line:84%
+it was like map of Toronto,
+she works here, she lives here,
+
+00:49:04.150 --> 00:49:06.520 align:middle line:84%
+she drives this route
+every single day.
+
+00:49:06.520 --> 00:49:10.980 align:middle line:84%
+And so you get 14 gas
+stations along that route
+
+00:49:10.980 --> 00:49:13.530 align:middle line:84%
+and you get the
+twice daily prices.
+
+00:49:13.530 --> 00:49:17.970 align:middle line:84%
+And this is one of those ones
+where just the immediate paper,
+
+00:49:17.970 --> 00:49:24.040 align:middle line:84%
+this is like-- so this is a
+graph of her twice daily data.
+
+00:49:24.040 --> 00:49:28.950 align:middle line:84%
+And what you see is that
+this was the wholesale price
+
+00:49:28.950 --> 00:49:32.340 align:middle line:84%
+of gasoline in
+Toronto if you just
+
+00:49:32.340 --> 00:49:36.060 align:middle line:84%
+bought it wholesale at whatever
+those big enormous fuel
+
+00:49:36.060 --> 00:49:38.910 align:middle line:84%
+tanks are that the
+pump trucks back up
+
+00:49:38.910 --> 00:49:40.750 align:middle line:90%
+to take it to the gas stations.
+
+00:49:40.750 --> 00:49:45.660 align:middle line:84%
+And this is her data on the
+retail price of gasoline.
+
+00:49:45.660 --> 00:49:47.850 align:middle line:84%
+And I just think just
+that one graph just
+
+00:49:47.850 --> 00:49:51.450 align:middle line:84%
+makes it enormously
+clear that this is not
+
+00:49:51.450 --> 00:49:54.750 align:middle line:84%
+a cost-based explanation
+for why gas prices change.
+
+00:49:54.750 --> 00:49:57.780 align:middle line:84%
+Clearly, these
+guys are playing--
+
+00:49:57.780 --> 00:49:59.970 align:middle line:84%
+somehow the gas
+stations in Toronto
+
+00:49:59.970 --> 00:50:04.040 align:middle line:84%
+are somehow playing some kind
+of Edgeworth cycle equilibrium,
+
+00:50:04.040 --> 00:50:06.540 align:middle line:84%
+and they're playing some kind
+of Edgeworth cycle equilibrium
+
+00:50:06.540 --> 00:50:11.333 align:middle line:84%
+where the prices just jump up
+really high and then go down.
+
+00:50:11.333 --> 00:50:13.500 align:middle line:84%
+The firms at various points
+are really losing money,
+
+00:50:13.500 --> 00:50:18.420 align:middle line:84%
+pumping gas, and then the prices
+jump up and become very large,
+
+00:50:18.420 --> 00:50:22.242 align:middle line:84%
+and then they just
+keep cycling like that.
+
+00:50:22.242 --> 00:50:24.700 align:middle line:84%
+These cycles, you might think,
+oh, are those weekly cycles?
+
+00:50:24.700 --> 00:50:28.815 align:middle line:84%
+The frequencies there
+are roughly a week long,
+
+00:50:28.815 --> 00:50:30.940 align:middle line:84%
+but they're not synchronized
+with days of the week.
+
+00:50:30.940 --> 00:50:32.690 align:middle line:84%
+Sometimes they're six
+days long, sometimes
+
+00:50:32.690 --> 00:50:33.850 align:middle line:90%
+they're eight days long.
+
+00:50:33.850 --> 00:50:35.680 align:middle line:84%
+Over the course of
+the day, the cycles
+
+00:50:35.680 --> 00:50:37.190 align:middle line:90%
+shift relative to the week.
+
+00:50:37.190 --> 00:50:39.280 align:middle line:84%
+So it's some weeks
+the big jump comes
+
+00:50:39.280 --> 00:50:41.530 align:middle line:84%
+on Mondays, some it's
+Wednesday, some parts of the day
+
+00:50:41.530 --> 00:50:42.520 align:middle line:90%
+it's Friday.
+
+00:50:42.520 --> 00:50:46.285 align:middle line:84%
+But anyway, prices are just
+following that cycling pattern.
+
+00:50:46.285 --> 00:50:48.160 align:middle line:84%
+And actually, I find
+this kind of remarkable,
+
+00:50:48.160 --> 00:50:55.320 align:middle line:84%
+because if you think
+about it, somehow,
+
+00:50:55.320 --> 00:50:58.620 align:middle line:84%
+there's a interesting network
+geography question here of,
+
+00:50:58.620 --> 00:51:00.180 align:middle line:90%
+how do they even do this?
+
+00:51:00.180 --> 00:51:03.850 align:middle line:84%
+I get that, OK, this
+station raises its price
+
+00:51:03.850 --> 00:51:05.970 align:middle line:84%
+and so then the two next
+to it raise their prices
+
+00:51:05.970 --> 00:51:07.928 align:middle line:84%
+and undercut it the next
+day, and then this one
+
+00:51:07.928 --> 00:51:12.780 align:middle line:84%
+undercuts this, and then
+these two undercut these ones
+
+00:51:12.780 --> 00:51:15.700 align:middle line:84%
+and then the even ones undercut
+the odd ones or whatever.
+
+00:51:15.700 --> 00:51:17.922 align:middle line:84%
+But somehow there are lots
+of chains of gas stations.
+
+00:51:17.922 --> 00:51:19.380 align:middle line:84%
+You could also have
+driven this way
+
+00:51:19.380 --> 00:51:21.690 align:middle line:84%
+and you would have
+gas stations here.
+
+00:51:21.690 --> 00:51:25.860 align:middle line:84%
+How do you keep the
+cycles in sync so that--
+
+00:51:25.860 --> 00:51:27.360 align:middle line:84%
+you might think
+like, I go this way
+
+00:51:27.360 --> 00:51:28.780 align:middle line:84%
+and I pass an even
+number of stations.
+
+00:51:28.780 --> 00:51:30.360 align:middle line:84%
+I go this way, I pass an
+odd number of stations.
+
+00:51:30.360 --> 00:51:31.600 align:middle line:90%
+Who's undercutting whom?
+
+00:51:31.600 --> 00:51:34.710 align:middle line:84%
+But somehow the
+whole city geography
+
+00:51:34.710 --> 00:51:37.950 align:middle line:84%
+must be such that the
+city hangs together
+
+00:51:37.950 --> 00:51:43.940 align:middle line:90%
+and cycles together with itself.
+
+00:51:43.940 --> 00:51:47.570 align:middle line:84%
+And actually, someone has
+another paper on Canada more
+
+00:51:47.570 --> 00:51:51.290 align:middle line:84%
+generally about high frequency
+data, and it turned out that--
+
+00:51:51.290 --> 00:51:52.370 align:middle line:90%
+and I don't know why--
+
+00:51:52.370 --> 00:51:57.860 align:middle line:84%
+some cities in Canada
+do this and some do not.
+
+00:51:57.860 --> 00:52:00.710 align:middle line:84%
+Some cities have
+these cycling prices,
+
+00:52:00.710 --> 00:52:02.635 align:middle line:84%
+some do not have
+these cycling prices.
+
+00:52:02.635 --> 00:52:05.360 align:middle line:90%
+
+
+00:52:05.360 --> 00:52:07.165 align:middle line:84%
+And again, it was
+largely unknown
+
+00:52:07.165 --> 00:52:09.290 align:middle line:84%
+until people started
+gathering high frequency data,
+
+00:52:09.290 --> 00:52:12.680 align:middle line:84%
+because you use data at
+a one week frequency,
+
+00:52:12.680 --> 00:52:16.015 align:middle line:84%
+you don't see this because you
+miss the periods in between.
+
+00:52:16.015 --> 00:52:21.240 align:middle line:90%
+
+
+00:52:21.240 --> 00:52:24.720 align:middle line:84%
+Another subsequent paper
+on this, Zhongmin Wang
+
+00:52:24.720 --> 00:52:28.920 align:middle line:84%
+wrote a paper about
+gasoline pricing and-- yeah?
+
+00:52:28.920 --> 00:52:31.470 align:middle line:84%
+AUDIENCE: If we believe
+like that foresight story,
+
+00:52:31.470 --> 00:52:33.810 align:middle line:84%
+wouldn't we believe that
+these cycles would only
+
+00:52:33.810 --> 00:52:37.860 align:middle line:84%
+occur with gas stations that
+are close to other gas stations?
+
+00:52:37.860 --> 00:52:41.143 align:middle line:84%
+So if you have gas stations
+out away from other stations,
+
+00:52:41.143 --> 00:52:42.810 align:middle line:84%
+they would have no
+incentive to do this.
+
+00:52:42.810 --> 00:52:43.930 align:middle line:90%
+GLENN ELLISON: To do this.
+
+00:52:43.930 --> 00:52:44.430 align:middle line:90%
+Yeah.
+
+00:52:44.430 --> 00:52:46.410 align:middle line:90%
+So obviously, this is--
+
+00:52:46.410 --> 00:52:46.950 align:middle line:90%
+yeah.
+
+00:52:46.950 --> 00:52:49.253 align:middle line:90%
+This data is urban Toronto.
+
+00:52:49.253 --> 00:52:51.670 align:middle line:84%
+Toronto is a city of I don't
+know how many million people,
+
+00:52:51.670 --> 00:52:54.510 align:middle line:84%
+so I assume that there
+are gas stations every--
+
+00:52:54.510 --> 00:52:56.553 align:middle line:84%
+I assume every gas
+station in urban Toronto
+
+00:52:56.553 --> 00:52:58.720 align:middle line:84%
+is close to some other gas
+station in urban Toronto.
+
+00:52:58.720 --> 00:53:00.422 align:middle line:84%
+And so it could be
+something about,
+
+00:53:00.422 --> 00:53:02.130 align:middle line:84%
+yeah, the density
+needs to be high enough
+
+00:53:02.130 --> 00:53:06.270 align:middle line:84%
+to get the things to cycle,
+and once you get islands
+
+00:53:06.270 --> 00:53:07.980 align:middle line:84%
+without gas
+stations, the islands
+
+00:53:07.980 --> 00:53:10.030 align:middle line:84%
+break up the cycling
+in the other places.
+
+00:53:10.030 --> 00:53:12.130 align:middle line:90%
+Yeah.
+
+00:53:12.130 --> 00:53:15.560 align:middle line:84%
+You need to think of there
+being price competition
+
+00:53:15.560 --> 00:53:17.960 align:middle line:84%
+between adjacent stations
+and every station's
+
+00:53:17.960 --> 00:53:20.173 align:middle line:84%
+adjacent to another one to
+have this to work somehow.
+
+00:53:20.173 --> 00:53:27.630 align:middle line:90%
+
+
+00:53:27.630 --> 00:53:30.240 align:middle line:84%
+I think these graphs are the
+average prices in her data set
+
+00:53:30.240 --> 00:53:32.530 align:middle line:84%
+across all 14 stations
+or something like that,
+
+00:53:32.530 --> 00:53:35.502 align:middle line:84%
+so it is like a synchronous--
+at least in her commute,
+
+00:53:35.502 --> 00:53:37.460 align:middle line:84%
+it's synchronous for the
+length of her commute.
+
+00:53:37.460 --> 00:53:40.590 align:middle line:90%
+
+
+00:53:40.590 --> 00:53:41.090 align:middle line:90%
+OK.
+
+00:53:41.090 --> 00:53:44.470 align:middle line:84%
+So anyway, Zhongmin
+Wang wrote a paper then
+
+00:53:44.470 --> 00:53:48.120 align:middle line:84%
+about gasoline cycling
+in Perth, Australia.
+
+00:53:48.120 --> 00:53:52.682 align:middle line:84%
+Perth is also nice because Perth
+is all the way over on the West
+
+00:53:52.682 --> 00:53:54.890 align:middle line:84%
+Coast of Australia where
+there's almost nothing else,
+
+00:53:54.890 --> 00:53:59.030 align:middle line:84%
+and so Perth is like an
+isolated city all by itself.
+
+00:53:59.030 --> 00:54:00.280 align:middle line:90%
+There's also only two--
+
+00:54:00.280 --> 00:54:02.770 align:middle line:84%
+there's actually one
+gasoline refinery in Perth,
+
+00:54:02.770 --> 00:54:04.330 align:middle line:90%
+so everyone has--
+
+00:54:04.330 --> 00:54:06.472 align:middle line:84%
+you can import gasoline,
+but other than other
+
+00:54:06.472 --> 00:54:07.930 align:middle line:84%
+than importing
+gasoline, you're all
+
+00:54:07.930 --> 00:54:10.450 align:middle line:84%
+buying it from the other
+refinery, I believe.
+
+00:54:10.450 --> 00:54:16.020 align:middle line:84%
+Anyway, and Perth had
+this problem of prices
+
+00:54:16.020 --> 00:54:17.880 align:middle line:90%
+there were known to cycle.
+
+00:54:17.880 --> 00:54:19.560 align:middle line:84%
+And prices were known
+to cycle, and this
+
+00:54:19.560 --> 00:54:22.660 align:middle line:84%
+was seen as something that
+was very bad for consumers.
+
+00:54:22.660 --> 00:54:25.102 align:middle line:90%
+And so the Australian--
+
+00:54:25.102 --> 00:54:26.310 align:middle line:90%
+I don't know, whatever it is.
+
+00:54:26.310 --> 00:54:29.460 align:middle line:84%
+Australian Competition
+Authority or somebody in 2001
+
+00:54:29.460 --> 00:54:32.970 align:middle line:84%
+passed a regulation to
+try to stop price cycling.
+
+00:54:32.970 --> 00:54:36.870 align:middle line:84%
+And what they did to try to
+stop price cycling was a law,
+
+00:54:36.870 --> 00:54:40.230 align:middle line:84%
+and the law said that gasoline
+stations can only change
+
+00:54:40.230 --> 00:54:42.980 align:middle line:90%
+their price once a day at most.
+
+00:54:42.980 --> 00:54:46.470 align:middle line:84%
+Every gasoline station
+must, by 2:00 PM every day,
+
+00:54:46.470 --> 00:54:49.290 align:middle line:84%
+report to the government what
+price they will charge the next
+
+00:54:49.290 --> 00:54:52.860 align:middle line:84%
+day, and they must charge that
+price the next day no matter
+
+00:54:52.860 --> 00:54:53.730 align:middle line:90%
+what.
+
+00:54:53.730 --> 00:54:56.935 align:middle line:84%
+So every day by 2:00 PM you
+had to submit to a government
+
+00:54:56.935 --> 00:54:59.310 align:middle line:84%
+website what price you were
+going to charge the next day,
+
+00:54:59.310 --> 00:55:00.900 align:middle line:90%
+and then your price was fixed.
+
+00:55:00.900 --> 00:55:04.050 align:middle line:84%
+And they were thinking that,
+OK, this is going to stop the--
+
+00:55:04.050 --> 00:55:06.480 align:middle line:84%
+this could stop the price
+cycling because in these price
+
+00:55:06.480 --> 00:55:09.940 align:middle line:84%
+cycles, you go from pricing low
+to pricing $0.20 above everybody
+
+00:55:09.940 --> 00:55:10.440 align:middle line:90%
+else.
+
+00:55:10.440 --> 00:55:14.050 align:middle line:84%
+If you do that, no one
+is going to buy from you.
+
+00:55:14.050 --> 00:55:15.780 align:middle line:84%
+And then if we do
+this daily thing,
+
+00:55:15.780 --> 00:55:18.418 align:middle line:84%
+firms are going to be left with
+zero demand for a full day.
+
+00:55:18.418 --> 00:55:19.960 align:middle line:84%
+They're not going
+to want to do that.
+
+00:55:19.960 --> 00:55:21.420 align:middle line:84%
+This is going to
+disrupt this price
+
+00:55:21.420 --> 00:55:23.070 align:middle line:84%
+cycling which we
+think is keeping
+
+00:55:23.070 --> 00:55:25.748 align:middle line:90%
+prices above marginal cost.
+
+00:55:25.748 --> 00:55:27.040 align:middle line:90%
+Anyway, that was what they did.
+
+00:55:27.040 --> 00:55:30.120 align:middle line:84%
+So anyway, and what
+Wang does is gather data
+
+00:55:30.120 --> 00:55:33.933 align:middle line:84%
+before and after the
+gas price change.
+
+00:55:33.933 --> 00:55:35.850 align:middle line:84%
+He had another very
+clever thing in his paper,
+
+00:55:35.850 --> 00:55:38.790 align:middle line:84%
+which is how do I get high
+frequency data on the prices
+
+00:55:38.790 --> 00:55:41.010 align:middle line:90%
+that gas stations are charging?
+
+00:55:41.010 --> 00:55:44.340 align:middle line:84%
+Can I go to every gas
+station in the city of Perth
+
+00:55:44.340 --> 00:55:46.020 align:middle line:84%
+and say, could you
+give me your price
+
+00:55:46.020 --> 00:55:48.690 align:middle line:84%
+change with the exact
+minute by minute time
+
+00:55:48.690 --> 00:55:51.910 align:middle line:84%
+at which you changed your
+data, you change your prices?
+
+00:55:51.910 --> 00:55:54.222 align:middle line:84%
+And the answer is obviously,
+no, you can't do that.
+
+00:55:54.222 --> 00:55:55.805 align:middle line:84%
+The stations won't
+give you the price.
+
+00:55:55.805 --> 00:55:59.760 align:middle line:90%
+
+
+00:55:59.760 --> 00:56:02.920 align:middle line:84%
+He didn't have a
+girlfriend in Perth.
+
+00:56:02.920 --> 00:56:05.050 align:middle line:84%
+You couldn't drive around
+to all the gas stations,
+
+00:56:05.050 --> 00:56:07.100 align:middle line:84%
+and how frequently can
+you do that anyway?
+
+00:56:07.100 --> 00:56:09.600 align:middle line:84%
+But what he did is he made a
+deal with a credit card company
+
+00:56:09.600 --> 00:56:12.700 align:middle line:84%
+and realized that credit
+card companies have
+
+00:56:12.700 --> 00:56:15.868 align:middle line:84%
+people dip their credit cards
+at all the gas stations.
+
+00:56:15.868 --> 00:56:17.410 align:middle line:84%
+And so the credit
+card companies know
+
+00:56:17.410 --> 00:56:19.553 align:middle line:84%
+what the price was
+because it actually gets
+
+00:56:19.553 --> 00:56:21.220 align:middle line:84%
+reported back to the
+credit card company
+
+00:56:21.220 --> 00:56:26.920 align:middle line:84%
+that they bought 8.367 gallons
+or whatever, liters, at 12.99
+
+00:56:26.920 --> 00:56:27.710 align:middle line:90%
+a liter.
+
+00:56:27.710 --> 00:56:30.010 align:middle line:84%
+And so he made a deal with
+one credit card company
+
+00:56:30.010 --> 00:56:33.620 align:middle line:84%
+to give him gasoline
+prices in Perth.
+
+00:56:33.620 --> 00:56:36.980 align:middle line:84%
+Every time that they recorded
+a swipe in one of their cards.
+
+00:56:36.980 --> 00:56:39.640 align:middle line:84%
+You don't need that big of a
+market share in credit cards
+
+00:56:39.640 --> 00:56:43.540 align:middle line:84%
+to be basically getting most of
+the gas stations pretty often.
+
+00:56:43.540 --> 00:56:46.505 align:middle line:84%
+Anyway, so we have these,
+again, very neat figures.
+
+00:56:46.505 --> 00:56:48.255 align:middle line:84%
+So anyway, did I say
+these things already?
+
+00:56:48.255 --> 00:56:50.840 align:middle line:90%
+
+
+00:56:50.840 --> 00:56:51.340 align:middle line:90%
+Yep.
+
+00:56:51.340 --> 00:56:52.590 align:middle line:90%
+Edgeworth cycles were present.
+
+00:56:52.590 --> 00:56:54.000 align:middle line:90%
+Regulatory change.
+
+00:56:54.000 --> 00:56:56.710 align:middle line:84%
+Yeah, daily prices for
+after the change you
+
+00:56:56.710 --> 00:56:58.700 align:middle line:84%
+could get from the
+government website,
+
+00:56:58.700 --> 00:57:00.610 align:middle line:84%
+but he got data from
+a credit card company
+
+00:57:00.610 --> 00:57:02.200 align:middle line:90%
+for six months before.
+
+00:57:02.200 --> 00:57:05.380 align:middle line:84%
+Oh, and wholesale
+prices you could also
+
+00:57:05.380 --> 00:57:13.780 align:middle line:84%
+get because the single refinery
+that refined gasoline--
+
+00:57:13.780 --> 00:57:15.910 align:middle line:84%
+how do you have a market
+with a single refinery?
+
+00:57:15.910 --> 00:57:17.350 align:middle line:84%
+What the single
+refinery did is it
+
+00:57:17.350 --> 00:57:19.960 align:middle line:84%
+committed to what price they
+would charge to not exploit
+
+00:57:19.960 --> 00:57:23.140 align:middle line:84%
+people, which was the price
+of gasoline in Singapore
+
+00:57:23.140 --> 00:57:28.300 align:middle line:84%
+plus 12.6 cents a liter
+or something like that.
+
+00:57:28.300 --> 00:57:30.460 align:middle line:84%
+By observing the wholesale
+price in Singapore,
+
+00:57:30.460 --> 00:57:35.010 align:middle line:84%
+you actually know the
+wholesale price in Perth.
+
+00:57:35.010 --> 00:57:36.548 align:middle line:90%
+Anyway, so here we go.
+
+00:57:36.548 --> 00:57:39.090 align:middle line:84%
+This is, again, the pre-data
+that he got from the credit card
+
+00:57:39.090 --> 00:57:39.940 align:middle line:90%
+company.
+
+00:57:39.940 --> 00:57:44.730 align:middle line:84%
+This is what gasoline prices
+did in Perth, Australia
+
+00:57:44.730 --> 00:57:46.140 align:middle line:90%
+before the law.
+
+00:57:46.140 --> 00:57:47.760 align:middle line:84%
+And again, you can
+see there's just
+
+00:57:47.760 --> 00:57:50.340 align:middle line:84%
+this striking
+pattern of low price,
+
+00:57:50.340 --> 00:57:54.690 align:middle line:84%
+jump up, charge high
+prices, prices drop down.
+
+00:57:54.690 --> 00:57:56.550 align:middle line:90%
+These things are a week apart.
+
+00:57:56.550 --> 00:57:58.780 align:middle line:84%
+So the cycles are generally
+about a week long,
+
+00:57:58.780 --> 00:58:00.810 align:middle line:84%
+but you can see they're
+not exactly week long.
+
+00:58:00.810 --> 00:58:04.020 align:middle line:84%
+This one here, this one looks
+like it's almost nine days
+
+00:58:04.020 --> 00:58:04.990 align:middle line:90%
+for that cycle.
+
+00:58:04.990 --> 00:58:06.190 align:middle line:90%
+This cycle is shorter.
+
+00:58:06.190 --> 00:58:08.190 align:middle line:90%
+That one's, like, six days.
+
+00:58:08.190 --> 00:58:12.360 align:middle line:84%
+And you get these just
+massive one day increases
+
+00:58:12.360 --> 00:58:14.730 align:middle line:90%
+in gasoline prices.
+
+00:58:14.730 --> 00:58:17.260 align:middle line:84%
+These prices are-- these
+are cents per liter.
+
+00:58:17.260 --> 00:58:18.700 align:middle line:84%
+So if you can't
+see it, this is 5.
+
+00:58:18.700 --> 00:58:21.730 align:middle line:84%
+So that's, like,
+$0.30 a gallon of gas.
+
+00:58:21.730 --> 00:58:24.840 align:middle line:84%
+So it's like the price goes
+from 3.39 a gallon to 3.69
+
+00:58:24.840 --> 00:58:28.720 align:middle line:84%
+a gallon in the space of
+an hour or a few hours,
+
+00:58:28.720 --> 00:58:32.400 align:middle line:84%
+and then it spends a week
+going back down to 3.39
+
+00:58:32.400 --> 00:58:35.770 align:middle line:84%
+and then jumps back
+up to 3.69 again.
+
+00:58:35.770 --> 00:58:37.060 align:middle line:90%
+OK.
+
+00:58:37.060 --> 00:58:39.670 align:middle line:84%
+Anyway, so what
+does this paper say?
+
+00:58:39.670 --> 00:58:40.437 align:middle line:90%
+OK, they do this.
+
+00:58:40.437 --> 00:58:41.270 align:middle line:90%
+They put in the law.
+
+00:58:41.270 --> 00:58:42.520 align:middle line:90%
+What happens?
+
+00:58:42.520 --> 00:58:44.470 align:middle line:84%
+I didn't put in all
+the graphs, but shortly
+
+00:58:44.470 --> 00:58:48.010 align:middle line:84%
+after the law is passed,
+you get a bunch of chaos.
+
+00:58:48.010 --> 00:58:50.560 align:middle line:90%
+The price cycles disappear.
+
+00:58:50.560 --> 00:58:51.988 align:middle line:90%
+The price cycles disappear.
+
+00:58:51.988 --> 00:58:54.530 align:middle line:84%
+The firms look like they don't
+quite know what they're doing.
+
+00:58:54.530 --> 00:58:56.930 align:middle line:84%
+They're finding a new
+repeated game strategy.
+
+00:58:56.930 --> 00:59:00.040 align:middle line:84%
+And then within
+three or four months
+
+00:59:00.040 --> 00:59:04.180 align:middle line:84%
+after the law has gone
+into effect, boom,
+
+00:59:04.180 --> 00:59:06.460 align:middle line:84%
+there's the daily
+price cycle data.
+
+00:59:06.460 --> 00:59:11.257 align:middle line:84%
+So whatever learning of how to
+play a repeated game strategy
+
+00:59:11.257 --> 00:59:13.840 align:middle line:84%
+and how to match these things
+up in this new environment where
+
+00:59:13.840 --> 00:59:17.530 align:middle line:84%
+you can only change your prices
+once a day and are stuck with
+
+00:59:17.530 --> 00:59:22.300 align:middle line:84%
+whatever you said you
+were pricing at 2:00 PM,
+
+00:59:22.300 --> 00:59:23.670 align:middle line:90%
+price cycles return.
+
+00:59:23.670 --> 00:59:28.260 align:middle line:90%
+
+
+00:59:28.260 --> 00:59:31.750 align:middle line:84%
+This period, he's got the
+wholesale price data in there,
+
+00:59:31.750 --> 00:59:35.130 align:middle line:84%
+and you can see at some
+times they get fairly
+
+00:59:35.130 --> 00:59:37.500 align:middle line:90%
+close to the wholesale price.
+
+00:59:37.500 --> 00:59:41.010 align:middle line:84%
+And again, I don't
+know what the--
+
+00:59:41.010 --> 00:59:43.260 align:middle line:84%
+I'm not sure if this wholesale
+price includes shipment
+
+00:59:43.260 --> 00:59:44.160 align:middle line:90%
+to the gas--
+
+00:59:44.160 --> 00:59:48.310 align:middle line:84%
+trucking fuel from the wholesale
+terminal to the gas station.
+
+00:59:48.310 --> 00:59:50.880 align:middle line:84%
+If it doesn't, then
+these prices could
+
+00:59:50.880 --> 00:59:53.190 align:middle line:84%
+be falling very close to
+their actual delivered price
+
+00:59:53.190 --> 00:59:54.480 align:middle line:90%
+of the gasoline.
+
+00:59:54.480 --> 00:59:59.577 align:middle line:84%
+But what you are getting
+is this clearly more
+
+00:59:59.577 --> 01:00:02.160 align:middle line:84%
+than doubling of margins where
+you have a periods of time when
+
+01:00:02.160 --> 01:00:05.190 align:middle line:84%
+you have a very small margin,
+which could even be zero
+
+01:00:05.190 --> 01:00:08.490 align:middle line:84%
+depending on what the delivery
+charges are, and then prices
+
+01:00:08.490 --> 01:00:13.110 align:middle line:84%
+jump up very high and
+then they drift back down.
+
+01:00:13.110 --> 01:00:18.810 align:middle line:84%
+So whatever learning or whatever
+intuiting of repeated game
+
+01:00:18.810 --> 01:00:21.750 align:middle line:84%
+strategies does not
+stop gasoline prices
+
+01:00:21.750 --> 01:00:22.790 align:middle line:90%
+from cycling here.
+
+01:00:22.790 --> 01:00:27.030 align:middle line:90%
+
+
+01:00:27.030 --> 01:00:30.330 align:middle line:84%
+What he also says-- he just
+provides other observations that
+
+01:00:30.330 --> 01:00:34.830 align:middle line:84%
+might help you think about
+where this cycling comes from.
+
+01:00:34.830 --> 01:00:36.930 align:middle line:84%
+One is that before
+the regulation,
+
+01:00:36.930 --> 01:00:39.180 align:middle line:84%
+these cycles had this very
+distinctive pattern where
+
+01:00:39.180 --> 01:00:42.030 align:middle line:84%
+it was BP who was always
+leading the cycle.
+
+01:00:42.030 --> 01:00:45.780 align:middle line:84%
+And there'd be some time
+between 11:00 AM and 2:00 PM
+
+01:00:45.780 --> 01:00:48.720 align:middle line:84%
+on a Tuesday, Wednesday, or
+Thursday where BP would raise
+
+01:00:48.720 --> 01:00:52.230 align:middle line:90%
+its price by $0.30 a gallon.
+
+01:00:52.230 --> 01:00:54.630 align:middle line:84%
+And then Caltex, which
+was the biggest firm,
+
+01:00:54.630 --> 01:00:56.820 align:middle line:84%
+would follow BP about
+two or three hours.
+
+01:00:56.820 --> 01:00:59.220 align:middle line:84%
+Within two or three hours
+of BP raising the prices
+
+01:00:59.220 --> 01:01:01.590 align:middle line:84%
+at all their stations,
+Caltex would bump all theirs
+
+01:01:01.590 --> 01:01:06.390 align:middle line:84%
+back up to where BP's was or
+slightly under BP's price.
+
+01:01:06.390 --> 01:01:08.850 align:middle line:84%
+And then another
+hour later, Shell
+
+01:01:08.850 --> 01:01:10.960 align:middle line:90%
+would be up there joining them.
+
+01:01:10.960 --> 01:01:13.773 align:middle line:84%
+And then the others, the other
+small independent stations,
+
+01:01:13.773 --> 01:01:15.690 align:middle line:84%
+might take a day or two
+to catch up and notice
+
+01:01:15.690 --> 01:01:17.340 align:middle line:84%
+all the others had gone
+up to the high prices
+
+01:01:17.340 --> 01:01:18.125 align:middle line:90%
+and they'd do it.
+
+01:01:18.125 --> 01:01:21.330 align:middle line:90%
+
+
+01:01:21.330 --> 01:01:23.430 align:middle line:84%
+After this pattern,
+something that
+
+01:01:23.430 --> 01:01:26.190 align:middle line:84%
+seems like it disrupted this
+was that it seemed like BP
+
+01:01:26.190 --> 01:01:28.010 align:middle line:84%
+was no longer
+willing to do this.
+
+01:01:28.010 --> 01:01:31.010 align:middle line:90%
+
+
+01:01:31.010 --> 01:01:33.320 align:middle line:84%
+When BP could raise
+its price and then
+
+01:01:33.320 --> 01:01:35.780 align:middle line:84%
+have Caltex follow
+two hours later,
+
+01:01:35.780 --> 01:01:38.150 align:middle line:84%
+it seemed like it was
+happy to raise its price
+
+01:01:38.150 --> 01:01:40.790 align:middle line:84%
+and sell very little
+gas for a few hours.
+
+01:01:40.790 --> 01:01:45.410 align:middle line:84%
+It seemed unwilling
+to do this when
+
+01:01:45.410 --> 01:01:49.130 align:middle line:84%
+it would be selling nothing for
+a full day and it didn't know--
+
+01:01:49.130 --> 01:01:49.760 align:middle line:90%
+maybe two days.
+
+01:01:49.760 --> 01:01:52.790 align:middle line:84%
+Maybe Caltex isn't going
+to follow you the next day.
+
+01:01:52.790 --> 01:01:54.680 align:middle line:84%
+Anyway, the pattern
+of leadership
+
+01:01:54.680 --> 01:02:00.335 align:middle line:84%
+changes, and so now it
+seems like BP and Caltex
+
+01:02:00.335 --> 01:02:02.640 align:middle line:84%
+share the role of being
+the price leaders.
+
+01:02:02.640 --> 01:02:08.330 align:middle line:84%
+So maybe 40% of the price
+cycles are triggered by BP
+
+01:02:08.330 --> 01:02:11.330 align:middle line:84%
+raising prices, 40%
+are triggered by Caltex
+
+01:02:11.330 --> 01:02:14.330 align:middle line:84%
+raising prices, and also
+Shell is sometimes doing it,
+
+01:02:14.330 --> 01:02:16.300 align:middle line:84%
+but again, doing it less
+often than the others.
+
+01:02:16.300 --> 01:02:20.112 align:middle line:90%
+
+
+01:02:20.112 --> 01:02:22.070 align:middle line:84%
+He argues that it does
+look like-- you remember
+
+01:02:22.070 --> 01:02:24.028 align:middle line:84%
+I talked about the way
+these cycles work is you
+
+01:02:24.028 --> 01:02:26.832 align:middle line:84%
+go down here, and then at the
+bottom in the mass control
+
+01:02:26.832 --> 01:02:28.790 align:middle line:84%
+model, you have this
+mixed strategy equilibrium
+
+01:02:28.790 --> 01:02:31.280 align:middle line:84%
+where the firms mix between
+staying here and getting
+
+01:02:31.280 --> 01:02:35.090 align:middle line:84%
+a low profit and going
+here and getting no profit.
+
+01:02:35.090 --> 01:02:41.150 align:middle line:84%
+He says a model with independent
+mixing by BP and Caltex
+
+01:02:41.150 --> 01:02:43.470 align:middle line:84%
+does look like it
+explains what's going on.
+
+01:02:43.470 --> 01:02:47.570 align:middle line:84%
+It's like they're each mixing,
+and with probability 0.5,
+
+01:02:47.570 --> 01:02:50.600 align:middle line:84%
+they go up, and with
+probability 0.5, they stay down.
+
+01:02:50.600 --> 01:02:54.590 align:middle line:84%
+He argues that it looks like
+independent mixing because you--
+
+01:02:54.590 --> 01:02:57.260 align:middle line:84%
+imagine if they were mixing
+50/50 independently of each
+
+01:02:57.260 --> 01:03:00.200 align:middle line:84%
+other, what you should see is a
+quarter of the days nobody goes
+
+01:03:00.200 --> 01:03:03.860 align:middle line:84%
+up, a quarter of the days,
+one of the two goes up.
+
+01:03:03.860 --> 01:03:05.568 align:middle line:84%
+A quarter of the days,
+BP and not Caltex.
+
+01:03:05.568 --> 01:03:07.152 align:middle line:84%
+A quarter of the
+days, Caltex, not BP.
+
+01:03:07.152 --> 01:03:09.170 align:middle line:84%
+And then a quarter of the
+time, they both go up.
+
+01:03:09.170 --> 01:03:11.300 align:middle line:84%
+Looking at the frequency
+with which they both go up
+
+01:03:11.300 --> 01:03:13.410 align:middle line:84%
+and none go up and
+one but not the other,
+
+01:03:13.410 --> 01:03:16.850 align:middle line:84%
+it does look like they're
+playing independent mixtures
+
+01:03:16.850 --> 01:03:19.140 align:middle line:84%
+down at the bottom, and
+that's the thing they've
+
+01:03:19.140 --> 01:03:21.420 align:middle line:90%
+settled themselves into.
+
+01:03:21.420 --> 01:03:25.860 align:middle line:84%
+And basically, if you want, did
+this law affect average markups
+
+01:03:25.860 --> 01:03:27.040 align:middle line:90%
+over wholesale price?
+
+01:03:27.040 --> 01:03:28.560 align:middle line:90%
+This law did not.
+
+01:03:28.560 --> 01:03:31.950 align:middle line:84%
+So whatever you thought that
+this was an anti-market power
+
+01:03:31.950 --> 01:03:34.842 align:middle line:90%
+law, this did not work.
+
+01:03:34.842 --> 01:03:37.050 align:middle line:84%
+And you know, it did not
+work despite the fact also--
+
+01:03:37.050 --> 01:03:38.508 align:middle line:84%
+I guess another
+part of the law was
+
+01:03:38.508 --> 01:03:42.905 align:middle line:84%
+that you have to
+report your price,
+
+01:03:42.905 --> 01:03:44.280 align:middle line:84%
+and those prices
+are being posted
+
+01:03:44.280 --> 01:03:47.190 align:middle line:84%
+by the Australian
+government on the internet
+
+01:03:47.190 --> 01:03:49.170 align:middle line:84%
+so that anyone
+wanting to buy gas now
+
+01:03:49.170 --> 01:03:51.798 align:middle line:84%
+has the perfect gas
+app because everyone's
+
+01:03:51.798 --> 01:03:54.090 align:middle line:84%
+required by law to charge
+the same price they announced
+
+01:03:54.090 --> 01:03:55.113 align:middle line:90%
+at 2 o'clock yesterday.
+
+01:03:55.113 --> 01:03:57.030 align:middle line:84%
+So you can just get on
+your app in the evening
+
+01:03:57.030 --> 01:04:00.960 align:middle line:84%
+and say, these are tomorrow's
+prices for every gas
+
+01:04:00.960 --> 01:04:02.880 align:middle line:84%
+station in the
+country or these are
+
+01:04:02.880 --> 01:04:05.570 align:middle line:84%
+the current prices of every
+gas station in the country.
+
+01:04:05.570 --> 01:04:07.570 align:middle line:84%
+In the city, these are
+what they're going to be.
+
+01:04:07.570 --> 01:04:10.320 align:middle line:84%
+Plan your trip to go to
+the cheapest gas stations,
+
+01:04:10.320 --> 01:04:12.465 align:middle line:90%
+cause more price sensitivity.
+
+01:04:12.465 --> 01:04:13.760 align:middle line:90%
+That didn't happen either.
+
+01:04:13.760 --> 01:04:19.790 align:middle line:90%
+
+
+01:04:19.790 --> 01:04:21.040 align:middle line:90%
+Any questions?
+
+01:04:21.040 --> 01:04:24.360 align:middle line:84%
+And, you know, in some cases,
+maybe why shouldn't it happen?
+
+01:04:24.360 --> 01:04:26.820 align:middle line:84%
+Mass control is with
+perfect competition.
+
+01:04:26.820 --> 01:04:29.735 align:middle line:84%
+With infinitely elastic
+consumers, you get these cycles.
+
+01:04:29.735 --> 01:04:32.400 align:middle line:90%
+
+
+01:04:32.400 --> 01:04:34.320 align:middle line:84%
+You make people closer
+to the mass control
+
+01:04:34.320 --> 01:04:36.300 align:middle line:84%
+ideal of infinitely
+elastic, you still
+
+01:04:36.300 --> 01:04:38.940 align:middle line:90%
+get the undercutting process.
+
+01:04:38.940 --> 01:04:41.460 align:middle line:84%
+So it's not at all
+clear that that ought--
+
+01:04:41.460 --> 01:04:42.960 align:middle line:90%
+again, in a static sense, yes.
+
+01:04:42.960 --> 01:04:45.390 align:middle line:84%
+In a static model, make
+people more price sensitive,
+
+01:04:45.390 --> 01:04:46.920 align:middle line:90%
+prices go down.
+
+01:04:46.920 --> 01:04:48.580 align:middle line:84%
+But make you more
+price sensitive,
+
+01:04:48.580 --> 01:04:50.940 align:middle line:84%
+maybe it just makes the
+mass control thing even more
+
+01:04:50.940 --> 01:04:52.523 align:middle line:84%
+of an equilibrium
+than it already was.
+
+01:04:52.523 --> 01:04:58.490 align:middle line:90%
+
+
+01:04:58.490 --> 01:05:00.410 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+01:05:00.410 --> 01:05:02.525 align:middle line:84%
+GLENN ELLISON: Yeah,
+so I haven't seen--
+
+01:05:02.525 --> 01:05:07.340 align:middle line:90%
+
+
+01:05:07.340 --> 01:05:09.230 align:middle line:90%
+you know, I don't know.
+
+01:05:09.230 --> 01:05:12.800 align:middle line:90%
+You guys probably don't go.
+
+01:05:12.800 --> 01:05:14.660 align:middle line:90%
+Leon Musolff was giving the--
+
+01:05:14.660 --> 01:05:17.720 align:middle line:90%
+
+
+01:05:17.720 --> 01:05:22.010 align:middle line:84%
+he was giving the Harvard
+MIT IO workshop talk.
+
+01:05:22.010 --> 01:05:25.280 align:middle line:84%
+You know, he was just
+doing data on pricing
+
+01:05:25.280 --> 01:05:28.310 align:middle line:90%
+of goods sold on Amazon.
+
+01:05:28.310 --> 01:05:31.890 align:middle line:84%
+So he has very high frequency
+data of prices sold on Amazon.
+
+01:05:31.890 --> 01:05:35.030 align:middle line:84%
+It sounded like he was
+saying in his Amazon data
+
+01:05:35.030 --> 01:05:36.920 align:middle line:84%
+it looked like there
+were Edgeworth cycles.
+
+01:05:36.920 --> 01:05:39.420 align:middle line:84%
+And he has an Edgeworth cycle
+paper that he's writing on it,
+
+01:05:39.420 --> 01:05:42.950 align:middle line:84%
+but he was describing it as
+maybe it looks like 10% to 20%
+
+01:05:42.950 --> 01:05:44.670 align:middle line:84%
+of the goods being
+sold on Amazon
+
+01:05:44.670 --> 01:05:46.220 align:middle line:84%
+he's finding Edgeworth
+price cycles,
+
+01:05:46.220 --> 01:05:48.500 align:middle line:84%
+and the other 80%
+he's finding things
+
+01:05:48.500 --> 01:05:52.310 align:middle line:84%
+that look more like
+stable pricing.
+
+01:05:52.310 --> 01:05:53.990 align:middle line:84%
+This is like people
+selling umbrellas
+
+01:05:53.990 --> 01:05:56.810 align:middle line:84%
+on Amazon or people
+selling whatever.
+
+01:05:56.810 --> 01:05:59.640 align:middle line:84%
+He does a lot of
+fashion categories.
+
+01:05:59.640 --> 01:06:02.310 align:middle line:90%
+So anyway, I think--
+
+01:06:02.310 --> 01:06:03.040 align:middle line:90%
+I don't know.
+
+01:06:03.040 --> 01:06:05.970 align:middle line:84%
+I haven't seen papers about high
+frequency data on rental car
+
+01:06:05.970 --> 01:06:07.890 align:middle line:84%
+prices or airline
+prices or whatever
+
+01:06:07.890 --> 01:06:10.947 align:middle line:84%
+to ask how many of those things
+look like they have short run
+
+01:06:10.947 --> 01:06:13.530 align:middle line:84%
+cycles versus how many of them
+don't look like they don't have
+
+01:06:13.530 --> 01:06:14.420 align:middle line:90%
+short run cycles.
+
+01:06:14.420 --> 01:06:22.160 align:middle line:90%
+
+
+01:06:22.160 --> 01:06:23.530 align:middle line:90%
+But something that does go--
+
+01:06:23.530 --> 01:06:26.350 align:middle line:84%
+in mass control, it
+is, in some sense--
+
+01:06:26.350 --> 01:06:28.000 align:middle line:84%
+I think mass
+control does say you
+
+01:06:28.000 --> 01:06:30.610 align:middle line:84%
+need to have pretty price
+sensitive things to create
+
+01:06:30.610 --> 01:06:31.170 align:middle line:90%
+these cycles.
+
+01:06:31.170 --> 01:06:33.690 align:middle line:90%
+
+
+01:06:33.690 --> 01:06:36.810 align:middle line:84%
+It might be the internet
+price comparison sites make
+
+01:06:36.810 --> 01:06:38.503 align:middle line:84%
+more things like
+gas stations that
+
+01:06:38.503 --> 01:06:40.920 align:middle line:84%
+used to be like gas stations
+and might cause more of these
+
+01:06:40.920 --> 01:06:41.900 align:middle line:90%
+than we used to see.
+
+01:06:41.900 --> 01:06:46.070 align:middle line:90%
+
+
+01:06:46.070 --> 01:06:46.570 align:middle line:90%
+OK.
+
+01:06:46.570 --> 01:06:50.740 align:middle line:84%
+So Then the final thing I wanted
+to do is give a little bit of--
+
+01:06:50.740 --> 01:06:54.350 align:middle line:84%
+again, this is an empirical
+part of this paper.
+
+01:06:54.350 --> 01:06:57.080 align:middle line:84%
+This paper, really, it's an
+empirical part motivating
+
+01:06:57.080 --> 01:06:59.780 align:middle line:84%
+a theory model, but I
+figured I would just
+
+01:06:59.780 --> 01:07:02.990 align:middle line:84%
+discuss the descriptive
+evidence as what evidence do
+
+01:07:02.990 --> 01:07:06.020 align:middle line:84%
+we have on pricing
+algorithms and online sites
+
+01:07:06.020 --> 01:07:09.650 align:middle line:84%
+and what are pricing
+algorithms doing to pricing.
+
+01:07:09.650 --> 01:07:11.870 align:middle line:84%
+And actually, it's
+more suggesting
+
+01:07:11.870 --> 01:07:14.550 align:middle line:84%
+that we need different
+models of pricing algorithms.
+
+01:07:14.550 --> 01:07:17.420 align:middle line:84%
+But so what Brown and
+MacKay do, again, this
+
+01:07:17.420 --> 01:07:23.360 align:middle line:84%
+is a totally graduate student
+capable paper where they've
+
+01:07:23.360 --> 01:07:25.200 align:middle line:90%
+got no proprietary data at all.
+
+01:07:25.200 --> 01:07:27.620 align:middle line:84%
+They're just web
+scraping prices.
+
+01:07:27.620 --> 01:07:31.580 align:middle line:84%
+And what they did is they
+set up scraping programs
+
+01:07:31.580 --> 01:07:37.100 align:middle line:84%
+to collect data on an
+hourly basis from April 2018
+
+01:07:37.100 --> 01:07:38.940 align:middle line:90%
+through October 2019.
+
+01:07:38.940 --> 01:07:41.090 align:middle line:84%
+So it's about a year
+and a half of data.
+
+01:07:41.090 --> 01:07:44.310 align:middle line:84%
+And every hour they went
+to five different websites.
+
+01:07:44.310 --> 01:07:45.770 align:middle line:84%
+They don't give
+the names, but they
+
+01:07:45.770 --> 01:07:49.340 align:middle line:84%
+do say these are the five most
+common websites in which people
+
+01:07:49.340 --> 01:07:51.570 align:middle line:84%
+buy allergy medicines
+in the United States.
+
+01:07:51.570 --> 01:07:55.320 align:middle line:84%
+So I assume the five websites
+are Amazon, Walmart, Target,
+
+01:07:55.320 --> 01:07:58.390 align:middle line:84%
+CVS, and Walgreens,
+but I don't know.
+
+01:07:58.390 --> 01:08:01.470 align:middle line:84%
+Anyway, they picked seven
+allergy drugs, Allegra,
+
+01:08:01.470 --> 01:08:03.430 align:middle line:90%
+Benadryl, Claritin, et cetera.
+
+01:08:03.430 --> 01:08:07.470 align:middle line:84%
+And they just scraped the prices
+for every different package
+
+01:08:07.470 --> 01:08:10.200 align:middle line:90%
+size of those items.
+
+01:08:10.200 --> 01:08:17.580 align:middle line:84%
+Because you can buy Xyzal in 80
+tablet jars and 55 tablet jars
+
+01:08:17.580 --> 01:08:20.130 align:middle line:84%
+and 30 tablet jars and
+something or other,
+
+01:08:20.130 --> 01:08:26.319 align:middle line:84%
+these seven drugs create,
+like, 150 different products.
+
+01:08:26.319 --> 01:08:28.300 align:middle line:84%
+There are a lot of
+different packages.
+
+01:08:28.300 --> 01:08:31.890 align:middle line:84%
+Many of the stores only sell
+the three most common packages
+
+01:08:31.890 --> 01:08:33.990 align:middle line:90%
+for them.
+
+01:08:33.990 --> 01:08:37.080 align:middle line:84%
+But anyway, so what they
+scraped is every price
+
+01:08:37.080 --> 01:08:39.300 align:middle line:84%
+that they could
+find for any version
+
+01:08:39.300 --> 01:08:42.399 align:middle line:84%
+of these drugs every hour
+for a year and a half.
+
+01:08:42.399 --> 01:08:44.500 align:middle line:84%
+And then they're trying
+to record basically,
+
+01:08:44.500 --> 01:08:47.880 align:middle line:84%
+what happens to learn about
+the pricing algorithms
+
+01:08:47.880 --> 01:08:49.950 align:middle line:90%
+that these firms are doing.
+
+01:08:49.950 --> 01:08:52.800 align:middle line:84%
+Thinking about the
+q-learning theory.
+
+01:08:52.800 --> 01:08:55.120 align:middle line:84%
+Are these firms running
+q-learning algorithms?
+
+01:08:55.120 --> 01:08:56.245 align:middle line:90%
+What are they doing?
+
+01:08:56.245 --> 01:08:58.620 align:middle line:84%
+What can we pick up from just
+observing the price changes
+
+01:08:58.620 --> 01:09:00.953 align:middle line:84%
+that they're making as a
+function of their rivals prices
+
+01:09:00.953 --> 01:09:03.540 align:middle line:90%
+and so on?
+
+01:09:03.540 --> 01:09:07.000 align:middle line:84%
+There's clear heterogeneity
+in practices across website.
+
+01:09:07.000 --> 01:09:09.569 align:middle line:84%
+There's one retailer
+they call A.
+
+01:09:09.569 --> 01:09:12.420 align:middle line:84%
+I'm going to guess
+that that's Amazon.
+
+01:09:12.420 --> 01:09:14.593 align:middle line:84%
+Retailer A is very
+different from the others.
+
+01:09:14.593 --> 01:09:16.260 align:middle line:84%
+One thing that retailer
+A is, is clearly
+
+01:09:16.260 --> 01:09:17.859 align:middle line:90%
+is much bigger than the others.
+
+01:09:17.859 --> 01:09:22.689 align:middle line:84%
+Every other website has roughly
+50 of these drugs available.
+
+01:09:22.689 --> 01:09:25.830 align:middle line:84%
+Retailer A has 150,
+so retailer A just
+
+01:09:25.830 --> 01:09:28.452 align:middle line:90%
+has many, many more versions.
+
+01:09:28.452 --> 01:09:29.910 align:middle line:84%
+Retailer A seems
+to have just about
+
+01:09:29.910 --> 01:09:32.910 align:middle line:84%
+everything in the world
+that's sold is on retailer A,
+
+01:09:32.910 --> 01:09:35.220 align:middle line:90%
+whereas it's not on the others.
+
+01:09:35.220 --> 01:09:37.800 align:middle line:84%
+Retailer A is also
+changing its prices
+
+01:09:37.800 --> 01:09:41.290 align:middle line:90%
+1.89 times per day per product.
+
+01:09:41.290 --> 01:09:47.520 align:middle line:84%
+So if you ask, do you want
+to buy 80 tablets of Xyzal,
+
+01:09:47.520 --> 01:09:50.290 align:middle line:84%
+how long do you have to wait for
+the price of Xyzal to change?
+
+01:09:50.290 --> 01:09:54.800 align:middle line:84%
+The answer is, like, 15 hours
+the price is going to change,
+
+01:09:54.800 --> 01:09:56.640 align:middle line:84%
+and it just changes
+over and over again.
+
+01:09:56.640 --> 01:09:59.180 align:middle line:84%
+So when they graph
+the raw price data,
+
+01:09:59.180 --> 01:10:03.630 align:middle line:84%
+the black is the
+retailer A's prices.
+
+01:10:03.630 --> 01:10:05.270 align:middle line:90%
+Yeah?
+
+01:10:05.270 --> 01:10:07.430 align:middle line:84%
+AUDIENCE: Anecdotally,
+I know when you--
+
+01:10:07.430 --> 01:10:10.340 align:middle line:84%
+I think I've heard
+that sometimes when
+
+01:10:10.340 --> 01:10:12.830 align:middle line:84%
+you look at Amazon a
+lot and keep putting,
+
+01:10:12.830 --> 01:10:14.390 align:middle line:84%
+they just change
+the price for you.
+
+01:10:14.390 --> 01:10:15.510 align:middle line:84%
+GLENN ELLISON: For
+you personally.
+
+01:10:15.510 --> 01:10:17.302 align:middle line:84%
+AUDIENCE: So could it
+just be that Amazon's
+
+01:10:17.302 --> 01:10:18.620 align:middle line:90%
+doing personalized pricing.
+
+01:10:18.620 --> 01:10:20.300 align:middle line:84%
+GLENN ELLISON: So
+it could be they're
+
+01:10:20.300 --> 01:10:25.970 align:middle line:84%
+getting something that Amazon
+is picking up their program.
+
+01:10:25.970 --> 01:10:27.620 align:middle line:90%
+And I don't know--
+
+01:10:27.620 --> 01:10:29.660 align:middle line:84%
+I don't know the details
+of what kind of program
+
+01:10:29.660 --> 01:10:31.862 align:middle line:84%
+they were using to
+access this data
+
+01:10:31.862 --> 01:10:34.070 align:middle line:84%
+and whether Amazon could
+have recognized that program
+
+01:10:34.070 --> 01:10:35.870 align:middle line:90%
+and done something to it.
+
+01:10:35.870 --> 01:10:40.400 align:middle line:84%
+But anyway, this
+black is the graph
+
+01:10:40.400 --> 01:10:43.220 align:middle line:84%
+of what Amazon was
+returning to them,
+
+01:10:43.220 --> 01:10:46.430 align:middle line:84%
+which is these prices
+changing quite frequently.
+
+01:10:46.430 --> 01:10:49.490 align:middle line:84%
+Other thing you actually
+notice is price levels differ.
+
+01:10:49.490 --> 01:10:54.840 align:middle line:84%
+It looks like this A was
+changing prices all the time
+
+01:10:54.840 --> 01:10:57.450 align:middle line:84%
+and substantially
+undercutting what
+
+01:10:57.450 --> 01:11:01.590 align:middle line:84%
+the red and the green and
+the blue firm are doing.
+
+01:11:01.590 --> 01:11:02.490 align:middle line:90%
+OK?
+
+01:11:02.490 --> 01:11:04.920 align:middle line:84%
+The other one that changes
+price fairly frequently
+
+01:11:04.920 --> 01:11:08.100 align:middle line:84%
+is the green firm,
+B. B changes prices,
+
+01:11:08.100 --> 01:11:10.890 align:middle line:90%
+on average, 0.28 times per day.
+
+01:11:10.890 --> 01:11:15.018 align:middle line:84%
+And so firm B is this green line
+here that's doing that there.
+
+01:11:15.018 --> 01:11:17.310 align:middle line:84%
+At the end here it's harder
+to see because the green is
+
+01:11:17.310 --> 01:11:19.080 align:middle line:90%
+more mixed in with the black.
+
+01:11:19.080 --> 01:11:21.030 align:middle line:84%
+And then you have the
+three firms, C, D,
+
+01:11:21.030 --> 01:11:23.670 align:middle line:84%
+and E, that are
+the ones up here.
+
+01:11:23.670 --> 01:11:27.330 align:middle line:84%
+E is really like this blue
+line that's largely here.
+
+01:11:27.330 --> 01:11:31.410 align:middle line:84%
+Red and the orange ones are
+going up and down occasionally.
+
+01:11:31.410 --> 01:11:34.230 align:middle line:84%
+And there are gaps in this data
+because you write a program
+
+01:11:34.230 --> 01:11:37.650 align:middle line:84%
+to scrape data every hour
+and then the websites change
+
+01:11:37.650 --> 01:11:40.578 align:middle line:84%
+their interfaces and you
+don't notice it for a while
+
+01:11:40.578 --> 01:11:42.120 align:middle line:84%
+that your program
+is broken, and then
+
+01:11:42.120 --> 01:11:43.770 align:middle line:90%
+you have to fix your program.
+
+01:11:43.770 --> 01:11:45.702 align:middle line:84%
+Many, many times during
+a year and a half,
+
+01:11:45.702 --> 01:11:47.160 align:middle line:84%
+they changed their
+website in a way
+
+01:11:47.160 --> 01:11:48.785 align:middle line:84%
+that your scraping
+program doesn't work
+
+01:11:48.785 --> 01:11:52.540 align:middle line:84%
+and you have to fix it, and
+then you have missing data.
+
+01:11:52.540 --> 01:11:54.430 align:middle line:90%
+So some findings.
+
+01:11:54.430 --> 01:11:56.680 align:middle line:84%
+Firms seem to be
+updating on a schedule
+
+01:11:56.680 --> 01:11:59.010 align:middle line:84%
+and there seem to be two
+technologies going on here.
+
+01:11:59.010 --> 01:12:02.620 align:middle line:90%
+So remember, this is 2018, 2019.
+
+01:12:02.620 --> 01:12:06.790 align:middle line:84%
+Firms A and B seem to be running
+some kind of price updating
+
+01:12:06.790 --> 01:12:10.600 align:middle line:84%
+program that's roughly
+equally likely to change
+
+01:12:10.600 --> 01:12:15.160 align:middle line:84%
+the price at any hour of the day
+or night on any day of the week.
+
+01:12:15.160 --> 01:12:18.160 align:middle line:84%
+So these are the probability
+that a price change occurs
+
+01:12:18.160 --> 01:12:19.840 align:middle line:84%
+in a particular
+hour of the week,
+
+01:12:19.840 --> 01:12:26.850 align:middle line:84%
+running from Saturday midnight
+to Friday, 11:59 PM or whatever.
+
+01:12:26.850 --> 01:12:27.490 align:middle line:90%
+OK?
+
+01:12:27.490 --> 01:12:29.590 align:middle line:84%
+A and B seem to be having
+these programs that
+
+01:12:29.590 --> 01:12:31.753 align:middle line:84%
+just run all the time
+that change their prices.
+
+01:12:31.753 --> 01:12:34.420 align:middle line:90%
+
+
+01:12:34.420 --> 01:12:38.860 align:middle line:84%
+Retailer C seems to run a
+program between 3:00 and 6:00 AM
+
+01:12:38.860 --> 01:12:41.180 align:middle line:90%
+and sometimes change prices.
+
+01:12:41.180 --> 01:12:44.680 align:middle line:84%
+Again, remember, retailer C
+is changing prices roughly--
+
+01:12:44.680 --> 01:12:47.920 align:middle line:84%
+each individual drug's price
+changes roughly once a month
+
+01:12:47.920 --> 01:12:53.670 align:middle line:84%
+at retailer C. So they seem
+to change prices roughly
+
+01:12:53.670 --> 01:12:54.400 align:middle line:90%
+once a month.
+
+01:12:54.400 --> 01:12:58.140 align:middle line:84%
+When they do change prices, it's
+between 3:00 and 6:00 AM on some
+
+01:12:58.140 --> 01:13:00.690 align:middle line:84%
+day of the week, and all days
+they're doing price changing
+
+01:13:00.690 --> 01:13:02.390 align:middle line:90%
+activity.
+
+01:13:02.390 --> 01:13:07.330 align:middle line:84%
+And retailers D and E
+are changing their prices
+
+01:13:07.330 --> 01:13:12.940 align:middle line:84%
+at midnight Eastern time
+on Sunday, going into--
+
+01:13:12.940 --> 01:13:15.250 align:middle line:84%
+Saturday night, going
+into Sunday morning.
+
+01:13:15.250 --> 01:13:17.500 align:middle line:84%
+So slightly after
+midnight Saturday
+
+01:13:17.500 --> 01:13:20.800 align:middle line:84%
+night, they do
+change their prices.
+
+01:13:20.800 --> 01:13:25.330 align:middle line:84%
+Retailer E, it's almost
+always right around midnight,
+
+01:13:25.330 --> 01:13:28.810 align:middle line:84%
+and then retailer D, it's
+between midnight and 3:00 AM
+
+01:13:28.810 --> 01:13:31.050 align:middle line:90%
+or something the prices change.
+
+01:13:31.050 --> 01:13:34.890 align:middle line:84%
+So clearly these firms are
+using different technologies,
+
+01:13:34.890 --> 01:13:36.720 align:middle line:84%
+and it seems like
+two of them are
+
+01:13:36.720 --> 01:13:38.970 align:middle line:84%
+using a very old fashioned
+technology of having
+
+01:13:38.970 --> 01:13:41.610 align:middle line:84%
+a meeting where they get
+together and discuss what prices
+
+01:13:41.610 --> 01:13:46.580 align:middle line:84%
+should be, and then others are
+doing the change it more often.
+
+01:13:46.580 --> 01:13:52.830 align:middle line:90%
+
+
+01:13:52.830 --> 01:13:56.130 align:middle line:84%
+Are these pricing algorithms
+like the pricing algorithms
+
+01:13:56.130 --> 01:13:58.920 align:middle line:84%
+I discussed in the
+q-learning theory
+
+01:13:58.920 --> 01:14:03.690 align:middle line:84%
+where your price depends
+on the other firm's prices
+
+01:14:03.690 --> 01:14:05.440 align:middle line:90%
+and you're reacting to them?
+
+01:14:05.440 --> 01:14:08.520 align:middle line:84%
+And yes, firms A and
+B, their algorithms
+
+01:14:08.520 --> 01:14:09.850 align:middle line:90%
+are reacting to prices.
+
+01:14:09.850 --> 01:14:12.330 align:middle line:90%
+What they do here is that--
+
+01:14:12.330 --> 01:14:16.020 align:middle line:84%
+you remember D makes those
+changes very, very rarely.
+
+01:14:16.020 --> 01:14:19.000 align:middle line:84%
+D is making those changes once
+every two or three months,
+
+01:14:19.000 --> 01:14:22.110 align:middle line:84%
+and it's always making those
+changes just after midnight.
+
+01:14:22.110 --> 01:14:26.190 align:middle line:84%
+And so they ask, do
+A and B do something
+
+01:14:26.190 --> 01:14:32.700 align:middle line:84%
+different on those rare Sundays
+when D changes its price?
+
+01:14:32.700 --> 01:14:37.690 align:middle line:84%
+And what you find here is that,
+yes, A and B are reacting to D.
+
+01:14:37.690 --> 01:14:41.950 align:middle line:84%
+But A and B are not reacting
+all that quickly to D.
+
+01:14:41.950 --> 01:14:44.770 align:middle line:84%
+So it's not like they're
+doing hourly reactions.
+
+01:14:44.770 --> 01:14:48.530 align:middle line:84%
+So this is, is Amazon reacting
+to what goes on in cvs.com?
+
+01:14:48.530 --> 01:14:52.095 align:middle line:84%
+And the answer is yes,
+but not for a while.
+
+01:14:52.095 --> 01:14:53.470 align:middle line:84%
+So if you look at
+the probability
+
+01:14:53.470 --> 01:14:58.630 align:middle line:84%
+that there will be a price
+change after D changes
+
+01:14:58.630 --> 01:15:01.870 align:middle line:84%
+its price, and the answer
+is for 24 to 36 hours,
+
+01:15:01.870 --> 01:15:04.630 align:middle line:84%
+there's no additional
+probability
+
+01:15:04.630 --> 01:15:06.430 align:middle line:84%
+that A has changed
+its price based
+
+01:15:06.430 --> 01:15:08.480 align:middle line:90%
+on D having changed its price.
+
+01:15:08.480 --> 01:15:11.350 align:middle line:84%
+But then starting
+in about 36 hours,
+
+01:15:11.350 --> 01:15:14.740 align:middle line:84%
+going up to 48 or
+60 hours, yes, they
+
+01:15:14.740 --> 01:15:17.080 align:middle line:84%
+are then reacting
+to what D does.
+
+01:15:17.080 --> 01:15:18.850 align:middle line:84%
+And there's more
+probability that they
+
+01:15:18.850 --> 01:15:24.430 align:middle line:84%
+will change their price in
+the 36 to 72 hour window
+
+01:15:24.430 --> 01:15:27.930 align:middle line:84%
+after D has changed its price
+than there would be otherwise.
+
+01:15:27.930 --> 01:15:32.720 align:middle line:84%
+And so again, 36 to 72
+hours later means looking,
+
+01:15:32.720 --> 01:15:34.360 align:middle line:90%
+it's Saturday midnight.
+
+01:15:34.360 --> 01:15:36.110 align:middle line:90%
+D changes its price.
+
+01:15:36.110 --> 01:15:40.550 align:middle line:84%
+And so then it's Monday at
+noon to Tuesday at noon.
+
+01:15:40.550 --> 01:15:42.860 align:middle line:84%
+A is more likely to change
+its price if D has made
+
+01:15:42.860 --> 01:15:44.580 align:middle line:90%
+a price change in that period.
+
+01:15:44.580 --> 01:15:48.290 align:middle line:84%
+So it looks like A is running
+a price responsive algorithm,
+
+01:15:48.290 --> 01:15:50.150 align:middle line:84%
+but it's not
+something that would
+
+01:15:50.150 --> 01:15:52.910 align:middle line:84%
+cause the mass control
+gasoline price cycles
+
+01:15:52.910 --> 01:15:55.160 align:middle line:84%
+thing that CVS
+changes its price,
+
+01:15:55.160 --> 01:15:56.610 align:middle line:84%
+they're immediately
+undercutting.
+
+01:15:56.610 --> 01:15:59.017 align:middle line:90%
+It seems like a slower undercut.
+
+01:15:59.017 --> 01:16:01.100 align:middle line:84%
+But if you think about
+that, that might make sense
+
+01:16:01.100 --> 01:16:02.683 align:middle line:84%
+because if you know
+that D isn't going
+
+01:16:02.683 --> 01:16:05.900 align:middle line:84%
+to change its price for a month,
+you can just-- or two months,
+
+01:16:05.900 --> 01:16:08.150 align:middle line:84%
+you can figure out, what
+do we want to do now
+
+01:16:08.150 --> 01:16:09.840 align:middle line:90%
+that D is cheaper than us?
+
+01:16:09.840 --> 01:16:12.770 align:middle line:84%
+We'll just pick a price
+and then we'll stick--
+
+01:16:12.770 --> 01:16:14.790 align:middle line:84%
+and then we'll be optimally
+responding to them.
+
+01:16:14.790 --> 01:16:15.980 align:middle line:84%
+We don't need to respond
+to high frequency
+
+01:16:15.980 --> 01:16:17.095 align:middle line:90%
+because d isn't changing.
+
+01:16:17.095 --> 01:16:19.910 align:middle line:90%
+
+
+01:16:19.910 --> 01:16:22.160 align:middle line:84%
+Also what they find
+in this paper is
+
+01:16:22.160 --> 01:16:26.990 align:middle line:84%
+that the frequency
+of price changes
+
+01:16:26.990 --> 01:16:29.990 align:middle line:84%
+is clearly related to
+the prices being charged.
+
+01:16:29.990 --> 01:16:34.040 align:middle line:84%
+So if you make it price index
+where A's price for a product
+
+01:16:34.040 --> 01:16:41.000 align:middle line:84%
+is normalized to one, B is
+charging 5% more than A,
+
+01:16:41.000 --> 01:16:43.880 align:middle line:84%
+C is charging 10% more
+than A, and D and E
+
+01:16:43.880 --> 01:16:47.570 align:middle line:84%
+are charging roughly 30% more
+than A for the same product.
+
+01:16:47.570 --> 01:16:50.960 align:middle line:84%
+And those price
+levels seem to line up
+
+01:16:50.960 --> 01:16:53.790 align:middle line:84%
+with the frequency
+of the price effects.
+
+01:16:53.790 --> 01:16:56.330 align:middle line:84%
+But it's not just that D and E
+change their prices much less
+
+01:16:56.330 --> 01:16:59.040 align:middle line:84%
+often and only do it on
+Sunday mornings occasionally.
+
+01:16:59.040 --> 01:17:01.910 align:middle line:84%
+They're also just
+setting higher prices.
+
+01:17:01.910 --> 01:17:04.970 align:middle line:84%
+And then B and C, which
+are changing prices
+
+01:17:04.970 --> 01:17:08.330 align:middle line:84%
+more often than D and E
+but not as often as A,
+
+01:17:08.330 --> 01:17:13.340 align:middle line:84%
+they're setting intermediate
+prices on average.
+
+01:17:13.340 --> 01:17:16.670 align:middle line:84%
+And so motivated by these
+findings, what the paper then
+
+01:17:16.670 --> 01:17:19.340 align:middle line:84%
+has is it's got this
+theory section looking
+
+01:17:19.340 --> 01:17:22.460 align:middle line:84%
+at saying this question
+is what prices would
+
+01:17:22.460 --> 01:17:25.190 align:middle line:84%
+we expect if firms had
+different pricing technologies
+
+01:17:25.190 --> 01:17:27.680 align:middle line:84%
+and some were faster
+than the others?
+
+01:17:27.680 --> 01:17:33.020 align:middle line:84%
+And both A is best reacting to D
+and D is also optimally pricing,
+
+01:17:33.020 --> 01:17:35.360 align:middle line:84%
+knowing that we're going
+to set a price and then A
+
+01:17:35.360 --> 01:17:37.160 align:middle line:84%
+is going to undercut
+us and then we're
+
+01:17:37.160 --> 01:17:39.980 align:middle line:84%
+going to be stuck for a
+month being undercut by A.
+
+01:17:39.980 --> 01:17:42.700 align:middle line:90%
+How should we price?
+
+01:17:42.700 --> 01:17:44.890 align:middle line:84%
+And what they argue is that
+if you think about that,
+
+01:17:44.890 --> 01:17:46.473 align:middle line:84%
+even just think about
+the static game.
+
+01:17:46.473 --> 01:17:48.243 align:middle line:84%
+We're going to play
+this game just once.
+
+01:17:48.243 --> 01:17:49.660 align:middle line:84%
+I'm going to set
+my price and then
+
+01:17:49.660 --> 01:17:50.710 align:middle line:84%
+you're going to
+get to undercut me
+
+01:17:50.710 --> 01:17:51.550 align:middle line:84%
+and I'm going to
+be stuck because I
+
+01:17:51.550 --> 01:17:53.690 align:middle line:84%
+have an inferior
+updating technology.
+
+01:17:53.690 --> 01:17:55.630 align:middle line:90%
+How should you price?
+
+01:17:55.630 --> 01:17:57.100 align:middle line:84%
+And what they argue
+is that if you
+
+01:17:57.100 --> 01:18:01.150 align:middle line:84%
+think about a differentiated
+product like Hotelling model
+
+01:18:01.150 --> 01:18:04.060 align:middle line:84%
+or logit demand model,
+what you're going to do
+
+01:18:04.060 --> 01:18:06.430 align:middle line:84%
+is the Stackelberg leader
+here, the person who moves
+
+01:18:06.430 --> 01:18:09.790 align:middle line:84%
+first is disadvantaged, because
+you set your price first
+
+01:18:09.790 --> 01:18:11.420 align:middle line:84%
+and then the other
+guy undercuts you.
+
+01:18:11.420 --> 01:18:14.420 align:middle line:90%
+But what are you going to do?
+
+01:18:14.420 --> 01:18:17.500 align:middle line:84%
+You're going to price higher
+than the Nash equilibrium price
+
+01:18:17.500 --> 01:18:19.150 align:middle line:84%
+knowing you're going
+to be undercut,
+
+01:18:19.150 --> 01:18:20.620 align:middle line:84%
+and the equilibrium
+is going to be
+
+01:18:20.620 --> 01:18:25.510 align:middle line:84%
+where the firm that
+moves slow moves first,
+
+01:18:25.510 --> 01:18:28.930 align:middle line:84%
+prices well above
+the Nash equilibrium,
+
+01:18:28.930 --> 01:18:31.150 align:middle line:84%
+trying to induce the
+firm, undercutting
+
+01:18:31.150 --> 01:18:34.250 align:middle line:84%
+it to also undercut to
+an above Nash price.
+
+01:18:34.250 --> 01:18:36.970 align:middle line:84%
+And we end up with
+two above Nash prices
+
+01:18:36.970 --> 01:18:40.330 align:middle line:84%
+where the initial early
+mover is disadvantaged,
+
+01:18:40.330 --> 01:18:44.600 align:middle line:84%
+but it's disadvantaged,
+but it sets a high price
+
+01:18:44.600 --> 01:18:48.090 align:middle line:84%
+to try to induce the other
+firm to go high underneath it.
+
+01:18:48.090 --> 01:18:50.270 align:middle line:84%
+And knowing that you're
+going to be undercut
+
+01:18:50.270 --> 01:18:52.010 align:middle line:84%
+causes you to price
+higher than you would
+
+01:18:52.010 --> 01:18:54.060 align:middle line:84%
+in a simultaneous
+move pricing game.
+
+01:18:54.060 --> 01:18:59.840 align:middle line:84%
+And they argue that this
+asymmetric speed of adjustment
+
+01:18:59.840 --> 01:19:02.930 align:middle line:84%
+could be something that leads
+to super competitive prices
+
+01:19:02.930 --> 01:19:06.050 align:middle line:84%
+where, in their model, even A
+is pricing above the static Nash
+
+01:19:06.050 --> 01:19:06.980 align:middle line:90%
+point.
+
+01:19:06.980 --> 01:19:10.220 align:middle line:84%
+But it's like D and E are
+pricing well above static Nash
+
+01:19:10.220 --> 01:19:12.962 align:middle line:84%
+to try to pull A up knowing that
+they're going to be undercut,
+
+01:19:12.962 --> 01:19:14.420 align:middle line:84%
+but at least they're
+being undercut
+
+01:19:14.420 --> 01:19:18.090 align:middle line:84%
+and getting a moderate market
+share at a higher price.
+
+01:19:18.090 --> 01:19:21.050 align:middle line:84%
+And again, like
+in pure Bertrand,
+
+01:19:21.050 --> 01:19:22.230 align:middle line:90%
+this would not work well.
+
+01:19:22.230 --> 01:19:26.060 align:middle line:84%
+But if you think about this as
+like CVS competing with Amazon,
+
+01:19:26.060 --> 01:19:29.190 align:middle line:84%
+most people buying from CVS
+are just going to cvs.com.
+
+01:19:29.190 --> 01:19:32.450 align:middle line:84%
+There's got to be some cross
+elasticity between cvs.com
+
+01:19:32.450 --> 01:19:33.420 align:middle line:90%
+and Amazon.
+
+01:19:33.420 --> 01:19:36.470 align:middle line:84%
+But a lot of people just
+buying Zyrtec at CVS
+
+01:19:36.470 --> 01:19:39.020 align:middle line:84%
+just go to cvs.com,
+they buy their Zyrtec.
+
+01:19:39.020 --> 01:19:42.740 align:middle line:84%
+And so if you have these
+finite price elasticities,
+
+01:19:42.740 --> 01:19:44.690 align:middle line:84%
+they argue this
+pattern is something
+
+01:19:44.690 --> 01:19:48.630 align:middle line:84%
+you might expect to see
+of slow price adjustment
+
+01:19:48.630 --> 01:19:51.035 align:middle line:84%
+being a factor that can
+lead to higher price levels.
+
+01:19:51.035 --> 01:19:56.770 align:middle line:90%
+
+
+01:19:56.770 --> 01:19:58.030 align:middle line:90%
+Any questions?
+
+01:19:58.030 --> 01:19:59.810 align:middle line:90%
+So that is it for today.
+
+01:19:59.810 --> 01:20:01.430 align:middle line:90%
+So, yeah.
+
+01:20:01.430 --> 01:20:02.940 align:middle line:90%
+Next week's topic is entry.
+
+01:20:02.940 --> 01:20:06.640 align:middle line:84%
+Again, entry theory,
+Monday, empirics, Wednesday.
+
+01:20:06.640 --> 01:20:10.550 align:middle line:84%
+And Monday's lecture, really,
+it's a lot of textbook material.
+
+01:20:10.550 --> 01:20:17.710 align:middle line:84%
+I will be covering the Nikhil
+Vellodi paper towards the end,
+
+01:20:17.710 --> 01:20:20.850 align:middle line:84%
+but it'll mostly be
+stuff from Tirole's book.
+
+01:20:20.850 --> 01:20:44.000 align:middle line:90%

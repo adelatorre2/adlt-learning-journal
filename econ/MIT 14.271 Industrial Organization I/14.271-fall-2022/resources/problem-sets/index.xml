@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Problem Sets on MIT OpenCourseWare</title>
+    <link>/resources/problem-sets/</link>
+    <description>Recent content in Problem Sets on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/problem-sets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14.271 Problem Set 01</title>
+      <link>/resources/mit14_271_f22_pset1_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit14_271_f22_pset1_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>14.271 Problem Set 02</title>
+      <link>/resources/mit14_271_f22_pset2_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit14_271_f22_pset2_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>14.271 Problem Set 03</title>
+      <link>/resources/mit14_271_f22_pset3_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit14_271_f22_pset3_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>14.271 Problem Set 04</title>
+      <link>/resources/mit14_271_f22_pset4_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit14_271_f22_pset4_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>14.271 Problem Set 05</title>
+      <link>/resources/mit14_271_f22_pset5_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit14_271_f22_pset5_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>14.271 Problem Set 06</title>
+      <link>/resources/mit14_271_f22_pset6_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit14_271_f22_pset6_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>14.271 Problem Set 07</title>
+      <link>/resources/mit14_271_f22_pset7_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit14_271_f22_pset7_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>14.271 Problem Set 08</title>
+      <link>/resources/mit14_271_f22_pset8_pdf/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit14_271_f22_pset8_pdf/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mit14_271_f22_pset3_airlinedata.txt</title>
+      <link>/resources/mit14_271_f22_pset3_airlinedata_txt/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit14_271_f22_pset3_airlinedata_txt/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mit14_271_f22_pset5_data.csv</title>
+      <link>/resources/mit14_271_f22_pset5_data_csv/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit14_271_f22_pset5_data_csv/data.json</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

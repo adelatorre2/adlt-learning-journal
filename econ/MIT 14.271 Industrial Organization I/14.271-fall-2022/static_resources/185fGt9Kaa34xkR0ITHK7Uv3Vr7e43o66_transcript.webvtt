@@ -1,0 +1,6133 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.430 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.430 --> 00:00:03.888 align:middle line:90%
+[RUSTLING]
+
+00:00:03.888 --> 00:00:06.318 align:middle line:90%
+[CLICKING]
+
+00:00:06.318 --> 00:00:16.477 align:middle line:90%
+
+
+00:00:16.477 --> 00:00:18.060 align:middle line:84%
+GLENN ELLISON: So
+bounded rationality.
+
+00:00:18.060 --> 00:00:21.937 align:middle line:84%
+So we start that, you
+know, there's really,
+
+00:00:21.937 --> 00:00:24.020 align:middle line:84%
+if you go back and look
+through the IO literature,
+
+00:00:24.020 --> 00:00:26.420 align:middle line:84%
+there's this very, very
+long history of studying
+
+00:00:26.420 --> 00:00:29.960 align:middle line:90%
+bounded rationality.
+
+00:00:29.960 --> 00:00:32.840 align:middle line:84%
+In some sense, it
+starts at the same time
+
+00:00:32.840 --> 00:00:35.780 align:middle line:84%
+that Samuelson was having
+of revolution in going
+
+00:00:35.780 --> 00:00:39.080 align:middle line:84%
+towards rational economics,
+the entire time there
+
+00:00:39.080 --> 00:00:42.200 align:middle line:84%
+was active debate about
+whether we should be modeling
+
+00:00:42.200 --> 00:00:44.130 align:middle line:90%
+things rationally or not.
+
+00:00:44.130 --> 00:00:47.000 align:middle line:84%
+And if you look at the early
+IO with bounded rationality,
+
+00:00:47.000 --> 00:00:48.800 align:middle line:84%
+actually the
+difference from today
+
+00:00:48.800 --> 00:00:52.310 align:middle line:84%
+is there's an awful lot of
+IO with bounded rationality
+
+00:00:52.310 --> 00:00:53.440 align:middle line:90%
+on the firm side.
+
+00:00:53.440 --> 00:00:56.780 align:middle line:84%
+There's a lot of skepticism
+of this idea of firms
+
+00:00:56.780 --> 00:00:59.660 align:middle line:84%
+as sophisticated,
+profit-maximizing entities
+
+00:00:59.660 --> 00:01:01.260 align:middle line:90%
+that just always do what's best.
+
+00:01:01.260 --> 00:01:06.470 align:middle line:84%
+And so in the 1940s, there was
+this debate of should we think
+
+00:01:06.470 --> 00:01:09.050 align:middle line:84%
+of firms as maximizing profits
+or should we think of firms
+
+00:01:09.050 --> 00:01:13.430 align:middle line:84%
+as trying to get a pretty good
+profit that's secure and not
+
+00:01:13.430 --> 00:01:14.730 align:middle line:90%
+trying to maximize profits?
+
+00:01:14.730 --> 00:01:17.490 align:middle line:90%
+
+
+00:01:17.490 --> 00:01:20.760 align:middle line:84%
+There was also a lot of
+literature about this team
+
+00:01:20.760 --> 00:01:27.120 align:middle line:84%
+theory or Simon about firms have
+to process information that's
+
+00:01:27.120 --> 00:01:31.050 align:middle line:84%
+really complicated, just like
+firms have to manufacture goods,
+
+00:01:31.050 --> 00:01:33.100 align:middle line:84%
+firms have to deal
+with information.
+
+00:01:33.100 --> 00:01:36.010 align:middle line:84%
+They have bounded information
+processing capabilities.
+
+00:01:36.010 --> 00:01:38.170 align:middle line:84%
+They organize
+themselves to do this,
+
+00:01:38.170 --> 00:01:40.920 align:middle line:84%
+and there are costs of
+trying to set the right price
+
+00:01:40.920 --> 00:01:42.922 align:middle line:90%
+or costs of--
+
+00:01:42.922 --> 00:01:45.130 align:middle line:84%
+just like there are costs
+of trying to produce goods,
+
+00:01:45.130 --> 00:01:48.240 align:middle line:84%
+and we should take that
+those costs into account.
+
+00:01:48.240 --> 00:01:50.370 align:middle line:84%
+I'm actually going to
+talk a little bit more
+
+00:01:50.370 --> 00:01:52.330 align:middle line:84%
+about Smallwood and
+Conlisk on Wednesday,
+
+00:01:52.330 --> 00:01:55.140 align:middle line:84%
+but Smallwood and Conlisk
+were very clear arguing,
+
+00:01:55.140 --> 00:01:57.450 align:middle line:84%
+when first rational
+consumers were
+
+00:01:57.450 --> 00:02:00.930 align:middle line:84%
+coming in, that they felt
+rational consumers were much
+
+00:02:00.930 --> 00:02:02.920 align:middle line:84%
+less plausible than
+irrational consumers
+
+00:02:02.920 --> 00:02:05.910 align:middle line:84%
+and we shouldn't go all the
+way to assuming that consumers
+
+00:02:05.910 --> 00:02:11.009 align:middle line:84%
+are these hyper sophisticated,
+rational people.
+
+00:02:11.009 --> 00:02:14.220 align:middle line:84%
+More recent literature has
+really, over the last decades,
+
+00:02:14.220 --> 00:02:17.930 align:middle line:84%
+has focused on abandon
+the irrational firms
+
+00:02:17.930 --> 00:02:20.390 align:middle line:84%
+and gone with hyper
+sophisticated firms,
+
+00:02:20.390 --> 00:02:24.380 align:middle line:84%
+but firms exploiting
+boundedly rational customers.
+
+00:02:24.380 --> 00:02:26.960 align:middle line:84%
+That's a big literature
+and there's a thought of,
+
+00:02:26.960 --> 00:02:29.360 align:middle line:84%
+you know, this is why we
+want to have a consumer
+
+00:02:29.360 --> 00:02:31.640 align:middle line:84%
+financial protection
+bureau or other agencies,
+
+00:02:31.640 --> 00:02:35.270 align:middle line:84%
+because firms are going to try
+to exploit irrational consumers
+
+00:02:35.270 --> 00:02:38.210 align:middle line:90%
+and that creates inefficiencies.
+
+00:02:38.210 --> 00:02:40.190 align:middle line:84%
+These inefficiencies
+can be large because--
+
+00:02:40.190 --> 00:02:44.330 align:middle line:84%
+like normal inefficiencies are
+triangles of price are too high,
+
+00:02:44.330 --> 00:02:46.760 align:middle line:84%
+consumers who have a
+value a bit above cost
+
+00:02:46.760 --> 00:02:48.280 align:middle line:90%
+don't get to purchase things.
+
+00:02:48.280 --> 00:02:50.030 align:middle line:84%
+If you put in boundedly
+rational consumers
+
+00:02:50.030 --> 00:02:52.040 align:middle line:84%
+and consumers are buying
+things they don't want
+
+00:02:52.040 --> 00:02:54.320 align:middle line:84%
+or paying much more than
+something is worth to them,
+
+00:02:54.320 --> 00:02:56.540 align:middle line:84%
+you can get bigger
+inefficiencies.
+
+00:02:56.540 --> 00:02:59.150 align:middle line:84%
+And I would say there's three
+different approaches here
+
+00:02:59.150 --> 00:03:01.850 align:middle line:90%
+that you see taken.
+
+00:03:01.850 --> 00:03:04.820 align:middle line:84%
+One is the rule
+of thumb approach,
+
+00:03:04.820 --> 00:03:07.580 align:middle line:84%
+following Smallwood and
+Conlisk, which just says,
+
+00:03:07.580 --> 00:03:09.410 align:middle line:84%
+rather than modeling
+consumers as rational,
+
+00:03:09.410 --> 00:03:13.010 align:middle line:84%
+let's just say what we think
+is a reasonable model for what
+
+00:03:13.010 --> 00:03:14.930 align:middle line:84%
+consumers would actually
+do in a situation
+
+00:03:14.930 --> 00:03:17.480 align:middle line:84%
+like a consumer walks
+into a restaurant.
+
+00:03:17.480 --> 00:03:21.200 align:middle line:84%
+Do they really have a utility
+for every different thing
+
+00:03:21.200 --> 00:03:23.583 align:middle line:84%
+on the menu and have beliefs
+about how much they're
+
+00:03:23.583 --> 00:03:25.250 align:middle line:84%
+going to like everything
+they don't have
+
+00:03:25.250 --> 00:03:26.250 align:middle line:90%
+and rationally maximize?
+
+00:03:26.250 --> 00:03:28.563 align:middle line:84%
+Or do people just
+look at it quickly,
+
+00:03:28.563 --> 00:03:30.230 align:middle line:84%
+pick out something
+they think they like,
+
+00:03:30.230 --> 00:03:32.810 align:middle line:90%
+and buy it, or whatever.
+
+00:03:32.810 --> 00:03:34.890 align:middle line:84%
+The explicit
+bounded rationality.
+
+00:03:34.890 --> 00:03:37.430 align:middle line:84%
+In some sense, search
+theory is a model
+
+00:03:37.430 --> 00:03:41.000 align:middle line:84%
+of explicit bounded rationality
+that consumers may be rational
+
+00:03:41.000 --> 00:03:44.400 align:middle line:84%
+but have computational or
+other informational costs,
+
+00:03:44.400 --> 00:03:46.850 align:middle line:84%
+and they do this
+combination of doing
+
+00:03:46.850 --> 00:03:50.750 align:middle line:84%
+the best thing they can given
+their computational costs.
+
+00:03:50.750 --> 00:03:54.420 align:middle line:84%
+Search is one example,
+but there are many others.
+
+00:03:54.420 --> 00:03:57.740 align:middle line:84%
+And then the third branch is the
+psychology and economics branch
+
+00:03:57.740 --> 00:04:00.290 align:middle line:84%
+where this is building
+off the kinds of things
+
+00:04:00.290 --> 00:04:04.230 align:middle line:84%
+you would see in a behavioral
+economics class and modeling
+
+00:04:04.230 --> 00:04:06.810 align:middle line:84%
+consumers as having
+behavioral biases
+
+00:04:06.810 --> 00:04:09.600 align:middle line:84%
+and thinking about how
+firms exploit those.
+
+00:04:09.600 --> 00:04:13.150 align:middle line:84%
+You know, this has been the most
+active branch in recent years,
+
+00:04:13.150 --> 00:04:15.090 align:middle line:84%
+and so today's lecture,
+I'm pretty much--
+
+00:04:15.090 --> 00:04:17.673 align:middle line:84%
+unless I get to the paper at the
+end I think I won't have time
+
+00:04:17.673 --> 00:04:20.700 align:middle line:84%
+for, today is pretty much going
+to be about these psychology
+
+00:04:20.700 --> 00:04:23.890 align:middle line:90%
+and economics papers.
+
+00:04:23.890 --> 00:04:24.490 align:middle line:90%
+What goes on.
+
+00:04:24.490 --> 00:04:28.210 align:middle line:84%
+If you take a behavioral
+economics class?
+
+00:04:28.210 --> 00:04:30.270 align:middle line:84%
+You know, so over
+the last 25 years,
+
+00:04:30.270 --> 00:04:33.280 align:middle line:84%
+there's been this explosion of
+work in behavioral economics.
+
+00:04:33.280 --> 00:04:35.940 align:middle line:84%
+And the way behavioral
+economics classes normally go
+
+00:04:35.940 --> 00:04:39.330 align:middle line:84%
+is you talk about and read
+psychological studies that
+
+00:04:39.330 --> 00:04:43.170 align:middle line:84%
+talk about how consumers do
+things that are not rational,
+
+00:04:43.170 --> 00:04:46.680 align:middle line:84%
+and then you discuss
+models that people
+
+00:04:46.680 --> 00:04:50.400 align:middle line:84%
+have written to
+model behavior that's
+
+00:04:50.400 --> 00:04:52.470 align:middle line:84%
+kind of close to
+rational but not quite
+
+00:04:52.470 --> 00:04:55.990 align:middle line:84%
+rational in a way that would
+explain the psychological bias.
+
+00:04:55.990 --> 00:04:59.040 align:middle line:84%
+I mean, I guess Drew does a
+little bit of this in 123.
+
+00:04:59.040 --> 00:05:03.180 align:middle line:90%
+But it's you take a model that--
+
+00:05:03.180 --> 00:05:05.850 align:middle line:84%
+take a standard model and then
+you make some small tweak to it
+
+00:05:05.850 --> 00:05:08.800 align:middle line:84%
+that would allow consumers to
+behave in some different way,
+
+00:05:08.800 --> 00:05:12.630 align:middle line:84%
+and then get a utility-like
+model that may have one
+
+00:05:12.630 --> 00:05:14.890 align:middle line:84%
+or two extra free
+parameters that
+
+00:05:14.890 --> 00:05:18.210 align:middle line:84%
+could display this is nearly
+rational but with these two
+
+00:05:18.210 --> 00:05:19.960 align:middle line:84%
+extra parameters
+describing their behavior
+
+00:05:19.960 --> 00:05:23.892 align:middle line:84%
+instead of behaving
+fully rationally.
+
+00:05:23.892 --> 00:05:27.880 align:middle line:84%
+And there are many, many ways
+in the behavioral economics
+
+00:05:27.880 --> 00:05:29.440 align:middle line:84%
+literature in
+which consumers are
+
+00:05:29.440 --> 00:05:32.500 align:middle line:84%
+shown to behave not
+rationally, and there
+
+00:05:32.500 --> 00:05:36.020 align:middle line:84%
+are rational-like
+models for most of them.
+
+00:05:36.020 --> 00:05:38.130 align:middle line:90%
+So why don't I--
+
+00:05:38.130 --> 00:05:41.590 align:middle line:84%
+and, you know, the idea of
+how this behavioral economics
+
+00:05:41.590 --> 00:05:43.990 align:middle line:84%
+literature could have an
+influence is you write down
+
+00:05:43.990 --> 00:05:46.318 align:middle line:84%
+a nearly rational
+model, and then
+
+00:05:46.318 --> 00:05:48.610 align:middle line:84%
+any model that you could
+solve with rational consumers,
+
+00:05:48.610 --> 00:05:50.693 align:middle line:84%
+you can solve with these
+nearly rational consumers
+
+00:05:50.693 --> 00:05:52.732 align:middle line:84%
+because you have a
+well-specified thing
+
+00:05:52.732 --> 00:05:54.190 align:middle line:84%
+for their behavior
+which isn't just
+
+00:05:54.190 --> 00:05:56.290 align:middle line:90%
+maximizing utility function.
+
+00:05:56.290 --> 00:06:00.400 align:middle line:90%
+So, for instance, loss aversion.
+
+00:06:00.400 --> 00:06:03.730 align:middle line:84%
+In financial problems,
+what do consumers do?
+
+00:06:03.730 --> 00:06:07.486 align:middle line:90%
+They're taking some action a.
+
+00:06:07.486 --> 00:06:10.340 align:middle line:84%
+And in the rational model,
+if they take an action a,
+
+00:06:10.340 --> 00:06:13.640 align:middle line:84%
+they'll have some wealth w of
+a which is a random variable,
+
+00:06:13.640 --> 00:06:15.212 align:middle line:84%
+and then they have
+a utility that's
+
+00:06:15.212 --> 00:06:16.670 align:middle line:84%
+a function of that
+wealth, and then
+
+00:06:16.670 --> 00:06:19.460 align:middle line:84%
+they maximize the expected
+utility of the wealth
+
+00:06:19.460 --> 00:06:22.160 align:middle line:90%
+after taking the action.
+
+00:06:22.160 --> 00:06:25.280 align:middle line:84%
+In loss averse problems,
+what is assumed
+
+00:06:25.280 --> 00:06:29.000 align:middle line:84%
+is that consumers have
+a reference point, w0,
+
+00:06:29.000 --> 00:06:31.040 align:middle line:84%
+which could be their
+current wealth,
+
+00:06:31.040 --> 00:06:35.090 align:middle line:84%
+and they try to maximize
+some expected function
+
+00:06:35.090 --> 00:06:37.540 align:middle line:90%
+of w of a minus w of 0.
+
+00:06:37.540 --> 00:06:40.190 align:middle line:84%
+So you have utility
+not for wealth
+
+00:06:40.190 --> 00:06:45.860 align:middle line:84%
+but for changes in wealth,
+and zero is a, somehow,
+
+00:06:45.860 --> 00:06:48.600 align:middle line:90%
+point that's special.
+
+00:06:48.600 --> 00:06:50.918 align:middle line:84%
+And the simplest
+version of this is
+
+00:06:50.918 --> 00:06:52.460 align:middle line:84%
+that you have a
+utility function that
+
+00:06:52.460 --> 00:07:01.490 align:middle line:84%
+looks like this where you care
+much more about losing money
+
+00:07:01.490 --> 00:07:05.090 align:middle line:84%
+than you care about making
+money, and somehow losing money
+
+00:07:05.090 --> 00:07:06.050 align:middle line:90%
+is painful to you.
+
+00:07:06.050 --> 00:07:07.280 align:middle line:90%
+Because if you ask--
+
+00:07:07.280 --> 00:07:10.820 align:middle line:84%
+there are all these experiments,
+if you ask students which--
+
+00:07:10.820 --> 00:07:16.580 align:middle line:84%
+would you a 50/50 coin
+flip, win $101, lose $100?
+
+00:07:16.580 --> 00:07:20.390 align:middle line:84%
+And almost everyone says, no, I
+don't want to do the 50/50 coin
+
+00:07:20.390 --> 00:07:23.820 align:middle line:84%
+flip, win 101, lose 100,
+or something like that.
+
+00:07:23.820 --> 00:07:27.728 align:middle line:84%
+It's not enough of a gain to
+make it worth losing $100.
+
+00:07:27.728 --> 00:07:30.020 align:middle line:84%
+Matt Rabin has this very
+beautiful paper on calibrating
+
+00:07:30.020 --> 00:07:34.070 align:middle line:84%
+preferences that says it's
+just completely inconceivable
+
+00:07:34.070 --> 00:07:38.540 align:middle line:84%
+for a rational consumer to say
+no to a 50/50, 101, 100 gamble,
+
+00:07:38.540 --> 00:07:41.780 align:middle line:84%
+because if you're going to turn
+down a 50/50, 101, 100 gamble,
+
+00:07:41.780 --> 00:07:47.450 align:middle line:84%
+you would also turn down a lose
+5,000, win a trillion gamble.
+
+00:07:47.450 --> 00:07:49.520 align:middle line:84%
+Because in some sense,
+to turn down that gamble,
+
+00:07:49.520 --> 00:07:53.970 align:middle line:84%
+you've got to have a very
+concave utility function
+
+00:07:53.970 --> 00:07:55.930 align:middle line:84%
+and it's got to just
+keep getting concave.
+
+00:07:55.930 --> 00:07:59.340 align:middle line:84%
+And if you don't like
+small gambles, you can't--
+
+00:07:59.340 --> 00:08:02.070 align:middle line:84%
+obviously you all take million
+dollar gambles with your lives,
+
+00:08:02.070 --> 00:08:04.470 align:middle line:84%
+like when you choose
+your careers or whatever.
+
+00:08:04.470 --> 00:08:06.840 align:middle line:84%
+Somehow people treat
+big stakes gambles
+
+00:08:06.840 --> 00:08:09.390 align:middle line:84%
+very different from
+small stakes gambles.
+
+00:08:09.390 --> 00:08:11.940 align:middle line:84%
+This loss aversion
+is one way to explain
+
+00:08:11.940 --> 00:08:14.128 align:middle line:90%
+why people might do that.
+
+00:08:14.128 --> 00:08:16.170 align:middle line:84%
+People often-- I guess,
+more sophisticated models
+
+00:08:16.170 --> 00:08:20.850 align:middle line:84%
+do something more like
+this as a utility function.
+
+00:08:20.850 --> 00:08:23.697 align:middle line:84%
+But the whole point is that
+it does have a kink here where
+
+00:08:23.697 --> 00:08:26.030 align:middle line:84%
+the slope to the left and the
+slope to the right differ.
+
+00:08:26.030 --> 00:08:28.770 align:middle line:90%
+
+
+00:08:28.770 --> 00:08:30.270 align:middle line:84%
+When you have
+multiple goods, you
+
+00:08:30.270 --> 00:08:32.900 align:middle line:84%
+have to assume, like, how
+do we deal with like, OK,
+
+00:08:32.900 --> 00:08:34.150 align:middle line:90%
+this is the utility of wealth.
+
+00:08:34.150 --> 00:08:35.733 align:middle line:84%
+How would we deal
+with multiple goods?
+
+00:08:35.733 --> 00:08:36.750 align:middle line:90%
+And there are these--
+
+00:08:36.750 --> 00:08:38.460 align:middle line:84%
+again, these
+classic experiments,
+
+00:08:38.460 --> 00:08:42.900 align:middle line:84%
+like you bring people into a lab
+and you have them play some game
+
+00:08:42.900 --> 00:08:45.420 align:middle line:84%
+and you say, as a
+reward for doing this,
+
+00:08:45.420 --> 00:08:49.740 align:middle line:84%
+you get an MIT Department
+of Economics water bottle.
+
+00:08:49.740 --> 00:08:52.320 align:middle line:84%
+And then you let them have
+the MIT Economics water
+
+00:08:52.320 --> 00:08:54.487 align:middle line:84%
+bottle for a few minutes
+and then say, oh, you know,
+
+00:08:54.487 --> 00:08:57.150 align:middle line:90%
+actually, I also have these--
+
+00:08:57.150 --> 00:08:59.020 align:middle line:84%
+I also have these
+Lindt chocolate bars.
+
+00:08:59.020 --> 00:09:02.640 align:middle line:84%
+You can have the Lindt chocolate
+bar instead of the water bottle,
+
+00:09:02.640 --> 00:09:05.350 align:middle line:84%
+you know, if you want
+to trade or whatever.
+
+00:09:05.350 --> 00:09:08.140 align:middle line:84%
+And then everyone says, no,
+no, I'll keep the water bottle.
+
+00:09:08.140 --> 00:09:09.520 align:middle line:84%
+And then you run the
+experiment the opposite way.
+
+00:09:09.520 --> 00:09:11.062 align:middle line:84%
+You give them the
+Lindt chocolate bar
+
+00:09:11.062 --> 00:09:14.280 align:middle line:84%
+and say, oh, we also have this
+MIT water bottle you could have
+
+00:09:14.280 --> 00:09:14.805 align:middle line:90%
+or whatever.
+
+00:09:14.805 --> 00:09:16.930 align:middle line:84%
+Nobody trades a chocolate
+bar for the water bottle.
+
+00:09:16.930 --> 00:09:19.470 align:middle line:84%
+And so the idea
+there is that how
+
+00:09:19.470 --> 00:09:22.270 align:middle line:84%
+do we explain that
+people just get
+
+00:09:22.270 --> 00:09:23.952 align:middle line:84%
+attached to things
+that they have.
+
+00:09:23.952 --> 00:09:25.410 align:middle line:84%
+The loss aversion,
+what you've done
+
+00:09:25.410 --> 00:09:28.850 align:middle line:84%
+is you have two different
+functions like this.
+
+00:09:28.850 --> 00:09:32.440 align:middle line:84%
+I have my water bottle
+utility function
+
+00:09:32.440 --> 00:09:35.220 align:middle line:84%
+and my chocolate bar
+utility function.
+
+00:09:35.220 --> 00:09:36.970 align:middle line:84%
+And once you've given
+me the chocolate bar
+
+00:09:36.970 --> 00:09:38.590 align:middle line:84%
+and I've had it
+for a few minutes,
+
+00:09:38.590 --> 00:09:41.600 align:middle line:84%
+then it feels like a loss
+to give up the chocolate bar
+
+00:09:41.600 --> 00:09:43.685 align:middle line:84%
+and it would be a win
+to get a water bottle.
+
+00:09:43.685 --> 00:09:45.310 align:middle line:84%
+But you know, a loss
+of a chocolate bar
+
+00:09:45.310 --> 00:09:47.393 align:middle line:84%
+and a win to a water bottle,
+that you wouldn't do,
+
+00:09:47.393 --> 00:09:51.920 align:middle line:84%
+and the same vice versa once
+you've changed the endowments.
+
+00:09:51.920 --> 00:09:53.270 align:middle line:90%
+And I think this is--
+
+00:09:53.270 --> 00:09:55.700 align:middle line:84%
+people do think that this
+is how you think about--
+
+00:09:55.700 --> 00:09:58.220 align:middle line:84%
+in some sense, this
+is one explanation
+
+00:09:58.220 --> 00:10:02.180 align:middle line:84%
+for how stores try to
+lure people in with
+
+00:10:02.180 --> 00:10:04.220 align:middle line:84%
+and then have high
+last minute charges
+
+00:10:04.220 --> 00:10:07.070 align:middle line:84%
+or hidden charges is once
+you've gotten used to the fact
+
+00:10:07.070 --> 00:10:09.140 align:middle line:84%
+that I'm going to
+own this TV, it's
+
+00:10:09.140 --> 00:10:12.020 align:middle line:84%
+then hard to walk
+away from the TV
+
+00:10:12.020 --> 00:10:14.330 align:middle line:84%
+because it's now a loss
+of one in the TV dimension
+
+00:10:14.330 --> 00:10:16.163 align:middle line:84%
+because for the half
+an hour you thought you
+
+00:10:16.163 --> 00:10:18.830 align:middle line:90%
+had that nice TV or something.
+
+00:10:18.830 --> 00:10:21.110 align:middle line:90%
+OK.
+
+00:10:21.110 --> 00:10:22.950 align:middle line:90%
+Fairness preferences.
+
+00:10:22.950 --> 00:10:26.480 align:middle line:84%
+So obviously there's
+nothing in utility function
+
+00:10:26.480 --> 00:10:29.510 align:middle line:84%
+that says that utility is
+only based on your own wealth,
+
+00:10:29.510 --> 00:10:31.710 align:middle line:84%
+not on everybody else's
+wealth in the entire world
+
+00:10:31.710 --> 00:10:34.100 align:middle line:90%
+and people can be altruistic.
+
+00:10:34.100 --> 00:10:38.330 align:middle line:84%
+But I think when
+we're doing normal--
+
+00:10:38.330 --> 00:10:40.130 align:middle line:84%
+normally when we're
+doing most topics,
+
+00:10:40.130 --> 00:10:43.952 align:middle line:84%
+we do stick with preferences
+that are non-altruistic
+
+00:10:43.952 --> 00:10:45.410 align:middle line:84%
+and just everyone's
+preferences are
+
+00:10:45.410 --> 00:10:48.410 align:middle line:90%
+based on their own consumption.
+
+00:10:48.410 --> 00:10:50.540 align:middle line:84%
+There's a number
+of different models
+
+00:10:50.540 --> 00:10:54.690 align:middle line:84%
+out there of preferences that
+do have some other regarding
+
+00:10:54.690 --> 00:10:55.510 align:middle line:90%
+nature to them.
+
+00:10:55.510 --> 00:10:59.280 align:middle line:84%
+So for instance, Fehr-Schmidt
+is the most popular model
+
+00:10:59.280 --> 00:11:01.590 align:middle line:84%
+of fairness in the
+behavioral literature.
+
+00:11:01.590 --> 00:11:04.170 align:middle line:84%
+What consumers do in
+a Fehr-Schmidt model
+
+00:11:04.170 --> 00:11:08.375 align:middle line:84%
+is they are trying to
+maximize their own payoff.
+
+00:11:08.375 --> 00:11:10.500 align:middle line:84%
+So I'm going to write pi
+here for the payoff rather
+
+00:11:10.500 --> 00:11:11.620 align:middle line:90%
+than the utility.
+
+00:11:11.620 --> 00:11:14.190 align:middle line:84%
+They're trying to
+maximize their own payoff,
+
+00:11:14.190 --> 00:11:16.980 align:middle line:84%
+but they dislike when
+other people are getting
+
+00:11:16.980 --> 00:11:19.320 align:middle line:90%
+more than them in a game.
+
+00:11:19.320 --> 00:11:24.090 align:middle line:84%
+And so we subtract
+alpha times the fact
+
+00:11:24.090 --> 00:11:26.430 align:middle line:84%
+that the extent to which
+other people's payoffs
+
+00:11:26.430 --> 00:11:30.090 align:middle line:90%
+exceed your payoff.
+
+00:11:30.090 --> 00:11:33.180 align:middle line:84%
+Fehr-Schmidt also
+assume that consumers
+
+00:11:33.180 --> 00:11:35.740 align:middle line:84%
+dislike when other people
+earn less than them.
+
+00:11:35.740 --> 00:11:39.360 align:middle line:84%
+They are other-regarding,
+and so they put weight beta
+
+00:11:39.360 --> 00:11:43.470 align:middle line:84%
+on getting more money than other
+people in the game are getting.
+
+00:11:43.470 --> 00:11:47.370 align:middle line:84%
+But Fehr-Schmidt assume
+that most people have
+
+00:11:47.370 --> 00:11:49.620 align:middle line:84%
+a sense of fairness, but
+the fairness is more acute
+
+00:11:49.620 --> 00:11:52.210 align:middle line:84%
+when they're the ones
+being treated unfairly,
+
+00:11:52.210 --> 00:11:53.940 align:middle line:84%
+and so alpha is
+bigger than beta.
+
+00:11:53.940 --> 00:11:57.870 align:middle line:84%
+Then you put more weight on
+me getting the small share
+
+00:11:57.870 --> 00:12:00.810 align:middle line:84%
+than on other people getting
+a small share, although I
+
+00:12:00.810 --> 00:12:02.760 align:middle line:90%
+don't like that either.
+
+00:12:02.760 --> 00:12:06.960 align:middle line:84%
+And then again, you start
+with any utility model,
+
+00:12:06.960 --> 00:12:08.820 align:middle line:84%
+and then you could do
+the Fehr-Schmidt model
+
+00:12:08.820 --> 00:12:11.400 align:middle line:84%
+with two extra parameters
+alpha and beta,
+
+00:12:11.400 --> 00:12:12.960 align:middle line:84%
+and then you can
+think about what
+
+00:12:12.960 --> 00:12:15.640 align:middle line:84%
+happens in that model as a
+function of alpha and beta.
+
+00:12:15.640 --> 00:12:18.280 align:middle line:84%
+So in some sense it becomes
+just a plug and play thing.
+
+00:12:18.280 --> 00:12:24.413 align:middle line:84%
+Take a standard model, put in
+the alpha beta preferences,
+
+00:12:24.413 --> 00:12:25.830 align:middle line:84%
+and then you can
+resolve the model
+
+00:12:25.830 --> 00:12:28.038 align:middle line:84%
+and see what happens as a
+function of alpha and beta.
+
+00:12:28.038 --> 00:12:31.485 align:middle line:84%
+And you can calibrate alpha
+and beta to what's in the data.
+
+00:12:31.485 --> 00:12:35.125 align:middle line:90%
+
+
+00:12:35.125 --> 00:12:38.470 align:middle line:84%
+Most of the examples I
+picked out to do today in IO,
+
+00:12:38.470 --> 00:12:41.600 align:middle line:84%
+I'm doing what are called
+quasi-hyperbolic preferences.
+
+00:12:41.600 --> 00:12:45.190 align:middle line:84%
+So in preferences with
+quasi-hyperbolic discounting,
+
+00:12:45.190 --> 00:12:48.700 align:middle line:84%
+consumers are maximizing,
+at each point in time,
+
+00:12:48.700 --> 00:12:52.030 align:middle line:84%
+the utility of the
+consumption they get today,
+
+00:12:52.030 --> 00:12:57.980 align:middle line:84%
+plus beta times a discounted
+sum of future preferences.
+
+00:12:57.980 --> 00:13:00.970 align:middle line:84%
+So everyone always
+cares about today
+
+00:13:00.970 --> 00:13:03.590 align:middle line:84%
+more than they care
+about all future periods,
+
+00:13:03.590 --> 00:13:07.930 align:middle line:84%
+and so your trade-off
+between should I
+
+00:13:07.930 --> 00:13:10.778 align:middle line:84%
+clean up my apartment 11 days
+from now or 12 days from now,
+
+00:13:10.778 --> 00:13:12.820 align:middle line:84%
+you're completely indifferent
+between whether you
+
+00:13:12.820 --> 00:13:15.770 align:middle line:84%
+spend a day cleaning up 11 days
+from now or 12 days from now.
+
+00:13:15.770 --> 00:13:18.140 align:middle line:84%
+But should I do it
+today versus tomorrow?
+
+00:13:18.140 --> 00:13:20.270 align:middle line:84%
+You really want to put
+it off to tomorrow?
+
+00:13:20.270 --> 00:13:23.650 align:middle line:84%
+So there's some much
+bigger emphasis discounting
+
+00:13:23.650 --> 00:13:25.930 align:middle line:84%
+between today and
+all future times
+
+00:13:25.930 --> 00:13:29.930 align:middle line:84%
+than there is between future
+times that come later.
+
+00:13:29.930 --> 00:13:32.740 align:middle line:84%
+So the discounting between
+any two future periods
+
+00:13:32.740 --> 00:13:37.470 align:middle line:84%
+is delta, but between
+the current period and--
+
+00:13:37.470 --> 00:13:41.200 align:middle line:84%
+you put weight one on today,
+beta delta on tomorrow,
+
+00:13:41.200 --> 00:13:43.700 align:middle line:84%
+beta delta squared
+on the next day
+
+00:13:43.700 --> 00:13:49.210 align:middle line:84%
+so that the ratio is beta
+delta here and only delta here.
+
+00:13:49.210 --> 00:13:51.050 align:middle line:84%
+Again, so people
+have preferences.
+
+00:13:51.050 --> 00:13:52.570 align:middle line:84%
+Like I would like
+to go on a diet,
+
+00:13:52.570 --> 00:13:55.210 align:middle line:84%
+but I would like to go on
+a diet starting tomorrow.
+
+00:13:55.210 --> 00:13:56.710 align:middle line:84%
+Or I would like to
+save more money,
+
+00:13:56.710 --> 00:14:00.880 align:middle line:84%
+but I'd like to save more money
+after I buy this one TV I really
+
+00:14:00.880 --> 00:14:03.040 align:middle line:84%
+like and then I'm going
+to start saving my money,
+
+00:14:03.040 --> 00:14:04.960 align:middle line:90%
+or something like that.
+
+00:14:04.960 --> 00:14:09.190 align:middle line:84%
+And then there are
+variants of this model.
+
+00:14:09.190 --> 00:14:12.370 align:middle line:84%
+Sophisticated
+consumers recognize--
+
+00:14:12.370 --> 00:14:14.950 align:middle line:84%
+sophisticated hyperbolic
+consumers recognize
+
+00:14:14.950 --> 00:14:18.580 align:middle line:84%
+that they have these
+preferences and they
+
+00:14:18.580 --> 00:14:22.210 align:middle line:84%
+want to do things to commit
+themselves to not behave
+
+00:14:22.210 --> 00:14:24.070 align:middle line:84%
+in a hyperbolic
+way, or they know
+
+00:14:24.070 --> 00:14:26.480 align:middle line:84%
+that they need to commit
+their future selves to things
+
+00:14:26.480 --> 00:14:28.000 align:middle line:84%
+so their future selves
+will actually do what they
+
+00:14:28.000 --> 00:14:29.530 align:middle line:90%
+want their future selves to do.
+
+00:14:29.530 --> 00:14:32.510 align:middle line:84%
+So it's like, I am
+going to put something
+
+00:14:32.510 --> 00:14:35.530 align:middle line:84%
+on my phone that shuts me off
+of social media for some number
+
+00:14:35.530 --> 00:14:38.560 align:middle line:84%
+of hours to commit that
+future lazy self of mine
+
+00:14:38.560 --> 00:14:41.860 align:middle line:84%
+to actually get work
+done and not spend time
+
+00:14:41.860 --> 00:14:44.680 align:middle line:90%
+scrolling through social media.
+
+00:14:44.680 --> 00:14:46.860 align:middle line:90%
+The other ones are--
+
+00:14:46.860 --> 00:14:49.000 align:middle line:90%
+other models, the naive model.
+
+00:14:49.000 --> 00:14:51.645 align:middle line:84%
+The naive model,
+you're hyperbolic
+
+00:14:51.645 --> 00:14:53.770 align:middle line:84%
+and you don't recognize
+that your future selves are
+
+00:14:53.770 --> 00:14:57.370 align:middle line:84%
+hyperbolic and you just
+think, I have willpower.
+
+00:14:57.370 --> 00:14:58.580 align:middle line:90%
+These are my preferences.
+
+00:14:58.580 --> 00:14:59.950 align:middle line:84%
+It's perfectly
+reasonable for me to say
+
+00:14:59.950 --> 00:15:02.200 align:middle line:84%
+I'm going to sit here and
+scroll through social media,
+
+00:15:02.200 --> 00:15:05.210 align:middle line:84%
+and then tomorrow my future
+self will not scroll.
+
+00:15:05.210 --> 00:15:06.940 align:middle line:84%
+I'll just make the
+plan that this week I
+
+00:15:06.940 --> 00:15:08.350 align:middle line:90%
+get six hours of social media.
+
+00:15:08.350 --> 00:15:10.030 align:middle line:84%
+I'll use it all
+up this afternoon,
+
+00:15:10.030 --> 00:15:13.310 align:middle line:84%
+and then my future self will not
+do any social media tomorrow.
+
+00:15:13.310 --> 00:15:16.540 align:middle line:84%
+And that's my plan
+for this week.
+
+00:15:16.540 --> 00:15:21.430 align:middle line:84%
+And then the
+partially naive model,
+
+00:15:21.430 --> 00:15:23.470 align:middle line:84%
+an extension to go
+from a two parameter
+
+00:15:23.470 --> 00:15:26.380 align:middle line:84%
+to a three parameter
+hyperbolic extension
+
+00:15:26.380 --> 00:15:29.810 align:middle line:90%
+is I am a beta delta consumer.
+
+00:15:29.810 --> 00:15:34.180 align:middle line:84%
+I recognize that my future
+self is also hyperbolic,
+
+00:15:34.180 --> 00:15:37.540 align:middle line:84%
+but I think my future self
+is like a beta hat delta
+
+00:15:37.540 --> 00:15:40.550 align:middle line:84%
+consumer with beta
+hat greater than beta.
+
+00:15:40.550 --> 00:15:43.545 align:middle line:90%
+So I just underestimate.
+
+00:15:43.545 --> 00:15:47.140 align:middle line:84%
+I recognize that I'm
+hyperbolic, but I
+
+00:15:47.140 --> 00:15:49.810 align:middle line:84%
+underestimate the degree to
+which my future self is hyper
+
+00:15:49.810 --> 00:15:52.531 align:middle line:90%
+hyperbolic.
+
+00:15:52.531 --> 00:15:54.325 align:middle line:84%
+And again, if you
+think about the delta
+
+00:15:54.325 --> 00:15:56.200 align:middle line:84%
+as already being a
+parameter we already have,
+
+00:15:56.200 --> 00:15:58.690 align:middle line:84%
+again, maybe just
+beta and beta hat
+
+00:15:58.690 --> 00:16:01.620 align:middle line:84%
+are two parameters you add to
+the standard rational model.
+
+00:16:01.620 --> 00:16:04.750 align:middle line:90%
+
+
+00:16:04.750 --> 00:16:06.160 align:middle line:90%
+Other common examples.
+
+00:16:06.160 --> 00:16:08.950 align:middle line:84%
+I won't talk about IO
+examples today with them.
+
+00:16:08.950 --> 00:16:12.400 align:middle line:90%
+Imperfect Bayesian updating.
+
+00:16:12.400 --> 00:16:14.095 align:middle line:84%
+Eyster and Rabin
+proposed this model.
+
+00:16:14.095 --> 00:16:15.970 align:middle line:84%
+There's a lot of evidence
+that people are not
+
+00:16:15.970 --> 00:16:17.390 align:middle line:90%
+so good at Bayesian updating.
+
+00:16:17.390 --> 00:16:19.640 align:middle line:84%
+They propose this model of
+imperfect Bayesian updating
+
+00:16:19.640 --> 00:16:22.780 align:middle line:84%
+that's just the simplest
+one in the world.
+
+00:16:22.780 --> 00:16:26.410 align:middle line:84%
+Your posterior on
+theta after observing
+
+00:16:26.410 --> 00:16:30.910 align:middle line:84%
+some signal x is some constant
+times your prior plus 1
+
+00:16:30.910 --> 00:16:37.040 align:middle line:84%
+minus chi times what the correct
+preference is, correct Bayesian
+
+00:16:37.040 --> 00:16:37.540 align:middle line:90%
+updating is.
+
+00:16:37.540 --> 00:16:42.070 align:middle line:84%
+So people just under-update
+when they get new information.
+
+00:16:42.070 --> 00:16:43.913 align:middle line:84%
+They tend to be
+overly confident,
+
+00:16:43.913 --> 00:16:44.913 align:middle line:90%
+stick with their priors.
+
+00:16:44.913 --> 00:16:48.040 align:middle line:90%
+
+
+00:16:48.040 --> 00:16:50.440 align:middle line:90%
+Overconfidence bias.
+
+00:16:50.440 --> 00:16:53.110 align:middle line:84%
+Overconfidence bias
+is people think
+
+00:16:53.110 --> 00:16:55.750 align:middle line:84%
+they are better than they
+are at many, many things.
+
+00:16:55.750 --> 00:17:01.720 align:middle line:84%
+A classic example is ask a class
+how many miles is it from Boston
+
+00:17:01.720 --> 00:17:07.105 align:middle line:84%
+to Buenos Aires and write down
+your best guess for Boston
+
+00:17:07.105 --> 00:17:08.359 align:middle line:90%
+to Buenos Aires.
+
+00:17:08.359 --> 00:17:11.349 align:middle line:84%
+And now write down a
+50% confidence interval
+
+00:17:11.349 --> 00:17:12.950 align:middle line:90%
+or a 90% confidence interval.
+
+00:17:12.950 --> 00:17:15.208 align:middle line:90%
+
+
+00:17:15.208 --> 00:17:17.500 align:middle line:84%
+You admit you don't know how
+far it is to Buenos Aires,
+
+00:17:17.500 --> 00:17:21.430 align:middle line:84%
+but write down an interval
+you think there's a 50% chance
+
+00:17:21.430 --> 00:17:23.470 align:middle line:84%
+that the distance from
+Boston to Buenos Aires
+
+00:17:23.470 --> 00:17:25.339 align:middle line:84%
+is within the interval
+you write down.
+
+00:17:25.339 --> 00:17:28.150 align:middle line:84%
+And overwhelmingly, I
+don't know, is it, like,
+
+00:17:28.150 --> 00:17:29.530 align:middle line:90%
+50% of the people--
+
+00:17:29.530 --> 00:17:31.780 align:middle line:84%
+like if you ask for 90%
+confidence interval,
+
+00:17:31.780 --> 00:17:34.300 align:middle line:84%
+50% of the correct answers
+are within the 90%--
+
+00:17:34.300 --> 00:17:37.120 align:middle line:84%
+50% of the time, the
+90% confidence interval
+
+00:17:37.120 --> 00:17:38.380 align:middle line:90%
+contains the answer.
+
+00:17:38.380 --> 00:17:40.810 align:middle line:84%
+30% of time, the 50%
+confidence interval
+
+00:17:40.810 --> 00:17:42.700 align:middle line:90%
+contains the correct answer.
+
+00:17:42.700 --> 00:17:45.580 align:middle line:84%
+It's just people think they
+are better at many things
+
+00:17:45.580 --> 00:17:48.490 align:middle line:90%
+than they are.
+
+00:17:48.490 --> 00:17:50.270 align:middle line:90%
+Self-serving bias.
+
+00:17:50.270 --> 00:17:52.982 align:middle line:84%
+This is the idea that
+we all like to think--
+
+00:17:52.982 --> 00:17:54.940 align:middle line:84%
+this is that we all think
+we're good at things.
+
+00:17:54.940 --> 00:17:57.740 align:middle line:84%
+Self-serving bias is we all like
+to think we're good at things.
+
+00:17:57.740 --> 00:18:00.520 align:middle line:84%
+So you make a
+decision, and then when
+
+00:18:00.520 --> 00:18:02.740 align:middle line:84%
+you're called on to
+make a second decision,
+
+00:18:02.740 --> 00:18:05.110 align:middle line:84%
+you make a second decision
+in a way that makes
+
+00:18:05.110 --> 00:18:08.470 align:middle line:90%
+your first decision correct.
+
+00:18:08.470 --> 00:18:11.020 align:middle line:84%
+That is so instead
+of like admitting--
+
+00:18:11.020 --> 00:18:14.670 align:middle line:90%
+
+
+00:18:14.670 --> 00:18:15.532 align:middle line:90%
+you make some plan.
+
+00:18:15.532 --> 00:18:16.740 align:middle line:90%
+You're going to go somewhere.
+
+00:18:16.740 --> 00:18:20.188 align:middle line:84%
+And then you get there
+and realize, wow,
+
+00:18:20.188 --> 00:18:22.480 align:middle line:84%
+I spent half an hour on the
+train to get to this place.
+
+00:18:22.480 --> 00:18:25.080 align:middle line:84%
+This restaurant looks way
+more expensive than I wanted
+
+00:18:25.080 --> 00:18:26.880 align:middle line:90%
+or I don't want to be here.
+
+00:18:26.880 --> 00:18:27.990 align:middle line:90%
+Food looks bad.
+
+00:18:27.990 --> 00:18:31.290 align:middle line:84%
+But once you're there, you go
+ahead and eat there anyway,
+
+00:18:31.290 --> 00:18:34.800 align:middle line:84%
+because if you don't
+eat there, you're
+
+00:18:34.800 --> 00:18:37.650 align:middle line:84%
+admitting that I made a
+bad decision in deciding
+
+00:18:37.650 --> 00:18:40.150 align:middle line:84%
+to pick out this restaurant
+and come here for half an hour.
+
+00:18:40.150 --> 00:18:42.317 align:middle line:84%
+And then you want to make
+my first decision correct.
+
+00:18:42.317 --> 00:18:44.192 align:middle line:84%
+The only way my first
+decision can be correct
+
+00:18:44.192 --> 00:18:45.930 align:middle line:84%
+is if I then carry
+out my second decision
+
+00:18:45.930 --> 00:18:47.573 align:middle line:90%
+to go ahead and eat there.
+
+00:18:47.573 --> 00:18:48.990 align:middle line:84%
+Then maybe you
+don't like the food
+
+00:18:48.990 --> 00:18:52.140 align:middle line:84%
+and you're like, oh, wow that
+was unknowable, so I just
+
+00:18:52.140 --> 00:18:53.650 align:middle line:90%
+had a bad draw or whatever.
+
+00:18:53.650 --> 00:18:55.540 align:middle line:84%
+But it wasn't an
+ex-ante bad decision.
+
+00:18:55.540 --> 00:18:58.092 align:middle line:84%
+But the idea of
+self-serving is we always--
+
+00:18:58.092 --> 00:18:59.550 align:middle line:84%
+we follow these
+paths in life where
+
+00:18:59.550 --> 00:19:04.020 align:middle line:84%
+we just keep taking decisions,
+and each step we take
+
+00:19:04.020 --> 00:19:06.720 align:middle line:84%
+a next step that's consistent
+with the earlier steps
+
+00:19:06.720 --> 00:19:09.540 align:middle line:84%
+being right, rather than
+admitting your first step
+
+00:19:09.540 --> 00:19:12.195 align:middle line:84%
+was wrong and I should have
+just admitted my first step was
+
+00:19:12.195 --> 00:19:14.820 align:middle line:84%
+wrong and said, yeah, I made a
+bad decision there and gone back
+
+00:19:14.820 --> 00:19:18.060 align:middle line:90%
+and start over or something.
+
+00:19:18.060 --> 00:19:21.790 align:middle line:84%
+OK, anyway, so
+many, many things.
+
+00:19:21.790 --> 00:19:24.720 align:middle line:84%
+And in some ways,
+I think this is a--
+
+00:19:24.720 --> 00:19:26.850 align:middle line:84%
+field has expanded
+enough in the last decade
+
+00:19:26.850 --> 00:19:30.720 align:middle line:84%
+that it's no longer as
+true, but in some ways,
+
+00:19:30.720 --> 00:19:33.390 align:middle line:84%
+once you have this view
+of-- and this is sometimes
+
+00:19:33.390 --> 00:19:35.790 align:middle line:84%
+why behavioral
+economics does so well
+
+00:19:35.790 --> 00:19:39.420 align:middle line:84%
+in every field of economics,
+because if you think
+
+00:19:39.420 --> 00:19:41.790 align:middle line:84%
+about it, before behavioral
+came into fashion,
+
+00:19:41.790 --> 00:19:43.560 align:middle line:84%
+what had Tirole done
+in his textbook?
+
+00:19:43.560 --> 00:19:46.320 align:middle line:84%
+He worked out with
+rational consumers what
+
+00:19:46.320 --> 00:19:48.607 align:middle line:84%
+happens with monopoly pricing
+and price discrimination
+
+00:19:48.607 --> 00:19:50.940 align:middle line:84%
+and selling durable goods and
+horizontal differentiation
+
+00:19:50.940 --> 00:19:53.592 align:middle line:84%
+and vertical differentiation
+and search costs and so on.
+
+00:19:53.592 --> 00:19:55.800 align:middle line:84%
+You basically take the entire
+syllabus of this course
+
+00:19:55.800 --> 00:19:58.590 align:middle line:84%
+and it's all rational
+consumers and firms
+
+00:19:58.590 --> 00:20:00.570 align:middle line:90%
+dealing with this situation.
+
+00:20:00.570 --> 00:20:03.630 align:middle line:84%
+And then if you think about
+from the behavioral perspective,
+
+00:20:03.630 --> 00:20:07.810 align:middle line:84%
+well, rationality is just one
+incorrect model of consumers,
+
+00:20:07.810 --> 00:20:12.360 align:middle line:84%
+and there are actually
+this many or more
+
+00:20:12.360 --> 00:20:13.920 align:middle line:84%
+other models of
+consumers that would
+
+00:20:13.920 --> 00:20:15.670 align:middle line:90%
+be better models of consumers.
+
+00:20:15.670 --> 00:20:17.190 align:middle line:84%
+In some sense,
+what we need to do
+
+00:20:17.190 --> 00:20:22.390 align:middle line:84%
+is take the entire field of IO
+as it existed in the year 2005
+
+00:20:22.390 --> 00:20:24.972 align:middle line:84%
+and multiply it
+out into a matrix.
+
+00:20:24.972 --> 00:20:26.680 align:middle line:84%
+What happens in every
+one of these models
+
+00:20:26.680 --> 00:20:30.755 align:middle line:84%
+with quasi-hyperbolic consumers,
+with loss averse consumers,
+
+00:20:30.755 --> 00:20:32.380 align:middle line:84%
+with consumers who
+care about fairness,
+
+00:20:32.380 --> 00:20:35.680 align:middle line:84%
+with overconfident
+consumers, and so on?
+
+00:20:35.680 --> 00:20:39.020 align:middle line:84%
+It seems like, how can I
+think of a paper to write?
+
+00:20:39.020 --> 00:20:41.410 align:middle line:84%
+But in some sense, you
+can take every paper that
+
+00:20:41.410 --> 00:20:45.850 align:middle line:84%
+exists in the literature and
+write 14 new papers about it,
+
+00:20:45.850 --> 00:20:48.070 align:middle line:84%
+and so it just opens
+up this massive field.
+
+00:20:48.070 --> 00:20:52.840 align:middle line:84%
+And again, is--
+what do I have here?
+
+00:20:52.840 --> 00:20:54.700 align:middle line:90%
+Yeah.
+
+00:20:54.700 --> 00:20:57.050 align:middle line:84%
+Are all of those
+good papers to write?
+
+00:20:57.050 --> 00:20:58.540 align:middle line:90%
+You know, probably not.
+
+00:20:58.540 --> 00:21:04.160 align:middle line:84%
+It may be that maybe you try to
+do horizontal differentiation,
+
+00:21:04.160 --> 00:21:05.813 align:middle line:84%
+you put in
+quasi-hyperbolic consumers
+
+00:21:05.813 --> 00:21:07.480 align:middle line:84%
+and then you realize,
+wait, the hoteling
+
+00:21:07.480 --> 00:21:09.080 align:middle line:90%
+model is a static model.
+
+00:21:09.080 --> 00:21:10.400 align:middle line:90%
+It's all in one period.
+
+00:21:10.400 --> 00:21:13.900 align:middle line:84%
+Therefore, hyperbolic has
+nothing to do with it.
+
+00:21:13.900 --> 00:21:17.920 align:middle line:84%
+Certainly loss averse consumers
+in a horizontal differentiation
+
+00:21:17.920 --> 00:21:20.350 align:middle line:84%
+model matter and consumers
+could care about fairness
+
+00:21:20.350 --> 00:21:24.310 align:middle line:84%
+and consumers could be
+overconfident in their thoughts
+
+00:21:24.310 --> 00:21:27.340 align:middle line:84%
+about their own
+preferences or whatever.
+
+00:21:27.340 --> 00:21:29.710 align:middle line:84%
+But in some ways,
+there are many,
+
+00:21:29.710 --> 00:21:32.510 align:middle line:84%
+many of these boxes that
+have something there,
+
+00:21:32.510 --> 00:21:34.360 align:middle line:84%
+and in some ways,
+I think what you
+
+00:21:34.360 --> 00:21:38.170 align:middle line:84%
+want is there's this opportunity
+to explore them and think
+
+00:21:38.170 --> 00:21:43.810 align:middle line:84%
+about which of these preferences
+might be relevant to which
+
+00:21:43.810 --> 00:21:47.230 align:middle line:84%
+of these models we looked at
+and think about what is there
+
+00:21:47.230 --> 00:21:48.500 align:middle line:90%
+interesting to say.
+
+00:21:48.500 --> 00:21:51.490 align:middle line:84%
+And I think what a lot of
+what people are interested in
+
+00:21:51.490 --> 00:21:55.330 align:middle line:84%
+is if you can tell stories
+where I make some small change
+
+00:21:55.330 --> 00:21:57.370 align:middle line:84%
+to the existing
+model and now I get
+
+00:21:57.370 --> 00:22:00.640 align:middle line:84%
+a big change in the
+outcomes, so I don't
+
+00:22:00.640 --> 00:22:02.828 align:middle line:90%
+need an enormous irrationality.
+
+00:22:02.828 --> 00:22:04.870 align:middle line:84%
+In some sense, the original
+model we started with
+
+00:22:04.870 --> 00:22:06.420 align:middle line:84%
+was very sensitive
+to rationality.
+
+00:22:06.420 --> 00:22:08.962 align:middle line:84%
+When you put in a small change,
+it makes a big difference.
+
+00:22:08.962 --> 00:22:11.170 align:middle line:84%
+And you could certainly
+imagine many of these things,
+
+00:22:11.170 --> 00:22:14.230 align:middle line:84%
+like, it could make a big
+difference in durable goods
+
+00:22:14.230 --> 00:22:18.550 align:middle line:84%
+models if we had
+quasi-hyperbolic preferences.
+
+00:22:18.550 --> 00:22:19.220 align:middle line:90%
+Take an example.
+
+00:22:19.220 --> 00:22:20.803 align:middle line:84%
+I guess you probably
+didn't get there,
+
+00:22:20.803 --> 00:22:27.800 align:middle line:84%
+but when I talked about my
+add-on pricing paper about
+
+00:22:27.800 --> 00:22:32.030 align:middle line:84%
+do firms want to post
+an unadvertised-- post
+
+00:22:32.030 --> 00:22:35.430 align:middle line:84%
+an advertised price that
+doesn't include some add-on
+
+00:22:35.430 --> 00:22:37.430 align:middle line:84%
+and then hold up consumers
+for the full monopoly
+
+00:22:37.430 --> 00:22:40.847 align:middle line:84%
+price of the add-on after
+consumers show up at the firm.
+
+00:22:40.847 --> 00:22:42.680 align:middle line:84%
+Back in the back half
+of that paper, there's
+
+00:22:42.680 --> 00:22:45.890 align:middle line:84%
+a section that says in a
+game where the two firms are
+
+00:22:45.890 --> 00:22:49.670 align:middle line:84%
+simultaneously deciding whether
+to advertise the base good only
+
+00:22:49.670 --> 00:22:52.285 align:middle line:84%
+or the base good and an
+add-on, which would they do?
+
+00:22:52.285 --> 00:22:53.660 align:middle line:84%
+And the answer is
+the firms don't
+
+00:22:53.660 --> 00:22:55.785 align:middle line:84%
+want-- it's not individually
+rational in that model
+
+00:22:55.785 --> 00:22:58.310 align:middle line:84%
+for the firms to
+do add-on pricing.
+
+00:22:58.310 --> 00:23:02.095 align:middle line:84%
+However, if you add a small
+number of behavioral consumers
+
+00:23:02.095 --> 00:23:04.220 align:middle line:84%
+who don't realize how
+expensive the add-on is going
+
+00:23:04.220 --> 00:23:06.050 align:middle line:84%
+to be until they get
+to the point of sale,
+
+00:23:06.050 --> 00:23:07.530 align:middle line:90%
+then it can make sense.
+
+00:23:07.530 --> 00:23:10.430 align:middle line:84%
+And so it's just an example
+where you have a small change
+
+00:23:10.430 --> 00:23:11.930 align:middle line:84%
+to the model, like
+a small fraction
+
+00:23:11.930 --> 00:23:17.841 align:middle line:84%
+of the irrational consumers can
+have a big change on the model.
+
+00:23:17.841 --> 00:23:23.780 align:middle line:84%
+So I'm going to start with
+just, you know, very early paper
+
+00:23:23.780 --> 00:23:25.710 align:middle line:90%
+bringing out some basic ideas.
+
+00:23:25.710 --> 00:23:29.630 align:middle line:84%
+So this is Della
+Vigna and Malmendier
+
+00:23:29.630 --> 00:23:33.530 align:middle line:84%
+thinking about how a monopolist
+would design products or sales
+
+00:23:33.530 --> 00:23:37.430 align:middle line:84%
+mechanisms to exploit
+hyperbolic consumers.
+
+00:23:37.430 --> 00:23:41.000 align:middle line:84%
+And this is a multi-stage
+game motivated by health clubs
+
+00:23:41.000 --> 00:23:46.150 align:middle line:84%
+where the idea is that everybody
+wishes they went to the gym more
+
+00:23:46.150 --> 00:23:49.240 align:middle line:90%
+than they actually do.
+
+00:23:49.240 --> 00:23:51.170 align:middle line:90%
+And so here's their model.
+
+00:23:51.170 --> 00:23:54.470 align:middle line:84%
+So firms offer consumers
+a two part tariff.
+
+00:23:54.470 --> 00:23:57.730 align:middle line:84%
+You pay l, which is a
+sign-up fee to join the gym.
+
+00:23:57.730 --> 00:24:01.400 align:middle line:84%
+And then if you visit x
+times, you pay p times x.
+
+00:24:01.400 --> 00:24:04.930 align:middle line:84%
+So every time you come to the
+gym, you pay p to go there.
+
+00:24:04.930 --> 00:24:07.870 align:middle line:84%
+Consumers have these beta
+delta hyperbolic preferences
+
+00:24:07.870 --> 00:24:10.660 align:middle line:84%
+and they say yes or no, I
+will pay my upfront fee l
+
+00:24:10.660 --> 00:24:12.670 align:middle line:90%
+to join the gym.
+
+00:24:12.670 --> 00:24:16.335 align:middle line:84%
+And then in their model
+there's uncertainty.
+
+00:24:16.335 --> 00:24:19.100 align:middle line:84%
+You know you should join the
+gym and that it's good for you
+
+00:24:19.100 --> 00:24:20.830 align:middle line:84%
+and you don't remember
+how unpleasant
+
+00:24:20.830 --> 00:24:22.218 align:middle line:90%
+it is to go to the gym.
+
+00:24:22.218 --> 00:24:24.010 align:middle line:84%
+Like, how long does it
+take to actually get
+
+00:24:24.010 --> 00:24:29.230 align:middle line:84%
+there, how unpleasant
+is the exercising there,
+
+00:24:29.230 --> 00:24:31.540 align:middle line:84%
+how gross is the
+showers at the gym,
+
+00:24:31.540 --> 00:24:33.580 align:middle line:84%
+and whatever, how
+much are you going
+
+00:24:33.580 --> 00:24:36.250 align:middle line:84%
+to dislike exercising
+once you get there.
+
+00:24:36.250 --> 00:24:38.470 align:middle line:84%
+And so after you
+go to the gym, you
+
+00:24:38.470 --> 00:24:41.710 align:middle line:84%
+learn your disutility
+d that you incur
+
+00:24:41.710 --> 00:24:44.540 align:middle line:90%
+every time you go to the gym.
+
+00:24:44.540 --> 00:24:48.440 align:middle line:84%
+And then you then choose
+how many times am I going
+
+00:24:48.440 --> 00:24:49.700 align:middle line:90%
+to go to the gym this month.
+
+00:24:49.700 --> 00:24:53.180 align:middle line:84%
+To simplify the algebra,
+they do either zero or one,
+
+00:24:53.180 --> 00:24:55.823 align:middle line:84%
+but obviously we're
+thinking of one
+
+00:24:55.823 --> 00:24:58.490 align:middle line:84%
+as being go to the gym every day
+and zero as never go to the gym
+
+00:24:58.490 --> 00:24:59.600 align:middle line:90%
+or something like that.
+
+00:24:59.600 --> 00:25:03.590 align:middle line:84%
+And then you incur
+disutility d plus p times x
+
+00:25:03.590 --> 00:25:05.780 align:middle line:90%
+when you go to the gym.
+
+00:25:05.780 --> 00:25:11.120 align:middle line:84%
+And then you get a delayed
+health benefit x times b.
+
+00:25:11.120 --> 00:25:13.460 align:middle line:84%
+So you do feel better after
+you've been to the gym.
+
+00:25:13.460 --> 00:25:16.910 align:middle line:84%
+You're happy that you went
+yesterday, and that's x times b.
+
+00:25:16.910 --> 00:25:17.480 align:middle line:90%
+OK?
+
+00:25:17.480 --> 00:25:20.780 align:middle line:84%
+And so the hyperbolic
+preferences come in here
+
+00:25:20.780 --> 00:25:27.020 align:middle line:84%
+where the consumer at t
+equals one who's hyperbolic
+
+00:25:27.020 --> 00:25:29.390 align:middle line:84%
+wants his future
+selves to go to the gym
+
+00:25:29.390 --> 00:25:35.000 align:middle line:84%
+because he treats the disutility
+and the benefit as both having
+
+00:25:35.000 --> 00:25:37.552 align:middle line:84%
+roughly equal weight because
+they're just both future things,
+
+00:25:37.552 --> 00:25:39.260 align:middle line:84%
+and he thinks the
+future benefit is worth
+
+00:25:39.260 --> 00:25:42.200 align:middle line:90%
+the future disutility, probably.
+
+00:25:42.200 --> 00:25:45.170 align:middle line:84%
+But then the consumer
+who's actually here making
+
+00:25:45.170 --> 00:25:47.480 align:middle line:84%
+the do I go to the gym
+today or not decision,
+
+00:25:47.480 --> 00:25:50.420 align:middle line:84%
+that consumer is
+treating the disutility
+
+00:25:50.420 --> 00:25:53.510 align:middle line:84%
+and the money paid as a present
+thing and the health benefit
+
+00:25:53.510 --> 00:25:56.930 align:middle line:84%
+as a future thing, so that
+lazy future self is tempted
+
+00:25:56.930 --> 00:26:00.080 align:middle line:84%
+to not go today and
+say, OK, the tomorrow
+
+00:26:00.080 --> 00:26:02.650 align:middle line:84%
+self will be the one to go to
+the gym, not the today self.
+
+00:26:02.650 --> 00:26:05.720 align:middle line:90%
+
+
+00:26:05.720 --> 00:26:10.700 align:middle line:84%
+So what are some of
+the observations?
+
+00:26:10.700 --> 00:26:15.620 align:middle line:84%
+First monopoly observation
+is that in this model,
+
+00:26:15.620 --> 00:26:22.310 align:middle line:84%
+we get distorted pricing
+where p is distorted down.
+
+00:26:22.310 --> 00:26:25.610 align:middle line:84%
+In their paper, they have
+a costs, marginal costs,
+
+00:26:25.610 --> 00:26:27.570 align:middle line:84%
+c times x of having
+people go to the gym.
+
+00:26:27.570 --> 00:26:30.000 align:middle line:84%
+I mean, c may be small,
+but the gym does--
+
+00:26:30.000 --> 00:26:31.610 align:middle line:90%
+they have to wash your towel.
+
+00:26:31.610 --> 00:26:33.090 align:middle line:84%
+They may wipe down
+the equipment.
+
+00:26:33.090 --> 00:26:35.690 align:middle line:84%
+They have some capacity levels,
+so they incur some small costs
+
+00:26:35.690 --> 00:26:36.950 align:middle line:90%
+c when you come.
+
+00:26:36.950 --> 00:26:42.980 align:middle line:84%
+But so the main distortion we
+get is we get p less than c.
+
+00:26:42.980 --> 00:26:45.810 align:middle line:84%
+This can be going
+to the gym is free.
+
+00:26:45.810 --> 00:26:48.060 align:middle line:84%
+You don't pay when you show
+up on your gym membership.
+
+00:26:48.060 --> 00:26:51.260 align:middle line:84%
+Or it could be that p is even
+negative, that you don't pay
+
+00:26:51.260 --> 00:26:53.570 align:middle line:84%
+and they give you a free
+juice or they give you
+
+00:26:53.570 --> 00:26:56.570 align:middle line:84%
+some other things for free
+that they don't charge you
+
+00:26:56.570 --> 00:27:00.720 align:middle line:90%
+for when you're at the gym.
+
+00:27:00.720 --> 00:27:01.290 align:middle line:90%
+Why?
+
+00:27:01.290 --> 00:27:02.800 align:middle line:90%
+Why do they distort p down?
+
+00:27:02.800 --> 00:27:04.100 align:middle line:90%
+There are two reasons.
+
+00:27:04.100 --> 00:27:07.470 align:middle line:84%
+First is let's think about the
+sophisticated hyperbolic model
+
+00:27:07.470 --> 00:27:10.770 align:middle line:84%
+where this consumer knows
+that his future self is
+
+00:27:10.770 --> 00:27:12.810 align:middle line:90%
+going to be lazy.
+
+00:27:12.810 --> 00:27:15.660 align:middle line:84%
+So that means he knows there's
+going to be a problem of,
+
+00:27:15.660 --> 00:27:17.080 align:middle line:84%
+I sign up for the
+gym membership.
+
+00:27:17.080 --> 00:27:20.910 align:middle line:84%
+This guy is not going to
+go, and therefore, I'm
+
+00:27:20.910 --> 00:27:22.650 align:middle line:84%
+not going to get
+the health benefit.
+
+00:27:22.650 --> 00:27:25.500 align:middle line:84%
+So what happens is the
+sophisticated consumer
+
+00:27:25.500 --> 00:27:29.890 align:middle line:84%
+wants to commit his future
+self to actually go to the gym.
+
+00:27:29.890 --> 00:27:32.740 align:middle line:84%
+And how does he commit his
+future self to go to the gym?
+
+00:27:32.740 --> 00:27:36.720 align:middle line:90%
+He makes the price.
+
+00:27:36.720 --> 00:27:39.240 align:middle line:84%
+If you offer a contract
+where the p is negative--
+
+00:27:39.240 --> 00:27:41.970 align:middle line:84%
+there's all kinds of free stuff
+offered at the gym and they
+
+00:27:41.970 --> 00:27:43.350 align:middle line:90%
+don't charge you any money--
+
+00:27:43.350 --> 00:27:45.727 align:middle line:84%
+then you're thinking, that
+lazy future self of mine
+
+00:27:45.727 --> 00:27:47.310 align:middle line:84%
+is going to go to
+the gym because he's
+
+00:27:47.310 --> 00:27:50.700 align:middle line:84%
+going to want to get the
+negative $10 fee for going
+
+00:27:50.700 --> 00:27:52.710 align:middle line:84%
+to the gym, and
+then that's going
+
+00:27:52.710 --> 00:27:56.490 align:middle line:84%
+to make him willing to incur the
+disutility to get the benefit.
+
+00:27:56.490 --> 00:27:59.280 align:middle line:84%
+And so the
+sophisticated consumers
+
+00:27:59.280 --> 00:28:02.320 align:middle line:84%
+want to have a
+contract-- and they're
+
+00:28:02.320 --> 00:28:04.510 align:middle line:84%
+willing to pay a lot
+of money up front
+
+00:28:04.510 --> 00:28:07.180 align:middle line:84%
+to get the contract
+with the low p that's
+
+00:28:07.180 --> 00:28:10.400 align:middle line:84%
+going to force their future
+self to go to the gym.
+
+00:28:10.400 --> 00:28:15.290 align:middle line:84%
+So that's the
+sophisticated argument.
+
+00:28:15.290 --> 00:28:17.330 align:middle line:84%
+If consumers are
+naive hyperbolics
+
+00:28:17.330 --> 00:28:19.430 align:middle line:84%
+instead of sophisticated
+hyperbolics,
+
+00:28:19.430 --> 00:28:21.650 align:middle line:90%
+you also want them--
+
+00:28:21.650 --> 00:28:24.170 align:middle line:84%
+you also want to
+do p less than c.
+
+00:28:24.170 --> 00:28:28.280 align:middle line:84%
+And the idea here is that the
+naive hyperbolic consumers
+
+00:28:28.280 --> 00:28:30.610 align:middle line:84%
+misestimate how often
+they go to the gym.
+
+00:28:30.610 --> 00:28:35.540 align:middle line:84%
+They say, OK, you know, I know
+b is bigger than d, therefore,
+
+00:28:35.540 --> 00:28:39.417 align:middle line:84%
+if b is bigger-- if I know b
+is bigger than d and the price
+
+00:28:39.417 --> 00:28:41.000 align:middle line:84%
+is zero, my future
+self is going to go
+
+00:28:41.000 --> 00:28:42.970 align:middle line:90%
+to the gym every single day.
+
+00:28:42.970 --> 00:28:45.470 align:middle line:84%
+And then what you can say is,
+so if you have this person who
+
+00:28:45.470 --> 00:28:50.090 align:middle line:84%
+thinks they're going to go
+every-- so suppose that we have
+
+00:28:50.090 --> 00:28:54.530 align:middle line:84%
+the benefit b is bigger
+than the disutility d,
+
+00:28:54.530 --> 00:28:58.800 align:middle line:84%
+but the benefit b is less
+than beta times delta.
+
+00:28:58.800 --> 00:28:59.300 align:middle line:90%
+OK?
+
+00:28:59.300 --> 00:29:06.010 align:middle line:84%
+So this is the case where
+the future self thinks
+
+00:29:06.010 --> 00:29:08.920 align:middle line:90%
+they're going to go to the--
+
+00:29:08.920 --> 00:29:09.940 align:middle line:90%
+Sorry.
+
+00:29:09.940 --> 00:29:13.150 align:middle line:90%
+This is d, not delta.
+
+00:29:13.150 --> 00:29:15.650 align:middle line:84%
+The future self thinks they're
+going to go to the gym,
+
+00:29:15.650 --> 00:29:17.650 align:middle line:84%
+but they're not actually
+going to go to the gym.
+
+00:29:17.650 --> 00:29:20.500 align:middle line:84%
+Because you think that they're
+going to be rational and trade
+
+00:29:20.500 --> 00:29:24.820 align:middle line:84%
+off benefit versus disutility,
+but they're actually
+
+00:29:24.820 --> 00:29:28.630 align:middle line:84%
+going to trade off disutility
+versus beta times benefit.
+
+00:29:28.630 --> 00:29:31.210 align:middle line:90%
+So this is-- oops.
+
+00:29:31.210 --> 00:29:35.830 align:middle line:84%
+So beta times b is less
+than the disutility.
+
+00:29:35.830 --> 00:29:36.637 align:middle line:90%
+OK?
+
+00:29:36.637 --> 00:29:37.970 align:middle line:90%
+Well, so here's what you can do.
+
+00:29:37.970 --> 00:29:41.255 align:middle line:84%
+You can tell that
+consumer, OK, look.
+
+00:29:41.255 --> 00:29:42.880 align:middle line:84%
+What we're going to
+do is go to the gym
+
+00:29:42.880 --> 00:29:45.310 align:middle line:84%
+and instead of charging
+you cost every time you go,
+
+00:29:45.310 --> 00:29:49.780 align:middle line:84%
+I'm going to give you $10 less
+than cost every time you go.
+
+00:29:49.780 --> 00:29:52.000 align:middle line:90%
+And so you're going to save--
+
+00:29:52.000 --> 00:29:54.940 align:middle line:84%
+you're going to earn $300
+in these bonus payments
+
+00:29:54.940 --> 00:29:56.890 align:middle line:84%
+for going to the gym
+every day, and so
+
+00:29:56.890 --> 00:29:59.560 align:middle line:84%
+for that, for the
+low, low price of $299
+
+00:29:59.560 --> 00:30:01.773 align:middle line:84%
+a month, I'm going to give
+you that $10 every day.
+
+00:30:01.773 --> 00:30:03.190 align:middle line:84%
+And the naive
+hyperbolic consumers
+
+00:30:03.190 --> 00:30:05.360 align:middle line:84%
+are like, wow, that's
+an awesome deal.
+
+00:30:05.360 --> 00:30:06.880 align:middle line:84%
+I have a negative
+gym membership,
+
+00:30:06.880 --> 00:30:10.670 align:middle line:84%
+so they only pay 299 up front
+and then I get $300 back.
+
+00:30:10.670 --> 00:30:15.617 align:middle line:84%
+But then obviously, you know,
+you're never going to actually--
+
+00:30:15.617 --> 00:30:17.700 align:middle line:84%
+if the negative 10 is not
+enough to get you to go,
+
+00:30:17.700 --> 00:30:19.050 align:middle line:84%
+you're never actually
+going to get to go.
+
+00:30:19.050 --> 00:30:20.633 align:middle line:84%
+You've paid 299 up
+front for something
+
+00:30:20.633 --> 00:30:21.980 align:middle line:90%
+that was worth zero to you.
+
+00:30:21.980 --> 00:30:27.920 align:middle line:84%
+And because you're going to
+overestimate your gym usage,
+
+00:30:27.920 --> 00:30:29.270 align:middle line:90%
+you then end up--
+
+00:30:29.270 --> 00:30:31.770 align:middle line:84%
+you want to charge them
+with that kind of scheme.
+
+00:30:31.770 --> 00:30:35.030 align:middle line:90%
+
+
+00:30:35.030 --> 00:30:36.380 align:middle line:90%
+OK.
+
+00:30:36.380 --> 00:30:39.770 align:middle line:84%
+Third observation here is
+in this sophisticated model,
+
+00:30:39.770 --> 00:30:42.490 align:middle line:90%
+the p is socially efficient.
+
+00:30:42.490 --> 00:30:44.070 align:middle line:90%
+There isn't actually distortion.
+
+00:30:44.070 --> 00:30:46.430 align:middle line:84%
+You're charging
+them less than cost,
+
+00:30:46.430 --> 00:30:48.173 align:middle line:84%
+but the price that
+you charge them,
+
+00:30:48.173 --> 00:30:50.090 align:middle line:84%
+even though p is less--
+we normally think of p
+
+00:30:50.090 --> 00:30:53.003 align:middle line:84%
+equals c as what gives us
+full social efficiency.
+
+00:30:53.003 --> 00:30:54.920 align:middle line:84%
+Here it's actually p
+less than c that gives us
+
+00:30:54.920 --> 00:30:58.400 align:middle line:90%
+full social efficiency.
+
+00:30:58.400 --> 00:31:00.240 align:middle line:90%
+Do I have that on here?
+
+00:31:00.240 --> 00:31:00.740 align:middle line:90%
+Yeah.
+
+00:31:00.740 --> 00:31:01.750 align:middle line:90%
+Why is that?
+
+00:31:01.750 --> 00:31:05.090 align:middle line:90%
+
+
+00:31:05.090 --> 00:31:07.490 align:middle line:84%
+You know, in some
+ways this is like back
+
+00:31:07.490 --> 00:31:09.425 align:middle line:90%
+to lecture one of this class.
+
+00:31:09.425 --> 00:31:11.300 align:middle line:84%
+If you remember in
+lecture one of this class,
+
+00:31:11.300 --> 00:31:15.050 align:middle line:84%
+I had if you have a firm
+choosing product quality,
+
+00:31:15.050 --> 00:31:17.995 align:middle line:84%
+they choose the optimal quality
+for the marginal consumer.
+
+00:31:17.995 --> 00:31:21.108 align:middle line:90%
+
+
+00:31:21.108 --> 00:31:23.190 align:middle line:84%
+In the Della
+Vigna-Malmendier paper,
+
+00:31:23.190 --> 00:31:25.320 align:middle line:84%
+all the consumers are
+ex-ante identical,
+
+00:31:25.320 --> 00:31:28.090 align:middle line:84%
+so the marginal consumer
+is the average consumer.
+
+00:31:28.090 --> 00:31:30.240 align:middle line:84%
+Therefore, what you do
+is you always choose
+
+00:31:30.240 --> 00:31:32.370 align:middle line:84%
+the optimal product
+quality and just extract
+
+00:31:32.370 --> 00:31:34.805 align:middle line:90%
+all of that with a fixed fee.
+
+00:31:34.805 --> 00:31:36.220 align:middle line:90%
+That's what this model is here.
+
+00:31:36.220 --> 00:31:39.765 align:middle line:84%
+It's like p is just a
+dimension of quality.
+
+00:31:39.765 --> 00:31:43.740 align:middle line:84%
+A lower p gym contract, a
+lower per visit contract,
+
+00:31:43.740 --> 00:31:48.510 align:middle line:84%
+is a contract that
+has a higher quality,
+
+00:31:48.510 --> 00:31:52.140 align:middle line:84%
+and therefore, you just
+choose the optimal quality
+
+00:31:52.140 --> 00:31:54.770 align:middle line:84%
+for the consumers and then
+you extract all the fixed fee.
+
+00:31:54.770 --> 00:31:56.880 align:middle line:84%
+It's fully efficient
+from the point
+
+00:31:56.880 --> 00:31:59.280 align:middle line:84%
+of view of the sophisticated
+hyperbolic consumer who
+
+00:31:59.280 --> 00:32:01.770 align:middle line:90%
+is the one buying it.
+
+00:32:01.770 --> 00:32:09.750 align:middle line:84%
+And more generally, that
+theorem from the first class
+
+00:32:09.750 --> 00:32:14.825 align:middle line:84%
+was that it's efficient in
+terms of maximizing the sum of--
+
+00:32:14.825 --> 00:32:16.200 align:middle line:84%
+it's socially
+efficient, in terms
+
+00:32:16.200 --> 00:32:22.135 align:middle line:84%
+of maximizing the sum
+of profits of the firm
+
+00:32:22.135 --> 00:32:23.525 align:middle line:90%
+and the utility of the consumer.
+
+00:32:23.525 --> 00:32:26.150 align:middle line:84%
+But it wasn't really the utility
+of the consumer that mattered.
+
+00:32:26.150 --> 00:32:28.280 align:middle line:84%
+It was the willingness
+to pay of the consumer.
+
+00:32:28.280 --> 00:32:30.700 align:middle line:84%
+And so if you make the
+willingness to pay different
+
+00:32:30.700 --> 00:32:34.030 align:middle line:84%
+from the utility,
+then a monopolist
+
+00:32:34.030 --> 00:32:35.650 align:middle line:84%
+serving a homogeneous
+population is
+
+00:32:35.650 --> 00:32:39.850 align:middle line:84%
+going to choose the quality that
+maximizes the sum of profits
+
+00:32:39.850 --> 00:32:41.042 align:middle line:90%
+and willingness to pay.
+
+00:32:41.042 --> 00:32:43.000 align:middle line:84%
+And so it's going to be
+efficient in that sense
+
+00:32:43.000 --> 00:32:45.620 align:middle line:84%
+of willingness to
+pay as utility.
+
+00:32:45.620 --> 00:32:48.040 align:middle line:84%
+And so that's what we have in
+the sophisticated hyperbolic
+
+00:32:48.040 --> 00:32:48.590 align:middle line:90%
+consumer.
+
+00:32:48.590 --> 00:32:53.950 align:middle line:84%
+You're always going to maximize
+the utility that you get.
+
+00:32:53.950 --> 00:32:56.830 align:middle line:90%
+And this is going to--
+
+00:32:56.830 --> 00:32:58.360 align:middle line:84%
+in some ways, a
+general lesson here
+
+00:32:58.360 --> 00:33:01.270 align:middle line:84%
+is that it's not
+like competition
+
+00:33:01.270 --> 00:33:05.440 align:middle line:84%
+would force you to eliminate
+these distorting consumers.
+
+00:33:05.440 --> 00:33:08.290 align:middle line:84%
+Competition forces you to
+exploit behavioral consumers
+
+00:33:08.290 --> 00:33:11.080 align:middle line:84%
+because competition forces
+you to design a product
+
+00:33:11.080 --> 00:33:14.050 align:middle line:84%
+quality or a contract
+that maximizes willingness
+
+00:33:14.050 --> 00:33:16.730 align:middle line:84%
+to pay and then give all the
+rents back to the consumers.
+
+00:33:16.730 --> 00:33:19.210 align:middle line:84%
+So whether it's monopoly
+or perfect competition,
+
+00:33:19.210 --> 00:33:22.240 align:middle line:84%
+firms will always exploit
+behavioral consumers
+
+00:33:22.240 --> 00:33:24.010 align:middle line:84%
+because they're
+just always trying
+
+00:33:24.010 --> 00:33:25.745 align:middle line:90%
+to maximize willingness to pay.
+
+00:33:25.745 --> 00:33:28.120 align:middle line:84%
+And it doesn't matter that
+willingness to pay is utility.
+
+00:33:28.120 --> 00:33:30.190 align:middle line:84%
+You're just trying to
+maximize willingness to pay.
+
+00:33:30.190 --> 00:33:32.190 align:middle line:84%
+If willingness to pay and
+utility are different,
+
+00:33:32.190 --> 00:33:34.980 align:middle line:84%
+you maximize willingness to
+pay, which is exploiting people.
+
+00:33:34.980 --> 00:33:39.880 align:middle line:90%
+
+
+00:33:39.880 --> 00:33:44.950 align:middle line:84%
+So they have one of the first
+behavioral empirical papers
+
+00:33:44.950 --> 00:33:51.670 align:middle line:84%
+trying to analyze this idea
+in a data set on health club
+
+00:33:51.670 --> 00:33:55.540 align:middle line:84%
+memberships in the
+Boston area, and the idea
+
+00:33:55.540 --> 00:33:58.720 align:middle line:90%
+is it's basically a reduced--
+
+00:33:58.720 --> 00:34:00.390 align:middle line:84%
+one of these reduced
+form papers where
+
+00:34:00.390 --> 00:34:01.990 align:middle line:84%
+we try to say, what
+are predictions
+
+00:34:01.990 --> 00:34:03.490 align:middle line:90%
+of the rational model?
+
+00:34:03.490 --> 00:34:07.180 align:middle line:84%
+What would be not
+necessarily predictions
+
+00:34:07.180 --> 00:34:09.280 align:middle line:84%
+of the hyperbolic
+model, but directions
+
+00:34:09.280 --> 00:34:12.190 align:middle line:84%
+in which we think pricing
+of hyperbolic consumers
+
+00:34:12.190 --> 00:34:14.440 align:middle line:84%
+would differ from pricing
+with rational consumers?
+
+00:34:14.440 --> 00:34:17.020 align:middle line:84%
+And what they're trying to do
+is reject the rational model
+
+00:34:17.020 --> 00:34:19.570 align:middle line:84%
+of health club
+consumers and show
+
+00:34:19.570 --> 00:34:21.550 align:middle line:84%
+that some kind of
+hyperbolic-- it's
+
+00:34:21.550 --> 00:34:24.250 align:middle line:84%
+departing from that
+hyperbolic direction.
+
+00:34:24.250 --> 00:34:29.620 align:middle line:84%
+So anyway, the data set has
+7,000 members at three Boston
+
+00:34:29.620 --> 00:34:31.067 align:middle line:90%
+area health clubs.
+
+00:34:31.067 --> 00:34:32.650 align:middle line:84%
+A lot of what they
+have is just a data
+
+00:34:32.650 --> 00:34:34.310 align:middle line:84%
+set on the usage of
+these health clubs,
+
+00:34:34.310 --> 00:34:35.679 align:middle line:84%
+and then they do also
+have a survey data
+
+00:34:35.679 --> 00:34:37.387 align:middle line:84%
+where they stood
+outside the health clubs
+
+00:34:37.387 --> 00:34:40.370 align:middle line:84%
+and just asked people survey
+questions about how much they
+
+00:34:40.370 --> 00:34:41.989 align:middle line:90%
+use the gym and stuff.
+
+00:34:41.989 --> 00:34:45.739 align:middle line:84%
+So first, inconsistent with
+the fully rational model.
+
+00:34:45.739 --> 00:34:48.600 align:middle line:84%
+Customers who sign up for
+the gym just pay too much.
+
+00:34:48.600 --> 00:34:51.800 align:middle line:90%
+
+
+00:34:51.800 --> 00:34:55.909 align:middle line:84%
+One of their plans their health
+club offered was a $70 a month
+
+00:34:55.909 --> 00:34:58.190 align:middle line:90%
+unlimited gym pass.
+
+00:34:58.190 --> 00:34:59.160 align:middle line:90%
+You just pay $70.
+
+00:34:59.160 --> 00:35:01.250 align:middle line:84%
+You can go to the gym as
+many times as you like.
+
+00:35:01.250 --> 00:35:04.490 align:middle line:84%
+Those who sign up for
+the $70 a month plan
+
+00:35:04.490 --> 00:35:07.230 align:middle line:84%
+averaged visiting
+4.3 times a month,
+
+00:35:07.230 --> 00:35:10.160 align:middle line:84%
+and so they were paying,
+like, $17 every time
+
+00:35:10.160 --> 00:35:11.113 align:middle line:90%
+they went to the gym.
+
+00:35:11.113 --> 00:35:13.280 align:middle line:84%
+The health club also had a
+plan where you could just
+
+00:35:13.280 --> 00:35:18.650 align:middle line:84%
+get a coupon book, which was 10
+coupons for $100 where you just
+
+00:35:18.650 --> 00:35:21.080 align:middle line:90%
+pay $10 on a per visit basis.
+
+00:35:21.080 --> 00:35:25.650 align:middle line:84%
+Clearly it's not
+fully rational model.
+
+00:35:25.650 --> 00:35:27.578 align:middle line:84%
+You should not be
+paying $70 a month
+
+00:35:27.578 --> 00:35:29.370 align:middle line:84%
+for a gym you're going
+to go to four times.
+
+00:35:29.370 --> 00:35:32.420 align:middle line:84%
+You should just buy the book
+that gives you the 10 visits
+
+00:35:32.420 --> 00:35:33.693 align:middle line:90%
+and just use those coupons.
+
+00:35:33.693 --> 00:35:36.470 align:middle line:90%
+
+
+00:35:36.470 --> 00:35:39.440 align:middle line:84%
+So either the consumers are
+misestimating how often they're
+
+00:35:39.440 --> 00:35:43.790 align:middle line:84%
+going or the consumers
+value the commitment
+
+00:35:43.790 --> 00:35:46.085 align:middle line:84%
+and are buying the gym
+membership because if they
+
+00:35:46.085 --> 00:35:48.710 align:middle line:84%
+didn't buy the gym membership,
+they would go zero times instead
+
+00:35:48.710 --> 00:35:51.590 align:middle line:84%
+of four times if they were
+actually going to pay $10
+
+00:35:51.590 --> 00:35:52.740 align:middle line:90%
+every time they went.
+
+00:35:52.740 --> 00:35:54.920 align:middle line:84%
+So we don't know which
+of those, but both
+
+00:35:54.920 --> 00:35:56.930 align:middle line:84%
+of those naive and
+sophisticated hyperbolic
+
+00:35:56.930 --> 00:35:59.480 align:middle line:84%
+models predict that consumers
+should be in this situation
+
+00:35:59.480 --> 00:36:04.460 align:middle line:84%
+where they're paying too much
+ex-post for the gym visits.
+
+00:36:04.460 --> 00:36:10.730 align:middle line:84%
+Second thing of showing that
+consumers are not fully rational
+
+00:36:10.730 --> 00:36:15.530 align:middle line:84%
+is this company had
+two types of plans.
+
+00:36:15.530 --> 00:36:19.280 align:middle line:84%
+Besides the daily, the per visit
+pass, they had a monthly pass
+
+00:36:19.280 --> 00:36:22.430 align:middle line:90%
+and they had an annual pass.
+
+00:36:22.430 --> 00:36:25.160 align:middle line:84%
+The monthly pass might
+have been like, you know--
+
+00:36:25.160 --> 00:36:26.300 align:middle line:90%
+I forget the numbers.
+
+00:36:26.300 --> 00:36:27.713 align:middle line:90%
+$70 a month.
+
+00:36:27.713 --> 00:36:29.630 align:middle line:84%
+But then you also may
+have had a choice of you
+
+00:36:29.630 --> 00:36:34.850 align:middle line:84%
+could also pay upfront $700
+and get a full year membership,
+
+00:36:34.850 --> 00:36:39.290 align:middle line:84%
+paying less per month if you're
+gung ho enough on the gym
+
+00:36:39.290 --> 00:36:42.200 align:middle line:90%
+that you would pay $700 fee.
+
+00:36:42.200 --> 00:36:47.540 align:middle line:84%
+And they note that people
+who pay the $700 fee up front
+
+00:36:47.540 --> 00:36:50.820 align:middle line:84%
+do go to the gym more than the
+people who pay the $70 a month.
+
+00:36:50.820 --> 00:36:53.240 align:middle line:84%
+So it's as if the people
+who buy the annual pass
+
+00:36:53.240 --> 00:36:55.370 align:middle line:84%
+know that they are
+people who go to the gym
+
+00:36:55.370 --> 00:36:57.470 align:middle line:84%
+and they're willing
+to pay the $700
+
+00:36:57.470 --> 00:37:00.590 align:middle line:84%
+check up front to get
+the annual membership.
+
+00:37:00.590 --> 00:37:02.630 align:middle line:84%
+But then one of the
+interesting observations
+
+00:37:02.630 --> 00:37:04.850 align:middle line:84%
+is that the monthly
+plan, they charge
+
+00:37:04.850 --> 00:37:07.100 align:middle line:84%
+to your credit card every
+month until you do something
+
+00:37:07.100 --> 00:37:08.330 align:middle line:90%
+to get them to stop.
+
+00:37:08.330 --> 00:37:10.850 align:middle line:84%
+The $700 plan, you
+actually have to-- it
+
+00:37:10.850 --> 00:37:13.700 align:middle line:84%
+didn't charge $700 to your
+credit card a year from now.
+
+00:37:13.700 --> 00:37:15.950 align:middle line:84%
+You had to actually
+go in and sign up
+
+00:37:15.950 --> 00:37:17.750 align:middle line:90%
+for another annual membership.
+
+00:37:17.750 --> 00:37:20.990 align:middle line:84%
+And what they find is if
+you look 13 months later,
+
+00:37:20.990 --> 00:37:23.210 align:middle line:84%
+people who signed
+up for the $70 plan
+
+00:37:23.210 --> 00:37:25.580 align:middle line:84%
+are more likely to be in
+the gym than the people who
+
+00:37:25.580 --> 00:37:27.980 align:middle line:90%
+signed up for the $700 plan.
+
+00:37:27.980 --> 00:37:30.047 align:middle line:84%
+And it's because
+these people just
+
+00:37:30.047 --> 00:37:31.880 align:middle line:84%
+got auto renewed if
+they didn't do anything,
+
+00:37:31.880 --> 00:37:35.060 align:middle line:84%
+whereas these people had to
+go in and actually decide,
+
+00:37:35.060 --> 00:37:38.335 align:middle line:84%
+yes, affirmatively, I do want to
+still be signed up for the gym.
+
+00:37:38.335 --> 00:37:40.710 align:middle line:84%
+And so it's sometimes telling
+that sometimes these people
+
+00:37:40.710 --> 00:37:42.010 align:middle line:90%
+aren't paying attention.
+
+00:37:42.010 --> 00:37:45.420 align:middle line:84%
+Another statistic about this was
+that on average, their consumers
+
+00:37:45.420 --> 00:37:50.490 align:middle line:84%
+spend $187 after the very last
+time they ever went to the gym.
+
+00:37:50.490 --> 00:37:52.470 align:middle line:84%
+So if you look at
+people who quit the gym,
+
+00:37:52.470 --> 00:37:57.390 align:middle line:84%
+they've paid $187 since the very
+last time that they visited.
+
+00:37:57.390 --> 00:37:59.826 align:middle line:84%
+This is saying that people
+aren't paying attention--
+
+00:37:59.826 --> 00:38:02.332 align:middle line:90%
+
+
+00:38:02.332 --> 00:38:04.040 align:middle line:84%
+aren't fully paying
+attention and the gym
+
+00:38:04.040 --> 00:38:06.770 align:middle line:84%
+is designing a payment
+scheme with the auto renewal
+
+00:38:06.770 --> 00:38:09.600 align:middle line:84%
+on your credit card
+to exploit that.
+
+00:38:09.600 --> 00:38:10.860 align:middle line:90%
+OK.
+
+00:38:10.860 --> 00:38:14.460 align:middle line:84%
+Other observations that suggest
+the partially naive model
+
+00:38:14.460 --> 00:38:19.410 align:middle line:84%
+may be better than the fully
+rational explanation for this.
+
+00:38:19.410 --> 00:38:24.090 align:middle line:84%
+You ask people in surveys, how
+often will you go to the gym?
+
+00:38:24.090 --> 00:38:26.040 align:middle line:84%
+And people say
+that they're going
+
+00:38:26.040 --> 00:38:29.080 align:middle line:84%
+to go to the gym more than twice
+as much as they actually go.
+
+00:38:29.080 --> 00:38:31.287 align:middle line:84%
+So you ask the
+people who have-- you
+
+00:38:31.287 --> 00:38:33.870 align:middle line:84%
+ask people who have signed up
+for the plans, how many times do
+
+00:38:33.870 --> 00:38:35.078 align:middle line:90%
+you think you're going to go?
+
+00:38:35.078 --> 00:38:37.470 align:middle line:90%
+And they get that wrong.
+
+00:38:37.470 --> 00:38:41.970 align:middle line:84%
+And then also,
+there's a correlation
+
+00:38:41.970 --> 00:38:44.700 align:middle line:84%
+between lower usage of the
+gym and taking a longer
+
+00:38:44.700 --> 00:38:47.080 align:middle line:84%
+time to cancel after you
+stop going to the gym.
+
+00:38:47.080 --> 00:38:48.957 align:middle line:84%
+And so this is a
+sense that there
+
+00:38:48.957 --> 00:38:50.790 align:middle line:84%
+seem to be some people
+who are more rational
+
+00:38:50.790 --> 00:38:52.360 align:middle line:84%
+and some people who
+are less rational,
+
+00:38:52.360 --> 00:38:53.735 align:middle line:84%
+and then the less
+rational people
+
+00:38:53.735 --> 00:38:56.340 align:middle line:84%
+do multiple things that
+seem irrational together,
+
+00:38:56.340 --> 00:38:59.850 align:middle line:84%
+like the not canceling
+and the not going so much.
+
+00:38:59.850 --> 00:39:06.008 align:middle line:84%
+Again, they don't estimate
+a specific behavioral model
+
+00:39:06.008 --> 00:39:08.300 align:middle line:84%
+and show that specific
+behavioral model can rationalize
+
+00:39:08.300 --> 00:39:10.800 align:middle line:84%
+all the things, but it's saying
+that the rational model just
+
+00:39:10.800 --> 00:39:12.800 align:middle line:90%
+doesn't work.
+
+00:39:12.800 --> 00:39:13.300 align:middle line:90%
+OK.
+
+00:39:13.300 --> 00:39:16.060 align:middle line:90%
+
+
+00:39:16.060 --> 00:39:16.560 align:middle line:90%
+OK.
+
+00:39:16.560 --> 00:39:18.750 align:middle line:84%
+So I thought next
+thing I would do
+
+00:39:18.750 --> 00:39:23.700 align:middle line:84%
+is cover in more detail
+one theoretical paper
+
+00:39:23.700 --> 00:39:27.340 align:middle line:84%
+to just give you more of a
+sense of how these papers work.
+
+00:39:27.340 --> 00:39:29.460 align:middle line:84%
+So this is a paper by
+Heidhues and Koszegi
+
+00:39:29.460 --> 00:39:33.150 align:middle line:90%
+about credit markets.
+
+00:39:33.150 --> 00:39:38.640 align:middle line:84%
+And I think there's a
+feeling that many people have
+
+00:39:38.640 --> 00:39:39.580 align:middle line:90%
+too much debt.
+
+00:39:39.580 --> 00:39:41.497 align:middle line:84%
+In the last financial
+crisis, there was a view
+
+00:39:41.497 --> 00:39:42.880 align:middle line:90%
+that people have too much debt.
+
+00:39:42.880 --> 00:39:46.170 align:middle line:84%
+There's also an observation that
+many firms offer credit card
+
+00:39:46.170 --> 00:39:49.440 align:middle line:84%
+deals that look like things like
+sign up for our credit card,
+
+00:39:49.440 --> 00:39:53.280 align:middle line:84%
+pay 0.9 interest for
+the first six months
+
+00:39:53.280 --> 00:39:57.010 align:middle line:84%
+to pay off your other debts,
+and then it goes up to 19.8%
+
+00:39:57.010 --> 00:39:59.260 align:middle line:84%
+And there's this use
+of these teaser rates,
+
+00:39:59.260 --> 00:40:01.718 align:middle line:84%
+and then people think that,
+are those teaser rates
+
+00:40:01.718 --> 00:40:03.510 align:middle line:84%
+designed to get people
+to take on more debt
+
+00:40:03.510 --> 00:40:06.720 align:middle line:84%
+than they should take on or more
+debt than they want to take on?
+
+00:40:06.720 --> 00:40:10.530 align:middle line:84%
+And so that's the idea of
+the Heidhues-Koszegi paper is
+
+00:40:10.530 --> 00:40:17.450 align:middle line:84%
+to think about, would
+quasi-hyperbolic consumers--
+
+00:40:17.450 --> 00:40:20.540 align:middle line:84%
+would the market exploit
+quasi-hyperbolic consumers
+
+00:40:20.540 --> 00:40:23.990 align:middle line:84%
+in a way that creates them
+taking on too much debt
+
+00:40:23.990 --> 00:40:26.360 align:middle line:84%
+and would it
+explain why it is we
+
+00:40:26.360 --> 00:40:32.110 align:middle line:84%
+see that these contracts that
+have initial upfront teaser
+
+00:40:32.110 --> 00:40:36.510 align:middle line:84%
+rates followed by
+higher rates later on?
+
+00:40:36.510 --> 00:40:38.140 align:middle line:90%
+So in their model--
+
+00:40:38.140 --> 00:40:42.310 align:middle line:84%
+and this becomes-- it's
+a nice paper in that it's
+
+00:40:42.310 --> 00:40:45.640 align:middle line:84%
+a paper that shows there's this
+very, very sharp discontinuity
+
+00:40:45.640 --> 00:40:51.460 align:middle line:84%
+where, with fully sophisticated
+quasi-hyperbolic consumers,
+
+00:40:51.460 --> 00:40:54.670 align:middle line:84%
+one thing happens and then you
+make even an epsilon difference
+
+00:40:54.670 --> 00:40:58.820 align:middle line:84%
+between their self-recognition
+and full self-recognition,
+
+00:40:58.820 --> 00:41:00.730 align:middle line:84%
+you get a big discrete
+jump in behavior
+
+00:41:00.730 --> 00:41:05.230 align:middle line:84%
+with an epsilon change in
+the behavioral assumption.
+
+00:41:05.230 --> 00:41:06.940 align:middle line:84%
+So anyway, we have
+this agent, they
+
+00:41:06.940 --> 00:41:09.448 align:middle line:84%
+have the beta, beta
+hat one preferences.
+
+00:41:09.448 --> 00:41:10.990 align:middle line:84%
+So just we're
+eliminating discounting
+
+00:41:10.990 --> 00:41:12.820 align:middle line:90%
+because t equals three.
+
+00:41:12.820 --> 00:41:15.340 align:middle line:84%
+So the consumer is going
+to borrow some money at t
+
+00:41:15.340 --> 00:41:17.440 align:middle line:90%
+equals zero.
+
+00:41:17.440 --> 00:41:21.220 align:middle line:84%
+Think of this as
+taking out a car loan.
+
+00:41:21.220 --> 00:41:23.590 align:middle line:84%
+I'm borrowing some
+money c to buy a car,
+
+00:41:23.590 --> 00:41:25.870 align:middle line:84%
+and then I buy a
+durable good and I
+
+00:41:25.870 --> 00:41:31.450 align:middle line:84%
+get utility from the durable
+good at t equals one.
+
+00:41:31.450 --> 00:41:34.060 align:middle line:84%
+So there's some
+sense there's a time
+
+00:41:34.060 --> 00:41:37.390 align:middle line:84%
+zero where I pay the
+money and then a time one
+
+00:41:37.390 --> 00:41:40.008 align:middle line:84%
+where I enjoy the durable
+good, and then time two,
+
+00:41:40.008 --> 00:41:41.800 align:middle line:84%
+I could still be enjoying
+the durable good.
+
+00:41:41.800 --> 00:41:43.870 align:middle line:84%
+They do that the durable
+good is already worn out
+
+00:41:43.870 --> 00:41:45.537 align:middle line:84%
+and I still just have
+my debt for my car
+
+00:41:45.537 --> 00:41:47.080 align:middle line:90%
+after I've already sold my car.
+
+00:41:47.080 --> 00:41:49.640 align:middle line:84%
+But anyway, there's
+I borrowed money.
+
+00:41:49.640 --> 00:41:52.180 align:middle line:84%
+I get utility of t equals
+one from my durable good.
+
+00:41:52.180 --> 00:41:55.540 align:middle line:84%
+At t equals one I'm making my
+car payments, and then at t
+
+00:41:55.540 --> 00:41:57.930 align:middle line:84%
+equals two, I'm still making
+an additional car payment.
+
+00:41:57.930 --> 00:42:01.160 align:middle line:90%
+
+
+00:42:01.160 --> 00:42:03.080 align:middle line:84%
+So they have this
+conflict of interest
+
+00:42:03.080 --> 00:42:07.760 align:middle line:84%
+between how the different selves
+will view the car payments
+
+00:42:07.760 --> 00:42:09.540 align:middle line:90%
+versus the enjoying the car.
+
+00:42:09.540 --> 00:42:11.960 align:middle line:84%
+So from the point of view
+of the time zero self, which
+
+00:42:11.960 --> 00:42:15.075 align:middle line:84%
+is before he's going
+to enjoy the car
+
+00:42:15.075 --> 00:42:16.950 align:middle line:84%
+and before he's going
+to make the repayments,
+
+00:42:16.950 --> 00:42:22.910 align:middle line:84%
+time zero self's preferences
+are c minus k of q minus k of r.
+
+00:42:22.910 --> 00:42:29.870 align:middle line:84%
+So there's this convex
+function about your repayment.
+
+00:42:29.870 --> 00:42:33.050 align:middle line:84%
+You have this convex
+disutility of a repayment
+
+00:42:33.050 --> 00:42:35.630 align:middle line:84%
+because the more you have
+to repay in your monthly car
+
+00:42:35.630 --> 00:42:37.880 align:middle line:84%
+payment, the more you're
+cutting back on other things,
+
+00:42:37.880 --> 00:42:41.000 align:middle line:84%
+and the more things you cut
+back on increasing disutility
+
+00:42:41.000 --> 00:42:42.470 align:middle line:84%
+for cutting back
+on food as you're
+
+00:42:42.470 --> 00:42:44.525 align:middle line:90%
+cutting back more and more.
+
+00:42:44.525 --> 00:42:46.580 align:middle line:84%
+And so the time
+zero self utility
+
+00:42:46.580 --> 00:42:49.430 align:middle line:84%
+is c is the enjoyment
+of the car minus--
+
+00:42:49.430 --> 00:42:51.383 align:middle line:84%
+all these things would
+be multiplied by beta
+
+00:42:51.383 --> 00:42:52.800 align:middle line:84%
+because they're
+all in the future,
+
+00:42:52.800 --> 00:42:55.350 align:middle line:84%
+but we ignore that fact because
+they're all in the future.
+
+00:42:55.350 --> 00:42:57.850 align:middle line:84%
+So from the time zero self,
+these things are all comparable,
+
+00:42:57.850 --> 00:43:00.975 align:middle line:84%
+and it's c minus k
+of q minus k of r.
+
+00:43:00.975 --> 00:43:03.690 align:middle line:90%
+
+
+00:43:03.690 --> 00:43:06.550 align:middle line:84%
+From the time one's
+perspective self,
+
+00:43:06.550 --> 00:43:11.470 align:middle line:84%
+time one cares about the car
+and the repayment made at t
+
+00:43:11.470 --> 00:43:12.560 align:middle line:90%
+equals one.
+
+00:43:12.560 --> 00:43:15.693 align:middle line:84%
+By the time one self
+discounts the pain
+
+00:43:15.693 --> 00:43:17.110 align:middle line:84%
+he's going to
+suffer repaying at t
+
+00:43:17.110 --> 00:43:19.540 align:middle line:84%
+equals two because
+that's a future thing.
+
+00:43:19.540 --> 00:43:22.540 align:middle line:84%
+And then by the time it gets to
+the time two self, the time two
+
+00:43:22.540 --> 00:43:25.240 align:middle line:84%
+self dislikes the
+repayment that the time two
+
+00:43:25.240 --> 00:43:26.535 align:middle line:90%
+self is being forced to make.
+
+00:43:26.535 --> 00:43:31.630 align:middle line:90%
+
+
+00:43:31.630 --> 00:43:33.610 align:middle line:84%
+We're going to assume
+that the credit market is
+
+00:43:33.610 --> 00:43:34.970 align:middle line:90%
+perfectly competitive.
+
+00:43:34.970 --> 00:43:36.940 align:middle line:90%
+It has zero interest rates.
+
+00:43:36.940 --> 00:43:39.970 align:middle line:84%
+And firms can offer
+these option contracts
+
+00:43:39.970 --> 00:43:42.940 align:middle line:84%
+where you pay, you
+get some amount of c
+
+00:43:42.940 --> 00:43:45.370 align:middle line:84%
+is given to you
+up front, and then
+
+00:43:45.370 --> 00:43:49.180 align:middle line:84%
+you have these repayment
+plans you can choose among,
+
+00:43:49.180 --> 00:43:52.787 align:middle line:84%
+q sub s, r sub s,
+and at t equals one
+
+00:43:52.787 --> 00:43:54.620 align:middle line:84%
+you choose how you're
+how you want to repay.
+
+00:43:54.620 --> 00:43:56.620 align:middle line:84%
+Do you want to make the
+immediate repayment at t
+
+00:43:56.620 --> 00:43:57.230 align:middle line:90%
+equals one?
+
+00:43:57.230 --> 00:43:59.890 align:middle line:84%
+Do you want to delay your
+payment and spread it out over t
+
+00:43:59.890 --> 00:44:01.460 align:middle line:90%
+equals one and t equals two?
+
+00:44:01.460 --> 00:44:04.790 align:middle line:84%
+Or maybe they have many, many
+different possible plans.
+
+00:44:04.790 --> 00:44:05.290 align:middle line:90%
+OK.
+
+00:44:05.290 --> 00:44:07.930 align:middle line:90%
+
+
+00:44:07.930 --> 00:44:09.920 align:middle line:84%
+Suppose we have a
+rational consumer.
+
+00:44:09.920 --> 00:44:11.900 align:middle line:84%
+What does a rational
+consumer do?
+
+00:44:11.900 --> 00:44:15.340 align:middle line:84%
+Well, the rational consumer,
+you're just maximizing this,
+
+00:44:15.340 --> 00:44:17.860 align:middle line:84%
+and there's going to be
+a break even constraint
+
+00:44:17.860 --> 00:44:19.960 align:middle line:84%
+in the competitive market
+that is going to have
+
+00:44:19.960 --> 00:44:22.930 align:middle line:90%
+to be c equals q plus r.
+
+00:44:22.930 --> 00:44:25.720 align:middle line:84%
+The competitive
+interest lenders are
+
+00:44:25.720 --> 00:44:29.250 align:middle line:84%
+going to always offer you the
+full amount of the repayments
+
+00:44:29.250 --> 00:44:31.410 align:middle line:84%
+as your upfront
+price of the loan.
+
+00:44:31.410 --> 00:44:35.270 align:middle line:84%
+So we're just trying
+to maximize this.
+
+00:44:35.270 --> 00:44:41.120 align:middle line:84%
+So we're trying to
+maximize c minus k of q
+
+00:44:41.120 --> 00:44:47.590 align:middle line:84%
+minus k of r subject to
+the zero profit constraint.
+
+00:44:47.590 --> 00:44:48.775 align:middle line:90%
+OK.
+
+00:44:48.775 --> 00:44:52.660 align:middle line:90%
+What's the solution to that?
+
+00:44:52.660 --> 00:44:54.100 align:middle line:90%
+Lagrangians are all ones.
+
+00:44:54.100 --> 00:44:55.630 align:middle line:84%
+You differentiate
+with respect to q,
+
+00:44:55.630 --> 00:44:58.570 align:middle line:84%
+and the repayments
+are going to have
+
+00:44:58.570 --> 00:45:04.270 align:middle line:84%
+to satisfy the marginal
+disutility of repaying a dollar
+
+00:45:04.270 --> 00:45:08.380 align:middle line:84%
+when you have a payment
+of q is equal to one
+
+00:45:08.380 --> 00:45:13.830 align:middle line:84%
+and the marginal value
+of repaying a dollar
+
+00:45:13.830 --> 00:45:15.970 align:middle line:84%
+when you're paying
+r is equal to one.
+
+00:45:15.970 --> 00:45:21.750 align:middle line:84%
+And so you repay evenly,
+setting these repayment rates
+
+00:45:21.750 --> 00:45:24.610 align:middle line:84%
+so that the disutility of
+paying that dollar is one,
+
+00:45:24.610 --> 00:45:26.790 align:middle line:84%
+and then you set c
+equal to q plus r.
+
+00:45:26.790 --> 00:45:29.460 align:middle line:90%
+
+
+00:45:29.460 --> 00:45:32.910 align:middle line:84%
+Anyway, the k prime at
+q equals one pins down
+
+00:45:32.910 --> 00:45:34.920 align:middle line:84%
+how big the loan
+should be, and then
+
+00:45:34.920 --> 00:45:38.535 align:middle line:84%
+you just repay evenly
+over the two periods.
+
+00:45:38.535 --> 00:45:41.580 align:middle line:84%
+And the rational loan
+contract doesn't have
+
+00:45:41.580 --> 00:45:42.850 align:middle line:90%
+to be some complicated thing.
+
+00:45:42.850 --> 00:45:46.320 align:middle line:84%
+The rational loan contract just
+says, you know, here you go.
+
+00:45:46.320 --> 00:45:47.320 align:middle line:90%
+You get no choices.
+
+00:45:47.320 --> 00:45:50.610 align:middle line:84%
+You get c first best, and
+then you make those payments
+
+00:45:50.610 --> 00:45:55.380 align:middle line:90%
+q first best, r first best.
+
+00:45:55.380 --> 00:45:57.035 align:middle line:84%
+There's exactly one
+repayment option.
+
+00:45:57.035 --> 00:45:58.160 align:middle line:90%
+That's what you have to do.
+
+00:45:58.160 --> 00:46:05.880 align:middle line:90%
+
+
+00:46:05.880 --> 00:46:08.190 align:middle line:90%
+OK.
+
+00:46:08.190 --> 00:46:13.680 align:middle line:84%
+Imagine that the consumers
+are sophisticated.
+
+00:46:13.680 --> 00:46:15.880 align:middle line:84%
+So you have
+sophisticated hyperbolic.
+
+00:46:15.880 --> 00:46:19.080 align:middle line:84%
+So the consumers are hyperbolic,
+but they're sophisticated so
+
+00:46:19.080 --> 00:46:20.790 align:middle line:84%
+that they have beta
+delta preferences,
+
+00:46:20.790 --> 00:46:24.080 align:middle line:84%
+but they recognize their future
+self as beta delta preference.
+
+00:46:24.080 --> 00:46:29.910 align:middle line:84%
+Then the time zero
+consumer, though hyperbolic,
+
+00:46:29.910 --> 00:46:32.230 align:middle line:84%
+the time zero consumer here
+is not getting the benefit.
+
+00:46:32.230 --> 00:46:33.780 align:middle line:84%
+It's the time one
+and two consumers
+
+00:46:33.780 --> 00:46:35.370 align:middle line:90%
+who get the benefit of the car.
+
+00:46:35.370 --> 00:46:40.200 align:middle line:84%
+So the time zero consumer has
+essentially rational preferences
+
+00:46:40.200 --> 00:46:42.930 align:middle line:84%
+over what he wants the
+future selves to do.
+
+00:46:42.930 --> 00:46:47.250 align:middle line:84%
+So in a sophisticated
+hyperbolic model,
+
+00:46:47.250 --> 00:46:50.070 align:middle line:84%
+a sophisticated
+hyperbolic model,
+
+00:46:50.070 --> 00:46:54.090 align:middle line:84%
+the monopolist is still going
+to offer the rational contract.
+
+00:46:54.090 --> 00:46:56.070 align:middle line:84%
+And so you're going to
+commit your future self
+
+00:46:56.070 --> 00:46:58.080 align:middle line:84%
+to make those two even
+payments, because that's
+
+00:46:58.080 --> 00:47:00.840 align:middle line:84%
+what is best for
+the future selves
+
+00:47:00.840 --> 00:47:03.540 align:middle line:84%
+to do from the point of view
+of the time zero purchaser.
+
+00:47:03.540 --> 00:47:08.540 align:middle line:84%
+So in some sense,
+a lending market
+
+00:47:08.540 --> 00:47:11.060 align:middle line:84%
+sells commitment to the
+time zero consumers who
+
+00:47:11.060 --> 00:47:13.130 align:middle line:84%
+want commitment and
+lets them overcome
+
+00:47:13.130 --> 00:47:15.830 align:middle line:90%
+their hyperbolic preferences.
+
+00:47:15.830 --> 00:47:20.210 align:middle line:84%
+Again, they get
+their first best.
+
+00:47:20.210 --> 00:47:23.300 align:middle line:84%
+We get the first best buy
+just committed to the contract
+
+00:47:23.300 --> 00:47:24.087 align:middle line:90%
+is the first best.
+
+00:47:24.087 --> 00:47:25.045 align:middle line:90%
+That's the only option.
+
+00:47:25.045 --> 00:47:28.310 align:middle line:90%
+
+
+00:47:28.310 --> 00:47:30.800 align:middle line:84%
+Then the interesting
+theorem is what
+
+00:47:30.800 --> 00:47:34.370 align:middle line:84%
+happens when beta hat
+is different from beta.
+
+00:47:34.370 --> 00:47:37.010 align:middle line:84%
+The result is that when beta
+hat is greater than beta,
+
+00:47:37.010 --> 00:47:40.830 align:middle line:84%
+you think you're even epsilon
+less hyperbolic than you are.
+
+00:47:40.830 --> 00:47:43.310 align:middle line:84%
+There's a discontinuity
+in the contract.
+
+00:47:43.310 --> 00:47:48.020 align:middle line:84%
+And instead of offering just
+this straightforward no option
+
+00:47:48.020 --> 00:47:52.610 align:middle line:84%
+contract, firms now
+offer an option contract.
+
+00:47:52.610 --> 00:47:56.000 align:middle line:84%
+The contract looks like you
+get some amount c up front,
+
+00:47:56.000 --> 00:47:58.500 align:middle line:84%
+and then you have two
+repayment options.
+
+00:47:58.500 --> 00:48:01.640 align:middle line:84%
+One is to repay
+everything at t equals one
+
+00:48:01.640 --> 00:48:03.920 align:middle line:84%
+and get a very good deal
+repaying everything at t
+
+00:48:03.920 --> 00:48:07.130 align:middle line:84%
+equals one, and then
+the other one is
+
+00:48:07.130 --> 00:48:10.460 align:middle line:84%
+to spread your repayments
+out over t equals one
+
+00:48:10.460 --> 00:48:14.030 align:middle line:84%
+and t equals two, and make
+an even larger repayment at t
+
+00:48:14.030 --> 00:48:17.600 align:middle line:84%
+equals two than you
+make at t equals one.
+
+00:48:17.600 --> 00:48:20.930 align:middle line:84%
+So you can think of it
+as like you have these--
+
+00:48:20.930 --> 00:48:22.715 align:middle line:84%
+you know, they give
+you money up front.
+
+00:48:22.715 --> 00:48:25.460 align:middle line:90%
+
+
+00:48:25.460 --> 00:48:28.850 align:middle line:84%
+Let's suppose they give you
+$30,000 up front and then they
+
+00:48:28.850 --> 00:48:31.740 align:middle line:84%
+have these two options
+for repayments.
+
+00:48:31.740 --> 00:48:37.190 align:middle line:84%
+One is to repay 25,000 at t
+equals one and zero at t equals
+
+00:48:37.190 --> 00:48:42.440 align:middle line:84%
+two, and the other is to
+repay 15,000 at t equals one
+
+00:48:42.440 --> 00:48:50.800 align:middle line:84%
+and 25,000 or 20,000
+at t equals two.
+
+00:48:50.800 --> 00:48:51.300 align:middle line:90%
+OK?
+
+00:48:51.300 --> 00:48:54.570 align:middle line:84%
+So the first best in my simple
+example would be they loan you
+
+00:48:54.570 --> 00:49:01.660 align:middle line:84%
+30,000 and you repay 15,000 in
+each of the two future periods.
+
+00:49:01.660 --> 00:49:04.680 align:middle line:84%
+That's what the first efficient
+thing would be in this model.
+
+00:49:04.680 --> 00:49:07.600 align:middle line:84%
+But instead what they do
+is they actually loan you--
+
+00:49:07.600 --> 00:49:14.790 align:middle line:84%
+actually, they do following,
+they loan you 35,000 and they
+
+00:49:14.790 --> 00:49:15.960 align:middle line:90%
+give you two options.
+
+00:49:15.960 --> 00:49:19.950 align:middle line:84%
+Either repay 25,000 at t equals
+one and nothing at t equals two,
+
+00:49:19.950 --> 00:49:26.920 align:middle line:84%
+or repay 15,000 at t equals
+one and 25,000 at t equals two.
+
+00:49:26.920 --> 00:49:31.720 align:middle line:84%
+And so the contract has
+two different distortions.
+
+00:49:31.720 --> 00:49:36.490 align:middle line:84%
+One distortion is that
+the consumers end up
+
+00:49:36.490 --> 00:49:40.870 align:middle line:84%
+taking on more debt
+than they want--
+
+00:49:40.870 --> 00:49:42.550 align:middle line:84%
+take on more debt
+than they want,
+
+00:49:42.550 --> 00:49:44.830 align:middle line:84%
+more debt than they should
+in a rational contract
+
+00:49:44.830 --> 00:49:48.630 align:middle line:84%
+and get a bigger loan and
+buy a more expensive car.
+
+00:49:48.630 --> 00:49:50.460 align:middle line:84%
+And then the second
+distortion is
+
+00:49:50.460 --> 00:49:54.840 align:middle line:84%
+that they end up choosing the
+wrong repayment option, where
+
+00:49:54.840 --> 00:49:56.492 align:middle line:84%
+you give them this
+option, they think
+
+00:49:56.492 --> 00:49:57.700 align:middle line:90%
+they're going to choose this.
+
+00:49:57.700 --> 00:49:58.870 align:middle line:90%
+Wow, that's a great deal.
+
+00:49:58.870 --> 00:50:00.870 align:middle line:84%
+If I just pay everything
+back next period,
+
+00:50:00.870 --> 00:50:03.640 align:middle line:84%
+I'm getting an awesome
+deal repaying my car loan.
+
+00:50:03.640 --> 00:50:06.720 align:middle line:84%
+But then in fact, once it gets
+the next period and trying
+
+00:50:06.720 --> 00:50:10.670 align:middle line:84%
+to come up with 25,000 all
+in one year is too painful,
+
+00:50:10.670 --> 00:50:12.510 align:middle line:84%
+you end up spreading
+it out and saying, OK,
+
+00:50:12.510 --> 00:50:18.228 align:middle line:84%
+I'll pay 15,000 today
+and then 25,000 tomorrow.
+
+00:50:18.228 --> 00:50:21.780 align:middle line:84%
+So we get these two different
+distortions, the distortion
+
+00:50:21.780 --> 00:50:25.860 align:middle line:84%
+of loans that are too big
+and loan payments that
+
+00:50:25.860 --> 00:50:27.480 align:middle line:84%
+are distorted with
+a balloon payment
+
+00:50:27.480 --> 00:50:30.510 align:middle line:84%
+at the end that's larger than
+the payment in the beginning,
+
+00:50:30.510 --> 00:50:33.900 align:middle line:84%
+whereas spreading the payments
+evenly is what would minimize
+
+00:50:33.900 --> 00:50:37.500 align:middle line:90%
+the customer's disutility.
+
+00:50:37.500 --> 00:50:38.000 align:middle line:90%
+OK.
+
+00:50:38.000 --> 00:50:40.890 align:middle line:84%
+And, you know, it's a model
+with perfect competition.
+
+00:50:40.890 --> 00:50:43.880 align:middle line:84%
+So with perfect
+competition, the lenders--
+
+00:50:43.880 --> 00:50:47.240 align:middle line:84%
+actually, so I should
+have done this with 20.
+
+00:50:47.240 --> 00:50:50.300 align:middle line:84%
+In this model, the
+lenders, zero profits.
+
+00:50:50.300 --> 00:50:52.020 align:middle line:84%
+You get zero profits
+for the lenders,
+
+00:50:52.020 --> 00:50:53.960 align:middle line:84%
+so the amount that
+they borrow is
+
+00:50:53.960 --> 00:50:56.040 align:middle line:90%
+exactly equal to the repayment.
+
+00:50:56.040 --> 00:50:58.670 align:middle line:84%
+So it's not like lenders make
+any extra-- lenders don't
+
+00:50:58.670 --> 00:50:59.460 align:middle line:90%
+make any money.
+
+00:50:59.460 --> 00:51:02.000 align:middle line:84%
+It's just utility
+is being destroyed
+
+00:51:02.000 --> 00:51:06.470 align:middle line:84%
+by having consumers get a larger
+loan than is rational for them
+
+00:51:06.470 --> 00:51:12.110 align:middle line:84%
+to get and pay the
+money back unevenly
+
+00:51:12.110 --> 00:51:14.990 align:middle line:84%
+in a way that makes them
+suffer more disutility
+
+00:51:14.990 --> 00:51:16.393 align:middle line:90%
+from the unequal payments.
+
+00:51:16.393 --> 00:51:23.220 align:middle line:90%
+
+
+00:51:23.220 --> 00:51:27.245 align:middle line:84%
+So questions on the finding of
+what they're trying to show?
+
+00:51:27.245 --> 00:51:30.550 align:middle line:90%
+
+
+00:51:30.550 --> 00:51:31.050 align:middle line:90%
+OK.
+
+00:51:31.050 --> 00:51:33.717 align:middle line:84%
+So what I thought I would do is
+I would actually just go through
+
+00:51:33.717 --> 00:51:38.920 align:middle line:84%
+the-- it's a standard type
+of mechanism design argument.
+
+00:51:38.920 --> 00:51:41.230 align:middle line:84%
+It's pretty simple, so I
+thought I would do that.
+
+00:51:41.230 --> 00:51:44.040 align:middle line:84%
+So first way to think about
+analyzing a model like this
+
+00:51:44.040 --> 00:51:49.950 align:middle line:84%
+is we can restrict
+ourselves to contracts
+
+00:51:49.950 --> 00:51:53.460 align:middle line:84%
+that have just two options,
+because all that really matters
+
+00:51:53.460 --> 00:51:55.620 align:middle line:84%
+is what does the
+consumer think they're
+
+00:51:55.620 --> 00:51:58.680 align:middle line:84%
+going to repay when
+they sign the contract
+
+00:51:58.680 --> 00:52:00.333 align:middle line:90%
+and what do they actually repay.
+
+00:52:00.333 --> 00:52:03.000 align:middle line:84%
+So there's one option that needs
+to be there, which is what they
+
+00:52:03.000 --> 00:52:03.880 align:middle line:90%
+think they're going to pay.
+
+00:52:03.880 --> 00:52:05.980 align:middle line:84%
+There's another one, what are
+they actually going to pay?
+
+00:52:05.980 --> 00:52:07.840 align:middle line:84%
+You can put 10 different
+options in there.
+
+00:52:07.840 --> 00:52:09.755 align:middle line:90%
+The other eight don't matter.
+
+00:52:09.755 --> 00:52:12.090 align:middle line:84%
+OK, so we can think of a
+general class of contracts
+
+00:52:12.090 --> 00:52:14.370 align:middle line:84%
+as being how much
+money does the lenders
+
+00:52:14.370 --> 00:52:17.513 align:middle line:84%
+give them up front, what's
+the repayment option
+
+00:52:17.513 --> 00:52:19.680 align:middle line:84%
+that they think they're
+going to take when they sign
+
+00:52:19.680 --> 00:52:21.930 align:middle line:84%
+the contract, and then
+what's the repayment
+
+00:52:21.930 --> 00:52:24.568 align:middle line:84%
+option that they're
+actually going to take.
+
+00:52:24.568 --> 00:52:25.068 align:middle line:90%
+OK.
+
+00:52:25.068 --> 00:52:27.990 align:middle line:90%
+
+
+00:52:27.990 --> 00:52:30.690 align:middle line:84%
+The lenders are competing to
+make the most attractive offers,
+
+00:52:30.690 --> 00:52:32.850 align:middle line:84%
+which means it must
+be that the offer that
+
+00:52:32.850 --> 00:52:36.540 align:middle line:84%
+gets made and accepted in
+equilibrium solves this problem.
+
+00:52:36.540 --> 00:52:39.480 align:middle line:84%
+We're maximizing the
+utility that consumers
+
+00:52:39.480 --> 00:52:44.050 align:middle line:84%
+think you're giving them
+subject to three constraints.
+
+00:52:44.050 --> 00:52:46.770 align:middle line:84%
+The first is the individual
+rationality constraint
+
+00:52:46.770 --> 00:52:48.510 align:middle line:84%
+of the lenders,
+which is the lenders
+
+00:52:48.510 --> 00:52:52.040 align:middle line:84%
+have to earn zero
+profits, so the amount
+
+00:52:52.040 --> 00:52:53.790 align:middle line:84%
+that they give the
+consumer up front can't
+
+00:52:53.790 --> 00:52:55.665 align:middle line:84%
+be any bigger than the
+repayment that they're
+
+00:52:55.665 --> 00:52:59.950 align:middle line:84%
+going to get in equilibrium,
+which is q and r.
+
+00:52:59.950 --> 00:53:02.860 align:middle line:84%
+There's the IC constraint
+for the time zero self,
+
+00:53:02.860 --> 00:53:04.520 align:middle line:90%
+the one making the purchase.
+
+00:53:04.520 --> 00:53:07.210 align:middle line:84%
+The time zero self has
+to think that they're
+
+00:53:07.210 --> 00:53:10.550 align:middle line:90%
+going to repay q hat r hat.
+
+00:53:10.550 --> 00:53:16.320 align:middle line:84%
+And so it must be that
+the disutility that you
+
+00:53:16.320 --> 00:53:19.440 align:middle line:84%
+get from paying q hat r
+hat, which is k of q hat
+
+00:53:19.440 --> 00:53:22.980 align:middle line:84%
+plus beta hat k of r hat, that's
+how you think your future self
+
+00:53:22.980 --> 00:53:27.990 align:middle line:84%
+is going to be hyperbolic,
+that has to be less than k of q
+
+00:53:27.990 --> 00:53:29.200 align:middle line:90%
+plus beta hat k of r.
+
+00:53:29.200 --> 00:53:33.300 align:middle line:84%
+So you think, wow, this
+one is such a bad--
+
+00:53:33.300 --> 00:53:35.190 align:middle line:84%
+IC zero says this
+is such a bad deal
+
+00:53:35.190 --> 00:53:39.060 align:middle line:84%
+relative to this one that my
+future self will pay this one.
+
+00:53:39.060 --> 00:53:42.600 align:middle line:84%
+And then it must also be that
+when we get to t equals one,
+
+00:53:42.600 --> 00:53:44.580 align:middle line:84%
+from the t equals
+one self, when the t
+
+00:53:44.580 --> 00:53:46.740 align:middle line:84%
+equals one self is
+comparing these,
+
+00:53:46.740 --> 00:53:49.240 align:middle line:84%
+the t equals one self
+says, wow, this is painful.
+
+00:53:49.240 --> 00:53:51.030 align:middle line:84%
+I'm going to choose
+this one instead.
+
+00:53:51.030 --> 00:53:54.730 align:middle line:84%
+So those are the
+two IC constraints.
+
+00:53:54.730 --> 00:53:56.670 align:middle line:84%
+The t equals zero
+self has to say,
+
+00:53:56.670 --> 00:53:59.820 align:middle line:84%
+I think I'm going to take
+the q hat r hat option,
+
+00:53:59.820 --> 00:54:03.210 align:middle line:84%
+and then the t equals
+one self has to say,
+
+00:54:03.210 --> 00:54:05.313 align:middle line:84%
+that q hat r hat
+option is painful.
+
+00:54:05.313 --> 00:54:06.980 align:middle line:84%
+I'm going to take the
+qr option instead.
+
+00:54:06.980 --> 00:54:09.590 align:middle line:90%
+
+
+00:54:09.590 --> 00:54:10.310 align:middle line:90%
+OK?
+
+00:54:10.310 --> 00:54:14.660 align:middle line:84%
+So we have this
+fairly simple problem
+
+00:54:14.660 --> 00:54:21.530 align:middle line:84%
+that initially has five
+unknowns, c, q, r, q hat, r hat.
+
+00:54:21.530 --> 00:54:24.560 align:middle line:84%
+And as you often do in
+mechanism design problems,
+
+00:54:24.560 --> 00:54:28.910 align:middle line:84%
+the way to solve these things is
+to start by eliminating as many
+
+00:54:28.910 --> 00:54:31.760 align:middle line:84%
+of the constraints as you
+can or turning the inequality
+
+00:54:31.760 --> 00:54:33.440 align:middle line:84%
+constraints into
+equality constraints
+
+00:54:33.440 --> 00:54:35.480 align:middle line:90%
+and eliminating variables.
+
+00:54:35.480 --> 00:54:37.520 align:middle line:84%
+The first variable
+I'm going to note
+
+00:54:37.520 --> 00:54:41.130 align:middle line:84%
+is the IR constraint is
+always going to be binding.
+
+00:54:41.130 --> 00:54:44.120 align:middle line:84%
+You're always going to
+set c equals q plus r.
+
+00:54:44.120 --> 00:54:45.830 align:middle line:84%
+You're going to set
+c equals q plus r,
+
+00:54:45.830 --> 00:54:48.680 align:middle line:84%
+because giving the
+consumer more money
+
+00:54:48.680 --> 00:54:52.020 align:middle line:84%
+up front makes the
+consumer happier,
+
+00:54:52.020 --> 00:54:54.840 align:middle line:84%
+and this is the only
+constraint where c appears.
+
+00:54:54.840 --> 00:54:59.990 align:middle line:84%
+So clearly we can really drop
+that out and just say whatever q
+
+00:54:59.990 --> 00:55:02.155 align:middle line:84%
+and r we choose, c is
+going to be q plus r.
+
+00:55:02.155 --> 00:55:05.440 align:middle line:90%
+
+
+00:55:05.440 --> 00:55:06.010 align:middle line:90%
+OK.
+
+00:55:06.010 --> 00:55:11.350 align:middle line:84%
+Second observation
+is that this one also
+
+00:55:11.350 --> 00:55:13.300 align:middle line:90%
+has to hold with equality.
+
+00:55:13.300 --> 00:55:16.840 align:middle line:84%
+If this constraint
+was non-binding,
+
+00:55:16.840 --> 00:55:19.570 align:middle line:90%
+I can make q and r bigger.
+
+00:55:19.570 --> 00:55:22.180 align:middle line:84%
+And if I make q and r bigger
+this constraint, if this
+
+00:55:22.180 --> 00:55:24.010 align:middle line:84%
+was non-binding, I'd
+make q and r bigger,
+
+00:55:24.010 --> 00:55:25.880 align:middle line:90%
+this would still be satisfied.
+
+00:55:25.880 --> 00:55:28.142 align:middle line:84%
+This would be satisfied,
+this is satisfied,
+
+00:55:28.142 --> 00:55:29.350 align:middle line:90%
+this doesn't involve q and r.
+
+00:55:29.350 --> 00:55:33.070 align:middle line:84%
+So I'm always going to want to
+make q and r as big as I can
+
+00:55:33.070 --> 00:55:35.870 align:middle line:84%
+until this constraint
+gets satisfied.
+
+00:55:35.870 --> 00:55:39.940 align:middle line:84%
+So what limits these repayments
+is that the consumer at t
+
+00:55:39.940 --> 00:55:42.730 align:middle line:84%
+equals one has to actually
+be willing to make them.
+
+00:55:42.730 --> 00:55:45.906 align:middle line:84%
+So anyway, so this one
+holds with equality.
+
+00:55:45.906 --> 00:55:48.650 align:middle line:90%
+
+
+00:55:48.650 --> 00:55:52.820 align:middle line:84%
+So once you know that this
+one has an equal sign in it,
+
+00:55:52.820 --> 00:55:57.020 align:middle line:84%
+think about what does this
+constraint equivalent to when
+
+00:55:57.020 --> 00:55:58.347 align:middle line:90%
+this one holds with equality?
+
+00:55:58.347 --> 00:55:59.930 align:middle line:84%
+Well, if this one
+holds with equality,
+
+00:55:59.930 --> 00:56:03.080 align:middle line:84%
+I can just subtract the two
+left side-- the left side here
+
+00:56:03.080 --> 00:56:05.760 align:middle line:84%
+from this, subtract the
+right side here from this,
+
+00:56:05.760 --> 00:56:07.760 align:middle line:90%
+and both things are still true.
+
+00:56:07.760 --> 00:56:11.090 align:middle line:84%
+And so the top inequality still
+holds, and these things cancel,
+
+00:56:11.090 --> 00:56:12.690 align:middle line:90%
+and these things cancel.
+
+00:56:12.690 --> 00:56:14.900 align:middle line:84%
+And so what I find is
+that it must be true
+
+00:56:14.900 --> 00:56:20.900 align:middle line:84%
+that beta hat minus beta k of r,
+the right side, this minus this,
+
+00:56:20.900 --> 00:56:26.750 align:middle line:84%
+is bigger than beta hat,
+minus beta times k of r hat.
+
+00:56:26.750 --> 00:56:29.390 align:middle line:90%
+So the IC constraint.
+
+00:56:29.390 --> 00:56:31.550 align:middle line:84%
+So once this holds
+with equality,
+
+00:56:31.550 --> 00:56:35.360 align:middle line:84%
+this constraint is simply
+equivalent to r hat
+
+00:56:35.360 --> 00:56:36.325 align:middle line:90%
+being less than r.
+
+00:56:36.325 --> 00:56:38.740 align:middle line:90%
+
+
+00:56:38.740 --> 00:56:39.240 align:middle line:90%
+OK?
+
+00:56:39.240 --> 00:56:42.520 align:middle line:84%
+So IC zero is just this
+holds with equality,
+
+00:56:42.520 --> 00:56:44.610 align:middle line:84%
+this holds with
+equality, this is
+
+00:56:44.610 --> 00:56:46.850 align:middle line:90%
+equivalent to r hat less than r.
+
+00:56:46.850 --> 00:56:50.570 align:middle line:90%
+
+
+00:56:50.570 --> 00:56:53.990 align:middle line:90%
+So what's my simplified problem?
+
+00:56:53.990 --> 00:56:59.090 align:middle line:84%
+I'm maximizing c equals q plus
+r minus k of q hat minus k
+
+00:56:59.090 --> 00:57:02.510 align:middle line:84%
+of r hat, and my
+two constraints are
+
+00:57:02.510 --> 00:57:06.320 align:middle line:84%
+that r hat has to be
+less than or equal to r,
+
+00:57:06.320 --> 00:57:11.130 align:middle line:84%
+and this bottom one, the IC
+one, holds with equality.
+
+00:57:11.130 --> 00:57:19.228 align:middle line:90%
+
+
+00:57:19.228 --> 00:57:22.300 align:middle line:84%
+So again, to simplify
+this problem,
+
+00:57:22.300 --> 00:57:27.670 align:middle line:84%
+I now take this expression
+for what k of q hat is,
+
+00:57:27.670 --> 00:57:29.780 align:middle line:90%
+and I plug this in here.
+
+00:57:29.780 --> 00:57:33.580 align:middle line:84%
+So this is k of q hat equals
+this plus this minus this.
+
+00:57:33.580 --> 00:57:35.980 align:middle line:84%
+And so when I do
+that, the equation
+
+00:57:35.980 --> 00:57:46.780 align:middle line:84%
+becomes q plus r minus this, so
+minus k of q minus beta k of r,
+
+00:57:46.780 --> 00:57:50.180 align:middle line:84%
+and then I get a minus
+1 minus beta k of r hat.
+
+00:57:50.180 --> 00:57:52.600 align:middle line:84%
+So I maximizing that
+subject to the constraint
+
+00:57:52.600 --> 00:57:55.155 align:middle line:84%
+that r hat is less
+than or equal to r.
+
+00:57:55.155 --> 00:57:57.840 align:middle line:90%
+
+
+00:57:57.840 --> 00:58:00.000 align:middle line:84%
+I, again, look at
+this expression
+
+00:58:00.000 --> 00:58:01.950 align:middle line:84%
+and I recognize
+that the r hat only
+
+00:58:01.950 --> 00:58:04.470 align:middle line:84%
+appears one way, one
+place, and the r hat
+
+00:58:04.470 --> 00:58:07.200 align:middle line:84%
+has got a positive
+constant times
+
+00:58:07.200 --> 00:58:09.040 align:middle line:90%
+an increasing function of r hat.
+
+00:58:09.040 --> 00:58:11.970 align:middle line:84%
+So if my only constraint
+is that r hat equals r,
+
+00:58:11.970 --> 00:58:13.865 align:middle line:90%
+I want to set r equals zero.
+
+00:58:13.865 --> 00:58:16.580 align:middle line:90%
+
+
+00:58:16.580 --> 00:58:18.400 align:middle line:84%
+So that's where the
+zero comes from.
+
+00:58:18.400 --> 00:58:21.080 align:middle line:90%
+
+
+00:58:21.080 --> 00:58:25.100 align:middle line:84%
+And then I'm left with
+a very simple problem,
+
+00:58:25.100 --> 00:58:29.510 align:middle line:84%
+which is just I'm trying
+to maximize what's left.
+
+00:58:29.510 --> 00:58:42.868 align:middle line:84%
+I'm trying to maximize q plus r
+minus k of q minus beta k of r.
+
+00:58:42.868 --> 00:58:44.660 align:middle line:84%
+And so then just the
+first order conditions
+
+00:58:44.660 --> 00:58:47.870 align:middle line:84%
+say you set k prime
+at q equal to 1
+
+00:58:47.870 --> 00:58:51.490 align:middle line:84%
+and you set k prime at
+r equals to 1 over beta.
+
+00:58:51.490 --> 00:58:55.915 align:middle line:90%
+
+
+00:58:55.915 --> 00:58:58.530 align:middle line:84%
+And so it's the k prime
+at q equals 1 that
+
+00:58:58.530 --> 00:59:01.680 align:middle line:90%
+makes q the efficient level.
+
+00:59:01.680 --> 00:59:03.900 align:middle line:90%
+Good, so I did get that right.
+
+00:59:03.900 --> 00:59:05.880 align:middle line:84%
+If the efficient
+level is 15,000,
+
+00:59:05.880 --> 00:59:11.130 align:middle line:84%
+you ask for the efficient
+level at that period,
+
+00:59:11.130 --> 00:59:13.660 align:middle line:84%
+but then k prime and
+r is 1 over beta,
+
+00:59:13.660 --> 00:59:18.360 align:middle line:84%
+so you ask for discretely
+more money in this preference.
+
+00:59:18.360 --> 00:59:22.185 align:middle line:90%
+And so the model was that--
+
+00:59:22.185 --> 00:59:25.410 align:middle line:84%
+with the beta delta
+hyperbolic consumers,
+
+00:59:25.410 --> 00:59:26.980 align:middle line:90%
+you didn't do any distorting.
+
+00:59:26.980 --> 00:59:30.960 align:middle line:84%
+But now with beta, beta
+hat delta, with beta hat
+
+00:59:30.960 --> 00:59:34.260 align:middle line:84%
+arbitrarily close to beta,
+you get this discrete jump
+
+00:59:34.260 --> 00:59:37.470 align:middle line:84%
+reflecting the 1
+over beta discounting
+
+00:59:37.470 --> 00:59:39.600 align:middle line:90%
+versus the beta discounting.
+
+00:59:39.600 --> 00:59:42.210 align:middle line:84%
+And there's just no way that
+you can come in as a lender
+
+00:59:42.210 --> 00:59:43.710 align:middle line:84%
+and compete in
+this market and not
+
+00:59:43.710 --> 00:59:47.360 align:middle line:84%
+exploit the consumers
+because this is
+
+00:59:47.360 --> 00:59:48.610 align:middle line:90%
+what the consumers are seeing.
+
+00:59:48.610 --> 00:59:51.120 align:middle line:84%
+The consumers are seeing
+this borrow 35,000,
+
+00:59:51.120 --> 00:59:53.710 align:middle line:90%
+repay 25,000 contract.
+
+00:59:53.710 --> 00:59:56.000 align:middle line:84%
+They think that's what
+they're going to do.
+
+00:59:56.000 --> 00:59:58.613 align:middle line:84%
+I can't come in and say, no,
+look, take a reasonable size
+
+00:59:58.613 --> 01:00:01.030 align:middle line:84%
+loan, pay it out evenly, because
+they're going to be like,
+
+01:00:01.030 --> 01:00:03.980 align:middle line:84%
+no, I would like to
+get the nicer car
+
+01:00:03.980 --> 01:00:07.910 align:middle line:84%
+and it's a huge financial win
+for me to take this teaser deal.
+
+01:00:07.910 --> 01:00:10.090 align:middle line:84%
+Therefore, you can't compete
+with that teaser deal
+
+01:00:10.090 --> 01:00:12.325 align:middle line:84%
+with the regular deal,
+because if you're not
+
+01:00:12.325 --> 01:00:14.200 align:middle line:84%
+exploiting the consumers,
+you can't make them
+
+01:00:14.200 --> 01:00:15.575 align:middle line:84%
+that outlandish
+promise of you're
+
+01:00:15.575 --> 01:00:19.520 align:middle line:84%
+going to get all this money
+and repay this little amount.
+
+01:00:19.520 --> 01:00:20.730 align:middle line:90%
+Next paper I want to do.
+
+01:00:20.730 --> 01:00:23.395 align:middle line:84%
+I guess I won't get through
+all of these today, but.
+
+01:00:23.395 --> 01:00:26.340 align:middle line:90%
+
+
+01:00:26.340 --> 01:00:28.410 align:middle line:84%
+So this is a paper
+by Michael Grubb,
+
+01:00:28.410 --> 01:00:33.394 align:middle line:84%
+"Selling to Overconfident
+Consumers," which has a--
+
+01:00:33.394 --> 01:00:36.480 align:middle line:84%
+it's based on an
+overconfidence bias.
+
+01:00:36.480 --> 01:00:39.030 align:middle line:84%
+People think they know more
+about their future self
+
+01:00:39.030 --> 01:00:40.410 align:middle line:90%
+than they do.
+
+01:00:40.410 --> 01:00:44.483 align:middle line:84%
+And what he's
+trying to explain is
+
+01:00:44.483 --> 01:00:46.650 align:middle line:84%
+one of the things I did
+early on in monopoly pricing
+
+01:00:46.650 --> 01:00:47.820 align:middle line:90%
+is two part tariffs.
+
+01:00:47.820 --> 01:00:51.090 align:middle line:84%
+Like at Disneyland, you pay
+$100 to get into the park
+
+01:00:51.090 --> 01:00:53.730 align:middle line:84%
+and then every ride
+is free, or you
+
+01:00:53.730 --> 01:00:57.120 align:middle line:84%
+have something where you
+pay some upfront cost
+
+01:00:57.120 --> 01:00:59.340 align:middle line:84%
+and then you pay a
+low cost per unit
+
+01:00:59.340 --> 01:01:00.900 align:middle line:84%
+and they extract
+all your surplus
+
+01:01:00.900 --> 01:01:04.475 align:middle line:84%
+you're getting from price equals
+cost in a fixed fee up front.
+
+01:01:04.475 --> 01:01:07.662 align:middle line:90%
+
+
+01:01:07.662 --> 01:01:10.730 align:middle line:84%
+What Grubb noticed is
+that there are actually
+
+01:01:10.730 --> 01:01:12.770 align:middle line:84%
+a lot of applications
+where what we seem to see
+
+01:01:12.770 --> 01:01:17.570 align:middle line:84%
+is not two part tariffs,
+but three part tariffs.
+
+01:01:17.570 --> 01:01:20.600 align:middle line:84%
+So the three part tariff
+is this payment scheme
+
+01:01:20.600 --> 01:01:24.320 align:middle line:84%
+where you have an upfront
+payment for the good,
+
+01:01:24.320 --> 01:01:26.960 align:middle line:84%
+and then some number
+of units of the good
+
+01:01:26.960 --> 01:01:31.460 align:middle line:84%
+sold at below cost, and
+then additional units
+
+01:01:31.460 --> 01:01:34.340 align:middle line:84%
+beyond that sold at
+an above cost price,
+
+01:01:34.340 --> 01:01:36.310 align:middle line:84%
+and often a very,
+very high price.
+
+01:01:36.310 --> 01:01:38.600 align:middle line:90%
+So examples he gives.
+
+01:01:38.600 --> 01:01:41.240 align:middle line:84%
+Some of them, like the
+credit card example,
+
+01:01:41.240 --> 01:01:44.090 align:middle line:84%
+you pay some upfront fee
+to transfer your money
+
+01:01:44.090 --> 01:01:46.870 align:middle line:90%
+to the new credit card.
+
+01:01:46.870 --> 01:01:49.565 align:middle line:84%
+They'll give you six
+months interest free,
+
+01:01:49.565 --> 01:01:51.190 align:middle line:84%
+and then after the
+six months are over,
+
+01:01:51.190 --> 01:01:54.650 align:middle line:84%
+they're going to start
+charging you 19.8%.
+
+01:01:54.650 --> 01:01:59.030 align:middle line:84%
+Or you lease a car, you pay
+$12,000 for the three-year car
+
+01:01:59.030 --> 01:02:00.792 align:middle line:90%
+lease.
+
+01:02:00.792 --> 01:02:02.750 align:middle line:84%
+Car leases-- I don't know
+if you've done these.
+
+01:02:02.750 --> 01:02:04.880 align:middle line:84%
+Car leases do have
+mileage limits on them.
+
+01:02:04.880 --> 01:02:06.950 align:middle line:84%
+Like, because you lease
+the car for three years,
+
+01:02:06.950 --> 01:02:09.570 align:middle line:84%
+you get 36,000
+miles included free.
+
+01:02:09.570 --> 01:02:11.990 align:middle line:84%
+They don't charge you for
+the wear and tear on the car.
+
+01:02:11.990 --> 01:02:16.370 align:middle line:84%
+But then if you drive the
+car more than 36,000 miles,
+
+01:02:16.370 --> 01:02:19.550 align:middle line:90%
+you pay an extra $0.29 a mile.
+
+01:02:19.550 --> 01:02:21.770 align:middle line:84%
+Actually, maybe for you
+guys, renting U-Haul trucks
+
+01:02:21.770 --> 01:02:22.470 align:middle line:90%
+works this way.
+
+01:02:22.470 --> 01:02:24.762 align:middle line:84%
+I don't know if you've ever
+rented a U-Haul truck where
+
+01:02:24.762 --> 01:02:29.900 align:middle line:84%
+it's like you rent the truck
+and it's 99.99 for the truck,
+
+01:02:29.900 --> 01:02:33.150 align:middle line:84%
+up to 150 miles of use
+of the truck is free.
+
+01:02:33.150 --> 01:02:36.770 align:middle line:84%
+If you go over to 150
+miles on the truck,
+
+01:02:36.770 --> 01:02:40.520 align:middle line:84%
+it's like $0.79 a mile or
+something for every mile
+
+01:02:40.520 --> 01:02:42.920 align:middle line:84%
+that you charge, and you run
+up this enormous over charge
+
+01:02:42.920 --> 01:02:45.890 align:middle line:90%
+on the U-Haul trucks.
+
+01:02:45.890 --> 01:02:50.990 align:middle line:84%
+Cell phones back in the
+day, you paid 39.99 a month.
+
+01:02:50.990 --> 01:02:53.940 align:middle line:84%
+You would have two
+gigabytes of data free.
+
+01:02:53.940 --> 01:02:56.810 align:middle line:84%
+Once you used up your
+two gigabytes of usage,
+
+01:02:56.810 --> 01:02:58.670 align:middle line:84%
+they start charging
+you some extra amount
+
+01:02:58.670 --> 01:02:59.637 align:middle line:90%
+of money per megabyte.
+
+01:02:59.637 --> 01:03:01.220 align:middle line:84%
+That doesn't sound
+so big, but then it
+
+01:03:01.220 --> 01:03:04.310 align:middle line:84%
+becomes an enormous charge
+for the overage on your data
+
+01:03:04.310 --> 01:03:05.310 align:middle line:90%
+overage.
+
+01:03:05.310 --> 01:03:08.790 align:middle line:90%
+
+
+01:03:08.790 --> 01:03:11.250 align:middle line:84%
+Grubb suggests that
+why do we see these--
+
+01:03:11.250 --> 01:03:12.780 align:middle line:84%
+we know why we
+would see a two part
+
+01:03:12.780 --> 01:03:15.220 align:middle line:84%
+tariff, because it's efficient
+to price things at cost.
+
+01:03:15.220 --> 01:03:17.410 align:middle line:84%
+Why would we see a
+three part tariff?
+
+01:03:17.410 --> 01:03:21.060 align:middle line:84%
+And Grubb's argument is that
+we see three part tariffs
+
+01:03:21.060 --> 01:03:23.610 align:middle line:84%
+because it's an
+exploitation of consumers
+
+01:03:23.610 --> 01:03:26.070 align:middle line:84%
+who think they're better
+than they are at predicting
+
+01:03:26.070 --> 01:03:27.245 align:middle line:90%
+their future consumption.
+
+01:03:27.245 --> 01:03:28.620 align:middle line:84%
+Just like you
+think you're better
+
+01:03:28.620 --> 01:03:31.470 align:middle line:84%
+than you are at predicting
+how far Buenos Aires is,
+
+01:03:31.470 --> 01:03:33.210 align:middle line:84%
+you think you're
+better than you are
+
+01:03:33.210 --> 01:03:35.760 align:middle line:84%
+at predicting how
+many gigabytes of data
+
+01:03:35.760 --> 01:03:38.100 align:middle line:84%
+or how many miles am I going
+to drive the U-Haul truck
+
+01:03:38.100 --> 01:03:41.500 align:middle line:90%
+or something like that.
+
+01:03:41.500 --> 01:03:46.330 align:middle line:84%
+So he gives the simple example
+about where the three part
+
+01:03:46.330 --> 01:03:50.110 align:middle line:84%
+tariffs would come from,
+which is this straightforward
+
+01:03:50.110 --> 01:03:51.350 align:middle line:90%
+numerical thing.
+
+01:03:51.350 --> 01:03:54.250 align:middle line:84%
+So suppose firms
+have fixed costs
+
+01:03:54.250 --> 01:03:58.270 align:middle line:84%
+of $50 of serving
+the consumer and then
+
+01:03:58.270 --> 01:04:02.110 align:middle line:84%
+they have marginal
+costs of $0.05 per unit
+
+01:04:02.110 --> 01:04:03.110 align:middle line:90%
+of serving the consumer.
+
+01:04:03.110 --> 01:04:06.790 align:middle line:84%
+So this could be
+cost of providing you
+
+01:04:06.790 --> 01:04:09.070 align:middle line:84%
+with a cell phone and then
+marginal cost per megabyte
+
+01:04:09.070 --> 01:04:11.350 align:middle line:84%
+or cost of renting
+you the car and then
+
+01:04:11.350 --> 01:04:14.900 align:middle line:84%
+cost per mile of having
+you drive the car.
+
+01:04:14.900 --> 01:04:17.810 align:middle line:84%
+And assume that the firm can
+offer a non-linear tariff
+
+01:04:17.810 --> 01:04:19.760 align:middle line:90%
+t of x.
+
+01:04:19.760 --> 01:04:23.900 align:middle line:84%
+Assume that consumers get
+benefits of $0.45 per unit
+
+01:04:23.900 --> 01:04:26.540 align:middle line:84%
+for theta units,
+where theta is either
+
+01:04:26.540 --> 01:04:30.700 align:middle line:84%
+100, 400, or 700, and all
+three are equally likely.
+
+01:04:30.700 --> 01:04:33.205 align:middle line:90%
+
+
+01:04:33.205 --> 01:04:35.510 align:middle line:84%
+Either I get my
+phone and then I'm
+
+01:04:35.510 --> 01:04:38.828 align:middle line:84%
+going to have some number of
+megabytes of data I want to use,
+
+01:04:38.828 --> 01:04:41.120 align:middle line:84%
+and I don't know which of
+those three it's going to be,
+
+01:04:41.120 --> 01:04:42.662 align:middle line:84%
+but whatever it is,
+I'm going to have
+
+01:04:42.662 --> 01:04:45.580 align:middle line:84%
+just some inherent need for the
+good that I want to use those.
+
+01:04:45.580 --> 01:04:48.750 align:middle line:84%
+I'm going to get $0.45 per
+unit using theta units,
+
+01:04:48.750 --> 01:04:51.200 align:middle line:84%
+and then I'm not going to
+want more than theta units.
+
+01:04:51.200 --> 01:04:53.360 align:middle line:84%
+Or the U-Haul rental
+truck, I'm either
+
+01:04:53.360 --> 01:04:57.060 align:middle line:84%
+going to want to drive it 100
+miles, 400 miles, or 700 miles.
+
+01:04:57.060 --> 01:04:59.310 align:middle line:84%
+I don't know which of those
+three it's going to be.
+
+01:04:59.310 --> 01:05:01.520 align:middle line:84%
+However many I get,
+I get this high value
+
+01:05:01.520 --> 01:05:03.680 align:middle line:84%
+for using it for those
+miles and then no value
+
+01:05:03.680 --> 01:05:05.360 align:middle line:90%
+for using it beyond that.
+
+01:05:05.360 --> 01:05:08.900 align:middle line:84%
+So anyway, all
+three are considered
+
+01:05:08.900 --> 01:05:11.360 align:middle line:84%
+equally likely by the
+consumer when they purchase,
+
+01:05:11.360 --> 01:05:13.878 align:middle line:84%
+and then after they
+purchase, they learn theta
+
+01:05:13.878 --> 01:05:16.170 align:middle line:84%
+and then they choose how much
+to actually use the thing
+
+01:05:16.170 --> 01:05:19.170 align:middle line:90%
+that they've purchased.
+
+01:05:19.170 --> 01:05:19.680 align:middle line:90%
+OK.
+
+01:05:19.680 --> 01:05:22.590 align:middle line:84%
+What would happen with
+rational consumers?
+
+01:05:22.590 --> 01:05:26.460 align:middle line:84%
+With rational consumers,
+we do a two part tariff.
+
+01:05:26.460 --> 01:05:30.120 align:middle line:84%
+The cost of providing the
+units to the seller is $0.05.
+
+01:05:30.120 --> 01:05:33.120 align:middle line:84%
+So you charge
+consumers $0.05 a unit,
+
+01:05:33.120 --> 01:05:36.000 align:middle line:84%
+and then you extract
+all the ex-ante surplus
+
+01:05:36.000 --> 01:05:37.390 align:middle line:90%
+through a fixed fee.
+
+01:05:37.390 --> 01:05:39.180 align:middle line:84%
+And if consumers are
+going to, on average,
+
+01:05:39.180 --> 01:05:46.590 align:middle line:84%
+use 400 units and they're
+getting $0.40 per unit
+
+01:05:46.590 --> 01:05:50.350 align:middle line:84%
+of surplus, 400
+times $0.40 is $160.
+
+01:05:50.350 --> 01:05:56.290 align:middle line:84%
+So the rational consumer plan,
+you would do 160 plus $0.05.
+
+01:05:56.290 --> 01:05:58.140 align:middle line:84%
+With perfectly
+competitive firms,
+
+01:05:58.140 --> 01:06:00.240 align:middle line:84%
+you'd, again, use the
+$0.5 fee and you'd just
+
+01:06:00.240 --> 01:06:03.390 align:middle line:84%
+be charging the 50 up
+front to charge cost.
+
+01:06:03.390 --> 01:06:06.485 align:middle line:84%
+And this is socially
+efficient pricing.
+
+01:06:06.485 --> 01:06:11.110 align:middle line:90%
+
+
+01:06:11.110 --> 01:06:16.790 align:middle line:84%
+What happens with the
+monopolist Grubb's observation
+
+01:06:16.790 --> 01:06:18.970 align:middle line:84%
+on what happens with
+the monopolist is
+
+01:06:18.970 --> 01:06:22.420 align:middle line:84%
+a monopolist in this problem
+would use a three part tariff.
+
+01:06:22.420 --> 01:06:23.950 align:middle line:90%
+They would charge you--
+
+01:06:23.950 --> 01:06:26.510 align:middle line:84%
+instead of $160
+plus $0.05 a minute,
+
+01:06:26.510 --> 01:06:29.840 align:middle line:90%
+they'd charge you $180 up front.
+
+01:06:29.840 --> 01:06:35.150 align:middle line:84%
+The first 400 units would be
+free, and then units beyond 400,
+
+01:06:35.150 --> 01:06:37.160 align:middle line:90%
+they would charge you $0.45.
+
+01:06:37.160 --> 01:06:41.430 align:middle line:84%
+So we just get this very
+high, steep three part tariff.
+
+01:06:41.430 --> 01:06:45.110 align:middle line:84%
+We start high fixed fee,
+no cost for 400 units,
+
+01:06:45.110 --> 01:06:50.190 align:middle line:84%
+and then steeply increasing
+price beyond 400.
+
+01:06:50.190 --> 01:06:51.660 align:middle line:90%
+OK.
+
+01:06:51.660 --> 01:06:55.230 align:middle line:90%
+Why do we do this?
+
+01:06:55.230 --> 01:06:59.280 align:middle line:84%
+First, why do you charge
+nothing for the first 400 units?
+
+01:06:59.280 --> 01:07:00.570 align:middle line:90%
+Oh, sorry.
+
+01:07:00.570 --> 01:07:01.670 align:middle line:90%
+I didn't say this.
+
+01:07:01.670 --> 01:07:03.420 align:middle line:84%
+He's going to analyze
+this model where you
+
+01:07:03.420 --> 01:07:05.160 align:middle line:90%
+have overconfident consumers.
+
+01:07:05.160 --> 01:07:06.660 align:middle line:84%
+The starkest model
+of overconfidence
+
+01:07:06.660 --> 01:07:08.940 align:middle line:84%
+is the consumers think
+they're going to need
+
+01:07:08.940 --> 01:07:11.320 align:middle line:90%
+400 units with probability one.
+
+01:07:11.320 --> 01:07:13.830 align:middle line:84%
+So they don't realize that
+they might only need 100
+
+01:07:13.830 --> 01:07:15.600 align:middle line:90%
+or they might need 700.
+
+01:07:15.600 --> 01:07:18.570 align:middle line:84%
+So they think they're going to
+use 400 with probability one.
+
+01:07:18.570 --> 01:07:19.080 align:middle line:90%
+OK.
+
+01:07:19.080 --> 01:07:22.480 align:middle line:84%
+Why do I charge zero
+for the first 400 units?
+
+01:07:22.480 --> 01:07:27.030 align:middle line:84%
+Why do I do 180 and then
+zero for the first 400 units?
+
+01:07:27.030 --> 01:07:35.040 align:middle line:84%
+Why don't I do 160 up front and
+$0.05 for the first 400 units
+
+01:07:35.040 --> 01:07:38.120 align:middle line:84%
+so you pay 180 if you use
+400 but less if you don't?
+
+01:07:38.120 --> 01:07:44.060 align:middle line:84%
+Well, the point is if I'm going
+to charge you a positive amount,
+
+01:07:44.060 --> 01:07:47.660 align:middle line:84%
+like $0.05 for the
+first 400 units,
+
+01:07:47.660 --> 01:07:51.290 align:middle line:84%
+I'm only going to charge you
+160 up front instead of 180
+
+01:07:51.290 --> 01:07:52.580 align:middle line:90%
+up front.
+
+01:07:52.580 --> 01:07:55.790 align:middle line:84%
+And then when you
+actually use 100 units,
+
+01:07:55.790 --> 01:07:58.940 align:middle line:84%
+you're going to
+end up paying less.
+
+01:07:58.940 --> 01:08:05.420 align:middle line:84%
+So you might use 100, you might
+use 400, you might use 700.
+
+01:08:05.420 --> 01:08:10.730 align:middle line:84%
+So if I used a plan where
+I charged you a per unit
+
+01:08:10.730 --> 01:08:15.260 align:middle line:84%
+fee for the first 400
+units, I have to give you
+
+01:08:15.260 --> 01:08:18.350 align:middle line:90%
+the full discount of--
+
+01:08:18.350 --> 01:08:23.540 align:middle line:84%
+I have to give you 400 delta
+p back in the fixed fee.
+
+01:08:23.540 --> 01:08:26.770 align:middle line:84%
+And then I give you 400 delta
+p back in the fixed fee,
+
+01:08:26.770 --> 01:08:30.560 align:middle line:84%
+but then I only get
+300 p in extra revenue
+
+01:08:30.560 --> 01:08:34.100 align:middle line:84%
+because sometimes
+you get a better
+
+01:08:34.100 --> 01:08:35.660 align:middle line:90%
+deal than you're expecting.
+
+01:08:35.660 --> 01:08:37.910 align:middle line:84%
+Since you don't expect
+the deal, you're
+
+01:08:37.910 --> 01:08:41.569 align:middle line:84%
+not going to pay me up front
+for that, that option of there's
+
+01:08:41.569 --> 01:08:44.510 align:middle line:84%
+some chance I get
+to save and only
+
+01:08:44.510 --> 01:08:47.430 align:middle line:90%
+pay you for 100 instead of 400.
+
+01:08:47.430 --> 01:08:51.290 align:middle line:84%
+And so because the consumers
+aren't willing to pay you,
+
+01:08:51.290 --> 01:08:53.359 align:middle line:84%
+it's always better
+to charge them
+
+01:08:53.359 --> 01:08:55.972 align:middle line:84%
+the full price even for the
+units they're not going--
+
+01:08:55.972 --> 01:08:57.680 align:middle line:84%
+this is like exploiting
+the consumers who
+
+01:08:57.680 --> 01:08:59.930 align:middle line:84%
+think they're going to go
+to the gym every single day.
+
+01:08:59.930 --> 01:09:03.698 align:middle line:84%
+You always want to charge them
+that amount up front, and then
+
+01:09:03.698 --> 01:09:06.240 align:middle line:84%
+say, OK, I'm giving you this
+great deal where you get the 400
+
+01:09:06.240 --> 01:09:07.946 align:middle line:84%
+units for free, and
+then you're going
+
+01:09:07.946 --> 01:09:09.779 align:middle line:84%
+to pay me in advance
+for all those 400 units
+
+01:09:09.779 --> 01:09:10.987 align:middle line:90%
+that you're getting for free.
+
+01:09:10.987 --> 01:09:13.520 align:middle line:90%
+
+
+01:09:13.520 --> 01:09:19.490 align:middle line:84%
+And then why do firms charge
+for $0.45 for units beyond 400?
+
+01:09:19.490 --> 01:09:21.490 align:middle line:84%
+Well, the consumers are
+sure they're never going
+
+01:09:21.490 --> 01:09:24.007 align:middle line:90%
+to use any units beyond 400.
+
+01:09:24.007 --> 01:09:26.590 align:middle line:84%
+So if you offer them a discount,
+you can have units beyond 400
+
+01:09:26.590 --> 01:09:29.620 align:middle line:84%
+for $0.40, they're going to pay
+you nothing up front for that
+
+01:09:29.620 --> 01:09:31.930 align:middle line:84%
+discount because they think
+they're not going to use
+
+01:09:31.930 --> 01:09:33.260 align:middle line:90%
+the extra units.
+
+01:09:33.260 --> 01:09:35.843 align:middle line:84%
+And so if they think they're not
+going to use the extra units,
+
+01:09:35.843 --> 01:09:38.609 align:middle line:84%
+they won't pay anything for the
+lower price and the extra units,
+
+01:09:38.609 --> 01:09:40.720 align:middle line:84%
+so you might as well
+keep raising the price
+
+01:09:40.720 --> 01:09:44.240 align:middle line:84%
+on the extra units
+until they get to $0.45.
+
+01:09:44.240 --> 01:09:46.383 align:middle line:84%
+You don't go beyond 45
+because then ex-post,
+
+01:09:46.383 --> 01:09:47.800 align:middle line:84%
+they're not even
+going to buy them
+
+01:09:47.800 --> 01:09:49.840 align:middle line:84%
+and they're just going to
+not drive the rental truck
+
+01:09:49.840 --> 01:09:51.135 align:middle line:90%
+for the extra miles they need.
+
+01:09:51.135 --> 01:09:54.229 align:middle line:90%
+
+
+01:09:54.229 --> 01:09:57.870 align:middle line:84%
+So what we get is this
+three part tariff.
+
+01:09:57.870 --> 01:10:00.530 align:middle line:84%
+And if you had perfectly
+competitive firms,
+
+01:10:00.530 --> 01:10:02.480 align:middle line:84%
+perfectly competitive
+firms would-- again,
+
+01:10:02.480 --> 01:10:04.730 align:middle line:84%
+they're forced to
+exploit the consumers,
+
+01:10:04.730 --> 01:10:07.040 align:middle line:84%
+and so they would do
+something like that.
+
+01:10:07.040 --> 01:10:09.140 align:middle line:84%
+So you would give
+all the surplus back
+
+01:10:09.140 --> 01:10:11.700 align:middle line:84%
+to the consumers with
+a really low fixed fee.
+
+01:10:11.700 --> 01:10:14.180 align:middle line:84%
+But still, what makes it
+most attractive to consumers
+
+01:10:14.180 --> 01:10:17.960 align:middle line:84%
+is to design the package
+so that they think
+
+01:10:17.960 --> 01:10:19.550 align:middle line:90%
+they're going to pay the least.
+
+01:10:19.550 --> 01:10:22.130 align:middle line:84%
+Which is give them the
+big discount up front,
+
+01:10:22.130 --> 01:10:24.500 align:middle line:84%
+tell them the 400 are
+included, and tell them
+
+01:10:24.500 --> 01:10:28.200 align:middle line:84%
+we are going to charge you
+these high over charges.
+
+01:10:28.200 --> 01:10:29.950 align:middle line:84%
+But you think you're
+not going to pay them
+
+01:10:29.950 --> 01:10:31.470 align:middle line:90%
+so they don't care about that.
+
+01:10:31.470 --> 01:10:34.760 align:middle line:84%
+And so this is what lets the
+competitive sellers offer
+
+01:10:34.760 --> 01:10:35.950 align:middle line:90%
+the best possible package.
+
+01:10:35.950 --> 01:10:42.110 align:middle line:90%
+
+
+01:10:42.110 --> 01:10:42.770 align:middle line:90%
+Yeah?
+
+01:10:42.770 --> 01:10:44.870 align:middle line:84%
+AUDIENCE: How would you
+tell this sort of behavior
+
+01:10:44.870 --> 01:10:48.230 align:middle line:84%
+out from something like a
+increasing [? call ?] structure?
+
+01:10:48.230 --> 01:10:49.700 align:middle line:90%
+GLENN ELLISON: Yeah.
+
+01:10:49.700 --> 01:10:54.680 align:middle line:84%
+You know, obviously, I think in
+some of these examples, like--
+
+01:10:54.680 --> 01:10:57.600 align:middle line:84%
+some examples that he gives
+are better than others on that.
+
+01:10:57.600 --> 01:11:03.050 align:middle line:84%
+So for instance, the
+cell phone minute plan.
+
+01:11:03.050 --> 01:11:07.620 align:middle line:84%
+The megabytes are system
+wide, not customer wide.
+
+01:11:07.620 --> 01:11:12.917 align:middle line:84%
+So it can't be that you
+using more megabytes beyond--
+
+01:11:12.917 --> 01:11:14.750 align:middle line:84%
+there, you know that
+their cost per megabyte
+
+01:11:14.750 --> 01:11:17.210 align:middle line:84%
+has got to be
+linear because it's
+
+01:11:17.210 --> 01:11:18.600 align:middle line:90%
+averaged across all consumers.
+
+01:11:18.600 --> 01:11:20.660 align:middle line:84%
+It's a network
+capacity constraint.
+
+01:11:20.660 --> 01:11:24.170 align:middle line:84%
+For ones like the car lease,
+you could say, is there
+
+01:11:24.170 --> 01:11:26.660 align:middle line:84%
+something about
+the wear and tear
+
+01:11:26.660 --> 01:11:31.490 align:middle line:84%
+on the car that increases as
+the car is driven more miles in?
+
+01:11:31.490 --> 01:11:34.460 align:middle line:84%
+Is there some
+increasing wear and tear
+
+01:11:34.460 --> 01:11:37.490 align:middle line:84%
+on the car or the rental truck
+because it goes more miles?
+
+01:11:37.490 --> 01:11:40.890 align:middle line:84%
+Yeah, that one you would have
+to have something to tell apart.
+
+01:11:40.890 --> 01:11:43.520 align:middle line:84%
+Again, I think the
+credit card one,
+
+01:11:43.520 --> 01:11:47.150 align:middle line:84%
+it's going to be harder for
+a discontinuity in months
+
+01:11:47.150 --> 01:11:48.890 align:middle line:90%
+or whatever.
+
+01:11:48.890 --> 01:11:51.680 align:middle line:84%
+What Grubb does
+have in his paper
+
+01:11:51.680 --> 01:11:56.480 align:middle line:90%
+is he has an empirical section.
+
+01:11:56.480 --> 01:12:00.320 align:middle line:84%
+We say, yeah, what did
+Grubb do to get this paper?
+
+01:12:00.320 --> 01:12:03.470 align:middle line:84%
+Obviously the story I
+told you is fairly simple.
+
+01:12:03.470 --> 01:12:05.640 align:middle line:84%
+How do you turn this
+into an AER paper?
+
+01:12:05.640 --> 01:12:08.090 align:middle line:84%
+This is like your idea
+you come to me with
+
+01:12:08.090 --> 01:12:10.220 align:middle line:84%
+and you explain it
+and it's like, OK,
+
+01:12:10.220 --> 01:12:11.990 align:middle line:90%
+that's a nice, cute example.
+
+01:12:11.990 --> 01:12:14.600 align:middle line:90%
+That's not a paper in the AER.
+
+01:12:14.600 --> 01:12:18.770 align:middle line:84%
+He has a much more general
+model where he has--
+
+01:12:18.770 --> 01:12:20.030 align:middle line:90%
+you have a theta.
+
+01:12:20.030 --> 01:12:24.440 align:middle line:90%
+The theta has some distribution.
+
+01:12:24.440 --> 01:12:29.570 align:middle line:84%
+Your consumers have some
+belief about theta f star.
+
+01:12:29.570 --> 01:12:34.250 align:middle line:84%
+When f star differs
+from f, it's kind
+
+01:12:34.250 --> 01:12:38.510 align:middle line:84%
+of mean preserving spread or
+single crossing condition.
+
+01:12:38.510 --> 01:12:39.600 align:middle line:90%
+What happens?
+
+01:12:39.600 --> 01:12:42.960 align:middle line:84%
+He goes out and solves the model
+and says, OK, this simple model
+
+01:12:42.960 --> 01:12:44.960 align:middle line:84%
+I had had this
+three part tariff,
+
+01:12:44.960 --> 01:12:47.300 align:middle line:84%
+but I do this general
+model and what I show
+
+01:12:47.300 --> 01:12:51.002 align:middle line:84%
+is that the optimal solution
+is not like a three part-- not
+
+01:12:51.002 --> 01:12:52.460 align:middle line:84%
+exactly a three
+part tariff, but it
+
+01:12:52.460 --> 01:12:56.330 align:middle line:84%
+is something that looks kind
+of like a three part tariff.
+
+01:12:56.330 --> 01:12:57.860 align:middle line:84%
+But then the second
+thing he does
+
+01:12:57.860 --> 01:13:00.513 align:middle line:84%
+is he has this data set
+on cell phone users.
+
+01:13:00.513 --> 01:13:05.000 align:middle line:90%
+
+
+01:13:05.000 --> 01:13:07.730 align:middle line:84%
+I don't think he says in the
+paper, but I think this was--
+
+01:13:07.730 --> 01:13:10.340 align:middle line:84%
+there was a time when
+cell phones were new,
+
+01:13:10.340 --> 01:13:15.140 align:middle line:84%
+when universities provided cell
+phone plans to their students
+
+01:13:15.140 --> 01:13:17.390 align:middle line:84%
+and you could get your cell
+phone not through Verizon,
+
+01:13:17.390 --> 01:13:18.680 align:middle line:90%
+but through MIT.
+
+01:13:18.680 --> 01:13:21.020 align:middle line:84%
+You'd get an MIT
+cell phone and MIT
+
+01:13:21.020 --> 01:13:22.820 align:middle line:84%
+would negotiate a
+deal with Verizon
+
+01:13:22.820 --> 01:13:26.510 align:middle line:84%
+to offer discounted cell phone
+service for its students.
+
+01:13:26.510 --> 01:13:28.588 align:middle line:84%
+I take it that these
+were probably Stanford--
+
+01:13:28.588 --> 01:13:29.630 align:middle line:90%
+Doesn't say in the paper.
+
+01:13:29.630 --> 01:13:31.963 align:middle line:84%
+I take it these are probably
+Stanford student cell phone
+
+01:13:31.963 --> 01:13:32.600 align:middle line:90%
+plans.
+
+01:13:32.600 --> 01:13:35.540 align:middle line:84%
+But they had four
+cell phone plans,
+
+01:13:35.540 --> 01:13:41.000 align:middle line:84%
+one where you get this amount,
+just a flat fee per minute.
+
+01:13:41.000 --> 01:13:45.060 align:middle line:84%
+Small upfront charge, and then
+a flat fee per minute used.
+
+01:13:45.060 --> 01:13:49.160 align:middle line:84%
+And then you had plans that had
+different numbers of included
+
+01:13:49.160 --> 01:13:51.950 align:middle line:84%
+usage times like,
+at the time it might
+
+01:13:51.950 --> 01:13:55.320 align:middle line:84%
+have been 100 minutes of
+usage or 400 minutes of usage
+
+01:13:55.320 --> 01:13:58.050 align:middle line:90%
+or 700 minutes of usage.
+
+01:13:58.050 --> 01:14:01.000 align:middle line:84%
+And so each of these plans
+was a three part tariff.
+
+01:14:01.000 --> 01:14:02.380 align:middle line:90%
+We paid some higher upfront fee.
+
+01:14:02.380 --> 01:14:03.660 align:middle line:90%
+You got the 100 minutes.
+
+01:14:03.660 --> 01:14:05.040 align:middle line:84%
+And then beyond
+that, you started
+
+01:14:05.040 --> 01:14:06.960 align:middle line:90%
+to pay these overage charges.
+
+01:14:06.960 --> 01:14:11.190 align:middle line:84%
+So anyway, this unnamed
+university offering four plans
+
+01:14:11.190 --> 01:14:12.500 align:middle line:90%
+had a structure like that.
+
+01:14:12.500 --> 01:14:15.240 align:middle line:90%
+
+
+01:14:15.240 --> 01:14:19.770 align:middle line:84%
+He got data on what plans
+people signed up for
+
+01:14:19.770 --> 01:14:24.480 align:middle line:84%
+and how much usage
+they actually made.
+
+01:14:24.480 --> 01:14:25.840 align:middle line:90%
+So what are some of the results?
+
+01:14:25.840 --> 01:14:28.740 align:middle line:84%
+So plan one customers--
+let's suppose
+
+01:14:28.740 --> 01:14:33.660 align:middle line:84%
+that this is plan one, one
+of the most popular plans.
+
+01:14:33.660 --> 01:14:37.560 align:middle line:84%
+What he finds is that
+customers on that plan,
+
+01:14:37.560 --> 01:14:42.120 align:middle line:84%
+56% of the time they
+underutilized their plan
+
+01:14:42.120 --> 01:14:46.320 align:middle line:84%
+and used so few minutes that
+they would have been better
+
+01:14:46.320 --> 01:14:49.110 align:middle line:90%
+off on the per minute plan.
+
+01:14:49.110 --> 01:14:52.620 align:middle line:84%
+16% of the time
+they ran up overages
+
+01:14:52.620 --> 01:14:57.390 align:middle line:84%
+and were on this part of the
+tariff, and only 28% of the time
+
+01:14:57.390 --> 01:15:00.240 align:middle line:84%
+were in of sweet spot where
+plan one is actually better
+
+01:15:00.240 --> 01:15:03.570 align:middle line:90%
+than a regular monthly plan.
+
+01:15:03.570 --> 01:15:08.370 align:middle line:84%
+And so when he estimates
+what the consumers would
+
+01:15:08.370 --> 01:15:11.460 align:middle line:84%
+have paid had they just
+all bought the linear plan,
+
+01:15:11.460 --> 01:15:15.768 align:middle line:84%
+he finds that, on average,
+the saving was 42%.
+
+01:15:15.768 --> 01:15:18.060 align:middle line:84%
+Now that doesn't mean that
+any individual consumer made
+
+01:15:18.060 --> 01:15:19.500 align:middle line:84%
+a mistake, because each
+individual consumer,
+
+01:15:19.500 --> 01:15:21.042 align:middle line:84%
+you don't know what
+their belief was.
+
+01:15:21.042 --> 01:15:23.550 align:middle line:84%
+But certainly if, on
+average, all the consumers
+
+01:15:23.550 --> 01:15:27.510 align:middle line:84%
+would have saved 40% by just
+buying the flat rate plan,
+
+01:15:27.510 --> 01:15:32.430 align:middle line:84%
+then some consumers must be
+irrational buying these plans
+
+01:15:32.430 --> 01:15:34.500 align:middle line:84%
+and must be getting
+exploited by them.
+
+01:15:34.500 --> 01:15:37.330 align:middle line:84%
+And then similar calculation
+for the plan two customers.
+
+01:15:37.330 --> 01:15:43.530 align:middle line:84%
+Again, there even more of
+them didn't hit this point.
+
+01:15:43.530 --> 01:15:45.330 align:middle line:84%
+Again, there's a
+small percentage who
+
+01:15:45.330 --> 01:15:47.190 align:middle line:84%
+hit the overage
+range, but the overage
+
+01:15:47.190 --> 01:15:50.940 align:middle line:84%
+range, they pay so much
+more that they account for--
+
+01:15:50.940 --> 01:15:53.427 align:middle line:84%
+they're paying two and
+a half times as much
+
+01:15:53.427 --> 01:15:55.510 align:middle line:84%
+as they would pay had they
+gotten the linear plan.
+
+01:15:55.510 --> 01:15:59.940 align:middle line:84%
+So their overage
+customers are way up here.
+
+01:15:59.940 --> 01:16:04.985 align:middle line:84%
+And the overages account
+for 23% of salary revenues.
+
+01:16:04.985 --> 01:16:10.930 align:middle line:90%
+
+
+01:16:10.930 --> 01:16:15.610 align:middle line:84%
+He's got something
+in the paper arguing,
+
+01:16:15.610 --> 01:16:18.320 align:middle line:84%
+could this be due to
+price discrimination
+
+01:16:18.320 --> 01:16:19.820 align:middle line:84%
+rather than to
+exploiting consumers?
+
+01:16:19.820 --> 01:16:22.403 align:middle line:84%
+And then he has some conditions
+on the distribution they would
+
+01:16:22.403 --> 01:16:24.071 align:middle line:84%
+need for this to be
+price discrimination
+
+01:16:24.071 --> 01:16:25.852 align:middle line:84%
+and not exploiting
+irrational consumers.
+
+01:16:25.852 --> 01:16:28.310 align:middle line:84%
+And he argues, no, this is
+exploiting irrational consumers.
+
+01:16:28.310 --> 01:16:31.210 align:middle line:90%
+
+
+01:16:31.210 --> 01:16:31.783 align:middle line:90%
+OK.
+
+01:16:31.783 --> 01:16:33.200 align:middle line:84%
+I guess I'm out
+of time for today.
+
+01:16:33.200 --> 01:16:40.690 align:middle line:84%
+So anyway, I have slides on
+here on a couple other papers.
+
+01:16:40.690 --> 01:16:43.240 align:middle line:84%
+One I think is very
+cute is this is just
+
+01:16:43.240 --> 01:16:47.958 align:middle line:84%
+another version of exploiting
+the hyperbolic consumers,
+
+01:16:47.958 --> 01:16:49.750 align:middle line:84%
+noting that another
+real constraint you get
+
+01:16:49.750 --> 01:16:52.420 align:middle line:84%
+with hyperbolic consumers
+is that you can exploit
+
+01:16:52.420 --> 01:16:55.420 align:middle line:84%
+them even more if
+they think they're
+
+01:16:55.420 --> 01:16:57.260 align:middle line:90%
+going to switch tomorrow.
+
+01:16:57.260 --> 01:16:59.470 align:middle line:84%
+And so a constraint that
+hyperbolic consumers have
+
+01:16:59.470 --> 01:17:03.160 align:middle line:84%
+is not just that I think I'm
+going to go to the gym more
+
+01:17:03.160 --> 01:17:05.567 align:middle line:84%
+than I am, but I think
+I'm going to cancel.
+
+01:17:05.567 --> 01:17:07.900 align:middle line:84%
+As long as I have the option
+to cancel my gym membership
+
+01:17:07.900 --> 01:17:10.330 align:middle line:84%
+tomorrow if I determine
+I don't like the gym,
+
+01:17:10.330 --> 01:17:11.840 align:middle line:84%
+I can always just
+cancel it tomorrow
+
+01:17:11.840 --> 01:17:13.840 align:middle line:84%
+so I might as well
+stay signed up today.
+
+01:17:13.840 --> 01:17:17.020 align:middle line:84%
+And noting that this sort of
+friendly option of letting
+
+01:17:17.020 --> 01:17:20.357 align:middle line:84%
+consumers cancel at any time
+can be a very effective way
+
+01:17:20.357 --> 01:17:21.940 align:middle line:84%
+to get them to pay
+much more than they
+
+01:17:21.940 --> 01:17:25.330 align:middle line:84%
+would pay if you didn't have
+that extra option in there.
+
+01:17:25.330 --> 01:17:26.290 align:middle line:90%
+OK?
+
+01:17:26.290 --> 01:17:28.960 align:middle line:84%
+And then, yeah, I
+think that's it.
+
+01:17:28.960 --> 01:17:31.870 align:middle line:84%
+That's all I'll talk
+about for today.
+
+01:17:31.870 --> 01:17:49.000 align:middle line:90%

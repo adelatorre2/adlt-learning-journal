@@ -1,0 +1,6650 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.968 align:middle line:90%
+[SQUEAKING]
+
+00:00:01.968 --> 00:00:03.444 align:middle line:90%
+[RUSTLING]
+
+00:00:03.444 --> 00:00:04.920 align:middle line:90%
+[CLICKING]
+
+00:00:04.920 --> 00:00:16.250 align:middle line:90%
+
+
+00:00:16.250 --> 00:00:18.397 align:middle line:84%
+GLENN ELLISON: On
+bounded rationality,
+
+00:00:18.397 --> 00:00:20.480 align:middle line:84%
+I told you there are several
+different ways people
+
+00:00:20.480 --> 00:00:22.770 align:middle line:84%
+do boundedly rational
+models last class.
+
+00:00:22.770 --> 00:00:24.920 align:middle line:84%
+And the one I
+emphasized was this sort
+
+00:00:24.920 --> 00:00:26.690 align:middle line:84%
+of psychology and
+economics style,
+
+00:00:26.690 --> 00:00:29.960 align:middle line:84%
+where you take one of these
+rationality-like models
+
+00:00:29.960 --> 00:00:32.990 align:middle line:84%
+you see in behavioral
+economics classes,
+
+00:00:32.990 --> 00:00:35.720 align:middle line:84%
+and you think about what happens
+when consumers behave like that
+
+00:00:35.720 --> 00:00:38.600 align:middle line:90%
+and firms exploit them.
+
+00:00:38.600 --> 00:00:41.120 align:middle line:84%
+But we say, to motivate
+the rule of thumb approach,
+
+00:00:41.120 --> 00:00:43.760 align:middle line:84%
+I guess one philosophical
+question of like, why is it
+
+00:00:43.760 --> 00:00:47.660 align:middle line:84%
+we ever even do economics with
+rational models to begin with?
+
+00:00:47.660 --> 00:00:51.020 align:middle line:84%
+When we have-- you write
+down some rational model,
+
+00:00:51.020 --> 00:00:53.000 align:middle line:84%
+and then you have some
+very complicated--
+
+00:00:53.000 --> 00:00:55.167 align:middle line:84%
+if you're going to publish
+a paper in a top journal,
+
+00:00:55.167 --> 00:00:57.470 align:middle line:84%
+you've got very complicated
+mathematical argument
+
+00:00:57.470 --> 00:00:59.960 align:middle line:84%
+of eight pages of calculations
+proving what happens
+
+00:00:59.960 --> 00:01:01.560 align:middle line:90%
+under this set of assumptions.
+
+00:01:01.560 --> 00:01:04.709 align:middle line:84%
+And then you say, therefore
+this happens in this industry.
+
+00:01:04.709 --> 00:01:07.100 align:middle line:84%
+And your question is
+like, why do we believe
+
+00:01:07.100 --> 00:01:08.390 align:middle line:90%
+that in the first place?
+
+00:01:08.390 --> 00:01:09.770 align:middle line:84%
+There's some parts
+of rationality
+
+00:01:09.770 --> 00:01:11.478 align:middle line:84%
+that we really do
+believe, that if people
+
+00:01:11.478 --> 00:01:14.020 align:middle line:84%
+can do something that's better
+for themselves, they'll do it.
+
+00:01:14.020 --> 00:01:15.390 align:middle line:90%
+And they have some preferences.
+
+00:01:15.390 --> 00:01:17.980 align:middle line:84%
+They have some goals
+they're trying to achieve.
+
+00:01:17.980 --> 00:01:20.110 align:middle line:84%
+You can't keep fooling
+them over and over again.
+
+00:01:20.110 --> 00:01:21.700 align:middle line:90%
+They will catch on to things.
+
+00:01:21.700 --> 00:01:24.450 align:middle line:84%
+But the full
+rationality, I think,
+
+00:01:24.450 --> 00:01:26.020 align:middle line:90%
+we don't really believe it.
+
+00:01:26.020 --> 00:01:28.260 align:middle line:84%
+And the same with these
+behavioral models.
+
+00:01:28.260 --> 00:01:30.720 align:middle line:84%
+Like, OK, we believe
+people are short sighted,
+
+00:01:30.720 --> 00:01:33.420 align:middle line:84%
+but do we really believe
+the beta, beta hat,
+
+00:01:33.420 --> 00:01:35.320 align:middle line:90%
+delta, quasi-hyperbolic model?
+
+00:01:35.320 --> 00:01:37.180 align:middle line:84%
+Why not any other
+functional form?
+
+00:01:37.180 --> 00:01:40.230 align:middle line:84%
+And if there are people
+are being fooled,
+
+00:01:40.230 --> 00:01:42.715 align:middle line:84%
+is that going to keep working
+on them in that model,
+
+00:01:42.715 --> 00:01:45.090 align:middle line:84%
+or are they going to change
+the way they behave when they
+
+00:01:45.090 --> 00:01:47.100 align:middle line:84%
+realize that their life
+is going badly because
+
+00:01:47.100 --> 00:01:48.220 align:middle line:90%
+of something that they do?
+
+00:01:48.220 --> 00:01:51.120 align:middle line:84%
+And are they going to
+introspect and change it?
+
+00:01:51.120 --> 00:01:52.810 align:middle line:84%
+And so, I mean, I
+think one answer
+
+00:01:52.810 --> 00:01:55.840 align:middle line:84%
+to why we do that is it does
+prevent you from cheating.
+
+00:01:55.840 --> 00:01:58.440 align:middle line:84%
+It prevents you from just
+assuming people do this
+
+00:01:58.440 --> 00:02:00.880 align:middle line:84%
+and then getting your
+conclusion right away.
+
+00:02:00.880 --> 00:02:03.120 align:middle line:84%
+But you can still cheat
+with rational modeling.
+
+00:02:03.120 --> 00:02:05.070 align:middle line:84%
+And you just, when you're
+writing down the preferences
+
+00:02:05.070 --> 00:02:06.300 align:middle line:84%
+and you're writing
+down the cost functions
+
+00:02:06.300 --> 00:02:08.310 align:middle line:84%
+and you're writing
+down the other things
+
+00:02:08.310 --> 00:02:10.800 align:middle line:84%
+and the information, you slip
+in a lot of extra assumptions
+
+00:02:10.800 --> 00:02:14.760 align:middle line:84%
+that, in some sense, let you
+get to your conclusion anyway.
+
+00:02:14.760 --> 00:02:19.110 align:middle line:84%
+And so then maybe,
+sociology of economics,
+
+00:02:19.110 --> 00:02:22.070 align:middle line:84%
+one of the reasons we do that
+is because to publish a paper,
+
+00:02:22.070 --> 00:02:24.350 align:middle line:84%
+you need to have eight
+pages of complicated-seeming
+
+00:02:24.350 --> 00:02:26.810 align:middle line:84%
+complications to show that
+you've accomplished something
+
+00:02:26.810 --> 00:02:28.850 align:middle line:84%
+hard in your paper,
+and then that
+
+00:02:28.850 --> 00:02:31.500 align:middle line:90%
+rationality lets you do that.
+
+00:02:31.500 --> 00:02:37.250 align:middle line:84%
+But then the question is,
+is it really a good model
+
+00:02:37.250 --> 00:02:39.680 align:middle line:84%
+if it takes a lot of pages
+of complicated calculations
+
+00:02:39.680 --> 00:02:40.770 align:middle line:90%
+to find out what happens?
+
+00:02:40.770 --> 00:02:42.312 align:middle line:84%
+Because that's when
+we don't really--
+
+00:02:42.312 --> 00:02:44.630 align:middle line:84%
+all the minor things that
+depart from rationality
+
+00:02:44.630 --> 00:02:47.367 align:middle line:84%
+don't matter or
+could have an effect.
+
+00:02:47.367 --> 00:02:48.950 align:middle line:84%
+And so what the
+rule-of-thumb approach
+
+00:02:48.950 --> 00:02:53.627 align:middle line:84%
+tends to do is say that,
+rather than writing down
+
+00:02:53.627 --> 00:02:56.210 align:middle line:84%
+a rational model and sticking
+with it, even though it's really
+
+00:02:56.210 --> 00:02:58.160 align:middle line:84%
+hard to solve and we
+may not believe it,
+
+00:02:58.160 --> 00:03:01.310 align:middle line:84%
+why don't we just write
+down a model that we think
+
+00:03:01.310 --> 00:03:04.250 align:middle line:84%
+is more like what-- we think is
+kind of like what consumers do,
+
+00:03:04.250 --> 00:03:07.310 align:middle line:84%
+and we're happy to buy that
+as an approximation that's
+
+00:03:07.310 --> 00:03:08.540 align:middle line:90%
+easy to solve.
+
+00:03:08.540 --> 00:03:11.630 align:middle line:84%
+And so instead of thinking of
+the assumptions on information
+
+00:03:11.630 --> 00:03:14.150 align:middle line:84%
+and costs and
+whatever and epsilon
+
+00:03:14.150 --> 00:03:17.630 align:middle line:84%
+ijk as being logit
+distributed, let's
+
+00:03:17.630 --> 00:03:19.052 align:middle line:84%
+just go straight
+to the behavior,
+
+00:03:19.052 --> 00:03:21.260 align:middle line:84%
+write down a behavior that
+makes the model tractable,
+
+00:03:21.260 --> 00:03:23.610 align:middle line:84%
+and let us describe
+what happens.
+
+00:03:23.610 --> 00:03:26.690 align:middle line:90%
+So I'll start with an example.
+
+00:03:26.690 --> 00:03:34.050 align:middle line:84%
+Smallwood and Conlisk is one of
+my favorite classic economics
+
+00:03:34.050 --> 00:03:38.820 align:middle line:84%
+papers that didn't get
+taught when I took IO.
+
+00:03:38.820 --> 00:03:41.220 align:middle line:84%
+But Smallwood and
+Conlisk start with--
+
+00:03:41.220 --> 00:03:46.590 align:middle line:84%
+they have a question
+they're starting from of,
+
+00:03:46.590 --> 00:03:48.570 align:middle line:84%
+are superior products
+going to win out
+
+00:03:48.570 --> 00:03:49.830 align:middle line:90%
+in the long run in the market?
+
+00:03:49.830 --> 00:03:53.790 align:middle line:84%
+And do superior products take
+over markets and outcompete
+
+00:03:53.790 --> 00:03:55.683 align:middle line:84%
+inferior products
+in a world where
+
+00:03:55.683 --> 00:03:57.600 align:middle line:84%
+people don't know the
+quality of every product
+
+00:03:57.600 --> 00:03:59.670 align:middle line:90%
+when it's first invented?
+
+00:03:59.670 --> 00:04:03.720 align:middle line:84%
+And so they use the example of,
+suppose you have someone buying
+
+00:04:03.720 --> 00:04:04.523 align:middle line:90%
+a box of cereal.
+
+00:04:04.523 --> 00:04:06.690 align:middle line:84%
+And they're standing here
+looking at the supermarket
+
+00:04:06.690 --> 00:04:09.870 align:middle line:84%
+shelf, and they're trying
+to decide what to buy.
+
+00:04:09.870 --> 00:04:12.060 align:middle line:84%
+Obviously, they've only
+tasted some small fraction
+
+00:04:12.060 --> 00:04:12.870 align:middle line:90%
+of those cereals.
+
+00:04:12.870 --> 00:04:14.412 align:middle line:84%
+And so they have to
+go there and look
+
+00:04:14.412 --> 00:04:16.290 align:middle line:84%
+at the prices of
+some subset of them
+
+00:04:16.290 --> 00:04:20.519 align:middle line:84%
+and think about how much they're
+going to like them and will
+
+00:04:20.519 --> 00:04:21.670 align:middle line:90%
+they like it or not.
+
+00:04:21.670 --> 00:04:24.040 align:middle line:84%
+If I buy it, what's the
+probability I'll like it?
+
+00:04:24.040 --> 00:04:26.677 align:middle line:84%
+Will I like it enough that
+I'll want to buy it again?
+
+00:04:26.677 --> 00:04:28.260 align:middle line:84%
+And then how much
+extra utility will I
+
+00:04:28.260 --> 00:04:30.052 align:middle line:84%
+get from the future
+purchase of that cereal
+
+00:04:30.052 --> 00:04:31.990 align:middle line:84%
+now that I have all
+the extra information?
+
+00:04:31.990 --> 00:04:33.782 align:middle line:84%
+And they said, well,
+what's even much worse
+
+00:04:33.782 --> 00:04:36.510 align:middle line:84%
+is imagining that, when you're
+going to buy the box of cereal,
+
+00:04:36.510 --> 00:04:39.150 align:middle line:84%
+you're just walking
+up to the shelf,
+
+00:04:39.150 --> 00:04:44.058 align:middle line:84%
+and you see that person in front
+of you buying a box of cereal.
+
+00:04:44.058 --> 00:04:45.600 align:middle line:84%
+And then what are
+you supposed to do?
+
+00:04:45.600 --> 00:04:47.475 align:middle line:84%
+You're supposed to say,
+OK, well, that person
+
+00:04:47.475 --> 00:04:48.730 align:middle line:90%
+is buying this box of cereal.
+
+00:04:48.730 --> 00:04:50.790 align:middle line:84%
+If they bought
+that box of cereal,
+
+00:04:50.790 --> 00:04:52.570 align:middle line:90%
+they must like that cereal.
+
+00:04:52.570 --> 00:04:54.870 align:middle line:84%
+And so if they like that
+cereal and then our epsilon--
+
+00:04:54.870 --> 00:04:59.215 align:middle line:84%
+these things are-- there's
+a xi j and an epsilon ijk.
+
+00:04:59.215 --> 00:05:01.590 align:middle line:84%
+The xi j must be high for that
+cereal conditional on that
+
+00:05:01.590 --> 00:05:02.830 align:middle line:90%
+person buying it.
+
+00:05:02.830 --> 00:05:04.560 align:middle line:84%
+But then you think,
+well, wait, no,
+
+00:05:04.560 --> 00:05:07.260 align:middle line:84%
+this person might be buying
+it because he's tasted before,
+
+00:05:07.260 --> 00:05:09.000 align:middle line:84%
+or that person
+might be buying it
+
+00:05:09.000 --> 00:05:14.168 align:middle line:84%
+because, two days earlier,
+that person was sitting
+
+00:05:14.168 --> 00:05:15.960 align:middle line:84%
+on their couch at home,
+and there was a TV,
+
+00:05:15.960 --> 00:05:18.480 align:middle line:84%
+and they were watching a TV,
+and there was a commercial.
+
+00:05:18.480 --> 00:05:21.960 align:middle line:84%
+And they saw the TV
+commercial for that cereal.
+
+00:05:21.960 --> 00:05:25.440 align:middle line:84%
+But if they did see
+the TV commercial,
+
+00:05:25.440 --> 00:05:28.300 align:middle line:84%
+what's the signaling value of
+the TV commercial that they saw?
+
+00:05:28.300 --> 00:05:30.540 align:middle line:84%
+Because the firm wouldn't
+have advertised the cereal
+
+00:05:30.540 --> 00:05:32.832 align:middle line:84%
+unless it knew people were
+going to repeat purchase it.
+
+00:05:32.832 --> 00:05:35.680 align:middle line:84%
+So maybe I have to have
+a prior over the cost
+
+00:05:35.680 --> 00:05:38.290 align:middle line:84%
+of that cereal and the reasons
+why the TV commercial would
+
+00:05:38.290 --> 00:05:39.490 align:middle line:90%
+have been on.
+
+00:05:39.490 --> 00:05:41.080 align:middle line:84%
+But then again,
+maybe this person
+
+00:05:41.080 --> 00:05:43.810 align:middle line:84%
+is buying it because the person
+who was two people before them
+
+00:05:43.810 --> 00:05:46.600 align:middle line:84%
+in the aisle bought it and they
+saw the person before take it
+
+00:05:46.600 --> 00:05:48.790 align:middle line:84%
+off that aisle, or maybe
+they're just buying it
+
+00:05:48.790 --> 00:05:50.805 align:middle line:90%
+because it's at eye level.
+
+00:05:50.805 --> 00:05:52.180 align:middle line:84%
+But if it's at
+eye level, there's
+
+00:05:52.180 --> 00:05:56.287 align:middle line:84%
+this signaling problem of,
+why is it at eye level?
+
+00:05:56.287 --> 00:05:58.120 align:middle line:84%
+Is it eye level because
+it's really popular,
+
+00:05:58.120 --> 00:06:01.720 align:middle line:84%
+or is it at eye level because
+the firm paid the store
+
+00:06:01.720 --> 00:06:02.750 align:middle line:90%
+to put it at eye level?
+
+00:06:02.750 --> 00:06:04.420 align:middle line:84%
+And would they have paid more
+or less to put it at eye level
+
+00:06:04.420 --> 00:06:05.890 align:middle line:90%
+if it was good or bad?
+
+00:06:05.890 --> 00:06:08.110 align:middle line:84%
+But especially if this
+person saw the person before,
+
+00:06:08.110 --> 00:06:11.950 align:middle line:84%
+it's almost like I need
+this prior over all possible
+
+00:06:11.950 --> 00:06:15.070 align:middle line:84%
+purchases by every person
+since the invention of cereal
+
+00:06:15.070 --> 00:06:18.700 align:middle line:84%
+in the 19th century and who saw
+what and what they did and what
+
+00:06:18.700 --> 00:06:20.210 align:middle line:90%
+that did to the popularity.
+
+00:06:20.210 --> 00:06:23.860 align:middle line:84%
+And then I've got to have that
+prior over that enormous network
+
+00:06:23.860 --> 00:06:25.750 align:middle line:84%
+of a century's worth
+of cereal purchases,
+
+00:06:25.750 --> 00:06:28.060 align:middle line:84%
+and then invert it
+and figure out, now
+
+00:06:28.060 --> 00:06:29.870 align:middle line:84%
+what's my posterior
+on that cereal box?
+
+00:06:29.870 --> 00:06:33.340 align:middle line:84%
+And Smallwood and Conlisk's
+view is that this is insane.
+
+00:06:33.340 --> 00:06:34.740 align:middle line:90%
+This is not what people do.
+
+00:06:34.740 --> 00:06:35.540 align:middle line:90%
+People walk up.
+
+00:06:35.540 --> 00:06:37.080 align:middle line:90%
+They look at the cereal box.
+
+00:06:37.080 --> 00:06:38.940 align:middle line:84%
+They're buying 50 different
+things at the supermarket.
+
+00:06:38.940 --> 00:06:40.010 align:middle line:84%
+Most of the time,
+they just take off
+
+00:06:40.010 --> 00:06:42.030 align:middle line:84%
+the shelf whatever they
+normally take off the shelf.
+
+00:06:42.030 --> 00:06:44.697 align:middle line:84%
+And then every once in a while,
+they've got a little extra time,
+
+00:06:44.697 --> 00:06:46.640 align:middle line:84%
+and they put a
+little bit of time
+
+00:06:46.640 --> 00:06:48.650 align:middle line:84%
+into thinking,
+which one do I buy?
+
+00:06:48.650 --> 00:06:53.660 align:middle line:84%
+And so why don't we think
+about consumers more like that
+
+00:06:53.660 --> 00:06:58.290 align:middle line:84%
+and ask about, then
+what would happen?
+
+00:06:58.290 --> 00:07:00.090 align:middle line:84%
+Would good cereal
+brands take over,
+
+00:07:00.090 --> 00:07:03.320 align:middle line:84%
+or do we think that Cheerios
+is really popular even
+
+00:07:03.320 --> 00:07:08.090 align:middle line:84%
+though Cheerios isn't very
+good or whatever it is?
+
+00:07:08.090 --> 00:07:11.330 align:middle line:84%
+So here's what Smallwood
+and Conlisk did
+
+00:07:11.330 --> 00:07:14.000 align:middle line:84%
+and this idea of just
+trying to write down--
+
+00:07:14.000 --> 00:07:17.150 align:middle line:84%
+let's write down a dynamic model
+that seems reasonable to us
+
+00:07:17.150 --> 00:07:19.970 align:middle line:84%
+and talk about, what's
+the long-run implications
+
+00:07:19.970 --> 00:07:22.430 align:middle line:84%
+in terms of, do superior
+brands take over
+
+00:07:22.430 --> 00:07:26.810 align:middle line:84%
+when consumers are fairly
+naive in their shopping?
+
+00:07:26.810 --> 00:07:29.630 align:middle line:84%
+And I think they very much
+do believe that consumers
+
+00:07:29.630 --> 00:07:35.360 align:middle line:84%
+are naive when they shop
+and that this is a better
+
+00:07:35.360 --> 00:07:37.200 align:middle line:90%
+model than the rational one.
+
+00:07:37.200 --> 00:07:38.750 align:middle line:90%
+So anyway, here's their model.
+
+00:07:38.750 --> 00:07:42.240 align:middle line:90%
+Products differ in quality.
+
+00:07:42.240 --> 00:07:45.170 align:middle line:84%
+A consumer of product
+k has a bad experience,
+
+00:07:45.170 --> 00:07:47.552 align:middle line:84%
+which they'll call a
+breakdown with probability bk.
+
+00:07:47.552 --> 00:07:49.760 align:middle line:84%
+So if you're talking about
+people buying light bulbs,
+
+00:07:49.760 --> 00:07:51.385 align:middle line:84%
+that could be literally
+the probability
+
+00:07:51.385 --> 00:07:54.200 align:middle line:84%
+that the light bulb
+burns out in any given--
+
+00:07:54.200 --> 00:07:55.910 align:middle line:90%
+between any given shopping trip.
+
+00:07:55.910 --> 00:07:58.497 align:middle line:84%
+If it's a cereal, it just could
+be that every once in a while,
+
+00:07:58.497 --> 00:08:00.080 align:middle line:84%
+you're eating your
+cereal, and it just
+
+00:08:00.080 --> 00:08:01.370 align:middle line:84%
+occurs to you in the
+morning, you know,
+
+00:08:01.370 --> 00:08:02.580 align:middle line:90%
+this really isn't all that good.
+
+00:08:02.580 --> 00:08:04.163 align:middle line:84%
+Maybe I should buy
+a different cereal.
+
+00:08:04.163 --> 00:08:06.560 align:middle line:84%
+But products differ
+in the probability
+
+00:08:06.560 --> 00:08:08.310 align:middle line:90%
+of giving a bad experience.
+
+00:08:08.310 --> 00:08:09.957 align:middle line:84%
+And so the highest
+quality products
+
+00:08:09.957 --> 00:08:11.290 align:middle line:90%
+are the ones with the lowest bk.
+
+00:08:11.290 --> 00:08:14.220 align:middle line:90%
+
+
+00:08:14.220 --> 00:08:18.690 align:middle line:84%
+What consumers do is they always
+continue to buy the same product
+
+00:08:18.690 --> 00:08:22.980 align:middle line:84%
+they bought previously until
+one of these breakdowns occur.
+
+00:08:22.980 --> 00:08:26.430 align:middle line:84%
+When the breakdown
+occurs, they decide
+
+00:08:26.430 --> 00:08:29.670 align:middle line:84%
+to buy product k
+with some probability
+
+00:08:29.670 --> 00:08:33.360 align:middle line:84%
+mk of t raised to the
+sigma power, where mk of t
+
+00:08:33.360 --> 00:08:35.549 align:middle line:84%
+is the market share
+of the product.
+
+00:08:35.549 --> 00:08:38.159 align:middle line:84%
+So they just buy it
+with some probability
+
+00:08:38.159 --> 00:08:41.320 align:middle line:84%
+that's related to the
+product's current market share.
+
+00:08:41.320 --> 00:08:41.820 align:middle line:90%
+OK.
+
+00:08:41.820 --> 00:08:45.000 align:middle line:90%
+So one example, sigma equals 0.
+
+00:08:45.000 --> 00:08:48.570 align:middle line:84%
+Sigma equals 0 would just
+be when a breakdown occurs,
+
+00:08:48.570 --> 00:08:52.620 align:middle line:84%
+I just buy a product in
+proportion to its popularity.
+
+00:08:52.620 --> 00:08:55.185 align:middle line:84%
+So it could be that the
+supermarket stock shelves
+
+00:08:55.185 --> 00:08:57.180 align:middle line:84%
+so that the number of
+boxes of each cereal
+
+00:08:57.180 --> 00:09:00.455 align:middle line:84%
+is related to how
+many people buy it,
+
+00:09:00.455 --> 00:09:01.830 align:middle line:84%
+and therefore I
+just pick one off
+
+00:09:01.830 --> 00:09:03.860 align:middle line:90%
+the shelf entirely at random.
+
+00:09:03.860 --> 00:09:05.550 align:middle line:90%
+OK.
+
+00:09:05.550 --> 00:09:06.270 align:middle line:90%
+Sorry.
+
+00:09:06.270 --> 00:09:09.300 align:middle line:84%
+Sigma 0 would be that there's
+one box of each cereal.
+
+00:09:09.300 --> 00:09:11.430 align:middle line:84%
+I pick the box of the
+cereal off at random
+
+00:09:11.430 --> 00:09:13.920 align:middle line:90%
+when there's one box of each.
+
+00:09:13.920 --> 00:09:21.910 align:middle line:84%
+Sigma equals 1 is, I buy it in
+proportion to the market share.
+
+00:09:21.910 --> 00:09:26.070 align:middle line:84%
+So that could be they
+stock more boxes of--
+
+00:09:26.070 --> 00:09:29.070 align:middle line:84%
+the more popular cereals
+get more shelf space,
+
+00:09:29.070 --> 00:09:30.730 align:middle line:84%
+and you pick according
+to shelf space.
+
+00:09:30.730 --> 00:09:33.810 align:middle line:84%
+Or it could be that I
+watch the person before me,
+
+00:09:33.810 --> 00:09:36.990 align:middle line:84%
+I see them pick off a
+cereal, and I say, OK,
+
+00:09:36.990 --> 00:09:39.450 align:middle line:84%
+that person likes it,
+maybe I will try it.
+
+00:09:39.450 --> 00:09:43.290 align:middle line:84%
+So that would be a
+sigma equals 1 model.
+
+00:09:43.290 --> 00:09:47.820 align:middle line:84%
+A larger sigma could be
+some explicit reasoning
+
+00:09:47.820 --> 00:09:49.530 align:middle line:84%
+about popularity,
+saying, this one
+
+00:09:49.530 --> 00:09:51.330 align:middle line:84%
+seems to be the most
+popular, maybe I
+
+00:09:51.330 --> 00:09:54.150 align:middle line:84%
+will try that, that I think
+popularity is probably
+
+00:09:54.150 --> 00:09:57.180 align:middle line:84%
+correlated with fewer
+breakdowns, therefore,
+
+00:09:57.180 --> 00:09:59.330 align:middle line:90%
+I will buy a more popular brand.
+
+00:09:59.330 --> 00:10:02.110 align:middle line:84%
+And so, sigma going
+to infinity would
+
+00:10:02.110 --> 00:10:06.900 align:middle line:84%
+be, you buy the most popular
+brand with probability 1.
+
+00:10:06.900 --> 00:10:09.840 align:middle line:84%
+And then the main result
+of Smallwood and Conlisk
+
+00:10:09.840 --> 00:10:14.010 align:middle line:84%
+is that, with fairly
+naive consumers,
+
+00:10:14.010 --> 00:10:16.133 align:middle line:84%
+social learning
+can work very well.
+
+00:10:16.133 --> 00:10:17.550 align:middle line:84%
+And what it has
+to be is they have
+
+00:10:17.550 --> 00:10:20.630 align:middle line:84%
+to use the right amount
+of weight on popularity.
+
+00:10:20.630 --> 00:10:23.940 align:middle line:84%
+So the theorem is,
+if sigma equals
+
+00:10:23.940 --> 00:10:28.650 align:middle line:84%
+1, the most popular product
+dominates in the t goes
+
+00:10:28.650 --> 00:10:29.770 align:middle line:90%
+to infinity limit.
+
+00:10:29.770 --> 00:10:33.570 align:middle line:84%
+That is, the product that
+has the smallest bk--
+
+00:10:33.570 --> 00:10:39.390 align:middle line:90%
+so it's that mk of t goes to 1.
+
+00:10:39.390 --> 00:10:42.840 align:middle line:84%
+So limit as t goes to
+infinity of mk of t
+
+00:10:42.840 --> 00:10:54.000 align:middle line:84%
+goes to 1 for k equals
+the argmin of bk.
+
+00:10:54.000 --> 00:10:58.260 align:middle line:84%
+The product that has the
+lowest breakdown probability
+
+00:10:58.260 --> 00:11:00.940 align:middle line:84%
+has its market share converge
+to 1 in the long run.
+
+00:11:00.940 --> 00:11:03.130 align:middle line:90%
+So the best product takes over.
+
+00:11:03.130 --> 00:11:05.350 align:middle line:90%
+All other products die out.
+
+00:11:05.350 --> 00:11:08.620 align:middle line:84%
+And that happens when
+people put the sigma equals
+
+00:11:08.620 --> 00:11:10.880 align:middle line:90%
+1 weight on probability.
+
+00:11:10.880 --> 00:11:13.000 align:middle line:90%
+So they're not really explicit.
+
+00:11:13.000 --> 00:11:16.150 align:middle line:84%
+It's as if you just do the
+"watch one person in front
+
+00:11:16.150 --> 00:11:18.710 align:middle line:90%
+of you" model.
+
+00:11:18.710 --> 00:11:21.220 align:middle line:84%
+So it's using very minimal
+information about probability.
+
+00:11:21.220 --> 00:11:24.560 align:middle line:90%
+That converges to 1.
+
+00:11:24.560 --> 00:11:28.640 align:middle line:84%
+When sigma is less than
+1, we converge to a state
+
+00:11:28.640 --> 00:11:30.770 align:middle line:90%
+with all k products active.
+
+00:11:30.770 --> 00:11:34.230 align:middle line:84%
+So each product has then a
+market share between 0 and 1
+
+00:11:34.230 --> 00:11:35.270 align:middle line:90%
+in the long run.
+
+00:11:35.270 --> 00:11:38.010 align:middle line:84%
+Inferior products stay
+alive in the market.
+
+00:11:38.010 --> 00:11:39.990 align:middle line:84%
+Superior products have
+bigger market shares.
+
+00:11:39.990 --> 00:11:42.020 align:middle line:90%
+They don't go to 1.
+
+00:11:42.020 --> 00:11:46.220 align:middle line:84%
+And then, anything like
+the sigma equals infinity,
+
+00:11:46.220 --> 00:11:47.870 align:middle line:84%
+but any sigma
+greater than 1 where
+
+00:11:47.870 --> 00:11:49.700 align:middle line:84%
+you pick the most
+popular product,
+
+00:11:49.700 --> 00:11:52.890 align:middle line:84%
+then inferior products can
+come to dominate the market,
+
+00:11:52.890 --> 00:11:55.580 align:middle line:84%
+where if you just get
+some initial popularity,
+
+00:11:55.580 --> 00:11:57.920 align:middle line:84%
+you're initially
+popular, people buy you,
+
+00:11:57.920 --> 00:12:00.800 align:middle line:84%
+your popularity just goes
+to 1, and superior products
+
+00:12:00.800 --> 00:12:03.332 align:middle line:84%
+can't outcompete you
+because you're more popular.
+
+00:12:03.332 --> 00:12:04.790 align:middle line:84%
+So Smallwood and
+Conlisk's argument
+
+00:12:04.790 --> 00:12:08.180 align:middle line:84%
+was that markets
+can select things,
+
+00:12:08.180 --> 00:12:12.330 align:middle line:84%
+but there's this
+awkward part of it,
+
+00:12:12.330 --> 00:12:15.000 align:middle line:84%
+that consumers have to be
+fairly naive to get the market
+
+00:12:15.000 --> 00:12:16.180 align:middle line:90%
+to select the best products.
+
+00:12:16.180 --> 00:12:19.062 align:middle line:84%
+They have to put fairly
+little weight on popularity.
+
+00:12:19.062 --> 00:12:20.520 align:middle line:84%
+They put some weight
+on popularity,
+
+00:12:20.520 --> 00:12:22.860 align:middle line:84%
+but it's got to be the
+equivalent to the sigma equals
+
+00:12:22.860 --> 00:12:27.220 align:middle line:84%
+1 weight on popularity to get
+social learning to work out.
+
+00:12:27.220 --> 00:12:27.720 align:middle line:90%
+OK.
+
+00:12:27.720 --> 00:12:30.137 align:middle line:84%
+Anyway, so I'm just going to
+then just talk about a couple
+
+00:12:30.137 --> 00:12:36.280 align:middle line:84%
+of other papers that have built
+on this and done other things.
+
+00:12:36.280 --> 00:12:43.590 align:middle line:84%
+So I have a paper
+with Drew, 1995,
+
+00:12:43.590 --> 00:12:47.310 align:middle line:84%
+where we try to take the
+Smallwood and Conlisk idea
+
+00:12:47.310 --> 00:12:51.900 align:middle line:84%
+and make it a bit more like
+a classic economics utility
+
+00:12:51.900 --> 00:12:55.140 align:middle line:90%
+framework.
+
+00:12:55.140 --> 00:12:59.430 align:middle line:84%
+So here now, when consumer
+i's consume products,
+
+00:12:59.430 --> 00:13:02.190 align:middle line:84%
+they receive utility,
+and the utility
+
+00:13:02.190 --> 00:13:06.330 align:middle line:84%
+you get from consuming a product
+is a product specific mean.
+
+00:13:06.330 --> 00:13:09.040 align:middle line:84%
+This is like the
+xi j or whatever.
+
+00:13:09.040 --> 00:13:11.890 align:middle line:84%
+So you get a product
+specific mean utility.
+
+00:13:11.890 --> 00:13:15.070 align:middle line:84%
+And you get an
+epsilon ikt, which
+
+00:13:15.070 --> 00:13:17.616 align:middle line:84%
+is your own
+idiosyncratic preference.
+
+00:13:17.616 --> 00:13:20.450 align:middle line:90%
+
+
+00:13:20.450 --> 00:13:25.070 align:middle line:84%
+And we're going to
+assume that the utility
+
+00:13:25.070 --> 00:13:28.220 align:middle line:84%
+difference between product
+1 and probability 2
+
+00:13:28.220 --> 00:13:32.270 align:middle line:84%
+is a random variable, where
+sometimes product 1 is better,
+
+00:13:32.270 --> 00:13:34.230 align:middle line:84%
+or sometimes
+product 2 is better.
+
+00:13:34.230 --> 00:13:36.020 align:middle line:84%
+So this is something
+about these products
+
+00:13:36.020 --> 00:13:40.870 align:middle line:84%
+that there is a period-specific
+choice to them that makes one
+
+00:13:40.870 --> 00:13:42.120 align:middle line:90%
+of them better than the other.
+
+00:13:42.120 --> 00:13:44.620 align:middle line:84%
+So for instance, it could be
+that these two products are not
+
+00:13:44.620 --> 00:13:46.220 align:middle line:90%
+actually cereal boxes.
+
+00:13:46.220 --> 00:13:49.080 align:middle line:84%
+It could be those two products
+are ways to drive to work.
+
+00:13:49.080 --> 00:13:50.760 align:middle line:84%
+Do I drive to work
+on the Mass Pike?
+
+00:13:50.760 --> 00:13:52.740 align:middle line:84%
+Do I drive to work
+on Storrow Drive?
+
+00:13:52.740 --> 00:13:57.140 align:middle line:84%
+And every day, one of those two
+ways to drive to work is better,
+
+00:13:57.140 --> 00:14:00.710 align:middle line:90%
+but it changes from day to day.
+
+00:14:00.710 --> 00:14:02.180 align:middle line:84%
+It could be that
+these are products
+
+00:14:02.180 --> 00:14:05.450 align:middle line:84%
+that you're buying, where
+there are two restaurants,
+
+00:14:05.450 --> 00:14:08.360 align:middle line:84%
+and because the food quality
+varies from day to day
+
+00:14:08.360 --> 00:14:10.070 align:middle line:84%
+due to the quality
+of the ingredients
+
+00:14:10.070 --> 00:14:14.313 align:middle line:84%
+or the chef that's working,
+on some days shop A,
+
+00:14:14.313 --> 00:14:15.980 align:middle line:84%
+the food is better
+than shop B, and then
+
+00:14:15.980 --> 00:14:19.380 align:middle line:90%
+some days shop B is better.
+
+00:14:19.380 --> 00:14:21.388 align:middle line:84%
+Or it could be that
+these are different--
+
+00:14:21.388 --> 00:14:23.430 align:middle line:84%
+you're buying from different
+insurance companies.
+
+00:14:23.430 --> 00:14:26.010 align:middle line:84%
+And if there's a bad
+event, then one of them
+
+00:14:26.010 --> 00:14:27.302 align:middle line:90%
+was better to have bought from.
+
+00:14:27.302 --> 00:14:29.343 align:middle line:84%
+And if there was no bad
+event, then the other one
+
+00:14:29.343 --> 00:14:30.610 align:middle line:90%
+is better to have bought from.
+
+00:14:30.610 --> 00:14:33.690 align:middle line:84%
+So we have something that makes
+the quality of the two products
+
+00:14:33.690 --> 00:14:36.540 align:middle line:90%
+differ.
+
+00:14:36.540 --> 00:14:39.330 align:middle line:84%
+Product 1 is better
+with probability p.
+
+00:14:39.330 --> 00:14:43.470 align:middle line:84%
+So you would like
+to buy the product
+
+00:14:43.470 --> 00:14:45.750 align:middle line:84%
+1 if p is bigger than a
+half and buy product 2 if p
+
+00:14:45.750 --> 00:14:47.660 align:middle line:90%
+is less than a half.
+
+00:14:47.660 --> 00:14:53.270 align:middle line:84%
+And then we have Smallwood
+and Conlisk-like consumers.
+
+00:14:53.270 --> 00:14:54.560 align:middle line:90%
+We don't have breakdowns.
+
+00:14:54.560 --> 00:14:58.010 align:middle line:84%
+So the inertia part is,
+consumers buy the same product
+
+00:14:58.010 --> 00:15:01.790 align:middle line:84%
+they bought previously with
+probability 1 minus alpha.
+
+00:15:01.790 --> 00:15:04.490 align:middle line:84%
+And with probability
+alpha, they try
+
+00:15:04.490 --> 00:15:06.680 align:middle line:84%
+to decide what-- they
+consider changing
+
+00:15:06.680 --> 00:15:08.870 align:middle line:84%
+and think about what
+they should buy.
+
+00:15:08.870 --> 00:15:11.450 align:middle line:84%
+And when they consider
+changing, what they do
+
+00:15:11.450 --> 00:15:18.470 align:middle line:84%
+is ask N of their friends about
+their most recent experience.
+
+00:15:18.470 --> 00:15:26.180 align:middle line:90%
+I form u1t bar to be the sum--
+
+00:15:26.180 --> 00:15:30.800 align:middle line:90%
+or I form u1t bar and u2t bar.
+
+00:15:30.800 --> 00:15:33.590 align:middle line:84%
+This is the average of the
+utilities received by all
+
+00:15:33.590 --> 00:15:35.330 align:middle line:90%
+my friends who use product 1.
+
+00:15:35.330 --> 00:15:37.580 align:middle line:84%
+This is the average of the
+utilities of all my friends
+
+00:15:37.580 --> 00:15:38.840 align:middle line:90%
+who use product 2.
+
+00:15:38.840 --> 00:15:42.050 align:middle line:84%
+And then I pick whichever one
+has the better average when
+
+00:15:42.050 --> 00:15:44.030 align:middle line:90%
+I've surveyed them.
+
+00:15:44.030 --> 00:15:46.820 align:middle line:90%
+Again, I asked the friends who--
+
+00:15:46.820 --> 00:15:50.660 align:middle line:84%
+I asked the friends who took
+Storrow Drive which is better
+
+00:15:50.660 --> 00:15:51.835 align:middle line:90%
+for them, and vice versa.
+
+00:15:51.835 --> 00:15:55.100 align:middle line:90%
+
+
+00:15:55.100 --> 00:15:57.530 align:middle line:84%
+And then if all friends--
+if everyone I ask
+
+00:15:57.530 --> 00:15:59.910 align:middle line:84%
+bought the same product,
+then I just buy that one.
+
+00:15:59.910 --> 00:16:03.590 align:middle line:84%
+So I take an average of 0
+over 0 is negative infinity,
+
+00:16:03.590 --> 00:16:05.240 align:middle line:90%
+so I don't buy that one.
+
+00:16:05.240 --> 00:16:09.140 align:middle line:84%
+And so the observation
+is, in this model,
+
+00:16:09.140 --> 00:16:12.050 align:middle line:84%
+again, we can sometimes
+get optimal social learning
+
+00:16:12.050 --> 00:16:15.260 align:middle line:84%
+from just asking
+friends about products.
+
+00:16:15.260 --> 00:16:19.340 align:middle line:84%
+Typically, this occurs
+when N is fairly small.
+
+00:16:19.340 --> 00:16:24.710 align:middle line:84%
+So this is a graph showing,
+as a function of alpha, what's
+
+00:16:24.710 --> 00:16:28.850 align:middle line:90%
+the range of Ns for which--
+
+00:16:28.850 --> 00:16:31.970 align:middle line:84%
+what's the range of Ns
+for which this model gives
+
+00:16:31.970 --> 00:16:33.690 align:middle line:90%
+efficient social learning?
+
+00:16:33.690 --> 00:16:35.900 align:middle line:84%
+And this graph seems
+to be showing us
+
+00:16:35.900 --> 00:16:39.530 align:middle line:84%
+that if alpha is close to 1,
+almost everybody is asking
+
+00:16:39.530 --> 00:16:40.770 align:middle line:90%
+their friends every period.
+
+00:16:40.770 --> 00:16:42.690 align:middle line:84%
+Then you need to be
+asking three, four, five,
+
+00:16:42.690 --> 00:16:44.070 align:middle line:90%
+or six friends.
+
+00:16:44.070 --> 00:16:45.800 align:middle line:84%
+Most of the time,
+when alpha is small,
+
+00:16:45.800 --> 00:16:48.710 align:middle line:84%
+this model with the "ask
+one friend what they bought"
+
+00:16:48.710 --> 00:16:49.692 align:middle line:90%
+works well.
+
+00:16:49.692 --> 00:16:51.900 align:middle line:84%
+So in some sense, asking
+one friend what they bought,
+
+00:16:51.900 --> 00:16:53.540 align:middle line:84%
+that's a lot like
+Smallwood and Conlisk
+
+00:16:53.540 --> 00:16:56.580 align:middle line:84%
+because that's like choosing
+in proportion to market share.
+
+00:16:56.580 --> 00:16:59.820 align:middle line:84%
+But then when alpha is
+bigger, what you want to do
+
+00:16:59.820 --> 00:17:01.680 align:middle line:90%
+is gather more information.
+
+00:17:01.680 --> 00:17:05.670 align:middle line:84%
+And the more information helps
+you find the better products.
+
+00:17:05.670 --> 00:17:12.740 align:middle line:84%
+And again, what's going on here
+is that there's this more--
+
+00:17:12.740 --> 00:17:16.000 align:middle line:84%
+better products do have
+higher mean utilities.
+
+00:17:16.000 --> 00:17:20.210 align:middle line:84%
+And then there's also some
+effect of popularity weighting
+
+00:17:20.210 --> 00:17:22.532 align:middle line:84%
+in that if something
+is more popular,
+
+00:17:22.532 --> 00:17:23.990 align:middle line:84%
+you're more likely
+to hear about it
+
+00:17:23.990 --> 00:17:26.130 align:middle line:84%
+and more likely to not
+hear about the popularity.
+
+00:17:26.130 --> 00:17:29.300 align:middle line:84%
+And the combination
+of those two things
+
+00:17:29.300 --> 00:17:32.570 align:middle line:84%
+can give us social learning
+but doesn't give us social
+
+00:17:32.570 --> 00:17:35.970 align:middle line:90%
+learning if N is too big.
+
+00:17:35.970 --> 00:17:39.673 align:middle line:84%
+And then one other
+paper along these lines.
+
+00:17:39.673 --> 00:17:42.360 align:middle line:90%
+
+
+00:17:42.360 --> 00:17:46.530 align:middle line:84%
+Ran Spiegler has a paper,
+another follow-on paper,
+
+00:17:46.530 --> 00:17:51.420 align:middle line:84%
+he calls "The Market for
+Quacks," which is the--
+
+00:17:51.420 --> 00:17:54.840 align:middle line:84%
+my paper with Drew, we were
+following Smallwood and Conlisk
+
+00:17:54.840 --> 00:17:57.540 align:middle line:84%
+in not having any prices
+at all in the model,
+
+00:17:57.540 --> 00:17:59.827 align:middle line:84%
+which works well for
+the people learning
+
+00:17:59.827 --> 00:18:02.160 align:middle line:84%
+which way to drive to work
+or learning things like that.
+
+00:18:02.160 --> 00:18:06.480 align:middle line:84%
+Doesn't work as well
+necessarily for buying products.
+
+00:18:06.480 --> 00:18:10.230 align:middle line:84%
+Spiegler thinks about what
+happens in word-of-mouth models
+
+00:18:10.230 --> 00:18:12.720 align:middle line:90%
+if you let the firms set prices.
+
+00:18:12.720 --> 00:18:14.580 align:middle line:84%
+So he calls it "The
+Market for Quacks"
+
+00:18:14.580 --> 00:18:16.570 align:middle line:84%
+because he's thinking
+about the application--
+
+00:18:16.570 --> 00:18:21.750 align:middle line:84%
+his application he's thinking
+about is people selling the many
+
+00:18:21.750 --> 00:18:25.830 align:middle line:84%
+medications and health things or
+whatever that you see advertised
+
+00:18:25.830 --> 00:18:29.902 align:middle line:84%
+online that are probably no
+better than not buying some kind
+
+00:18:29.902 --> 00:18:31.860 align:middle line:84%
+of health supplement
+that's supposed to improve
+
+00:18:31.860 --> 00:18:33.780 align:middle line:90%
+your whatever.
+
+00:18:33.780 --> 00:18:37.420 align:middle line:84%
+And so what he imagines is that
+he has this model where you have
+
+00:18:37.420 --> 00:18:41.320 align:middle line:84%
+this large number of products,
+and whenever you consume
+
+00:18:41.320 --> 00:18:43.840 align:middle line:84%
+one of these products,
+with probability alpha,
+
+00:18:43.840 --> 00:18:46.870 align:middle line:84%
+you do get a good outcome
+after having consumed it.
+
+00:18:46.870 --> 00:18:49.330 align:middle line:84%
+But of course, there's an
+outside option that gives you
+
+00:18:49.330 --> 00:18:53.560 align:middle line:84%
+utility that costs 0, and you
+also get a positive experience
+
+00:18:53.560 --> 00:18:56.080 align:middle line:84%
+sometimes after not consuming
+any of these products.
+
+00:18:56.080 --> 00:18:59.920 align:middle line:84%
+And in particular, he's got
+that the outside option--
+
+00:18:59.920 --> 00:19:05.800 align:middle line:84%
+there's an outside
+option which also
+
+00:19:05.800 --> 00:19:09.700 align:middle line:84%
+gives you a good experience with
+probability alpha and costs 0.
+
+00:19:09.700 --> 00:19:11.950 align:middle line:84%
+So the outside option
+is actually just better
+
+00:19:11.950 --> 00:19:13.125 align:middle line:90%
+than all of these products.
+
+00:19:13.125 --> 00:19:16.790 align:middle line:90%
+
+
+00:19:16.790 --> 00:19:20.090 align:middle line:84%
+So what happens is, the utility
+that a consumer i gets in period
+
+00:19:20.090 --> 00:19:25.460 align:middle line:84%
+t if they buy product k is 1
+minus pkt with probability alpha
+
+00:19:25.460 --> 00:19:30.260 align:middle line:84%
+and minus pkt with
+probability 1 minus alpha.
+
+00:19:30.260 --> 00:19:36.157 align:middle line:84%
+And what consumers do in
+each period is, again,
+
+00:19:36.157 --> 00:19:38.240 align:middle line:84%
+like Smallwood and Conlisk,
+we have this continuum
+
+00:19:38.240 --> 00:19:39.090 align:middle line:90%
+of consumers.
+
+00:19:39.090 --> 00:19:41.250 align:middle line:84%
+Some consumers are
+using every product.
+
+00:19:41.250 --> 00:19:43.400 align:middle line:84%
+What consumers do
+in each period is,
+
+00:19:43.400 --> 00:19:47.420 align:middle line:84%
+ask one user of each product
+about their experience
+
+00:19:47.420 --> 00:19:49.790 align:middle line:84%
+and buy the product that
+would give the highest
+
+00:19:49.790 --> 00:19:53.090 align:middle line:84%
+utility assuming the
+same experience if it
+
+00:19:53.090 --> 00:19:54.680 align:middle line:90%
+gives positive utility.
+
+00:19:54.680 --> 00:19:59.130 align:middle line:84%
+So I ask-- there are
+k different products.
+
+00:19:59.130 --> 00:20:00.680 align:middle line:84%
+I find one person
+using each product.
+
+00:20:00.680 --> 00:20:02.370 align:middle line:90%
+Well, how did you like it?
+
+00:20:02.370 --> 00:20:03.243 align:middle line:90%
+Did it work for you?
+
+00:20:03.243 --> 00:20:05.910 align:middle line:84%
+And three people tell you that,
+yeah, the product worked for me.
+
+00:20:05.910 --> 00:20:09.630 align:middle line:84%
+It gave me utility 1,
+but I paid this for it.
+
+00:20:09.630 --> 00:20:11.370 align:middle line:84%
+Seven people tell
+you I didn't like it.
+
+00:20:11.370 --> 00:20:12.410 align:middle line:90%
+It gave me utility 0.
+
+00:20:12.410 --> 00:20:14.970 align:middle line:84%
+And I paid money for it,
+so I got negative utility.
+
+00:20:14.970 --> 00:20:20.487 align:middle line:84%
+And so then what consumers
+do is they pick the--
+
+00:20:20.487 --> 00:20:23.070 align:middle line:84%
+in some sense, they're going to
+choose among the products that
+
+00:20:23.070 --> 00:20:25.560 align:middle line:84%
+gave utility 1 to their
+friends the one that's
+
+00:20:25.560 --> 00:20:27.690 align:middle line:84%
+offered at the lowest
+price this period.
+
+00:20:27.690 --> 00:20:29.430 align:middle line:84%
+And if every one
+of their friends
+
+00:20:29.430 --> 00:20:31.950 align:middle line:84%
+got 0, got negative
+utility, then they just
+
+00:20:31.950 --> 00:20:32.975 align:middle line:90%
+buy the outside option.
+
+00:20:32.975 --> 00:20:36.820 align:middle line:90%
+
+
+00:20:36.820 --> 00:20:37.320 align:middle line:90%
+OK.
+
+00:20:37.320 --> 00:20:38.970 align:middle line:90%
+What happens here?
+
+00:20:38.970 --> 00:20:42.510 align:middle line:84%
+This model is--
+if you think back
+
+00:20:42.510 --> 00:20:45.390 align:middle line:84%
+to the Stahl model
+of price dispersion,
+
+00:20:45.390 --> 00:20:48.120 align:middle line:84%
+this model is going to be
+kind of like that Stahl
+
+00:20:48.120 --> 00:20:53.610 align:middle line:84%
+model of price dispersion,
+because imagine you're a firm.
+
+00:20:53.610 --> 00:20:55.290 align:middle line:84%
+You're a firm, and
+you know that there's
+
+00:20:55.290 --> 00:20:56.957 align:middle line:84%
+going to be some
+consumers out there who
+
+00:20:56.957 --> 00:20:59.880 align:middle line:84%
+heard positive reviews
+of your product
+
+00:20:59.880 --> 00:21:02.580 align:middle line:84%
+and negative reviews
+of every other product.
+
+00:21:02.580 --> 00:21:05.190 align:middle line:84%
+And so if they heard a positive
+news about your product
+
+00:21:05.190 --> 00:21:06.690 align:middle line:84%
+and negative about
+everybody else's,
+
+00:21:06.690 --> 00:21:08.868 align:middle line:90%
+you'd want to set p equals 1.
+
+00:21:08.868 --> 00:21:10.410 align:middle line:84%
+But then there can
+be other consumers
+
+00:21:10.410 --> 00:21:12.660 align:middle line:84%
+who heard positive things
+about your product and about
+
+00:21:12.660 --> 00:21:14.077 align:middle line:90%
+exactly one other product.
+
+00:21:14.077 --> 00:21:16.410 align:middle line:84%
+And so if they heard positive
+things about two products,
+
+00:21:16.410 --> 00:21:19.513 align:middle line:84%
+including yours, you want to be
+epsilon less than the product
+
+00:21:19.513 --> 00:21:21.180 align:middle line:84%
+that they heard-- the
+other product they
+
+00:21:21.180 --> 00:21:22.740 align:middle line:90%
+heard good things about.
+
+00:21:22.740 --> 00:21:25.190 align:middle line:84%
+And so it's kind of like
+that kind of Stahl model,
+
+00:21:25.190 --> 00:21:26.940 align:middle line:84%
+where there's multiple
+types of consumers,
+
+00:21:26.940 --> 00:21:29.070 align:middle line:84%
+the consumers who
+heard good things only
+
+00:21:29.070 --> 00:21:32.398 align:middle line:84%
+about yours, where they're
+like the non-shoppers,
+
+00:21:32.398 --> 00:21:34.440 align:middle line:84%
+and the consumers who
+heard good things about you
+
+00:21:34.440 --> 00:21:35.700 align:middle line:90%
+and several others.
+
+00:21:35.700 --> 00:21:38.830 align:middle line:84%
+And there, you want to be
+undercutting the other prices.
+
+00:21:38.830 --> 00:21:42.540 align:middle line:84%
+So what you're going to get
+is some kind of mixed strategy
+
+00:21:42.540 --> 00:21:46.020 align:middle line:84%
+equilibrium, where you're
+mixing over some interval,
+
+00:21:46.020 --> 00:21:48.630 align:middle line:84%
+and you're sometimes
+charging a high price
+
+00:21:48.630 --> 00:21:50.700 align:middle line:84%
+and sometimes
+charging a low price
+
+00:21:50.700 --> 00:21:53.970 align:middle line:84%
+to try to get the people who've
+heard about multiple products.
+
+00:21:53.970 --> 00:21:57.058 align:middle line:84%
+It's not as extreme as that
+Stahl model in that there's--
+
+00:21:57.058 --> 00:21:59.100 align:middle line:84%
+it's going to be very rare
+for consumers who have
+
+00:21:59.100 --> 00:22:00.600 align:middle line:90%
+heard about all N products.
+
+00:22:00.600 --> 00:22:03.570 align:middle line:84%
+So you don't need to be the
+single lowest price product
+
+00:22:03.570 --> 00:22:04.742 align:middle line:90%
+in the market to get people.
+
+00:22:04.742 --> 00:22:07.200 align:middle line:84%
+They've probably only heard
+about two or three or something
+
+00:22:07.200 --> 00:22:08.170 align:middle line:90%
+like that.
+
+00:22:08.170 --> 00:22:11.640 align:middle line:84%
+And so anyway, you'll
+have some distribution--
+
+00:22:11.640 --> 00:22:17.126 align:middle line:84%
+I imagine it probably looks like
+this-- of what prices look like.
+
+00:22:17.126 --> 00:22:22.210 align:middle line:84%
+An interesting observation
+is that in this model,
+
+00:22:22.210 --> 00:22:26.140 align:middle line:84%
+price is inversely related
+to product quality.
+
+00:22:26.140 --> 00:22:31.660 align:middle line:84%
+So if you imagine, if
+the products are all--
+
+00:22:31.660 --> 00:22:33.310 align:middle line:90%
+this is common product quality.
+
+00:22:33.310 --> 00:22:36.670 align:middle line:84%
+If the products are all
+good and people actually
+
+00:22:36.670 --> 00:22:39.130 align:middle line:84%
+have positive
+experiences with them,
+
+00:22:39.130 --> 00:22:42.250 align:middle line:84%
+then you as a firm
+selling are going to be
+
+00:22:42.250 --> 00:22:44.620 align:middle line:84%
+like, OK, if someone
+heard about my--
+
+00:22:44.620 --> 00:22:47.080 align:middle line:84%
+their friend had a good
+experience with my product,
+
+00:22:47.080 --> 00:22:48.580 align:middle line:84%
+they probably also
+talked to friends
+
+00:22:48.580 --> 00:22:50.622 align:middle line:84%
+who had good experiences
+with the other products.
+
+00:22:50.622 --> 00:22:53.590 align:middle line:84%
+So I'm probably competing with
+three or four or five or six
+
+00:22:53.590 --> 00:22:55.280 align:middle line:84%
+other products for
+their business.
+
+00:22:55.280 --> 00:22:56.980 align:middle line:84%
+Therefore, I need to
+price aggressively
+
+00:22:56.980 --> 00:22:59.830 align:middle line:84%
+to be-- beat those four
+or five or six products.
+
+00:22:59.830 --> 00:23:04.330 align:middle line:84%
+But if the products are terrible
+and there's a 1 in 100 chance
+
+00:23:04.330 --> 00:23:06.490 align:middle line:84%
+that they actually
+do anything, then you
+
+00:23:06.490 --> 00:23:08.370 align:middle line:84%
+would think, OK,
+well, if someone
+
+00:23:08.370 --> 00:23:10.120 align:middle line:84%
+had a positive experience
+with my product,
+
+00:23:10.120 --> 00:23:12.042 align:middle line:90%
+then when they're asking--
+
+00:23:12.042 --> 00:23:13.750 align:middle line:84%
+they found a friend
+who liked my product.
+
+00:23:13.750 --> 00:23:14.830 align:middle line:84%
+They probably
+didn't find a friend
+
+00:23:14.830 --> 00:23:16.330 align:middle line:84%
+who liked any of
+the other products.
+
+00:23:16.330 --> 00:23:18.430 align:middle line:84%
+So I'm probably a
+monopolist, so I'm probably
+
+00:23:18.430 --> 00:23:20.480 align:middle line:90%
+safe pricing close to 1.
+
+00:23:20.480 --> 00:23:25.880 align:middle line:84%
+So in equilibrium, competition
+between low quality products,
+
+00:23:25.880 --> 00:23:27.050 align:middle line:90%
+we get high prices.
+
+00:23:27.050 --> 00:23:30.470 align:middle line:84%
+Competition between high quality
+products, we get low prices.
+
+00:23:30.470 --> 00:23:33.200 align:middle line:84%
+And the reason is that the
+competition between high quality
+
+00:23:33.200 --> 00:23:36.200 align:middle line:84%
+products is actually
+more real competition,
+
+00:23:36.200 --> 00:23:38.540 align:middle line:84%
+whereas the competition for
+the low quality products
+
+00:23:38.540 --> 00:23:40.010 align:middle line:84%
+is just getting
+the people who have
+
+00:23:40.010 --> 00:23:44.160 align:middle line:90%
+the rare mistaken impression.
+
+00:23:44.160 --> 00:23:47.920 align:middle line:84%
+So this is not a
+fully rational model.
+
+00:23:47.920 --> 00:23:54.200 align:middle line:84%
+The consumers are not somehow
+inverting the equilibrium price
+
+00:23:54.200 --> 00:23:56.150 align:middle line:84%
+distribution or inverting
+the market shares
+
+00:23:56.150 --> 00:23:59.420 align:middle line:84%
+and realizing, OK,
+if prices are high,
+
+00:23:59.420 --> 00:24:01.230 align:middle line:84%
+it must be that
+the quality is low.
+
+00:24:01.230 --> 00:24:04.407 align:middle line:84%
+Therefore, I'm learning
+something about--
+
+00:24:04.407 --> 00:24:05.990 align:middle line:84%
+I had a prior about
+alpha, and now I'm
+
+00:24:05.990 --> 00:24:07.970 align:middle line:84%
+learning something
+about alpha, or I'm not
+
+00:24:07.970 --> 00:24:11.540 align:middle line:84%
+updating alpha from realizing
+that I'm just getting i.i.d.
+
+00:24:11.540 --> 00:24:13.910 align:middle line:84%
+These are all-- these
+seem to be i.i.d draws
+
+00:24:13.910 --> 00:24:15.410 align:middle line:90%
+as I draw them every period.
+
+00:24:15.410 --> 00:24:18.510 align:middle line:84%
+They're just every period
+taking this person liked it,
+
+00:24:18.510 --> 00:24:19.965 align:middle line:90%
+therefore this is quality 1.
+
+00:24:19.965 --> 00:24:21.090 align:middle line:90%
+This person didn't like it.
+
+00:24:21.090 --> 00:24:23.690 align:middle line:90%
+These are all quality 0.
+
+00:24:23.690 --> 00:24:27.380 align:middle line:84%
+But I think Spiegler's
+view is that this
+
+00:24:27.380 --> 00:24:33.860 align:middle line:84%
+seems like a reasonable force
+and that the naive model may
+
+00:24:33.860 --> 00:24:36.830 align:middle line:84%
+be a better way to think about,
+that this force of competition
+
+00:24:36.830 --> 00:24:41.800 align:middle line:84%
+or quality drives down
+prices could be a real thing.
+
+00:24:41.800 --> 00:24:42.680 align:middle line:90%
+OK.
+
+00:24:42.680 --> 00:24:46.080 align:middle line:84%
+Second thing I want
+to do is-- and I
+
+00:24:46.080 --> 00:24:49.650 align:middle line:84%
+figured I would do
+something fun today
+
+00:24:49.650 --> 00:24:51.790 align:middle line:84%
+in honor of being here
+before the holidays.
+
+00:24:51.790 --> 00:24:54.210 align:middle line:84%
+So anyway, I'm going
+to talk about-- this
+
+00:24:54.210 --> 00:24:58.270 align:middle line:84%
+is another rule-of-thumb
+paper I've written.
+
+00:24:58.270 --> 00:25:00.240 align:middle line:84%
+It's not actually
+really an IO paper,
+
+00:25:00.240 --> 00:25:03.180 align:middle line:84%
+but I feel it's useful for
+graduate students who have
+
+00:25:03.180 --> 00:25:04.860 align:middle line:90%
+thought about these issues.
+
+00:25:04.860 --> 00:25:09.900 align:middle line:84%
+So this is a paper thinking
+about the journal refereeing
+
+00:25:09.900 --> 00:25:10.480 align:middle line:90%
+process.
+
+00:25:10.480 --> 00:25:14.588 align:middle line:84%
+So 6 or 7 years from now, many
+of you will be professors,
+
+00:25:14.588 --> 00:25:16.380 align:middle line:84%
+and you'll be sitting
+in offices somewhere,
+
+00:25:16.380 --> 00:25:18.450 align:middle line:84%
+and this is what you'll
+be complaining about,
+
+00:25:18.450 --> 00:25:21.120 align:middle line:84%
+is the journal
+refereeing process.
+
+00:25:21.120 --> 00:25:26.550 align:middle line:84%
+So in particular, what's very
+difficult, as people find out,
+
+00:25:26.550 --> 00:25:30.300 align:middle line:84%
+is somehow it's very, very hard
+to publish an economics paper,
+
+00:25:30.300 --> 00:25:32.430 align:middle line:84%
+and it takes years and
+years and years and years.
+
+00:25:32.430 --> 00:25:34.380 align:middle line:84%
+And you try to write
+about something topical,
+
+00:25:34.380 --> 00:25:36.510 align:middle line:84%
+and then it takes five
+years to get your paper
+
+00:25:36.510 --> 00:25:38.612 align:middle line:84%
+through the journal
+refereeing process.
+
+00:25:38.612 --> 00:25:41.070 align:middle line:84%
+And after five years getting
+through the journal refereeing
+
+00:25:41.070 --> 00:25:43.952 align:middle line:84%
+process, your
+wonderfully topical thing
+
+00:25:43.952 --> 00:25:45.910 align:middle line:84%
+is now completely irrelevant
+because the things
+
+00:25:45.910 --> 00:25:49.720 align:middle line:84%
+you're writing about
+are no longer topical.
+
+00:25:49.720 --> 00:25:52.610 align:middle line:84%
+Actually, the experience--
+I'm a department head.
+
+00:25:52.610 --> 00:25:55.115 align:middle line:84%
+I'm also on Promotions and
+Tenure Committee for people
+
+00:25:55.115 --> 00:25:55.990 align:middle line:90%
+in other departments.
+
+00:25:55.990 --> 00:25:58.870 align:middle line:84%
+And in other social science
+fields where people write books,
+
+00:25:58.870 --> 00:26:00.860 align:middle line:84%
+this problem also just
+appears in spades.
+
+00:26:00.860 --> 00:26:03.170 align:middle line:84%
+We're constantly reading
+cases of, here's this person.
+
+00:26:03.170 --> 00:26:05.080 align:middle line:84%
+They've been a faculty
+member for five years.
+
+00:26:05.080 --> 00:26:07.692 align:middle line:84%
+Their book, which was based on
+their graduate student thesis,
+
+00:26:07.692 --> 00:26:09.400 align:middle line:84%
+is still not out yet
+because they've just
+
+00:26:09.400 --> 00:26:12.110 align:middle line:84%
+been revising their book
+for the past five years.
+
+00:26:12.110 --> 00:26:13.960 align:middle line:84%
+And the book is five
+years less timely
+
+00:26:13.960 --> 00:26:17.080 align:middle line:84%
+than it was when they
+wrote it originally.
+
+00:26:17.080 --> 00:26:20.440 align:middle line:84%
+So anyway, how do I think about
+why publication works this way?
+
+00:26:20.440 --> 00:26:21.440 align:middle line:90%
+Here's a theory.
+
+00:26:21.440 --> 00:26:28.330 align:middle line:84%
+So in the model, papers have a
+two-dimensional quality q and r.
+
+00:26:28.330 --> 00:26:33.310 align:middle line:84%
+q I think of as the
+fundamental idea in the paper
+
+00:26:33.310 --> 00:26:35.830 align:middle line:84%
+or the quality of the
+unchangeable insight
+
+00:26:35.830 --> 00:26:37.563 align:middle line:90%
+that this paper has.
+
+00:26:37.563 --> 00:26:38.980 align:middle line:84%
+The q is what you
+would teach when
+
+00:26:38.980 --> 00:26:40.855 align:middle line:84%
+you teach that paper in
+your graduate course.
+
+00:26:40.855 --> 00:26:42.320 align:middle line:90%
+This is the paper's idea.
+
+00:26:42.320 --> 00:26:44.008 align:middle line:84%
+This is how that
+paper changes the way
+
+00:26:44.008 --> 00:26:45.050 align:middle line:90%
+we think about something.
+
+00:26:45.050 --> 00:26:47.970 align:middle line:84%
+This was their interesting
+idea they came up with.
+
+00:26:47.970 --> 00:26:52.860 align:middle line:84%
+And then the r is the
+other dimensions of quality
+
+00:26:52.860 --> 00:26:55.270 align:middle line:84%
+that you can improve
+in a revision.
+
+00:26:55.270 --> 00:26:58.050 align:middle line:84%
+So rather than having
+linear functional forms,
+
+00:26:58.050 --> 00:27:01.090 align:middle line:84%
+you can do everything with
+arbitrary functional forms.
+
+00:27:01.090 --> 00:27:03.120 align:middle line:84%
+You can go through
+the seven most
+
+00:27:03.120 --> 00:27:06.120 align:middle line:84%
+recent econometric techniques
+published in Econometrica
+
+00:27:06.120 --> 00:27:09.040 align:middle line:84%
+and re-estimate it using these
+seven different estimators
+
+00:27:09.040 --> 00:27:11.413 align:middle line:84%
+and talk about how all
+those estimators do things.
+
+00:27:11.413 --> 00:27:13.830 align:middle line:84%
+Obviously, some parts of the
+things we improve in revision
+
+00:27:13.830 --> 00:27:16.750 align:middle line:84%
+are making us more
+confident in the results.
+
+00:27:16.750 --> 00:27:18.040 align:middle line:90%
+They are valuable.
+
+00:27:18.040 --> 00:27:21.032 align:middle line:84%
+Many of them are just
+doing everything--
+
+00:27:21.032 --> 00:27:23.490 align:middle line:84%
+addressing every potential
+criticism that anyone could have
+
+00:27:23.490 --> 00:27:27.540 align:middle line:84%
+come up with and just continuing
+to just make your paper harder
+
+00:27:27.540 --> 00:27:31.650 align:middle line:90%
+and harder to read.
+
+00:27:31.650 --> 00:27:36.390 align:middle line:84%
+So we value both aspects
+of quality, the idea part
+
+00:27:36.390 --> 00:27:39.240 align:middle line:90%
+and the craftsmanship part.
+
+00:27:39.240 --> 00:27:41.880 align:middle line:84%
+And referees know that
+they're supposed--
+
+00:27:41.880 --> 00:27:44.250 align:middle line:84%
+that there's a social
+norm in the profession
+
+00:27:44.250 --> 00:27:46.510 align:middle line:84%
+that we put alpha
+weight on the q
+
+00:27:46.510 --> 00:27:49.000 align:middle line:84%
+and we put 1 minus
+alpha weight on the r.
+
+00:27:49.000 --> 00:27:52.040 align:middle line:84%
+And they know that they're
+supposed to recommend acceptance
+
+00:27:52.040 --> 00:27:56.100 align:middle line:84%
+if this weighted average
+of q and r is at least z.
+
+00:27:56.100 --> 00:28:01.840 align:middle line:84%
+But referees being people
+who are, in general, 32
+
+00:28:01.840 --> 00:28:04.300 align:middle line:84%
+years old or whatever, not
+in the profession for all
+
+00:28:04.300 --> 00:28:07.783 align:middle line:84%
+that long, don't necessarily
+know what alpha and z are.
+
+00:28:07.783 --> 00:28:08.950 align:middle line:90%
+And they're trying to learn.
+
+00:28:08.950 --> 00:28:10.750 align:middle line:84%
+They're just trying
+to be good referees
+
+00:28:10.750 --> 00:28:12.760 align:middle line:84%
+and evaluate papers
+appropriately
+
+00:28:12.760 --> 00:28:14.420 align:middle line:90%
+when asked to evaluate a paper.
+
+00:28:14.420 --> 00:28:16.960 align:middle line:84%
+And so at time t, the
+profession ends up
+
+00:28:16.960 --> 00:28:19.600 align:middle line:84%
+using these weights,
+alpha t and zt.
+
+00:28:19.600 --> 00:28:21.820 align:middle line:84%
+And all the referees
+in the profession
+
+00:28:21.820 --> 00:28:24.070 align:middle line:84%
+are just trying to
+update all the time
+
+00:28:24.070 --> 00:28:26.860 align:middle line:84%
+and learn, what is alpha t,
+what's the weight on these two,
+
+00:28:26.860 --> 00:28:28.780 align:middle line:84%
+and what's the quality
+threshold where I'm
+
+00:28:28.780 --> 00:28:30.090 align:middle line:90%
+supposed to say yes versus no?
+
+00:28:30.090 --> 00:28:32.830 align:middle line:90%
+
+
+00:28:32.830 --> 00:28:35.530 align:middle line:84%
+I assume that authors
+rationally divide their time
+
+00:28:35.530 --> 00:28:38.260 align:middle line:84%
+between producing the
+two types of quality.
+
+00:28:38.260 --> 00:28:41.320 align:middle line:84%
+They start by picking
+some amount of time tq.
+
+00:28:41.320 --> 00:28:44.410 align:middle line:84%
+So 1 is the total amount
+of time you have available.
+
+00:28:44.410 --> 00:28:50.230 align:middle line:84%
+You start by spending some time
+tq in 0,1 to get a random draw
+
+00:28:50.230 --> 00:28:51.760 align:middle line:90%
+on an idea.
+
+00:28:51.760 --> 00:28:54.010 align:middle line:84%
+And at the end of
+that time tq that you
+
+00:28:54.010 --> 00:28:57.880 align:middle line:84%
+spent developing random
+draws on the ideas,
+
+00:28:57.880 --> 00:29:01.250 align:middle line:84%
+then you get an
+idea of quality q.
+
+00:29:01.250 --> 00:29:05.780 align:middle line:84%
+And there's some CDF F of q
+given tq that's increasing.
+
+00:29:05.780 --> 00:29:09.050 align:middle line:84%
+So for instance, it could be
+that just q is uniform on 0
+
+00:29:09.050 --> 00:29:10.450 align:middle line:90%
+to tq, is one.
+
+00:29:10.450 --> 00:29:14.480 align:middle line:90%
+
+
+00:29:14.480 --> 00:29:20.410 align:middle line:84%
+But you could also make it
+normal mean tq or whatever.
+
+00:29:20.410 --> 00:29:24.257 align:middle line:84%
+And then after
+you get your idea,
+
+00:29:24.257 --> 00:29:25.840 align:middle line:84%
+you send your paper
+in to the journal,
+
+00:29:25.840 --> 00:29:28.690 align:middle line:90%
+and they evaluate your paper.
+
+00:29:28.690 --> 00:29:31.490 align:middle line:84%
+And then they tell
+you how good--
+
+00:29:31.490 --> 00:29:34.360 align:middle line:84%
+they give you some
+answer, r of q,
+
+00:29:34.360 --> 00:29:36.640 align:middle line:84%
+which is like, if you
+can make your paper--
+
+00:29:36.640 --> 00:29:39.610 align:middle line:84%
+get your craftsmanship
+up to quality r of q,
+
+00:29:39.610 --> 00:29:40.860 align:middle line:90%
+we would take your paper.
+
+00:29:40.860 --> 00:29:42.830 align:middle line:84%
+Otherwise, no, it's
+not good enough.
+
+00:29:42.830 --> 00:29:44.650 align:middle line:90%
+So here's your paper.
+
+00:29:44.650 --> 00:29:50.200 align:middle line:84%
+In general, actually, you send a
+paper to a lot of top economics
+
+00:29:50.200 --> 00:29:53.440 align:middle line:84%
+journals today, you're going to
+get five referee reports that
+
+00:29:53.440 --> 00:29:55.780 align:middle line:84%
+are going to be a total
+of like 18 pages long
+
+00:29:55.780 --> 00:30:00.200 align:middle line:84%
+and have 67 comments of things
+you could improve in your paper.
+
+00:30:00.200 --> 00:30:04.210 align:middle line:84%
+And you then decide--
+they're telling you
+
+00:30:04.210 --> 00:30:07.040 align:middle line:84%
+how much you have to do to get
+the paper into the journal.
+
+00:30:07.040 --> 00:30:10.330 align:middle line:84%
+And then authors decide how
+much time of their remaining
+
+00:30:10.330 --> 00:30:14.590 align:middle line:84%
+time between 0 and 1 minus tq
+to spend improving the paper.
+
+00:30:14.590 --> 00:30:18.010 align:middle line:84%
+And time spent improving the
+craftsmanship increases r
+
+00:30:18.010 --> 00:30:23.420 align:middle line:84%
+to h of tr plus eta, where eta
+is again some random variable.
+
+00:30:23.420 --> 00:30:26.120 align:middle line:84%
+So sometimes you're able
+to do the things well,
+
+00:30:26.120 --> 00:30:28.200 align:middle line:84%
+sometimes you're not able
+to do the things well.
+
+00:30:28.200 --> 00:30:33.560 align:middle line:84%
+And then I make eta, again,
+a uniform distribution.
+
+00:30:33.560 --> 00:30:36.530 align:middle line:84%
+And then what
+editors do is editors
+
+00:30:36.530 --> 00:30:40.430 align:middle line:84%
+accept the highest quality
+papers that are resubmitted.
+
+00:30:40.430 --> 00:30:42.680 align:middle line:84%
+The editors all
+also know alpha t.
+
+00:30:42.680 --> 00:30:46.560 align:middle line:84%
+They all know the current
+market weights on these things.
+
+00:30:46.560 --> 00:30:48.740 align:middle line:84%
+The editors, though,
+don't use zt.
+
+00:30:48.740 --> 00:30:50.900 align:middle line:84%
+The editors, they
+know how many papers
+
+00:30:50.900 --> 00:30:53.570 align:middle line:84%
+they're supposed to accept,
+so they just accept the best.
+
+00:30:53.570 --> 00:30:55.190 align:middle line:84%
+Even if the referee
+has told people
+
+00:30:55.190 --> 00:30:56.925 align:middle line:84%
+to do more than was
+feasible, the editors
+
+00:30:56.925 --> 00:30:58.550 align:middle line:84%
+have to go against
+the referee and say,
+
+00:30:58.550 --> 00:31:00.030 align:middle line:90%
+I have to accept something.
+
+00:31:00.030 --> 00:31:03.260 align:middle line:84%
+And so the editors just
+accept some fraction tau
+
+00:31:03.260 --> 00:31:05.690 align:middle line:84%
+of papers that are highest
+on this metric alpha q
+
+00:31:05.690 --> 00:31:06.835 align:middle line:90%
+plus 1 minus alpha r.
+
+00:31:06.835 --> 00:31:09.370 align:middle line:90%
+
+
+00:31:09.370 --> 00:31:13.630 align:middle line:84%
+So anyway, that's my model of
+academics writing and revising
+
+00:31:13.630 --> 00:31:14.130 align:middle line:90%
+papers.
+
+00:31:14.130 --> 00:31:17.100 align:middle line:90%
+
+
+00:31:17.100 --> 00:31:19.710 align:middle line:90%
+First observation.
+
+00:31:19.710 --> 00:31:24.383 align:middle line:84%
+This model has a continuum
+of consistent social norms.
+
+00:31:24.383 --> 00:31:27.420 align:middle line:90%
+
+
+00:31:27.420 --> 00:31:29.580 align:middle line:84%
+If you think about it,
+if I pick any alpha,
+
+00:31:29.580 --> 00:31:33.030 align:middle line:84%
+if I pick alpha equals
+1 so only q counts,
+
+00:31:33.030 --> 00:31:35.010 align:middle line:84%
+if only q counts, what
+people are going to do
+
+00:31:35.010 --> 00:31:37.410 align:middle line:84%
+is just spend 100% of
+their time producing ideas,
+
+00:31:37.410 --> 00:31:39.780 align:middle line:84%
+have zero craftsmanship,
+and there's
+
+00:31:39.780 --> 00:31:43.810 align:middle line:84%
+going to be some level z
+that clears the market.
+
+00:31:43.810 --> 00:31:48.780 align:middle line:84%
+So if you spend 100% of
+your time on q quality,
+
+00:31:48.780 --> 00:31:51.510 align:middle line:84%
+a fraction tau of people
+are going to get qualities
+
+00:31:51.510 --> 00:31:54.210 align:middle line:84%
+above this level,
+and 1 minus tau
+
+00:31:54.210 --> 00:31:57.270 align:middle line:84%
+are going to get qualities
+below that level.
+
+00:31:57.270 --> 00:31:58.685 align:middle line:90%
+And that clears the market.
+
+00:31:58.685 --> 00:32:01.470 align:middle line:90%
+
+
+00:32:01.470 --> 00:32:04.650 align:middle line:84%
+If you choose alpha
+equals 0, then people
+
+00:32:04.650 --> 00:32:06.720 align:middle line:84%
+are going to spend zero
+time thinking up ideas,
+
+00:32:06.720 --> 00:32:10.530 align:middle line:84%
+and they're just going
+to have very, very
+
+00:32:10.530 --> 00:32:14.490 align:middle line:84%
+complicated estimations or
+proofs of their non-ideas.
+
+00:32:14.490 --> 00:32:16.980 align:middle line:84%
+They're going to have incredibly
+high levels of r quality,
+
+00:32:16.980 --> 00:32:18.980 align:middle line:84%
+but they're going to have
+no ideas in the paper.
+
+00:32:18.980 --> 00:32:21.640 align:middle line:84%
+And again, the people
+who get the best draws--
+
+00:32:21.640 --> 00:32:23.290 align:middle line:90%
+everyone spends time 1.
+
+00:32:23.290 --> 00:32:26.350 align:middle line:84%
+The people who get the best
+draws here, the tau fraction,
+
+00:32:26.350 --> 00:32:28.315 align:middle line:84%
+get the best draws, get
+their papers published.
+
+00:32:28.315 --> 00:32:29.940 align:middle line:84%
+The other people get
+the bad draws on r
+
+00:32:29.940 --> 00:32:31.482 align:middle line:84%
+and don't get their
+papers published.
+
+00:32:31.482 --> 00:32:33.910 align:middle line:84%
+And then, for every
+weight in between,
+
+00:32:33.910 --> 00:32:36.820 align:middle line:84%
+people are going to spend some
+time in q and some time in r,
+
+00:32:36.820 --> 00:32:38.710 align:middle line:84%
+and there's some
+quality threshold
+
+00:32:38.710 --> 00:32:40.160 align:middle line:90%
+that clears the market.
+
+00:32:40.160 --> 00:32:43.900 align:middle line:84%
+So in some sense,
+there's nothing
+
+00:32:43.900 --> 00:32:47.890 align:middle line:84%
+in this model that pins down
+whether we care about main ideas
+
+00:32:47.890 --> 00:32:49.820 align:middle line:84%
+or whether we care
+about craftsmanship.
+
+00:32:49.820 --> 00:32:51.740 align:middle line:84%
+Profession could have
+any set of norms.
+
+00:32:51.740 --> 00:32:52.845 align:middle line:90%
+They're all stable.
+
+00:32:52.845 --> 00:32:55.980 align:middle line:90%
+
+
+00:32:55.980 --> 00:32:58.920 align:middle line:84%
+And this would be an example
+of what this equilibrium would
+
+00:32:58.920 --> 00:33:00.275 align:middle line:90%
+look like.
+
+00:33:00.275 --> 00:33:02.650 align:middle line:84%
+This is a weight where people
+are putting weight on both.
+
+00:33:02.650 --> 00:33:04.698 align:middle line:90%
+So people choose some time q.
+
+00:33:04.698 --> 00:33:05.740 align:middle line:90%
+It must be a pretty high.
+
+00:33:05.740 --> 00:33:08.130 align:middle line:90%
+People put some weight on q.
+
+00:33:08.130 --> 00:33:10.530 align:middle line:84%
+This is equal
+weights, looks like.
+
+00:33:10.530 --> 00:33:13.660 align:middle line:84%
+People put some weight on
+q that's between 0 and 1.
+
+00:33:13.660 --> 00:33:17.010 align:middle line:90%
+They come up with ideas.
+
+00:33:17.010 --> 00:33:19.590 align:middle line:84%
+If at the end of your time q
+you end up with a bad idea,
+
+00:33:19.590 --> 00:33:21.382 align:middle line:84%
+you send it to the
+journal, and the journal
+
+00:33:21.382 --> 00:33:24.510 align:middle line:84%
+is like, in order to
+get your paper accepted,
+
+00:33:24.510 --> 00:33:26.820 align:middle line:84%
+you're going to have to reach
+this super high threshold
+
+00:33:26.820 --> 00:33:30.070 align:middle line:84%
+on craftsmanship because you
+don't have much of an idea,
+
+00:33:30.070 --> 00:33:31.980 align:middle line:84%
+you look at it and
+you're like, given
+
+00:33:31.980 --> 00:33:35.460 align:middle line:84%
+that I made the
+distribution that r
+
+00:33:35.460 --> 00:33:42.120 align:middle line:84%
+is h of tr plus eta, where
+eta is uniform 0 sigma,
+
+00:33:42.120 --> 00:33:43.890 align:middle line:84%
+there's an upper
+bound to how good
+
+00:33:43.890 --> 00:33:47.290 align:middle line:84%
+my craftsmanship can be even
+if I spend all the time on it.
+
+00:33:47.290 --> 00:33:49.218 align:middle line:90%
+So you've got a bad idea.
+
+00:33:49.218 --> 00:33:50.260 align:middle line:90%
+They tell you what to do.
+
+00:33:50.260 --> 00:33:51.910 align:middle line:84%
+You're like, there's
+no way I can do that.
+
+00:33:51.910 --> 00:33:52.618 align:middle line:90%
+You just give up.
+
+00:33:52.618 --> 00:33:55.780 align:middle line:84%
+You don't revise your
+paper, and you go home.
+
+00:33:55.780 --> 00:34:01.120 align:middle line:84%
+If your paper is better,
+you revise it to death.
+
+00:34:01.120 --> 00:34:04.390 align:middle line:90%
+You set tr to be 1 minus tq.
+
+00:34:04.390 --> 00:34:06.220 align:middle line:84%
+You do all the
+revisions you can.
+
+00:34:06.220 --> 00:34:08.760 align:middle line:90%
+You get this draw on r quality.
+
+00:34:08.760 --> 00:34:10.800 align:middle line:84%
+And if you get a good
+draw, you get accepted.
+
+00:34:10.800 --> 00:34:13.409 align:middle line:84%
+You get a bad draw,
+you get rejected.
+
+00:34:13.409 --> 00:34:16.920 align:middle line:84%
+And then, if your
+quality is super high,
+
+00:34:16.920 --> 00:34:19.740 align:middle line:84%
+then they recognize your quality
+is super high and they tell you,
+
+00:34:19.740 --> 00:34:21.810 align:middle line:90%
+you only need to do this--
+
+00:34:21.810 --> 00:34:24.130 align:middle line:84%
+reach this level of r
+quality to get accepted.
+
+00:34:24.130 --> 00:34:27.750 align:middle line:84%
+So what you do is there,
+you're able to get it accepted
+
+00:34:27.750 --> 00:34:29.648 align:middle line:90%
+with probability 1 here.
+
+00:34:29.648 --> 00:34:31.940 align:middle line:84%
+And up here, you can get it
+accepted with probability 1
+
+00:34:31.940 --> 00:34:34.560 align:middle line:84%
+and even take a vacation,
+some vacation time.
+
+00:34:34.560 --> 00:34:36.820 align:middle line:90%
+So here, you take some time off.
+
+00:34:36.820 --> 00:34:39.659 align:middle line:84%
+But any of these papers that
+are super high quality, they get
+
+00:34:39.659 --> 00:34:42.960 align:middle line:84%
+accepted with probability
+1, and you just do the--
+
+00:34:42.960 --> 00:34:50.155 align:middle line:84%
+you set-- you choose h of tr
+star is just equal to the thing
+
+00:34:50.155 --> 00:34:52.780 align:middle line:84%
+that you're being asked to do so
+that even if you get the worst
+
+00:34:52.780 --> 00:34:55.389 align:middle line:84%
+data draw possible, the paper
+gets accepted with probability
+
+00:34:55.389 --> 00:34:56.139 align:middle line:90%
+1.
+
+00:34:56.139 --> 00:34:59.710 align:middle line:84%
+So you ensure that
+your paper gets in.
+
+00:34:59.710 --> 00:35:03.400 align:middle line:84%
+In my model, people have these
+lexicographic preferences
+
+00:35:03.400 --> 00:35:06.500 align:middle line:84%
+over paper acceptance
+and leisure.
+
+00:35:06.500 --> 00:35:08.042 align:middle line:84%
+So anything that
+adds any probability
+
+00:35:08.042 --> 00:35:09.792 align:middle line:84%
+to your paper getting
+accepted, you do it,
+
+00:35:09.792 --> 00:35:12.460 align:middle line:84%
+and you only take leisure when
+your probability of getting in
+
+00:35:12.460 --> 00:35:16.930 align:middle line:84%
+is 0 or when it's
+0 marginal impact.
+
+00:35:16.930 --> 00:35:17.540 align:middle line:90%
+Anyway.
+
+00:35:17.540 --> 00:35:22.420 align:middle line:84%
+So this is what we
+think would happen.
+
+00:35:22.420 --> 00:35:26.170 align:middle line:84%
+And so that's what an
+equilibrium would look like.
+
+00:35:26.170 --> 00:35:28.750 align:middle line:84%
+And then the
+question about, where
+
+00:35:28.750 --> 00:35:31.450 align:middle line:84%
+do these dynamics come
+from, because it's
+
+00:35:31.450 --> 00:35:33.980 align:middle line:84%
+gotten harder and harder to
+publish papers over the years.
+
+00:35:33.980 --> 00:35:36.310 align:middle line:90%
+Why do I think that happens?
+
+00:35:36.310 --> 00:35:39.350 align:middle line:84%
+What I then add is an
+overconfidence bias.
+
+00:35:39.350 --> 00:35:41.980 align:middle line:84%
+So everybody thinks
+their papers are
+
+00:35:41.980 --> 00:35:43.630 align:middle line:90%
+better than they actually are.
+
+00:35:43.630 --> 00:35:45.638 align:middle line:84%
+So either you think
+your q is better
+
+00:35:45.638 --> 00:35:47.680 align:middle line:84%
+than it really is, your
+idea is more interesting,
+
+00:35:47.680 --> 00:35:49.690 align:middle line:84%
+or you think your
+craftsmanship is better
+
+00:35:49.690 --> 00:35:52.338 align:middle line:84%
+than your craftsmanship really
+is because you're using the best
+
+00:35:52.338 --> 00:35:54.880 align:middle line:84%
+techniques you know about and
+you think, therefore, I'm state
+
+00:35:54.880 --> 00:35:56.810 align:middle line:90%
+of the art, when you're not.
+
+00:35:56.810 --> 00:35:59.410 align:middle line:84%
+But everybody just
+thinks their paper
+
+00:35:59.410 --> 00:36:04.570 align:middle line:84%
+is epsilon better than other
+people think their paper is.
+
+00:36:04.570 --> 00:36:06.160 align:middle line:90%
+OK?
+
+00:36:06.160 --> 00:36:11.920 align:middle line:84%
+And so what's going to happen
+when people are learning is,
+
+00:36:11.920 --> 00:36:16.080 align:middle line:84%
+this norm with an
+overconfidence bias
+
+00:36:16.080 --> 00:36:19.435 align:middle line:84%
+is going to confuse people
+because they're going to be--
+
+00:36:19.435 --> 00:36:21.310 align:middle line:84%
+two things are going to
+be happening to them.
+
+00:36:21.310 --> 00:36:23.160 align:middle line:84%
+One is, they're going
+to be submitting papers,
+
+00:36:23.160 --> 00:36:24.827 align:middle line:84%
+and they're going to
+be told that you've
+
+00:36:24.827 --> 00:36:27.690 align:middle line:84%
+got to reach this really,
+really high-- well, what
+
+00:36:27.690 --> 00:36:30.290 align:middle line:84%
+seems to you to be a really,
+really high line because you
+
+00:36:30.290 --> 00:36:32.790 align:middle line:84%
+think your paper is better than
+it is, and you're like, wow,
+
+00:36:32.790 --> 00:36:34.620 align:middle line:84%
+it's really, really
+hard to get a paper in.
+
+00:36:34.620 --> 00:36:36.570 align:middle line:84%
+For my paper to get
+accepted, I have
+
+00:36:36.570 --> 00:36:38.610 align:middle line:84%
+to do this laundry
+list of 67 things
+
+00:36:38.610 --> 00:36:40.410 align:middle line:90%
+better than I'm doing today.
+
+00:36:40.410 --> 00:36:44.370 align:middle line:84%
+And yet you also referee
+papers and you say,
+
+00:36:44.370 --> 00:36:45.850 align:middle line:90%
+this is not as good as mine.
+
+00:36:45.850 --> 00:36:47.080 align:middle line:90%
+You should reject it.
+
+00:36:47.080 --> 00:36:49.000 align:middle line:84%
+And then you see the
+journal taking the paper.
+
+00:36:49.000 --> 00:36:51.250 align:middle line:84%
+And so you have this sort
+of cognitive dissonance.
+
+00:36:51.250 --> 00:36:53.680 align:middle line:84%
+It's like, why is it that
+I can't get my papers in
+
+00:36:53.680 --> 00:36:56.010 align:middle line:84%
+and these mediocre things
+either that I refereed
+
+00:36:56.010 --> 00:36:58.950 align:middle line:84%
+or I see in the journal
+are getting published?
+
+00:36:58.950 --> 00:37:01.380 align:middle line:84%
+And so you have to try
+to reconcile those two
+
+00:37:01.380 --> 00:37:03.240 align:middle line:84%
+things in your mind
+and think, maybe I
+
+00:37:03.240 --> 00:37:05.245 align:middle line:84%
+misunderstood the
+alpha z process.
+
+00:37:05.245 --> 00:37:08.790 align:middle line:90%
+
+
+00:37:08.790 --> 00:37:13.260 align:middle line:84%
+Again, here, I could do
+something rational where--
+
+00:37:13.260 --> 00:37:15.480 align:middle line:84%
+something fully
+rational where people
+
+00:37:15.480 --> 00:37:19.170 align:middle line:84%
+have this prior
+overall alphas and z's
+
+00:37:19.170 --> 00:37:23.310 align:middle line:84%
+that the world might have and
+a prior over the whole process
+
+00:37:23.310 --> 00:37:28.390 align:middle line:84%
+that is being used to generate
+acceptance and rejections.
+
+00:37:28.390 --> 00:37:30.600 align:middle line:84%
+And think about the
+rational Bayesian updating.
+
+00:37:30.600 --> 00:37:33.780 align:middle line:84%
+When you're getting these two
+conflicting pieces of evidence,
+
+00:37:33.780 --> 00:37:34.980 align:middle line:90%
+how do you best--
+
+00:37:34.980 --> 00:37:37.380 align:middle line:84%
+in some sense, it's
+a Bayesian updating
+
+00:37:37.380 --> 00:37:39.480 align:middle line:84%
+where the true
+state of the world
+
+00:37:39.480 --> 00:37:44.790 align:middle line:84%
+is outside the
+support of your prior
+
+00:37:44.790 --> 00:37:46.950 align:middle line:84%
+because you don't think
+that you're biased.
+
+00:37:46.950 --> 00:37:51.060 align:middle line:84%
+But anyway, what I did
+instead was think about just
+
+00:37:51.060 --> 00:37:52.510 align:middle line:90%
+a different objective function.
+
+00:37:52.510 --> 00:37:57.040 align:middle line:84%
+That is, I'm basically
+getting two types of evidence.
+
+00:37:57.040 --> 00:38:04.020 align:middle line:84%
+One is, I'm being asked, these
+are the r of q's on my paper.
+
+00:38:04.020 --> 00:38:08.365 align:middle line:84%
+And I'm trying to figure
+out, what is the correct--
+
+00:38:08.365 --> 00:38:10.490 align:middle line:84%
+I'm trying to figure out,
+what is the correct line?
+
+00:38:10.490 --> 00:38:12.130 align:middle line:84%
+And this is what
+I think r of q is
+
+00:38:12.130 --> 00:38:14.980 align:middle line:90%
+on the observations on my paper.
+
+00:38:14.980 --> 00:38:17.770 align:middle line:84%
+And I'm going to say that people
+are in some-- one thing they're
+
+00:38:17.770 --> 00:38:21.040 align:middle line:84%
+trying to do is fit
+a line to the data
+
+00:38:21.040 --> 00:38:22.720 align:middle line:84%
+that they're getting
+on their own papers
+
+00:38:22.720 --> 00:38:25.307 align:middle line:84%
+with some least
+squares procedure.
+
+00:38:25.307 --> 00:38:26.890 align:middle line:84%
+But then the other
+thing they're doing
+
+00:38:26.890 --> 00:38:30.950 align:middle line:84%
+is they're seeing other papers
+are accepted or rejected.
+
+00:38:30.950 --> 00:38:33.580 align:middle line:84%
+And every time a
+paper-- if this paper
+
+00:38:33.580 --> 00:38:37.630 align:middle line:84%
+is accepted but this
+paper is also accepted,
+
+00:38:37.630 --> 00:38:40.390 align:middle line:84%
+and this one is rejected
+and this one is rejected
+
+00:38:40.390 --> 00:38:44.657 align:middle line:84%
+and this one is rejected,
+and this one's accepted,
+
+00:38:44.657 --> 00:38:46.240 align:middle line:84%
+they're trying to,
+in some sense, also
+
+00:38:46.240 --> 00:38:49.570 align:middle line:84%
+fit a line to this data that
+separates the accepted papers
+
+00:38:49.570 --> 00:38:52.060 align:middle line:90%
+from the rejected papers.
+
+00:38:52.060 --> 00:38:54.730 align:middle line:84%
+And what I do, entirely to
+make the model tractable,
+
+00:38:54.730 --> 00:38:57.430 align:middle line:84%
+is say that you're using
+a least squares loss
+
+00:38:57.430 --> 00:39:00.490 align:middle line:84%
+function for the things you're
+told about your own papers,
+
+00:39:00.490 --> 00:39:03.040 align:middle line:84%
+and you're using a sum of
+absolute deviations loss
+
+00:39:03.040 --> 00:39:05.930 align:middle line:84%
+function for the
+acceptance and rejections
+
+00:39:05.930 --> 00:39:08.703 align:middle line:84%
+and trying to fit the two data
+together with the same line.
+
+00:39:08.703 --> 00:39:11.120 align:middle line:84%
+And what's going on is that
+they're-- actually, basically,
+
+00:39:11.120 --> 00:39:12.200 align:middle line:90%
+there are--
+
+00:39:12.200 --> 00:39:14.550 align:middle line:84%
+what's happening is in reality
+is there are two lines.
+
+00:39:14.550 --> 00:39:18.170 align:middle line:84%
+This is the r of q
+line, what you perceive
+
+00:39:18.170 --> 00:39:19.970 align:middle line:84%
+you're being asked
+to do, and this
+
+00:39:19.970 --> 00:39:22.950 align:middle line:84%
+is the acceptance-rejection
+line, which is lower.
+
+00:39:22.950 --> 00:39:24.620 align:middle line:84%
+And you think you're
+being asked to do
+
+00:39:24.620 --> 00:39:26.995 align:middle line:84%
+more because you think your
+quality is better than it is.
+
+00:39:26.995 --> 00:39:29.863 align:middle line:84%
+So the data is really coming
+in on these two lines,
+
+00:39:29.863 --> 00:39:32.030 align:middle line:84%
+and you're trying to fit a
+single line to this data,
+
+00:39:32.030 --> 00:39:34.460 align:middle line:84%
+not recognizing that the
+observations from your papers
+
+00:39:34.460 --> 00:39:35.918 align:middle line:84%
+are different from
+the observations
+
+00:39:35.918 --> 00:39:37.160 align:middle line:90%
+on the other papers.
+
+00:39:37.160 --> 00:39:39.800 align:middle line:84%
+And the observation
+of the paper is
+
+00:39:39.800 --> 00:39:43.650 align:middle line:84%
+if people have views
+on this, what happens?
+
+00:39:43.650 --> 00:39:50.010 align:middle line:84%
+What happens is, people perceive
+this line to be the line.
+
+00:39:50.010 --> 00:39:52.810 align:middle line:84%
+And everyone thinks it's
+harder to publish than it is.
+
+00:39:52.810 --> 00:39:55.900 align:middle line:84%
+They always tell the authors
+when they're refereeing,
+
+00:39:55.900 --> 00:39:57.990 align:middle line:84%
+you need to get really,
+really good to get in,
+
+00:39:57.990 --> 00:40:01.910 align:middle line:84%
+and you need to reach
+this high r of q line.
+
+00:40:01.910 --> 00:40:04.370 align:middle line:84%
+But then the editors
+can't fill the journal
+
+00:40:04.370 --> 00:40:06.990 align:middle line:84%
+with papers who reach
+the high r of q line.
+
+00:40:06.990 --> 00:40:08.510 align:middle line:84%
+So there are these
+people down here
+
+00:40:08.510 --> 00:40:12.320 align:middle line:84%
+who had the medium quality
+ideas that revised them
+
+00:40:12.320 --> 00:40:15.320 align:middle line:84%
+to death, who fell just short
+of what the referees told
+
+00:40:15.320 --> 00:40:15.850 align:middle line:90%
+them to do.
+
+00:40:15.850 --> 00:40:17.600 align:middle line:84%
+And then the editors
+take the paper anyway
+
+00:40:17.600 --> 00:40:19.980 align:middle line:84%
+because they need
+to fill the journal.
+
+00:40:19.980 --> 00:40:28.120 align:middle line:84%
+And so they take the papers
+that were slightly lower quality
+
+00:40:28.120 --> 00:40:30.360 align:middle line:84%
+on the r dimension than
+what they were told to do.
+
+00:40:30.360 --> 00:40:33.040 align:middle line:84%
+So that's what the data
+actually looks like.
+
+00:40:33.040 --> 00:40:36.340 align:middle line:84%
+And then when people are
+trying to fit these two data
+
+00:40:36.340 --> 00:40:39.220 align:middle line:84%
+sources together,
+the r of q data
+
+00:40:39.220 --> 00:40:42.130 align:middle line:84%
+and the acceptance-rejection
+data, the best way
+
+00:40:42.130 --> 00:40:47.800 align:middle line:84%
+to do that is by tilting the
+line down because the surprise
+
+00:40:47.800 --> 00:40:52.810 align:middle line:84%
+acceptances are papers that
+are low q, high r, and get in.
+
+00:40:52.810 --> 00:40:54.670 align:middle line:84%
+And so the best way
+that you can explain
+
+00:40:54.670 --> 00:40:56.470 align:middle line:84%
+that on these
+really great papers,
+
+00:40:56.470 --> 00:40:59.650 align:middle line:84%
+I'm being asked to do a
+lot, and yet down here I
+
+00:40:59.650 --> 00:41:03.550 align:middle line:84%
+see these low q, high r
+papers getting in, is to say,
+
+00:41:03.550 --> 00:41:07.900 align:middle line:84%
+oh, I think it must be that
+the best way to fit this data
+
+00:41:07.900 --> 00:41:11.500 align:middle line:84%
+is to tilt the line down
+and think that r quality is
+
+00:41:11.500 --> 00:41:13.250 align:middle line:90%
+more important than I thought.
+
+00:41:13.250 --> 00:41:16.570 align:middle line:84%
+And these high r
+papers are getting in
+
+00:41:16.570 --> 00:41:18.970 align:middle line:90%
+because r quality matters more.
+
+00:41:18.970 --> 00:41:21.490 align:middle line:84%
+And so the argument is that
+what's going to happen is,
+
+00:41:21.490 --> 00:41:24.430 align:middle line:84%
+people are just going to keep
+being surprised that papers get
+
+00:41:24.430 --> 00:41:26.390 align:middle line:90%
+accepted that they refereed.
+
+00:41:26.390 --> 00:41:29.330 align:middle line:84%
+The surprise acceptances
+are overwhelmingly low q,
+
+00:41:29.330 --> 00:41:30.155 align:middle line:90%
+high r papers.
+
+00:41:30.155 --> 00:41:32.870 align:middle line:90%
+
+
+00:41:32.870 --> 00:41:35.960 align:middle line:84%
+And so the best way to explain
+that those surprise acceptances
+
+00:41:35.960 --> 00:41:39.560 align:middle line:84%
+and yet the high demands being
+made for the high q papers
+
+00:41:39.560 --> 00:41:42.200 align:middle line:84%
+are tilting the line
+and thinking r quality
+
+00:41:42.200 --> 00:41:44.070 align:middle line:84%
+is a little bit more
+important than I am.
+
+00:41:44.070 --> 00:41:45.570 align:middle line:84%
+And so we end up
+with this situation
+
+00:41:45.570 --> 00:41:49.760 align:middle line:84%
+where just perpetually, everyone
+always is holding people
+
+00:41:49.760 --> 00:41:53.617 align:middle line:84%
+to standards that are slightly
+too high, and then slightly
+
+00:41:53.617 --> 00:41:55.700 align:middle line:84%
+twisting their views to
+think about the importance
+
+00:41:55.700 --> 00:41:58.610 align:middle line:84%
+of craftsmanship versus
+the importance of ideas.
+
+00:41:58.610 --> 00:42:03.540 align:middle line:84%
+And this graph
+shows you-- if you
+
+00:42:03.540 --> 00:42:06.570 align:middle line:84%
+think of this as the
+set of social norms
+
+00:42:06.570 --> 00:42:08.910 align:middle line:84%
+that would all be consistent
+with alpha on this axis
+
+00:42:08.910 --> 00:42:11.880 align:middle line:84%
+and z on this axis, we're
+always staying slightly
+
+00:42:11.880 --> 00:42:16.300 align:middle line:90%
+above that set of social norms.
+
+00:42:16.300 --> 00:42:18.000 align:middle line:84%
+And then this
+dynamics of this model
+
+00:42:18.000 --> 00:42:19.860 align:middle line:84%
+would just slowly drift
+and drift and drift
+
+00:42:19.860 --> 00:42:20.980 align:middle line:90%
+and drift and drift.
+
+00:42:20.980 --> 00:42:23.400 align:middle line:90%
+And the argument is that--
+
+00:42:23.400 --> 00:42:26.610 align:middle line:84%
+I'm going to argue that this
+was a 30-year disequilibrium
+
+00:42:26.610 --> 00:42:27.220 align:middle line:90%
+process.
+
+00:42:27.220 --> 00:42:29.290 align:middle line:84%
+For 30 years, we've
+been out of equilibrium.
+
+00:42:29.290 --> 00:42:32.160 align:middle line:84%
+Referees are always
+slightly too high.
+
+00:42:32.160 --> 00:42:34.410 align:middle line:84%
+I'm just trying to
+reconcile the difference
+
+00:42:34.410 --> 00:42:37.230 align:middle line:84%
+in their mind between the
+slightly too high standards they
+
+00:42:37.230 --> 00:42:39.777 align:middle line:84%
+think are being applied with
+the acceptances they see.
+
+00:42:39.777 --> 00:42:42.360 align:middle line:84%
+They just keep thinking that it
+must be the craftsmanship that
+
+00:42:42.360 --> 00:42:43.173 align:middle line:90%
+got that one in.
+
+00:42:43.173 --> 00:42:45.090 align:middle line:84%
+And then they keep just
+changing their beliefs
+
+00:42:45.090 --> 00:42:46.900 align:middle line:84%
+about the importance
+of craftsmanship.
+
+00:42:46.900 --> 00:42:51.420 align:middle line:90%
+
+
+00:42:51.420 --> 00:42:53.240 align:middle line:90%
+Any questions there?
+
+00:42:53.240 --> 00:42:55.250 align:middle line:84%
+So again, the
+rule-of-thumb approach
+
+00:42:55.250 --> 00:42:58.970 align:middle line:84%
+here is just I'm trying to
+say what the referees do.
+
+00:42:58.970 --> 00:43:03.320 align:middle line:84%
+And I've actually-- some chance
+I will rewrite this paper doing
+
+00:43:03.320 --> 00:43:04.820 align:middle line:84%
+the fully Bayesian
+version, which
+
+00:43:04.820 --> 00:43:07.520 align:middle line:84%
+I think there's been big
+advances in Bayesian learning
+
+00:43:07.520 --> 00:43:11.120 align:middle line:84%
+with misspecified priors
+in the last 20 years,
+
+00:43:11.120 --> 00:43:13.460 align:middle line:84%
+where I think maybe now I
+could solve this Bayesian
+
+00:43:13.460 --> 00:43:16.220 align:middle line:84%
+model with misspecified priors
+and show that kind of what
+
+00:43:16.220 --> 00:43:19.100 align:middle line:84%
+I say happens here, happens
+in a fully Bayesian model
+
+00:43:19.100 --> 00:43:20.258 align:middle line:90%
+with misspecified priors.
+
+00:43:20.258 --> 00:43:22.550 align:middle line:84%
+But I think that the idea of
+the rule-of-thumb approach
+
+00:43:22.550 --> 00:43:26.132 align:middle line:84%
+is just to say, think about
+what you think people would do.
+
+00:43:26.132 --> 00:43:28.590 align:middle line:84%
+Think about what you think they
+would do that's reasonable.
+
+00:43:28.590 --> 00:43:29.882 align:middle line:90%
+I don't think it's reasonable--
+
+00:43:29.882 --> 00:43:32.372 align:middle line:84%
+I think it seems like
+referees are fairly naive,
+
+00:43:32.372 --> 00:43:34.830 align:middle line:84%
+and this is how they're trying
+to reconcile the two things.
+
+00:43:34.830 --> 00:43:35.580 align:middle line:90%
+This could happen.
+
+00:43:35.580 --> 00:43:38.420 align:middle line:84%
+And then write down a model
+that you can actually solve.
+
+00:43:38.420 --> 00:43:41.205 align:middle line:84%
+And like, why do I
+have a quadratic loss
+
+00:43:41.205 --> 00:43:43.580 align:middle line:84%
+function in one part and a
+least absolute deviations loss
+
+00:43:43.580 --> 00:43:44.455 align:middle line:90%
+function in one part?
+
+00:43:44.455 --> 00:43:47.370 align:middle line:84%
+And it's exactly because that
+was the model I could solve.
+
+00:43:47.370 --> 00:43:48.860 align:middle line:84%
+We might as well
+solve-- write down
+
+00:43:48.860 --> 00:43:54.100 align:middle line:84%
+models we can solve and
+say what we can about them.
+
+00:43:54.100 --> 00:43:56.680 align:middle line:84%
+The, let me say,
+empirics on this,
+
+00:43:56.680 --> 00:44:00.820 align:middle line:84%
+I have another kind of
+depressing paper in the JPE,
+
+00:44:00.820 --> 00:44:03.203 align:middle line:84%
+looking at how long
+it takes a paper
+
+00:44:03.203 --> 00:44:04.870 align:middle line:84%
+to get accepted from
+the time it's first
+
+00:44:04.870 --> 00:44:07.450 align:middle line:90%
+submitted historically.
+
+00:44:07.450 --> 00:44:13.300 align:middle line:84%
+And in the 1970s, papers were
+typically getting accepted
+
+00:44:13.300 --> 00:44:16.270 align:middle line:84%
+at all the top journals 6 to
+8 months after they were first
+
+00:44:16.270 --> 00:44:17.550 align:middle line:90%
+accepted.
+
+00:44:17.550 --> 00:44:20.200 align:middle line:84%
+And it's kind of remarkable
+when you realize, at the time,
+
+00:44:20.200 --> 00:44:22.780 align:middle line:84%
+the Xerox machine had
+not been invented.
+
+00:44:22.780 --> 00:44:25.640 align:middle line:84%
+And so how did
+refereeing a paper work?
+
+00:44:25.640 --> 00:44:30.850 align:middle line:84%
+You would type up two or
+three copies of your paper.
+
+00:44:30.850 --> 00:44:32.758 align:middle line:84%
+You would send-- or
+actually, in the 1960s,
+
+00:44:32.758 --> 00:44:35.050 align:middle line:84%
+you would send in a single
+draft of the manuscript that
+
+00:44:35.050 --> 00:44:36.340 align:middle line:90%
+your secretary typed.
+
+00:44:36.340 --> 00:44:38.470 align:middle line:84%
+But you would send
+the paper in--
+
+00:44:38.470 --> 00:44:41.890 align:middle line:84%
+so '60s, certainly, your
+secretary typed one copy
+
+00:44:41.890 --> 00:44:43.810 align:middle line:84%
+of the paper, you sent
+it to the journal,
+
+00:44:43.810 --> 00:44:45.620 align:middle line:90%
+they sent it to the referee.
+
+00:44:45.620 --> 00:44:48.513 align:middle line:84%
+The referee read the
+paper, made comments,
+
+00:44:48.513 --> 00:44:49.930 align:middle line:84%
+sent it back to
+the journal office
+
+00:44:49.930 --> 00:44:51.800 align:middle line:90%
+because that was the only copy.
+
+00:44:51.800 --> 00:44:54.590 align:middle line:84%
+The journal office then sent
+the paper to a second referee.
+
+00:44:54.590 --> 00:44:56.900 align:middle line:84%
+That second referee made
+comments, sent it back
+
+00:44:56.900 --> 00:44:58.110 align:middle line:90%
+to the journal office.
+
+00:44:58.110 --> 00:45:02.575 align:middle line:84%
+The journal office made comments
+and mailed you a decision.
+
+00:45:02.575 --> 00:45:03.950 align:middle line:84%
+Somehow, at the
+time, papers were
+
+00:45:03.950 --> 00:45:07.850 align:middle line:84%
+getting published 5, 6 months
+after they were submitted.
+
+00:45:07.850 --> 00:45:10.910 align:middle line:84%
+Starting in the '70s, when
+the revise and resubmit was
+
+00:45:10.910 --> 00:45:14.180 align:middle line:84%
+invented, things just got
+longer and longer and longer
+
+00:45:14.180 --> 00:45:14.910 align:middle line:90%
+and longer.
+
+00:45:14.910 --> 00:45:18.772 align:middle line:84%
+And by the year 2000, some
+journals were averaging 2
+
+00:45:18.772 --> 00:45:21.230 align:middle line:84%
+and 1/2 years from the time a
+paper was submitted to get it
+
+00:45:21.230 --> 00:45:24.990 align:middle line:84%
+published, some were averaging
+two years, and so on.
+
+00:45:24.990 --> 00:45:30.253 align:middle line:84%
+And this is the time that's
+conditional on a good outcome.
+
+00:45:30.253 --> 00:45:31.670 align:middle line:84%
+The way the process
+tends to work,
+
+00:45:31.670 --> 00:45:36.120 align:middle line:84%
+though, is the top journals
+have a 96% rejection rate.
+
+00:45:36.120 --> 00:45:38.902 align:middle line:84%
+So you send it to journal
+one, they screw around with it
+
+00:45:38.902 --> 00:45:40.860 align:middle line:84%
+for a year and a half,
+and then they reject it.
+
+00:45:40.860 --> 00:45:42.110 align:middle line:84%
+And then the second
+one, and then they
+
+00:45:42.110 --> 00:45:44.100 align:middle line:84%
+mess around with it for six
+months, and they reject it.
+
+00:45:44.100 --> 00:45:46.170 align:middle line:84%
+And the third one, it's a
+year, and then they reject it.
+
+00:45:46.170 --> 00:45:47.545 align:middle line:84%
+And then finally,
+you get someone
+
+00:45:47.545 --> 00:45:50.360 align:middle line:84%
+to spend three years revising
+it before they then--
+
+00:45:50.360 --> 00:45:52.310 align:middle line:84%
+two or three years, and
+then they publish it.
+
+00:45:52.310 --> 00:45:55.670 align:middle line:84%
+So actually, I have this
+very depressing statistic
+
+00:45:55.670 --> 00:45:59.450 align:middle line:84%
+that if you look at the
+absolute stars on the IO market
+
+00:45:59.450 --> 00:46:03.380 align:middle line:84%
+who do empirical IO and how long
+it takes them to get their job
+
+00:46:03.380 --> 00:46:06.650 align:middle line:84%
+market papers published,
+the median time is now
+
+00:46:06.650 --> 00:46:10.430 align:middle line:84%
+7 years, which, you
+know, it's a long time,
+
+00:46:10.430 --> 00:46:12.920 align:middle line:84%
+because then you spent also
+three years writing that paper
+
+00:46:12.920 --> 00:46:15.540 align:middle line:84%
+before you first
+graduated from school.
+
+00:46:15.540 --> 00:46:16.760 align:middle line:90%
+So.
+
+00:46:16.760 --> 00:46:19.915 align:middle line:84%
+Anyway, I hope
+future generations
+
+00:46:19.915 --> 00:46:22.290 align:middle line:84%
+will recognize what they're
+doing and solve this problem.
+
+00:46:22.290 --> 00:46:26.750 align:middle line:84%
+And I've made some attempts
+with limited success.
+
+00:46:26.750 --> 00:46:29.210 align:middle line:90%
+Any questions?
+
+00:46:29.210 --> 00:46:29.770 align:middle line:90%
+Yeah.
+
+00:46:29.770 --> 00:46:31.520 align:middle line:84%
+AUDIENCE: How important
+is it in the model
+
+00:46:31.520 --> 00:46:33.380 align:middle line:84%
+that the authors
+perfectly observe
+
+00:46:33.380 --> 00:46:36.320 align:middle line:90%
+the quality of their ideas?
+
+00:46:36.320 --> 00:46:38.798 align:middle line:84%
+GLENN ELLISON: So I don't
+think it's at all important.
+
+00:46:38.798 --> 00:46:40.340 align:middle line:84%
+I think what's going
+on is I'm having
+
+00:46:40.340 --> 00:46:49.200 align:middle line:84%
+the authors do this sort of
+least squares fit of this.
+
+00:46:49.200 --> 00:46:51.260 align:middle line:84%
+So they're being asked
+to do-- every time
+
+00:46:51.260 --> 00:46:54.590 align:middle line:84%
+you submit a paper with quality
+q, you're being asked to r of q.
+
+00:46:54.590 --> 00:46:58.890 align:middle line:84%
+And you just fit a least
+squares line to that.
+
+00:46:58.890 --> 00:47:01.166 align:middle line:90%
+So if there was sort of--
+
+00:47:01.166 --> 00:47:06.230 align:middle line:84%
+if your paper qualities were
+like this, fitting a line to it,
+
+00:47:06.230 --> 00:47:08.720 align:middle line:84%
+I think, would do
+roughly the same thing.
+
+00:47:08.720 --> 00:47:12.740 align:middle line:84%
+What's important is the argument
+that the very high quality
+
+00:47:12.740 --> 00:47:14.450 align:middle line:84%
+papers, you're
+asked to do a lot,
+
+00:47:14.450 --> 00:47:16.520 align:middle line:84%
+and they do all get
+accepted because you
+
+00:47:16.520 --> 00:47:19.010 align:middle line:90%
+do what you're being asked.
+
+00:47:19.010 --> 00:47:21.170 align:middle line:84%
+And the low quality
+ones are the ones
+
+00:47:21.170 --> 00:47:24.480 align:middle line:84%
+that get in not doing
+what they were asked.
+
+00:47:24.480 --> 00:47:26.852 align:middle line:84%
+So the high quality
+ones don't get
+
+00:47:26.852 --> 00:47:29.060 align:middle line:84%
+in not doing what they were
+asked because they always
+
+00:47:29.060 --> 00:47:30.780 align:middle line:90%
+do what they were asked enough.
+
+00:47:30.780 --> 00:47:33.050 align:middle line:90%
+That's, I think, the main thing.
+
+00:47:33.050 --> 00:47:35.750 align:middle line:84%
+But the randomness I
+don't think would affect--
+
+00:47:35.750 --> 00:47:38.300 align:middle line:84%
+on either one
+shouldn't affect it.
+
+00:47:38.300 --> 00:47:41.150 align:middle line:84%
+Let me say, advertising
+is not something
+
+00:47:41.150 --> 00:47:44.810 align:middle line:84%
+I can do any-- do
+justice in this paper.
+
+00:47:44.810 --> 00:47:46.448 align:middle line:84%
+There is a field
+called marketing.
+
+00:47:46.448 --> 00:47:48.740 align:middle line:84%
+I don't know if any of you
+are from the Sloan Marketing
+
+00:47:48.740 --> 00:47:51.140 align:middle line:84%
+Department, but most
+business schools
+
+00:47:51.140 --> 00:47:52.500 align:middle line:90%
+have marketing departments.
+
+00:47:52.500 --> 00:47:55.153 align:middle line:84%
+Marketing departments have
+lots and lots of professors.
+
+00:47:55.153 --> 00:47:57.070 align:middle line:84%
+There are like a thousand
+marketing professors
+
+00:47:57.070 --> 00:47:58.130 align:middle line:90%
+in the United States.
+
+00:47:58.130 --> 00:47:59.830 align:middle line:84%
+There are many, many
+marketing journals,
+
+00:47:59.830 --> 00:48:01.610 align:middle line:84%
+just like there are
+economics journals.
+
+00:48:01.610 --> 00:48:04.370 align:middle line:84%
+Those marketing journals
+are full of papers.
+
+00:48:04.370 --> 00:48:07.840 align:middle line:84%
+And obviously, people in
+marketing do advertising.
+
+00:48:07.840 --> 00:48:09.910 align:middle line:84%
+They teach entire--
+all of their courses
+
+00:48:09.910 --> 00:48:12.810 align:middle line:84%
+are entirely marketing, not one
+week of my class or something
+
+00:48:12.810 --> 00:48:13.310 align:middle line:90%
+like that.
+
+00:48:13.310 --> 00:48:16.930 align:middle line:84%
+So there's an enormous
+literature out there.
+
+00:48:16.930 --> 00:48:19.480 align:middle line:90%
+Marketing is a field where--
+
+00:48:19.480 --> 00:48:22.670 align:middle line:84%
+I put here influences
+on marketing.
+
+00:48:22.670 --> 00:48:25.000 align:middle line:84%
+So if you look at what's
+being cited by marketing
+
+00:48:25.000 --> 00:48:28.305 align:middle line:90%
+papers, the largest--
+
+00:48:28.305 --> 00:48:30.680 align:middle line:84%
+well, obviously, mostly they
+cite other marketing papers.
+
+00:48:30.680 --> 00:48:33.970 align:middle line:84%
+So this is, what non-business
+things are they citing?
+
+00:48:33.970 --> 00:48:36.040 align:middle line:84%
+They do cite a lot
+of psychology papers,
+
+00:48:36.040 --> 00:48:39.370 align:middle line:84%
+and there's been of a rise of
+psychology in marketing over
+
+00:48:39.370 --> 00:48:43.210 align:middle line:84%
+the last 40-year time span,
+where people in marketing are
+
+00:48:43.210 --> 00:48:46.330 align:middle line:84%
+paying more and more attention
+to what psychologists are saying
+
+00:48:46.330 --> 00:48:48.200 align:middle line:84%
+and citing what
+psychologists are saying.
+
+00:48:48.200 --> 00:48:50.350 align:middle line:84%
+There's also been
+an increasing trend
+
+00:48:50.350 --> 00:48:52.880 align:middle line:84%
+in citing what
+economists are doing.
+
+00:48:52.880 --> 00:48:57.040 align:middle line:84%
+And so now it's 6% of the
+citations in marketing papers
+
+00:48:57.040 --> 00:48:59.780 align:middle line:84%
+are to economics papers, rather
+than to marketing papers.
+
+00:48:59.780 --> 00:49:02.540 align:middle line:84%
+So there's a
+substantial influence
+
+00:49:02.540 --> 00:49:04.170 align:middle line:90%
+of economics on marketing.
+
+00:49:04.170 --> 00:49:06.980 align:middle line:84%
+And if you look at what within
+economics are marketing people
+
+00:49:06.980 --> 00:49:10.400 align:middle line:84%
+citing, IO, which is
+the yellow line here,
+
+00:49:10.400 --> 00:49:12.630 align:middle line:84%
+is a big part of what's
+going on in marketing.
+
+00:49:12.630 --> 00:49:13.522 align:middle line:90%
+And so there's just--
+
+00:49:13.522 --> 00:49:15.980 align:middle line:84%
+there are marketing papers that
+look like psychology papers
+
+00:49:15.980 --> 00:49:17.563 align:middle line:84%
+or look very different
+from economics.
+
+00:49:17.563 --> 00:49:19.340 align:middle line:84%
+But there are a lot
+of marketing papers
+
+00:49:19.340 --> 00:49:21.980 align:middle line:84%
+that look like IO theory
+papers and that look
+
+00:49:21.980 --> 00:49:23.550 align:middle line:90%
+like empirical IO papers.
+
+00:49:23.550 --> 00:49:27.050 align:middle line:84%
+So they're just-- marketing
+people write all about the way
+
+00:49:27.050 --> 00:49:31.130 align:middle line:84%
+that firms can price or make
+their products appealing
+
+00:49:31.130 --> 00:49:32.220 align:middle line:90%
+to customers.
+
+00:49:32.220 --> 00:49:35.720 align:middle line:84%
+And they write a lot about
+empirical demand estimation
+
+00:49:35.720 --> 00:49:38.820 align:middle line:84%
+and how advertising campaigns
+affect demand and so on.
+
+00:49:38.820 --> 00:49:42.025 align:middle line:84%
+And both of those parts
+look a lot like IO.
+
+00:49:42.025 --> 00:49:43.400 align:middle line:84%
+So what I'm going
+to do today is,
+
+00:49:43.400 --> 00:49:45.980 align:middle line:84%
+today, I'm just going to
+do a few classic models
+
+00:49:45.980 --> 00:49:47.450 align:middle line:90%
+of advertising.
+
+00:49:47.450 --> 00:49:49.800 align:middle line:84%
+And then it's, again,
+a week from Monday,
+
+00:49:49.800 --> 00:49:54.160 align:middle line:84%
+I'm going to do some
+empirics on advertising.
+
+00:49:54.160 --> 00:49:56.410 align:middle line:90%
+So models of advertising.
+
+00:49:56.410 --> 00:49:58.210 align:middle line:84%
+Generally, I think
+you can see the way
+
+00:49:58.210 --> 00:50:03.880 align:middle line:84%
+people in the economics
+literature break down three
+
+00:50:03.880 --> 00:50:04.780 align:middle line:90%
+different--
+
+00:50:04.780 --> 00:50:06.625 align:middle line:84%
+obviously, to
+explain advertising,
+
+00:50:06.625 --> 00:50:08.500 align:middle line:84%
+you've got to say, why
+is it that advertising
+
+00:50:08.500 --> 00:50:10.070 align:middle line:90%
+changes what people purchase?
+
+00:50:10.070 --> 00:50:12.370 align:middle line:84%
+If you start with our
+basic model of consumers
+
+00:50:12.370 --> 00:50:15.160 align:middle line:90%
+have preferences ui jt.
+
+00:50:15.160 --> 00:50:18.250 align:middle line:84%
+If they buy product
+j at time t and it's
+
+00:50:18.250 --> 00:50:22.450 align:middle line:84%
+xjt beta minus alpha pjt
+and they buy the best thing,
+
+00:50:22.450 --> 00:50:26.195 align:middle line:84%
+then what does an advertisement
+do if it doesn't change your--
+
+00:50:26.195 --> 00:50:27.820 align:middle line:84%
+if that's your utility
+function, you're
+
+00:50:27.820 --> 00:50:29.158 align:middle line:90%
+always maximizing your utility.
+
+00:50:29.158 --> 00:50:30.700 align:middle line:84%
+Advertising shouldn't
+affect anything
+
+00:50:30.700 --> 00:50:32.260 align:middle line:90%
+that goes on in the world.
+
+00:50:32.260 --> 00:50:34.510 align:middle line:84%
+And yet we see firms
+spend lots and lots
+
+00:50:34.510 --> 00:50:35.690 align:middle line:90%
+of money on advertising.
+
+00:50:35.690 --> 00:50:39.640 align:middle line:84%
+It must be advertising changes
+behavior or changes something
+
+00:50:39.640 --> 00:50:40.970 align:middle line:90%
+that increases profits.
+
+00:50:40.970 --> 00:50:42.490 align:middle line:90%
+What is it?
+
+00:50:42.490 --> 00:50:46.000 align:middle line:84%
+One thing, one class of
+models is advertising
+
+00:50:46.000 --> 00:50:48.010 align:middle line:90%
+can have informational content.
+
+00:50:48.010 --> 00:50:51.550 align:middle line:84%
+It can tell you that
+a product exists,
+
+00:50:51.550 --> 00:50:53.200 align:middle line:84%
+what the product's
+price is, what
+
+00:50:53.200 --> 00:50:55.050 align:middle line:90%
+the product's attributes are.
+
+00:50:55.050 --> 00:50:57.055 align:middle line:84%
+But in some sense, it's
+like a search model.
+
+00:50:57.055 --> 00:50:59.180 align:middle line:84%
+You don't know everything,
+but then the advertising
+
+00:50:59.180 --> 00:51:01.160 align:middle line:84%
+tells you things that
+you would otherwise
+
+00:51:01.160 --> 00:51:05.090 align:middle line:84%
+have to invest search
+effort in figuring out,
+
+00:51:05.090 --> 00:51:07.730 align:middle line:84%
+and that increases the number
+of people who buy the product.
+
+00:51:07.730 --> 00:51:11.630 align:middle line:90%
+And classic examples like this.
+
+00:51:11.630 --> 00:51:12.870 align:middle line:90%
+Informative advertising.
+
+00:51:12.870 --> 00:51:16.680 align:middle line:84%
+You just get an ad in the mail
+or in your newspaper for Target.
+
+00:51:16.680 --> 00:51:18.650 align:middle line:84%
+And the advertisement
+for Target tells you
+
+00:51:18.650 --> 00:51:23.300 align:middle line:84%
+you can get these boots for $10
+and those jackets for $15 or $20
+
+00:51:23.300 --> 00:51:25.430 align:middle line:90%
+and these clothes for $4 or $5.
+
+00:51:25.430 --> 00:51:26.930 align:middle line:84%
+They show you the
+pictures of things
+
+00:51:26.930 --> 00:51:29.760 align:middle line:84%
+to tell you what Target is
+selling and what it costs.
+
+00:51:29.760 --> 00:51:33.680 align:middle line:84%
+And this would be
+informative advertising.
+
+00:51:33.680 --> 00:51:35.990 align:middle line:84%
+A second thing that
+advertising can do
+
+00:51:35.990 --> 00:51:39.410 align:middle line:84%
+is not necessarily tell you
+anything about the product
+
+00:51:39.410 --> 00:51:44.360 align:middle line:84%
+itself, but just signal to you
+something about the quality.
+
+00:51:44.360 --> 00:51:46.840 align:middle line:84%
+So for instance, let me
+look at these two ads.
+
+00:51:46.840 --> 00:51:51.440 align:middle line:84%
+You guys are probably all too
+young to remember pets.com.
+
+00:51:51.440 --> 00:51:53.300 align:middle line:84%
+Pets.com in the
+first internet boom--
+
+00:51:53.300 --> 00:51:55.640 align:middle line:84%
+just like when there
+was amazon.com,
+
+00:51:55.640 --> 00:51:58.700 align:middle line:84%
+pets.com started up
+around the same time.
+
+00:51:58.700 --> 00:52:02.780 align:middle line:84%
+Pets.com, just a
+miraculous rise and fall
+
+00:52:02.780 --> 00:52:05.450 align:middle line:84%
+of a company in the
+space of a year or two,
+
+00:52:05.450 --> 00:52:08.612 align:middle line:84%
+where pets.com just
+burned through hundreds
+
+00:52:08.612 --> 00:52:09.570 align:middle line:90%
+of millions of dollars.
+
+00:52:09.570 --> 00:52:10.790 align:middle line:90%
+They had this sock puppet.
+
+00:52:10.790 --> 00:52:13.160 align:middle line:84%
+And they put the sock
+puppet on the Super Bowl
+
+00:52:13.160 --> 00:52:16.160 align:middle line:84%
+and spent millions of dollars
+just having the sock puppet
+
+00:52:16.160 --> 00:52:17.930 align:middle line:90%
+just appear on the Super Bowl.
+
+00:52:17.930 --> 00:52:20.660 align:middle line:84%
+The sock puppet did not
+tell you anything about--
+
+00:52:20.660 --> 00:52:21.870 align:middle line:90%
+obviously, what is pets.com?
+
+00:52:21.870 --> 00:52:23.550 align:middle line:90%
+They sell stuff for pets.
+
+00:52:23.550 --> 00:52:25.620 align:middle line:84%
+You know what's
+in a Petco store.
+
+00:52:25.620 --> 00:52:28.460 align:middle line:84%
+You probably know
+what's on pets.com.
+
+00:52:28.460 --> 00:52:30.170 align:middle line:84%
+But the sock puppet,
+in some sense,
+
+00:52:30.170 --> 00:52:33.830 align:middle line:84%
+maybe was sort of saying
+that, wow, they just spent
+
+00:52:33.830 --> 00:52:38.000 align:middle line:84%
+$2.4 million to have the
+sock puppet just interviewing
+
+00:52:38.000 --> 00:52:40.160 align:middle line:90%
+somebody during the Super Bowl.
+
+00:52:40.160 --> 00:52:42.660 align:middle line:84%
+It must be they think
+they have a good product.
+
+00:52:42.660 --> 00:52:44.180 align:middle line:84%
+And if I actually
+go to pets.com,
+
+00:52:44.180 --> 00:52:45.950 align:middle line:84%
+I'll buy stuff
+because otherwise,
+
+00:52:45.950 --> 00:52:48.110 align:middle line:84%
+how could they have
+burned through $2 million
+
+00:52:48.110 --> 00:52:49.920 align:middle line:90%
+in 30 seconds like that?
+
+00:52:49.920 --> 00:52:52.287 align:middle line:84%
+And so you get this
+sort of signaling idea.
+
+00:52:52.287 --> 00:52:53.870 align:middle line:84%
+I would say the same
+thing about-- you
+
+00:52:53.870 --> 00:52:56.960 align:middle line:90%
+look at the Patagonia ad here.
+
+00:52:56.960 --> 00:52:59.210 align:middle line:90%
+Again, I don't know.
+
+00:52:59.210 --> 00:53:01.670 align:middle line:84%
+I mean, maybe it's
+all Photoshopped,
+
+00:53:01.670 --> 00:53:04.940 align:middle line:84%
+but it must have been expensive
+to send some guy with a camera
+
+00:53:04.940 --> 00:53:08.240 align:middle line:84%
+up to the top of some mountain
+wearing those Patagonia stuff
+
+00:53:08.240 --> 00:53:09.660 align:middle line:90%
+and taking the pictures.
+
+00:53:09.660 --> 00:53:13.798 align:middle line:84%
+And it must be that their
+clothing-- either this person
+
+00:53:13.798 --> 00:53:16.340 align:middle line:84%
+is really not uncomfortable up
+there on that mountain wearing
+
+00:53:16.340 --> 00:53:18.410 align:middle line:84%
+the Patagonia stuff and
+so the clothing is good,
+
+00:53:18.410 --> 00:53:20.240 align:middle line:84%
+or they're just
+spending a lot of money
+
+00:53:20.240 --> 00:53:23.300 align:middle line:84%
+on the ads because they know
+that if I bought the clothing,
+
+00:53:23.300 --> 00:53:25.380 align:middle line:84%
+I would like it or
+something like that.
+
+00:53:25.380 --> 00:53:28.550 align:middle line:84%
+And then I guess the third thing
+we think about advertising is
+
+00:53:28.550 --> 00:53:30.920 align:middle line:84%
+advertising can be
+changing your preferences
+
+00:53:30.920 --> 00:53:33.230 align:middle line:84%
+or directly affecting
+purchase decisions
+
+00:53:33.230 --> 00:53:34.530 align:middle line:90%
+of non-rational things.
+
+00:53:34.530 --> 00:53:37.740 align:middle line:84%
+So if I look at this
+commercial, "Let's Grab a Beer."
+
+00:53:37.740 --> 00:53:41.510 align:middle line:84%
+And those people are having
+just a great time having those
+
+00:53:41.510 --> 00:53:45.470 align:middle line:84%
+beers outdoors at some
+thing, and they're all
+
+00:53:45.470 --> 00:53:48.230 align:middle line:84%
+relatively attractive or
+whatever, it must be I
+
+00:53:48.230 --> 00:53:52.250 align:middle line:84%
+think that somehow, if only
+I was having that beer,
+
+00:53:52.250 --> 00:53:53.930 align:middle line:84%
+my life would be
+like that instead
+
+00:53:53.930 --> 00:53:55.680 align:middle line:90%
+of what my life is like today.
+
+00:53:55.680 --> 00:53:59.880 align:middle line:84%
+And I would like
+to be those people.
+
+00:53:59.880 --> 00:54:05.420 align:middle line:84%
+And somehow, if I just had that
+beer, this is me, or something.
+
+00:54:05.420 --> 00:54:09.290 align:middle line:84%
+It changes your
+preferences from being
+
+00:54:09.290 --> 00:54:11.320 align:middle line:84%
+a person who wants to
+work on a problem set
+
+00:54:11.320 --> 00:54:13.820 align:middle line:84%
+to being a person who wants to
+be out on the street drinking
+
+00:54:13.820 --> 00:54:14.340 align:middle line:90%
+beer.
+
+00:54:14.340 --> 00:54:19.410 align:middle line:84%
+And your tastes change, and
+therefore your purchases change.
+
+00:54:19.410 --> 00:54:19.910 align:middle line:90%
+OK.
+
+00:54:19.910 --> 00:54:24.440 align:middle line:84%
+So how do-- let me see--
+how do I model these,
+
+00:54:24.440 --> 00:54:27.270 align:middle line:84%
+and what do we get
+out of the model?
+
+00:54:27.270 --> 00:54:31.370 align:middle line:84%
+So first classic model of
+informative advertising
+
+00:54:31.370 --> 00:54:34.250 align:middle line:90%
+is Butters, 1977.
+
+00:54:34.250 --> 00:54:40.110 align:middle line:84%
+Butters was thinking about N
+firms selling identical goods.
+
+00:54:40.110 --> 00:54:42.810 align:middle line:84%
+There's this unit mass
+of identical consumers,
+
+00:54:42.810 --> 00:54:45.060 align:middle line:84%
+and they're all going
+to get utility v minus p
+
+00:54:45.060 --> 00:54:47.970 align:middle line:84%
+if they buy this
+good at price p.
+
+00:54:47.970 --> 00:54:52.350 align:middle line:84%
+All the firms have some
+cost c of production.
+
+00:54:52.350 --> 00:54:58.290 align:middle line:84%
+And this is a problem where
+the consumers don't know either
+
+00:54:58.290 --> 00:55:01.320 align:middle line:84%
+that the product exists or
+where they would buy it.
+
+00:55:01.320 --> 00:55:05.670 align:middle line:84%
+So what the firms can do is
+they can spend amount of money--
+
+00:55:05.670 --> 00:55:09.030 align:middle line:84%
+so if they spend A
+of x on advertising,
+
+00:55:09.030 --> 00:55:13.560 align:middle line:84%
+their ads will reach a
+fraction x of consumers.
+
+00:55:13.560 --> 00:55:17.520 align:middle line:84%
+So it's, I guess, good to think
+about this as putting ads out
+
+00:55:17.520 --> 00:55:20.470 align:middle line:84%
+there on the radio
+or print airwaves.
+
+00:55:20.470 --> 00:55:23.310 align:middle line:84%
+And just every ad
+you put out there,
+
+00:55:23.310 --> 00:55:24.940 align:middle line:84%
+you're going to
+hit more consumers.
+
+00:55:24.940 --> 00:55:28.500 align:middle line:84%
+There's decreasing returns
+because the first ads
+
+00:55:28.500 --> 00:55:30.340 align:middle line:90%
+I send out all hit somebody.
+
+00:55:30.340 --> 00:55:35.160 align:middle line:84%
+But then the later
+ads that I send out
+
+00:55:35.160 --> 00:55:37.810 align:middle line:84%
+are mostly hitting people who
+already heard about my product.
+
+00:55:37.810 --> 00:55:39.840 align:middle line:84%
+And so by having them
+hear about my product,
+
+00:55:39.840 --> 00:55:44.320 align:middle line:84%
+I'm just wasting duplicated
+messages on them.
+
+00:55:44.320 --> 00:55:46.000 align:middle line:84%
+And so I'm sending
+out these messages.
+
+00:55:46.000 --> 00:55:47.910 align:middle line:84%
+And the more people
+I want to reach,
+
+00:55:47.910 --> 00:55:50.425 align:middle line:84%
+the higher is the
+A of x, the money
+
+00:55:50.425 --> 00:55:51.550 align:middle line:90%
+I'm going to have to spend.
+
+00:55:51.550 --> 00:55:53.653 align:middle line:84%
+And it could be that even
+getting to x equals 1.
+
+00:55:53.653 --> 00:55:55.570 align:middle line:84%
+This thing could almost
+asymptote to infinity.
+
+00:55:55.570 --> 00:55:59.370 align:middle line:84%
+If I'm trying to reach every
+person in the world, it's hard.
+
+00:55:59.370 --> 00:56:02.280 align:middle line:84%
+And so they consider a game
+where firms simultaneously
+
+00:56:02.280 --> 00:56:04.350 align:middle line:84%
+choose two things, the
+amount of advertising
+
+00:56:04.350 --> 00:56:07.930 align:middle line:84%
+x they're going to do,
+and the price is p.
+
+00:56:07.930 --> 00:56:11.290 align:middle line:84%
+And then consumers who
+buy at least one ad
+
+00:56:11.290 --> 00:56:14.980 align:middle line:84%
+buy from the cheapest firm
+that they heard about.
+
+00:56:14.980 --> 00:56:16.550 align:middle line:84%
+And again, the
+goods are identical.
+
+00:56:16.550 --> 00:56:19.900 align:middle line:84%
+So it's just, if v
+minus pj is positive,
+
+00:56:19.900 --> 00:56:24.270 align:middle line:84%
+then I'll buy it from the
+cheapest firm I found out there.
+
+00:56:24.270 --> 00:56:27.800 align:middle line:90%
+
+
+00:56:27.800 --> 00:56:33.470 align:middle line:84%
+And if I don't hear about a
+firm, I can't buy from them.
+
+00:56:33.470 --> 00:56:35.030 align:middle line:84%
+This could be a good
+model for things
+
+00:56:35.030 --> 00:56:36.962 align:middle line:84%
+advertised through
+infomercials on TV also,
+
+00:56:36.962 --> 00:56:37.920 align:middle line:90%
+or something like that.
+
+00:56:37.920 --> 00:56:39.560 align:middle line:84%
+It's like, if you
+see the infomercial,
+
+00:56:39.560 --> 00:56:43.420 align:middle line:84%
+you can then buy the product
+and write down the phone number.
+
+00:56:43.420 --> 00:56:43.920 align:middle line:90%
+OK.
+
+00:56:43.920 --> 00:56:45.290 align:middle line:90%
+Observations.
+
+00:56:45.290 --> 00:56:47.720 align:middle line:84%
+Again, this was one
+of the early papers
+
+00:56:47.720 --> 00:56:50.060 align:middle line:84%
+that had an equilibrium
+with price dispersion.
+
+00:56:50.060 --> 00:56:52.770 align:middle line:84%
+This is like the Spiegler
+paper I talked about earlier.
+
+00:56:52.770 --> 00:56:55.490 align:middle line:84%
+This is like Stahl
+from a few weeks ago.
+
+00:56:55.490 --> 00:56:58.930 align:middle line:84%
+Again, some consumers are
+going to only get one ad.
+
+00:56:58.930 --> 00:57:01.430 align:middle line:84%
+If the consumer only got your
+ad and nobody else's, then you
+
+00:57:01.430 --> 00:57:05.840 align:middle line:84%
+want to set p equals v, but
+if they've got multiple ads,
+
+00:57:05.840 --> 00:57:08.840 align:middle line:84%
+we're again in this situation
+where, in equilibrium, we're
+
+00:57:08.840 --> 00:57:10.670 align:middle line:84%
+going to get some
+distribution on prices
+
+00:57:10.670 --> 00:57:14.000 align:middle line:84%
+that has an upper bound of v
+and then goes down from there.
+
+00:57:14.000 --> 00:57:17.600 align:middle line:84%
+And it's just determined
+by, I want to undercut,
+
+00:57:17.600 --> 00:57:22.070 align:middle line:84%
+but if they only see one ad,
+I'd like to be the highest--
+
+00:57:22.070 --> 00:57:24.590 align:middle line:84%
+I'd like to set at price
+equals v. But then they
+
+00:57:24.590 --> 00:57:28.130 align:middle line:84%
+might see two or three or four
+or five ads, and so I undercut.
+
+00:57:28.130 --> 00:57:30.660 align:middle line:84%
+We get this mixed strategy
+pricing equilibrium.
+
+00:57:30.660 --> 00:57:33.950 align:middle line:90%
+
+
+00:57:33.950 --> 00:57:36.260 align:middle line:90%
+Advertising levels.
+
+00:57:36.260 --> 00:57:41.310 align:middle line:84%
+A prime of 0 is small and
+A prime of 1 is really big.
+
+00:57:41.310 --> 00:57:44.930 align:middle line:84%
+So if I make it even more
+stark, if this thing starts out
+
+00:57:44.930 --> 00:57:47.660 align:middle line:84%
+like in advertising, the
+first people is really cheap,
+
+00:57:47.660 --> 00:57:50.160 align:middle line:84%
+and then reaching the last
+people is really expensive,
+
+00:57:50.160 --> 00:57:54.320 align:middle line:84%
+there's going to be some
+internal level x star
+
+00:57:54.320 --> 00:57:56.360 align:middle line:90%
+of advertising that I pick.
+
+00:57:56.360 --> 00:57:58.340 align:middle line:84%
+And I'm going to
+pick it x star so
+
+00:57:58.340 --> 00:58:00.740 align:middle line:84%
+that the marginal cost of
+reaching one more consumer
+
+00:58:00.740 --> 00:58:05.600 align:middle line:84%
+equals the marginal profit I get
+off the last consumer I reach.
+
+00:58:05.600 --> 00:58:07.940 align:middle line:84%
+So the first order
+condition is going
+
+00:58:07.940 --> 00:58:12.860 align:middle line:84%
+to be the profit on the
+marginal consumer reached
+
+00:58:12.860 --> 00:58:16.080 align:middle line:84%
+equals the cost of the
+marginal consumer reached.
+
+00:58:16.080 --> 00:58:18.700 align:middle line:90%
+OK?
+
+00:58:18.700 --> 00:58:20.620 align:middle line:84%
+Interesting observation
+that Butters
+
+00:58:20.620 --> 00:58:25.660 align:middle line:84%
+has is that in this
+model, advertising levels
+
+00:58:25.660 --> 00:58:27.418 align:middle line:90%
+are socially efficient.
+
+00:58:27.418 --> 00:58:29.710 align:middle line:84%
+You might have thought this
+is like entry where there's
+
+00:58:29.710 --> 00:58:31.900 align:middle line:84%
+business stealing and
+because of business stealing,
+
+00:58:31.900 --> 00:58:33.880 align:middle line:90%
+you could have too much entry.
+
+00:58:33.880 --> 00:58:37.540 align:middle line:84%
+Or it could be because you don't
+internalize consumer surplus
+
+00:58:37.540 --> 00:58:40.330 align:middle line:84%
+gains, there could be too
+little entry or entry being
+
+00:58:40.330 --> 00:58:41.470 align:middle line:90%
+advertising.
+
+00:58:41.470 --> 00:58:44.170 align:middle line:84%
+But in this model, with
+the technologies he's got,
+
+00:58:44.170 --> 00:58:46.610 align:middle line:84%
+advertising is
+socially efficient.
+
+00:58:46.610 --> 00:58:48.160 align:middle line:90%
+And we think of that like--
+
+00:58:48.160 --> 00:58:51.190 align:middle line:84%
+it's an argument that here's a
+special case where there's not
+
+00:58:51.190 --> 00:58:53.350 align:middle line:84%
+a distortion, and the
+informative advertising
+
+00:58:53.350 --> 00:58:56.050 align:middle line:84%
+in the world should exactly
+match what a social planner
+
+00:58:56.050 --> 00:58:57.820 align:middle line:90%
+would want it to be.
+
+00:58:57.820 --> 00:58:59.410 align:middle line:90%
+And why is that?
+
+00:58:59.410 --> 00:59:04.150 align:middle line:84%
+So first order
+condition for x star
+
+00:59:04.150 --> 00:59:06.515 align:middle line:84%
+gives the marginal cost
+of reaching the consumer
+
+00:59:06.515 --> 00:59:08.140 align:middle line:84%
+equals the marginal
+benefit to the firm
+
+00:59:08.140 --> 00:59:10.150 align:middle line:90%
+of reaching the consumer.
+
+00:59:10.150 --> 00:59:14.290 align:middle line:84%
+Marginal cost of reaching the
+consumer is A prime of x star.
+
+00:59:14.290 --> 00:59:17.500 align:middle line:90%
+What's the marginal benefit?
+
+00:59:17.500 --> 00:59:20.510 align:middle line:84%
+The marginal benefit,
+I'm indifferent.
+
+00:59:20.510 --> 00:59:21.980 align:middle line:90%
+I'm mixing over these prices.
+
+00:59:21.980 --> 00:59:24.190 align:middle line:84%
+So I'm both choosing a
+pure strategy x star,
+
+00:59:24.190 --> 00:59:26.260 align:middle line:90%
+and I'm mixing over prices.
+
+00:59:26.260 --> 00:59:28.580 align:middle line:90%
+So it must be I'm indifferent.
+
+00:59:28.580 --> 00:59:31.750 align:middle line:84%
+My profits are the same
+regardless of which price
+
+00:59:31.750 --> 00:59:33.830 align:middle line:84%
+I choose from my
+price distribution.
+
+00:59:33.830 --> 00:59:35.740 align:middle line:84%
+And so my profit on
+the marginal consumer
+
+00:59:35.740 --> 00:59:37.840 align:middle line:84%
+is the same, regardless
+of which profit price
+
+00:59:37.840 --> 00:59:39.730 align:middle line:84%
+I choose from the
+price distribution.
+
+00:59:39.730 --> 00:59:43.180 align:middle line:84%
+So I'm going to evaluate
+it, looking at the case
+
+00:59:43.180 --> 00:59:45.520 align:middle line:84%
+where I set a price at the
+upper bound of the price
+
+00:59:45.520 --> 00:59:50.530 align:middle line:84%
+distribution v. So what's the
+marginal value of reaching
+
+00:59:50.530 --> 00:59:53.140 align:middle line:84%
+one more consumer when
+I set a price of v?
+
+00:59:53.140 --> 00:59:55.030 align:middle line:84%
+Well, I get v minus
+c is the profit
+
+00:59:55.030 --> 00:59:56.920 align:middle line:90%
+from selling to that consumer.
+
+00:59:56.920 --> 01:00:01.840 align:middle line:84%
+And then I get that
+multiplied by the probability
+
+01:00:01.840 --> 01:00:05.830 align:middle line:84%
+that the consumer saw no other
+ad, because when I set price v,
+
+01:00:05.830 --> 01:00:09.010 align:middle line:84%
+I sell to them only if they got
+no other ad, because if they got
+
+01:00:09.010 --> 01:00:10.930 align:middle line:84%
+any other ad, they'll
+find a lower price,
+
+01:00:10.930 --> 01:00:13.120 align:middle line:90%
+and they won't buy from me.
+
+01:00:13.120 --> 01:00:18.800 align:middle line:84%
+But this is the social
+benefit of an ad,
+
+01:00:18.800 --> 01:00:21.240 align:middle line:84%
+of reaching a consumer who's
+never been reached before.
+
+01:00:21.240 --> 01:00:23.407 align:middle line:84%
+Because if a consumer has
+never been reached before,
+
+01:00:23.407 --> 01:00:24.800 align:middle line:84%
+the social surplus
+from the firms
+
+01:00:24.800 --> 01:00:30.950 align:middle line:84%
+interacting with that consumer
+goes from 0 to v minus c.
+
+01:00:30.950 --> 01:00:37.610 align:middle line:84%
+So what we're getting is
+that the private return
+
+01:00:37.610 --> 01:00:40.550 align:middle line:84%
+to reach one more consumer
+is the social return
+
+01:00:40.550 --> 01:00:43.670 align:middle line:90%
+to reaching one more consumer.
+
+01:00:43.670 --> 01:00:46.220 align:middle line:84%
+And it's not obvious if you
+think about any other price.
+
+01:00:46.220 --> 01:00:48.290 align:middle line:84%
+When you set any
+other price, you
+
+01:00:48.290 --> 01:00:50.060 align:middle line:84%
+are doing some
+business stealing,
+
+01:00:50.060 --> 01:00:53.612 align:middle line:84%
+and you are stealing consumers
+away from other firms,
+
+01:00:53.612 --> 01:00:55.070 align:middle line:84%
+and you are increasing
+the consumer
+
+01:00:55.070 --> 01:00:56.670 align:middle line:90%
+surplus of the consumers.
+
+01:00:56.670 --> 01:01:00.500 align:middle line:84%
+But somehow, this model is such
+that those two things do exactly
+
+01:01:00.500 --> 01:01:01.790 align:middle line:90%
+offset.
+
+01:01:01.790 --> 01:01:05.605 align:middle line:84%
+And so there's no social
+inefficiency here.
+
+01:01:05.605 --> 01:01:08.430 align:middle line:90%
+
+
+01:01:08.430 --> 01:01:11.940 align:middle line:84%
+So it's at least one case where
+we don't worry about advertising
+
+01:01:11.940 --> 01:01:14.640 align:middle line:90%
+being distortionary.
+
+01:01:14.640 --> 01:01:18.600 align:middle line:84%
+And obviously,
+this is an extreme.
+
+01:01:18.600 --> 01:01:22.590 align:middle line:84%
+Butters has come up with a
+special case where this is true.
+
+01:01:22.590 --> 01:01:28.680 align:middle line:84%
+If you had the firm selling
+imperfect substitutes rather
+
+01:01:28.680 --> 01:01:32.970 align:middle line:84%
+than perfect substitutes,
+we wouldn't get this--
+
+01:01:32.970 --> 01:01:36.430 align:middle line:84%
+we could get this kind of
+mixed strategy equilibrium.
+
+01:01:36.430 --> 01:01:38.640 align:middle line:84%
+We get the kind of pure
+strategy equilibrium pricing
+
+01:01:38.640 --> 01:01:41.070 align:middle line:84%
+like we got with search,
+with differentiated goods.
+
+01:01:41.070 --> 01:01:42.810 align:middle line:84%
+You'd have the business
+stealing effects,
+
+01:01:42.810 --> 01:01:45.130 align:middle line:84%
+you'd have the consumer
+surplus effects.
+
+01:01:45.130 --> 01:01:47.125 align:middle line:84%
+But I think, in the
+entry literature,
+
+01:01:47.125 --> 01:01:48.750 align:middle line:84%
+we have this intuition
+that one of them
+
+01:01:48.750 --> 01:01:50.740 align:middle line:84%
+was often going to be
+bigger than the others.
+
+01:01:50.740 --> 01:01:52.930 align:middle line:84%
+Here, I think we don't
+have that intuition.
+
+01:01:52.930 --> 01:01:56.515 align:middle line:90%
+
+
+01:01:56.515 --> 01:01:57.015 align:middle line:90%
+OK.
+
+01:01:57.015 --> 01:02:00.170 align:middle line:90%
+
+
+01:02:00.170 --> 01:02:02.600 align:middle line:84%
+Second class of models I
+want to talk about then
+
+01:02:02.600 --> 01:02:06.080 align:middle line:84%
+is, how do we think about
+signaling models of advertising,
+
+01:02:06.080 --> 01:02:09.410 align:middle line:90%
+and when would they work?
+
+01:02:09.410 --> 01:02:12.860 align:middle line:84%
+So Milgrom and Roberts is
+your classic paper doing this
+
+01:02:12.860 --> 01:02:14.900 align:middle line:90%
+in the 1980s.
+
+01:02:14.900 --> 01:02:19.767 align:middle line:84%
+Milgrom and Roberts'
+model, all firms
+
+01:02:19.767 --> 01:02:21.350 align:middle line:84%
+that are entering
+the market, they try
+
+01:02:21.350 --> 01:02:22.790 align:middle line:90%
+to come up with some product.
+
+01:02:22.790 --> 01:02:25.540 align:middle line:90%
+They invent some quality q.
+
+01:02:25.540 --> 01:02:27.540 align:middle line:84%
+We're just going to make
+it a two-point support.
+
+01:02:27.540 --> 01:02:31.430 align:middle line:84%
+Your quality is
+either low or high.
+
+01:02:31.430 --> 01:02:33.800 align:middle line:84%
+Obviously, all the firms are
+trying to invent quality q,
+
+01:02:33.800 --> 01:02:35.830 align:middle line:84%
+but they sometimes
+come up with quality H
+
+01:02:35.830 --> 01:02:37.205 align:middle line:84%
+or sometimes come
+up with quality
+
+01:02:37.205 --> 01:02:44.115 align:middle line:84%
+L. There's some common prior
+that the consumers and the firm
+
+01:02:44.115 --> 01:02:45.990 align:middle line:84%
+have over the probability
+that the quality is
+
+01:02:45.990 --> 01:02:48.090 align:middle line:90%
+high of a new product.
+
+01:02:48.090 --> 01:02:50.730 align:middle line:84%
+The firm observes
+its own quality
+
+01:02:50.730 --> 01:02:54.390 align:middle line:84%
+and then chooses a
+price p for the product
+
+01:02:54.390 --> 01:02:58.410 align:middle line:90%
+and a level of advertising A.
+
+01:02:58.410 --> 01:03:00.930 align:middle line:84%
+Important in this
+model is consumers
+
+01:03:00.930 --> 01:03:06.480 align:middle line:84%
+observe A. The consumers observe
+that they just put that sock
+
+01:03:06.480 --> 01:03:07.630 align:middle line:90%
+puppet on the Super Bowl.
+
+01:03:07.630 --> 01:03:09.720 align:middle line:90%
+That was $2.4 million.
+
+01:03:09.720 --> 01:03:11.630 align:middle line:84%
+In some sense, this
+is what we tend
+
+01:03:11.630 --> 01:03:14.040 align:middle line:84%
+to refer to as a money
+burning theory of advertising.
+
+01:03:14.040 --> 01:03:17.970 align:middle line:84%
+It almost doesn't matter
+what they did with the money.
+
+01:03:17.970 --> 01:03:21.600 align:middle line:84%
+It's like, yeah, those guys just
+put $2.4 million in dollar bills
+
+01:03:21.600 --> 01:03:23.920 align:middle line:84%
+in a big pile and
+lit it on fire.
+
+01:03:23.920 --> 01:03:27.450 align:middle line:84%
+That proves to me
+that they must have
+
+01:03:27.450 --> 01:03:31.680 align:middle line:84%
+thought it was worth it for
+them to burn $2.4 million.
+
+01:03:31.680 --> 01:03:33.690 align:middle line:84%
+So they must be the
+type of firm that wants
+
+01:03:33.690 --> 01:03:36.720 align:middle line:90%
+to make big bonfires of money.
+
+01:03:36.720 --> 01:03:43.500 align:middle line:84%
+So anyway, consumers observe
+A. They Bayesian update
+
+01:03:43.500 --> 01:03:47.040 align:middle line:84%
+on what q is, knowing
+what different firms would
+
+01:03:47.040 --> 01:03:50.010 align:middle line:84%
+do in terms of
+burning money or not.
+
+01:03:50.010 --> 01:03:53.190 align:middle line:84%
+And so then they form a
+posterior on what q is,
+
+01:03:53.190 --> 01:03:55.440 align:middle line:90%
+and they buy the product.
+
+01:03:55.440 --> 01:03:57.023 align:middle line:84%
+And then the thought
+here is that this
+
+01:03:57.023 --> 01:03:59.148 align:middle line:84%
+is like a dynamic model,
+although they don't really
+
+01:03:59.148 --> 01:04:00.340 align:middle line:90%
+model the dynamics fully.
+
+01:04:00.340 --> 01:04:02.670 align:middle line:84%
+But then after you
+buy the product,
+
+01:04:02.670 --> 01:04:05.370 align:middle line:84%
+you learn something
+more about the quality,
+
+01:04:05.370 --> 01:04:07.590 align:middle line:84%
+and then you may buy
+the product again,
+
+01:04:07.590 --> 01:04:09.300 align:middle line:84%
+or you may buy it
+a third time, you
+
+01:04:09.300 --> 01:04:10.950 align:middle line:84%
+may continue to buy
+it for many years,
+
+01:04:10.950 --> 01:04:13.680 align:middle line:84%
+you may tell your friends
+about it, whatever.
+
+01:04:13.680 --> 01:04:17.350 align:middle line:84%
+So you observe the A. You
+decide whether to buy.
+
+01:04:17.350 --> 01:04:19.950 align:middle line:84%
+If you buy, you learn
+something about the quality.
+
+01:04:19.950 --> 01:04:24.040 align:middle line:84%
+And then there's some repeat
+purchasing going on later on.
+
+01:04:24.040 --> 01:04:25.330 align:middle line:90%
+OK.
+
+01:04:25.330 --> 01:04:28.780 align:middle line:84%
+They say, whatever's going
+on in all those later stages,
+
+01:04:28.780 --> 01:04:31.760 align:middle line:84%
+we're just going to model
+this in a reduced form way.
+
+01:04:31.760 --> 01:04:34.360 align:middle line:84%
+We're going to say that
+the profits the firm gets
+
+01:04:34.360 --> 01:04:38.770 align:middle line:84%
+are pi of p given
+q and q hat that
+
+01:04:38.770 --> 01:04:43.120 align:middle line:84%
+depend both on the true quality
+q and on the quality q hat
+
+01:04:43.120 --> 01:04:46.310 align:middle line:84%
+that consumers expect to receive
+when making purchase decisions.
+
+01:04:46.310 --> 01:04:49.450 align:middle line:84%
+And generally, profit is
+going to be increasing
+
+01:04:49.450 --> 01:04:51.760 align:middle line:90%
+in both of these arguments.
+
+01:04:51.760 --> 01:04:53.823 align:middle line:84%
+If consumers think
+your product is good,
+
+01:04:53.823 --> 01:04:55.240 align:middle line:84%
+even though it's
+not good, they're
+
+01:04:55.240 --> 01:04:56.920 align:middle line:84%
+still going to buy
+it once, and you're
+
+01:04:56.920 --> 01:04:59.170 align:middle line:84%
+going to make money from
+them thinking it's good.
+
+01:04:59.170 --> 01:05:01.120 align:middle line:84%
+But then conditional
+on how good they
+
+01:05:01.120 --> 01:05:03.320 align:middle line:84%
+think it is, what makes
+them buy it or not,
+
+01:05:03.320 --> 01:05:05.327 align:middle line:84%
+if it's actually good,
+then when they buy it,
+
+01:05:05.327 --> 01:05:06.410 align:middle line:90%
+they're going to enjoy it.
+
+01:05:06.410 --> 01:05:07.730 align:middle line:90%
+They're going to buy it again.
+
+01:05:07.730 --> 01:05:11.080 align:middle line:84%
+And so your profit's increasing
+in both the true quality q
+
+01:05:11.080 --> 01:05:14.950 align:middle line:84%
+and in q hat, which is
+their posterior on q
+
+01:05:14.950 --> 01:05:17.313 align:middle line:84%
+after you've had your
+advertising campaign
+
+01:05:17.313 --> 01:05:18.105 align:middle line:90%
+and set your price.
+
+01:05:18.105 --> 01:05:24.990 align:middle line:90%
+
+
+01:05:24.990 --> 01:05:26.320 align:middle line:90%
+Observations.
+
+01:05:26.320 --> 01:05:29.040 align:middle line:84%
+This model can have a
+separating equilibrium,
+
+01:05:29.040 --> 01:05:33.570 align:middle line:84%
+where only firms with
+high quality advertise.
+
+01:05:33.570 --> 01:05:36.240 align:middle line:84%
+So we get this
+equilibrium where you
+
+01:05:36.240 --> 01:05:40.560 align:middle line:84%
+have these two things, a low
+price and zero advertising
+
+01:05:40.560 --> 01:05:44.220 align:middle line:84%
+and a high price and some
+level of advertising.
+
+01:05:44.220 --> 01:05:46.690 align:middle line:84%
+And all the low
+quality firms do this.
+
+01:05:46.690 --> 01:05:48.650 align:middle line:84%
+All the high quality
+firms do this.
+
+01:05:48.650 --> 01:05:53.790 align:middle line:90%
+
+
+01:05:53.790 --> 01:05:56.790 align:middle line:90%
+When is it that this can happen?
+
+01:05:56.790 --> 01:05:59.380 align:middle line:84%
+I think two things you're
+going to want to have.
+
+01:05:59.380 --> 01:06:03.900 align:middle line:84%
+First is that repeat purchases
+have to be important.
+
+01:06:03.900 --> 01:06:06.200 align:middle line:84%
+If there were no repeat
+purchases in the model,
+
+01:06:06.200 --> 01:06:11.240 align:middle line:84%
+this wouldn't happen because if
+there were no repeat purchases,
+
+01:06:11.240 --> 01:06:14.900 align:middle line:84%
+low and high quality firms would
+earn exactly the same profits.
+
+01:06:14.900 --> 01:06:16.910 align:middle line:84%
+So if the high
+quality firms found
+
+01:06:16.910 --> 01:06:19.430 align:middle line:84%
+it better to set a high
+price and burn money,
+
+01:06:19.430 --> 01:06:22.580 align:middle line:84%
+the low quality firms would
+also set a high price,
+
+01:06:22.580 --> 01:06:23.743 align:middle line:90%
+profit, and burn money.
+
+01:06:23.743 --> 01:06:25.160 align:middle line:84%
+So what you have
+to have happen is
+
+01:06:25.160 --> 01:06:26.577 align:middle line:84%
+there's got to be
+repeat purchases
+
+01:06:26.577 --> 01:06:28.635 align:middle line:84%
+so that the high
+quality firms are
+
+01:06:28.635 --> 01:06:30.260 align:middle line:84%
+willing to burn this
+money because they
+
+01:06:30.260 --> 01:06:32.610 align:middle line:84%
+know the consumers
+will keep coming back.
+
+01:06:32.610 --> 01:06:35.270 align:middle line:84%
+The low quality firms are only
+going to sell to consumers once.
+
+01:06:35.270 --> 01:06:39.770 align:middle line:84%
+So you have to burn an amount
+of money such that the--
+
+01:06:39.770 --> 01:06:45.680 align:middle line:84%
+it's got to be that
+pH minus pL or pH
+
+01:06:45.680 --> 01:06:54.740 align:middle line:84%
+minus c D of pH or D1
+of pH minus pH minus c--
+
+01:06:54.740 --> 01:06:55.900 align:middle line:90%
+pL minus c.
+
+01:06:55.900 --> 01:06:58.760 align:middle line:90%
+
+
+01:06:58.760 --> 01:07:01.650 align:middle line:84%
+So imagine that this
+is the extra profits
+
+01:07:01.650 --> 01:07:05.650 align:middle line:84%
+I get in the first period
+from burning the money.
+
+01:07:05.650 --> 01:07:09.120 align:middle line:84%
+It's got to be that
+this is less than A
+
+01:07:09.120 --> 01:07:12.558 align:middle line:84%
+because if this is less-- if
+this was bigger than A, then
+
+01:07:12.558 --> 01:07:14.100 align:middle line:84%
+even the low quality
+firms would just
+
+01:07:14.100 --> 01:07:15.600 align:middle line:84%
+go ahead and burn
+the money in order
+
+01:07:15.600 --> 01:07:18.120 align:middle line:84%
+to get the extra demand
+in the first period.
+
+01:07:18.120 --> 01:07:20.820 align:middle line:84%
+So it's got to be that
+this is less than A,
+
+01:07:20.820 --> 01:07:23.100 align:middle line:84%
+but this plus the long-run
+benefit that you get
+
+01:07:23.100 --> 01:07:26.640 align:middle line:84%
+from the repeat purchases
+at t equals 2 or t equals 3
+
+01:07:26.640 --> 01:07:29.500 align:middle line:84%
+or whatever does make
+it worth advertising.
+
+01:07:29.500 --> 01:07:33.370 align:middle line:84%
+And so we need a repeat
+purchasing effect.
+
+01:07:33.370 --> 01:07:37.260 align:middle line:84%
+And then we also need
+some kind of small--
+
+01:07:37.260 --> 01:07:39.420 align:middle line:84%
+we need word of mouth
+learning effects
+
+01:07:39.420 --> 01:07:41.947 align:middle line:84%
+to be small because if word
+of mouth learning effects
+
+01:07:41.947 --> 01:07:43.530 align:middle line:84%
+were going to be
+small, you could just
+
+01:07:43.530 --> 01:07:50.910 align:middle line:84%
+come in, set a price of
+pH, do zero advertising,
+
+01:07:50.910 --> 01:07:52.800 align:middle line:84%
+have only a few people
+buy your product.
+
+01:07:52.800 --> 01:07:54.300 align:middle line:84%
+Then those few
+people tell everybody
+
+01:07:54.300 --> 01:07:56.300 align:middle line:84%
+and they tell everybody
+and they tell everybody,
+
+01:07:56.300 --> 01:07:59.520 align:middle line:84%
+and the thing takes off, and
+the long-run benefits are there,
+
+01:07:59.520 --> 01:08:01.770 align:middle line:84%
+even without having spent
+the money on the advertising
+
+01:08:01.770 --> 01:08:03.100 align:middle line:90%
+in the first place.
+
+01:08:03.100 --> 01:08:09.150 align:middle line:84%
+So what we need is something
+about repeat purchases help--
+
+01:08:09.150 --> 01:08:11.910 align:middle line:84%
+getting people to buy
+once, the repeat purchases
+
+01:08:11.910 --> 01:08:14.110 align:middle line:84%
+make it worth spending
+the advertising.
+
+01:08:14.110 --> 01:08:16.470 align:middle line:84%
+And you can't do it without
+spending the advertising
+
+01:08:16.470 --> 01:08:19.000 align:middle line:84%
+because you can't do it
+by just a small release
+
+01:08:19.000 --> 01:08:21.725 align:middle line:84%
+and then let people tell
+their friends instead.
+
+01:08:21.725 --> 01:08:26.510 align:middle line:90%
+
+
+01:08:26.510 --> 01:08:29.630 align:middle line:84%
+Technologically, this
+advertising is money burning.
+
+01:08:29.630 --> 01:08:32.630 align:middle line:84%
+It's not changing the
+utility functions at all,
+
+01:08:32.630 --> 01:08:36.979 align:middle line:84%
+but it can increase-- it can
+be socially valuable if it
+
+01:08:36.979 --> 01:08:38.790 align:middle line:90%
+increases the match quality.
+
+01:08:38.790 --> 01:08:41.600 align:middle line:84%
+So if you imagine a
+model where you have--
+
+01:08:41.600 --> 01:08:43.370 align:middle line:84%
+there are some people
+who only really
+
+01:08:43.370 --> 01:08:45.319 align:middle line:90%
+have value for a high quality--
+
+01:08:45.319 --> 01:08:46.979 align:middle line:84%
+some people who
+are serious hikers.
+
+01:08:46.979 --> 01:08:49.340 align:middle line:84%
+And so if it's not a really
+good Patagonia coat that's
+
+01:08:49.340 --> 01:08:51.260 align:middle line:84%
+actually going to keep
+you warm on a mountain,
+
+01:08:51.260 --> 01:08:52.196 align:middle line:90%
+you don't want it.
+
+01:08:52.196 --> 01:08:54.529 align:middle line:84%
+And then there's some low
+quality consumers who are just
+
+01:08:54.529 --> 01:08:55.830 align:middle line:90%
+wearing it around town.
+
+01:08:55.830 --> 01:08:58.502 align:middle line:84%
+And if it doesn't
+actually prevent the wind
+
+01:08:58.502 --> 01:08:59.960 align:middle line:84%
+from getting you,
+it doesn't really
+
+01:08:59.960 --> 01:09:02.210 align:middle line:84%
+matter because you're just
+wearing it around the city.
+
+01:09:02.210 --> 01:09:05.870 align:middle line:84%
+If the advertising helps
+us with the match quality
+
+01:09:05.870 --> 01:09:08.930 align:middle line:84%
+and lets the people who
+want high quality buy
+
+01:09:08.930 --> 01:09:11.750 align:middle line:84%
+high quality, people who want
+low quality, buy low quality,
+
+01:09:11.750 --> 01:09:14.810 align:middle line:84%
+then this sort of money
+burning can raise utility.
+
+01:09:14.810 --> 01:09:17.660 align:middle line:84%
+And we might not want to
+ban it, even though it's not
+
+01:09:17.660 --> 01:09:19.800 align:middle line:90%
+technologically valuable.
+
+01:09:19.800 --> 01:09:24.060 align:middle line:84%
+But it can be the only way
+to signal information here.
+
+01:09:24.060 --> 01:09:27.920 align:middle line:90%
+
+
+01:09:27.920 --> 01:09:32.460 align:middle line:84%
+And in some models
+like this, you
+
+01:09:32.460 --> 01:09:36.609 align:middle line:84%
+can actually even do signaling
+without any advertising at all.
+
+01:09:36.609 --> 01:09:39.330 align:middle line:84%
+So it's possible
+that there can be--
+
+01:09:39.330 --> 01:09:40.529 align:middle line:90%
+don't go in advertising.
+
+01:09:40.529 --> 01:09:44.010 align:middle line:84%
+There can be equilibria like
+this, where some firms set
+
+01:09:44.010 --> 01:09:47.340 align:middle line:84%
+a really high price,
+and then people
+
+01:09:47.340 --> 01:09:50.550 align:middle line:84%
+know that they're
+only going to sell
+
+01:09:50.550 --> 01:09:51.760 align:middle line:90%
+to a small number of people.
+
+01:09:51.760 --> 01:09:53.040 align:middle line:84%
+So it must be they're
+expecting to sell
+
+01:09:53.040 --> 01:09:55.613 align:middle line:84%
+to that small number of people
+over and over and over again.
+
+01:09:55.613 --> 01:09:57.280 align:middle line:84%
+Whereas you can set
+a low price and sell
+
+01:09:57.280 --> 01:10:01.210 align:middle line:84%
+to a lot of people who just buy
+once or something like that.
+
+01:10:01.210 --> 01:10:05.580 align:middle line:84%
+So you can get you can
+get price as a signal.
+
+01:10:05.580 --> 01:10:08.170 align:middle line:84%
+You can get price as a signal
+even without advertising.
+
+01:10:08.170 --> 01:10:11.820 align:middle line:84%
+But advertising makes it
+easier to get signaling models
+
+01:10:11.820 --> 01:10:14.370 align:middle line:90%
+to work out.
+
+01:10:14.370 --> 01:10:14.870 align:middle line:90%
+OK.
+
+01:10:14.870 --> 01:10:20.270 align:middle line:90%
+
+
+01:10:20.270 --> 01:10:20.870 align:middle line:90%
+OK.
+
+01:10:20.870 --> 01:10:21.680 align:middle line:90%
+Questions?
+
+01:10:21.680 --> 01:10:23.960 align:middle line:84%
+So then I thought
+the final one, I
+
+01:10:23.960 --> 01:10:27.440 align:middle line:84%
+will go to things
+based on my beer ad.
+
+01:10:27.440 --> 01:10:31.220 align:middle line:84%
+And here, I'm covering an
+unpublished paper that's
+
+01:10:31.220 --> 01:10:34.110 align:middle line:84%
+unpublished for 15
+years or whatever.
+
+01:10:34.110 --> 01:10:37.010 align:middle line:84%
+I'm sure Jesse has long
+since given up on this paper,
+
+01:10:37.010 --> 01:10:39.560 align:middle line:84%
+but I always really
+liked it, so I'm going
+
+01:10:39.560 --> 01:10:41.010 align:middle line:90%
+to keep covering it anyway.
+
+01:10:41.010 --> 01:10:44.960 align:middle line:84%
+So this is a behavioral
+economics paper
+
+01:10:44.960 --> 01:10:47.940 align:middle line:84%
+about advertising
+changing preferences.
+
+01:10:47.940 --> 01:10:49.850 align:middle line:84%
+And it starts out
+with noting, there's
+
+01:10:49.850 --> 01:10:55.010 align:middle line:84%
+a lot of very, very good
+evidence about fallibility
+
+01:10:55.010 --> 01:10:57.890 align:middle line:84%
+of memory and
+manipulability of memory
+
+01:10:57.890 --> 01:11:00.210 align:middle line:84%
+that makes you think that
+these things can work.
+
+01:11:00.210 --> 01:11:04.370 align:middle line:84%
+So, for instance, one of these
+very classic experiments,
+
+01:11:04.370 --> 01:11:09.590 align:middle line:84%
+the famous person experiment
+is, I give you a list of people.
+
+01:11:09.590 --> 01:11:14.330 align:middle line:84%
+And I write down, I give you a
+list of kind of famous people,
+
+01:11:14.330 --> 01:11:17.880 align:middle line:84%
+and I ask you, which of
+these people are famous?
+
+01:11:17.880 --> 01:11:21.510 align:middle line:84%
+And I put in a bunch of names
+on there like, Ban Ki-moon
+
+01:11:21.510 --> 01:11:23.500 align:middle line:84%
+and Sebastian
+Weisdorf and whatever.
+
+01:11:23.500 --> 01:11:26.485 align:middle line:84%
+And these people are people
+who you've kind of heard of.
+
+01:11:26.485 --> 01:11:28.110 align:middle line:84%
+And you're like, OK,
+yeah, Ban Ki-moon,
+
+01:11:28.110 --> 01:11:31.710 align:middle line:84%
+that's some guy who
+did something UN
+
+01:11:31.710 --> 01:11:32.715 align:middle line:90%
+official or something.
+
+01:11:32.715 --> 01:11:34.090 align:middle line:84%
+I don't remember
+quite who he is.
+
+01:11:34.090 --> 01:11:37.240 align:middle line:84%
+Sebastian Weisdorf, that
+just doesn't ring a bell.
+
+01:11:37.240 --> 01:11:38.430 align:middle line:90%
+I'm going to put not famous.
+
+01:11:38.430 --> 01:11:41.220 align:middle line:84%
+And you put names of
+actresses and whatever
+
+01:11:41.220 --> 01:11:44.370 align:middle line:84%
+that, again, you know, I have
+no idea what that person's ever
+
+01:11:44.370 --> 01:11:47.430 align:middle line:84%
+been in, but I know that's
+the name of some actress
+
+01:11:47.430 --> 01:11:48.257 align:middle line:90%
+and whatever.
+
+01:11:48.257 --> 01:11:50.340 align:middle line:84%
+And people are pretty good
+at this task of saying,
+
+01:11:50.340 --> 01:11:51.155 align:middle line:90%
+is someone famous?
+
+01:11:51.155 --> 01:11:52.530 align:middle line:84%
+And one of the
+interesting things
+
+01:11:52.530 --> 01:11:55.210 align:middle line:84%
+is you give people that task,
+you give them, here's 20 people,
+
+01:11:55.210 --> 01:11:56.980 align:middle line:90%
+is this person famous or not?
+
+01:11:56.980 --> 01:11:58.740 align:middle line:84%
+And some of them are
+just made up names.
+
+01:11:58.740 --> 01:12:00.430 align:middle line:84%
+And people are very,
+very good at that task.
+
+01:12:00.430 --> 01:12:02.730 align:middle line:84%
+They can write down famous,
+famous, not famous, famous,
+
+01:12:02.730 --> 01:12:04.605 align:middle line:84%
+not famous, even though
+they have no idea who
+
+01:12:04.605 --> 01:12:06.630 align:middle line:90%
+the people actually are.
+
+01:12:06.630 --> 01:12:08.970 align:middle line:84%
+And then you bring the same
+students back in the list--
+
+01:12:08.970 --> 01:12:10.240 align:middle line:90%
+into the lab.
+
+01:12:10.240 --> 01:12:13.680 align:middle line:84%
+One week later, you hand
+them exactly the same list
+
+01:12:13.680 --> 01:12:15.600 align:middle line:90%
+that they said yes or no on.
+
+01:12:15.600 --> 01:12:18.180 align:middle line:84%
+And they're much
+worse at the task.
+
+01:12:18.180 --> 01:12:20.820 align:middle line:84%
+And it's because, OK,
+Sebastian Weisdorf,
+
+01:12:20.820 --> 01:12:22.500 align:middle line:90%
+I've kind of heard that.
+
+01:12:22.500 --> 01:12:24.120 align:middle line:84%
+But is that because
+Sebastian Weisdorf
+
+01:12:24.120 --> 01:12:25.578 align:middle line:84%
+is some guy I've
+heard of, or is it
+
+01:12:25.578 --> 01:12:28.960 align:middle line:84%
+because he was a guy who was on
+the list that I did last week?
+
+01:12:28.960 --> 01:12:31.680 align:middle line:84%
+And people no longer
+can remember the things
+
+01:12:31.680 --> 01:12:34.350 align:middle line:84%
+as well as they did the
+week before or whatever.
+
+01:12:34.350 --> 01:12:37.350 align:middle line:84%
+He also gives these
+examples of these marketing
+
+01:12:37.350 --> 01:12:39.808 align:middle line:84%
+experiments with
+orange juice, where you
+
+01:12:39.808 --> 01:12:41.100 align:middle line:90%
+have people taste orange juice.
+
+01:12:41.100 --> 01:12:43.500 align:middle line:84%
+And you prime them before
+with the correct answers,
+
+01:12:43.500 --> 01:12:49.650 align:middle line:84%
+like here's an orange juice
+that's got a really tangy taste
+
+01:12:49.650 --> 01:12:50.415 align:middle line:90%
+or whatever.
+
+01:12:50.415 --> 01:12:53.040 align:middle line:84%
+And then here's an orange juice
+that's got a really sweet taste
+
+01:12:53.040 --> 01:12:53.520 align:middle line:90%
+or whatever.
+
+01:12:53.520 --> 01:12:54.437 align:middle line:90%
+Which one do you like?
+
+01:12:54.437 --> 01:12:58.920 align:middle line:84%
+And then the tangy
+taste one is just like,
+
+01:12:58.920 --> 01:13:00.420 align:middle line:84%
+you put vinegar in
+the orange juice,
+
+01:13:00.420 --> 01:13:01.808 align:middle line:90%
+and you just made it worse.
+
+01:13:01.808 --> 01:13:03.600 align:middle line:84%
+But if you've described
+it like, oh, here's
+
+01:13:03.600 --> 01:13:04.950 align:middle line:84%
+a really sour
+orange juice taste,
+
+01:13:04.950 --> 01:13:06.570 align:middle line:84%
+or here's a really tangy
+one taste, somehow,
+
+01:13:06.570 --> 01:13:08.130 align:middle line:84%
+if you've told them
+it's a really tangy one,
+
+01:13:08.130 --> 01:13:10.140 align:middle line:84%
+they're like, oh, yeah, I
+like that one, that's tangy,
+
+01:13:10.140 --> 01:13:11.260 align:middle line:90%
+or something like that.
+
+01:13:11.260 --> 01:13:15.390 align:middle line:84%
+And so his thought on
+the beer example is,
+
+01:13:15.390 --> 01:13:18.150 align:middle line:84%
+people have had beer many
+times in their lives,
+
+01:13:18.150 --> 01:13:20.980 align:middle line:84%
+and they've had parties with
+their friends many times.
+
+01:13:20.980 --> 01:13:24.720 align:middle line:84%
+And the thing is, you
+like to go to events where
+
+01:13:24.720 --> 01:13:26.400 align:middle line:90%
+you're having a good time.
+
+01:13:26.400 --> 01:13:28.980 align:middle line:84%
+And you don't remember
+whether it was me
+
+01:13:28.980 --> 01:13:30.740 align:middle line:84%
+who had a good time
+drinking the Budweiser
+
+01:13:30.740 --> 01:13:34.740 align:middle line:84%
+or if it was those people I
+saw on TV having a good time
+
+01:13:34.740 --> 01:13:36.010 align:middle line:90%
+drinking the Budweiser.
+
+01:13:36.010 --> 01:13:37.290 align:middle line:84%
+And so then when I'm
+there in the store,
+
+01:13:37.290 --> 01:13:38.707 align:middle line:84%
+I'm trying to
+remember, oh, should
+
+01:13:38.707 --> 01:13:39.858 align:middle line:90%
+I buy the Budweiser or not?
+
+01:13:39.858 --> 01:13:42.150 align:middle line:84%
+And I'm just trying to remember
+some previous time when
+
+01:13:42.150 --> 01:13:43.720 align:middle line:84%
+I had a party and
+I served Budweiser,
+
+01:13:43.720 --> 01:13:45.250 align:middle line:90%
+did people have a lot of fun?
+
+01:13:45.250 --> 01:13:47.140 align:middle line:84%
+And I can't keep
+track of whether it
+
+01:13:47.140 --> 01:13:49.810 align:middle line:84%
+was my party with the Budweiser
+where people had the fun
+
+01:13:49.810 --> 01:13:52.840 align:middle line:84%
+or it was that one on
+TV I saw with people
+
+01:13:52.840 --> 01:13:54.980 align:middle line:84%
+having Budweiser, where
+everyone had a great time.
+
+01:13:54.980 --> 01:13:57.760 align:middle line:84%
+And in some sense,
+they've changed my memory
+
+01:13:57.760 --> 01:13:59.593 align:middle line:84%
+and put all these
+memories in there
+
+01:13:59.593 --> 01:14:01.510 align:middle line:84%
+that I can't distinguish
+from my own memories.
+
+01:14:01.510 --> 01:14:03.370 align:middle line:90%
+And therefore I can't--
+
+01:14:03.370 --> 01:14:05.860 align:middle line:84%
+and so you're changing
+my preferences
+
+01:14:05.860 --> 01:14:10.330 align:middle line:84%
+by changing what I remember
+about my prior experiences
+
+01:14:10.330 --> 01:14:12.820 align:middle line:84%
+with the product,
+confusing my experiences
+
+01:14:12.820 --> 01:14:15.640 align:middle line:84%
+with the people on TV's
+experiences with the product.
+
+01:14:15.640 --> 01:14:19.990 align:middle line:84%
+So the way he does this is he
+has this continuum of consumers
+
+01:14:19.990 --> 01:14:22.030 align:middle line:90%
+who have types theta i.
+
+01:14:22.030 --> 01:14:26.140 align:middle line:84%
+And the type theta consumers get
+benefit v with probability theta
+
+01:14:26.140 --> 01:14:27.620 align:middle line:90%
+when they consume the good.
+
+01:14:27.620 --> 01:14:30.100 align:middle line:84%
+So could this just be--
+depending on your friend group,
+
+01:14:30.100 --> 01:14:31.600 align:middle line:84%
+you could be in a
+friend group where
+
+01:14:31.600 --> 01:14:35.260 align:middle line:84%
+serving Budweiser at your party,
+100% chance the party goes well.
+
+01:14:35.260 --> 01:14:37.510 align:middle line:84%
+You could be in a friend
+group where serving Budweiser
+
+01:14:37.510 --> 01:14:40.210 align:middle line:84%
+at your party, just 0%
+chance the party goes well
+
+01:14:40.210 --> 01:14:42.940 align:middle line:84%
+because your friends
+all hate Budweiser.
+
+01:14:42.940 --> 01:14:43.690 align:middle line:90%
+Anyway.
+
+01:14:43.690 --> 01:14:47.290 align:middle line:84%
+So each consumer is different
+in their experiences
+
+01:14:47.290 --> 01:14:50.020 align:middle line:90%
+when they've consumed the good.
+
+01:14:50.020 --> 01:14:54.700 align:middle line:84%
+Consumers have consumed the
+good on N prior occasions
+
+01:14:54.700 --> 01:14:56.290 align:middle line:90%
+and gotten these draws.
+
+01:14:56.290 --> 01:14:59.120 align:middle line:90%
+But they don't know theta.
+
+01:14:59.120 --> 01:15:01.750 align:middle line:84%
+I can't go, every
+time in my life
+
+01:15:01.750 --> 01:15:04.610 align:middle line:84%
+that I've bought Budweiser for
+a party, how did that party go?
+
+01:15:04.610 --> 01:15:06.830 align:middle line:84%
+Let me count them all
+up and add them all up.
+
+01:15:06.830 --> 01:15:09.820 align:middle line:84%
+What I do is I just
+remember often just one.
+
+01:15:09.820 --> 01:15:11.270 align:middle line:90%
+I just call to mind.
+
+01:15:11.270 --> 01:15:14.090 align:middle line:84%
+Let me try to remember some
+time when I served Budweiser.
+
+01:15:14.090 --> 01:15:15.830 align:middle line:90%
+I remember that experience.
+
+01:15:15.830 --> 01:15:17.320 align:middle line:90%
+I remember how it went.
+
+01:15:17.320 --> 01:15:20.770 align:middle line:90%
+And then I Bayesian update.
+
+01:15:20.770 --> 01:15:24.910 align:middle line:84%
+So I have some-- there's some
+common prior over the thetas.
+
+01:15:24.910 --> 01:15:26.530 align:middle line:84%
+And then I Bayesian
+update to form,
+
+01:15:26.530 --> 01:15:30.820 align:middle line:84%
+what's my expected view of my
+preference for the product,
+
+01:15:30.820 --> 01:15:34.630 align:middle line:84%
+conditional on the events
+that I'm remembering?
+
+01:15:34.630 --> 01:15:37.510 align:middle line:84%
+And then what Jesse does,
+he models advertising
+
+01:15:37.510 --> 01:15:42.700 align:middle line:84%
+as potentially altering
+memory in one of two ways.
+
+01:15:42.700 --> 01:15:47.560 align:middle line:84%
+One is an ad could just take
+a memory out of your head
+
+01:15:47.560 --> 01:15:50.110 align:middle line:84%
+and stick a fake
+memory in instead.
+
+01:15:50.110 --> 01:15:52.420 align:middle line:84%
+So it's just taking one
+of your N observations
+
+01:15:52.420 --> 01:15:54.390 align:middle line:84%
+out, putting another
+observation in
+
+01:15:54.390 --> 01:15:56.140 align:middle line:84%
+so that when you do
+the Bayesian updating,
+
+01:15:56.140 --> 01:15:59.830 align:middle line:90%
+you might recall that memory.
+
+01:15:59.830 --> 01:16:04.550 align:middle line:84%
+The other thing is a
+notion of priming memories.
+
+01:16:04.550 --> 01:16:08.770 align:middle line:84%
+That is, we all have all
+these memories in our heads.
+
+01:16:08.770 --> 01:16:12.430 align:middle line:84%
+If I get you to make one
+memory, call that memory
+
+01:16:12.430 --> 01:16:14.305 align:middle line:84%
+to the front of your
+mind, then the next time
+
+01:16:14.305 --> 01:16:16.680 align:middle line:84%
+you're trying to call a memory
+to the front of your mind,
+
+01:16:16.680 --> 01:16:18.190 align:middle line:84%
+that one will come
+forward again.
+
+01:16:18.190 --> 01:16:21.310 align:middle line:84%
+It's been more recent and
+more primed to come forward.
+
+01:16:21.310 --> 01:16:25.660 align:middle line:84%
+And so here, this is, you show
+people a positive experience
+
+01:16:25.660 --> 01:16:27.010 align:middle line:90%
+while they're watching the ad.
+
+01:16:27.010 --> 01:16:29.920 align:middle line:84%
+They remember the most similar
+experience that they've had.
+
+01:16:29.920 --> 01:16:31.420 align:middle line:84%
+And then because
+that experience has
+
+01:16:31.420 --> 01:16:34.490 align:middle line:84%
+been brought through to
+the front of their mind,
+
+01:16:34.490 --> 01:16:37.500 align:middle line:84%
+it's more likely to be drawn
+the next time it comes out.
+
+01:16:37.500 --> 01:16:40.640 align:middle line:84%
+So this is like you're
+manipulating memories
+
+01:16:40.640 --> 01:16:44.397 align:middle line:84%
+by making people's
+memories more--
+
+01:16:44.397 --> 01:16:46.730 align:middle line:84%
+changing the probability of
+recall of different memories
+
+01:16:46.730 --> 01:16:48.500 align:middle line:90%
+that they have.
+
+01:16:48.500 --> 01:16:51.890 align:middle line:84%
+And then the paper itself,
+it mostly focuses on this.
+
+01:16:51.890 --> 01:16:57.590 align:middle line:84%
+It gets into this highly
+rational case where consumers
+
+01:16:57.590 --> 01:17:00.620 align:middle line:84%
+are aware that their memories
+are being manipulated,
+
+01:17:00.620 --> 01:17:02.840 align:middle line:84%
+and they are aware
+of the equilibrium
+
+01:17:02.840 --> 01:17:06.510 align:middle line:84%
+level of memory manipulation
+that's going on by the firms.
+
+01:17:06.510 --> 01:17:09.000 align:middle line:90%
+And then they try to actually--
+
+01:17:09.000 --> 01:17:11.412 align:middle line:90%
+
+
+01:17:11.412 --> 01:17:12.870 align:middle line:84%
+if I were him, I
+might have started
+
+01:17:12.870 --> 01:17:15.515 align:middle line:84%
+with more of the non-fully
+rational thing, where
+
+01:17:15.515 --> 01:17:16.890 align:middle line:84%
+people are just
+being manipulated
+
+01:17:16.890 --> 01:17:17.765 align:middle line:90%
+and don't realize it.
+
+01:17:17.765 --> 01:17:19.710 align:middle line:84%
+But he's mostly
+doing the, they are
+
+01:17:19.710 --> 01:17:22.570 align:middle line:84%
+trying to offset the
+manipulation of their memories.
+
+01:17:22.570 --> 01:17:25.060 align:middle line:84%
+And so, in some sense,
+they downweight it.
+
+01:17:25.060 --> 01:17:27.710 align:middle line:84%
+They're like, I know this firm
+in equilibrium is advertising.
+
+01:17:27.710 --> 01:17:30.210 align:middle line:84%
+Therefore, I know that this
+memory might be mine or might be
+
+01:17:30.210 --> 01:17:31.350 align:middle line:90%
+someone else's.
+
+01:17:31.350 --> 01:17:33.690 align:middle line:84%
+Therefore, when I'm doing
+the Bayesian updating,
+
+01:17:33.690 --> 01:17:36.750 align:middle line:84%
+I'm doing the Bayesian updating
+of expectation of theta
+
+01:17:36.750 --> 01:17:39.318 align:middle line:84%
+given ri and given
+A star, where I
+
+01:17:39.318 --> 01:17:40.860 align:middle line:84%
+know what the
+equilibrium advertising
+
+01:17:40.860 --> 01:17:42.190 align:middle line:90%
+level is in the world.
+
+01:17:42.190 --> 01:17:46.230 align:middle line:84%
+And so I know, and I'm
+trying to undo this.
+
+01:17:46.230 --> 01:17:49.980 align:middle line:84%
+But nonetheless, the point
+is, even in this model,
+
+01:17:49.980 --> 01:17:52.860 align:middle line:84%
+where memories are being
+artificially manipulated,
+
+01:17:52.860 --> 01:17:56.010 align:middle line:84%
+firms might still want to
+manipulate the memories.
+
+01:17:56.010 --> 01:18:00.720 align:middle line:84%
+And this is kind of like for
+information design reasons.
+
+01:18:00.720 --> 01:18:04.360 align:middle line:84%
+So you're not
+changing the mean--
+
+01:18:04.360 --> 01:18:07.360 align:middle line:84%
+you're not changing the mean
+level of people's posterior
+
+01:18:07.360 --> 01:18:11.710 align:middle line:84%
+on theta, but you are changing
+the distributions on the theta.
+
+01:18:11.710 --> 01:18:13.870 align:middle line:84%
+And so if you can change
+the distribution of thetas
+
+01:18:13.870 --> 01:18:17.200 align:middle line:84%
+in a way that lets you extract
+more of the social surplus,
+
+01:18:17.200 --> 01:18:21.070 align:middle line:84%
+it may make sense to advertise
+even if the advertising is
+
+01:18:21.070 --> 01:18:22.190 align:middle line:90%
+being undone.
+
+01:18:22.190 --> 01:18:24.040 align:middle line:84%
+So if the advertising
+is not being undone,
+
+01:18:24.040 --> 01:18:25.820 align:middle line:84%
+it's clear you
+want to advertise.
+
+01:18:25.820 --> 01:18:27.490 align:middle line:84%
+But even when it's
+being undone, you
+
+01:18:27.490 --> 01:18:30.610 align:middle line:84%
+might want to do it
+for information design
+
+01:18:30.610 --> 01:18:32.350 align:middle line:84%
+reasons, where if
+I can get everyone
+
+01:18:32.350 --> 01:18:36.040 align:middle line:84%
+to have the same posterior,
+then I can charge that posterior
+
+01:18:36.040 --> 01:18:37.940 align:middle line:84%
+and extract all
+the social surplus.
+
+01:18:37.940 --> 01:18:39.640 align:middle line:84%
+Or if there's more
+heterogeneity,
+
+01:18:39.640 --> 01:18:42.010 align:middle line:84%
+I only extract a fraction
+of the social surplus.
+
+01:18:42.010 --> 01:18:44.530 align:middle line:90%
+
+
+01:18:44.530 --> 01:18:45.140 align:middle line:90%
+Anyway.
+
+01:18:45.140 --> 01:18:47.780 align:middle line:84%
+So it's just got some
+interesting observations.
+
+01:18:47.780 --> 01:18:49.360 align:middle line:84%
+And it's also
+interesting about--
+
+01:18:49.360 --> 01:18:51.760 align:middle line:84%
+you can think about
+when advertising
+
+01:18:51.760 --> 01:18:53.530 align:middle line:84%
+is going to be more
+and less likely
+
+01:18:53.530 --> 01:18:58.143 align:middle line:84%
+because it's going to
+depend on product quality
+
+01:18:58.143 --> 01:19:00.310 align:middle line:84%
+because if you actually
+have a high-quality product,
+
+01:19:00.310 --> 01:19:02.602 align:middle line:84%
+you don't need-- you don't
+get as much marginal benefit
+
+01:19:02.602 --> 01:19:04.630 align:middle line:84%
+from replacing memories
+in people's minds
+
+01:19:04.630 --> 01:19:07.190 align:middle line:84%
+with fake memories because
+the true memories are good.
+
+01:19:07.190 --> 01:19:09.610 align:middle line:84%
+And so you can get this
+sort of advertising
+
+01:19:09.610 --> 01:19:12.690 align:middle line:84%
+as a signal of bad quality and
+various interesting things.
+
+01:19:12.690 --> 01:19:16.460 align:middle line:90%
+
+
+01:19:16.460 --> 01:19:17.180 align:middle line:90%
+OK.
+
+01:19:17.180 --> 01:19:18.600 align:middle line:90%
+Anyway, I am out of time.
+
+01:19:18.600 --> 01:19:22.070 align:middle line:84%
+So anyway, Monday,
+I'm going to-- again,
+
+01:19:22.070 --> 01:19:23.820 align:middle line:90%
+I'm going to do auctions.
+
+01:19:23.820 --> 01:19:25.650 align:middle line:84%
+It's going to be
+mostly auction theory.
+
+01:19:25.650 --> 01:19:28.080 align:middle line:84%
+I am going to do one empirical
+paper that I really like.
+
+01:19:28.080 --> 01:19:33.260 align:middle line:84%
+This is the Hendricks and
+Porter paper about offshore oil
+
+01:19:33.260 --> 01:19:35.180 align:middle line:90%
+drilling auctions.
+
+01:19:35.180 --> 01:19:37.160 align:middle line:84%
+And then, yeah, that's
+the plan for next week.
+
+01:19:37.160 --> 01:19:38.580 align:middle line:90%
+I'll do auctions.
+
+01:19:38.580 --> 01:19:41.480 align:middle line:84%
+Tobias comes in
+Wednesday and does
+
+01:19:41.480 --> 01:19:43.040 align:middle line:90%
+structural empirical auctions.
+
+01:19:43.040 --> 01:19:46.330 align:middle line:84%
+Then we go back to advertising
+empirics the week after.
+
+01:19:46.330 --> 01:19:58.000 align:middle line:90%

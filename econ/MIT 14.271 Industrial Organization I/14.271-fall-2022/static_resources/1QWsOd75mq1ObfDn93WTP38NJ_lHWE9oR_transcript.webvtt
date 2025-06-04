@@ -1,0 +1,6056 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.400 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.400 --> 00:00:04.800 align:middle line:90%
+[RUSTLING]
+
+00:00:04.800 --> 00:00:07.200 align:middle line:90%
+[CLICKING]
+
+00:00:07.200 --> 00:00:11.612 align:middle line:90%
+
+
+00:00:11.612 --> 00:00:13.570 align:middle line:84%
+GLENN ELLISON: Let me go
+ahead and get started.
+
+00:00:13.570 --> 00:00:19.040 align:middle line:84%
+So today's topic is called
+strategic investment.
+
+00:00:19.040 --> 00:00:21.920 align:middle line:84%
+So if you remember
+where we were last week
+
+00:00:21.920 --> 00:00:25.710 align:middle line:84%
+is we were talking about the
+effect of entry on markets.
+
+00:00:25.710 --> 00:00:28.580 align:middle line:84%
+And I made this big
+pitch that in some sense,
+
+00:00:28.580 --> 00:00:30.140 align:middle line:84%
+entry is just
+critically important.
+
+00:00:30.140 --> 00:00:32.432 align:middle line:84%
+And if you think about, what
+are firms' actual profits,
+
+00:00:32.432 --> 00:00:34.920 align:middle line:84%
+firms' actual profits are
+just a rounding error.
+
+00:00:34.920 --> 00:00:38.248 align:middle line:84%
+And so it's really the
+amount of market power
+
+00:00:38.248 --> 00:00:40.790 align:middle line:84%
+you have relative to the number
+of firms in the market that's
+
+00:00:40.790 --> 00:00:43.100 align:middle line:90%
+going to determine profits.
+
+00:00:43.100 --> 00:00:48.290 align:middle line:84%
+This means that if you
+could affect entry,
+
+00:00:48.290 --> 00:00:50.970 align:middle line:84%
+it could have a dramatic
+effect on how firms are doing.
+
+00:00:50.970 --> 00:00:54.620 align:middle line:84%
+And I think in that
+previous lecture,
+
+00:00:54.620 --> 00:00:56.940 align:middle line:84%
+it was always just that
+there was just fixed costs.
+
+00:00:56.940 --> 00:00:59.660 align:middle line:84%
+Firms came in, paid the same--
+paid some exogenous fixed costs,
+
+00:00:59.660 --> 00:01:01.370 align:middle line:90%
+and then there was competition.
+
+00:01:01.370 --> 00:01:03.950 align:middle line:84%
+There's a very, very
+large literature
+
+00:01:03.950 --> 00:01:06.830 align:middle line:84%
+in economics about
+what can firms do
+
+00:01:06.830 --> 00:01:08.910 align:middle line:90%
+to change the market structure.
+
+00:01:08.910 --> 00:01:12.240 align:middle line:84%
+And that can either be actually
+changing the market structure
+
+00:01:12.240 --> 00:01:14.940 align:middle line:84%
+to try to affect entry or just
+changing the market structure
+
+00:01:14.940 --> 00:01:17.400 align:middle line:84%
+to try to affect what the
+competitive game looks
+
+00:01:17.400 --> 00:01:20.700 align:middle line:84%
+like if you can't stop
+other firms from entering.
+
+00:01:20.700 --> 00:01:23.700 align:middle line:84%
+And if you look
+at Tirole's book,
+
+00:01:23.700 --> 00:01:26.190 align:middle line:84%
+the chapter on strategic
+entry deterrence
+
+00:01:26.190 --> 00:01:28.000 align:middle line:90%
+is by far the largest chapter.
+
+00:01:28.000 --> 00:01:31.860 align:middle line:84%
+And it's many more things
+written in the 35 years
+
+00:01:31.860 --> 00:01:32.530 align:middle line:90%
+since then.
+
+00:01:32.530 --> 00:01:35.880 align:middle line:84%
+So anyway, many of
+these models are
+
+00:01:35.880 --> 00:01:38.850 align:middle line:90%
+the classic three-stage game.
+
+00:01:38.850 --> 00:01:43.680 align:middle line:84%
+In the first stage, firm 1
+chooses some investment k1.
+
+00:01:43.680 --> 00:01:46.800 align:middle line:90%
+It pays some sunk cost c of k1.
+
+00:01:46.800 --> 00:01:49.640 align:middle line:90%
+And.
+
+00:01:49.640 --> 00:01:52.680 align:middle line:84%
+When I use the word investment,
+I mean investment very broadly.
+
+00:01:52.680 --> 00:01:54.470 align:middle line:84%
+The important things
+about the investment
+
+00:01:54.470 --> 00:01:58.850 align:middle line:84%
+is that it some sunk
+cost of making it,
+
+00:01:58.850 --> 00:02:03.320 align:middle line:84%
+and it's credible that you're
+not going to be able to undo it.
+
+00:02:03.320 --> 00:02:06.230 align:middle line:84%
+So, for instance
+building capacity,
+
+00:02:06.230 --> 00:02:08.630 align:middle line:84%
+if you build a new
+factory, you've
+
+00:02:08.630 --> 00:02:11.367 align:middle line:84%
+built the new factory you're not
+going to unbuild the factory.
+
+00:02:11.367 --> 00:02:12.950 align:middle line:84%
+And so if you build
+a new factory that
+
+00:02:12.950 --> 00:02:15.140 align:middle line:84%
+lets you produce a
+lower cost you've
+
+00:02:15.140 --> 00:02:17.570 align:middle line:84%
+then committed yourself to
+being able to produce a lower
+
+00:02:17.570 --> 00:02:19.310 align:middle line:90%
+cost in the future.
+
+00:02:19.310 --> 00:02:24.170 align:middle line:84%
+If you advertise, you
+spend money advertising,
+
+00:02:24.170 --> 00:02:26.900 align:middle line:84%
+you've changed the
+consumer's willingness
+
+00:02:26.900 --> 00:02:28.400 align:middle line:84%
+to pay for your
+good and willingness
+
+00:02:28.400 --> 00:02:29.970 align:middle line:84%
+to pay for other
+goods in the market,
+
+00:02:29.970 --> 00:02:32.750 align:middle line:84%
+you can't unadvertise
+and get the money back
+
+00:02:32.750 --> 00:02:35.960 align:middle line:84%
+and then say, OK, now the
+other firm's done something.
+
+00:02:35.960 --> 00:02:37.640 align:middle line:84%
+I'll unadvertise,
+get my money back,
+
+00:02:37.640 --> 00:02:39.820 align:middle line:84%
+and let the preferences go
+back to where they were.
+
+00:02:39.820 --> 00:02:41.480 align:middle line:84%
+So anything that
+has that feature
+
+00:02:41.480 --> 00:02:51.060 align:middle line:84%
+that you make some initial
+choice, it incurs a cost,
+
+00:02:51.060 --> 00:02:54.460 align:middle line:84%
+and it's hard to undo,
+that's an investment.
+
+00:02:54.460 --> 00:02:57.150 align:middle line:84%
+So for instance, like
+designing an iPhone
+
+00:02:57.150 --> 00:03:01.950 align:middle line:84%
+with a lightning charger
+instead of a USB-C charger
+
+00:03:01.950 --> 00:03:02.910 align:middle line:90%
+or something like that.
+
+00:03:02.910 --> 00:03:05.050 align:middle line:90%
+You can't undesign the iPhone.
+
+00:03:05.050 --> 00:03:07.410 align:middle line:84%
+You could design a new iPhone
+that costs you more money,
+
+00:03:07.410 --> 00:03:09.368 align:middle line:84%
+but you've got the old
+ones out there that have
+
+00:03:09.368 --> 00:03:13.050 align:middle line:90%
+that particular port in them.
+
+00:03:13.050 --> 00:03:16.050 align:middle line:84%
+Firm 2 observes the
+investment level
+
+00:03:16.050 --> 00:03:18.240 align:middle line:84%
+and then decides
+whether to enter.
+
+00:03:18.240 --> 00:03:20.490 align:middle line:84%
+If it enters,
+there's a cost of E.
+
+00:03:20.490 --> 00:03:23.110 align:middle line:84%
+I'm going to do this in the
+monopoly-going-to-duopoly case.
+
+00:03:23.110 --> 00:03:25.610 align:middle line:84%
+Obviously, you could do all
+this with two firms, three firms
+
+00:03:25.610 --> 00:03:27.030 align:middle line:90%
+going to n plus 1 firms.
+
+00:03:27.030 --> 00:03:29.760 align:middle line:84%
+And then if firm 2
+stays out of the market,
+
+00:03:29.760 --> 00:03:31.980 align:middle line:90%
+firm 1 becomes a monopolist.
+
+00:03:31.980 --> 00:03:35.850 align:middle line:84%
+It chooses some action, a1,
+like a price or a quantity,
+
+00:03:35.850 --> 00:03:38.400 align:middle line:84%
+and then gets a profit that
+depends on the investment
+
+00:03:38.400 --> 00:03:40.080 align:middle line:90%
+and on the action.
+
+00:03:40.080 --> 00:03:43.770 align:middle line:84%
+And if firm 2 enters,
+they simultaneously
+
+00:03:43.770 --> 00:03:44.850 align:middle line:90%
+choose these actions.
+
+00:03:44.850 --> 00:03:47.460 align:middle line:84%
+And they earn profits that
+depend on the investment
+
+00:03:47.460 --> 00:03:49.990 align:middle line:90%
+and on both actions.
+
+00:03:49.990 --> 00:03:52.270 align:middle line:84%
+And I'm going to assume
+that this game that
+
+00:03:52.270 --> 00:03:55.750 align:middle line:84%
+follows in second stage has
+well-behaved profit functions,
+
+00:03:55.750 --> 00:03:58.690 align:middle line:84%
+and it has a unique Nash
+equilibrium, where the Nash
+
+00:03:58.690 --> 00:04:01.650 align:middle line:90%
+equilibrium depends on k1.
+
+00:04:01.650 --> 00:04:04.570 align:middle line:90%
+
+
+00:04:04.570 --> 00:04:11.290 align:middle line:84%
+And you'll typically-- if the
+action is an investment that
+
+00:04:11.290 --> 00:04:13.420 align:middle line:84%
+firm 1 takes in
+reducing its costs,
+
+00:04:13.420 --> 00:04:15.010 align:middle line:90%
+the prices that they set are--
+
+00:04:15.010 --> 00:04:18.310 align:middle line:84%
+firm 1's action obviously
+reflects its costs.
+
+00:04:18.310 --> 00:04:20.200 align:middle line:84%
+But then firm 2's
+action is also going
+
+00:04:20.200 --> 00:04:22.630 align:middle line:84%
+to reflect firm 1's costs
+because firm 2 knows
+
+00:04:22.630 --> 00:04:28.480 align:middle line:84%
+that firm 1's investment is
+going to reduce its cost,
+
+00:04:28.480 --> 00:04:30.580 align:middle line:90%
+leading to change its price.
+
+00:04:30.580 --> 00:04:34.010 align:middle line:84%
+There can also be direct effects
+of the investment on both firms.
+
+00:04:34.010 --> 00:04:36.460 align:middle line:84%
+So in the advertising
+case, the advertising
+
+00:04:36.460 --> 00:04:38.968 align:middle line:84%
+can be changing the demand
+for firm 2's product
+
+00:04:38.968 --> 00:04:40.510 align:middle line:84%
+or the valuation of
+firm 2's product,
+
+00:04:40.510 --> 00:04:44.560 align:middle line:84%
+as well as the valuation
+of firm 1's product.
+
+00:04:44.560 --> 00:04:48.550 align:middle line:84%
+So in the early
+literature on this,
+
+00:04:48.550 --> 00:04:51.220 align:middle line:84%
+Joe Bain described three
+different situations
+
+00:04:51.220 --> 00:04:53.170 align:middle line:84%
+that you could see
+in an industry.
+
+00:04:53.170 --> 00:04:55.820 align:middle line:84%
+The first one he described
+as blockaded entry.
+
+00:04:55.820 --> 00:04:58.540 align:middle line:84%
+In the blockaded
+entry case, firms
+
+00:04:58.540 --> 00:05:01.420 align:middle line:84%
+2's entry costs are sufficiently
+high that firm 2 is never
+
+00:05:01.420 --> 00:05:04.270 align:middle line:84%
+going to enter if firm
+1 just ignores it.
+
+00:05:04.270 --> 00:05:06.040 align:middle line:84%
+So in the blockaded
+entry case, firm 1
+
+00:05:06.040 --> 00:05:09.165 align:middle line:84%
+just is-- essentially this
+is the monopoly model.
+
+00:05:09.165 --> 00:05:09.790 align:middle line:90%
+You just go on.
+
+00:05:09.790 --> 00:05:11.140 align:middle line:84%
+You choose the
+optimal investment,
+
+00:05:11.140 --> 00:05:12.220 align:middle line:84%
+and then you earn
+the profits you
+
+00:05:12.220 --> 00:05:14.012 align:middle line:84%
+get with the optimal
+investment, and firm 2
+
+00:05:14.012 --> 00:05:16.510 align:middle line:90%
+is basically irrelevant.
+
+00:05:16.510 --> 00:05:20.180 align:middle line:84%
+Second case he talks about
+is the deterred entry case.
+
+00:05:20.180 --> 00:05:23.380 align:middle line:84%
+So suppose entry costs
+are a little bit lower
+
+00:05:23.380 --> 00:05:24.880 align:middle line:84%
+than in the
+blockaded entry case,
+
+00:05:24.880 --> 00:05:30.135 align:middle line:84%
+so that if firm 1 ignores
+firm 2, firm 2 will enter.
+
+00:05:30.135 --> 00:05:31.510 align:middle line:84%
+But then he argues
+that there are
+
+00:05:31.510 --> 00:05:35.860 align:middle line:84%
+going to be some cases where the
+firm can actively deter entry,
+
+00:05:35.860 --> 00:05:38.650 align:middle line:84%
+where the firm can distort its
+investment in some way that
+
+00:05:38.650 --> 00:05:41.500 align:middle line:84%
+reduces firm 2's profits, that
+firm 2 will no longer want
+
+00:05:41.500 --> 00:05:45.310 align:middle line:84%
+to enter, and firm 1
+remains a monopolist.
+
+00:05:45.310 --> 00:05:48.580 align:middle line:84%
+And then the third case he
+called accommodated entry.
+
+00:05:48.580 --> 00:05:50.740 align:middle line:84%
+Deterring entry is
+either impossible
+
+00:05:50.740 --> 00:05:53.150 align:middle line:84%
+or it's just so costly you
+wouldn't want to do it.
+
+00:05:53.150 --> 00:05:55.360 align:middle line:84%
+So the monopolist
+chooses its investment
+
+00:05:55.360 --> 00:05:58.930 align:middle line:84%
+not to keep firm 2 out, but to
+change the nature of competition
+
+00:05:58.930 --> 00:06:02.090 align:middle line:84%
+in some way that's going to earn
+it higher post-entry profits.
+
+00:06:02.090 --> 00:06:08.832 align:middle line:84%
+And so we're going to focus
+on two main questions here.
+
+00:06:08.832 --> 00:06:11.040 align:middle line:84%
+Essentially we're going to
+ignore the blockaded entry
+
+00:06:11.040 --> 00:06:13.410 align:middle line:84%
+case except as a
+counterpoint and then
+
+00:06:13.410 --> 00:06:16.200 align:middle line:84%
+ask, when do firms want
+to deter entry versus try
+
+00:06:16.200 --> 00:06:17.680 align:middle line:90%
+to accommodate entry?
+
+00:06:17.680 --> 00:06:21.990 align:middle line:84%
+And how do you use the
+investment, k, to do that?
+
+00:06:21.990 --> 00:06:24.180 align:middle line:84%
+And obviously, the
+answer turns out
+
+00:06:24.180 --> 00:06:26.370 align:middle line:84%
+to depend on how you
+use your investment.
+
+00:06:26.370 --> 00:06:29.040 align:middle line:84%
+It depends on what type
+of investment it is
+
+00:06:29.040 --> 00:06:30.670 align:middle line:90%
+and what type of game it is.
+
+00:06:30.670 --> 00:06:33.510 align:middle line:84%
+And Fudenberg and Tirole
+have this paper from 1984
+
+00:06:33.510 --> 00:06:36.030 align:middle line:84%
+that goes over a simple
+classification of types of games
+
+00:06:36.030 --> 00:06:37.440 align:middle line:90%
+and types of investments.
+
+00:06:37.440 --> 00:06:41.370 align:middle line:84%
+So I will do that before I
+discuss some applications.
+
+00:06:41.370 --> 00:06:45.160 align:middle line:84%
+So your paper discusses
+two types of games.
+
+00:06:45.160 --> 00:06:48.160 align:middle line:84%
+I think I've done this earlier,
+mentioned these terms earlier.
+
+00:06:48.160 --> 00:06:51.450 align:middle line:84%
+We say that a game has strategic
+complements if the best response
+
+00:06:51.450 --> 00:06:53.460 align:middle line:84%
+correspondences
+are upward sloping.
+
+00:06:53.460 --> 00:06:55.290 align:middle line:84%
+And it has strategic
+substitutes, actually,
+
+00:06:55.290 --> 00:06:57.790 align:middle line:84%
+if there are curves and if
+they're downward sloping.
+
+00:06:57.790 --> 00:06:59.670 align:middle line:84%
+So if you remember
+the Hotelling model,
+
+00:06:59.670 --> 00:07:00.970 align:middle line:90%
+you graph the best responses.
+
+00:07:00.970 --> 00:07:02.290 align:middle line:90%
+It looks like this.
+
+00:07:02.290 --> 00:07:05.150 align:middle line:84%
+The Cornell model, you
+graph the best responses.
+
+00:07:05.150 --> 00:07:06.015 align:middle line:90%
+They look like that.
+
+00:07:06.015 --> 00:07:10.570 align:middle line:90%
+
+
+00:07:10.570 --> 00:07:12.130 align:middle line:90%
+Why was that?
+
+00:07:12.130 --> 00:07:15.840 align:middle line:90%
+This is a simple theorem.
+
+00:07:15.840 --> 00:07:19.090 align:middle line:84%
+You could do this more generally
+using increasing differences
+
+00:07:19.090 --> 00:07:19.900 align:middle line:90%
+terminology.
+
+00:07:19.900 --> 00:07:23.320 align:middle line:84%
+But a game is generally going
+to have strategic complements
+
+00:07:23.320 --> 00:07:26.890 align:middle line:84%
+if the second cross partial,
+second derivative of profit
+
+00:07:26.890 --> 00:07:30.190 align:middle line:84%
+with respect to ai and aj
+is positive and strategic
+
+00:07:30.190 --> 00:07:33.370 align:middle line:84%
+substitutes if the second
+partial of profits with effect
+
+00:07:33.370 --> 00:07:36.910 align:middle line:90%
+to ai and aj is negative.
+
+00:07:36.910 --> 00:07:38.530 align:middle line:84%
+And as I said, you
+know, we usually
+
+00:07:38.530 --> 00:07:41.140 align:middle line:84%
+think of price competition
+as being the complements case
+
+00:07:41.140 --> 00:07:45.700 align:middle line:84%
+and quantity competition as
+being the substitutes case.
+
+00:07:45.700 --> 00:07:50.410 align:middle line:84%
+But I would note here that the
+strategic complements and price
+
+00:07:50.410 --> 00:07:54.840 align:middle line:84%
+competition is only there,
+has been there in all
+
+00:07:54.840 --> 00:07:56.590 align:middle line:84%
+our previous analyses,
+because I've always
+
+00:07:56.590 --> 00:07:59.320 align:middle line:84%
+been using linear demand
+curves that are separable.
+
+00:07:59.320 --> 00:08:03.800 align:middle line:84%
+I'm using demand curves
+that look like D of pi,
+
+00:08:03.800 --> 00:08:11.230 align:middle line:84%
+pj is 1/2 plus pj minus pi over
+2t or something like that where
+
+00:08:11.230 --> 00:08:15.460 align:middle line:84%
+there's no interaction
+between pi and pj,
+
+00:08:15.460 --> 00:08:18.910 align:middle line:84%
+because if you look at the
+profit function in a price
+
+00:08:18.910 --> 00:08:21.370 align:middle line:90%
+competition game, you take the--
+
+00:08:21.370 --> 00:08:24.040 align:middle line:84%
+I first differentiate
+with respect to pi.
+
+00:08:24.040 --> 00:08:29.350 align:middle line:84%
+And I get pi minus c,
+dDi dpi plus D of pi.
+
+00:08:29.350 --> 00:08:33.460 align:middle line:84%
+And then I differentiate
+this with respect to pj.
+
+00:08:33.460 --> 00:08:37.610 align:middle line:84%
+And then I get-- this
+doesn't depend on pj,
+
+00:08:37.610 --> 00:08:39.890 align:middle line:84%
+so I get p minus c, second
+derivative of demand
+
+00:08:39.890 --> 00:08:43.940 align:middle line:84%
+with respect to pi
+and pj plus dDi, dpj.
+
+00:08:43.940 --> 00:08:47.840 align:middle line:84%
+And we're used to this term,
+firm j increases its price,
+
+00:08:47.840 --> 00:08:49.140 align:middle line:90%
+firm i's demand goes up.
+
+00:08:49.140 --> 00:08:51.540 align:middle line:90%
+This is the positive term.
+
+00:08:51.540 --> 00:08:56.040 align:middle line:84%
+But then there is this
+second term, pi minus c
+
+00:08:56.040 --> 00:08:59.930 align:middle line:84%
+times this second derivative of
+Di with respect to pi and pj.
+
+00:08:59.930 --> 00:09:07.920 align:middle line:84%
+So for instance, if I had an
+interaction in this demand
+
+00:09:07.920 --> 00:09:10.510 align:middle line:84%
+curve, then this term
+would be negative.
+
+00:09:10.510 --> 00:09:13.510 align:middle line:84%
+This term would be negative
+multiplied by this.
+
+00:09:13.510 --> 00:09:16.200 align:middle line:84%
+It's no longer obvious you
+have strategic complements.
+
+00:09:16.200 --> 00:09:20.040 align:middle line:84%
+So normally we think
+of price competition
+
+00:09:20.040 --> 00:09:22.840 align:middle line:84%
+as complements and quantity
+competition as substitutes,
+
+00:09:22.840 --> 00:09:24.635 align:middle line:90%
+but that's not always true.
+
+00:09:24.635 --> 00:09:29.580 align:middle line:90%
+
+
+00:09:29.580 --> 00:09:32.760 align:middle line:84%
+OK, second thing we're going
+to have to do in this model
+
+00:09:32.760 --> 00:09:35.460 align:middle line:84%
+is classify types
+of investments.
+
+00:09:35.460 --> 00:09:38.587 align:middle line:84%
+And the way the investment
+classification is going to work
+
+00:09:38.587 --> 00:09:40.170 align:middle line:84%
+is we're going to
+classify investments
+
+00:09:40.170 --> 00:09:43.890 align:middle line:84%
+based on their effect on
+the potential entrant.
+
+00:09:43.890 --> 00:09:47.670 align:middle line:84%
+So in this model, I'm going to
+define this reduced form profit
+
+00:09:47.670 --> 00:09:50.760 align:middle line:84%
+function to be the
+profit that firm I
+
+00:09:50.760 --> 00:09:54.820 align:middle line:90%
+gets when firm 1 has chosen k1.
+
+00:09:54.820 --> 00:10:01.010 align:middle line:84%
+And then we play the
+equilibrium action following k1.
+
+00:10:01.010 --> 00:10:06.120 align:middle line:84%
+And so a simple definition,
+investment makes firm 1 tough,
+
+00:10:06.120 --> 00:10:08.030 align:middle line:90%
+essentially if it hurts firm 2.
+
+00:10:08.030 --> 00:10:11.900 align:middle line:84%
+If this reduced form profit
+function is decreasing in k,
+
+00:10:11.900 --> 00:10:15.470 align:middle line:84%
+investment makes firm 1
+soft if that reduced form
+
+00:10:15.470 --> 00:10:19.430 align:middle line:90%
+profit is increasing in k.
+
+00:10:19.430 --> 00:10:22.310 align:middle line:84%
+And you know,
+sometimes it's obvious
+
+00:10:22.310 --> 00:10:23.550 align:middle line:90%
+which this is going to be.
+
+00:10:23.550 --> 00:10:26.510 align:middle line:84%
+So for instance, if this is an
+investment in cost reduction,
+
+00:10:26.510 --> 00:10:29.450 align:middle line:84%
+your intuition tells you if
+firm 1 has lower costs, that's
+
+00:10:29.450 --> 00:10:31.940 align:middle line:84%
+going to be bad for firm
+2 in equilibrium when
+
+00:10:31.940 --> 00:10:33.510 align:middle line:90%
+the prices shake out.
+
+00:10:33.510 --> 00:10:38.010 align:middle line:84%
+And so we will have d
+pi 2 dk1 less than 0,
+
+00:10:38.010 --> 00:10:40.370 align:middle line:84%
+so cost reductions
+in investment,
+
+00:10:40.370 --> 00:10:42.830 align:middle line:90%
+that makes you tough.
+
+00:10:42.830 --> 00:10:46.550 align:middle line:84%
+If the investment is
+lobbying to lower the tax
+
+00:10:46.550 --> 00:10:51.920 align:middle line:84%
+rates in an industry, if
+it's just like a profits tax,
+
+00:10:51.920 --> 00:10:53.600 align:middle line:84%
+a percentage tax on
+profits, it won't
+
+00:10:53.600 --> 00:10:55.250 align:middle line:90%
+affect any of the behavior.
+
+00:10:55.250 --> 00:10:58.802 align:middle line:84%
+So if you lobby to get taxes
+reduced, a reduction in taxes
+
+00:10:58.802 --> 00:11:00.510 align:middle line:84%
+isn't going to change
+any of the actions.
+
+00:11:00.510 --> 00:11:02.860 align:middle line:84%
+And it's going to end up
+being good for both firms.
+
+00:11:02.860 --> 00:11:07.140 align:middle line:84%
+So lobbying to lower tax
+rates would be an investment
+
+00:11:07.140 --> 00:11:10.320 align:middle line:90%
+that makes you soft.
+
+00:11:10.320 --> 00:11:13.710 align:middle line:84%
+When it's not
+obvious, it can help
+
+00:11:13.710 --> 00:11:17.770 align:middle line:84%
+to write down what this
+profit function looks like.
+
+00:11:17.770 --> 00:11:21.720 align:middle line:84%
+So if I think about
+differentiating,
+
+00:11:21.720 --> 00:11:30.780 align:middle line:84%
+so I have pi 2 star
+of k1 is profit
+
+00:11:30.780 --> 00:11:37.940 align:middle line:84%
+that firm 2 gets when
+the investment is k1.
+
+00:11:37.940 --> 00:11:41.313 align:middle line:84%
+And we have a1 star
+of k1, a2 star of k1.
+
+00:11:41.313 --> 00:11:46.170 align:middle line:90%
+
+
+00:11:46.170 --> 00:11:48.660 align:middle line:84%
+OK, if I differentiate
+this with respect to k1,
+
+00:11:48.660 --> 00:11:50.020 align:middle line:90%
+I'm going to get three terms.
+
+00:11:50.020 --> 00:11:52.830 align:middle line:84%
+First, I get the
+derivative here,
+
+00:11:52.830 --> 00:11:57.800 align:middle line:84%
+so I get the partial of
+pi 2 with respect to k1.
+
+00:11:57.800 --> 00:12:02.480 align:middle line:84%
+Second, I get this effect that
+when I change k1, a1 changes.
+
+00:12:02.480 --> 00:12:05.450 align:middle line:84%
+And that change in
+a1 affects pi 2.
+
+00:12:05.450 --> 00:12:09.590 align:middle line:84%
+And so that's partial pi
+2 with respect to a1 times
+
+00:12:09.590 --> 00:12:13.430 align:middle line:84%
+partial a1 star
+with respect to k1.
+
+00:12:13.430 --> 00:12:14.720 align:middle line:90%
+And then there's also--
+
+00:12:14.720 --> 00:12:16.553 align:middle line:84%
+you would think there
+would be a third term.
+
+00:12:16.553 --> 00:12:18.350 align:middle line:84%
+When I change k1,
+it affects this.
+
+00:12:18.350 --> 00:12:20.270 align:middle line:90%
+And that affects profits.
+
+00:12:20.270 --> 00:12:27.590 align:middle line:84%
+But the third term would be
+partial pi 2 with respect
+
+00:12:27.590 --> 00:12:35.840 align:middle line:84%
+to a2 evaluated at
+a2 star of k1 times
+
+00:12:35.840 --> 00:12:46.520 align:middle line:84%
+derivative of a2 star with
+respect to k1 evaluated at k1.
+
+00:12:46.520 --> 00:12:51.600 align:middle line:84%
+And if you think about
+this term here, that's 0.
+
+00:12:51.600 --> 00:12:56.930 align:middle line:84%
+When you evaluate d pi 2 / da2
+at a2 star of k1, a2 star of k1
+
+00:12:56.930 --> 00:12:59.630 align:middle line:84%
+was chosen where the first
+order condition is 0.
+
+00:12:59.630 --> 00:13:04.630 align:middle line:84%
+So there's no effect
+from k1 changes--
+
+00:13:04.630 --> 00:13:09.740 align:middle line:84%
+there's no third effect from
+k1 leads firm 2 to change a2.
+
+00:13:09.740 --> 00:13:11.600 align:middle line:84%
+And that has an
+effect on profits.
+
+00:13:11.600 --> 00:13:15.340 align:middle line:84%
+The marginal effect of
+changing a2 on profits is 0.
+
+00:13:15.340 --> 00:13:18.010 align:middle line:84%
+So we really-- so
+this term is 0.
+
+00:13:18.010 --> 00:13:19.610 align:middle line:90%
+And we just have two effects.
+
+00:13:19.610 --> 00:13:23.410 align:middle line:84%
+We have what's called the
+direct effect where k1 directly
+
+00:13:23.410 --> 00:13:27.640 align:middle line:84%
+affects firm 2's profits, and
+for the investment like cost
+
+00:13:27.640 --> 00:13:30.820 align:middle line:90%
+reduction, this term is 0.
+
+00:13:30.820 --> 00:13:33.220 align:middle line:84%
+Firm 1's cost reduction
+has no direct effect
+
+00:13:33.220 --> 00:13:34.760 align:middle line:90%
+on firm 2's profits.
+
+00:13:34.760 --> 00:13:38.440 align:middle line:84%
+And in the cost reduction case,
+it comes in through this term
+
+00:13:38.440 --> 00:13:42.160 align:middle line:84%
+that when I invest
+more in cost reduction,
+
+00:13:42.160 --> 00:13:44.810 align:middle line:90%
+I lower firm 1's price.
+
+00:13:44.810 --> 00:13:45.700 align:middle line:90%
+So this is negative.
+
+00:13:45.700 --> 00:13:49.810 align:middle line:84%
+When I lower my price, d
+pi 2 / da1 is positive.
+
+00:13:49.810 --> 00:13:53.750 align:middle line:84%
+Firm 2 benefits when firm
+1 sets a higher price.
+
+00:13:53.750 --> 00:13:56.420 align:middle line:84%
+So the cost reduction has a
+negative strategic effect.
+
+00:13:56.420 --> 00:13:59.260 align:middle line:84%
+It causes firm 1 to
+do something that's
+
+00:13:59.260 --> 00:14:03.370 align:middle line:84%
+bad for firm 2, which
+is cut its price.
+
+00:14:03.370 --> 00:14:05.950 align:middle line:84%
+In the lobbying to
+lower tax rates,
+
+00:14:05.950 --> 00:14:09.020 align:middle line:84%
+there I was describing a thing
+that has a direct effect.
+
+00:14:09.020 --> 00:14:10.480 align:middle line:84%
+If I lobbied lower
+tax rates and I
+
+00:14:10.480 --> 00:14:13.210 align:middle line:84%
+get tax rates lowered,
+holding actions fixed,
+
+00:14:13.210 --> 00:14:15.410 align:middle line:90%
+that raises firm 2's profits.
+
+00:14:15.410 --> 00:14:18.970 align:middle line:84%
+And then if it's just
+a tax on profits,
+
+00:14:18.970 --> 00:14:22.430 align:middle line:84%
+it doesn't affect
+equilibrium prices.
+
+00:14:22.430 --> 00:14:25.365 align:middle line:84%
+So da1 / dk1 is 0, and
+there's no strategic effect.
+
+00:14:25.365 --> 00:14:29.020 align:middle line:90%
+
+
+00:14:29.020 --> 00:14:31.560 align:middle line:84%
+And so I have some
+examples on the other side.
+
+00:14:31.560 --> 00:14:34.690 align:middle line:90%
+You can think about--
+
+00:14:34.690 --> 00:14:38.920 align:middle line:84%
+so for instance, suppose we had
+a competition on a line game.
+
+00:14:38.920 --> 00:14:42.970 align:middle line:84%
+And firm 1 has the option to
+extend the line and move even
+
+00:14:42.970 --> 00:14:45.460 align:middle line:84%
+further away out
+in this direction.
+
+00:14:45.460 --> 00:14:46.725 align:middle line:90%
+What would that do?
+
+00:14:46.725 --> 00:14:49.877 align:middle line:90%
+
+
+00:14:49.877 --> 00:14:51.460 align:middle line:84%
+There, they're going
+to be-- and let's
+
+00:14:51.460 --> 00:14:52.710 align:middle line:90%
+have it in the hotel and game.
+
+00:14:52.710 --> 00:14:54.190 align:middle line:90%
+So firm 1 used to be here.
+
+00:14:54.190 --> 00:14:56.320 align:middle line:84%
+And firm 1 is a chance
+to just move further away
+
+00:14:56.320 --> 00:14:59.530 align:middle line:90%
+off the end of the beach.
+
+00:14:59.530 --> 00:15:03.650 align:middle line:84%
+So moving further away, the
+direct effect is positive.
+
+00:15:03.650 --> 00:15:07.780 align:middle line:84%
+If we hold the prices as fixed
+and firm 1 moves farther away,
+
+00:15:07.780 --> 00:15:10.210 align:middle line:84%
+the midpoint of the line
+moves from here to here,
+
+00:15:10.210 --> 00:15:13.860 align:middle line:84%
+so firm 2 is going to
+get more customers.
+
+00:15:13.860 --> 00:15:18.630 align:middle line:84%
+And then the strategic
+effect, again,
+
+00:15:18.630 --> 00:15:21.910 align:middle line:84%
+profit of firm 2 with respect
+to price of firm 1 is positive.
+
+00:15:21.910 --> 00:15:24.030 align:middle line:84%
+Firm 2 likes 1 to
+set high prices.
+
+00:15:24.030 --> 00:15:26.310 align:middle line:84%
+And the further
+firm 1 moves away,
+
+00:15:26.310 --> 00:15:28.140 align:middle line:84%
+the higher will
+firm 1's price be.
+
+00:15:28.140 --> 00:15:30.990 align:middle line:84%
+Therefore, this is
+positive, this is positive.
+
+00:15:30.990 --> 00:15:33.610 align:middle line:84%
+So the direct effect in
+that model is positive.
+
+00:15:33.610 --> 00:15:35.143 align:middle line:84%
+The strategic
+effect is positive.
+
+00:15:35.143 --> 00:15:36.810 align:middle line:84%
+Moving away from firm
+2 is an investment
+
+00:15:36.810 --> 00:15:37.910 align:middle line:90%
+that makes firm 1 soft.
+
+00:15:37.910 --> 00:15:40.875 align:middle line:90%
+
+
+00:15:40.875 --> 00:15:43.990 align:middle line:84%
+And other things--
+investments can be neither.
+
+00:15:43.990 --> 00:15:46.947 align:middle line:84%
+So if you think about
+an advertising campaign,
+
+00:15:46.947 --> 00:15:48.780 align:middle line:84%
+suppose you run an
+advertising campaign that
+
+00:15:48.780 --> 00:15:50.430 align:middle line:84%
+will convince some
+number of customers
+
+00:15:50.430 --> 00:15:52.020 align:middle line:84%
+to never leave your
+firm or to have
+
+00:15:52.020 --> 00:15:56.190 align:middle line:84%
+a tremendous loyalty for your
+firm and not want to switch.
+
+00:15:56.190 --> 00:15:59.290 align:middle line:84%
+The direct effect on
+your rival is negative.
+
+00:15:59.290 --> 00:16:00.833 align:middle line:84%
+When those customers
+become captive,
+
+00:16:00.833 --> 00:16:02.500 align:middle line:84%
+they're not going to
+consider the rival.
+
+00:16:02.500 --> 00:16:04.625 align:middle line:84%
+Therefore, the rival is
+going to get fewer of them,
+
+00:16:04.625 --> 00:16:05.830 align:middle line:90%
+holding prices fixed.
+
+00:16:05.830 --> 00:16:08.400 align:middle line:90%
+That hurts the rival.
+
+00:16:08.400 --> 00:16:11.910 align:middle line:84%
+But again, price
+competition, firm 2
+
+00:16:11.910 --> 00:16:13.868 align:middle line:90%
+likes me charging high prices.
+
+00:16:13.868 --> 00:16:15.660 align:middle line:84%
+And when I have these
+captive customers who
+
+00:16:15.660 --> 00:16:17.118 align:middle line:84%
+won't consider
+switching, I'm going
+
+00:16:17.118 --> 00:16:19.090 align:middle line:84%
+to price high to exploit
+the captive customers.
+
+00:16:19.090 --> 00:16:22.030 align:middle line:84%
+I can't discriminate between the
+captive and non-captive people.
+
+00:16:22.030 --> 00:16:24.390 align:middle line:84%
+Therefore, my price
+is going to be higher.
+
+00:16:24.390 --> 00:16:25.980 align:middle line:84%
+So you get a negative
+direct effect,
+
+00:16:25.980 --> 00:16:27.580 align:middle line:90%
+a positive strategic effect.
+
+00:16:27.580 --> 00:16:29.735 align:middle line:90%
+It's not clear.
+
+00:16:29.735 --> 00:16:31.110 align:middle line:84%
+It would depend
+on which of those
+
+00:16:31.110 --> 00:16:32.490 align:middle line:84%
+is larger whether this
+is an investment that
+
+00:16:32.490 --> 00:16:33.610 align:middle line:90%
+makes you tough or soft.
+
+00:16:33.610 --> 00:16:34.860 align:middle line:90%
+And it could be neither.
+
+00:16:34.860 --> 00:16:40.010 align:middle line:84%
+It could be sometimes soft in
+some ranges, tough in others.
+
+00:16:40.010 --> 00:16:43.000 align:middle line:84%
+But just the tough, soft
+distinction is all about--
+
+00:16:43.000 --> 00:16:45.430 align:middle line:84%
+it's not really how
+it affects firm 1.
+
+00:16:45.430 --> 00:16:46.665 align:middle line:90%
+It's how it affects firm 2.
+
+00:16:46.665 --> 00:16:52.290 align:middle line:90%
+
+
+00:16:52.290 --> 00:16:55.270 align:middle line:84%
+OK, so let me now go through
+Bain's cases in order,
+
+00:16:55.270 --> 00:16:58.260 align:middle line:84%
+so first, this
+blockaded entry case.
+
+00:16:58.260 --> 00:17:02.130 align:middle line:84%
+So blockaded entry case is
+the case where firm 2 just
+
+00:17:02.130 --> 00:17:04.140 align:middle line:84%
+has very, very high entry
+costs and will never
+
+00:17:04.140 --> 00:17:05.819 align:middle line:90%
+consider entering.
+
+00:17:05.819 --> 00:17:09.030 align:middle line:84%
+So I'm going to
+write k1m and a1m
+
+00:17:09.030 --> 00:17:12.130 align:middle line:84%
+for what a monopolist would do
+if there wasn't even a firm 2.
+
+00:17:12.130 --> 00:17:15.060 align:middle line:84%
+It's just going to
+choose the a1 and the k1
+
+00:17:15.060 --> 00:17:19.290 align:middle line:84%
+to maximize its monopoly
+profit function.
+
+00:17:19.290 --> 00:17:21.780 align:middle line:84%
+And the blockaded
+entry case is when,
+
+00:17:21.780 --> 00:17:26.190 align:middle line:84%
+if you choose this optimal
+monopoly investment,
+
+00:17:26.190 --> 00:17:28.950 align:middle line:84%
+firm 2's equilibrium
+profits are less than e,
+
+00:17:28.950 --> 00:17:31.150 align:middle line:90%
+so firm 2 is not going to enter.
+
+00:17:31.150 --> 00:17:33.630 align:middle line:84%
+And so then this is-- really,
+it's not an entry model.
+
+00:17:33.630 --> 00:17:36.100 align:middle line:84%
+Firm 1 just ignores
+potential entrant.
+
+00:17:36.100 --> 00:17:37.530 align:middle line:90%
+It chooses k1m.
+
+00:17:37.530 --> 00:17:38.555 align:middle line:90%
+That's all that happens.
+
+00:17:38.555 --> 00:17:43.600 align:middle line:90%
+
+
+00:17:43.600 --> 00:17:45.400 align:middle line:84%
+I mentioned that,
+because now let's
+
+00:17:45.400 --> 00:17:47.733 align:middle line:84%
+think about what happens if
+you're going to deter entry.
+
+00:17:47.733 --> 00:17:49.910 align:middle line:90%
+
+
+00:17:49.910 --> 00:17:53.163 align:middle line:84%
+The optimal entry
+deterring investment
+
+00:17:53.163 --> 00:17:55.080 align:middle line:84%
+is going-- you're going
+to solve this problem.
+
+00:17:55.080 --> 00:17:58.490 align:middle line:84%
+I'm going to try to maximize
+over all possible investment
+
+00:17:58.490 --> 00:18:01.190 align:middle line:84%
+levels and actions
+the profit that I'm
+
+00:18:01.190 --> 00:18:05.900 align:middle line:84%
+going to get from choosing k1
+and then choosing action a1.
+
+00:18:05.900 --> 00:18:08.660 align:middle line:84%
+But I've got to do it
+subject to the constraint
+
+00:18:08.660 --> 00:18:11.240 align:middle line:84%
+that firm 2's
+equilibrium profits
+
+00:18:11.240 --> 00:18:16.290 align:middle line:84%
+after I've chosen k1 are at most
+e, so that firm 2 doesn't enter.
+
+00:18:16.290 --> 00:18:19.075 align:middle line:84%
+So I'm choosing this same
+maximization problem,
+
+00:18:19.075 --> 00:18:20.450 align:middle line:84%
+but I just put in
+this constraint
+
+00:18:20.450 --> 00:18:26.780 align:middle line:84%
+that I have to ensure that
+firm 2's profit is less than e.
+
+00:18:26.780 --> 00:18:31.100 align:middle line:84%
+And the entry deterrence
+case I'm looking at
+
+00:18:31.100 --> 00:18:42.140 align:middle line:84%
+is suppose that pi 2 star
+of k1m is greater than e.
+
+00:18:42.140 --> 00:18:44.820 align:middle line:84%
+So in this case,
+firm 2's profits,
+
+00:18:44.820 --> 00:18:47.870 align:middle line:84%
+if I just behave as
+if firm 2 isn't there,
+
+00:18:47.870 --> 00:18:49.800 align:middle line:90%
+firm 2 is going to enter.
+
+00:18:49.800 --> 00:18:51.803 align:middle line:90%
+So this would be--
+
+00:18:51.803 --> 00:18:54.470 align:middle line:84%
+if this was less than e, I would
+be in the blockaded entry case.
+
+00:18:54.470 --> 00:18:56.780 align:middle line:84%
+With this greater
+than e, this is when I
+
+00:18:56.780 --> 00:18:58.220 align:middle line:90%
+need to be at this constraint.
+
+00:18:58.220 --> 00:18:59.545 align:middle line:90%
+This constraint is binding.
+
+00:18:59.545 --> 00:19:04.410 align:middle line:90%
+
+
+00:19:04.410 --> 00:19:07.170 align:middle line:84%
+So anyway, how do you
+distort your investment
+
+00:19:07.170 --> 00:19:10.290 align:middle line:90%
+and make k1ED differ from k1m?
+
+00:19:10.290 --> 00:19:15.030 align:middle line:84%
+Very simple theorem says that if
+investment makes firm 1 tough,
+
+00:19:15.030 --> 00:19:18.000 align:middle line:84%
+then the entry deterring
+level of investment
+
+00:19:18.000 --> 00:19:19.800 align:middle line:90%
+is greater than k1m.
+
+00:19:19.800 --> 00:19:21.990 align:middle line:84%
+And if investment
+makes firm 1 soft,
+
+00:19:21.990 --> 00:19:25.595 align:middle line:84%
+then the entry deterring level
+of investment is less than k1m.
+
+00:19:25.595 --> 00:19:32.500 align:middle line:90%
+
+
+00:19:32.500 --> 00:19:36.450 align:middle line:84%
+An easy way to think about
+this is you just have--
+
+00:19:36.450 --> 00:19:39.060 align:middle line:84%
+I put my investment
+on this axis.
+
+00:19:39.060 --> 00:19:42.210 align:middle line:84%
+And let me graph some
+profits on this axis.
+
+00:19:42.210 --> 00:19:48.000 align:middle line:84%
+So let this be e,
+the level of profits
+
+00:19:48.000 --> 00:19:51.270 align:middle line:84%
+that firm 2 needs to enter
+to come into the market.
+
+00:19:51.270 --> 00:20:01.210 align:middle line:84%
+And so imagine-- you
+know, imagine this is k1m
+
+00:20:01.210 --> 00:20:04.780 align:middle line:90%
+and this is pi 2 star of k1.
+
+00:20:04.780 --> 00:20:08.100 align:middle line:84%
+So this is an investment
+that makes firm 1 tough,
+
+00:20:08.100 --> 00:20:11.093 align:middle line:90%
+so investing, investing more--
+
+00:20:11.093 --> 00:20:13.960 align:middle line:90%
+
+
+00:20:13.960 --> 00:20:18.160 align:middle line:90%
+investing more hurts firm 2.
+
+00:20:18.160 --> 00:20:21.040 align:middle line:90%
+And again, if I also graph--
+
+00:20:21.040 --> 00:20:25.140 align:middle line:84%
+let's imagine pi
+1 looks like this.
+
+00:20:25.140 --> 00:20:29.250 align:middle line:90%
+
+
+00:20:29.250 --> 00:20:33.490 align:middle line:84%
+pi 1 star of k1, it's
+maximized at k1 monopoly.
+
+00:20:33.490 --> 00:20:36.030 align:middle line:84%
+So what I would like to
+do if firm 2 wasn't there
+
+00:20:36.030 --> 00:20:38.730 align:middle line:84%
+is I would choose this
+level of investment.
+
+00:20:38.730 --> 00:20:42.550 align:middle line:84%
+I would receive that
+level of profits.
+
+00:20:42.550 --> 00:20:44.410 align:middle line:84%
+But I can't do that,
+because if I did,
+
+00:20:44.410 --> 00:20:45.840 align:middle line:90%
+that, firm 2 would come in.
+
+00:20:45.840 --> 00:20:47.620 align:middle line:90%
+So this is pi 1.
+
+00:20:47.620 --> 00:20:52.420 align:middle line:84%
+We should call this
+pi 1 monopoly of k1.
+
+00:20:52.420 --> 00:20:53.870 align:middle line:90%
+That's what I would like to do.
+
+00:20:53.870 --> 00:20:54.890 align:middle line:90%
+I can't.
+
+00:20:54.890 --> 00:20:56.030 align:middle line:90%
+What do I have to do?
+
+00:20:56.030 --> 00:20:58.000 align:middle line:84%
+I have to choose a
+level of investment
+
+00:20:58.000 --> 00:21:03.190 align:middle line:84%
+that is sufficient to make sure
+that pi 2 star is less than e.
+
+00:21:03.190 --> 00:21:04.660 align:middle line:84%
+So what I would
+do in this example
+
+00:21:04.660 --> 00:21:09.650 align:middle line:84%
+is this would be k1
+entry deterrence.
+
+00:21:09.650 --> 00:21:11.000 align:middle line:90%
+I just need to--
+
+00:21:11.000 --> 00:21:14.300 align:middle line:90%
+I need to move firm 2's--
+
+00:21:14.300 --> 00:21:16.400 align:middle line:84%
+I need to move firm 2's
+profits in whatever--
+
+00:21:16.400 --> 00:21:18.025 align:middle line:84%
+I need to move k1 in
+whatever direction
+
+00:21:18.025 --> 00:21:20.330 align:middle line:90%
+moves firm 2's profits down.
+
+00:21:20.330 --> 00:21:24.050 align:middle line:84%
+And so in this case, I
+distort my investment
+
+00:21:24.050 --> 00:21:25.260 align:middle line:90%
+going in that direction.
+
+00:21:25.260 --> 00:21:26.730 align:middle line:90%
+And so I'm over-investing.
+
+00:21:26.730 --> 00:21:30.365 align:middle line:84%
+We'll call that I'm
+over-investing in k1 in order
+
+00:21:30.365 --> 00:21:31.740 align:middle line:84%
+to keep firm 2
+out of the market.
+
+00:21:31.740 --> 00:21:35.540 align:middle line:84%
+So for instance, this
+would be the graph of I'm
+
+00:21:35.540 --> 00:21:38.420 align:middle line:84%
+investing in a
+cost-reducing technology.
+
+00:21:38.420 --> 00:21:41.270 align:middle line:84%
+And so if I-- if
+firm 2 wasn't there,
+
+00:21:41.270 --> 00:21:44.543 align:middle line:84%
+I would just go ahead and do
+minimal investments in cost.
+
+00:21:44.543 --> 00:21:46.460 align:middle line:84%
+Do this level of investment
+in cost reduction,
+
+00:21:46.460 --> 00:21:47.970 align:middle line:90%
+I'd earn this profits.
+
+00:21:47.970 --> 00:21:50.100 align:middle line:84%
+But then with this,
+if I have the cost
+
+00:21:50.100 --> 00:21:53.000 align:middle line:84%
+that this investment produces,
+firm 2 is going to enter.
+
+00:21:53.000 --> 00:21:55.490 align:middle line:84%
+So what I do is I do
+more cost reduction
+
+00:21:55.490 --> 00:21:59.060 align:middle line:90%
+than I need to as a monopolist.
+
+00:21:59.060 --> 00:22:03.080 align:middle line:84%
+I'm distorting my
+monopoly investment,
+
+00:22:03.080 --> 00:22:05.430 align:middle line:84%
+therefore, I'm
+lowering my profits.
+
+00:22:05.430 --> 00:22:07.538 align:middle line:84%
+But I do that
+because I need to do
+
+00:22:07.538 --> 00:22:10.080 align:middle line:84%
+that to keep firm 2 out of the
+market and remain a monopolist
+
+00:22:10.080 --> 00:22:12.570 align:middle line:84%
+and not be a duopoly, which
+in this case, I'm assuming
+
+00:22:12.570 --> 00:22:13.700 align:middle line:90%
+is even worse for you.
+
+00:22:13.700 --> 00:22:17.000 align:middle line:90%
+
+
+00:22:17.000 --> 00:22:19.280 align:middle line:84%
+And if the investment
+was one that
+
+00:22:19.280 --> 00:22:25.610 align:middle line:84%
+made firm 1 soft, if
+firm 2's profits instead
+
+00:22:25.610 --> 00:22:28.250 align:middle line:84%
+looked like this,
+then obviously again,
+
+00:22:28.250 --> 00:22:30.320 align:middle line:84%
+I would just distort
+down in this direction
+
+00:22:30.320 --> 00:22:31.850 align:middle line:90%
+and take this point.
+
+00:22:31.850 --> 00:22:35.900 align:middle line:84%
+So I'm always just
+distorting in whichever
+
+00:22:35.900 --> 00:22:37.950 align:middle line:90%
+direction hurts firm 2.
+
+00:22:37.950 --> 00:22:40.860 align:middle line:84%
+And so strategic entry
+deterrence is very simple.
+
+00:22:40.860 --> 00:22:42.480 align:middle line:84%
+It's just about
+hurting your rival.
+
+00:22:42.480 --> 00:22:43.585 align:middle line:90%
+That's all there is to it.
+
+00:22:43.585 --> 00:22:49.450 align:middle line:90%
+
+
+00:22:49.450 --> 00:22:54.520 align:middle line:84%
+As I drew this, I made firm 1's
+monopoly profits single peaked.
+
+00:22:54.520 --> 00:22:56.880 align:middle line:84%
+When firm 1's monopoly
+profits are single peaked,
+
+00:22:56.880 --> 00:22:59.680 align:middle line:84%
+you want to go as
+far away from--
+
+00:22:59.680 --> 00:23:03.400 align:middle line:84%
+you want to stay as close as you
+can to k1m and not distort more
+
+00:23:03.400 --> 00:23:04.190 align:middle line:90%
+than you need to.
+
+00:23:04.190 --> 00:23:05.857 align:middle line:84%
+So you would always
+go just to the point
+
+00:23:05.857 --> 00:23:07.910 align:middle line:84%
+where the entry
+cost first hits e.
+
+00:23:07.910 --> 00:23:13.030 align:middle line:90%
+
+
+00:23:13.030 --> 00:23:14.475 align:middle line:90%
+Any questions on that?
+
+00:23:14.475 --> 00:23:21.540 align:middle line:90%
+
+
+00:23:21.540 --> 00:23:24.600 align:middle line:90%
+OK, so some examples.
+
+00:23:24.600 --> 00:23:26.310 align:middle line:84%
+In the cost reduction
+game, I said,
+
+00:23:26.310 --> 00:23:28.980 align:middle line:84%
+you know, firm 1 is going to
+over-invest in cost reduction
+
+00:23:28.980 --> 00:23:31.860 align:middle line:90%
+to deter entry.
+
+00:23:31.860 --> 00:23:33.990 align:middle line:84%
+Advertising to increase
+market size, so
+
+00:23:33.990 --> 00:23:36.600 align:middle line:84%
+suppose you have a
+new product, you're
+
+00:23:36.600 --> 00:23:38.700 align:middle line:84%
+advertising for the
+product, and advertising
+
+00:23:38.700 --> 00:23:43.950 align:middle line:84%
+is going to raise demand for
+that product for everyone.
+
+00:23:43.950 --> 00:23:48.210 align:middle line:84%
+And so if this advertising
+is going to make more people
+
+00:23:48.210 --> 00:23:52.710 align:middle line:84%
+want whatever this product is,
+if that's going to help you
+
+00:23:52.710 --> 00:23:55.410 align:middle line:84%
+and that's going to help
+rivals, if the rivals enter,
+
+00:23:55.410 --> 00:23:58.680 align:middle line:84%
+then you're going to
+limit that advertising
+
+00:23:58.680 --> 00:24:01.770 align:middle line:90%
+to avoid attracting entry.
+
+00:24:01.770 --> 00:24:03.450 align:middle line:84%
+And so that's the
+case where investing
+
+00:24:03.450 --> 00:24:10.590 align:middle line:84%
+in something that has spillovers
+to you or your rivals raises--
+
+00:24:10.590 --> 00:24:13.590 align:middle line:84%
+if it raises everyone's
+profits, then increasing
+
+00:24:13.590 --> 00:24:16.065 align:middle line:84%
+the size of the market, then
+it's going to attract entry
+
+00:24:16.065 --> 00:24:17.940 align:middle line:84%
+and therefore that
+investment makes you soft,
+
+00:24:17.940 --> 00:24:20.550 align:middle line:84%
+you do less of it
+to deter entry.
+
+00:24:20.550 --> 00:24:24.600 align:middle line:84%
+So, for instance, if I'm the
+Chipotle in Kendall Square and I
+
+00:24:24.600 --> 00:24:27.600 align:middle line:84%
+just advertise "Burritos
+are great" more generally,
+
+00:24:27.600 --> 00:24:30.840 align:middle line:84%
+could be a second burrito shop
+opens up in Kendall Square
+
+00:24:30.840 --> 00:24:34.270 align:middle line:84%
+and therefore, everyone likes
+burritos more, whatever.
+
+00:24:34.270 --> 00:24:37.620 align:middle line:84%
+So maybe it's not so
+plausible, but you just
+
+00:24:37.620 --> 00:24:39.872 align:middle line:84%
+do less advertising, because
+the more you advertise,
+
+00:24:39.872 --> 00:24:41.580 align:middle line:84%
+the bigger is the
+market, the more likely
+
+00:24:41.580 --> 00:24:44.440 align:middle line:84%
+some other firm is
+going to come in.
+
+00:24:44.440 --> 00:24:48.880 align:middle line:84%
+Again, differentiation-- if you
+can have some way that you can,
+
+00:24:48.880 --> 00:24:53.140 align:middle line:84%
+either by designing your product
+or by advertising your product,
+
+00:24:53.140 --> 00:24:55.390 align:middle line:84%
+make consumers have
+idiosyncratic preference
+
+00:24:55.390 --> 00:25:00.360 align:middle line:84%
+for your product relative
+to rivals' products,
+
+00:25:00.360 --> 00:25:04.530 align:middle line:84%
+differentiating also will raise
+the-- differentiation will--
+
+00:25:04.530 --> 00:25:06.990 align:middle line:84%
+in c plus t, if
+you increase t, it
+
+00:25:06.990 --> 00:25:08.820 align:middle line:90%
+will raise the rivals' profits.
+
+00:25:08.820 --> 00:25:12.680 align:middle line:84%
+Therefore, you want to avoid
+differentiating to deter entry.
+
+00:25:12.680 --> 00:25:15.470 align:middle line:90%
+
+
+00:25:15.470 --> 00:25:18.980 align:middle line:84%
+Like in a competition
+on a line model,
+
+00:25:18.980 --> 00:25:21.200 align:middle line:84%
+it could be that the
+thing I want to do
+
+00:25:21.200 --> 00:25:23.797 align:middle line:84%
+is locate exactly in the middle,
+so that if I locate exactly
+
+00:25:23.797 --> 00:25:26.130 align:middle line:84%
+in the middle, then firm 2
+has to be pretty close to me,
+
+00:25:26.130 --> 00:25:27.570 align:middle line:90%
+and then we don't earn profits.
+
+00:25:27.570 --> 00:25:29.665 align:middle line:84%
+That keeps the firm
+out of the market.
+
+00:25:29.665 --> 00:25:33.670 align:middle line:90%
+
+
+00:25:33.670 --> 00:25:35.540 align:middle line:90%
+Any questions?
+
+00:25:35.540 --> 00:25:40.620 align:middle line:90%
+
+
+00:25:40.620 --> 00:25:44.820 align:middle line:84%
+So accommodating
+entry, what's going
+
+00:25:44.820 --> 00:25:47.730 align:middle line:84%
+to happen in this game is
+if you think about this,
+
+00:25:47.730 --> 00:25:55.295 align:middle line:84%
+suppose I reduce e, and
+I make e a lot lower.
+
+00:25:55.295 --> 00:25:58.240 align:middle line:90%
+
+
+00:25:58.240 --> 00:26:00.730 align:middle line:84%
+If e is a lot
+lower, the only way
+
+00:26:00.730 --> 00:26:05.920 align:middle line:84%
+I'm going to keep firm 2 out
+of the market is to reduce,
+
+00:26:05.920 --> 00:26:09.100 align:middle line:84%
+is to increase k1 all
+the way up to this level.
+
+00:26:09.100 --> 00:26:11.560 align:middle line:84%
+And then at this level,
+as I've drawn it,
+
+00:26:11.560 --> 00:26:13.935 align:middle line:90%
+my profits are essentially 0.
+
+00:26:13.935 --> 00:26:16.650 align:middle line:90%
+
+
+00:26:16.650 --> 00:26:19.810 align:middle line:84%
+And so I'm going to have--
+this was my monopoly profits.
+
+00:26:19.810 --> 00:26:22.625 align:middle line:84%
+I'm going to also have, say,
+like duopoly profits curve.
+
+00:26:22.625 --> 00:26:27.750 align:middle line:90%
+
+
+00:26:27.750 --> 00:26:30.270 align:middle line:84%
+And if the amount
+by which I have
+
+00:26:30.270 --> 00:26:37.800 align:middle line:84%
+to raise my investment in order
+to keep firm 2 out of the market
+
+00:26:37.800 --> 00:26:41.610 align:middle line:84%
+is so large that it's
+going to make my--
+
+00:26:41.610 --> 00:26:45.622 align:middle line:84%
+I should probably have made
+this one lower everywhere.
+
+00:26:45.622 --> 00:26:47.580 align:middle line:84%
+Duopoly profits are
+generally going to be lower
+
+00:26:47.580 --> 00:26:48.770 align:middle line:90%
+than monopoly profits.
+
+00:26:48.770 --> 00:26:52.140 align:middle line:90%
+So it might look like this.
+
+00:26:52.140 --> 00:26:54.840 align:middle line:84%
+It may be that rather than go
+all the way out here and drive
+
+00:26:54.840 --> 00:26:58.440 align:middle line:84%
+my monopoly profits to
+0, I'm better off just
+
+00:26:58.440 --> 00:27:01.260 align:middle line:84%
+going somewhere, doing a
+more moderate investment
+
+00:27:01.260 --> 00:27:04.170 align:middle line:84%
+and admitting that firm 2
+is going to be in the market
+
+00:27:04.170 --> 00:27:06.400 align:middle line:90%
+and accommodate entry instead.
+
+00:27:06.400 --> 00:27:11.130 align:middle line:84%
+So if the profits from deterring
+entry are sufficiently low,
+
+00:27:11.130 --> 00:27:14.280 align:middle line:84%
+instead I may just go to
+an accommodation strategy
+
+00:27:14.280 --> 00:27:17.970 align:middle line:84%
+where I instead choose
+k not to deter entry,
+
+00:27:17.970 --> 00:27:19.980 align:middle line:84%
+but to do what's best
+possible for given
+
+00:27:19.980 --> 00:27:21.455 align:middle line:90%
+that firm 2 is going to enter.
+
+00:27:21.455 --> 00:27:24.740 align:middle line:90%
+
+
+00:27:24.740 --> 00:27:28.500 align:middle line:84%
+So let me discuss the entry
+accommodation solution.
+
+00:27:28.500 --> 00:27:30.770 align:middle line:90%
+I'm going to call that k1AC.
+
+00:27:30.770 --> 00:27:36.410 align:middle line:84%
+That's going to be the argmax of
+overall k1 of pi 1 star of k1,
+
+00:27:36.410 --> 00:27:38.980 align:middle line:84%
+where pi 1 star is the
+duopoly profit function.
+
+00:27:38.980 --> 00:27:41.950 align:middle line:90%
+
+
+00:27:41.950 --> 00:27:45.250 align:middle line:84%
+So in this example,
+let's suppose
+
+00:27:45.250 --> 00:27:48.690 align:middle line:84%
+it looks like this,
+it's maximized here.
+
+00:27:48.690 --> 00:27:51.710 align:middle line:90%
+I could have k1 accommodation.
+
+00:27:51.710 --> 00:27:54.560 align:middle line:90%
+
+
+00:27:54.560 --> 00:27:59.420 align:middle line:84%
+I'm instead maximizing
+the duopoly profits
+
+00:27:59.420 --> 00:28:02.515 align:middle line:84%
+that I'm going to get if
+I choose investment k1.
+
+00:28:02.515 --> 00:28:08.470 align:middle line:90%
+
+
+00:28:08.470 --> 00:28:11.800 align:middle line:84%
+And so what Fudenberg
+will do is give you
+
+00:28:11.800 --> 00:28:14.950 align:middle line:84%
+a little bit of thinking
+about, you know, when are you
+
+00:28:14.950 --> 00:28:18.070 align:middle line:84%
+going to over-invest
+or under-invest
+
+00:28:18.070 --> 00:28:20.120 align:middle line:90%
+in order to accommodate entry?
+
+00:28:20.120 --> 00:28:21.800 align:middle line:84%
+How do you think
+about that decision?
+
+00:28:21.800 --> 00:28:24.080 align:middle line:84%
+I said the deterrence
+one was simple.
+
+00:28:24.080 --> 00:28:26.270 align:middle line:84%
+You just think about I want
+to hurt the other firm.
+
+00:28:26.270 --> 00:28:27.860 align:middle line:90%
+If it's tough, I over-invest.
+
+00:28:27.860 --> 00:28:29.720 align:middle line:90%
+If it's soft, I under-invest.
+
+00:28:29.720 --> 00:28:32.850 align:middle line:90%
+How do we think about this?
+
+00:28:32.850 --> 00:28:35.030 align:middle line:90%
+Well, so I need a benchmark.
+
+00:28:35.030 --> 00:28:39.670 align:middle line:84%
+So as a point of comparison,
+they define k1OL--
+
+00:28:39.670 --> 00:28:42.520 align:middle line:90%
+OL stands for "open loop."
+
+00:28:42.520 --> 00:28:48.190 align:middle line:84%
+That's a terminology that's
+disappeared from economics
+
+00:28:48.190 --> 00:28:49.780 align:middle line:90%
+since they wrote the paper.
+
+00:28:49.780 --> 00:28:53.830 align:middle line:84%
+So we define k1 open loop to
+be the level of investment
+
+00:28:53.830 --> 00:28:57.700 align:middle line:84%
+that firm 1 would choose
+if entry was going to occur
+
+00:28:57.700 --> 00:29:01.340 align:middle line:90%
+and firm 2 could not observe k1.
+
+00:29:01.340 --> 00:29:07.340 align:middle line:84%
+So if firm 2 can't observe
+k1, then in equilibrium it
+
+00:29:07.340 --> 00:29:09.440 align:middle line:84%
+must be the case that
+the partial of pi 1
+
+00:29:09.440 --> 00:29:13.160 align:middle line:84%
+with respect to k1
+evaluated at k1 open loop,
+
+00:29:13.160 --> 00:29:17.810 align:middle line:84%
+and then the equilibrium actions
+that follow, is equal to 0.
+
+00:29:17.810 --> 00:29:20.240 align:middle line:84%
+OK, so think about the
+equilibrium-- think
+
+00:29:20.240 --> 00:29:23.240 align:middle line:84%
+about the game where
+firm 1 chooses k1,
+
+00:29:23.240 --> 00:29:25.580 align:middle line:84%
+and then firm 2
+doesn't observe k1
+
+00:29:25.580 --> 00:29:27.440 align:middle line:84%
+before it makes
+its entry decision.
+
+00:29:27.440 --> 00:29:29.750 align:middle line:84%
+In equilibrium, it
+correctly anticipates
+
+00:29:29.750 --> 00:29:34.280 align:middle line:84%
+what the investment was, and
+then the actions by both firms
+
+00:29:34.280 --> 00:29:37.760 align:middle line:90%
+reflect what the investment was.
+
+00:29:37.760 --> 00:29:42.390 align:middle line:84%
+But so we get it's this
+partial is equal to 0 evaluated
+
+00:29:42.390 --> 00:29:46.590 align:middle line:84%
+at k1 open loop, because it's
+almost as if firm 1 could
+
+00:29:46.590 --> 00:29:50.010 align:middle line:84%
+go back and change,
+that k1 is not sunk,
+
+00:29:50.010 --> 00:29:52.830 align:middle line:84%
+and firm 1 could go
+back and change k1
+
+00:29:52.830 --> 00:29:55.998 align:middle line:84%
+after firm 2 has
+taken its action then,
+
+00:29:55.998 --> 00:29:57.540 align:middle line:84%
+because if firm 2
+doesn't observe it,
+
+00:29:57.540 --> 00:29:59.500 align:middle line:84%
+it's as if you're
+choosing it afterwards.
+
+00:29:59.500 --> 00:30:02.490 align:middle line:84%
+It's the same first
+order condition.
+
+00:30:02.490 --> 00:30:04.070 align:middle line:90%
+OK?
+
+00:30:04.070 --> 00:30:05.400 align:middle line:90%
+Is that definition OK?
+
+00:30:05.400 --> 00:30:12.442 align:middle line:84%
+So anyway, we're going to think
+about strategic investment
+
+00:30:12.442 --> 00:30:14.650 align:middle line:84%
+as being what do you do
+different from what you would
+
+00:30:14.650 --> 00:30:16.042 align:middle line:90%
+do if k1 was unobservable.
+
+00:30:16.042 --> 00:30:17.500 align:middle line:84%
+Because if k1 is
+unobservable, it's
+
+00:30:17.500 --> 00:30:20.860 align:middle line:84%
+not affecting the other
+firm, the strategic use of it
+
+00:30:20.860 --> 00:30:24.310 align:middle line:84%
+is doing something different
+because firm 2 sees it.
+
+00:30:24.310 --> 00:30:27.730 align:middle line:84%
+And so first
+characterization theorem
+
+00:30:27.730 --> 00:30:30.010 align:middle line:84%
+just highlights the
+strategic effect.
+
+00:30:30.010 --> 00:30:32.990 align:middle line:84%
+Firms over-invest to
+accommodate entry,
+
+00:30:32.990 --> 00:30:37.300 align:middle line:84%
+meaning they choose k1 bigger
+than the open loop value
+
+00:30:37.300 --> 00:30:44.620 align:middle line:84%
+if and only if d pi 1 / da2, da2
+star / dk1 is greater than 0.
+
+00:30:44.620 --> 00:30:47.090 align:middle line:84%
+OK, and the proof of
+this is straightforward.
+
+00:30:47.090 --> 00:30:49.660 align:middle line:84%
+I again, just write
+out here what is-- now
+
+00:30:49.660 --> 00:30:54.130 align:middle line:84%
+I'm going to write
+out what is pi 1 star.
+
+00:30:54.130 --> 00:30:55.420 align:middle line:90%
+It's that.
+
+00:30:55.420 --> 00:30:58.810 align:middle line:84%
+And then think about what
+is the derivative of pi 1
+
+00:30:58.810 --> 00:31:04.005 align:middle line:84%
+star with respect to k1 when
+I evaluate it at k1 open loop?
+
+00:31:04.005 --> 00:31:06.520 align:middle line:90%
+
+
+00:31:06.520 --> 00:31:11.560 align:middle line:84%
+First you get a partial,
+partial pi 1 with respect to--
+
+00:31:11.560 --> 00:31:15.140 align:middle line:84%
+partial pi 1 with respect to
+k1 evaluated at k1 open loop.
+
+00:31:15.140 --> 00:31:19.000 align:middle line:84%
+That's 0 by the definition
+of k1 open loop.
+
+00:31:19.000 --> 00:31:23.530 align:middle line:84%
+Second thing you get is d pi
+1 / da1, da1 / star dk1 again
+
+00:31:23.530 --> 00:31:27.410 align:middle line:84%
+with this d pi 1 / da1
+evaluated at a1 star of k1.
+
+00:31:27.410 --> 00:31:30.910 align:middle line:84%
+This is 0 by the
+envelope theorem again.
+
+00:31:30.910 --> 00:31:37.660 align:middle line:84%
+So d pi 1 star / dk1 is positive
+if this strategic effect
+
+00:31:37.660 --> 00:31:40.570 align:middle line:84%
+is positive, and it's negative
+if the strategic effect is
+
+00:31:40.570 --> 00:31:41.420 align:middle line:90%
+negative.
+
+00:31:41.420 --> 00:31:45.610 align:middle line:84%
+So the strategic effect is how
+does the investment affect a2,
+
+00:31:45.610 --> 00:31:50.230 align:middle line:84%
+and how is your
+profit affected by a2.
+
+00:31:50.230 --> 00:31:53.200 align:middle line:84%
+Does k1 change the
+other firm's action
+
+00:31:53.200 --> 00:31:55.160 align:middle line:84%
+in a way that's
+good or bad for you?
+
+00:31:55.160 --> 00:31:56.960 align:middle line:90%
+That's the strategic effect.
+
+00:31:56.960 --> 00:32:00.670 align:middle line:84%
+And so notice that if I
+evaluate that derivative,
+
+00:32:00.670 --> 00:32:05.740 align:middle line:84%
+if the total derivative of
+pi 1 star with respect to k1
+
+00:32:05.740 --> 00:32:10.120 align:middle line:84%
+evaluated at k1 open loop is
+greater than 0 and profit is
+
+00:32:10.120 --> 00:32:16.960 align:middle line:84%
+single peaked, then that's going
+to imply that k1AC is strictly
+
+00:32:16.960 --> 00:32:18.940 align:middle line:90%
+greater than k1 open loop.
+
+00:32:18.940 --> 00:32:23.560 align:middle line:84%
+It's just a case where we
+have a profit function we
+
+00:32:23.560 --> 00:32:25.760 align:middle line:90%
+know evaluated at k1 open loop.
+
+00:32:25.760 --> 00:32:29.247 align:middle line:84%
+This pi 1 star is
+increasing, so the maximum
+
+00:32:29.247 --> 00:32:30.330 align:middle line:90%
+is somewhere to the right.
+
+00:32:30.330 --> 00:32:34.660 align:middle line:90%
+
+
+00:32:34.660 --> 00:32:37.060 align:middle line:84%
+So one way to think about
+strategic investment
+
+00:32:37.060 --> 00:32:39.590 align:middle line:84%
+is just to do these
+calculations for yourself.
+
+00:32:39.590 --> 00:32:45.898 align:middle line:84%
+How would this investment
+affect firm 2's action?
+
+00:32:45.898 --> 00:32:47.690 align:middle line:84%
+And then what would I
+think of that action?
+
+00:32:47.690 --> 00:32:53.440 align:middle line:84%
+So for instance, cost reduction,
+I'm in a price competition game,
+
+00:32:53.440 --> 00:32:57.190 align:middle line:84%
+and I'm thinking of
+investing in cost reduction.
+
+00:32:57.190 --> 00:33:00.030 align:middle line:84%
+If I reduce my costs in
+a price competition game,
+
+00:33:00.030 --> 00:33:02.530 align:middle line:84%
+that's going to lead the other
+firm to lower its equilibrium
+
+00:33:02.530 --> 00:33:05.180 align:middle line:84%
+price because he knows I'm
+going to lower my price.
+
+00:33:05.180 --> 00:33:08.860 align:middle line:84%
+And so da2 / dk1 becomes
+negative, more investment,
+
+00:33:08.860 --> 00:33:10.330 align:middle line:90%
+lower rival price.
+
+00:33:10.330 --> 00:33:13.220 align:middle line:84%
+And then my profit is
+increasing in the rival's price.
+
+00:33:13.220 --> 00:33:15.980 align:middle line:84%
+So this is positive, so
+positive times negative.
+
+00:33:15.980 --> 00:33:18.220 align:middle line:84%
+This is a negative
+strategic effect.
+
+00:33:18.220 --> 00:33:22.270 align:middle line:84%
+So in the strategic
+entry accommodation game,
+
+00:33:22.270 --> 00:33:25.780 align:middle line:84%
+you're going to underinvest
+in cost reduction,
+
+00:33:25.780 --> 00:33:27.430 align:middle line:84%
+meaning you're going
+to do less of it
+
+00:33:27.430 --> 00:33:31.055 align:middle line:84%
+than you would do if you could
+do secret cost reduction.
+
+00:33:31.055 --> 00:33:32.680 align:middle line:84%
+So if I could do
+secret cost reduction,
+
+00:33:32.680 --> 00:33:34.700 align:middle line:84%
+I would do more
+because it really
+
+00:33:34.700 --> 00:33:38.070 align:middle line:84%
+does benefit me profit
+wise to have a lower cost.
+
+00:33:38.070 --> 00:33:40.730 align:middle line:84%
+But I know that if my rival
+sees me investing in the cost
+
+00:33:40.730 --> 00:33:42.880 align:middle line:84%
+reduction, he's just
+going to lower his price,
+
+00:33:42.880 --> 00:33:44.660 align:middle line:84%
+so I'm going to eat up a lot
+of the benefits I was getting
+
+00:33:44.660 --> 00:33:46.020 align:middle line:90%
+from the cost reduction.
+
+00:33:46.020 --> 00:33:48.740 align:middle line:84%
+So what we'll see
+firms is underinvesting
+
+00:33:48.740 --> 00:33:49.875 align:middle line:90%
+in cost reduction.
+
+00:33:49.875 --> 00:33:52.250 align:middle line:84%
+You could do a calculation
+and say, why doesn't that firm
+
+00:33:52.250 --> 00:33:53.490 align:middle line:90%
+adopt this technology?
+
+00:33:53.490 --> 00:33:56.880 align:middle line:84%
+That technology would
+clearly pay for itself.
+
+00:33:56.880 --> 00:33:59.330 align:middle line:84%
+And the answer is they don't
+do it for strategic reasons
+
+00:33:59.330 --> 00:34:01.910 align:middle line:84%
+because if their rival
+knew they had that lower
+
+00:34:01.910 --> 00:34:04.130 align:middle line:84%
+cost manufacturing technology,
+the rival would just
+
+00:34:04.130 --> 00:34:05.040 align:middle line:90%
+charge a lower price.
+
+00:34:05.040 --> 00:34:05.873 align:middle line:90%
+They'd be worse off.
+
+00:34:05.873 --> 00:34:10.042 align:middle line:90%
+
+
+00:34:10.042 --> 00:34:11.600 align:middle line:90%
+Is that example pretty clear?
+
+00:34:11.600 --> 00:34:15.219 align:middle line:90%
+
+
+00:34:15.219 --> 00:34:16.545 align:middle line:90%
+OK.
+
+00:34:16.545 --> 00:34:18.670 align:middle line:84%
+Fudenberg and Tirole give
+the second theorem noting
+
+00:34:18.670 --> 00:34:23.590 align:middle line:84%
+that one way to think about
+strategic entry accommodation
+
+00:34:23.590 --> 00:34:28.060 align:middle line:84%
+is in terms of, what's the
+effect of the investment
+
+00:34:28.060 --> 00:34:28.850 align:middle line:90%
+on your rival?
+
+00:34:28.850 --> 00:34:30.110 align:middle line:90%
+What is the rival?
+
+00:34:30.110 --> 00:34:31.489 align:middle line:90%
+What does that do to you?
+
+00:34:31.489 --> 00:34:35.440 align:middle line:84%
+They note that it also can be
+related to the type of game
+
+00:34:35.440 --> 00:34:36.620 align:middle line:90%
+and the type of investment.
+
+00:34:36.620 --> 00:34:38.030 align:middle line:90%
+So here's a theorem.
+
+00:34:38.030 --> 00:34:40.270 align:middle line:84%
+Let's, for instance,
+initially consider
+
+00:34:40.270 --> 00:34:43.300 align:middle line:84%
+investments where there's
+no direct effect on firm
+
+00:34:43.300 --> 00:34:46.060 align:middle line:90%
+2 like a cost reduction.
+
+00:34:46.060 --> 00:34:51.639 align:middle line:84%
+Let's assume that the game is at
+least somewhat symmetric, weakly
+
+00:34:51.639 --> 00:34:52.610 align:middle line:90%
+symmetric, I'd call it.
+
+00:34:52.610 --> 00:34:55.960 align:middle line:84%
+So profit-- changing
+the sign of d pi i / daj
+
+00:34:55.960 --> 00:34:58.430 align:middle line:90%
+is the same as d pi j / dai.
+
+00:34:58.430 --> 00:35:01.025 align:middle line:84%
+So any game like price
+competition or quantity
+
+00:35:01.025 --> 00:35:02.650 align:middle line:84%
+competition or whatever
+will have this.
+
+00:35:02.650 --> 00:35:04.990 align:middle line:84%
+Just the way that
+firm 1's action
+
+00:35:04.990 --> 00:35:06.610 align:middle line:84%
+affects firm 2 is
+the same as the way
+
+00:35:06.610 --> 00:35:09.100 align:middle line:90%
+firm 2's action affects firm 1.
+
+00:35:09.100 --> 00:35:11.110 align:middle line:84%
+If you had some
+bizarre game where
+
+00:35:11.110 --> 00:35:14.720 align:middle line:84%
+firm 1 was choosing a price and
+firm 2 was choosing a quantity,
+
+00:35:14.720 --> 00:35:16.190 align:middle line:90%
+then that might not be true.
+
+00:35:16.190 --> 00:35:20.510 align:middle line:84%
+But most of the games we
+do are fully symmetric.
+
+00:35:20.510 --> 00:35:25.040 align:middle line:84%
+And so the theorem is that firms
+overinvest to accommodate entry
+
+00:35:25.040 --> 00:35:28.340 align:middle line:84%
+if the game has in strategic
+complements and investment
+
+00:35:28.340 --> 00:35:32.480 align:middle line:84%
+makes them soft,
+or if the game has
+
+00:35:32.480 --> 00:35:36.500 align:middle line:84%
+strategic substitutes and
+investment makes firm 1 tough.
+
+00:35:36.500 --> 00:35:43.130 align:middle line:84%
+So let me start with the
+strategic substitutes case.
+
+00:35:43.130 --> 00:35:48.530 align:middle line:84%
+In the strategic substitutes
+case, what this says is--
+
+00:35:48.530 --> 00:35:52.100 align:middle line:84%
+so in strategic substitutes--
+so I did put it over here.
+
+00:35:52.100 --> 00:35:58.430 align:middle line:84%
+So in the substitutes case, if
+the investment makes you tough,
+
+00:35:58.430 --> 00:35:59.496 align:middle line:90%
+you overinvest.
+
+00:35:59.496 --> 00:36:02.391 align:middle line:90%
+
+
+00:36:02.391 --> 00:36:05.016 align:middle line:84%
+And if you have something that
+makes you soft, you underinvest.
+
+00:36:05.016 --> 00:36:07.560 align:middle line:90%
+
+
+00:36:07.560 --> 00:36:11.610 align:middle line:84%
+This is the same
+thing we had in-- this
+
+00:36:11.610 --> 00:36:15.825 align:middle line:84%
+is the same thing we had in
+the entry deterrence case.
+
+00:36:15.825 --> 00:36:17.880 align:middle line:84%
+When you're in deter
+entry, you're always
+
+00:36:17.880 --> 00:36:19.030 align:middle line:90%
+trying to hurt your rivals.
+
+00:36:19.030 --> 00:36:21.130 align:middle line:84%
+So if the investment makes
+you tough, you do it.
+
+00:36:21.130 --> 00:36:23.110 align:middle line:84%
+If it makes you soft,
+you don't do it.
+
+00:36:23.110 --> 00:36:26.820 align:middle line:84%
+What this says in games
+with strategic substitutes,
+
+00:36:26.820 --> 00:36:30.510 align:middle line:84%
+accommodation of entry is
+just like deterrence of entry.
+
+00:36:30.510 --> 00:36:32.230 align:middle line:84%
+In a game with
+strategic substitutes,
+
+00:36:32.230 --> 00:36:36.440 align:middle line:84%
+what you always want to do
+is just hurt your rival.
+
+00:36:36.440 --> 00:36:42.950 align:middle line:84%
+But things turn around in games
+with strategic complements.
+
+00:36:42.950 --> 00:36:46.310 align:middle line:84%
+In games with
+strategic complements,
+
+00:36:46.310 --> 00:36:49.220 align:middle line:90%
+you want to help your rival?
+
+00:36:49.220 --> 00:36:51.470 align:middle line:84%
+So actually, when I was
+describing the cost reduction,
+
+00:36:51.470 --> 00:36:54.580 align:middle line:84%
+I did the cost reduction here, I
+said in the cost reduction game,
+
+00:36:54.580 --> 00:36:56.410 align:middle line:84%
+to deter entry, you
+don't want to do it,
+
+00:36:56.410 --> 00:36:58.210 align:middle line:84%
+but to accommodate
+entry, you don't
+
+00:36:58.210 --> 00:37:02.380 align:middle line:84%
+invest because it's just going
+to make your rival lower prices.
+
+00:37:02.380 --> 00:37:04.930 align:middle line:84%
+But the interesting
+observation here
+
+00:37:04.930 --> 00:37:09.473 align:middle line:84%
+is that sometimes I describe
+Cournot versus Bertrand
+
+00:37:09.473 --> 00:37:11.390 align:middle line:84%
+as just two different
+assumptions people make.
+
+00:37:11.390 --> 00:37:12.410 align:middle line:90%
+They're similar models.
+
+00:37:12.410 --> 00:37:14.020 align:middle line:90%
+Profits decline.
+
+00:37:14.020 --> 00:37:16.362 align:middle line:84%
+This notes that a lot
+of the conclusions we're
+
+00:37:16.362 --> 00:37:18.070 align:middle line:84%
+going to make about
+strategic investments
+
+00:37:18.070 --> 00:37:21.820 align:middle line:84%
+would just completely flip if
+we had a quantity competition
+
+00:37:21.820 --> 00:37:24.730 align:middle line:84%
+game versus if we had a
+price competition game.
+
+00:37:24.730 --> 00:37:26.890 align:middle line:84%
+So in the quantity
+competition game--
+
+00:37:26.890 --> 00:37:31.000 align:middle line:84%
+let me go back to my previous
+first order condition.
+
+00:37:31.000 --> 00:37:34.930 align:middle line:84%
+What's the strategic
+effect of reducing my cost?
+
+00:37:34.930 --> 00:37:39.080 align:middle line:84%
+In a quantity competition
+game, if I reduce my cost,
+
+00:37:39.080 --> 00:37:42.130 align:middle line:84%
+it's a commitment that I'm
+going to produce a lot.
+
+00:37:42.130 --> 00:37:44.470 align:middle line:84%
+And in Cournot with those
+downward-sloping reaction
+
+00:37:44.470 --> 00:37:46.180 align:middle line:84%
+curves, if I'm going
+to produce a lot,
+
+00:37:46.180 --> 00:37:48.310 align:middle line:84%
+my rival is going
+to produce less.
+
+00:37:48.310 --> 00:37:52.160 align:middle line:84%
+And so by investing
+in cost reduction,
+
+00:37:52.160 --> 00:37:54.380 align:middle line:90%
+I make his quantity lower.
+
+00:37:54.380 --> 00:37:56.430 align:middle line:90%
+So this is negative.
+
+00:37:56.430 --> 00:38:01.120 align:middle line:84%
+And then if his quantity is
+higher, that's bad for me.
+
+00:38:01.120 --> 00:38:02.200 align:middle line:90%
+So this is also negative.
+
+00:38:02.200 --> 00:38:03.575 align:middle line:84%
+So I have negative
+times negative
+
+00:38:03.575 --> 00:38:07.890 align:middle line:84%
+is a positive number, which
+means that I want to overinvest
+
+00:38:07.890 --> 00:38:09.540 align:middle line:90%
+in cost reduction.
+
+00:38:09.540 --> 00:38:13.200 align:middle line:84%
+So if you look at firms that
+would be competing in a Cournot
+
+00:38:13.200 --> 00:38:15.630 align:middle line:84%
+market, the conclusion
+you'd get is
+
+00:38:15.630 --> 00:38:18.060 align:middle line:84%
+that if they were considering
+cost reduction-- if you look
+
+00:38:18.060 --> 00:38:20.640 align:middle line:84%
+at price competing
+firms, we're going
+
+00:38:20.640 --> 00:38:23.220 align:middle line:84%
+to expect that there will be
+these cost-reducing investments
+
+00:38:23.220 --> 00:38:25.345 align:middle line:84%
+that we don't understand
+why firm 1 isn't taking it
+
+00:38:25.345 --> 00:38:27.000 align:middle line:84%
+because it would be
+privately optimal,
+
+00:38:27.000 --> 00:38:28.267 align:middle line:90%
+holding everything else fixed.
+
+00:38:28.267 --> 00:38:29.850 align:middle line:84%
+In a quantity
+competition game, you're
+
+00:38:29.850 --> 00:38:32.790 align:middle line:84%
+going to see firms having
+overinvested in cost reduction.
+
+00:38:32.790 --> 00:38:36.360 align:middle line:84%
+And you're going to calculate
+that that cost reduction
+
+00:38:36.360 --> 00:38:38.350 align:middle line:84%
+technology is not
+paying for itself.
+
+00:38:38.350 --> 00:38:42.120 align:middle line:84%
+It's making less money with
+the cost-reducing technology
+
+00:38:42.120 --> 00:38:43.270 align:middle line:90%
+than the amount.
+
+00:38:43.270 --> 00:38:45.130 align:middle line:84%
+It's actually saving
+on production.
+
+00:38:45.130 --> 00:38:48.060 align:middle line:84%
+But it does it because
+of the strategic effect.
+
+00:38:48.060 --> 00:38:51.150 align:middle line:84%
+That is, in a Cournot
+game, committing
+
+00:38:51.150 --> 00:38:54.340 align:middle line:84%
+to be tough forces your rival
+to stay at a smaller scale.
+
+00:38:54.340 --> 00:38:55.340 align:middle line:90%
+And that's good for you.
+
+00:38:55.340 --> 00:39:02.720 align:middle line:90%
+
+
+00:39:02.720 --> 00:39:05.840 align:middle line:84%
+So anyway, I think
+the thing is in games
+
+00:39:05.840 --> 00:39:09.500 align:middle line:84%
+with strategic substitutes,
+what you're always trying to do
+
+00:39:09.500 --> 00:39:11.920 align:middle line:84%
+is take investments
+that hurt your rival.
+
+00:39:11.920 --> 00:39:14.750 align:middle line:90%
+
+
+00:39:14.750 --> 00:39:18.440 align:middle line:84%
+And what you're doing in a
+game with strategic complements
+
+00:39:18.440 --> 00:39:20.840 align:middle line:84%
+is you're trying
+to help your rival.
+
+00:39:20.840 --> 00:39:23.795 align:middle line:84%
+So anything you can do
+that's good for your rival
+
+00:39:23.795 --> 00:39:26.630 align:middle line:84%
+is good for you as
+well or at least
+
+00:39:26.630 --> 00:39:27.850 align:middle line:90%
+that's the strategic effect.
+
+00:39:27.850 --> 00:39:34.805 align:middle line:90%
+
+
+00:39:34.805 --> 00:39:36.930 align:middle line:84%
+And I'm just phrasing this
+in the discussion of how
+
+00:39:36.930 --> 00:39:41.310 align:middle line:84%
+does k1AC compare to k1OL, which
+is the amount of investment you
+
+00:39:41.310 --> 00:39:46.570 align:middle line:84%
+would be doing in the oligopoly
+if it was unobservable.
+
+00:39:46.570 --> 00:39:49.220 align:middle line:90%
+
+
+00:39:49.220 --> 00:39:50.640 align:middle line:90%
+Put a proof on the next slide.
+
+00:39:50.640 --> 00:39:53.120 align:middle line:84%
+I think I won't take the
+time to go through this
+
+00:39:53.120 --> 00:39:56.430 align:middle line:84%
+because sometimes
+I find it doesn't--
+
+00:39:56.430 --> 00:39:57.790 align:middle line:90%
+it's a simple calculation.
+
+00:39:57.790 --> 00:39:59.623 align:middle line:84%
+I don't know that it's
+all that informative.
+
+00:39:59.623 --> 00:40:01.265 align:middle line:84%
+But basically, the
+argument is just--
+
+00:40:01.265 --> 00:40:03.940 align:middle line:90%
+
+
+00:40:03.940 --> 00:40:07.380 align:middle line:90%
+You know, think about how--
+
+00:40:07.380 --> 00:40:09.435 align:middle line:90%
+think about how a1 star of k1--
+
+00:40:09.435 --> 00:40:15.245 align:middle line:90%
+
+
+00:40:15.245 --> 00:40:17.300 align:middle line:90%
+what I'm trying to sign is this.
+
+00:40:17.300 --> 00:40:19.830 align:middle line:84%
+I know this is the
+strategic effect.
+
+00:40:19.830 --> 00:40:24.170 align:middle line:84%
+I'm going to overinvest if
+k1 moves a2 in a direction
+
+00:40:24.170 --> 00:40:25.250 align:middle line:90%
+that I like.
+
+00:40:25.250 --> 00:40:27.710 align:middle line:84%
+And I'm going to
+underinvest if k1 moves a2
+
+00:40:27.710 --> 00:40:29.430 align:middle line:90%
+in a direction I don't like.
+
+00:40:29.430 --> 00:40:32.000 align:middle line:84%
+So this was the
+strategic effect.
+
+00:40:32.000 --> 00:40:35.300 align:middle line:84%
+And I'm just trying to
+think about how do I
+
+00:40:35.300 --> 00:40:36.950 align:middle line:90%
+sign this strategic effect?
+
+00:40:36.950 --> 00:40:41.510 align:middle line:84%
+In particular, how do I find
+out what da2 star / dk1 is?
+
+00:40:41.510 --> 00:40:44.840 align:middle line:84%
+Is k1 going to move a2
+in a direction I like
+
+00:40:44.840 --> 00:40:48.120 align:middle line:84%
+or in the direction
+I don't like?
+
+00:40:48.120 --> 00:40:49.740 align:middle line:90%
+And how do I do that?
+
+00:40:49.740 --> 00:40:54.280 align:middle line:84%
+I note that a2 star
+satisfies this for every k1.
+
+00:40:54.280 --> 00:40:56.760 align:middle line:84%
+This is the first
+order condition
+
+00:40:56.760 --> 00:40:59.940 align:middle line:84%
+defining firm 2's
+best response function
+
+00:40:59.940 --> 00:41:02.110 align:middle line:90%
+or defining equilibrium.
+
+00:41:02.110 --> 00:41:06.030 align:middle line:84%
+That partial of pi 2 with
+respect to a2 evaluated
+
+00:41:06.030 --> 00:41:08.710 align:middle line:90%
+at a2 star of k1 is equal to 0.
+
+00:41:08.710 --> 00:41:11.910 align:middle line:84%
+So what I just do is
+I take this thing.
+
+00:41:11.910 --> 00:41:15.060 align:middle line:84%
+I differentiate it
+with respect to k1.
+
+00:41:15.060 --> 00:41:17.760 align:middle line:90%
+It gives me these three terms.
+
+00:41:17.760 --> 00:41:22.770 align:middle line:84%
+And then when I look
+at this expression d pi
+
+00:41:22.770 --> 00:41:26.080 align:middle line:84%
+2 / dk1 was 0 with
+no direct effect.
+
+00:41:26.080 --> 00:41:29.750 align:middle line:90%
+So this term drops out.
+
+00:41:29.750 --> 00:41:33.390 align:middle line:84%
+d squared pi 2 da1 /
+da2, this is the thing
+
+00:41:33.390 --> 00:41:36.440 align:middle line:84%
+that's whether you have
+strategic complements
+
+00:41:36.440 --> 00:41:39.710 align:middle line:90%
+or strategic substitutes.
+
+00:41:39.710 --> 00:41:42.030 align:middle line:90%
+This term here is negative.
+
+00:41:42.030 --> 00:41:44.210 align:middle line:90%
+And so anyway, you--
+
+00:41:44.210 --> 00:41:46.740 align:middle line:90%
+I'm trying to sign da2 star dk1.
+
+00:41:46.740 --> 00:41:47.990 align:middle line:90%
+I move this to the other side.
+
+00:41:47.990 --> 00:41:51.270 align:middle line:84%
+And the sign of da2 star
+/ dk1 is the sign of this.
+
+00:41:51.270 --> 00:41:53.720 align:middle line:84%
+And that depends on
+complements or substitutes
+
+00:41:53.720 --> 00:41:58.390 align:middle line:90%
+and the soft or tough.
+
+00:41:58.390 --> 00:42:05.110 align:middle line:90%
+
+
+00:42:05.110 --> 00:42:07.450 align:middle line:84%
+Anyway, you can look at the
+calculations afterwards.
+
+00:42:07.450 --> 00:42:10.540 align:middle line:90%
+But in some sense, that's--
+
+00:42:10.540 --> 00:42:12.655 align:middle line:84%
+the reason why is you're
+just thinking about what
+
+00:42:12.655 --> 00:42:14.290 align:middle line:90%
+it is that's going to--
+
+00:42:14.290 --> 00:42:16.540 align:middle line:84%
+are you going to move the
+other firm's action since it
+
+00:42:16.540 --> 00:42:17.930 align:middle line:90%
+hurts you or helps you?
+
+00:42:17.930 --> 00:42:19.420 align:middle line:84%
+And that just
+turns out to depend
+
+00:42:19.420 --> 00:42:22.600 align:middle line:90%
+whether if it's complements--
+
+00:42:22.600 --> 00:42:26.120 align:middle line:84%
+like it's helping-- firm 2 is
+helping you and vice versa.
+
+00:42:26.120 --> 00:42:28.960 align:middle line:84%
+And it substitutes-- helping
+firm 2 is hurting you
+
+00:42:28.960 --> 00:42:29.700 align:middle line:90%
+and vice versa.
+
+00:42:29.700 --> 00:42:33.080 align:middle line:90%
+
+
+00:42:33.080 --> 00:42:37.070 align:middle line:84%
+But I think the main
+thing to take away
+
+00:42:37.070 --> 00:42:39.650 align:middle line:84%
+is this intuition
+for what you want
+
+00:42:39.650 --> 00:42:42.740 align:middle line:84%
+to do in entry accommodation
+games is that in Cournot games,
+
+00:42:42.740 --> 00:42:44.990 align:middle line:84%
+you're always trying to still
+hurt your rival like you
+
+00:42:44.990 --> 00:42:46.610 align:middle line:90%
+do to deter entry.
+
+00:42:46.610 --> 00:42:49.250 align:middle line:84%
+But in games with strategic
+complements, things turn around,
+
+00:42:49.250 --> 00:42:50.625 align:middle line:84%
+and you should
+always be thinking
+
+00:42:50.625 --> 00:42:52.940 align:middle line:84%
+about I want to aid my rival
+and distort my investment
+
+00:42:52.940 --> 00:42:54.400 align:middle line:90%
+in that direction.
+
+00:42:54.400 --> 00:42:55.850 align:middle line:84%
+And I just want
+to do that quickly
+
+00:42:55.850 --> 00:42:57.380 align:middle line:84%
+because I'll just
+go through now.
+
+00:42:57.380 --> 00:43:00.920 align:middle line:84%
+I've got like five different
+examples of classic arguments
+
+00:43:00.920 --> 00:43:06.060 align:middle line:84%
+to think about, what do firms
+do for strategic reasons?
+
+00:43:06.060 --> 00:43:09.300 align:middle line:84%
+So the first is a model
+of learning by doing.
+
+00:43:09.300 --> 00:43:14.370 align:middle line:84%
+So we start with a firm
+that's a monopolist.
+
+00:43:14.370 --> 00:43:18.050 align:middle line:90%
+And it has some costs c0.
+
+00:43:18.050 --> 00:43:22.220 align:middle line:84%
+And it sells some quantity
+in the first period, q11,
+
+00:43:22.220 --> 00:43:26.390 align:middle line:84%
+where I guess the upper
+one refers to the--
+
+00:43:26.390 --> 00:43:27.170 align:middle line:90%
+I don't know.
+
+00:43:27.170 --> 00:43:28.860 align:middle line:84%
+I guess it refers
+to the first period.
+
+00:43:28.860 --> 00:43:31.940 align:middle line:84%
+So it's firm 1 in
+the first period.
+
+00:43:31.940 --> 00:43:35.690 align:middle line:84%
+After firm 1 produced
+in the first period,
+
+00:43:35.690 --> 00:43:39.080 align:middle line:84%
+firm 2 observes firm
+1's production level
+
+00:43:39.080 --> 00:43:42.793 align:middle line:84%
+and then chooses whether
+to enter at a cost of E.
+
+00:43:42.793 --> 00:43:44.960 align:middle line:84%
+The critical assumption of
+a learning by doing model
+
+00:43:44.960 --> 00:43:49.850 align:middle line:84%
+is that the firm 1's marginal
+cost in the second period
+
+00:43:49.850 --> 00:43:53.540 align:middle line:84%
+is going to depend on how much
+it produced in the first period.
+
+00:43:53.540 --> 00:43:58.200 align:middle line:84%
+So c of q11 is the
+period 2 marginal cost.
+
+00:43:58.200 --> 00:44:00.650 align:middle line:84%
+And so we're assuming
+that the more you produce
+
+00:44:00.650 --> 00:44:03.380 align:middle line:84%
+in the first period, the
+lower is your marginal cost
+
+00:44:03.380 --> 00:44:05.210 align:middle line:90%
+in the second period.
+
+00:44:05.210 --> 00:44:08.810 align:middle line:84%
+So just by producing more, you
+get more experience producing.
+
+00:44:08.810 --> 00:44:10.400 align:middle line:84%
+Every unit you
+produce, you figure out
+
+00:44:10.400 --> 00:44:12.600 align:middle line:84%
+things that improve
+your production process.
+
+00:44:12.600 --> 00:44:16.410 align:middle line:90%
+You make your costs lower.
+
+00:44:16.410 --> 00:44:21.270 align:middle line:84%
+So in this model, we can
+think of overproducing.
+
+00:44:21.270 --> 00:44:24.780 align:middle line:90%
+Overproducing is just choosing--
+
+00:44:24.780 --> 00:44:28.020 align:middle line:84%
+I would normally choose q11
+if I was-- if there was--
+
+00:44:28.020 --> 00:44:32.760 align:middle line:84%
+in the blockaded entry case,
+I would choose q11 to be
+
+00:44:32.760 --> 00:44:45.330 align:middle line:84%
+the argmax over
+q11 of pi 1 of q11,
+
+00:44:45.330 --> 00:44:48.340 align:middle line:90%
+pi 11 plus discount factor--
+
+00:44:48.340 --> 00:44:50.070 align:middle line:84%
+I don't think I do
+discount factors--
+
+00:44:50.070 --> 00:44:57.540 align:middle line:90%
+a pi 12 monopoly of q11 q12.
+
+00:44:57.540 --> 00:45:00.570 align:middle line:84%
+So my first period profit
+just depends on the quantity
+
+00:45:00.570 --> 00:45:02.280 align:middle line:90%
+I produce in the first period.
+
+00:45:02.280 --> 00:45:04.680 align:middle line:84%
+And in the second period,
+if I'm still a monopolist,
+
+00:45:04.680 --> 00:45:06.480 align:middle line:84%
+my profit is going to
+depend both on what
+
+00:45:06.480 --> 00:45:08.867 align:middle line:84%
+I produced in the
+first period and what
+
+00:45:08.867 --> 00:45:10.950 align:middle line:84%
+I produced in the second
+period with the first one
+
+00:45:10.950 --> 00:45:13.750 align:middle line:84%
+here because what I
+produce in the first period
+
+00:45:13.750 --> 00:45:16.630 align:middle line:84%
+affects my cost in
+the second period.
+
+00:45:16.630 --> 00:45:20.830 align:middle line:90%
+And so this is what I would do.
+
+00:45:20.830 --> 00:45:23.060 align:middle line:84%
+I think I called
+this q1 monopoly.
+
+00:45:23.060 --> 00:45:27.070 align:middle line:84%
+This is what you would do in
+the blockaded entry case is just
+
+00:45:27.070 --> 00:45:29.780 align:middle line:90%
+produce this level of output.
+
+00:45:29.780 --> 00:45:34.840 align:middle line:84%
+And so you can think of if I
+choose q11 greater than q1m,
+
+00:45:34.840 --> 00:45:41.020 align:middle line:84%
+that's an investment
+in reducing costs.
+
+00:45:41.020 --> 00:45:45.470 align:middle line:90%
+
+
+00:45:45.470 --> 00:45:47.080 align:middle line:84%
+It's an investment
+in reducing costs
+
+00:45:47.080 --> 00:45:49.060 align:middle line:84%
+that I make by
+just overproducing
+
+00:45:49.060 --> 00:45:50.630 align:middle line:90%
+in the first period.
+
+00:45:50.630 --> 00:45:52.580 align:middle line:84%
+What's the cost
+of the investment?
+
+00:45:52.580 --> 00:46:03.490 align:middle line:84%
+The cost of the investment is
+pi 11 of q1m minus pi 11 of q11.
+
+00:46:03.490 --> 00:46:05.620 align:middle line:90%
+If I produce this--
+
+00:46:05.620 --> 00:46:08.620 align:middle line:84%
+if I produce some
+extra amount, it's
+
+00:46:08.620 --> 00:46:10.640 align:middle line:84%
+going to lower my
+first period profits.
+
+00:46:10.640 --> 00:46:13.240 align:middle line:90%
+The amount by which it lower--
+
+00:46:13.240 --> 00:46:15.600 align:middle line:84%
+so this is in some sense
+the investment cost.
+
+00:46:15.600 --> 00:46:21.190 align:middle line:90%
+
+
+00:46:21.190 --> 00:46:23.380 align:middle line:84%
+So producing much
+in the first period
+
+00:46:23.380 --> 00:46:25.420 align:middle line:84%
+is a strategic
+investment, an investment
+
+00:46:25.420 --> 00:46:27.820 align:middle line:84%
+that I spend something
+and lost profits.
+
+00:46:27.820 --> 00:46:30.360 align:middle line:84%
+I gain something in having
+reduced my future costs.
+
+00:46:30.360 --> 00:46:33.220 align:middle line:90%
+
+
+00:46:33.220 --> 00:46:38.000 align:middle line:90%
+So-- oh, I put a B on here.
+
+00:46:38.000 --> 00:46:40.750 align:middle line:84%
+So let's suppose that
+there's no firm two.
+
+00:46:40.750 --> 00:46:45.610 align:middle line:84%
+Then the blockaded entry
+level would be q1B.
+
+00:46:45.610 --> 00:46:48.682 align:middle line:84%
+If I need to deter entry,
+and I want to deter entry,
+
+00:46:48.682 --> 00:46:50.890 align:middle line:84%
+then what I'm going to do
+is I'm going to overproduce
+
+00:46:50.890 --> 00:46:53.140 align:middle line:90%
+because investment makes--
+
+00:46:53.140 --> 00:46:54.430 align:middle line:90%
+it reduces my cost.
+
+00:46:54.430 --> 00:46:55.250 align:middle line:90%
+It makes me tough.
+
+00:46:55.250 --> 00:46:57.440 align:middle line:84%
+I want to hurt firm two,
+so I'm going to choose.
+
+00:46:57.440 --> 00:46:58.810 align:middle line:90%
+q11 greater than q1B.
+
+00:46:58.810 --> 00:47:02.270 align:middle line:90%
+
+
+00:47:02.270 --> 00:47:06.890 align:middle line:90%
+In the entry accommodation case.
+
+00:47:06.890 --> 00:47:10.130 align:middle line:84%
+I'm either going to want to
+underproduce or overproduce,
+
+00:47:10.130 --> 00:47:12.680 align:middle line:84%
+depending on whether I'm
+playing a price competition game
+
+00:47:12.680 --> 00:47:14.600 align:middle line:90%
+or a quantity competition game.
+
+00:47:14.600 --> 00:47:16.820 align:middle line:84%
+So if I'm playing a
+price competition game
+
+00:47:16.820 --> 00:47:18.440 align:middle line:84%
+where now suddenly
+I want to be nice,
+
+00:47:18.440 --> 00:47:21.740 align:middle line:84%
+in price competition games,
+I'm going to distort downward--
+
+00:47:21.740 --> 00:47:25.280 align:middle line:90%
+have q11 less than a1 open loop.
+
+00:47:25.280 --> 00:47:28.040 align:middle line:84%
+And I'm going to
+distort downward
+
+00:47:28.040 --> 00:47:29.987 align:middle line:84%
+because I want to
+keep my costs high,
+
+00:47:29.987 --> 00:47:32.570 align:middle line:84%
+and I want firm two to know that
+I'm going to have high costs,
+
+00:47:32.570 --> 00:47:34.127 align:middle line:84%
+that firm two,
+when it enters, is
+
+00:47:34.127 --> 00:47:35.960 align:middle line:84%
+going to also charge a
+high price because it
+
+00:47:35.960 --> 00:47:37.500 align:middle line:90%
+knows I have high costs.
+
+00:47:37.500 --> 00:47:39.900 align:middle line:84%
+So in the accommodation
+game, I want to be nice.
+
+00:47:39.900 --> 00:47:42.690 align:middle line:84%
+I do that by underinvesting
+in cost reduction.
+
+00:47:42.690 --> 00:47:47.510 align:middle line:84%
+Note, also, that we're
+going to typically have--
+
+00:47:47.510 --> 00:47:50.600 align:middle line:84%
+q1 open loop is
+going to typically
+
+00:47:50.600 --> 00:47:52.880 align:middle line:90%
+be less than q1 blockaded.
+
+00:47:52.880 --> 00:48:00.950 align:middle line:90%
+
+
+00:48:00.950 --> 00:48:03.540 align:middle line:84%
+So to deter entry, I'm
+going to produce more than I
+
+00:48:03.540 --> 00:48:05.820 align:middle line:90%
+get with blockaded entry.
+
+00:48:05.820 --> 00:48:08.250 align:middle line:84%
+And then to accommodate,
+I'm going to produce less
+
+00:48:08.250 --> 00:48:10.590 align:middle line:90%
+than the open loop value.
+
+00:48:10.590 --> 00:48:14.770 align:middle line:84%
+And why do I say the open
+loop value is typically
+
+00:48:14.770 --> 00:48:17.470 align:middle line:84%
+going to be less than
+the blockaded value?
+
+00:48:17.470 --> 00:48:22.420 align:middle line:84%
+When I-- in the first period,
+I'm investing in cost reduction.
+
+00:48:22.420 --> 00:48:25.120 align:middle line:84%
+I'm investing in cost
+reduction in part
+
+00:48:25.120 --> 00:48:27.670 align:middle line:84%
+because I'm then going to have
+lower cost in every unit I
+
+00:48:27.670 --> 00:48:30.760 align:middle line:90%
+sell in the second period.
+
+00:48:30.760 --> 00:48:33.470 align:middle line:84%
+In the blockaded case, that's
+what I'm taking into account.
+
+00:48:33.470 --> 00:48:35.762 align:middle line:84%
+How many units am I going to
+sell in the second period?
+
+00:48:35.762 --> 00:48:37.240 align:middle line:84%
+What's my cost
+savings going to be?
+
+00:48:37.240 --> 00:48:38.980 align:middle line:84%
+In the open loop case,
+it's going to be--
+
+00:48:38.980 --> 00:48:40.870 align:middle line:84%
+I'm going to be in a duopoly
+in the second period,
+
+00:48:40.870 --> 00:48:42.885 align:middle line:84%
+so I'm only going to be
+serving half the market.
+
+00:48:42.885 --> 00:48:44.260 align:middle line:84%
+When I'm serving
+half the market,
+
+00:48:44.260 --> 00:48:46.700 align:middle line:84%
+I'm going to sell fewer
+units in the second period.
+
+00:48:46.700 --> 00:48:50.060 align:middle line:84%
+Therefore, I invest less in cost
+reduction in the first period.
+
+00:48:50.060 --> 00:48:54.940 align:middle line:84%
+So I do less overproduction
+relative to what maximizes this
+
+00:48:54.940 --> 00:48:58.030 align:middle line:84%
+because I know that
+I'm only going to be--
+
+00:48:58.030 --> 00:49:00.488 align:middle line:84%
+I'm going to be selling fewer
+units of t equals 2 anyway.
+
+00:49:00.488 --> 00:49:02.030 align:middle line:84%
+I don't value cost
+reduction as much.
+
+00:49:02.030 --> 00:49:04.770 align:middle line:84%
+I go closer to just the
+static monopoly profit.
+
+00:49:04.770 --> 00:49:10.520 align:middle line:90%
+
+
+00:49:10.520 --> 00:49:14.600 align:middle line:84%
+Now, if we were playing in a
+Cournot game, in a Cournot game,
+
+00:49:14.600 --> 00:49:18.800 align:middle line:84%
+I'm going to choose q11
+greater than a1 open loop.
+
+00:49:18.800 --> 00:49:22.370 align:middle line:84%
+So this would be
+in a Bertrand kind
+
+00:49:22.370 --> 00:49:25.670 align:middle line:90%
+of game or a Hotelling game.
+
+00:49:25.670 --> 00:49:30.795 align:middle line:84%
+In a Cournot game, what I'm
+going to know is that Cournot--
+
+00:49:30.795 --> 00:49:34.550 align:middle line:90%
+
+
+00:49:34.550 --> 00:49:39.800 align:middle line:84%
+I'm going to know that q1 open
+loop is less than a1 blockaded
+
+00:49:39.800 --> 00:49:42.980 align:middle line:90%
+less than q1 entry deterrence.
+
+00:49:42.980 --> 00:49:48.110 align:middle line:90%
+And then q1 accommodation--
+
+00:49:48.110 --> 00:49:49.610 align:middle line:84%
+I don't know where
+it's going to be.
+
+00:49:49.610 --> 00:49:52.490 align:middle line:90%
+It could be here.
+
+00:49:52.490 --> 00:49:54.150 align:middle line:90%
+It could be here.
+
+00:49:54.150 --> 00:49:57.860 align:middle line:84%
+We know it's bigger
+than q1 open loop.
+
+00:49:57.860 --> 00:50:00.960 align:middle line:84%
+But q1 loop is less
+than q1 blockaded.
+
+00:50:00.960 --> 00:50:03.860 align:middle line:84%
+So it could be that you
+overinvest, but still not as
+
+00:50:03.860 --> 00:50:05.460 align:middle line:90%
+much as you would do here.
+
+00:50:05.460 --> 00:50:07.335 align:middle line:84%
+Or it could be that you
+have to produce a ton
+
+00:50:07.335 --> 00:50:09.752 align:middle line:84%
+to keep the other firm out,
+but keeping the other firm out
+
+00:50:09.752 --> 00:50:10.830 align:middle line:90%
+is really important.
+
+00:50:10.830 --> 00:50:13.700 align:middle line:84%
+It could be you're producing
+up here, or even more--
+
+00:50:13.700 --> 00:50:17.570 align:middle line:90%
+even up here or something.
+
+00:50:17.570 --> 00:50:18.440 align:middle line:90%
+I guess this is--
+
+00:50:18.440 --> 00:50:19.523 align:middle line:90%
+it's you're investing to--
+
+00:50:19.523 --> 00:50:21.800 align:middle line:90%
+
+
+00:50:21.800 --> 00:50:22.880 align:middle line:90%
+sorry.
+
+00:50:22.880 --> 00:50:25.250 align:middle line:84%
+Yeah. you're investing
+just to reduce his profits
+
+00:50:25.250 --> 00:50:28.760 align:middle line:90%
+to reduce his output, I guess.
+
+00:50:28.760 --> 00:50:31.320 align:middle line:84%
+This is reducing his
+output all the way to zero.
+
+00:50:31.320 --> 00:50:33.512 align:middle line:84%
+So if you're reducing his
+output all the way to zero
+
+00:50:33.512 --> 00:50:35.220 align:middle line:84%
+would be the biggest
+benefit you can get.
+
+00:50:35.220 --> 00:50:37.345 align:middle line:84%
+So this one would have a
+smaller benefit than this.
+
+00:50:37.345 --> 00:50:41.540 align:middle line:84%
+So I guess it would be
+either here or here.
+
+00:50:41.540 --> 00:50:45.200 align:middle line:84%
+But in the competition game,
+I'm just overinvesting,
+
+00:50:45.200 --> 00:50:47.300 align:middle line:84%
+but I'm overinvesting,
+recognizing that it's still
+
+00:50:47.300 --> 00:50:48.217 align:middle line:90%
+going to be a duopoly.
+
+00:50:48.217 --> 00:50:51.190 align:middle line:84%
+So I'm overinvesting relative
+to the somewhat lower level.
+
+00:50:51.190 --> 00:50:57.600 align:middle line:90%
+
+
+00:50:57.600 --> 00:51:00.810 align:middle line:84%
+Leverage theory-- so there's
+this old classic literature
+
+00:51:00.810 --> 00:51:05.970 align:middle line:84%
+in IO about, if you're a
+firm, and you're a monopolist,
+
+00:51:05.970 --> 00:51:07.297 align:middle line:90%
+do you get one monopoly?
+
+00:51:07.297 --> 00:51:09.630 align:middle line:84%
+It's like-- there's a big
+Chicago school of thought that
+
+00:51:09.630 --> 00:51:11.940 align:middle line:84%
+says if you have
+one monopoly, you
+
+00:51:11.940 --> 00:51:14.680 align:middle line:84%
+can only earn one
+monopoly profit from it.
+
+00:51:14.680 --> 00:51:16.940 align:middle line:90%
+And so if you can only get one--
+
+00:51:16.940 --> 00:51:18.930 align:middle line:90%
+you would never do something--
+
+00:51:18.930 --> 00:51:21.570 align:middle line:84%
+you would never use your
+monopoly power in one market
+
+00:51:21.570 --> 00:51:23.745 align:middle line:84%
+to try to get extra
+profits in a second market.
+
+00:51:23.745 --> 00:51:25.620 align:middle line:84%
+Because if you're trying
+to use your monopoly
+
+00:51:25.620 --> 00:51:27.078 align:middle line:84%
+to get profit in
+the second market,
+
+00:51:27.078 --> 00:51:28.380 align:middle line:90%
+the only way you can do that--
+
+00:51:28.380 --> 00:51:30.297 align:middle line:84%
+Like, if all I can do
+is sell people something
+
+00:51:30.297 --> 00:51:31.920 align:middle line:90%
+they don't like as much--
+
+00:51:31.920 --> 00:51:32.790 align:middle line:90%
+like, if I'm Apple.
+
+00:51:32.790 --> 00:51:36.150 align:middle line:84%
+I try to monopolize the
+iPhone charger market.
+
+00:51:36.150 --> 00:51:37.830 align:middle line:84%
+People don't like
+iPhone chargers
+
+00:51:37.830 --> 00:51:41.120 align:middle line:84%
+as much as they would
+have liked USB C chargers.
+
+00:51:41.120 --> 00:51:43.500 align:middle line:84%
+Yes, I can charge them
+more by making them all
+
+00:51:43.500 --> 00:51:44.560 align:middle line:90%
+buy chargers for me.
+
+00:51:44.560 --> 00:51:46.283 align:middle line:90%
+But anything that they--
+
+00:51:46.283 --> 00:51:48.200 align:middle line:84%
+anything that I'm making
+selling the chargers,
+
+00:51:48.200 --> 00:51:49.930 align:middle line:84%
+I could have just charged
+them more for the phone
+
+00:51:49.930 --> 00:51:52.138 align:middle line:84%
+to begin with and let them
+buy the charger they want.
+
+00:51:52.138 --> 00:51:53.440 align:middle line:90%
+So all I'm doing is just--
+
+00:51:53.440 --> 00:51:55.390 align:middle line:84%
+I'm just getting
+one monopoly profit.
+
+00:51:55.390 --> 00:51:57.190 align:middle line:84%
+And you can't extend
+your monopoly power
+
+00:51:57.190 --> 00:51:59.572 align:middle line:84%
+to a second market because
+anything people pay extra
+
+00:51:59.572 --> 00:52:01.030 align:middle line:84%
+in the second
+market, they're going
+
+00:52:01.030 --> 00:52:03.718 align:middle line:84%
+to treat as a cost of
+buying your initial product.
+
+00:52:03.718 --> 00:52:06.010 align:middle line:84%
+And they're just going to
+pay less for the base product
+
+00:52:06.010 --> 00:52:08.690 align:middle line:84%
+because you've tried to make
+them buy a second product.
+
+00:52:08.690 --> 00:52:14.340 align:middle line:84%
+So that's the Chicago
+school critique that says,
+
+00:52:14.340 --> 00:52:16.680 align:middle line:84%
+no, you can't tie
+two markets together
+
+00:52:16.680 --> 00:52:18.940 align:middle line:90%
+and get any more profits.
+
+00:52:18.940 --> 00:52:20.910 align:middle line:90%
+And then so--
+
+00:52:20.910 --> 00:52:24.960 align:middle line:84%
+Mike Whinston has this paper,
+classic paper, saying sometimes
+
+00:52:24.960 --> 00:52:28.210 align:middle line:84%
+you will want to try to extend
+profits to a second market.
+
+00:52:28.210 --> 00:52:31.068 align:middle line:84%
+And this comes from a
+strategic investment--
+
+00:52:31.068 --> 00:52:33.360 align:middle line:84%
+either strategic entry
+accommodation or strategic entry
+
+00:52:33.360 --> 00:52:35.070 align:middle line:90%
+deterrence motive.
+
+00:52:35.070 --> 00:52:38.610 align:middle line:84%
+So suppose you have
+a firm, firm one.
+
+00:52:38.610 --> 00:52:42.390 align:middle line:84%
+It's a monopolist in good A.
+And suppose that there's some--
+
+00:52:42.390 --> 00:52:46.930 align:middle line:84%
+suppose that Samsung and
+whatever has disappeared.
+
+00:52:46.930 --> 00:52:49.380 align:middle line:90%
+So now there's only iPhones.
+
+00:52:49.380 --> 00:52:51.990 align:middle line:84%
+So firm one is an
+iPhone monopolist,
+
+00:52:51.990 --> 00:52:53.940 align:middle line:84%
+but it does compete
+with firm two
+
+00:52:53.940 --> 00:52:58.050 align:middle line:84%
+in producing chargers or
+earbuds or something like that.
+
+00:52:58.050 --> 00:53:01.720 align:middle line:84%
+Suppose we have a homogeneous--
+simple, homogeneous model.
+
+00:53:01.720 --> 00:53:03.630 align:middle line:84%
+All consumers get
+value v from good
+
+00:53:03.630 --> 00:53:06.930 align:middle line:84%
+And Then there's a
+demand for good B
+
+00:53:06.930 --> 00:53:16.340 align:middle line:84%
+that depends on prices for good
+one and prices for good two.
+
+00:53:16.340 --> 00:53:18.417 align:middle line:90%
+
+
+00:53:18.417 --> 00:53:20.000 align:middle line:84%
+So I'm just thinking,
+in this example,
+
+00:53:20.000 --> 00:53:21.417 align:middle line:84%
+this has to be
+something where you
+
+00:53:21.417 --> 00:53:24.980 align:middle line:84%
+can use good B without good
+A. So I guess the phone
+
+00:53:24.980 --> 00:53:26.800 align:middle line:84%
+and the charger
+does not work here.
+
+00:53:26.800 --> 00:53:33.020 align:middle line:90%
+
+
+00:53:33.020 --> 00:53:33.520 align:middle line:90%
+OK.
+
+00:53:33.520 --> 00:53:35.680 align:middle line:90%
+So suppose these are--
+
+00:53:35.680 --> 00:53:39.200 align:middle line:84%
+this is taking us
+back in the day.
+
+00:53:39.200 --> 00:53:41.410 align:middle line:84%
+Suppose that Apple's
+the iPhone monopolist.
+
+00:53:41.410 --> 00:53:43.127 align:middle line:90%
+Good B is headphones.
+
+00:53:43.127 --> 00:53:44.710 align:middle line:84%
+But suppose that
+headphones could also
+
+00:53:44.710 --> 00:53:47.350 align:middle line:84%
+be used to listen to
+an MP3 player, which
+
+00:53:47.350 --> 00:53:49.000 align:middle line:84%
+was a separate
+object that existed
+
+00:53:49.000 --> 00:53:51.040 align:middle line:84%
+that you could use to
+listen to music on, not
+
+00:53:51.040 --> 00:53:52.090 align:middle line:90%
+through your phone.
+
+00:53:52.090 --> 00:53:54.067 align:middle line:84%
+So you could just
+have a separate thing
+
+00:53:54.067 --> 00:53:56.400 align:middle line:84%
+that looked like a phone that
+you carried in your pocket
+
+00:53:56.400 --> 00:54:00.340 align:middle line:84%
+that you could play music on
+and listen to music on it.
+
+00:54:00.340 --> 00:54:00.840 align:middle line:90%
+So anyway.
+
+00:54:00.840 --> 00:54:02.800 align:middle line:84%
+So there's a demand
+for headphones
+
+00:54:02.800 --> 00:54:05.748 align:middle line:84%
+even if you don't have a-- even
+if you can't afford a phone,
+
+00:54:05.748 --> 00:54:07.290 align:middle line:84%
+you just have
+headphones that you use
+
+00:54:07.290 --> 00:54:09.780 align:middle line:90%
+to listen to music otherwise.
+
+00:54:09.780 --> 00:54:10.350 align:middle line:90%
+Anyway.
+
+00:54:10.350 --> 00:54:12.040 align:middle line:90%
+So firm one has this choice.
+
+00:54:12.040 --> 00:54:14.515 align:middle line:84%
+It can design its products
+so that they cannot be used
+
+00:54:14.515 --> 00:54:17.140 align:middle line:84%
+separately, or it can design it
+so that you just plug and play.
+
+00:54:17.140 --> 00:54:20.130 align:middle line:84%
+You can use anybody's
+earphones with your iPhone.
+
+00:54:20.130 --> 00:54:23.380 align:middle line:84%
+So imagine first firm one
+makes a design decision.
+
+00:54:23.380 --> 00:54:25.980 align:middle line:84%
+Then firm two chooses
+whether to enter and compete
+
+00:54:25.980 --> 00:54:26.890 align:middle line:90%
+with the monopolist.
+
+00:54:26.890 --> 00:54:28.765 align:middle line:84%
+And then we either get
+a monopoly or duopoly.
+
+00:54:28.765 --> 00:54:31.730 align:middle line:90%
+
+
+00:54:31.730 --> 00:54:37.940 align:middle line:84%
+In the-- if firm two comes in,
+it's going to set a price for--
+
+00:54:37.940 --> 00:54:39.860 align:middle line:84%
+firm two is going to
+set a price for good B
+
+00:54:39.860 --> 00:54:42.140 align:middle line:84%
+and doesn't sell
+good A. And then
+
+00:54:42.140 --> 00:54:46.280 align:middle line:84%
+firm one is either
+going to be only selling
+
+00:54:46.280 --> 00:54:49.880 align:middle line:84%
+a bundle of a
+phone with earbuds,
+
+00:54:49.880 --> 00:54:52.530 align:middle line:84%
+or it's going to be selling
+the two products separately.
+
+00:54:52.530 --> 00:54:53.938 align:middle line:90%
+You can buy the phone from it.
+
+00:54:53.938 --> 00:54:55.730 align:middle line:84%
+You can buy the earbuds
+from it separately,
+
+00:54:55.730 --> 00:54:59.090 align:middle line:84%
+but they're sold at
+two separate prices.
+
+00:54:59.090 --> 00:55:01.880 align:middle line:84%
+And we're going to think
+about in this model,
+
+00:55:01.880 --> 00:55:06.020 align:middle line:84%
+would Apple design its product
+so that every phone comes
+
+00:55:06.020 --> 00:55:09.230 align:middle line:84%
+with earbuds included, so
+that no one would then ever
+
+00:55:09.230 --> 00:55:11.080 align:middle line:90%
+buy earphones from anyone else?
+
+00:55:11.080 --> 00:55:13.860 align:middle line:90%
+
+
+00:55:13.860 --> 00:55:20.370 align:middle line:84%
+So absent any strategic effects,
+if you can't prevent entry,
+
+00:55:20.370 --> 00:55:23.610 align:middle line:84%
+you can't alter p2,
+firm one would never
+
+00:55:23.610 --> 00:55:25.650 align:middle line:90%
+tie the products together.
+
+00:55:25.650 --> 00:55:30.990 align:middle line:84%
+Because if you sell this
+bundle at price p1 AB,
+
+00:55:30.990 --> 00:55:35.370 align:middle line:84%
+you could instead just sell
+good A to everyone at price v,
+
+00:55:35.370 --> 00:55:39.980 align:middle line:84%
+and then sell the bundle
+at price p1 AB minus v.
+
+00:55:39.980 --> 00:55:45.750 align:middle line:90%
+And if you do this, every--
+
+00:55:45.750 --> 00:55:48.420 align:middle line:84%
+once-- with this separate
+pricing strategy,
+
+00:55:48.420 --> 00:55:50.550 align:middle line:84%
+everybody in the world is
+going to buy the iPhone
+
+00:55:50.550 --> 00:55:58.300 align:middle line:84%
+at price v. And sales
+of good B are unchanged.
+
+00:55:58.300 --> 00:56:02.240 align:middle line:84%
+Because anybody who-- people
+are making this choice.
+
+00:56:02.240 --> 00:56:03.340 align:middle line:90%
+Do I buy the Apple bundle?
+
+00:56:03.340 --> 00:56:06.610 align:middle line:84%
+Or do I just not have a
+phone and just buy earphones
+
+00:56:06.610 --> 00:56:08.440 align:middle line:90%
+to listen to my MP3 player?
+
+00:56:08.440 --> 00:56:12.010 align:middle line:84%
+Anybody-- you sell
+exactly the same--
+
+00:56:12.010 --> 00:56:14.830 align:middle line:90%
+anyone who values the iPhone--
+
+00:56:14.830 --> 00:56:19.780 align:middle line:84%
+anyone who values the Apple
+earbuds at more than this
+
+00:56:19.780 --> 00:56:21.110 align:middle line:90%
+is going to buy from Apple.
+
+00:56:21.110 --> 00:56:23.500 align:middle line:84%
+Anyone who buys from less
+than this is going to now--
+
+00:56:23.500 --> 00:56:25.400 align:middle line:84%
+is going to buy
+it not from Apple.
+
+00:56:25.400 --> 00:56:27.910 align:middle line:84%
+And so you sell
+exactly the same number
+
+00:56:27.910 --> 00:56:31.730 align:middle line:84%
+of units of earphones at
+these unbundled prices.
+
+00:56:31.730 --> 00:56:34.150 align:middle line:84%
+But you sell more phones because
+there are some people who
+
+00:56:34.150 --> 00:56:37.512 align:middle line:84%
+would like the phone
+as a standalone,
+
+00:56:37.512 --> 00:56:39.220 align:middle line:84%
+but they really like
+the outside earbuds,
+
+00:56:39.220 --> 00:56:41.803 align:middle line:84%
+so that they buy-- they don't
+buy the phone when they can only
+
+00:56:41.803 --> 00:56:45.440 align:middle line:84%
+buy the phone bundled
+with the earbuds.
+
+00:56:45.440 --> 00:56:49.323 align:middle line:84%
+So in a nonstrategic
+model, you would never
+
+00:56:49.323 --> 00:56:51.740 align:middle line:84%
+tie these two products together
+because it's always better
+
+00:56:51.740 --> 00:56:53.448 align:middle line:84%
+to let people buy what
+they want and just
+
+00:56:53.448 --> 00:56:55.050 align:middle line:84%
+have the two of them
+sold separately.
+
+00:56:55.050 --> 00:56:57.710 align:middle line:90%
+
+
+00:56:57.710 --> 00:57:00.710 align:middle line:84%
+But think about
+tying the product--
+
+00:57:00.710 --> 00:57:03.170 align:middle line:84%
+tying the product-- it's
+a strategic investment
+
+00:57:03.170 --> 00:57:04.760 align:middle line:90%
+that makes firm one tough.
+
+00:57:04.760 --> 00:57:07.250 align:middle line:90%
+It hurts firms two.
+
+00:57:07.250 --> 00:57:08.250 align:middle line:90%
+Why is that?
+
+00:57:08.250 --> 00:57:10.970 align:middle line:90%
+Well, because it's as if--
+
+00:57:10.970 --> 00:57:13.580 align:middle line:84%
+you've got this profit
+you're earning on good A--
+
+00:57:13.580 --> 00:57:15.620 align:middle line:90%
+v minus CA.
+
+00:57:15.620 --> 00:57:21.380 align:middle line:84%
+But you earn that profit on
+good A only if you sell good B.
+
+00:57:21.380 --> 00:57:24.920 align:middle line:84%
+So it's as if your
+opportunity cost of selling B
+
+00:57:24.920 --> 00:57:27.290 align:middle line:84%
+is reduced from the
+cost of producing
+
+00:57:27.290 --> 00:57:32.280 align:middle line:84%
+good B to the cost of good B
+minus this opportunity cost.
+
+00:57:32.280 --> 00:57:35.490 align:middle line:84%
+So every time I sell good
+B, I'm selling good A--
+
+00:57:35.490 --> 00:57:37.520 align:middle line:84%
+every time I sell good
+B, I'm selling good A
+
+00:57:37.520 --> 00:57:38.740 align:middle line:90%
+and earning this profit.
+
+00:57:38.740 --> 00:57:40.980 align:middle line:84%
+So it's like, this is
+my opportunity-- that's
+
+00:57:40.980 --> 00:57:43.910 align:middle line:84%
+my actual cost of
+selling good B.
+
+00:57:43.910 --> 00:57:49.340 align:middle line:84%
+And so this is like
+bundling the goods together.
+
+00:57:49.340 --> 00:57:51.030 align:middle line:90%
+You can think of it as a cost.
+
+00:57:51.030 --> 00:57:55.540 align:middle line:84%
+It's like a cost reduction
+on good B. Or it's similar--
+
+00:57:55.540 --> 00:57:59.370 align:middle line:84%
+it's identical to a cost
+reduction algebraically.
+
+00:57:59.370 --> 00:58:01.620 align:middle line:84%
+So therefore, if
+you want to tie--
+
+00:58:01.620 --> 00:58:07.470 align:middle line:84%
+if you want to prevent any
+firm from entering market B,
+
+00:58:07.470 --> 00:58:10.470 align:middle line:84%
+I tie the goods
+together to deter entry.
+
+00:58:10.470 --> 00:58:12.240 align:middle line:84%
+Because tying the
+goods together is
+
+00:58:12.240 --> 00:58:15.400 align:middle line:84%
+going to reduce the number of
+headphones that can get sold.
+
+00:58:15.400 --> 00:58:18.570 align:middle line:84%
+And by reducing the number of
+headphones that can get sold,
+
+00:58:18.570 --> 00:58:20.190 align:middle line:84%
+I may keep firm two
+out of the market
+
+00:58:20.190 --> 00:58:22.920 align:middle line:84%
+entirely and have a monopoly
+on the phone-- on both of them
+
+00:58:22.920 --> 00:58:23.880 align:middle line:90%
+together.
+
+00:58:23.880 --> 00:58:28.350 align:middle line:84%
+So this is a story where if you
+think about the entry decision,
+
+00:58:28.350 --> 00:58:30.895 align:middle line:84%
+you do have an incentive
+to tie goods together.
+
+00:58:30.895 --> 00:58:32.520 align:middle line:84%
+And by tying the
+goods together, you're
+
+00:58:32.520 --> 00:58:33.690 align:middle line:84%
+earning higher
+profits than you would
+
+00:58:33.690 --> 00:58:34.930 align:middle line:90%
+earn not tying them together.
+
+00:58:34.930 --> 00:58:37.860 align:middle line:84%
+So in some sense, you're going
+beyond your monopoly profits
+
+00:58:37.860 --> 00:58:40.790 align:middle line:84%
+in firm one and also gaining
+profits on market two.
+
+00:58:40.790 --> 00:58:44.100 align:middle line:90%
+
+
+00:58:44.100 --> 00:58:47.687 align:middle line:84%
+In the entry
+accommodation game, this
+
+00:58:47.687 --> 00:58:49.270 align:middle line:84%
+is an investment
+that makes you tough.
+
+00:58:49.270 --> 00:58:52.980 align:middle line:84%
+So if you're in price
+competition in market B,
+
+00:58:52.980 --> 00:58:57.970 align:middle line:84%
+you would not want to make this
+tie because it hurts firm two.
+
+00:58:57.970 --> 00:59:01.050 align:middle line:84%
+And in a price competition game,
+you want to help your rivals.
+
+00:59:01.050 --> 00:59:04.590 align:middle line:84%
+So if you are competing in a
+price competition game in market
+
+00:59:04.590 --> 00:59:06.810 align:middle line:84%
+B, then in the
+entry accommodate--
+
+00:59:06.810 --> 00:59:09.400 align:middle line:84%
+then you would not want to
+tie the products together.
+
+00:59:09.400 --> 00:59:12.580 align:middle line:84%
+And the leverage theory of
+tying doesn't make any sense.
+
+00:59:12.580 --> 00:59:17.190 align:middle line:84%
+You can't be tying them in
+order to get extra profits.
+
+00:59:17.190 --> 00:59:20.260 align:middle line:90%
+You would always only tie--
+
+00:59:20.260 --> 00:59:22.260 align:middle line:84%
+in some sense, you're
+going to have an incentive
+
+00:59:22.260 --> 00:59:24.540 align:middle line:84%
+to not tie them
+because not tying them
+
+00:59:24.540 --> 00:59:27.270 align:middle line:84%
+strategically gets firm
+two to price higher.
+
+00:59:27.270 --> 00:59:30.090 align:middle line:84%
+Now, if somehow this was an
+example where you had a Cournot
+
+00:59:30.090 --> 00:59:34.890 align:middle line:84%
+market for good B, if good B was
+being sold in a Cournot market,
+
+00:59:34.890 --> 00:59:40.350 align:middle line:84%
+then you may want to also
+tie products in order--
+
+00:59:40.350 --> 00:59:42.735 align:middle line:84%
+so it's like, I'm doing
+something or other.
+
+00:59:42.735 --> 00:59:44.110 align:middle line:84%
+If you buy this
+from me, you also
+
+00:59:44.110 --> 00:59:46.010 align:middle line:90%
+have to buy your coal from me.
+
+00:59:46.010 --> 00:59:48.500 align:middle line:84%
+And then coal was produced
+in a Cournot market,
+
+00:59:48.500 --> 00:59:51.760 align:middle line:84%
+I might want to tie
+goods together in order--
+
+00:59:51.760 --> 00:59:55.180 align:middle line:84%
+for the same reason, to be mean
+to you to get you to produce
+
+00:59:55.180 --> 00:59:57.030 align:middle line:90%
+less coal so that we're--
+
+00:59:57.030 --> 00:59:59.800 align:middle line:90%
+
+
+00:59:59.800 --> 01:00:02.550 align:middle line:84%
+that I'm hurting you in
+the accommodation game.
+
+01:00:02.550 --> 01:00:08.770 align:middle line:90%
+
+
+01:00:08.770 --> 01:00:13.150 align:middle line:84%
+But I think it does suggest
+that it's the leverage
+
+01:00:13.150 --> 01:00:16.030 align:middle line:84%
+to deter entry is an
+easy story to tell,
+
+01:00:16.030 --> 01:00:18.070 align:middle line:84%
+and leverage to
+accommodate entry,
+
+01:00:18.070 --> 01:00:20.720 align:middle line:84%
+or the tying to
+accommodate entry,
+
+01:00:20.720 --> 01:00:23.820 align:middle line:84%
+you're going to have to come
+up with strategic substitutes.
+
+01:00:23.820 --> 01:00:25.570 align:middle line:84%
+I think it's a strategic
+substitutes game,
+
+01:00:25.570 --> 01:00:26.970 align:middle line:90%
+and that's going to be--
+
+01:00:26.970 --> 01:00:28.905 align:middle line:84%
+not apply to many
+things that we think of.
+
+01:00:28.905 --> 01:00:31.470 align:middle line:90%
+
+
+01:00:31.470 --> 01:00:33.480 align:middle line:90%
+So limit pricing.
+
+01:00:33.480 --> 01:00:37.410 align:middle line:84%
+Yeah, the next two stories
+I'm going to say is--
+
+01:00:37.410 --> 01:00:39.210 align:middle line:84%
+again, as I've said,
+many things can
+
+01:00:39.210 --> 01:00:42.640 align:middle line:84%
+be thought of as an investment
+in these previous stories.
+
+01:00:42.640 --> 01:00:44.860 align:middle line:84%
+An investment is
+anything that's sunk.
+
+01:00:44.860 --> 01:00:47.713 align:middle line:84%
+And once it's sunk, you
+can't easily undo it.
+
+01:00:47.713 --> 01:00:49.380 align:middle line:84%
+And it's going to
+affect the competition
+
+01:00:49.380 --> 01:00:51.870 align:middle line:90%
+after the rival enters.
+
+01:00:51.870 --> 01:00:55.660 align:middle line:84%
+Can we think of prices as
+an entry-deterring device?
+
+01:00:55.660 --> 01:00:57.510 align:middle line:84%
+So the classic idea
+of limit pricing
+
+01:00:57.510 --> 01:01:00.720 align:middle line:84%
+is that you have a
+firm facing entry.
+
+01:01:00.720 --> 01:01:03.340 align:middle line:84%
+And the thought in the limit
+pricing literature was that way.
+
+01:01:03.340 --> 01:01:04.923 align:middle line:84%
+You had this idea
+that firms are going
+
+01:01:04.923 --> 01:01:06.780 align:middle line:84%
+to set low prices
+because they want
+
+01:01:06.780 --> 01:01:09.550 align:middle line:84%
+to keep rivals from entering
+and competing with them.
+
+01:01:09.550 --> 01:01:12.513 align:middle line:84%
+And there's a natural critique
+of that idea, this limit pricing
+
+01:01:12.513 --> 01:01:13.680 align:middle line:90%
+idea, that says, well, wait.
+
+01:01:13.680 --> 01:01:14.590 align:middle line:90%
+How would that work?
+
+01:01:14.590 --> 01:01:16.673 align:middle line:84%
+Sure, you can set your
+prices low so that everyone
+
+01:01:16.673 --> 01:01:18.060 align:middle line:90%
+sees that your prices are low.
+
+01:01:18.060 --> 01:01:19.858 align:middle line:84%
+But they know that
+if you enter, we're
+
+01:01:19.858 --> 01:01:22.150 align:middle line:84%
+just going to play the static
+Nash equilibrium anyways.
+
+01:01:22.150 --> 01:01:25.260 align:middle line:84%
+The fact that you wasted money
+in all the previous periods
+
+01:01:25.260 --> 01:01:29.820 align:middle line:84%
+by pricing below the
+monopoly price, it's just--
+
+01:01:29.820 --> 01:01:33.190 align:middle line:84%
+it's a sunk loss,
+but it just-- it has
+
+01:01:33.190 --> 01:01:34.440 align:middle line:90%
+nothing to do with the future.
+
+01:01:34.440 --> 01:01:36.107 align:middle line:84%
+If it has nothing to
+do with the future,
+
+01:01:36.107 --> 01:01:38.490 align:middle line:84%
+that can't-- you can't deter
+entry by setting low prices
+
+01:01:38.490 --> 01:01:41.040 align:middle line:84%
+to avoid getting people to
+come in and compete with you.
+
+01:01:41.040 --> 01:01:45.270 align:middle line:84%
+And so there are
+several different parts
+
+01:01:45.270 --> 01:01:48.210 align:middle line:84%
+of the IO literature that
+are discussed, stories
+
+01:01:48.210 --> 01:01:50.850 align:middle line:84%
+that would account
+for firms wanting
+
+01:01:50.850 --> 01:01:53.760 align:middle line:84%
+to price below the
+static monopoly profit
+
+01:01:53.760 --> 01:01:56.250 align:middle line:90%
+in order to keep firms out.
+
+01:01:56.250 --> 01:01:58.650 align:middle line:90%
+One of them is a classic--
+
+01:01:58.650 --> 01:02:02.370 align:middle line:84%
+is Milgrom and
+Roberts, 1982, noted
+
+01:02:02.370 --> 01:02:06.630 align:middle line:84%
+that you could have limit
+pricing if firm two doesn't
+
+01:02:06.630 --> 01:02:12.170 align:middle line:84%
+know firm one's costs, and
+prices are a signal of costs.
+
+01:02:12.170 --> 01:02:15.650 align:middle line:84%
+So this is going to be a
+classic signaling game.
+
+01:02:15.650 --> 01:02:19.250 align:middle line:84%
+Firm one has two possible
+cost levels, C lower bar
+
+01:02:19.250 --> 01:02:20.780 align:middle line:90%
+or C upper bar.
+
+01:02:20.780 --> 01:02:23.240 align:middle line:84%
+Assume that firm
+one knows its costs.
+
+01:02:23.240 --> 01:02:26.780 align:middle line:84%
+Firm two doesn't know
+firm one's costs.
+
+01:02:26.780 --> 01:02:29.720 align:middle line:84%
+Firm two has some prior
+that there's probability mu
+
+01:02:29.720 --> 01:02:33.740 align:middle line:84%
+that its a high-cost firm,
+and 1 minus mu that firm one's
+
+01:02:33.740 --> 01:02:35.180 align:middle line:90%
+a low-cost firm.
+
+01:02:35.180 --> 01:02:38.330 align:middle line:84%
+Firm 2 is going to have
+some separate costs, C2,
+
+01:02:38.330 --> 01:02:40.010 align:middle line:90%
+if it comes in and competes.
+
+01:02:40.010 --> 01:02:43.400 align:middle line:84%
+It knows C2, but it doesn't know
+whether firm one has a better
+
+01:02:43.400 --> 01:02:44.910 align:middle line:90%
+or worse technology than it is.
+
+01:02:44.910 --> 01:02:48.170 align:middle line:84%
+So it doesn't know if
+firm one is a lower cost
+
+01:02:48.170 --> 01:02:53.050 align:middle line:84%
+firm than it is, or firm one is
+a higher cost firm than it is.
+
+01:02:53.050 --> 01:02:56.020 align:middle line:84%
+And so we're going to think of
+a two-period model, where firm
+
+01:02:56.020 --> 01:02:59.530 align:middle line:90%
+one chooses p11 at t equals 1.
+
+01:02:59.530 --> 01:03:02.650 align:middle line:84%
+Firm two observes the price
+that firm one is charging,
+
+01:03:02.650 --> 01:03:05.230 align:middle line:84%
+and then it chooses
+whether to enter or not
+
+01:03:05.230 --> 01:03:08.170 align:middle line:84%
+and has some fixed
+entry cost, E.
+
+01:03:08.170 --> 01:03:13.000 align:middle line:84%
+And then we either
+get a monopoly,
+
+01:03:13.000 --> 01:03:17.380 align:middle line:84%
+where firm one produces and
+earns monopoly profits that
+
+01:03:17.380 --> 01:03:19.870 align:middle line:90%
+depend on its actual cost, C1.
+
+01:03:19.870 --> 01:03:24.170 align:middle line:84%
+Or we get a duopoly, where the
+profits depend on the costs C1
+
+01:03:24.170 --> 01:03:24.670 align:middle line:90%
+and C2.
+
+01:03:24.670 --> 01:03:28.070 align:middle line:90%
+
+
+01:03:28.070 --> 01:03:30.433 align:middle line:84%
+And in this model,
+Milgrom and Roberts
+
+01:03:30.433 --> 01:03:31.850 align:middle line:84%
+notes there are
+two different ways
+
+01:03:31.850 --> 01:03:35.780 align:middle line:84%
+we can think of where we can
+get firm one in equilibrium
+
+01:03:35.780 --> 01:03:41.270 align:middle line:84%
+to set a price lower than it
+would set in the blockaded entry
+
+01:03:41.270 --> 01:03:43.300 align:middle line:90%
+case.
+
+01:03:43.300 --> 01:03:47.770 align:middle line:84%
+Or in this case, it's simply
+the profit-maximizing case.
+
+01:03:47.770 --> 01:03:49.620 align:middle line:90%
+And why can that be?
+
+01:03:49.620 --> 01:03:52.360 align:middle line:90%
+So there are two cases.
+
+01:03:52.360 --> 01:04:06.040 align:middle line:84%
+Case one is E, such that
+firm two won't enter
+
+01:04:06.040 --> 01:04:07.516 align:middle line:90%
+if it gets no information.
+
+01:04:07.516 --> 01:04:11.290 align:middle line:90%
+
+
+01:04:11.290 --> 01:04:14.185 align:middle line:84%
+So imagine that firm two--
+it's unsure about where
+
+01:04:14.185 --> 01:04:17.185 align:middle line:90%
+the firm one's costs are.
+
+01:04:17.185 --> 01:04:19.560 align:middle line:84%
+We're going to typically think
+of if firm one has costs C
+
+01:04:19.560 --> 01:04:21.690 align:middle line:84%
+lower bar, firm two is
+going to get low profits
+
+01:04:21.690 --> 01:04:23.320 align:middle line:90%
+and wish it hadn't entered.
+
+01:04:23.320 --> 01:04:25.350 align:middle line:84%
+If C is C upper
+bar, then firm two
+
+01:04:25.350 --> 01:04:28.200 align:middle line:84%
+is going to earn high profits
+and be happy that it entered.
+
+01:04:28.200 --> 01:04:30.420 align:middle line:84%
+But imagine that the
+balance between those two
+
+01:04:30.420 --> 01:04:34.440 align:middle line:84%
+is that if firm two doesn't
+get any new information,
+
+01:04:34.440 --> 01:04:36.690 align:middle line:84%
+so it still has this
+prior mu 1 minus mu,
+
+01:04:36.690 --> 01:04:39.930 align:middle line:84%
+it's going to stay
+out of the market.
+
+01:04:39.930 --> 01:04:42.900 align:middle line:84%
+Well, if firm two
+would stay out,
+
+01:04:42.900 --> 01:04:45.300 align:middle line:84%
+if it gets no new
+information, we
+
+01:04:45.300 --> 01:04:48.300 align:middle line:90%
+can get a pooling equilibrium.
+
+01:04:48.300 --> 01:04:50.160 align:middle line:84%
+And the pooling
+equilibrium-- firm
+
+01:04:50.160 --> 01:04:53.160 align:middle line:84%
+one is setting a low price
+at t equals 1, regardless of
+
+01:04:53.160 --> 01:04:54.760 align:middle line:90%
+whether its cost is.
+
+01:04:54.760 --> 01:04:57.300 align:middle line:84%
+And then firm two stays
+out if it sees this price
+
+01:04:57.300 --> 01:05:00.050 align:middle line:90%
+and enters otherwise.
+
+01:05:00.050 --> 01:05:04.670 align:middle line:84%
+So you imagine there are these
+two different cost levels or two
+
+01:05:04.670 --> 01:05:06.290 align:middle line:90%
+different price levels.
+
+01:05:06.290 --> 01:05:12.410 align:middle line:84%
+P1 lower bar would be the
+argmax of firm one's profits.
+
+01:05:12.410 --> 01:05:16.340 align:middle line:84%
+If it's at price P1 and
+its cost to C lower bar.
+
+01:05:16.340 --> 01:05:22.250 align:middle line:84%
+And P1 upper bar would
+be the argmax of pi 1--
+
+01:05:22.250 --> 01:05:23.780 align:middle line:90%
+these are monopoly profits--
+
+01:05:23.780 --> 01:05:26.830 align:middle line:90%
+at P1 C upper bar.
+
+01:05:26.830 --> 01:05:31.570 align:middle line:84%
+So these two different profit
+level-- two different price
+
+01:05:31.570 --> 01:05:36.700 align:middle line:84%
+levels that you would set if
+you had low cost or high cost.
+
+01:05:36.700 --> 01:05:40.660 align:middle line:84%
+But if you imagine-- if we tried
+to have an equilibrium where
+
+01:05:40.660 --> 01:05:42.880 align:middle line:84%
+firm one set this price
+when its cost was low
+
+01:05:42.880 --> 01:05:47.410 align:middle line:84%
+and this price when its cost
+was high, if you set this price,
+
+01:05:47.410 --> 01:05:50.380 align:middle line:84%
+firm two is going to realize
+that you have high cost.
+
+01:05:50.380 --> 01:05:52.360 align:middle line:84%
+And then firm two
+is going to enter.
+
+01:05:52.360 --> 01:05:54.730 align:middle line:84%
+So what we can get is
+this pooling equilibrium,
+
+01:05:54.730 --> 01:06:01.660 align:middle line:84%
+where we have p11 equals
+p1 lower bar for all C.
+
+01:06:01.660 --> 01:06:05.650 align:middle line:84%
+So if your cost is low,
+you set price C lower bar.
+
+01:06:05.650 --> 01:06:06.990 align:middle line:90%
+If your cost is high--
+
+01:06:06.990 --> 01:06:07.490 align:middle line:90%
+sorry.
+
+01:06:07.490 --> 01:06:10.460 align:middle line:84%
+If you set-- price is low,
+you set price P1 lower bar.
+
+01:06:10.460 --> 01:06:14.670 align:middle line:84%
+But if your cost is high, you
+also set price P1 lower bar.
+
+01:06:14.670 --> 01:06:17.130 align:middle line:84%
+And so you're
+pricing low because
+
+01:06:17.130 --> 01:06:20.040 align:middle line:90%
+by pricing low, firm two--
+
+01:06:20.040 --> 01:06:22.140 align:middle line:84%
+firm two knows that
+firm one price is low
+
+01:06:22.140 --> 01:06:24.100 align:middle line:90%
+even if it's cost is high.
+
+01:06:24.100 --> 01:06:28.020 align:middle line:84%
+But by doing that, it prevents
+firm two from learning anything.
+
+01:06:28.020 --> 01:06:30.160 align:middle line:84%
+And by preventing firm to
+from learning anything,
+
+01:06:30.160 --> 01:06:31.505 align:middle line:90%
+firm two isn't going to enter.
+
+01:06:31.505 --> 01:06:38.860 align:middle line:90%
+
+
+01:06:38.860 --> 01:06:42.710 align:middle line:84%
+So kind of a familiar argument
+how signaling models typically
+
+01:06:42.710 --> 01:06:43.210 align:middle line:90%
+work.
+
+01:06:43.210 --> 01:06:45.085 align:middle line:84%
+That is, firm two is
+going to infer something
+
+01:06:45.085 --> 01:06:46.340 align:middle line:90%
+from your equilibrium play.
+
+01:06:46.340 --> 01:06:48.160 align:middle line:84%
+So we can have this
+pooling equilibrium
+
+01:06:48.160 --> 01:06:51.267 align:middle line:84%
+where we all charge a low
+price regardless of our costs,
+
+01:06:51.267 --> 01:06:53.350 align:middle line:84%
+and that prevents firm two
+from learning anything.
+
+01:06:53.350 --> 01:06:57.810 align:middle line:84%
+That gives you limit pricing
+to keep firm two out.
+
+01:06:57.810 --> 01:07:01.175 align:middle line:84%
+The other thing you can get--
+and this would be the case two.
+
+01:07:01.175 --> 01:07:05.360 align:middle line:90%
+
+
+01:07:05.360 --> 01:07:14.360 align:middle line:84%
+Case two is E, such
+that firm two enters
+
+01:07:14.360 --> 01:07:16.630 align:middle line:90%
+if it gets no new info.
+
+01:07:16.630 --> 01:07:19.400 align:middle line:90%
+
+
+01:07:19.400 --> 01:07:22.760 align:middle line:84%
+In this case, clearly, we can't
+have this pooling equilibrium
+
+01:07:22.760 --> 01:07:23.300 align:middle line:90%
+anymore.
+
+01:07:23.300 --> 01:07:25.550 align:middle line:84%
+Because in this
+pooling equilibrium,
+
+01:07:25.550 --> 01:07:27.590 align:middle line:84%
+if this was how people
+played the game,
+
+01:07:27.590 --> 01:07:30.690 align:middle line:84%
+then all the-- then firm
+two wouldn't learn anything.
+
+01:07:30.690 --> 01:07:32.700 align:middle line:84%
+But then firm two
+would always enter.
+
+01:07:32.700 --> 01:07:34.310 align:middle line:84%
+And so if you're
+a high-cost firm,
+
+01:07:34.310 --> 01:07:36.920 align:middle line:84%
+why are you charging a low price
+when it doesn't affect entry
+
+01:07:36.920 --> 01:07:37.980 align:middle line:90%
+in the future?
+
+01:07:37.980 --> 01:07:40.350 align:middle line:84%
+That's, again, this here
+relevant entry case.
+
+01:07:40.350 --> 01:07:43.910 align:middle line:84%
+But so we can get this
+equilibrium where we have P1--
+
+01:07:43.910 --> 01:07:46.940 align:middle line:90%
+
+
+01:07:46.940 --> 01:07:48.890 align:middle line:84%
+I'll call it the limit
+pricing equilibrium.
+
+01:07:48.890 --> 01:07:58.190 align:middle line:84%
+P1 limit pricing of C1 is
+less than P1 lower bar.
+
+01:07:58.190 --> 01:08:02.000 align:middle line:90%
+And P1 limit pricing of C1--
+
+01:08:02.000 --> 01:08:08.720 align:middle line:84%
+sorry-- of C lower bar and of C
+upper bar equals P1 upper bar.
+
+01:08:08.720 --> 01:08:12.350 align:middle line:84%
+So we can get this equilibrium
+where if your cost is high,
+
+01:08:12.350 --> 01:08:14.160 align:middle line:84%
+you just admit
+your cost is high.
+
+01:08:14.160 --> 01:08:15.500 align:middle line:90%
+Set a high price.
+
+01:08:15.500 --> 01:08:19.740 align:middle line:84%
+Firm two realize you have a high
+price and high cost and comes in
+
+01:08:19.740 --> 01:08:21.600 align:middle line:84%
+and enters and
+competes with you.
+
+01:08:21.600 --> 01:08:27.149 align:middle line:84%
+But if your cost is low, you
+charge something super low,
+
+01:08:27.149 --> 01:08:30.510 align:middle line:84%
+even lower than P1
+lower bar, in some sense
+
+01:08:30.510 --> 01:08:35.399 align:middle line:90%
+to prove too firm two that--
+
+01:08:35.399 --> 01:08:38.609 align:middle line:84%
+prove to firm two that
+you are the low-cost firm.
+
+01:08:38.609 --> 01:08:41.439 align:middle line:84%
+And why might you need to charge
+something lower than this?
+
+01:08:41.439 --> 01:08:44.623 align:middle line:84%
+Because it could be that if
+you just charge P1 lower bar,
+
+01:08:44.623 --> 01:08:46.290 align:middle line:84%
+that wouldn't be
+possible in equilibrium
+
+01:08:46.290 --> 01:08:47.915 align:middle line:84%
+because then the C
+upper bar firm would
+
+01:08:47.915 --> 01:08:49.740 align:middle line:90%
+pretend to be a low-cost firm.
+
+01:08:49.740 --> 01:08:54.810 align:middle line:84%
+But by pricing way, way below,
+even below my static best
+
+01:08:54.810 --> 01:08:58.500 align:middle line:84%
+response price, I set a price
+so low that a high-cost firm
+
+01:08:58.500 --> 01:08:59.590 align:middle line:90%
+wouldn't copy me.
+
+01:08:59.590 --> 01:09:04.060 align:middle line:84%
+And then it's a credible signal
+that my cost really is low.
+
+01:09:04.060 --> 01:09:07.000 align:middle line:84%
+So we can get these two
+different types of equilibria--
+
+01:09:07.000 --> 01:09:08.620 align:middle line:84%
+the pooling
+equilibria, where it's
+
+01:09:08.620 --> 01:09:15.100 align:middle line:84%
+the high-cost guys who price
+below their static optimum.
+
+01:09:15.100 --> 01:09:16.990 align:middle line:84%
+And then the
+separating equilibria,
+
+01:09:16.990 --> 01:09:18.790 align:middle line:84%
+where the low-cost
+guys are pricing
+
+01:09:18.790 --> 01:09:20.850 align:middle line:84%
+below their static optimum
+to signal their costs.
+
+01:09:20.850 --> 01:09:24.430 align:middle line:90%
+
+
+01:09:24.430 --> 01:09:27.130 align:middle line:84%
+So that's a
+cost-signaling argument
+
+01:09:27.130 --> 01:09:31.000 align:middle line:84%
+for why firms might
+want-- and it's plausible
+
+01:09:31.000 --> 01:09:33.370 align:middle line:84%
+that the firm in the market
+knows more about their costs
+
+01:09:33.370 --> 01:09:35.479 align:middle line:90%
+than the other firm does.
+
+01:09:35.479 --> 01:09:37.870 align:middle line:84%
+So you price low to
+signal your costs.
+
+01:09:37.870 --> 01:09:39.790 align:middle line:84%
+And that is why we
+see firms pricing
+
+01:09:39.790 --> 01:09:41.630 align:middle line:84%
+low to try to keep
+out competition.
+
+01:09:41.630 --> 01:09:48.790 align:middle line:90%
+
+
+01:09:48.790 --> 01:09:49.300 align:middle line:90%
+OK.
+
+01:09:49.300 --> 01:09:51.092 align:middle line:84%
+Second kind of story
+I was going to tell us
+
+01:09:51.092 --> 01:09:56.320 align:middle line:84%
+what Fudenberg and Tirole
+call a signal-jamming story.
+
+01:09:56.320 --> 01:09:59.710 align:middle line:84%
+In signal-jamming
+models, firms one and two
+
+01:09:59.710 --> 01:10:02.650 align:middle line:84%
+are both symmetrically
+uninformed about some state
+
+01:10:02.650 --> 01:10:04.450 align:middle line:90%
+of nature.
+
+01:10:04.450 --> 01:10:07.450 align:middle line:84%
+But, again, signal jamming
+can be motivated by a desire
+
+01:10:07.450 --> 01:10:10.270 align:middle line:90%
+to deter entry or induce exit.
+
+01:10:10.270 --> 01:10:16.660 align:middle line:84%
+And it, again, can look like
+pricing low either to try to--
+
+01:10:16.660 --> 01:10:19.150 align:middle line:84%
+pricing low either to prevent
+firm two from entering,
+
+01:10:19.150 --> 01:10:22.097 align:middle line:84%
+or to force firm two
+to exit a market.
+
+01:10:22.097 --> 01:10:23.930 align:middle line:84%
+So I thought I would
+do this one just like--
+
+01:10:23.930 --> 01:10:28.190 align:middle line:84%
+I've been doing everything
+in terms of avoiding entry.
+
+01:10:28.190 --> 01:10:30.730 align:middle line:84%
+I figured I'd do this one
+in terms of forcing exit.
+
+01:10:30.730 --> 01:10:33.620 align:middle line:84%
+But some of the same stories
+can be told both kinds of games.
+
+01:10:33.620 --> 01:10:35.080 align:middle line:90%
+So here's my model.
+
+01:10:35.080 --> 01:10:40.077 align:middle line:84%
+So firms one and two choose
+quantities q11 and q21
+
+01:10:40.077 --> 01:10:40.910 align:middle line:90%
+in the first period.
+
+01:10:40.910 --> 01:10:44.730 align:middle line:84%
+So I'm doing this
+in a Cournot model.
+
+01:10:44.730 --> 01:10:47.730 align:middle line:84%
+There is a market demand
+that determines some price.
+
+01:10:47.730 --> 01:10:52.860 align:middle line:84%
+And the market demand is theta
+minus q1 plus q2, where theta is
+
+01:10:52.860 --> 01:10:54.690 align:middle line:90%
+an unknown state of the world.
+
+01:10:54.690 --> 01:10:57.840 align:middle line:84%
+So neither of the firms
+knows how big the market
+
+01:10:57.840 --> 01:10:58.830 align:middle line:90%
+is for their product.
+
+01:10:58.830 --> 01:10:59.920 align:middle line:90%
+It's a new product.
+
+01:10:59.920 --> 01:11:01.420 align:middle line:90%
+They've just both invented it.
+
+01:11:01.420 --> 01:11:03.930 align:middle line:84%
+They start-- they produce
+some number of quantities,
+
+01:11:03.930 --> 01:11:06.270 align:middle line:84%
+dump them on a Cournot
+market, and then there's
+
+01:11:06.270 --> 01:11:09.710 align:middle line:84%
+some market-clearing
+price for the good.
+
+01:11:09.710 --> 01:11:12.740 align:middle line:84%
+And let's assume that
+theta is unknown,
+
+01:11:12.740 --> 01:11:14.530 align:middle line:90%
+and it has some common prior.
+
+01:11:14.530 --> 01:11:19.010 align:middle line:84%
+If theta is distributed normal--
+mean mu variance sigma squared.
+
+01:11:19.010 --> 01:11:21.515 align:middle line:84%
+So it could be that demand
+for the products is very high.
+
+01:11:21.515 --> 01:11:23.515 align:middle line:84%
+It could be demand for
+the products is very low.
+
+01:11:23.515 --> 01:11:26.160 align:middle line:90%
+
+
+01:11:26.160 --> 01:11:28.140 align:middle line:84%
+And so then on
+the observability,
+
+01:11:28.140 --> 01:11:30.960 align:middle line:84%
+we're going to assume that after
+firms choose their first period
+
+01:11:30.960 --> 01:11:34.540 align:middle line:84%
+quantities, they know what
+quantity they produced.
+
+01:11:34.540 --> 01:11:37.590 align:middle line:84%
+They don't know what quantity
+their rival produced.
+
+01:11:37.590 --> 01:11:42.310 align:middle line:84%
+But they do observe what the
+market-clearing price was.
+
+01:11:42.310 --> 01:11:44.200 align:middle line:84%
+And so they observe
+market-clearing price,
+
+01:11:44.200 --> 01:11:45.993 align:middle line:90%
+but not the rival's quantity.
+
+01:11:45.993 --> 01:11:48.160 align:middle line:84%
+And then I'm going to assume
+that after they observe
+
+01:11:48.160 --> 01:11:50.530 align:middle line:84%
+the market price, firm two
+has this this option to exit
+
+01:11:50.530 --> 01:11:53.170 align:middle line:84%
+the market, and by
+scrapping its firm
+
+01:11:53.170 --> 01:11:56.273 align:middle line:84%
+earn some value, K.
+And then if firm two--
+
+01:11:56.273 --> 01:11:57.940 align:middle line:84%
+depending on what
+firm two does, we then
+
+01:11:57.940 --> 01:11:59.950 align:middle line:84%
+end up with firm two
+exiting in their monopoly
+
+01:11:59.950 --> 01:12:03.222 align:middle line:84%
+in the second period,
+or firm two stays in,
+
+01:12:03.222 --> 01:12:05.430 align:middle line:84%
+and there's duopoly competition
+in the second period.
+
+01:12:05.430 --> 01:12:09.490 align:middle line:90%
+
+
+01:12:09.490 --> 01:12:10.490 align:middle line:90%
+This is a misspelling.
+
+01:12:10.490 --> 01:12:13.030 align:middle line:84%
+So the equilibrium
+is going to have
+
+01:12:13.030 --> 01:12:16.600 align:middle line:84%
+q11 greater than the static
+best response to q21.
+
+01:12:16.600 --> 01:12:19.780 align:middle line:84%
+So the idea is going
+to be in this model,
+
+01:12:19.780 --> 01:12:22.540 align:middle line:84%
+firm one is going to
+what we call signal jam
+
+01:12:22.540 --> 01:12:26.500 align:middle line:84%
+and overproduce in the first
+period driving down the market
+
+01:12:26.500 --> 01:12:28.470 align:middle line:90%
+price.
+
+01:12:28.470 --> 01:12:31.770 align:middle line:84%
+And in equilibrium--
+firm two always
+
+01:12:31.770 --> 01:12:34.090 align:middle line:84%
+knows what firm one is
+doing in equilibrium.
+
+01:12:34.090 --> 01:12:38.130 align:middle line:84%
+So in equilibrium, firm two
+correctly anticipates q11.
+
+01:12:38.130 --> 01:12:45.180 align:middle line:84%
+It can always then infer that it
+knows that theta minus q11 plus
+
+01:12:45.180 --> 01:12:48.850 align:middle line:90%
+q21 equals P1.
+
+01:12:48.850 --> 01:12:50.910 align:middle line:84%
+So it can always
+infer that theta
+
+01:12:50.910 --> 01:12:57.450 align:middle line:90%
+equals P1 plus q11 plus q21.
+
+01:12:57.450 --> 01:12:59.140 align:middle line:84%
+So I guess this is
+the way it infers it.
+
+01:12:59.140 --> 01:13:00.900 align:middle line:84%
+It's like after
+the first period,
+
+01:13:00.900 --> 01:13:03.270 align:middle line:90%
+it sees the first period price.
+
+01:13:03.270 --> 01:13:05.670 align:middle line:84%
+It knows what
+quantity it produced.
+
+01:13:05.670 --> 01:13:06.600 align:middle line:90%
+It anticipates.
+
+01:13:06.600 --> 01:13:09.250 align:middle line:84%
+It knows the
+equilibrium, q11 star.
+
+01:13:09.250 --> 01:13:10.800 align:middle line:84%
+And so it now
+believes that theta
+
+01:13:10.800 --> 01:13:13.770 align:middle line:90%
+equals this with probability 1.
+
+01:13:13.770 --> 01:13:19.900 align:middle line:84%
+And so result is that
+this equilibrium has
+
+01:13:19.900 --> 01:13:24.060 align:middle line:84%
+to have overproduction at
+t equals 1 by firm one.
+
+01:13:24.060 --> 01:13:24.970 align:middle line:90%
+Why is that?
+
+01:13:24.970 --> 01:13:27.330 align:middle line:84%
+Well, because
+suppose that firm one
+
+01:13:27.330 --> 01:13:31.760 align:middle line:84%
+was just playing the static
+best response to q21.
+
+01:13:31.760 --> 01:13:34.970 align:middle line:84%
+Then firm one could increase
+its output with no first order
+
+01:13:34.970 --> 01:13:36.950 align:middle line:90%
+loss and profits.
+
+01:13:36.950 --> 01:13:39.470 align:middle line:84%
+And there's a one
+for one relationship
+
+01:13:39.470 --> 01:13:42.530 align:middle line:84%
+between the more I produce
+in the first period
+
+01:13:42.530 --> 01:13:48.055 align:middle line:84%
+and what firm two thinks
+theta is going to be.
+
+01:13:48.055 --> 01:13:58.160 align:middle line:90%
+
+
+01:13:58.160 --> 01:13:59.510 align:middle line:90%
+Because if I produce--
+
+01:13:59.510 --> 01:14:05.300 align:middle line:84%
+imagine that I produce
+q11 greater than q1 star.
+
+01:14:05.300 --> 01:14:08.030 align:middle line:84%
+Firm two is thinking
+I produce q1 star.
+
+01:14:08.030 --> 01:14:13.100 align:middle line:84%
+So when I produce q11,
+P1 gets driven down.
+
+01:14:13.100 --> 01:14:15.920 align:middle line:84%
+And so when P1 gets
+driven down, P1
+
+01:14:15.920 --> 01:14:18.740 align:middle line:84%
+is going to be
+actually the true P1.
+
+01:14:18.740 --> 01:14:20.675 align:middle line:84%
+Well, it's going
+to be the-- sorry.
+
+01:14:20.675 --> 01:14:24.890 align:middle line:84%
+What I'm going to get is their
+estimated theta, theta hat,
+
+01:14:24.890 --> 01:14:31.400 align:middle line:84%
+is going to be the true theta
+minus q11 minus q1 star.
+
+01:14:31.400 --> 01:14:39.390 align:middle line:84%
+So if I overproduce, firm two is
+going to miss estimate theta 2
+
+01:14:39.390 --> 01:14:41.220 align:middle line:84%
+and think theta 2 is
+lower than it really
+
+01:14:41.220 --> 01:14:43.980 align:middle line:84%
+is because the price
+was lower than it should
+
+01:14:43.980 --> 01:14:45.850 align:middle line:90%
+have been given this q11 star.
+
+01:14:45.850 --> 01:14:49.210 align:middle line:84%
+So firm two is going to
+think theta is lower.
+
+01:14:49.210 --> 01:14:53.020 align:middle line:84%
+And so because firm two thinks
+theta is lower than it really
+
+01:14:53.020 --> 01:14:55.210 align:middle line:84%
+is, firm two is going to
+be more likely to exit
+
+01:14:55.210 --> 01:14:57.380 align:middle line:90%
+after the first period.
+
+01:14:57.380 --> 01:14:59.540 align:middle line:84%
+But then if firm two
+is more likely to exit
+
+01:14:59.540 --> 01:15:04.320 align:middle line:84%
+in the first period, that's good
+for me, and so I want to do it.
+
+01:15:04.320 --> 01:15:06.670 align:middle line:84%
+So why would I not do
+this in equilibrium?
+
+01:15:06.670 --> 01:15:08.670 align:middle line:84%
+The only reason I would
+not do it in equilibrium
+
+01:15:08.670 --> 01:15:14.400 align:middle line:84%
+is choosing q11 greater than
+q1 star has a first order
+
+01:15:14.400 --> 01:15:15.870 align:middle line:90%
+cost to me.
+
+01:15:15.870 --> 01:15:18.370 align:middle line:84%
+And the only way it's going to
+have a first order cost to me
+
+01:15:18.370 --> 01:15:22.493 align:middle line:84%
+is if q11 is greater than the
+static best response to q21.
+
+01:15:22.493 --> 01:15:25.110 align:middle line:90%
+
+
+01:15:25.110 --> 01:15:29.020 align:middle line:84%
+So what happened is we have this
+equilibrium where I overproduce.
+
+01:15:29.020 --> 01:15:30.398 align:middle line:90%
+He knows I'm overproducing.
+
+01:15:30.398 --> 01:15:32.190 align:middle line:84%
+He correctly infers
+what's going to happen,
+
+01:15:32.190 --> 01:15:33.670 align:middle line:90%
+given the overproduction.
+
+01:15:33.670 --> 01:15:36.660 align:middle line:84%
+But the overproduction by me
+is necessary to have me not
+
+01:15:36.660 --> 01:15:39.600 align:middle line:84%
+have an incentive to
+overproduce by even more.
+
+01:15:39.600 --> 01:15:41.970 align:middle line:84%
+And so we get this
+signal-jamming equilibrium
+
+01:15:41.970 --> 01:15:45.767 align:middle line:84%
+where firm one produces
+more than it looks
+
+01:15:45.767 --> 01:15:47.850 align:middle line:84%
+like the static best
+response in the first period,
+
+01:15:47.850 --> 01:15:49.380 align:middle line:90%
+drives prices down.
+
+01:15:49.380 --> 01:15:53.070 align:middle line:84%
+And it drives prices down in an
+attempt to get firm two to exit.
+
+01:15:53.070 --> 01:15:55.230 align:middle line:84%
+And notice, there is
+a funny efficiency
+
+01:15:55.230 --> 01:15:57.660 align:middle line:84%
+thing behind that story
+is in equilibrium,
+
+01:15:57.660 --> 01:16:01.050 align:middle line:84%
+firm two anticipates
+theta correctly,
+
+01:16:01.050 --> 01:16:03.270 align:middle line:84%
+undoes my signal
+jamming, and only
+
+01:16:03.270 --> 01:16:05.990 align:middle line:84%
+exits when it would
+exit efficiently anyway.
+
+01:16:05.990 --> 01:16:07.800 align:middle line:84%
+So this signal-jamming
+is, in some sense,
+
+01:16:07.800 --> 01:16:09.870 align:middle line:84%
+good for social welfare
+relative to the world
+
+01:16:09.870 --> 01:16:13.300 align:middle line:84%
+where all the cues were
+available-- were observable.
+
+01:16:13.300 --> 01:16:15.330 align:middle line:84%
+Because if the cues
+were observable,
+
+01:16:15.330 --> 01:16:17.230 align:middle line:84%
+you'd get exactly
+the same entry.
+
+01:16:17.230 --> 01:16:18.690 align:middle line:84%
+Except here, we
+get this low price,
+
+01:16:18.690 --> 01:16:20.190 align:middle line:84%
+and then we still
+get the same entry
+
+01:16:20.190 --> 01:16:22.150 align:middle line:90%
+you'd get with observable cues.
+
+01:16:22.150 --> 01:16:27.800 align:middle line:84%
+So this unobservability is
+just socially a good thing.
+
+01:16:27.800 --> 01:16:31.010 align:middle line:84%
+I guess, one more
+classic paper--
+
+01:16:31.010 --> 01:16:33.410 align:middle line:90%
+Aghion and Bolton, 1987--
+
+01:16:33.410 --> 01:16:36.770 align:middle line:84%
+discusses the
+question of, can firms
+
+01:16:36.770 --> 01:16:40.670 align:middle line:84%
+deter entry by getting
+their customers
+
+01:16:40.670 --> 01:16:42.720 align:middle line:90%
+to sign long-term contracts?
+
+01:16:42.720 --> 01:16:44.090 align:middle line:90%
+Like, if I could get--
+
+01:16:44.090 --> 01:16:46.730 align:middle line:84%
+if I'm trying to deter
+entry by rival cell phone
+
+01:16:46.730 --> 01:16:49.453 align:middle line:84%
+companies in Boston,
+could I just get
+
+01:16:49.453 --> 01:16:50.870 align:middle line:84%
+everyone who's
+currently in Boston
+
+01:16:50.870 --> 01:16:53.780 align:middle line:84%
+to sign like, say, my
+cell phone contracts
+
+01:16:53.780 --> 01:16:55.010 align:middle line:90%
+have a five-year commitment.
+
+01:16:55.010 --> 01:16:56.130 align:middle line:90%
+You sign up with me.
+
+01:16:56.130 --> 01:16:57.360 align:middle line:90%
+It's a five-year commitment.
+
+01:16:57.360 --> 01:17:00.920 align:middle line:84%
+You have to pay me an early
+termination fee of $2,000 if you
+
+01:17:00.920 --> 01:17:02.610 align:middle line:90%
+leave me before the five years.
+
+01:17:02.610 --> 01:17:04.670 align:middle line:84%
+Can I use lockup
+long-term contracts
+
+01:17:04.670 --> 01:17:08.270 align:middle line:84%
+like that to deter
+entry by rivals?
+
+01:17:08.270 --> 01:17:12.320 align:middle line:84%
+And, again, the Chicago school
+argument was always, well, no.
+
+01:17:12.320 --> 01:17:14.210 align:middle line:84%
+You can't use
+long-term contracts
+
+01:17:14.210 --> 01:17:17.000 align:middle line:84%
+to deter entry because
+the customer wouldn't
+
+01:17:17.000 --> 01:17:18.560 align:middle line:84%
+sign the long-term
+contract unless it
+
+01:17:18.560 --> 01:17:20.190 align:middle line:90%
+was in their best interest.
+
+01:17:20.190 --> 01:17:24.110 align:middle line:84%
+And therefore, we
+shouldn't think
+
+01:17:24.110 --> 01:17:27.900 align:middle line:84%
+that firms can use long-term
+contracts to deter entry
+
+01:17:27.900 --> 01:17:30.570 align:middle line:84%
+because the customers wouldn't
+sign the contracts unless it
+
+01:17:30.570 --> 01:17:33.750 align:middle line:84%
+was in their interest
+to sign the contracts.
+
+01:17:33.750 --> 01:17:36.450 align:middle line:90%
+Two problems with that story.
+
+01:17:36.450 --> 01:17:42.930 align:middle line:84%
+One is the Chicago story may
+make sense for large buyers
+
+01:17:42.930 --> 01:17:44.910 align:middle line:90%
+or monopoly buyers.
+
+01:17:44.910 --> 01:17:46.650 align:middle line:84%
+But it certainly
+doesn't make sense
+
+01:17:46.650 --> 01:17:48.510 align:middle line:84%
+in markets like the
+cell phone market,
+
+01:17:48.510 --> 01:17:52.800 align:middle line:84%
+where you have a large number
+of infinitesimal consumers.
+
+01:17:52.800 --> 01:17:59.040 align:middle line:84%
+Because you-- you
+graduate student at MIT,
+
+01:17:59.040 --> 01:18:00.160 align:middle line:90%
+you walk into Verizon.
+
+01:18:00.160 --> 01:18:02.130 align:middle line:84%
+They say, we only offer
+five-year contracts.
+
+01:18:02.130 --> 01:18:02.850 align:middle line:84%
+You walk to T-Mobile,
+and they say,
+
+01:18:02.850 --> 01:18:04.080 align:middle line:84%
+we only offer
+five-year contracts.
+
+01:18:04.080 --> 01:18:05.190 align:middle line:90%
+So you're like, I'm not--
+
+01:18:05.190 --> 01:18:07.440 align:middle line:84%
+I don't even know I'm going
+to be here for five years.
+
+01:18:07.440 --> 01:18:09.540 align:middle line:84%
+I'm not going to sign
+a five-year contract.
+
+01:18:09.540 --> 01:18:11.040 align:middle line:84%
+Give me a one-year
+contract instead.
+
+01:18:11.040 --> 01:18:12.720 align:middle line:90%
+They're going to say, fine.
+
+01:18:12.720 --> 01:18:13.570 align:middle line:90%
+Don't buy a phone.
+
+01:18:13.570 --> 01:18:14.280 align:middle line:90%
+And you're going to say.
+
+01:18:14.280 --> 01:18:15.738 align:middle line:84%
+I want to buy the
+one-year contract
+
+01:18:15.738 --> 01:18:19.050 align:middle line:84%
+because I know that if all
+of us buy one-year contracts,
+
+01:18:19.050 --> 01:18:21.520 align:middle line:84%
+some third firm is going
+to enter the Boston market.
+
+01:18:21.520 --> 01:18:23.610 align:middle line:84%
+Well, the answer is you,
+as a graduate student,
+
+01:18:23.610 --> 01:18:24.880 align:middle line:90%
+that's not happening.
+
+01:18:24.880 --> 01:18:26.610 align:middle line:84%
+Like, if there was
+a monopoly buyer
+
+01:18:26.610 --> 01:18:29.460 align:middle line:84%
+who could commit to I'm only
+signing a one-year contract,
+
+01:18:29.460 --> 01:18:32.080 align:middle line:84%
+then someone's going to
+enter, that would be better.
+
+01:18:32.080 --> 01:18:36.720 align:middle line:84%
+But you-- if you know that
+everybody else is signing
+
+01:18:36.720 --> 01:18:38.982 align:middle line:84%
+the five-year contract,
+you holding out and not
+
+01:18:38.982 --> 01:18:41.440 align:middle line:84%
+signing the five-year contract
+is not going to do anything.
+
+01:18:41.440 --> 01:18:42.780 align:middle line:90%
+It's not going to affect entry.
+
+01:18:42.780 --> 01:18:44.790 align:middle line:90%
+So there's a free rider problem.
+
+01:18:44.790 --> 01:18:47.640 align:middle line:84%
+Even if it's bad for all
+the consumers in aggregate,
+
+01:18:47.640 --> 01:18:49.830 align:middle line:84%
+you could sign it because
+of the free rider problem.
+
+01:18:49.830 --> 01:18:52.980 align:middle line:90%
+
+
+01:18:52.980 --> 01:18:59.310 align:middle line:84%
+Aghion and Bolton note that
+even with a monopoly buyer,
+
+01:18:59.310 --> 01:19:02.910 align:middle line:84%
+we can still tell stories where
+the long-term contracts get
+
+01:19:02.910 --> 01:19:06.970 align:middle line:84%
+signed even though they're not
+optimal or not socially optimal.
+
+01:19:06.970 --> 01:19:10.110 align:middle line:84%
+And the reason is that
+the long-term contracts
+
+01:19:10.110 --> 01:19:13.080 align:middle line:84%
+are in some sense
+stealing money from firm
+
+01:19:13.080 --> 01:19:14.710 align:middle line:90%
+two, the potential entrant.
+
+01:19:14.710 --> 01:19:17.790 align:middle line:84%
+And you, in some sense, take
+that business stealing profit
+
+01:19:17.790 --> 01:19:20.850 align:middle line:84%
+and divide it among the
+customer signing the contract
+
+01:19:20.850 --> 01:19:22.350 align:middle line:90%
+and the initial monopolist.
+
+01:19:22.350 --> 01:19:27.490 align:middle line:84%
+And by stealing the profits
+away from the future firm two,
+
+01:19:27.490 --> 01:19:29.970 align:middle line:84%
+you can divide those up
+among and get a situation
+
+01:19:29.970 --> 01:19:33.400 align:middle line:84%
+where it's bad socially to
+have these long-term tie-ups.
+
+01:19:33.400 --> 01:19:36.300 align:middle line:84%
+But the monopolist
+wants to offer them,
+
+01:19:36.300 --> 01:19:38.160 align:middle line:84%
+and the customers
+want to sign them.
+
+01:19:38.160 --> 01:19:41.740 align:middle line:84%
+So anyway, I will not go
+through that argument.
+
+01:19:41.740 --> 01:19:43.340 align:middle line:90%
+It's written there.
+
+01:19:43.340 --> 01:19:44.170 align:middle line:90%
+I had one more.
+
+01:19:44.170 --> 01:19:44.670 align:middle line:90%
+Anyway.
+
+01:19:44.670 --> 01:19:46.410 align:middle line:84%
+So Wednesday, I'm
+going to go back
+
+01:19:46.410 --> 01:19:49.230 align:middle line:84%
+to empirical papers on
+strategic investment.
+
+01:19:49.230 --> 01:19:52.890 align:middle line:84%
+I think these three are
+the ones that I'm mostly
+
+01:19:52.890 --> 01:19:55.240 align:middle line:90%
+going to talk about.
+
+01:19:55.240 --> 01:19:55.930 align:middle line:90%
+OK.
+
+01:19:55.930 --> 01:19:57.780 align:middle line:90%
+See you then.
+
+01:19:57.780 --> 01:20:04.000 align:middle line:90%

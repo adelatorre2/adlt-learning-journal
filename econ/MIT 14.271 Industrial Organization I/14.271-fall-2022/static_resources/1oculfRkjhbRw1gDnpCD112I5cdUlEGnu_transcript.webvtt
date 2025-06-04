@@ -1,0 +1,6469 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.479 align:middle line:84%
+[SQUEAKING]
+[RUSTLING] [CLICKING]
+
+00:00:03.479 --> 00:00:15.828 align:middle line:90%
+
+
+00:00:15.828 --> 00:00:18.120 align:middle line:84%
+GLENN ELLISON: OK, I guess
+I will start the tradition I
+
+00:00:18.120 --> 00:00:20.250 align:middle line:84%
+started last time
+of starting at 9:04.
+
+00:00:20.250 --> 00:00:23.013 align:middle line:84%
+So if you remember last time,
+I finished a lecture right
+
+00:00:23.013 --> 00:00:24.180 align:middle line:90%
+in the middle of an example.
+
+00:00:24.180 --> 00:00:27.150 align:middle line:84%
+I was talking about
+monopoly information
+
+00:00:27.150 --> 00:00:32.377 align:middle line:84%
+design, which is about how
+monopolists can affect--
+
+00:00:32.377 --> 00:00:34.710 align:middle line:84%
+by changing the information
+that consumers receive about
+
+00:00:34.710 --> 00:00:36.400 align:middle line:84%
+their product can
+affect the prices.
+
+00:00:36.400 --> 00:00:39.813 align:middle line:84%
+And this is motivation,
+both for firms
+
+00:00:39.813 --> 00:00:41.730 align:middle line:84%
+who are giving information
+about their product
+
+00:00:41.730 --> 00:00:44.130 align:middle line:84%
+to consumers to try
+to maximize profits,
+
+00:00:44.130 --> 00:00:47.610 align:middle line:84%
+or potentially for platforms
+like Amazon giving information
+
+00:00:47.610 --> 00:00:50.905 align:middle line:84%
+to consumers to try to
+increase the consumer surplus
+
+00:00:50.905 --> 00:00:53.280 align:middle line:84%
+and limit the monopoly power
+that the monopolist is going
+
+00:00:53.280 --> 00:00:55.200 align:middle line:90%
+to exert.
+
+00:00:55.200 --> 00:00:57.960 align:middle line:84%
+I had been multiplying
+everything by 18
+
+00:00:57.960 --> 00:01:00.880 align:middle line:84%
+when I talked about the
+examples last class in my head.
+
+00:01:00.880 --> 00:01:05.880 align:middle line:84%
+So I made this about the
+Sharan sandwich at Clover
+
+00:01:05.880 --> 00:01:08.550 align:middle line:84%
+and said that if consumers
+had full information
+
+00:01:08.550 --> 00:01:11.820 align:middle line:84%
+about the sandwich, their
+values would be uniform.
+
+00:01:11.820 --> 00:01:17.090 align:middle line:84%
+On 0, 18, there's a cost of
+$6 of producing the sandwich.
+
+00:01:17.090 --> 00:01:18.970 align:middle line:84%
+And I discussed
+a few different--
+
+00:01:18.970 --> 00:01:21.820 align:middle line:84%
+how consumer surplus
+and profit would
+
+00:01:21.820 --> 00:01:24.520 align:middle line:84%
+change a few different
+information structures.
+
+00:01:24.520 --> 00:01:26.410 align:middle line:84%
+If you give the consumers
+full information,
+
+00:01:26.410 --> 00:01:28.930 align:middle line:84%
+then their values
+are uniform 0, 18.
+
+00:01:28.930 --> 00:01:32.650 align:middle line:84%
+When your cost is 6,
+the monopoly profit
+
+00:01:32.650 --> 00:01:36.640 align:middle line:84%
+is halfway in between
+6 and 18, which is 12.
+
+00:01:36.640 --> 00:01:38.980 align:middle line:84%
+Another example I
+discussed is suppose Clover
+
+00:01:38.980 --> 00:01:41.050 align:middle line:84%
+puts the sandwich in a
+bag and tells you nothing
+
+00:01:41.050 --> 00:01:42.350 align:middle line:90%
+other than it's a new sandwich.
+
+00:01:42.350 --> 00:01:44.180 align:middle line:84%
+We're not telling you
+anything about it.
+
+00:01:44.180 --> 00:01:47.890 align:middle line:84%
+Then all consumers
+would have values of 9.
+
+00:01:47.890 --> 00:01:51.200 align:middle line:84%
+And so the monopoly price
+would be to set a price of 9.
+
+00:01:51.200 --> 00:01:53.230 align:middle line:84%
+And in this case, they
+actually make more money,
+
+00:01:53.230 --> 00:01:56.050 align:middle line:84%
+but consumer surplus is
+completely eliminated.
+
+00:01:56.050 --> 00:01:59.202 align:middle line:84%
+And then I gave this partial
+information example, where
+
+00:01:59.202 --> 00:02:01.660 align:middle line:84%
+I gave the consumers partial
+information about the product,
+
+00:02:01.660 --> 00:02:03.890 align:middle line:84%
+then ended up with a
+monopoly price of 10.
+
+00:02:03.890 --> 00:02:06.340 align:middle line:84%
+And consumers and the
+firm were both better off
+
+00:02:06.340 --> 00:02:07.610 align:middle line:90%
+than with full information.
+
+00:02:07.610 --> 00:02:10.780 align:middle line:84%
+And this is what that
+example looked like.
+
+00:02:10.780 --> 00:02:13.300 align:middle line:84%
+I know people often ask
+me, How on earth could
+
+00:02:13.300 --> 00:02:14.600 align:middle line:90%
+a firm do this in practice?
+
+00:02:14.600 --> 00:02:16.725 align:middle line:84%
+And let's imagine-- you
+can think of this two ways.
+
+00:02:16.725 --> 00:02:21.610 align:middle line:84%
+One is, is this a model of an
+omniscient firm like Amazon
+
+00:02:21.610 --> 00:02:24.590 align:middle line:84%
+or Google or Apple that
+knows so much about you,
+
+00:02:24.590 --> 00:02:26.140 align:middle line:84%
+they know your
+preferences better
+
+00:02:26.140 --> 00:02:28.690 align:middle line:84%
+than you do because they
+know what people like
+
+00:02:28.690 --> 00:02:29.830 align:middle line:90%
+you thought of the product?
+
+00:02:29.830 --> 00:02:32.330 align:middle line:84%
+So they can actually tell you
+about what your value is going
+
+00:02:32.330 --> 00:02:34.420 align:middle line:90%
+to be if you eat that sandwich.
+
+00:02:34.420 --> 00:02:36.400 align:middle line:84%
+The other example
+could be, let's imagine
+
+00:02:36.400 --> 00:02:39.280 align:middle line:84%
+that the value for having a
+sandwich depends on how much
+
+00:02:39.280 --> 00:02:41.650 align:middle line:84%
+you like cauliflower
+and how much you
+
+00:02:41.650 --> 00:02:44.630 align:middle line:84%
+like the Indo-Chinese
+sauce that it comes in.
+
+00:02:44.630 --> 00:02:48.740 align:middle line:84%
+And initially, you know
+nothing about the sandwich.
+
+00:02:48.740 --> 00:02:50.830 align:middle line:84%
+But then one thing
+they can tell you is,
+
+00:02:50.830 --> 00:02:54.340 align:middle line:84%
+I'm just telling you that the
+sandwich is made of cauliflower
+
+00:02:54.340 --> 00:02:55.490 align:middle line:90%
+as the base.
+
+00:02:55.490 --> 00:02:57.400 align:middle line:84%
+And then people who
+don't like cauliflower
+
+00:02:57.400 --> 00:02:59.350 align:middle line:84%
+are going to have
+values between 0 and 6,
+
+00:02:59.350 --> 00:03:01.180 align:middle line:84%
+depending on how much
+they like the sauce.
+
+00:03:01.180 --> 00:03:03.340 align:middle line:84%
+Those who have a medium
+preference for cauliflower
+
+00:03:03.340 --> 00:03:04.368 align:middle line:90%
+would have these values.
+
+00:03:04.368 --> 00:03:06.160 align:middle line:84%
+Those who have a high
+value for cauliflower
+
+00:03:06.160 --> 00:03:07.070 align:middle line:90%
+would have those values.
+
+00:03:07.070 --> 00:03:09.010 align:middle line:84%
+So it's like, we're not going to
+tell you what the sauce is like
+
+00:03:09.010 --> 00:03:11.410 align:middle line:84%
+or the vegetables, but we'll
+tell you that cauliflower
+
+00:03:11.410 --> 00:03:13.270 align:middle line:90%
+is the base of the sandwich.
+
+00:03:13.270 --> 00:03:16.090 align:middle line:84%
+Anyway, but what happened
+with this example was
+
+00:03:16.090 --> 00:03:18.190 align:middle line:84%
+all the consumers, after
+getting the signal,
+
+00:03:18.190 --> 00:03:20.350 align:middle line:90%
+had values of 3, 10, and 16.
+
+00:03:20.350 --> 00:03:23.080 align:middle line:84%
+And that ended up making
+the monopoly price 10.
+
+00:03:23.080 --> 00:03:26.800 align:middle line:84%
+So anyway, the monopoly
+information design literature
+
+00:03:26.800 --> 00:03:29.510 align:middle line:84%
+is about how can we
+think more generally
+
+00:03:29.510 --> 00:03:31.520 align:middle line:84%
+about what types
+of information we
+
+00:03:31.520 --> 00:03:34.610 align:middle line:84%
+want to give consumers to either
+maximize profits or maximize
+
+00:03:34.610 --> 00:03:38.250 align:middle line:84%
+consumer surplus or do
+something in between?
+
+00:03:38.250 --> 00:03:43.260 align:middle line:84%
+So the Roesler and Szentes paper
+that I put on the reading list
+
+00:03:43.260 --> 00:03:46.560 align:middle line:84%
+assumes that the values are
+now distributed according
+
+00:03:46.560 --> 00:03:49.360 align:middle line:90%
+to some distribution F on 0, 1.
+
+00:03:49.360 --> 00:03:52.600 align:middle line:84%
+It specializes
+that the cost is 0.
+
+00:03:52.600 --> 00:03:56.160 align:middle line:84%
+I'm going to write mu for the
+mean value of the consumers.
+
+00:03:56.160 --> 00:03:58.860 align:middle line:84%
+And what I'm going to
+do is give this firm
+
+00:03:58.860 --> 00:04:02.070 align:middle line:84%
+tremendous ability to manipulate
+the signal distribution.
+
+00:04:02.070 --> 00:04:04.020 align:middle line:84%
+What the firm can
+do is choose signals
+
+00:04:04.020 --> 00:04:07.980 align:middle line:84%
+to choose any joint distribution
+whatsoever on v and s.
+
+00:04:07.980 --> 00:04:10.750 align:middle line:84%
+So the most general set
+of signal structures
+
+00:04:10.750 --> 00:04:15.300 align:middle line:84%
+is they're just some joint
+distribution on v and s.
+
+00:04:15.300 --> 00:04:17.935 align:middle line:84%
+Notice that when
+consumers get signal s,
+
+00:04:17.935 --> 00:04:19.560 align:middle line:84%
+what they're going
+to be willing to pay
+
+00:04:19.560 --> 00:04:21.779 align:middle line:90%
+is expectation of v given s.
+
+00:04:21.779 --> 00:04:25.410 align:middle line:84%
+So rather than giving them a
+signal with a label like low,
+
+00:04:25.410 --> 00:04:28.980 align:middle line:84%
+medium, high, I might
+as well just say,
+
+00:04:28.980 --> 00:04:31.950 align:middle line:84%
+your signal is
+either 3 or 10 or 16.
+
+00:04:31.950 --> 00:04:35.470 align:middle line:90%
+
+
+00:04:35.470 --> 00:04:37.720 align:middle line:84%
+Given the information about
+the product I'm revealing,
+
+00:04:37.720 --> 00:04:40.660 align:middle line:84%
+your expected value is 3,
+your expected value is 10,
+
+00:04:40.660 --> 00:04:42.520 align:middle line:90%
+your expected value is 16.
+
+00:04:42.520 --> 00:04:44.172 align:middle line:90%
+And so you might as well--
+
+00:04:44.172 --> 00:04:46.630 align:middle line:84%
+consumers are going to do the
+Bayesian updating of whatever
+
+00:04:46.630 --> 00:04:47.950 align:middle line:90%
+letters or words you give them.
+
+00:04:47.950 --> 00:04:50.328 align:middle line:84%
+So you might as well just do
+the direct signal structure,
+
+00:04:50.328 --> 00:04:52.120 align:middle line:84%
+just tell them what
+their expected value is
+
+00:04:52.120 --> 00:04:54.520 align:middle line:90%
+given what you've known.
+
+00:04:54.520 --> 00:04:59.600 align:middle line:84%
+Now, obviously, I can't pick any
+distribution over values of s
+
+00:04:59.600 --> 00:05:02.500 align:middle line:90%
+I'm going to give them.
+
+00:05:02.500 --> 00:05:05.470 align:middle line:84%
+v is going to be s plus
+epsilon, where expectation
+
+00:05:05.470 --> 00:05:07.730 align:middle line:90%
+of epsilon given s is 0.
+
+00:05:07.730 --> 00:05:10.000 align:middle line:90%
+And so that means two things.
+
+00:05:10.000 --> 00:05:13.720 align:middle line:84%
+One thing that it means is that
+the expectation of the signals
+
+00:05:13.720 --> 00:05:18.100 align:middle line:84%
+must be mu because
+the expectation of v
+
+00:05:18.100 --> 00:05:23.140 align:middle line:84%
+is expectation of s
+plus epsilon given s--
+
+00:05:23.140 --> 00:05:24.190 align:middle line:90%
+iterated expectations.
+
+00:05:24.190 --> 00:05:26.210 align:middle line:84%
+I guess you must've
+done [14.]380 already.
+
+00:05:26.210 --> 00:05:29.038 align:middle line:84%
+And so the expectation of
+the signal distribution
+
+00:05:29.038 --> 00:05:30.580 align:middle line:84%
+has to be the same
+as the expectation
+
+00:05:30.580 --> 00:05:32.800 align:middle line:90%
+of the prior distribution.
+
+00:05:32.800 --> 00:05:34.690 align:middle line:84%
+And the other thing
+is that F is going
+
+00:05:34.690 --> 00:05:39.640 align:middle line:84%
+to be the distribution
+of v, the true values,
+
+00:05:39.640 --> 00:05:43.950 align:middle line:84%
+is a mean-preserving spread
+of the distribution of g.
+
+00:05:43.950 --> 00:05:46.740 align:middle line:84%
+And so what you want to think
+about the monopolist is doing
+
+00:05:46.740 --> 00:05:50.850 align:middle line:84%
+is just choosing a distribution
+g over possible signals,
+
+00:05:50.850 --> 00:05:52.510 align:middle line:84%
+subject to those
+two constraints--
+
+00:05:52.510 --> 00:05:57.300 align:middle line:84%
+I've got to choose a
+distribution that has mean mu,
+
+00:05:57.300 --> 00:05:59.730 align:middle line:84%
+and I have to choose a
+distribution such that F is
+
+00:05:59.730 --> 00:06:04.410 align:middle line:84%
+a mean-preserving spread of
+the distribution that I pick.
+
+00:06:04.410 --> 00:06:07.440 align:middle line:84%
+So, for instance, if this
+is the true distribution,
+
+00:06:07.440 --> 00:06:11.580 align:middle line:84%
+I can't give signals like
+this because this distribution
+
+00:06:11.580 --> 00:06:14.640 align:middle line:84%
+of finite support is not
+a mean-preserving spread
+
+00:06:14.640 --> 00:06:17.340 align:middle line:90%
+of that bigger distribution.
+
+00:06:17.340 --> 00:06:19.620 align:middle line:84%
+I could choose
+something like this
+
+00:06:19.620 --> 00:06:22.910 align:middle line:84%
+because this thing is a
+mean-preserving spread of that.
+
+00:06:22.910 --> 00:06:29.620 align:middle line:90%
+
+
+00:06:29.620 --> 00:06:33.860 align:middle line:84%
+So let me say, the
+two problems here,
+
+00:06:33.860 --> 00:06:35.920 align:middle line:84%
+one is the profit
+maximization problem.
+
+00:06:35.920 --> 00:06:38.760 align:middle line:84%
+The other is the consumer
+surplus maximization problem.
+
+00:06:38.760 --> 00:06:41.470 align:middle line:90%
+Profit maximization is trivial.
+
+00:06:41.470 --> 00:06:44.020 align:middle line:84%
+It's economically
+probably more important.
+
+00:06:44.020 --> 00:06:45.810 align:middle line:84%
+No one ever writes
+about it because what
+
+00:06:45.810 --> 00:06:47.470 align:middle line:90%
+do you do to maximize profits?
+
+00:06:47.470 --> 00:06:50.460 align:middle line:84%
+You just tell consumers
+your value is greater
+
+00:06:50.460 --> 00:06:54.142 align:middle line:84%
+than c or your value
+is less than c.
+
+00:06:54.142 --> 00:06:56.100 align:middle line:84%
+And then if you tell them
+your value is greater
+
+00:06:56.100 --> 00:06:59.190 align:middle line:84%
+than c, you sell it to them
+at the price of p star,
+
+00:06:59.190 --> 00:07:01.680 align:middle line:84%
+which is just the
+expectation of v,
+
+00:07:01.680 --> 00:07:05.400 align:middle line:90%
+given that v is greater than c.
+
+00:07:05.400 --> 00:07:08.520 align:middle line:84%
+So this simple pricing scheme,
+just tell them your value
+
+00:07:08.520 --> 00:07:11.730 align:middle line:84%
+is above c or below
+c, when you hear
+
+00:07:11.730 --> 00:07:14.850 align:middle line:84%
+your value is above
+c, every consumer who
+
+00:07:14.850 --> 00:07:17.560 align:middle line:84%
+hears their value is above c is
+willing to pay at this price.
+
+00:07:17.560 --> 00:07:19.350 align:middle line:84%
+So we get the fully
+efficient outcome,
+
+00:07:19.350 --> 00:07:22.980 align:middle line:84%
+and we fully extract all
+the consumer surplus.
+
+00:07:22.980 --> 00:07:24.510 align:middle line:84%
+So that's clearly
+the best thing you
+
+00:07:24.510 --> 00:07:26.593 align:middle line:84%
+could do because you're
+maximizing social surplus,
+
+00:07:26.593 --> 00:07:29.490 align:middle line:84%
+and the monopolist
+gets all of it.
+
+00:07:29.490 --> 00:07:31.815 align:middle line:84%
+What do we do if,
+instead, we're Amazon,
+
+00:07:31.815 --> 00:07:35.268 align:middle line:84%
+and we're trying to
+maximize consumer surplus?
+
+00:07:35.268 --> 00:07:36.810 align:middle line:84%
+Intuitively, what
+you're trying to do
+
+00:07:36.810 --> 00:07:40.860 align:middle line:84%
+is get the monopolist to
+charge the lowest price it can
+
+00:07:40.860 --> 00:07:43.230 align:middle line:84%
+and sell to the largest number
+of consumers that it can,
+
+00:07:43.230 --> 00:07:46.320 align:middle line:84%
+because that's the way you
+generate consumer surplus is get
+
+00:07:46.320 --> 00:07:47.985 align:middle line:84%
+everyone with a
+value greater than c
+
+00:07:47.985 --> 00:07:50.855 align:middle line:84%
+to buy and do it at the
+lowest possible price.
+
+00:07:50.855 --> 00:07:53.570 align:middle line:90%
+
+
+00:07:53.570 --> 00:07:55.040 align:middle line:84%
+Could potentially
+be some trade-off
+
+00:07:55.040 --> 00:07:56.130 align:middle line:90%
+between those two objectives.
+
+00:07:56.130 --> 00:07:57.110 align:middle line:90%
+It turns out it's not.
+
+00:07:57.110 --> 00:08:01.070 align:middle line:84%
+In this problem, you want
+to get everybody to buy.
+
+00:08:01.070 --> 00:08:02.040 align:middle line:90%
+So what do you do?
+
+00:08:02.040 --> 00:08:03.385 align:middle line:90%
+The answer is this.
+
+00:08:03.385 --> 00:08:06.465 align:middle line:90%
+
+
+00:08:06.465 --> 00:08:08.090 align:middle line:84%
+I'm going to use some
+distribution that
+
+00:08:08.090 --> 00:08:09.270 align:middle line:90%
+looks like that.
+
+00:08:09.270 --> 00:08:13.130 align:middle line:84%
+And so the two-step argument
+to show that this is optimal
+
+00:08:13.130 --> 00:08:16.700 align:middle line:84%
+is I'm going to first look at
+distributions of this form.
+
+00:08:16.700 --> 00:08:19.157 align:middle line:84%
+I'm going to show that
+they work very well.
+
+00:08:19.157 --> 00:08:20.990 align:middle line:84%
+I'm going to show what
+the maximum profit is
+
+00:08:20.990 --> 00:08:22.980 align:middle line:84%
+I can get with the
+distribution of this form.
+
+00:08:22.980 --> 00:08:25.355 align:middle line:84%
+And then I'm going to show
+that no other distribution can
+
+00:08:25.355 --> 00:08:26.430 align:middle line:90%
+do better than this one.
+
+00:08:26.430 --> 00:08:30.690 align:middle line:84%
+So it's like a guess and
+check answer, I guess.
+
+00:08:30.690 --> 00:08:33.419 align:middle line:84%
+So what is that
+distribution formally?
+
+00:08:33.419 --> 00:08:35.600 align:middle line:90%
+So I let the cdf--
+
+00:08:35.600 --> 00:08:37.470 align:middle line:90%
+I guess I graphed the pdf here.
+
+00:08:37.470 --> 00:08:40.250 align:middle line:90%
+So the cdf looks like this.
+
+00:08:40.250 --> 00:08:46.760 align:middle line:84%
+It starts at some value, s
+lower bar, goes flat like that,
+
+00:08:46.760 --> 00:08:55.950 align:middle line:84%
+goes like that, and then has a
+jump and then goes across at 1.
+
+00:08:55.950 --> 00:08:59.770 align:middle line:90%
+So this is s upper bar.
+
+00:08:59.770 --> 00:09:04.750 align:middle line:90%
+So this is my graph of G of s.
+
+00:09:04.750 --> 00:09:07.077 align:middle line:84%
+So this is the cumulative
+distribution function
+
+00:09:07.077 --> 00:09:08.535 align:middle line:84%
+that I'm choosing
+the signals from.
+
+00:09:08.535 --> 00:09:14.270 align:middle line:90%
+
+
+00:09:14.270 --> 00:09:19.760 align:middle line:84%
+Notice that if the platform
+chooses this distribution,
+
+00:09:19.760 --> 00:09:27.410 align:middle line:84%
+and the monopolist then picks
+any price p in this interval,
+
+00:09:27.410 --> 00:09:33.140 align:middle line:84%
+the profit that the monopolist
+gets is p times 1 minus G of p.
+
+00:09:33.140 --> 00:09:39.110 align:middle line:84%
+And p times 1 minus G of p is
+just p times s lower bar over p
+
+00:09:39.110 --> 00:09:41.420 align:middle line:90%
+equals s lower bar.
+
+00:09:41.420 --> 00:09:46.040 align:middle line:84%
+So what this distribution does
+is I choose that distribution,
+
+00:09:46.040 --> 00:09:53.082 align:middle line:84%
+and I get this graph of
+s lower bar, s upper bar.
+
+00:09:53.082 --> 00:09:54.540 align:middle line:84%
+I get this distribution
+of profits.
+
+00:09:54.540 --> 00:09:59.900 align:middle line:84%
+So profits are if I charge a
+price of anything less than s
+
+00:09:59.900 --> 00:10:01.880 align:middle line:90%
+lower bar, everybody buys.
+
+00:10:01.880 --> 00:10:06.330 align:middle line:84%
+And so my profit is linear
+in the price that I charge.
+
+00:10:06.330 --> 00:10:08.630 align:middle line:84%
+So I'm putting
+price on this axis.
+
+00:10:08.630 --> 00:10:12.950 align:middle line:84%
+Then here, everybody buys,
+and I get a price of--
+
+00:10:12.950 --> 00:10:15.210 align:middle line:84%
+I get a profit of
+exactly s lower bar.
+
+00:10:15.210 --> 00:10:16.520 align:middle line:90%
+And then I've made people--
+
+00:10:16.520 --> 00:10:21.150 align:middle line:84%
+I've made you indifferent
+over all prices in this range.
+
+00:10:21.150 --> 00:10:23.220 align:middle line:90%
+And then my profit drops to 0.
+
+00:10:23.220 --> 00:10:26.250 align:middle line:84%
+So this, I'm graphing the
+profit that you get charging p.
+
+00:10:26.250 --> 00:10:31.430 align:middle line:90%
+
+
+00:10:31.430 --> 00:10:36.650 align:middle line:84%
+So given that the monopolist
+is indifferent over all prices
+
+00:10:36.650 --> 00:10:42.060 align:middle line:84%
+in this interval, one of the
+optimal prices is s lower bar.
+
+00:10:42.060 --> 00:10:44.700 align:middle line:84%
+And so by setting this
+distribution, and then
+
+00:10:44.700 --> 00:10:46.650 align:middle line:84%
+the monopolist is
+indifferent over all prices,
+
+00:10:46.650 --> 00:10:48.890 align:middle line:90%
+it can charge price s lower bar.
+
+00:10:48.890 --> 00:10:52.920 align:middle line:84%
+We observe we get
+profit s lower bar.
+
+00:10:52.920 --> 00:10:56.940 align:middle line:84%
+And then the consumer
+surplus is the difference
+
+00:10:56.940 --> 00:11:00.210 align:middle line:84%
+between each of these
+values and s lower bar.
+
+00:11:00.210 --> 00:11:03.720 align:middle line:84%
+So if you integrate
+under this distribution,
+
+00:11:03.720 --> 00:11:05.940 align:middle line:84%
+you're going to get what
+the consumer surplus is.
+
+00:11:05.940 --> 00:11:08.220 align:middle line:84%
+And so by putting s
+lower bar down here,
+
+00:11:08.220 --> 00:11:11.350 align:middle line:84%
+the lower I can put it, the more
+consumer surplus I'm generating.
+
+00:11:11.350 --> 00:11:14.862 align:middle line:90%
+
+
+00:11:14.862 --> 00:11:18.190 align:middle line:84%
+So within this class of G's,
+the consumer surplus optimal
+
+00:11:18.190 --> 00:11:18.950 align:middle line:90%
+solution is clear.
+
+00:11:18.950 --> 00:11:20.617 align:middle line:84%
+What I want to do is
+I just want to pick
+
+00:11:20.617 --> 00:11:24.610 align:middle line:84%
+the smallest s lower bar that
+I can subject to the constraint
+
+00:11:24.610 --> 00:11:30.190 align:middle line:84%
+that G has to have
+mean mu and F has
+
+00:11:30.190 --> 00:11:35.610 align:middle line:84%
+to be a mean-preserving
+spread of G. How low
+
+00:11:35.610 --> 00:11:37.380 align:middle line:90%
+can I go and still do that?
+
+00:11:37.380 --> 00:11:41.190 align:middle line:84%
+Well, this distribution has the
+property that because it's only
+
+00:11:41.190 --> 00:11:46.020 align:middle line:84%
+going down like 1/s, if I were
+to set s upper bar going towards
+
+00:11:46.020 --> 00:11:49.470 align:middle line:84%
+infinity, the mean of
+this distribution would go
+
+00:11:49.470 --> 00:11:50.950 align:middle line:90%
+to infinity.
+
+00:11:50.950 --> 00:11:54.760 align:middle line:84%
+So for any s lower bar, I can
+just pick a high enough s lower
+
+00:11:54.760 --> 00:11:57.240 align:middle line:90%
+bar and make the mean mu.
+
+00:11:57.240 --> 00:12:03.240 align:middle line:84%
+But the problem I run into is
+I need this distribution to be
+
+00:12:03.240 --> 00:12:06.998 align:middle line:84%
+a mean-preserving
+spread of F. You guys--
+
+00:12:06.998 --> 00:12:07.540 align:middle line:90%
+I don't know.
+
+00:12:07.540 --> 00:12:09.248 align:middle line:84%
+Do they still even do
+this in statistics?
+
+00:12:09.248 --> 00:12:11.840 align:middle line:84%
+What does a mean-preserving
+spread look like?
+
+00:12:11.840 --> 00:12:16.160 align:middle line:84%
+So If this is G, and this is F,
+G is a mean-preserving spread
+
+00:12:16.160 --> 00:12:19.070 align:middle line:84%
+of F. And it's a
+mean-preserving spread of F
+
+00:12:19.070 --> 00:12:24.200 align:middle line:84%
+because it crosses the
+cdf of F once from below.
+
+00:12:24.200 --> 00:12:26.570 align:middle line:84%
+If F looked like
+this, this thing
+
+00:12:26.570 --> 00:12:30.570 align:middle line:90%
+would not be valid because--
+
+00:12:30.570 --> 00:12:33.910 align:middle line:90%
+oh, no, that would still be OK.
+
+00:12:33.910 --> 00:12:36.580 align:middle line:84%
+The problem is going to
+come in if let's suppose
+
+00:12:36.580 --> 00:12:45.390 align:middle line:84%
+that F were to go like
+this, then it never crosses.
+
+00:12:45.390 --> 00:12:48.020 align:middle line:84%
+And so if I'm having to
+use an s upper bar that's
+
+00:12:48.020 --> 00:12:50.840 align:middle line:84%
+bigger than the upper bound
+of the F distribution,
+
+00:12:50.840 --> 00:12:53.090 align:middle line:84%
+then this thing isn't a
+mean-preserving spread
+
+00:12:53.090 --> 00:12:55.040 align:middle line:90%
+of F anymore.
+
+00:12:55.040 --> 00:13:00.230 align:middle line:84%
+And so what I'm going to want to
+do is just pick an s lower bar
+
+00:13:00.230 --> 00:13:02.270 align:middle line:84%
+and pick the smallest
+s lower bar such
+
+00:13:02.270 --> 00:13:07.820 align:middle line:84%
+that when I put the upper
+bound below the upper bound 1,
+
+00:13:07.820 --> 00:13:09.670 align:middle line:90%
+I'm getting a mean of mu.
+
+00:13:09.670 --> 00:13:13.440 align:middle line:90%
+
+
+00:13:13.440 --> 00:13:15.430 align:middle line:84%
+So anyway, so that's
+the best we can
+
+00:13:15.430 --> 00:13:18.700 align:middle line:84%
+do within that class
+of distributions.
+
+00:13:18.700 --> 00:13:21.407 align:middle line:84%
+And then step 2, the
+harder step of the proof--
+
+00:13:21.407 --> 00:13:23.740 align:middle line:84%
+actually, I think I've done
+it pretty well on the slides
+
+00:13:23.740 --> 00:13:24.860 align:middle line:84%
+if you want to look
+at the slides at home.
+
+00:13:24.860 --> 00:13:26.470 align:middle line:84%
+But the basic idea
+in the slides is
+
+00:13:26.470 --> 00:13:29.050 align:middle line:84%
+that no other distribution
+could possibly
+
+00:13:29.050 --> 00:13:31.330 align:middle line:90%
+do better than this one.
+
+00:13:31.330 --> 00:13:33.710 align:middle line:90%
+And how does that argument go?
+
+00:13:33.710 --> 00:13:36.550 align:middle line:84%
+Well, what I'm going to
+do is I'm going to say,
+
+00:13:36.550 --> 00:13:40.380 align:middle line:90%
+let G be any other valid choice.
+
+00:13:40.380 --> 00:13:43.740 align:middle line:84%
+If you give me G
+is a valid choice,
+
+00:13:43.740 --> 00:13:46.320 align:middle line:84%
+I'm going to pick a
+distribution in this class
+
+00:13:46.320 --> 00:13:50.460 align:middle line:84%
+and show that it does at least
+as well as G and is valid.
+
+00:13:50.460 --> 00:13:56.700 align:middle line:84%
+So you give me any other
+valid distribution,
+
+00:13:56.700 --> 00:14:01.620 align:middle line:84%
+let pi be the profit that
+you earn when you use G,
+
+00:14:01.620 --> 00:14:04.230 align:middle line:84%
+I'm going to consider
+the distribution G of pi
+
+00:14:04.230 --> 00:14:07.920 align:middle line:84%
+s upper bar where s
+upper bar is chosen such
+
+00:14:07.920 --> 00:14:10.415 align:middle line:84%
+that s upper bar gives
+this thing a mean of mu.
+
+00:14:10.415 --> 00:14:14.310 align:middle line:90%
+
+
+00:14:14.310 --> 00:14:17.760 align:middle line:84%
+This distribution,
+G of pi s upper bar,
+
+00:14:17.760 --> 00:14:21.090 align:middle line:84%
+it also gives-- it gives
+the same profit as in G,
+
+00:14:21.090 --> 00:14:24.120 align:middle line:84%
+because these distributions
+G of s lower bar s upper bar
+
+00:14:24.120 --> 00:14:25.840 align:middle line:90%
+give profit s lower bar.
+
+00:14:25.840 --> 00:14:28.800 align:middle line:84%
+So if I choose the profit
+I get from using this,
+
+00:14:28.800 --> 00:14:32.110 align:middle line:84%
+this thing also gives
+the same profit pi.
+
+00:14:32.110 --> 00:14:34.570 align:middle line:90%
+It gives the same profit pi.
+
+00:14:34.570 --> 00:14:36.410 align:middle line:90%
+it's fully socially efficient.
+
+00:14:36.410 --> 00:14:39.010 align:middle line:84%
+Everybody purchases
+in that distribution,
+
+00:14:39.010 --> 00:14:42.100 align:middle line:84%
+so it has to give at least
+as much social surplus.
+
+00:14:42.100 --> 00:14:45.950 align:middle line:84%
+Because it's maximizing social
+welfare, it has the same profit,
+
+00:14:45.950 --> 00:14:48.530 align:middle line:84%
+consumer surplus has
+to be at least as high.
+
+00:14:48.530 --> 00:14:53.390 align:middle line:84%
+So if I switch from G
+to G of pi s upper bar,
+
+00:14:53.390 --> 00:14:56.960 align:middle line:84%
+then I've gotten at least
+as much consumer surplus
+
+00:14:56.960 --> 00:14:59.580 align:middle line:90%
+to complete the proof.
+
+00:14:59.580 --> 00:15:01.730 align:middle line:84%
+I just then need to
+show that G of pi
+
+00:15:01.730 --> 00:15:05.780 align:middle line:84%
+s upper bar is a valid
+distribution to choose.
+
+00:15:05.780 --> 00:15:07.670 align:middle line:84%
+And to do that, I
+just need to show
+
+00:15:07.670 --> 00:15:15.300 align:middle line:84%
+that F is a mean-preserving
+spread of G of pi s.
+
+00:15:15.300 --> 00:15:16.860 align:middle line:90%
+To do that--
+
+00:15:16.860 --> 00:15:25.770 align:middle line:84%
+I'm trying to show that F is a
+mean-preserving spread of G pi s
+
+00:15:25.770 --> 00:15:26.690 align:middle line:90%
+upper bar.
+
+00:15:26.690 --> 00:15:28.270 align:middle line:90%
+I do that in two steps.
+
+00:15:28.270 --> 00:15:36.180 align:middle line:84%
+I show that-- we know that F is
+a mean-preserving spread of G
+
+00:15:36.180 --> 00:15:37.750 align:middle line:90%
+because G was valid.
+
+00:15:37.750 --> 00:15:40.620 align:middle line:84%
+And so I just need
+to show that any G is
+
+00:15:40.620 --> 00:15:45.450 align:middle line:84%
+a mean-preserving spread
+of G of pi s upper bar.
+
+00:15:45.450 --> 00:15:47.010 align:middle line:84%
+And the way I'm
+going to do that is
+
+00:15:47.010 --> 00:15:51.230 align:middle line:90%
+show that any G looks like this.
+
+00:15:51.230 --> 00:16:00.510 align:middle line:84%
+Any G that's valid has to start
+above G of pi s upper bar here--
+
+00:16:00.510 --> 00:16:07.800 align:middle line:84%
+has to start above it, and
+then it has to end below it.
+
+00:16:07.800 --> 00:16:10.030 align:middle line:84%
+Anyway, I've got
+the argument here.
+
+00:16:10.030 --> 00:16:12.660 align:middle line:84%
+But basically, the argument
+is it has to be above it here
+
+00:16:12.660 --> 00:16:14.370 align:middle line:90%
+because this one is 0.
+
+00:16:14.370 --> 00:16:17.640 align:middle line:84%
+In this interval, it
+has to be above it here
+
+00:16:17.640 --> 00:16:21.390 align:middle line:84%
+because this one, the maximized
+profit, is at most pi.
+
+00:16:21.390 --> 00:16:24.140 align:middle line:84%
+This one, the maximized
+profit is exactly equal to pi.
+
+00:16:24.140 --> 00:16:26.260 align:middle line:84%
+So you have to sell
+to fewer consumers.
+
+00:16:26.260 --> 00:16:28.080 align:middle line:84%
+So it's above it
+all the way to here,
+
+00:16:28.080 --> 00:16:30.760 align:middle line:84%
+and then it has to be below
+it here because that one's 1.
+
+00:16:30.760 --> 00:16:32.320 align:middle line:90%
+That's the basic argument.
+
+00:16:32.320 --> 00:16:38.080 align:middle line:84%
+So it's a-- what
+are my takeaways--
+
+00:16:38.080 --> 00:16:41.250 align:middle line:90%
+let me get my takeaways first.
+
+00:16:41.250 --> 00:16:44.410 align:middle line:84%
+Takeaways, profit-maximizing
+structure is simple.
+
+00:16:44.410 --> 00:16:47.557 align:middle line:84%
+You just tell people that
+their value is at least c.
+
+00:16:47.557 --> 00:16:49.390 align:middle line:84%
+A good way to think
+about information design
+
+00:16:49.390 --> 00:16:51.250 align:middle line:84%
+is think about choosing the
+distribution of the consumer's
+
+00:16:51.250 --> 00:16:52.210 align:middle line:90%
+posterior.
+
+00:16:52.210 --> 00:16:56.480 align:middle line:90%
+And if you want to do that--
+
+00:16:56.480 --> 00:16:59.098 align:middle line:90%
+if you want to minimize--
+
+00:16:59.098 --> 00:17:01.640 align:middle line:84%
+if you want to maximize consumer
+surplus, what you want to do
+
+00:17:01.640 --> 00:17:03.350 align:middle line:84%
+is get everyone to
+buy, and get everyone
+
+00:17:03.350 --> 00:17:05.609 align:middle line:84%
+to buy at the lowest
+price possible.
+
+00:17:05.609 --> 00:17:08.930 align:middle line:84%
+The way you get people to buy
+at the lowest price possible
+
+00:17:08.930 --> 00:17:13.099 align:middle line:84%
+is to use a distribution
+like this where there's
+
+00:17:13.099 --> 00:17:15.089 align:middle line:90%
+a lot of low-value consumers.
+
+00:17:15.089 --> 00:17:18.890 align:middle line:84%
+And if you raise your price at
+all, you lose a lot of demand.
+
+00:17:18.890 --> 00:17:22.685 align:middle line:84%
+And demand is very steep here,
+so that gets the monopolist
+
+00:17:22.685 --> 00:17:24.560 align:middle line:84%
+to be indifferent between
+charging this price
+
+00:17:24.560 --> 00:17:26.371 align:middle line:84%
+and charging those
+higher prices.
+
+00:17:26.371 --> 00:17:27.829 align:middle line:84%
+And so that's the
+kind of thing you
+
+00:17:27.829 --> 00:17:29.840 align:middle line:84%
+want to do with the
+information structure is
+
+00:17:29.840 --> 00:17:32.230 align:middle line:84%
+create a lot of
+low-value consumers
+
+00:17:32.230 --> 00:17:36.080 align:middle line:84%
+and create a distribution
+where every time the monopolist
+
+00:17:36.080 --> 00:17:37.940 align:middle line:84%
+raises their price
+a little bit, they
+
+00:17:37.940 --> 00:17:39.800 align:middle line:84%
+would be losing lots
+and lots of consumers.
+
+00:17:39.800 --> 00:17:41.450 align:middle line:84%
+And distributions
+like this are the way
+
+00:17:41.450 --> 00:17:43.480 align:middle line:90%
+you maximize consumer surplus.
+
+00:17:43.480 --> 00:17:47.072 align:middle line:90%
+
+
+00:17:47.072 --> 00:17:51.610 align:middle line:84%
+Also, Paolo had actually asked
+after the last class, What's
+
+00:17:51.610 --> 00:17:54.650 align:middle line:84%
+the full set of things we can
+do, and how do I show that?
+
+00:17:54.650 --> 00:17:58.218 align:middle line:84%
+I added a slide that
+I won't talk about.
+
+00:17:58.218 --> 00:18:00.760 align:middle line:84%
+But Roesler and Szentes just
+have this fairly simple argument
+
+00:18:00.760 --> 00:18:05.110 align:middle line:84%
+that shows that this is the
+profit-maximizing point.
+
+00:18:05.110 --> 00:18:08.090 align:middle line:84%
+This is the consumer
+surplus maximizing point.
+
+00:18:08.090 --> 00:18:10.850 align:middle line:84%
+Everything in this
+triangle is possible.
+
+00:18:10.850 --> 00:18:12.970 align:middle line:84%
+So if you want to
+achieve less efficiency,
+
+00:18:12.970 --> 00:18:14.665 align:middle line:90%
+you can achieve less efficiency.
+
+00:18:14.665 --> 00:18:16.540 align:middle line:84%
+But basically, what you
+can do is give them--
+
+00:18:16.540 --> 00:18:19.010 align:middle line:84%
+you have to give a monopolist
+at least this much profit.
+
+00:18:19.010 --> 00:18:20.170 align:middle line:84%
+If you were trying to
+hurt the monopolist,
+
+00:18:20.170 --> 00:18:21.310 align:middle line:90%
+you can't do any better.
+
+00:18:21.310 --> 00:18:23.118 align:middle line:84%
+And consumer
+surplus-- anyway, it's
+
+00:18:23.118 --> 00:18:24.660 align:middle line:84%
+going to have to be
+in that triangle.
+
+00:18:24.660 --> 00:18:27.580 align:middle line:90%
+
+
+00:18:27.580 --> 00:18:34.290 align:middle line:84%
+I really think it's probably
+mostly this diagonal
+
+00:18:34.290 --> 00:18:36.660 align:middle line:84%
+that we're typically interested
+in, how do we maximize
+
+00:18:36.660 --> 00:18:38.680 align:middle line:90%
+consumer surplus versus profit.
+
+00:18:38.680 --> 00:18:41.310 align:middle line:84%
+And the way we do this is we
+choose these distributions
+
+00:18:41.310 --> 00:18:43.230 align:middle line:90%
+G of s lower bar, s upper bar.
+
+00:18:43.230 --> 00:18:46.680 align:middle line:90%
+And we just vary s lower bar.
+
+00:18:46.680 --> 00:18:50.130 align:middle line:84%
+And the higher we
+make s lower bar,
+
+00:18:50.130 --> 00:18:52.260 align:middle line:84%
+the higher is the
+monopolist's profit,
+
+00:18:52.260 --> 00:18:54.240 align:middle line:90%
+the lower is consumer surplus.
+
+00:18:54.240 --> 00:18:56.550 align:middle line:84%
+In some sense, this
+is a special case
+
+00:18:56.550 --> 00:18:59.250 align:middle line:84%
+of this argument
+where you just set s
+
+00:18:59.250 --> 00:19:01.980 align:middle line:84%
+lower bar equals
+expectation of v,
+
+00:19:01.980 --> 00:19:04.320 align:middle line:90%
+given that v is greater than c.
+
+00:19:04.320 --> 00:19:06.430 align:middle line:90%
+That's the monopoly solution.
+
+00:19:06.430 --> 00:19:08.170 align:middle line:84%
+That's the monopoly
+pricing solution.
+
+00:19:08.170 --> 00:19:15.060 align:middle line:84%
+And so as we raise s
+upper bar to that point,
+
+00:19:15.060 --> 00:19:16.990 align:middle line:90%
+that's what we're going to do.
+
+00:19:16.990 --> 00:19:20.960 align:middle line:90%
+
+
+00:19:20.960 --> 00:19:22.216 align:middle line:90%
+Any questions?
+
+00:19:22.216 --> 00:19:26.750 align:middle line:90%
+
+
+00:19:26.750 --> 00:19:29.030 align:middle line:90%
+Let me say, I feel this is--
+
+00:19:29.030 --> 00:19:31.990 align:middle line:84%
+just in terms of thinking about
+topics, I don't really know.
+
+00:19:31.990 --> 00:19:33.140 align:middle line:90%
+I looked.
+
+00:19:33.140 --> 00:19:35.540 align:middle line:84%
+I couldn't find any
+good empirical papers
+
+00:19:35.540 --> 00:19:36.960 align:middle line:90%
+on monopoly information design.
+
+00:19:36.960 --> 00:19:39.293 align:middle line:84%
+It seems like that's something
+that I think there should
+
+00:19:39.293 --> 00:19:40.740 align:middle line:90%
+be some empirical work on.
+
+00:19:40.740 --> 00:19:44.810 align:middle line:84%
+And also, this question of
+translating this from theory
+
+00:19:44.810 --> 00:19:48.950 align:middle line:84%
+to IO is this "I can choose any
+joint distribution over v and s
+
+00:19:48.950 --> 00:19:52.920 align:middle line:84%
+that's possible" is
+a heroic assumption.
+
+00:19:52.920 --> 00:19:54.590 align:middle line:90%
+And I guess the question--
+
+00:19:54.590 --> 00:19:56.600 align:middle line:84%
+intriguing empirical
+question is,
+
+00:19:56.600 --> 00:19:59.210 align:middle line:84%
+how can one do that in
+practice, and how close can one
+
+00:19:59.210 --> 00:20:04.010 align:middle line:84%
+get to designing expectation
+of the distributions
+
+00:20:04.010 --> 00:20:07.190 align:middle line:84%
+over expectation of
+v, given the signals,
+
+00:20:07.190 --> 00:20:10.520 align:middle line:84%
+with a finite set of signals
+or signals about product
+
+00:20:10.520 --> 00:20:13.490 align:middle line:84%
+characteristics or a
+more limited set of ways
+
+00:20:13.490 --> 00:20:15.680 align:middle line:84%
+I can give signals than
+just this telling people
+
+00:20:15.680 --> 00:20:17.340 align:middle line:90%
+their posteriors immediately?
+
+00:20:17.340 --> 00:20:20.290 align:middle line:90%
+
+
+00:20:20.290 --> 00:20:22.360 align:middle line:84%
+Anyway, so rest
+of today's class,
+
+00:20:22.360 --> 00:20:24.580 align:middle line:84%
+I'm going to start
+doing empirical papers
+
+00:20:24.580 --> 00:20:27.370 align:middle line:90%
+for the first time.
+
+00:20:27.370 --> 00:20:31.010 align:middle line:84%
+And I'm going to mostly
+talk about two papers.
+
+00:20:31.010 --> 00:20:33.410 align:middle line:84%
+What I thought I would
+do first, though,
+
+00:20:33.410 --> 00:20:37.370 align:middle line:84%
+is go back and give you the
+8-minute history of empirical
+
+00:20:37.370 --> 00:20:38.540 align:middle line:90%
+IO.
+
+00:20:38.540 --> 00:20:41.540 align:middle line:84%
+I mean, I think the background
+is useful to understand.
+
+00:20:41.540 --> 00:20:43.250 align:middle line:84%
+As you start reading
+IO papers, there
+
+00:20:43.250 --> 00:20:45.625 align:middle line:84%
+are a lot of IO papers written
+about ketchup or cardboard
+
+00:20:45.625 --> 00:20:48.350 align:middle line:84%
+boxes, and people often
+ask me why on earth
+
+00:20:48.350 --> 00:20:49.770 align:middle line:90%
+do IO economists do that.
+
+00:20:49.770 --> 00:20:53.360 align:middle line:84%
+And so I think giving some
+perspective on what IO people do
+
+00:20:53.360 --> 00:20:57.440 align:middle line:90%
+and why could be useful.
+
+00:20:57.440 --> 00:20:59.510 align:middle line:84%
+Let me start my brief
+empirical history.
+
+00:20:59.510 --> 00:21:02.510 align:middle line:90%
+So early empirical IO--
+
+00:21:02.510 --> 00:21:07.670 align:middle line:84%
+so before the 1960s, IO
+economists wrote books.
+
+00:21:07.670 --> 00:21:09.330 align:middle line:90%
+And they wrote big, thick books.
+
+00:21:09.330 --> 00:21:10.940 align:middle line:84%
+They wrote books--
+an IO economist was
+
+00:21:10.940 --> 00:21:15.380 align:middle line:84%
+an expert in some industry like
+the airline industry or the car
+
+00:21:15.380 --> 00:21:19.080 align:middle line:84%
+industry or the coal industry or
+the steel industry or whatever.
+
+00:21:19.080 --> 00:21:21.630 align:middle line:84%
+But IO economists were
+experts in industries.
+
+00:21:21.630 --> 00:21:26.060 align:middle line:84%
+They wrote these big,
+thick books discussing lots
+
+00:21:26.060 --> 00:21:28.690 align:middle line:90%
+of stuff about the industry.
+
+00:21:28.690 --> 00:21:31.190 align:middle line:84%
+We actually used to have an
+assignment in this course, which
+
+00:21:31.190 --> 00:21:33.950 align:middle line:84%
+was try to get a
+Harvard library card,
+
+00:21:33.950 --> 00:21:36.290 align:middle line:84%
+go into the stacks
+of Widener, pick out
+
+00:21:36.290 --> 00:21:39.807 align:middle line:84%
+one of these many books,
+read it, and write something
+
+00:21:39.807 --> 00:21:41.390 align:middle line:84%
+about it, because
+it was often they're
+
+00:21:41.390 --> 00:21:43.820 align:middle line:84%
+full of facts and full of
+interesting things going on
+
+00:21:43.820 --> 00:21:44.840 align:middle line:90%
+in the industry.
+
+00:21:44.840 --> 00:21:47.960 align:middle line:84%
+And they often have lots of
+puzzles about what's going on
+
+00:21:47.960 --> 00:21:50.810 align:middle line:84%
+and why is this happening when,
+with modern theory, you're like,
+
+00:21:50.810 --> 00:21:52.580 align:middle line:84%
+OK, I could tell you
+why that's happening,
+
+00:21:52.580 --> 00:21:56.640 align:middle line:84%
+or this is a good example
+of search affecting pricing
+
+00:21:56.640 --> 00:22:02.100 align:middle line:84%
+or whatever, some kind of
+incomplete information story.
+
+00:22:02.100 --> 00:22:04.200 align:middle line:84%
+It was a very interesting
+field, in the sense
+
+00:22:04.200 --> 00:22:05.790 align:middle line:84%
+that you would read books
+about these industries,
+
+00:22:05.790 --> 00:22:07.990 align:middle line:84%
+and you would learn a
+tremendous amount about them.
+
+00:22:07.990 --> 00:22:10.390 align:middle line:84%
+They were typically
+very light on theory.
+
+00:22:10.390 --> 00:22:12.538 align:middle line:84%
+It was really a lot of
+descriptive work about how
+
+00:22:12.538 --> 00:22:14.580 align:middle line:84%
+does this industry work,
+what are the firms, what
+
+00:22:14.580 --> 00:22:17.062 align:middle line:84%
+are the prices like, what
+are the markups, what
+
+00:22:17.062 --> 00:22:18.770 align:middle line:84%
+are all the practices
+that you see there.
+
+00:22:18.770 --> 00:22:22.590 align:middle line:90%
+
+
+00:22:22.590 --> 00:22:29.880 align:middle line:84%
+So in the '60s and '70s,
+there was this increasing use
+
+00:22:29.880 --> 00:22:31.890 align:middle line:90%
+of statistics in economics.
+
+00:22:31.890 --> 00:22:36.810 align:middle line:84%
+And instead of just writing
+discussions of industries,
+
+00:22:36.810 --> 00:22:39.690 align:middle line:84%
+people wanted to have
+regressions in their papers.
+
+00:22:39.690 --> 00:22:42.120 align:middle line:84%
+And so regression started
+to come into the profession
+
+00:22:42.120 --> 00:22:43.530 align:middle line:90%
+in the 1950s.
+
+00:22:43.530 --> 00:22:47.068 align:middle line:84%
+I have this one anecdote here
+that my wife got from Zvi
+
+00:22:47.068 --> 00:22:49.110 align:middle line:84%
+Griliches, who was a famous
+economist at Harvard,
+
+00:22:49.110 --> 00:22:52.620 align:middle line:84%
+that his summer job at some
+point in the 1950s was to run
+
+00:22:52.620 --> 00:22:53.230 align:middle line:90%
+a regression.
+
+00:22:53.230 --> 00:22:55.230 align:middle line:84%
+And you might ask, well,
+OK, was your summer job
+
+00:22:55.230 --> 00:22:55.980 align:middle line:90%
+to run regression?
+
+00:22:55.980 --> 00:22:58.050 align:middle line:84%
+It's like, no, he was
+given the data set,
+
+00:22:58.050 --> 00:23:02.770 align:middle line:84%
+and his job was to compute x
+prime x and then invert it.
+
+00:23:02.770 --> 00:23:06.420 align:middle line:84%
+And it was, like, a 7-variable
+regression or something like
+
+00:23:06.420 --> 00:23:06.920 align:middle line:90%
+that.
+
+00:23:06.920 --> 00:23:09.550 align:middle line:84%
+So his summer job was with
+a calculator, like, here's
+
+00:23:09.550 --> 00:23:11.200 align:middle line:90%
+a 7 by 7 matrix.
+
+00:23:11.200 --> 00:23:15.220 align:middle line:84%
+I want you to invert x prime
+x so that we can then report
+
+00:23:15.220 --> 00:23:17.860 align:middle line:90%
+the results of that regression.
+
+00:23:17.860 --> 00:23:22.480 align:middle line:84%
+But anyway, obviously, this got
+easier in the '50s and '60s when
+
+00:23:22.480 --> 00:23:25.870 align:middle line:90%
+computers got invented.
+
+00:23:25.870 --> 00:23:29.770 align:middle line:84%
+And Joe Bain, who was
+actually a first one
+
+00:23:29.770 --> 00:23:33.190 align:middle line:84%
+to do regressions in a
+within-industry study,
+
+00:23:33.190 --> 00:23:36.040 align:middle line:84%
+had a view that IO
+shouldn't be developing
+
+00:23:36.040 --> 00:23:38.750 align:middle line:84%
+these facts about the coal
+industry or the steel industry.
+
+00:23:38.750 --> 00:23:41.720 align:middle line:84%
+We want broad truths that
+apply to all industries.
+
+00:23:41.720 --> 00:23:43.000 align:middle line:90%
+And so it became popular.
+
+00:23:43.000 --> 00:23:46.130 align:middle line:84%
+And IO after that was
+cross-section regressions.
+
+00:23:46.130 --> 00:23:48.460 align:middle line:84%
+And what happened in these
+cross-section regressions
+
+00:23:48.460 --> 00:23:50.590 align:middle line:84%
+was people typically
+have a dependent variable
+
+00:23:50.590 --> 00:23:54.610 align:middle line:90%
+like markups in industry i.
+
+00:23:54.610 --> 00:23:57.460 align:middle line:84%
+And they would regress
+markup on industry i.
+
+00:23:57.460 --> 00:24:02.230 align:middle line:84%
+So it would be like
+markup in industry i
+
+00:24:02.230 --> 00:24:08.950 align:middle line:84%
+is alpha 0 plus alpha 1 times
+the four-firm concentration
+
+00:24:08.950 --> 00:24:22.490 align:middle line:84%
+ratio plus alpha 2 times the
+advertising to sales ratio,
+
+00:24:22.490 --> 00:24:24.890 align:middle line:84%
+and there'd be a bunch
+of other variables.
+
+00:24:24.890 --> 00:24:26.900 align:middle line:90%
+But you would just do--
+
+00:24:26.900 --> 00:24:30.140 align:middle line:84%
+I'm running a regression like
+this with six or seven or eight
+
+00:24:30.140 --> 00:24:32.810 align:middle line:84%
+variables, and I'm going to try
+to talk about what is it that
+
+00:24:32.810 --> 00:24:35.660 align:middle line:90%
+makes industries competitive.
+
+00:24:35.660 --> 00:24:38.935 align:middle line:84%
+And they were looking for
+these broader truths that
+
+00:24:38.935 --> 00:24:41.060 align:middle line:84%
+would give us-- instead of
+having to study industry
+
+00:24:41.060 --> 00:24:46.130 align:middle line:84%
+by industry, what determines
+profit levels in general?
+
+00:24:46.130 --> 00:24:49.010 align:middle line:84%
+Anyway, so regressions
+here, there's
+
+00:24:49.010 --> 00:24:51.950 align:middle line:84%
+a data set the Census
+of Manufacturers--
+
+00:24:51.950 --> 00:24:54.745 align:middle line:84%
+Census of Manufacturers, it's
+a census of manufacturing firms
+
+00:24:54.745 --> 00:24:55.620 align:middle line:90%
+in the United States.
+
+00:24:55.620 --> 00:24:58.895 align:middle line:84%
+So it has data on every
+individual firm in the United
+
+00:24:58.895 --> 00:25:00.770 align:middle line:84%
+States, and they send
+them a big, long survey
+
+00:25:00.770 --> 00:25:03.050 align:middle line:90%
+with hundreds of questions.
+
+00:25:03.050 --> 00:25:04.910 align:middle line:84%
+If you ever want to
+write papers using
+
+00:25:04.910 --> 00:25:06.410 align:middle line:84%
+the Census of
+Manufacturers, you can
+
+00:25:06.410 --> 00:25:08.840 align:middle line:84%
+access the Census of
+Manufacturers individual data
+
+00:25:08.840 --> 00:25:13.100 align:middle line:84%
+from the NBER, from a small,
+windowless, unpleasant room
+
+00:25:13.100 --> 00:25:13.920 align:middle line:90%
+at the NBER.
+
+00:25:13.920 --> 00:25:16.370 align:middle line:84%
+But there is a
+windowless room where
+
+00:25:16.370 --> 00:25:19.010 align:middle line:84%
+you can access the firm-level
+data on every manufacturing
+
+00:25:19.010 --> 00:25:20.870 align:middle line:90%
+firm in the US.
+
+00:25:20.870 --> 00:25:24.590 align:middle line:84%
+People in that era didn't really
+access the census microdata.
+
+00:25:24.590 --> 00:25:27.590 align:middle line:84%
+They just got the published
+census data of means of these
+
+00:25:27.590 --> 00:25:31.250 align:middle line:84%
+variables for each of the
+153-digit manufacturing
+
+00:25:31.250 --> 00:25:34.513 align:middle line:84%
+industries or 454-digit
+manufacturing industries.
+
+00:25:34.513 --> 00:25:36.180 align:middle line:84%
+They'd run these
+regressions, and they'd
+
+00:25:36.180 --> 00:25:38.610 align:middle line:90%
+talk about what determined--
+
+00:25:38.610 --> 00:25:41.370 align:middle line:84%
+how many firms did you need
+for a markup to be competitive,
+
+00:25:41.370 --> 00:25:43.740 align:middle line:84%
+or how did competitiveness
+vary with the number of firms
+
+00:25:43.740 --> 00:25:44.407 align:middle line:90%
+in the industry?
+
+00:25:44.407 --> 00:25:49.400 align:middle line:90%
+
+
+00:25:49.400 --> 00:25:53.090 align:middle line:84%
+This was popular in the '60s
+and '70s, and then it started
+
+00:25:53.090 --> 00:25:54.080 align:middle line:90%
+to become--
+
+00:25:54.080 --> 00:25:57.110 align:middle line:84%
+a number of critiques
+of this approach
+
+00:25:57.110 --> 00:25:59.510 align:middle line:90%
+became very well accepted.
+
+00:25:59.510 --> 00:26:03.920 align:middle line:84%
+One critique was that
+just all these studies
+
+00:26:03.920 --> 00:26:07.203 align:middle line:84%
+are leaving out very important
+features of the industry.
+
+00:26:07.203 --> 00:26:09.620 align:middle line:84%
+So for instance, if I'm going
+to study the steel industry,
+
+00:26:09.620 --> 00:26:12.620 align:middle line:84%
+I can't talk about prices
+in the steel industry
+
+00:26:12.620 --> 00:26:15.980 align:middle line:84%
+or profits in the steel industry
+without having price of iron ore
+
+00:26:15.980 --> 00:26:17.280 align:middle line:90%
+on the right side.
+
+00:26:17.280 --> 00:26:19.280 align:middle line:84%
+I can't think about prices
+in the steel industry
+
+00:26:19.280 --> 00:26:21.420 align:middle line:84%
+without price of coke and
+coal on the right side.
+
+00:26:21.420 --> 00:26:22.837 align:middle line:84%
+I can't think about
+steel industry
+
+00:26:22.837 --> 00:26:25.850 align:middle line:84%
+without strength of union
+labor in the Midwestern United
+
+00:26:25.850 --> 00:26:27.210 align:middle line:90%
+States on the right side.
+
+00:26:27.210 --> 00:26:29.258 align:middle line:84%
+So for every industry
+I had, I would
+
+00:26:29.258 --> 00:26:30.800 align:middle line:84%
+think of three or
+four or five things
+
+00:26:30.800 --> 00:26:32.342 align:middle line:84%
+that just had to be
+on the right side
+
+00:26:32.342 --> 00:26:33.740 align:middle line:90%
+to talk about that industry.
+
+00:26:33.740 --> 00:26:35.748 align:middle line:84%
+But if you've got
+150 industries,
+
+00:26:35.748 --> 00:26:37.790 align:middle line:84%
+and each industry brings
+in three or four or five
+
+00:26:37.790 --> 00:26:39.792 align:middle line:84%
+unique things to put
+on the right side,
+
+00:26:39.792 --> 00:26:41.750 align:middle line:84%
+and then you put them
+all in on the right side,
+
+00:26:41.750 --> 00:26:43.850 align:middle line:84%
+you end up with a
+regression with 750 things
+
+00:26:43.850 --> 00:26:46.660 align:middle line:84%
+on the right side
+and 150 observations.
+
+00:26:46.660 --> 00:26:49.722 align:middle line:84%
+And obviously, now
+machine learning,
+
+00:26:49.722 --> 00:26:51.430 align:middle line:84%
+people will tell you
+that's totally fine.
+
+00:26:51.430 --> 00:26:55.050 align:middle line:84%
+750 explanatory variables, 150
+observations, it all works fine.
+
+00:26:55.050 --> 00:26:57.850 align:middle line:84%
+But at least in the
+1980s, that did not work.
+
+00:26:57.850 --> 00:27:00.990 align:middle line:84%
+You couldn't run
+regressions like that.
+
+00:27:00.990 --> 00:27:03.510 align:middle line:84%
+The other problem that
+came to be accepted
+
+00:27:03.510 --> 00:27:09.480 align:middle line:84%
+is that the census data, like
+when you're studying markups,
+
+00:27:09.480 --> 00:27:11.760 align:middle line:84%
+markup in industry
+i was really price
+
+00:27:11.760 --> 00:27:18.150 align:middle line:84%
+in industry i minus the cost
+of production in industry i.
+
+00:27:18.150 --> 00:27:22.830 align:middle line:84%
+Or maybe it was price
+minus cost over price.
+
+00:27:22.830 --> 00:27:26.370 align:middle line:84%
+But you would need to
+use this data on what's
+
+00:27:26.370 --> 00:27:28.200 align:middle line:90%
+the cost of production.
+
+00:27:28.200 --> 00:27:30.360 align:middle line:84%
+And the cost of
+production that you
+
+00:27:30.360 --> 00:27:34.980 align:middle line:84%
+get when managers put in for the
+cost what their accountant told
+
+00:27:34.980 --> 00:27:37.020 align:middle line:84%
+them the cost is, is
+very different from what
+
+00:27:37.020 --> 00:27:40.320 align:middle line:84%
+you would get if an economist
+asked what the cost is.
+
+00:27:40.320 --> 00:27:43.980 align:middle line:84%
+For an economist, you really
+want the marginal cost, not
+
+00:27:43.980 --> 00:27:45.540 align:middle line:90%
+the average cost.
+
+00:27:45.540 --> 00:27:47.520 align:middle line:84%
+But then even though
+when you think about--
+
+00:27:47.520 --> 00:27:50.910 align:middle line:84%
+even getting the marginal
+versus average, accounting costs
+
+00:27:50.910 --> 00:27:53.190 align:middle line:84%
+of all these
+conventions in of how
+
+00:27:53.190 --> 00:27:54.930 align:middle line:84%
+do you treat the
+cost of capital,
+
+00:27:54.930 --> 00:27:56.790 align:middle line:84%
+and do you amortize
+it over time,
+
+00:27:56.790 --> 00:27:59.640 align:middle line:84%
+and you put in a
+depreciation adjustment.
+
+00:27:59.640 --> 00:28:01.890 align:middle line:84%
+And what do you do when the
+firm spends a lot of money
+
+00:28:01.890 --> 00:28:02.860 align:middle line:90%
+on advertising?
+
+00:28:02.860 --> 00:28:04.500 align:middle line:84%
+Is that a one-period
+cost, or is that
+
+00:28:04.500 --> 00:28:07.890 align:middle line:84%
+a flow cost that depreciates
+over the number of times
+
+00:28:07.890 --> 00:28:10.060 align:middle line:90%
+that the goodwill stock decays?
+
+00:28:10.060 --> 00:28:12.390 align:middle line:90%
+And so the costs--
+
+00:28:12.390 --> 00:28:14.045 align:middle line:84%
+a lot of the
+elements of the cost,
+
+00:28:14.045 --> 00:28:16.170 align:middle line:84%
+how do you put the firm
+overhead and all the people
+
+00:28:16.170 --> 00:28:19.080 align:middle line:84%
+who work in the management
+office or whatever?
+
+00:28:19.080 --> 00:28:21.600 align:middle line:84%
+The costs have a
+lot of assumptions
+
+00:28:21.600 --> 00:28:23.520 align:middle line:90%
+that go into defining them.
+
+00:28:23.520 --> 00:28:27.510 align:middle line:84%
+And so the difference
+between the accounting cost
+
+00:28:27.510 --> 00:28:30.210 align:middle line:90%
+and the true cost is large.
+
+00:28:30.210 --> 00:28:33.570 align:middle line:84%
+And it's probably systematically
+related to things like
+
+00:28:33.570 --> 00:28:36.030 align:middle line:84%
+whether the firm is doing a
+lot of advertising or not,
+
+00:28:36.030 --> 00:28:39.060 align:middle line:84%
+whether it's doing a
+lot of R&D, how old
+
+00:28:39.060 --> 00:28:41.220 align:middle line:84%
+the product is,
+whether it's produced
+
+00:28:41.220 --> 00:28:42.820 align:middle line:84%
+in big factories or
+little factories.
+
+00:28:42.820 --> 00:28:45.180 align:middle line:84%
+So all the stuff that you're
+putting on the right side
+
+00:28:45.180 --> 00:28:48.040 align:middle line:84%
+is correlated with the
+measurement error that you want.
+
+00:28:48.040 --> 00:28:50.340 align:middle line:84%
+And so then are we really
+just finding correlations
+
+00:28:50.340 --> 00:28:52.590 align:middle line:84%
+with measurement error, or
+are we finding correlations
+
+00:28:52.590 --> 00:28:55.380 align:middle line:90%
+with actual firm conduct?
+
+00:28:55.380 --> 00:28:59.670 align:middle line:90%
+And so that was a big issue.
+
+00:28:59.670 --> 00:29:01.840 align:middle line:90%
+Endogeneity is also a big issue.
+
+00:29:01.840 --> 00:29:05.230 align:middle line:84%
+You're putting the number
+of firms on the right side.
+
+00:29:05.230 --> 00:29:07.690 align:middle line:84%
+Something you get taught over
+and over again in classes
+
+00:29:07.690 --> 00:29:10.570 align:middle line:84%
+like this is, well, if
+you have a business that's
+
+00:29:10.570 --> 00:29:13.000 align:middle line:84%
+highly profitable, then more
+firms are going to enter,
+
+00:29:13.000 --> 00:29:15.010 align:middle line:84%
+and that's going to
+change the profits.
+
+00:29:15.010 --> 00:29:18.415 align:middle line:84%
+So this four-firm
+concentration ratio
+
+00:29:18.415 --> 00:29:20.290 align:middle line:84%
+is also going to be
+endogenous, or the number
+
+00:29:20.290 --> 00:29:22.810 align:middle line:84%
+of firms on the right side
+is going to be endogenous.
+
+00:29:22.810 --> 00:29:24.970 align:middle line:84%
+There really wasn't
+much in the way of IV
+
+00:29:24.970 --> 00:29:28.900 align:middle line:84%
+estimation in the structure
+conduct performance literature.
+
+00:29:28.900 --> 00:29:34.540 align:middle line:84%
+And then there was also
+interest in IO theory.
+
+00:29:34.540 --> 00:29:39.710 align:middle line:84%
+This led to what was
+called the NEIO revolution.
+
+00:29:39.710 --> 00:29:42.800 align:middle line:84%
+So NEIO stands for New Empirical
+Industrial Organization.
+
+00:29:42.800 --> 00:29:44.950 align:middle line:84%
+I guess lots of fields
+run into this problem.
+
+00:29:44.950 --> 00:29:48.077 align:middle line:84%
+You have the sort
+of new something,
+
+00:29:48.077 --> 00:29:49.910 align:middle line:84%
+and then there's something
+comes after that.
+
+00:29:49.910 --> 00:29:51.110 align:middle line:84%
+Like you have the
+new trade theory,
+
+00:29:51.110 --> 00:29:52.943 align:middle line:84%
+and then you have to
+have the new, new trade
+
+00:29:52.943 --> 00:29:54.260 align:middle line:90%
+theory or whatever, because--
+
+00:29:54.260 --> 00:29:57.920 align:middle line:84%
+anyway, so in the 19 early '80s,
+people started to call this
+
+00:29:57.920 --> 00:30:00.000 align:middle line:84%
+the new empirical
+industrial organization.
+
+00:30:00.000 --> 00:30:01.040 align:middle line:90%
+It's no longer very new.
+
+00:30:01.040 --> 00:30:04.550 align:middle line:90%
+But what happened in NEIO--
+
+00:30:04.550 --> 00:30:07.400 align:middle line:84%
+so one is, it went
+back to the '60s.
+
+00:30:07.400 --> 00:30:10.760 align:middle line:84%
+It went back to people writing
+papers about single industries.
+
+00:30:10.760 --> 00:30:13.460 align:middle line:84%
+Everyone thinks that there
+are a lot of specific things
+
+00:30:13.460 --> 00:30:14.940 align:middle line:84%
+about every industry
+that matters,
+
+00:30:14.940 --> 00:30:17.000 align:middle line:84%
+so we need to study it
+one industry at a time
+
+00:30:17.000 --> 00:30:18.740 align:middle line:84%
+and control for all
+those factors that
+
+00:30:18.740 --> 00:30:21.620 align:middle line:90%
+should be on the right side.
+
+00:30:21.620 --> 00:30:25.080 align:middle line:84%
+There was an emphasis on
+using what was well measured.
+
+00:30:25.080 --> 00:30:26.570 align:middle line:90%
+So it's sort of funny.
+
+00:30:26.570 --> 00:30:29.477 align:middle line:84%
+In macro, they think
+cost is well measured,
+
+00:30:29.477 --> 00:30:31.310 align:middle line:84%
+and price is hard to
+measure, so they always
+
+00:30:31.310 --> 00:30:32.660 align:middle line:90%
+want to use cost data.
+
+00:30:32.660 --> 00:30:35.480 align:middle line:84%
+In IO, people think that
+price is well measured,
+
+00:30:35.480 --> 00:30:38.900 align:middle line:84%
+cost is hard to measure, so
+we always use price data.
+
+00:30:38.900 --> 00:30:43.100 align:middle line:84%
+So there's this emphasis on
+using quantities, prices,
+
+00:30:43.100 --> 00:30:45.920 align:middle line:84%
+number of firms, market
+shares, those things
+
+00:30:45.920 --> 00:30:49.200 align:middle line:84%
+as the explanatory variables--
+as the variables you use
+
+00:30:49.200 --> 00:30:52.950 align:middle line:84%
+rather than
+accounting variables.
+
+00:30:52.950 --> 00:30:55.410 align:middle line:84%
+Great deal of attention
+paid now to identification
+
+00:30:55.410 --> 00:30:56.760 align:middle line:90%
+and endogeneity.
+
+00:30:56.760 --> 00:31:01.570 align:middle line:84%
+And theory also came to take
+on a big role in empirical IO.
+
+00:31:01.570 --> 00:31:04.300 align:middle line:84%
+And it's often that the--
+two different reasons.
+
+00:31:04.300 --> 00:31:08.820 align:middle line:84%
+One is that the empirical work
+is often designed to improve
+
+00:31:08.820 --> 00:31:11.190 align:middle line:84%
+our understanding of
+some theoretical model,
+
+00:31:11.190 --> 00:31:13.720 align:middle line:84%
+which were being recently
+developed in the '80s.
+
+00:31:13.720 --> 00:31:16.568 align:middle line:84%
+And then the second is
+because even if you're not
+
+00:31:16.568 --> 00:31:18.360 align:middle line:84%
+trying to comment on
+the theory, the theory
+
+00:31:18.360 --> 00:31:21.722 align:middle line:84%
+is going to give you
+thoughts about what
+
+00:31:21.722 --> 00:31:23.430 align:middle line:84%
+the functional form
+should be or what you
+
+00:31:23.430 --> 00:31:25.050 align:middle line:90%
+should be regressing on what.
+
+00:31:25.050 --> 00:31:27.180 align:middle line:84%
+And the papers
+are often designed
+
+00:31:27.180 --> 00:31:29.218 align:middle line:84%
+to test some particular--
+or enlightened
+
+00:31:29.218 --> 00:31:31.260 align:middle line:84%
+by some particular theory
+when they're setting up
+
+00:31:31.260 --> 00:31:32.630 align:middle line:90%
+what analyses they're doing.
+
+00:31:32.630 --> 00:31:36.060 align:middle line:90%
+
+
+00:31:36.060 --> 00:31:37.920 align:middle line:84%
+More recently-- so
+at the beginning
+
+00:31:37.920 --> 00:31:40.890 align:middle line:84%
+of the NEIO revolution,
+people would sometimes
+
+00:31:40.890 --> 00:31:42.133 align:middle line:90%
+describe work as structural.
+
+00:31:42.133 --> 00:31:43.800 align:middle line:84%
+And they would use
+the word "structural"
+
+00:31:43.800 --> 00:31:47.160 align:middle line:84%
+in a way that's different from
+what structural means today.
+
+00:31:47.160 --> 00:31:50.910 align:middle line:84%
+So in the '80s, structural
+really meant instead
+
+00:31:50.910 --> 00:31:54.540 align:middle line:84%
+of estimating equilibrium
+objects like understanding price
+
+00:31:54.540 --> 00:31:57.600 align:middle line:84%
+as a function of things,
+you're understanding supply
+
+00:31:57.600 --> 00:32:00.090 align:middle line:84%
+as a function of things and
+demand as a function of things.
+
+00:32:00.090 --> 00:32:01.950 align:middle line:84%
+And the underlying
+equations that
+
+00:32:01.950 --> 00:32:03.840 align:middle line:84%
+determine the
+equilibrium instead
+
+00:32:03.840 --> 00:32:06.030 align:middle line:90%
+of analyzing the equilibrium.
+
+00:32:06.030 --> 00:32:08.370 align:middle line:84%
+I think, over time,
+structural work
+
+00:32:08.370 --> 00:32:12.090 align:middle line:84%
+has increasingly come to be
+used to describe papers that
+
+00:32:12.090 --> 00:32:15.390 align:middle line:84%
+assume that some
+theoretical model is correct
+
+00:32:15.390 --> 00:32:18.300 align:middle line:84%
+and then focus on
+estimating the parameters
+
+00:32:18.300 --> 00:32:20.080 align:middle line:90%
+of that theoretical model.
+
+00:32:20.080 --> 00:32:22.680 align:middle line:84%
+And the word "structural" is
+also increasingly used to talk
+
+00:32:22.680 --> 00:32:26.110 align:middle line:84%
+about work that goes all the way
+to estimating the primitives.
+
+00:32:26.110 --> 00:32:28.740 align:middle line:84%
+In some ways, every
+industry, the outcomes
+
+00:32:28.740 --> 00:32:33.720 align:middle line:84%
+depend on the production
+functions of the firms,
+
+00:32:33.720 --> 00:32:36.360 align:middle line:84%
+the utilities of the
+consumers, and then something
+
+00:32:36.360 --> 00:32:39.312 align:middle line:84%
+about the strategies that
+are available to the firms.
+
+00:32:39.312 --> 00:32:40.770 align:middle line:84%
+And so structural
+work increasingly
+
+00:32:40.770 --> 00:32:43.920 align:middle line:84%
+is trying to go back
+to those primitives.
+
+00:32:43.920 --> 00:32:45.955 align:middle line:84%
+Instead of just estimating
+supply and demand,
+
+00:32:45.955 --> 00:32:47.580 align:middle line:84%
+you're trying to
+estimate distributions
+
+00:32:47.580 --> 00:32:50.250 align:middle line:90%
+of consumer utility functions.
+
+00:32:50.250 --> 00:32:54.710 align:middle line:84%
+Something that's very popular
+in IO papers is that you--
+
+00:32:54.710 --> 00:32:57.420 align:middle line:84%
+a reason for getting all
+the way to the primitives
+
+00:32:57.420 --> 00:33:00.510 align:middle line:84%
+is then you have these
+counterfactual simulations where
+
+00:33:00.510 --> 00:33:03.790 align:middle line:84%
+you say, I observe this
+industry in this state.
+
+00:33:03.790 --> 00:33:06.190 align:middle line:84%
+What would happen if there
+was entry in that industry?
+
+00:33:06.190 --> 00:33:08.530 align:middle line:84%
+What would happen if we
+broke up these firms?
+
+00:33:08.530 --> 00:33:11.760 align:middle line:84%
+What would happen if we put
+in a price cap regulation?
+
+00:33:11.760 --> 00:33:13.710 align:middle line:84%
+Once you know these
+primitives, you
+
+00:33:13.710 --> 00:33:16.560 align:middle line:84%
+can then talk about here are
+all these alternate policies we
+
+00:33:16.560 --> 00:33:19.840 align:middle line:84%
+might implement, and
+then what would that do.
+
+00:33:19.840 --> 00:33:21.480 align:middle line:84%
+And in some sense,
+this is what's
+
+00:33:21.480 --> 00:33:25.110 align:middle line:84%
+really become very popular
+in many fields like education
+
+00:33:25.110 --> 00:33:28.340 align:middle line:84%
+and development, where you
+estimate a fundamental model,
+
+00:33:28.340 --> 00:33:30.930 align:middle line:84%
+and then you talk about I
+did a trial of this one,
+
+00:33:30.930 --> 00:33:33.130 align:middle line:84%
+I did a randomized
+trial of this policy.
+
+00:33:33.130 --> 00:33:34.740 align:middle line:84%
+I can also do an
+empirical estimate
+
+00:33:34.740 --> 00:33:37.530 align:middle line:84%
+of what other policies
+would have done because I've
+
+00:33:37.530 --> 00:33:40.656 align:middle line:90%
+uncovered the primitives.
+
+00:33:40.656 --> 00:33:43.170 align:middle line:84%
+And I would say what's also
+happening at the same time--
+
+00:33:43.170 --> 00:33:46.110 align:middle line:84%
+while there's a lot of good
+structural work, over time,
+
+00:33:46.110 --> 00:33:49.260 align:middle line:84%
+structural-empirical IO has
+become less and less connected
+
+00:33:49.260 --> 00:33:50.020 align:middle line:90%
+to theory.
+
+00:33:50.020 --> 00:33:52.440 align:middle line:84%
+And in some sense,
+structural-empirical IO models
+
+00:33:52.440 --> 00:33:55.080 align:middle line:84%
+these days tend
+to use structures
+
+00:33:55.080 --> 00:33:57.090 align:middle line:84%
+that previous
+structural-empirical papers have
+
+00:33:57.090 --> 00:34:00.570 align:middle line:84%
+used rather than the structures
+of the theoretical models
+
+00:34:00.570 --> 00:34:03.310 align:middle line:84%
+that theorists would use to
+describe the same situation.
+
+00:34:03.310 --> 00:34:06.780 align:middle line:84%
+And part of that is because
+repeated games really
+
+00:34:06.780 --> 00:34:08.813 align:middle line:84%
+don't work very well
+for empirical work.
+
+00:34:08.813 --> 00:34:10.980 align:middle line:84%
+Incomplete information
+doesn't really work very well
+
+00:34:10.980 --> 00:34:11.860 align:middle line:90%
+for empirical work.
+
+00:34:11.860 --> 00:34:14.159 align:middle line:84%
+And so empirical work tends
+to have these models that
+
+00:34:14.159 --> 00:34:18.060 align:middle line:84%
+have this very limited
+sense of dynamic competition
+
+00:34:18.060 --> 00:34:20.370 align:middle line:84%
+and of incomplete
+information and other factors
+
+00:34:20.370 --> 00:34:25.440 align:middle line:84%
+because it's not what you can
+estimate well structurally--
+
+00:34:25.440 --> 00:34:27.190 align:middle line:84%
+although, obviously,
+there's a lot of work
+
+00:34:27.190 --> 00:34:29.230 align:middle line:90%
+trying to do that better.
+
+00:34:29.230 --> 00:34:33.940 align:middle line:84%
+So as far as how do you come up
+with a topic for an empirical IO
+
+00:34:33.940 --> 00:34:37.965 align:middle line:84%
+paper, people do multiple
+different things.
+
+00:34:37.965 --> 00:34:39.340 align:middle line:84%
+One thing that
+you can always do,
+
+00:34:39.340 --> 00:34:41.170 align:middle line:84%
+just like in any
+other applied field,
+
+00:34:41.170 --> 00:34:44.050 align:middle line:84%
+is just come up with some
+applied or policy question
+
+00:34:44.050 --> 00:34:49.239 align:middle line:84%
+and say, what can I
+teach people about that.
+
+00:34:49.239 --> 00:34:51.880 align:middle line:84%
+A second thing one can do
+is improve understanding
+
+00:34:51.880 --> 00:34:53.270 align:middle line:90%
+of some theoretical model.
+
+00:34:53.270 --> 00:34:58.010 align:middle line:84%
+There's recent work on this
+monopoly information design.
+
+00:34:58.010 --> 00:35:00.470 align:middle line:84%
+Can I do some empirical
+work to understand,
+
+00:35:00.470 --> 00:35:02.560 align:middle line:84%
+does information design
+work in practice,
+
+00:35:02.560 --> 00:35:05.050 align:middle line:84%
+or how well does it work
+or does it not work?
+
+00:35:05.050 --> 00:35:06.910 align:middle line:84%
+The other third thing
+you can do is also do
+
+00:35:06.910 --> 00:35:09.140 align:middle line:84%
+an improvement on existing
+empirical technique.
+
+00:35:09.140 --> 00:35:11.140 align:middle line:84%
+If there are many
+previous papers trying
+
+00:35:11.140 --> 00:35:14.540 align:middle line:84%
+to estimate empirical
+models of auctions,
+
+00:35:14.540 --> 00:35:16.810 align:middle line:84%
+I have some better
+way to estimate
+
+00:35:16.810 --> 00:35:18.102 align:middle line:90%
+empirical model of an auction.
+
+00:35:18.102 --> 00:35:19.810 align:middle line:84%
+And you try to find
+a data set to improve
+
+00:35:19.810 --> 00:35:21.186 align:middle line:90%
+on that empirical technique.
+
+00:35:21.186 --> 00:35:24.340 align:middle line:90%
+
+
+00:35:24.340 --> 00:35:26.298 align:middle line:90%
+How do you find your topic?
+
+00:35:26.298 --> 00:35:28.090 align:middle line:84%
+Obviously, if you have
+an applied question,
+
+00:35:28.090 --> 00:35:30.940 align:middle line:84%
+you look for the
+data to find it.
+
+00:35:30.940 --> 00:35:34.090 align:middle line:84%
+If you're trying to do something
+improving understanding
+
+00:35:34.090 --> 00:35:36.490 align:middle line:84%
+of a theoretical
+model, this is where
+
+00:35:36.490 --> 00:35:38.480 align:middle line:84%
+we get papers on
+ketchup and cardboard.
+
+00:35:38.480 --> 00:35:41.680 align:middle line:84%
+It's like, it's very
+complicated to estimate anything
+
+00:35:41.680 --> 00:35:44.635 align:middle line:84%
+in the mobile phone environment
+or the computer environment
+
+00:35:44.635 --> 00:35:46.510 align:middle line:84%
+because there's so many
+different firms doing
+
+00:35:46.510 --> 00:35:48.532 align:middle line:90%
+so many different things.
+
+00:35:48.532 --> 00:35:50.740 align:middle line:84%
+If you're trying to study
+some topic and you're like,
+
+00:35:50.740 --> 00:35:53.330 align:middle line:84%
+I could study this in the
+cardboard box industry,
+
+00:35:53.330 --> 00:35:56.080 align:middle line:84%
+the cardboard box industry is
+an incredibly simple industry.
+
+00:35:56.080 --> 00:36:01.210 align:middle line:84%
+Basically, you take paper
+or you take leftover waste
+
+00:36:01.210 --> 00:36:07.060 align:middle line:84%
+from wood mills, you mush
+it together, you add water,
+
+00:36:07.060 --> 00:36:09.400 align:middle line:90%
+you dry it.
+
+00:36:09.400 --> 00:36:11.750 align:middle line:84%
+There's just, like,
+three ingredients.
+
+00:36:11.750 --> 00:36:13.360 align:middle line:90%
+There's nothing much there.
+
+00:36:13.360 --> 00:36:14.748 align:middle line:90%
+You have shipping costs.
+
+00:36:14.748 --> 00:36:17.290 align:middle line:84%
+You can estimate what it costs
+to ship cardboard from point A
+
+00:36:17.290 --> 00:36:18.380 align:middle line:90%
+to point B.
+
+00:36:18.380 --> 00:36:20.800 align:middle line:84%
+If you find an industry
+that strips away
+
+00:36:20.800 --> 00:36:23.270 align:middle line:84%
+all the complicated
+stuff going on,
+
+00:36:23.270 --> 00:36:25.190 align:middle line:84%
+there aren't agreements
+with Google doing
+
+00:36:25.190 --> 00:36:26.430 align:middle line:90%
+this for some other reason.
+
+00:36:26.430 --> 00:36:27.870 align:middle line:90%
+It's just cardboard.
+
+00:36:27.870 --> 00:36:31.370 align:middle line:84%
+So sometimes you can
+pick a simple industry
+
+00:36:31.370 --> 00:36:34.130 align:middle line:84%
+in order to study a
+complicated model because you
+
+00:36:34.130 --> 00:36:36.890 align:middle line:84%
+want to isolate that
+theoretical factor that you're
+
+00:36:36.890 --> 00:36:38.720 align:middle line:90%
+interested in.
+
+00:36:38.720 --> 00:36:44.480 align:middle line:84%
+Third thing you can
+always do is find data.
+
+00:36:44.480 --> 00:36:46.230 align:middle line:90%
+Data is always in short supply.
+
+00:36:46.230 --> 00:36:48.570 align:middle line:84%
+IO papers tend to
+collect their own data.
+
+00:36:48.570 --> 00:36:50.930 align:middle line:84%
+So you have a friend
+who works at a startup
+
+00:36:50.930 --> 00:36:53.300 align:middle line:84%
+and is willing to give you
+individual-level consumer
+
+00:36:53.300 --> 00:36:55.690 align:middle line:90%
+data on something or other.
+
+00:36:55.690 --> 00:36:58.190 align:middle line:84%
+I tend to think, you look at
+all the topics in this course--
+
+00:36:58.190 --> 00:36:59.090 align:middle line:84%
+I'm going to talk
+about monopoly,
+
+00:36:59.090 --> 00:37:00.480 align:middle line:84%
+I'm going to talk about
+price discrimination,
+
+00:37:00.480 --> 00:37:01.340 align:middle line:84%
+I'm going to talk
+about entry, and I'm
+
+00:37:01.340 --> 00:37:02.715 align:middle line:84%
+going to talk
+about search costs.
+
+00:37:02.715 --> 00:37:05.600 align:middle line:84%
+And there must be some of
+those things that are involved
+
+00:37:05.600 --> 00:37:06.810 align:middle line:90%
+in your friend's business.
+
+00:37:06.810 --> 00:37:09.260 align:middle line:84%
+So if you can get the
+really, really rich microdata
+
+00:37:09.260 --> 00:37:12.547 align:middle line:84%
+that no one has, there must
+be some interesting comment
+
+00:37:12.547 --> 00:37:14.130 align:middle line:84%
+about that industry
+that you can make.
+
+00:37:14.130 --> 00:37:15.950 align:middle line:84%
+There must be something
+that that data
+
+00:37:15.950 --> 00:37:17.340 align:middle line:90%
+set is good for studying.
+
+00:37:17.340 --> 00:37:20.810 align:middle line:84%
+And so that's another way
+to think about paper topics.
+
+00:37:20.810 --> 00:37:25.520 align:middle line:84%
+So I would say that
+somehow, back to the 1970s,
+
+00:37:25.520 --> 00:37:29.000 align:middle line:84%
+there has also been this recent
+revival of interest in IO in big
+
+00:37:29.000 --> 00:37:33.200 align:middle line:84%
+questions, in part driven by
+macroeconomists asking big IO
+
+00:37:33.200 --> 00:37:36.080 align:middle line:84%
+questions because the IO
+people haven't been doing it.
+
+00:37:36.080 --> 00:37:38.480 align:middle line:84%
+And so there has been a big
+question in these questions
+
+00:37:38.480 --> 00:37:44.360 align:middle line:84%
+like, Has competition declined
+in the US economy as a whole?
+
+00:37:44.360 --> 00:37:46.220 align:middle line:84%
+And do we believe
+that there's been
+
+00:37:46.220 --> 00:37:48.830 align:middle line:84%
+this increase in
+mark-ups or drop
+
+00:37:48.830 --> 00:37:52.940 align:middle line:84%
+in concentration over
+the last decades?
+
+00:37:52.940 --> 00:37:56.000 align:middle line:84%
+So two papers are both--
+these are both going
+
+00:37:56.000 --> 00:37:57.860 align:middle line:90%
+to be classic NEIO papers.
+
+00:37:57.860 --> 00:38:00.440 align:middle line:84%
+So they're going to have
+industry-specific questions
+
+00:38:00.440 --> 00:38:01.260 align:middle line:90%
+of interest.
+
+00:38:01.260 --> 00:38:03.890 align:middle line:84%
+And they're also going to
+have theoretical models
+
+00:38:03.890 --> 00:38:08.840 align:middle line:84%
+that they're either trying to
+comment on or use as guidance.
+
+00:38:08.840 --> 00:38:11.840 align:middle line:84%
+The first one is, I
+would say, really--
+
+00:38:11.840 --> 00:38:15.080 align:middle line:84%
+it's an industry-specific
+question of interest.
+
+00:38:15.080 --> 00:38:18.080 align:middle line:84%
+It's also, more than
+that, a paper that's
+
+00:38:18.080 --> 00:38:20.240 align:middle line:84%
+about understanding
+theoretical models
+
+00:38:20.240 --> 00:38:21.900 align:middle line:84%
+and whether they
+really apply or not.
+
+00:38:21.900 --> 00:38:24.260 align:middle line:84%
+So the paper's, "Are
+durable goods consumers
+
+00:38:24.260 --> 00:38:27.320 align:middle line:84%
+forward-looking-- evidence
+from college textbooks."
+
+00:38:27.320 --> 00:38:29.390 align:middle line:84%
+To the extent there are
+policy questions here,
+
+00:38:29.390 --> 00:38:30.860 align:middle line:84%
+these should be
+familiar with you.
+
+00:38:30.860 --> 00:38:36.740 align:middle line:84%
+One policy question is, Why is
+it that textbooks cost $300?
+
+00:38:36.740 --> 00:38:39.210 align:middle line:84%
+We know that you can
+print a book for 20 bucks.
+
+00:38:39.210 --> 00:38:40.570 align:middle line:90%
+Why do they cost 300?
+
+00:38:40.570 --> 00:38:42.040 align:middle line:84%
+Is there something
+wrong with that?
+
+00:38:42.040 --> 00:38:43.470 align:middle line:84%
+And the other thing I don't
+know if you experienced
+
+00:38:43.470 --> 00:38:46.440 align:middle line:84%
+as an undergraduate is, Why is
+it that this book that was only
+
+00:38:46.440 --> 00:38:49.980 align:middle line:84%
+2-and-1/2 years old is now
+already having a new edition
+
+00:38:49.980 --> 00:38:53.100 align:middle line:84%
+come out, and I can't sell my
+old book back to the bookstore,
+
+00:38:53.100 --> 00:38:55.860 align:middle line:84%
+which I had bought for
+$300, and it's now worthless
+
+00:38:55.860 --> 00:38:59.370 align:middle line:84%
+because the 14th edition of
+somebody's book just came out
+
+00:38:59.370 --> 00:39:01.900 align:middle line:84%
+replacing the 13th
+edition three years later?
+
+00:39:01.900 --> 00:39:04.530 align:middle line:84%
+Is this some kind
+of scam or whatever
+
+00:39:04.530 --> 00:39:06.340 align:middle line:84%
+the firms are doing
+that there's something
+
+00:39:06.340 --> 00:39:08.010 align:middle line:84%
+about the durable goods
+sales where they bring out
+
+00:39:08.010 --> 00:39:10.140 align:middle line:84%
+these new books over
+and over and over again
+
+00:39:10.140 --> 00:39:11.910 align:middle line:84%
+to earn greater
+profits than they could
+
+00:39:11.910 --> 00:39:14.130 align:middle line:84%
+if they just brought out
+books at an efficient time
+
+00:39:14.130 --> 00:39:15.620 align:middle line:90%
+scale, whatever that means?
+
+00:39:15.620 --> 00:39:22.325 align:middle line:90%
+
+
+00:39:22.325 --> 00:39:24.520 align:middle line:84%
+So I think I said
+most of these things.
+
+00:39:24.520 --> 00:39:27.430 align:middle line:84%
+Yeah, so obviously, the
+theory-related question
+
+00:39:27.430 --> 00:39:32.460 align:middle line:84%
+is, Are these durable goods
+models relevant in practice?
+
+00:39:32.460 --> 00:39:35.530 align:middle line:84%
+In particular, are consumers
+forward-looking and
+
+00:39:35.530 --> 00:39:40.158 align:middle line:84%
+well-designed and solving
+dynamic optimization problems
+
+00:39:40.158 --> 00:39:41.950 align:middle line:84%
+when they're doing
+things, which always you
+
+00:39:41.950 --> 00:39:45.130 align:middle line:84%
+think about students are so
+bad at answering questions
+
+00:39:45.130 --> 00:39:47.690 align:middle line:84%
+on my exams about dynamic
+durable good pricing.
+
+00:39:47.690 --> 00:39:50.290 align:middle line:84%
+But somehow, we always
+assume that they always
+
+00:39:50.290 --> 00:39:52.480 align:middle line:84%
+know how to do that for
+themselves in real life
+
+00:39:52.480 --> 00:39:54.910 align:middle line:84%
+and think about the
+future discounted value
+
+00:39:54.910 --> 00:39:58.300 align:middle line:84%
+when they're making any
+purchases that they're making.
+
+00:39:58.300 --> 00:40:00.276 align:middle line:90%
+Is that a good assumption?
+
+00:40:00.276 --> 00:40:02.890 align:middle line:90%
+
+
+00:40:02.890 --> 00:40:04.780 align:middle line:84%
+The choice to study
+this, if you're
+
+00:40:04.780 --> 00:40:12.160 align:middle line:84%
+trying to study durable goods
+and forward-looking consumers,
+
+00:40:12.160 --> 00:40:14.740 align:middle line:84%
+this paper, you can see
+why they do what they do.
+
+00:40:14.740 --> 00:40:17.860 align:middle line:84%
+First is, in addition to
+studying durable goods,
+
+00:40:17.860 --> 00:40:20.570 align:middle line:84%
+they do get an industry-specific
+question of interest
+
+00:40:20.570 --> 00:40:21.280 align:middle line:90%
+at the same time.
+
+00:40:21.280 --> 00:40:25.060 align:middle line:84%
+It's good to do two things
+instead of one in a paper.
+
+00:40:25.060 --> 00:40:28.420 align:middle line:84%
+There are aspects of
+this textbook example
+
+00:40:28.420 --> 00:40:30.010 align:middle line:84%
+where the simplicity
+of the business
+
+00:40:30.010 --> 00:40:31.280 align:middle line:90%
+makes the modeling easier.
+
+00:40:31.280 --> 00:40:34.945 align:middle line:84%
+So, for instance, all consumers
+have to either buy the textbook
+
+00:40:34.945 --> 00:40:36.820 align:middle line:84%
+in the first week of
+the semester or the week
+
+00:40:36.820 --> 00:40:39.590 align:middle line:84%
+before the semester
+starts or not at all.
+
+00:40:39.590 --> 00:40:42.760 align:middle line:84%
+There's none of this "I can wait
+till 7 weeks into the semester
+
+00:40:42.760 --> 00:40:46.060 align:middle line:84%
+and buy the book or buy it a
+semester after I take the course
+
+00:40:46.060 --> 00:40:48.920 align:middle line:84%
+to take advantage of the price
+declines or things like that."
+
+00:40:48.920 --> 00:40:51.670 align:middle line:84%
+It just-- it's a
+static decision.
+
+00:40:51.670 --> 00:40:53.770 align:middle line:84%
+The other thing is that
+they only buy the textbook
+
+00:40:53.770 --> 00:40:54.850 align:middle line:90%
+that you're assigned.
+
+00:40:54.850 --> 00:40:57.580 align:middle line:84%
+If you're assigned by
+Pindyck and Rubinfeld's
+
+00:40:57.580 --> 00:41:00.250 align:middle line:84%
+intermediate micro textbook,
+you don't think about,
+
+00:41:00.250 --> 00:41:04.630 align:middle line:84%
+OK, instead of buying
+Pindyck and Rubinfeld,
+
+00:41:04.630 --> 00:41:06.910 align:middle line:84%
+I could buy Bernheim
+and Winston,
+
+00:41:06.910 --> 00:41:09.715 align:middle line:84%
+or I could buy
+whoever and Snyder.
+
+00:41:09.715 --> 00:41:12.900 align:middle line:90%
+
+
+00:41:12.900 --> 00:41:15.360 align:middle line:84%
+In some sense,
+students only make
+
+00:41:15.360 --> 00:41:17.920 align:middle line:84%
+the decision between two
+products or three products--
+
+00:41:17.920 --> 00:41:19.930 align:middle line:84%
+buy the new copy of
+Pindyck and Rubinfeld,
+
+00:41:19.930 --> 00:41:22.420 align:middle line:84%
+buy the used copy of Pindyck
+and Rubinfeld, buy nothing.
+
+00:41:22.420 --> 00:41:24.450 align:middle line:84%
+And so you get this much
+simpler demand system
+
+00:41:24.450 --> 00:41:26.400 align:middle line:84%
+than you would get
+if students were
+
+00:41:26.400 --> 00:41:32.030 align:middle line:84%
+choosing from this menu of 57
+different things they could buy.
+
+00:41:32.030 --> 00:41:34.160 align:middle line:84%
+We also can think about
+things we can ignore,
+
+00:41:34.160 --> 00:41:35.780 align:middle line:84%
+like in many used
+good markets, you'd
+
+00:41:35.780 --> 00:41:37.880 align:middle line:90%
+want to study a lemons problem.
+
+00:41:37.880 --> 00:41:39.830 align:middle line:84%
+What do consumers
+think about the quality
+
+00:41:39.830 --> 00:41:41.600 align:middle line:84%
+of the used car
+versus the new car,
+
+00:41:41.600 --> 00:41:43.642 align:middle line:84%
+and how is that impacting
+them, and how does that
+
+00:41:43.642 --> 00:41:44.610 align:middle line:90%
+change over time?
+
+00:41:44.610 --> 00:41:46.490 align:middle line:84%
+Used textbooks,
+especially if you buy them
+
+00:41:46.490 --> 00:41:48.073 align:middle line:84%
+in the college
+bookstore, you can just
+
+00:41:48.073 --> 00:41:51.440 align:middle line:84%
+open them up, look at them, see
+how much highlighting there is
+
+00:41:51.440 --> 00:41:53.370 align:middle line:90%
+in it, and then buy it or not.
+
+00:41:53.370 --> 00:41:56.060 align:middle line:84%
+There isn't this
+asymmetric information
+
+00:41:56.060 --> 00:41:57.535 align:middle line:90%
+we would want to model.
+
+00:41:57.535 --> 00:41:59.660 align:middle line:84%
+And then the other thing
+you're always trying to do
+
+00:41:59.660 --> 00:42:07.140 align:middle line:84%
+is get enough observations
+to estimate your model.
+
+00:42:07.140 --> 00:42:09.980 align:middle line:84%
+And here, what's really nice
+is that there's a very, very
+
+00:42:09.980 --> 00:42:11.790 align:middle line:90%
+large number of textbooks.
+
+00:42:11.790 --> 00:42:16.250 align:middle line:84%
+And so they have
+three subjects--
+
+00:42:16.250 --> 00:42:16.820 align:middle line:90%
+what is it?
+
+00:42:16.820 --> 00:42:19.770 align:middle line:84%
+It's economics,
+psychology, and biology.
+
+00:42:19.770 --> 00:42:22.232 align:middle line:84%
+They have 10 semesters in
+which they can study it,
+
+00:42:22.232 --> 00:42:24.440 align:middle line:84%
+and then they have hundreds
+and hundreds and hundreds
+
+00:42:24.440 --> 00:42:25.980 align:middle line:90%
+and hundreds of textbooks.
+
+00:42:25.980 --> 00:42:29.870 align:middle line:84%
+And so that combination of
+semesters times subjects times
+
+00:42:29.870 --> 00:42:33.490 align:middle line:84%
+the textbooks is going to give
+you many, many observations.
+
+00:42:33.490 --> 00:42:35.280 align:middle line:84%
+And you can-- there's
+always this thing
+
+00:42:35.280 --> 00:42:37.337 align:middle line:84%
+of if you study 100
+different products,
+
+00:42:37.337 --> 00:42:39.420 align:middle line:84%
+are those 100 different
+products really identical?
+
+00:42:39.420 --> 00:42:41.470 align:middle line:84%
+Can you use the same
+parameters for them?
+
+00:42:41.470 --> 00:42:43.920 align:middle line:84%
+You can think textbooks are
+similar enough to each other
+
+00:42:43.920 --> 00:42:46.860 align:middle line:84%
+that the elasticity of demand
+for Pindyck and Rubinfeld
+
+00:42:46.860 --> 00:42:49.320 align:middle line:84%
+and the elasticity of demand
+for Bernheim and Winston
+
+00:42:49.320 --> 00:42:50.903 align:middle line:84%
+are probably the
+same, and we can just
+
+00:42:50.903 --> 00:42:52.800 align:middle line:84%
+put one parameter in
+there instead of having
+
+00:42:52.800 --> 00:42:53.906 align:middle line:90%
+hundreds of parameters.
+
+00:42:53.906 --> 00:42:58.230 align:middle line:90%
+
+
+00:42:58.230 --> 00:43:01.512 align:middle line:84%
+Some background facts
+before you start modeling--
+
+00:43:01.512 --> 00:43:03.720 align:middle line:84%
+it's always good to think
+about things that are true.
+
+00:43:03.720 --> 00:43:06.000 align:middle line:84%
+Well, one is that
+new editions come out
+
+00:43:06.000 --> 00:43:08.850 align:middle line:90%
+every three to five years.
+
+00:43:08.850 --> 00:43:12.820 align:middle line:84%
+Second fact is that textbook
+prices seem to be fixed.
+
+00:43:12.820 --> 00:43:15.615 align:middle line:84%
+Why this is true is
+kind of a puzzle.
+
+00:43:15.615 --> 00:43:17.490 align:middle line:84%
+Maybe you have to have
+some reputation model,
+
+00:43:17.490 --> 00:43:19.800 align:middle line:84%
+but you might have
+thought, OK, here's
+
+00:43:19.800 --> 00:43:21.510 align:middle line:90%
+how I'm going to do this test.
+
+00:43:21.510 --> 00:43:24.463 align:middle line:84%
+The book is going to
+come out the first--
+
+00:43:24.463 --> 00:43:25.880 align:middle line:84%
+if I buy the book
+when it's new, I
+
+00:43:25.880 --> 00:43:28.620 align:middle line:84%
+know I could rent it to
+five future students.
+
+00:43:28.620 --> 00:43:30.225 align:middle line:84%
+If I buy the book
+one semester, well,
+
+00:43:30.225 --> 00:43:32.100 align:middle line:84%
+I'm going to rent it to
+four future students.
+
+00:43:32.100 --> 00:43:33.642 align:middle line:84%
+If I buy it, like,
+four semesters in,
+
+00:43:33.642 --> 00:43:35.550 align:middle line:84%
+I'm going to rent
+it once to somebody.
+
+00:43:35.550 --> 00:43:38.250 align:middle line:84%
+So there ought to be this real
+decline in the prices of a book.
+
+00:43:38.250 --> 00:43:40.520 align:middle line:84%
+And a book that's
+five semesters old
+
+00:43:40.520 --> 00:43:42.590 align:middle line:84%
+ought to be worth
+one-fifth of a book that's
+
+00:43:42.590 --> 00:43:45.800 align:middle line:84%
+brand new because you can't keep
+renting it over and over again.
+
+00:43:45.800 --> 00:43:47.720 align:middle line:90%
+Well, that just doesn't happen.
+
+00:43:47.720 --> 00:43:50.160 align:middle line:90%
+Textbook prices do not drop.
+
+00:43:50.160 --> 00:43:52.860 align:middle line:90%
+The book comes out, it's $350.
+
+00:43:52.860 --> 00:43:55.590 align:middle line:90%
+Five semesters later, it's $350.
+
+00:43:55.590 --> 00:43:58.340 align:middle line:84%
+So for whatever
+reason, we're not
+
+00:43:58.340 --> 00:44:01.310 align:middle line:84%
+going to think of
+optimal pricing.
+
+00:44:01.310 --> 00:44:04.520 align:middle line:84%
+Maybe it's a pricing puzzle,
+but textbook prices just
+
+00:44:04.520 --> 00:44:06.475 align:middle line:84%
+don't change in
+between editions.
+
+00:44:06.475 --> 00:44:11.440 align:middle line:90%
+
+
+00:44:11.440 --> 00:44:13.330 align:middle line:84%
+I don't know to what
+extent these are still
+
+00:44:13.330 --> 00:44:14.380 align:middle line:90%
+true in the internet era.
+
+00:44:14.380 --> 00:44:17.500 align:middle line:84%
+But at the time, the
+used-to-new ratio
+
+00:44:17.500 --> 00:44:22.990 align:middle line:90%
+was standardized at 50% to 75%.
+
+00:44:22.990 --> 00:44:24.190 align:middle line:90%
+Does the Coop even sell--
+
+00:44:24.190 --> 00:44:26.440 align:middle line:84%
+you can still go to the Coop
+and buy all the textbooks
+
+00:44:26.440 --> 00:44:27.107 align:middle line:90%
+for the courses?
+
+00:44:27.107 --> 00:44:28.060 align:middle line:90%
+Is that right?
+
+00:44:28.060 --> 00:44:30.765 align:middle line:90%
+So maybe no one does that, OK.
+
+00:44:30.765 --> 00:44:33.070 align:middle line:84%
+So anyway, if you wanted
+to buy your books,
+
+00:44:33.070 --> 00:44:34.390 align:middle line:90%
+you would go to the MIT Coop.
+
+00:44:34.390 --> 00:44:35.932 align:middle line:84%
+Down in the basement
+of the MIT Coop,
+
+00:44:35.932 --> 00:44:37.510 align:middle line:90%
+there'd be a bunch of textbooks.
+
+00:44:37.510 --> 00:44:40.550 align:middle line:84%
+MIT would have an agreement
+with the bookstore.
+
+00:44:40.550 --> 00:44:42.610 align:middle line:84%
+In this case, we used
+to own the bookstore,
+
+00:44:42.610 --> 00:44:44.810 align:middle line:84%
+but it's now Barnes
+and Noble who owns it.
+
+00:44:44.810 --> 00:44:46.930 align:middle line:84%
+But they would sell
+the used textbook
+
+00:44:46.930 --> 00:44:50.680 align:middle line:84%
+at, at most, 75% of the
+price of the new textbook.
+
+00:44:50.680 --> 00:44:52.210 align:middle line:84%
+And then you would
+also often have
+
+00:44:52.210 --> 00:44:53.710 align:middle line:84%
+an agreement with the
+company that was selling
+
+00:44:53.710 --> 00:44:54.710 align:middle line:90%
+books in your bookstore.
+
+00:44:54.710 --> 00:44:58.030 align:middle line:84%
+If you want to buy back
+used books at the MIT Coop,
+
+00:44:58.030 --> 00:45:01.810 align:middle line:84%
+you must pay 50% of the cover
+price when you buy it back.
+
+00:45:01.810 --> 00:45:05.082 align:middle line:84%
+And so there are
+these norms of people
+
+00:45:05.082 --> 00:45:06.790 align:middle line:84%
+would show up in the
+bookstore at the end
+
+00:45:06.790 --> 00:45:08.707 align:middle line:84%
+of the semester willing
+to buy back your books
+
+00:45:08.707 --> 00:45:10.460 align:middle line:90%
+at 50% of the cover price.
+
+00:45:10.460 --> 00:45:12.950 align:middle line:84%
+If you wanted to buy a used
+book instead of a new book,
+
+00:45:12.950 --> 00:45:17.790 align:middle line:84%
+it would be sold at
+75% of the cover price.
+
+00:45:17.790 --> 00:45:23.280 align:middle line:84%
+And from aggregate
+numbers, roughly 30%
+
+00:45:23.280 --> 00:45:26.510 align:middle line:84%
+of the students in a course at
+the time would buy a textbook.
+
+00:45:26.510 --> 00:45:29.310 align:middle line:84%
+About 20% would buy
+a used textbook.
+
+00:45:29.310 --> 00:45:31.380 align:middle line:84%
+And then the other
+50%, we hope, make
+
+00:45:31.380 --> 00:45:34.530 align:middle line:84%
+extensive use of the library
+or some other resource
+
+00:45:34.530 --> 00:45:36.725 align:middle line:84%
+because they don't seem
+to buy books at all.
+
+00:45:36.725 --> 00:45:40.910 align:middle line:90%
+
+
+00:45:40.910 --> 00:45:43.820 align:middle line:84%
+The hazard rate
+for revision seems
+
+00:45:43.820 --> 00:45:46.550 align:middle line:84%
+to peak in about the third
+year, that many books
+
+00:45:46.550 --> 00:45:49.110 align:middle line:84%
+have a new version that
+comes out every three years.
+
+00:45:49.110 --> 00:45:51.380 align:middle line:84%
+So if you're looking at
+John Gruber's public finance
+
+00:45:51.380 --> 00:45:54.750 align:middle line:84%
+textbook, if it's been two
+years since it's come out,
+
+00:45:54.750 --> 00:45:57.650 align:middle line:84%
+he's probably going to have
+a new edition next year.
+
+00:45:57.650 --> 00:45:59.930 align:middle line:84%
+Once you've gone
+a bit past three,
+
+00:45:59.930 --> 00:46:02.510 align:middle line:84%
+the probability that it gets
+revised goes down and down
+
+00:46:02.510 --> 00:46:06.380 align:middle line:84%
+and down, because it's probably
+the faculty member has just
+
+00:46:06.380 --> 00:46:09.560 align:middle line:84%
+gotten exhausted with the 11th
+edition or the 12th or the 13th
+
+00:46:09.560 --> 00:46:12.590 align:middle line:84%
+and has decided they're not
+making enough money off the new
+
+00:46:12.590 --> 00:46:14.093 align:middle line:90%
+editions to write the new ones.
+
+00:46:14.093 --> 00:46:16.260 align:middle line:84%
+They haven't got a new
+person to take over the book.
+
+00:46:16.260 --> 00:46:19.730 align:middle line:84%
+But if the thing hasn't come
+out and it's a few years late,
+
+00:46:19.730 --> 00:46:21.235 align:middle line:90%
+it's probably not coming out.
+
+00:46:21.235 --> 00:46:24.460 align:middle line:90%
+
+
+00:46:24.460 --> 00:46:27.760 align:middle line:84%
+So papers, empirical approach
+is a two-step strategy.
+
+00:46:27.760 --> 00:46:29.320 align:middle line:84%
+I'm going to estimate
+the probability
+
+00:46:29.320 --> 00:46:30.910 align:middle line:84%
+that the book is
+going to be revised
+
+00:46:30.910 --> 00:46:32.830 align:middle line:90%
+before the next semester.
+
+00:46:32.830 --> 00:46:34.930 align:middle line:84%
+And then I'm going
+to see whether--
+
+00:46:34.930 --> 00:46:37.720 align:middle line:84%
+because prices don't
+change, if you're a student
+
+00:46:37.720 --> 00:46:40.060 align:middle line:84%
+and you know a new book is
+coming out next semester,
+
+00:46:40.060 --> 00:46:41.938 align:middle line:84%
+you shouldn't buy,
+or you should be
+
+00:46:41.938 --> 00:46:43.480 align:middle line:84%
+willing to pay much
+less for the book
+
+00:46:43.480 --> 00:46:48.940 align:middle line:84%
+because you know that the
+cost is really $350, not $175,
+
+00:46:48.940 --> 00:46:52.510 align:middle line:84%
+so that, in some sense,
+the price is much, much
+
+00:46:52.510 --> 00:46:54.910 align:middle line:84%
+higher in the semester
+when a book is
+
+00:46:54.910 --> 00:46:58.420 align:middle line:84%
+about to be rendered obsolete
+than it is in other semesters.
+
+00:46:58.420 --> 00:47:01.450 align:middle line:84%
+And so what we ought to
+see is a drop in price,
+
+00:47:01.450 --> 00:47:04.030 align:middle line:84%
+a drop in demand
+in semesters when
+
+00:47:04.030 --> 00:47:05.655 align:middle line:84%
+books are going to
+be obsolete or when
+
+00:47:05.655 --> 00:47:07.030 align:middle line:84%
+people are going
+to think there's
+
+00:47:07.030 --> 00:47:10.840 align:middle line:84%
+a higher probability that
+they will become obsolete.
+
+00:47:10.840 --> 00:47:14.690 align:middle line:84%
+And if consumers are
+rational and forward-looking,
+
+00:47:14.690 --> 00:47:16.850 align:middle line:90%
+we can see--
+
+00:47:16.850 --> 00:47:19.400 align:middle line:84%
+we can figure out-- if we
+know the elasticity of demand
+
+00:47:19.400 --> 00:47:22.340 align:middle line:84%
+for books, we know how much
+drop demand would go down
+
+00:47:22.340 --> 00:47:23.872 align:middle line:90%
+with such a price increase.
+
+00:47:23.872 --> 00:47:25.580 align:middle line:84%
+We can almost estimate
+how many consumers
+
+00:47:25.580 --> 00:47:27.330 align:middle line:84%
+are rational and
+forward-looking by seeing
+
+00:47:27.330 --> 00:47:30.265 align:middle line:84%
+how much does demand drop when
+that new book is coming out.
+
+00:47:30.265 --> 00:47:33.330 align:middle line:90%
+
+
+00:47:33.330 --> 00:47:39.420 align:middle line:84%
+So step 1 is a very
+simple exercise.
+
+00:47:39.420 --> 00:47:45.000 align:middle line:90%
+This is just regress--
+
+00:47:45.000 --> 00:47:47.760 align:middle line:84%
+you just estimate a hazard
+model where you just
+
+00:47:47.760 --> 00:47:50.010 align:middle line:84%
+have the probability
+that the book is replaced
+
+00:47:50.010 --> 00:47:53.910 align:middle line:84%
+is a function of the age
+of the book in semesters,
+
+00:47:53.910 --> 00:47:57.570 align:middle line:84%
+whether it's the biology or
+psychology or economics book,
+
+00:47:57.570 --> 00:48:03.603 align:middle line:84%
+whether it's an introductory
+textbook like for economics I
+
+00:48:03.603 --> 00:48:05.520 align:middle line:84%
+or whether it's an
+intermediate micro textbook
+
+00:48:05.520 --> 00:48:08.430 align:middle line:90%
+or intermediate macro textbook.
+
+00:48:08.430 --> 00:48:12.510 align:middle line:84%
+And here's the graph they get
+for the introductory books.
+
+00:48:12.510 --> 00:48:15.300 align:middle line:84%
+So you can see in
+economics books,
+
+00:48:15.300 --> 00:48:17.110 align:middle line:90%
+your book is five semesters old.
+
+00:48:17.110 --> 00:48:19.500 align:middle line:84%
+There's, like, a 35% chance
+your book will be rendered
+
+00:48:19.500 --> 00:48:21.960 align:middle line:90%
+obsolete one semester from now.
+
+00:48:21.960 --> 00:48:25.122 align:middle line:84%
+If your book is
+six semesters old--
+
+00:48:25.122 --> 00:48:26.950 align:middle line:84%
+oh, actually, this
+is six semesters old.
+
+00:48:26.950 --> 00:48:30.365 align:middle line:84%
+So there's actually
+only an 8% chance
+
+00:48:30.365 --> 00:48:32.990 align:middle line:84%
+that your book is going to get
+rendered obsolete next semester.
+
+00:48:32.990 --> 00:48:34.150 align:middle line:90%
+Or is it here?
+
+00:48:34.150 --> 00:48:37.690 align:middle line:84%
+Anyway, seven semesters
+old, it's a 5% chance.
+
+00:48:37.690 --> 00:48:40.420 align:middle line:84%
+But there's this
+big peak centered
+
+00:48:40.420 --> 00:48:44.160 align:middle line:84%
+around buying five-semester-old
+books is a bad idea.
+
+00:48:44.160 --> 00:48:47.770 align:middle line:84%
+And the thing is less
+consistent in some
+
+00:48:47.770 --> 00:48:49.160 align:middle line:90%
+of the other disciplines.
+
+00:48:49.160 --> 00:48:52.150 align:middle line:84%
+Some of the biology books
+are being on a two-year cycle
+
+00:48:52.150 --> 00:48:53.860 align:middle line:90%
+instead of a three-year cycle.
+
+00:48:53.860 --> 00:48:57.040 align:middle line:84%
+Some of the psychology books
+are on a 2-and-1/2 year cycle,
+
+00:48:57.040 --> 00:48:57.900 align:middle line:90%
+something like that.
+
+00:48:57.900 --> 00:49:00.426 align:middle line:90%
+
+
+00:49:00.426 --> 00:49:03.630 align:middle line:90%
+And again, your book is--
+
+00:49:03.630 --> 00:49:06.210 align:middle line:84%
+your economics book is eight
+years old, or any of your books
+
+00:49:06.210 --> 00:49:08.310 align:middle line:84%
+are eight years since
+the edition has changed,
+
+00:49:08.310 --> 00:49:10.080 align:middle line:84%
+they're not going
+to have a new one.
+
+00:49:10.080 --> 00:49:11.660 align:middle line:84%
+So that book is
+very safe to buy.
+
+00:49:11.660 --> 00:49:17.860 align:middle line:90%
+
+
+00:49:17.860 --> 00:49:21.070 align:middle line:90%
+How do we do demand?
+
+00:49:21.070 --> 00:49:22.578 align:middle line:90%
+So can I ask--
+
+00:49:22.578 --> 00:49:24.620 align:middle line:84%
+well, actually, some of
+you haven't taken it yet.
+
+00:49:24.620 --> 00:49:27.610 align:middle line:84%
+So how much discrete choice
+estimation is there left
+
+00:49:27.610 --> 00:49:30.260 align:middle line:90%
+in [14.]381?
+
+00:49:30.260 --> 00:49:32.475 align:middle line:84%
+Or has it all gone to
+causal inference these days?
+
+00:49:32.475 --> 00:49:35.558 align:middle line:90%
+
+
+00:49:35.558 --> 00:49:36.850 align:middle line:90%
+A lot of discrete choice or no?
+
+00:49:36.850 --> 00:49:37.640 align:middle line:90%
+AUDIENCE: Causal inference.
+
+00:49:37.640 --> 00:49:39.000 align:middle line:84%
+GLENN ELLISON: It's
+all causal inference.
+
+00:49:39.000 --> 00:49:41.390 align:middle line:84%
+So is there any place where
+people are doing logit models
+
+00:49:41.390 --> 00:49:44.630 align:middle line:90%
+and whatever?
+
+00:49:44.630 --> 00:49:45.578 align:middle line:90%
+OK.
+
+00:49:45.578 --> 00:49:47.210 align:middle line:90%
+[LAUGHS]
+
+00:49:47.210 --> 00:49:51.530 align:middle line:84%
+OK, anyway, let me say, Tobias
+has a full week of lectures
+
+00:49:51.530 --> 00:49:53.547 align:middle line:84%
+planned on discrete
+choice estimation,
+
+00:49:53.547 --> 00:49:55.380 align:middle line:84%
+which obviously, a full
+week is not so much.
+
+00:49:55.380 --> 00:49:57.350 align:middle line:90%
+There's much more in [14.]273.
+
+00:49:57.350 --> 00:49:59.910 align:middle line:84%
+But anyway, so it's week
+four of this course,
+
+00:49:59.910 --> 00:50:03.950 align:middle line:84%
+Tobias is going to spend a week
+on discrete choice estimation.
+
+00:50:03.950 --> 00:50:06.770 align:middle line:84%
+For now, let me just say
+this is how everybody always
+
+00:50:06.770 --> 00:50:08.920 align:middle line:84%
+seems to do demand
+estimation in IO these days.
+
+00:50:08.920 --> 00:50:10.587 align:middle line:84%
+There are a lot of
+funny elements of it.
+
+00:50:10.587 --> 00:50:13.850 align:middle line:84%
+But so what we're doing here is
+we have this model of consumers,
+
+00:50:13.850 --> 00:50:15.482 align:middle line:84%
+and we specify a
+utility function
+
+00:50:15.482 --> 00:50:17.690 align:middle line:84%
+that they're going to get
+from buying three objects--
+
+00:50:17.690 --> 00:50:23.390 align:middle line:84%
+a new book, a used book,
+and no book at all.
+
+00:50:23.390 --> 00:50:26.570 align:middle line:84%
+And what utility do you
+get if you buy a new book?
+
+00:50:26.570 --> 00:50:29.330 align:middle line:84%
+First, there's a
+Xjt beta, which is
+
+00:50:29.330 --> 00:50:31.250 align:middle line:84%
+something on book
+characteristics
+
+00:50:31.250 --> 00:50:35.110 align:middle line:90%
+times some coefficients.
+
+00:50:35.110 --> 00:50:38.180 align:middle line:84%
+Then there's the disutility
+of paying for the book.
+
+00:50:38.180 --> 00:50:41.940 align:middle line:84%
+So alpha is your
+price sensitivity.
+
+00:50:41.940 --> 00:50:45.870 align:middle line:84%
+And then we multiply
+alpha by the net price
+
+00:50:45.870 --> 00:50:47.490 align:middle line:90%
+that you would pay.
+
+00:50:47.490 --> 00:50:50.940 align:middle line:84%
+The net price that you
+would pay is the full price
+
+00:50:50.940 --> 00:50:55.450 align:middle line:84%
+minus a discount that
+you apply to money that's
+
+00:50:55.450 --> 00:50:59.010 align:middle line:84%
+going to come to you
+in the future times
+
+00:50:59.010 --> 00:51:02.740 align:middle line:84%
+the money you expect to get
+back when you resell the book.
+
+00:51:02.740 --> 00:51:07.120 align:middle line:84%
+So this is if the book doesn't
+die, I can sell it back.
+
+00:51:07.120 --> 00:51:10.650 align:middle line:84%
+And when I sell it back,
+I get mu times Pjt,
+
+00:51:10.650 --> 00:51:12.930 align:middle line:90%
+where mu is maybe 50%.
+
+00:51:12.930 --> 00:51:15.630 align:middle line:84%
+And so this discount
+factor delta
+
+00:51:15.630 --> 00:51:19.140 align:middle line:84%
+is both I'm getting the money
+six months from now when I
+
+00:51:19.140 --> 00:51:21.370 align:middle line:84%
+sell it back instead
+of getting it today.
+
+00:51:21.370 --> 00:51:23.950 align:middle line:84%
+And it's also, am I
+thinking about it.
+
+00:51:23.950 --> 00:51:27.000 align:middle line:84%
+Like, you could imagine totally
+myopic consumers are not
+
+00:51:27.000 --> 00:51:29.790 align:middle line:84%
+thinking about selling
+it back, and they're just
+
+00:51:29.790 --> 00:51:31.740 align:middle line:90%
+treating delta as 0.
+
+00:51:31.740 --> 00:51:34.740 align:middle line:84%
+So they're just, Do I
+want to pay $350 today,
+
+00:51:34.740 --> 00:51:36.065 align:middle line:90%
+not thinking about the future?
+
+00:51:36.065 --> 00:51:40.374 align:middle line:90%
+
+
+00:51:40.374 --> 00:51:43.640 align:middle line:84%
+In order to explain the
+data, there are always--
+
+00:51:43.640 --> 00:51:45.690 align:middle line:84%
+for some reason,
+[INAUDIBLE] started
+
+00:51:45.690 --> 00:51:48.720 align:middle line:90%
+this use of the letter xi.
+
+00:51:48.720 --> 00:51:52.230 align:middle line:84%
+So this is the unobserved
+quality of the book.
+
+00:51:52.230 --> 00:51:56.040 align:middle line:84%
+What is it that makes Pindyck
+and Rubinfeld sell many more
+
+00:51:56.040 --> 00:51:59.370 align:middle line:84%
+copies than many other
+intermediate micro textbooks?
+
+00:51:59.370 --> 00:52:02.760 align:middle line:84%
+The characteristics in terms
+of how many pages long it is
+
+00:52:02.760 --> 00:52:05.010 align:middle line:84%
+and whether it's hardcover
+and whether it has a CD-ROM
+
+00:52:05.010 --> 00:52:06.460 align:middle line:90%
+shrink-wrapped to it--
+
+00:52:06.460 --> 00:52:08.400 align:middle line:90%
+those, it's not very different.
+
+00:52:08.400 --> 00:52:11.190 align:middle line:84%
+But it must have
+some unobserved--
+
+00:52:11.190 --> 00:52:14.280 align:middle line:84%
+or it may have some unobserved
+quality that makes it a higher
+
+00:52:14.280 --> 00:52:16.710 align:middle line:90%
+fraction of students buy it.
+
+00:52:16.710 --> 00:52:18.240 align:middle line:90%
+And then you have this--
+
+00:52:18.240 --> 00:52:20.430 align:middle line:84%
+consumers have this
+sort of a type.
+
+00:52:20.430 --> 00:52:22.680 align:middle line:84%
+In my previous lectures,
+consumers always
+
+00:52:22.680 --> 00:52:24.930 align:middle line:84%
+had this type theta
+that determined
+
+00:52:24.930 --> 00:52:26.700 align:middle line:90%
+like their taste for goods.
+
+00:52:26.700 --> 00:52:29.530 align:middle line:84%
+Here, consumers have a
+three-dimensional type.
+
+00:52:29.530 --> 00:52:33.630 align:middle line:84%
+They have a three-dimensional
+type epsilon
+
+00:52:33.630 --> 00:52:42.790 align:middle line:84%
+ijt new, epsilon ijt used,
+and epsilon ijt none.
+
+00:52:42.790 --> 00:52:44.380 align:middle line:84%
+So I have this
+three-dimensional type
+
+00:52:44.380 --> 00:52:47.050 align:middle line:84%
+describing how much I
+like buying new books,
+
+00:52:47.050 --> 00:52:48.910 align:middle line:84%
+how much I like
+buying used books,
+
+00:52:48.910 --> 00:52:51.010 align:middle line:84%
+and how much I like
+buying no books at all
+
+00:52:51.010 --> 00:52:52.930 align:middle line:90%
+for this particular book.
+
+00:52:52.930 --> 00:52:57.850 align:middle line:84%
+And we model this as being
+three independent extreme value
+
+00:52:57.850 --> 00:53:00.100 align:middle line:90%
+errors, typically.
+
+00:53:00.100 --> 00:53:02.750 align:middle line:84%
+So this would be my utility
+for buying a new book.
+
+00:53:02.750 --> 00:53:04.990 align:middle line:84%
+Again, if my utility
+for buying a used book
+
+00:53:04.990 --> 00:53:09.130 align:middle line:84%
+is going to be some function
+of the book characteristics
+
+00:53:09.130 --> 00:53:12.370 align:middle line:84%
+plus some unobserved
+quality of the used book
+
+00:53:12.370 --> 00:53:14.080 align:middle line:84%
+plus this
+idiosyncratic reaction,
+
+00:53:14.080 --> 00:53:17.220 align:middle line:84%
+then I have an idiosyncratic
+utility for buying no book.
+
+00:53:17.220 --> 00:53:21.340 align:middle line:84%
+And so what we model many
+consumers doing is having these
+
+00:53:21.340 --> 00:53:24.100 align:middle line:90%
+three choices, and then based--
+
+00:53:24.100 --> 00:53:25.930 align:middle line:84%
+different people make
+different choices
+
+00:53:25.930 --> 00:53:30.630 align:middle line:84%
+because different people
+have different epsilons.
+
+00:53:30.630 --> 00:53:32.310 align:middle line:84%
+So we have this
+utility specification,
+
+00:53:32.310 --> 00:53:36.000 align:middle line:84%
+but then given any
+set of parameters--
+
+00:53:36.000 --> 00:53:39.780 align:middle line:84%
+beta, alpha, mu, et cetera--
+and given assumptions
+
+00:53:39.780 --> 00:53:42.960 align:middle line:84%
+about the joint distributions
+of these objects,
+
+00:53:42.960 --> 00:53:44.460 align:middle line:84%
+we're going to be
+able to get demand
+
+00:53:44.460 --> 00:53:46.300 align:middle line:84%
+as a function of the
+economic primitives.
+
+00:53:46.300 --> 00:53:46.800 align:middle line:90%
+Yeah?
+
+00:53:46.800 --> 00:53:48.967 align:middle line:84%
+AUDIENCE: So just do the
+characteristics of the book
+
+00:53:48.967 --> 00:53:53.560 align:middle line:84%
+enter differently, and your user
+is just yf or just another beta?
+
+00:53:53.560 --> 00:53:55.440 align:middle line:84%
+GLENN ELLISON: Yeah,
+no, so it potentially
+
+00:53:55.440 --> 00:53:58.020 align:middle line:84%
+could be xjt times
+beta, or it could
+
+00:53:58.020 --> 00:53:59.970 align:middle line:90%
+be some other function of xjt.
+
+00:53:59.970 --> 00:54:02.940 align:middle line:84%
+In their estimation,
+it turns out it's--
+
+00:54:02.940 --> 00:54:06.030 align:middle line:84%
+under their estimation
+assumptions, it doesn't matter.
+
+00:54:06.030 --> 00:54:09.250 align:middle line:84%
+In some sense, any function
+here, the estimation would work.
+
+00:54:09.250 --> 00:54:11.185 align:middle line:84%
+So it's like we
+estimate this robustly.
+
+00:54:11.185 --> 00:54:13.685 align:middle line:84%
+We don't need to assume this
+equals this, and so they don't.
+
+00:54:13.685 --> 00:54:17.370 align:middle line:90%
+
+
+00:54:17.370 --> 00:54:22.410 align:middle line:84%
+So theorem-- and this is
+the magic of logit models.
+
+00:54:22.410 --> 00:54:24.223 align:middle line:90%
+The magic of logit models--
+
+00:54:24.223 --> 00:54:26.640 align:middle line:84%
+and, you know, this may seem
+skeptical at first-- is like,
+
+00:54:26.640 --> 00:54:29.970 align:middle line:84%
+basically, you have
+these quantities,
+
+00:54:29.970 --> 00:54:32.040 align:middle line:84%
+and then you take the
+log of the quantity
+
+00:54:32.040 --> 00:54:36.240 align:middle line:84%
+and you subtract something, and
+you have converted from quantity
+
+00:54:36.240 --> 00:54:38.670 align:middle line:90%
+space to utility space.
+
+00:54:38.670 --> 00:54:40.890 align:middle line:90%
+And again, Tobias explain more--
+
+00:54:40.890 --> 00:54:43.300 align:middle line:84%
+make this stronger argument
+for why that's not--
+
+00:54:43.300 --> 00:54:44.830 align:middle line:90%
+doesn't seem so crazy.
+
+00:54:44.830 --> 00:54:47.820 align:middle line:84%
+Maybe it is crazy, but
+people do it all the time.
+
+00:54:47.820 --> 00:54:51.120 align:middle line:84%
+So anyway, the theorem is,
+if the epsilons are i.i.d.
+
+00:54:51.120 --> 00:54:55.920 align:middle line:84%
+across consumers and products,
+and each of those epsilons
+
+00:54:55.920 --> 00:54:58.890 align:middle line:84%
+has a type 1 extreme
+value distribution,
+
+00:54:58.890 --> 00:55:03.510 align:middle line:84%
+then the log of the ratio
+between the number of people
+
+00:55:03.510 --> 00:55:06.930 align:middle line:84%
+buying new books and the
+people buying no books
+
+00:55:06.930 --> 00:55:13.060 align:middle line:90%
+is that utility specification.
+
+00:55:13.060 --> 00:55:16.210 align:middle line:84%
+So it is book
+characteristics times effect
+
+00:55:16.210 --> 00:55:19.240 align:middle line:84%
+of book characteristics on
+utility minus alpha times
+
+00:55:19.240 --> 00:55:23.170 align:middle line:84%
+the price, plus alpha delta
+mu times the probability
+
+00:55:23.170 --> 00:55:25.210 align:middle line:84%
+that it doesn't die
+times the price,
+
+00:55:25.210 --> 00:55:29.770 align:middle line:84%
+plus this thing that was the
+unobserved product quality
+
+00:55:29.770 --> 00:55:34.900 align:middle line:84%
+becomes the error term if
+you're regressing new book
+
+00:55:34.900 --> 00:55:39.560 align:middle line:84%
+sales on book
+characteristics and prices.
+
+00:55:39.560 --> 00:55:42.950 align:middle line:84%
+So we make this functional
+form transformation,
+
+00:55:42.950 --> 00:55:46.760 align:middle line:84%
+and we get to this thing that we
+could estimate these parameters,
+
+00:55:46.760 --> 00:55:50.400 align:middle line:84%
+the utility function, just
+by running a regression.
+
+00:55:50.400 --> 00:55:54.565 align:middle line:84%
+So we're going to regress
+log of the share--
+
+00:55:54.565 --> 00:55:55.940 align:middle line:84%
+log of the fraction
+of people who
+
+00:55:55.940 --> 00:56:01.010 align:middle line:84%
+buy the book on book
+characteristics,
+
+00:56:01.010 --> 00:56:03.730 align:middle line:84%
+prices, probability
+of death, and so on.
+
+00:56:03.730 --> 00:56:09.820 align:middle line:90%
+
+
+00:56:09.820 --> 00:56:12.430 align:middle line:84%
+One thing that this
+specification points out
+
+00:56:12.430 --> 00:56:16.242 align:middle line:84%
+is, the coefficient on
+the book characteristics
+
+00:56:16.242 --> 00:56:17.950 align:middle line:84%
+are going to tell us
+how much people like
+
+00:56:17.950 --> 00:56:20.773 align:middle line:90%
+big books versus small books.
+
+00:56:20.773 --> 00:56:23.440 align:middle line:84%
+Coefficient on price is going to
+tell us how much people dislike
+
+00:56:23.440 --> 00:56:26.350 align:middle line:90%
+buying books.
+
+00:56:26.350 --> 00:56:29.290 align:middle line:84%
+The coefficient
+on the probability
+
+00:56:29.290 --> 00:56:35.080 align:middle line:84%
+of survival times the price is
+going to give us alpha times
+
+00:56:35.080 --> 00:56:36.550 align:middle line:90%
+delta times mu.
+
+00:56:36.550 --> 00:56:40.390 align:middle line:84%
+So delta and mu are not
+separately identified.
+
+00:56:40.390 --> 00:56:43.690 align:middle line:84%
+So if I said that delta was
+the key parameter of are people
+
+00:56:43.690 --> 00:56:46.300 align:middle line:84%
+forward-looking, the
+mu was how much money
+
+00:56:46.300 --> 00:56:48.880 align:middle line:84%
+do they expect to get back
+when they resell the book,
+
+00:56:48.880 --> 00:56:51.400 align:middle line:90%
+if they're allowed to resell it.
+
+00:56:51.400 --> 00:56:53.630 align:middle line:84%
+We can't separately
+identify this product.
+
+00:56:53.630 --> 00:56:56.580 align:middle line:84%
+All we can do is estimate those
+two things multiplied together.
+
+00:56:56.580 --> 00:57:03.600 align:middle line:90%
+
+
+00:57:03.600 --> 00:57:06.270 align:middle line:84%
+So another observation,
+we're going
+
+00:57:06.270 --> 00:57:08.578 align:middle line:90%
+to need an instrument for price.
+
+00:57:08.578 --> 00:57:10.620 align:middle line:84%
+Why are we going to need
+an instrument for price?
+
+00:57:10.620 --> 00:57:12.245 align:middle line:84%
+We always need an
+instrument for price.
+
+00:57:12.245 --> 00:57:17.730 align:middle line:84%
+But if the firm has a book that
+has a high unobserved quality,
+
+00:57:17.730 --> 00:57:20.190 align:middle line:84%
+this is a book that
+many people like--
+
+00:57:20.190 --> 00:57:23.220 align:middle line:84%
+the same reason that just
+like when demand is high,
+
+00:57:23.220 --> 00:57:25.420 align:middle line:84%
+price is high, to the
+extent that's true.
+
+00:57:25.420 --> 00:57:29.790 align:middle line:84%
+But if the book has
+an epsilon new that
+
+00:57:29.790 --> 00:57:33.600 align:middle line:84%
+makes the firm want
+to set a high price,
+
+00:57:33.600 --> 00:57:37.390 align:middle line:84%
+then price is going to be
+correlated with this error term,
+
+00:57:37.390 --> 00:57:39.000 align:middle line:90%
+so price is endogenous.
+
+00:57:39.000 --> 00:57:42.870 align:middle line:84%
+So we need an
+instrument for price.
+
+00:57:42.870 --> 00:57:44.360 align:middle line:90%
+What do they do?
+
+00:57:44.360 --> 00:57:45.840 align:middle line:84%
+The instruments
+they use for price
+
+00:57:45.840 --> 00:57:48.340 align:middle line:84%
+are having a
+nonprofit publisher.
+
+00:57:48.340 --> 00:57:50.430 align:middle line:84%
+So, for instance,
+Tirole's textbook
+
+00:57:50.430 --> 00:57:52.890 align:middle line:84%
+is published by MIT
+Press rather than
+
+00:57:52.890 --> 00:57:55.770 align:middle line:90%
+by Macmillan or somebody else.
+
+00:57:55.770 --> 00:57:59.610 align:middle line:84%
+Tirole's book is cheaper
+than many other books
+
+00:57:59.610 --> 00:58:04.540 align:middle line:84%
+because nonprofit publishers
+tend to set lower prices.
+
+00:58:04.540 --> 00:58:07.330 align:middle line:84%
+Other instruments
+they use are, What
+
+00:58:07.330 --> 00:58:09.760 align:middle line:84%
+fraction of your
+close competitors
+
+00:58:09.760 --> 00:58:11.930 align:middle line:84%
+are published by
+nonprofit publishers?
+
+00:58:11.930 --> 00:58:15.190 align:middle line:84%
+So if intermediate macro
+books, a lot of them
+
+00:58:15.190 --> 00:58:17.050 align:middle line:84%
+are sold by
+nonprofit publishers,
+
+00:58:17.050 --> 00:58:18.730 align:middle line:84%
+then maybe the
+for-profit publishers
+
+00:58:18.730 --> 00:58:21.340 align:middle line:90%
+also have to set lower prices.
+
+00:58:21.340 --> 00:58:23.800 align:middle line:84%
+They also have a
+measure, which is what's
+
+00:58:23.800 --> 00:58:25.250 align:middle line:90%
+the concentration of ownership?
+
+00:58:25.250 --> 00:58:27.040 align:middle line:84%
+Are there 10 different
+major publishers
+
+00:58:27.040 --> 00:58:30.700 align:middle line:84%
+who have intermediate
+machine learning books,
+
+00:58:30.700 --> 00:58:33.250 align:middle line:84%
+or are there only
+two such publishers
+
+00:58:33.250 --> 00:58:34.500 align:middle line:90%
+who have dominated the market?
+
+00:58:34.500 --> 00:58:38.910 align:middle line:90%
+
+
+00:58:38.910 --> 00:58:43.160 align:middle line:84%
+Anyway, so this is basically
+the estimating equation.
+
+00:58:43.160 --> 00:58:45.018 align:middle line:90%
+So it's just an IV regression.
+
+00:58:45.018 --> 00:58:47.560 align:middle line:84%
+And it's an IV regression that,
+under the assumptions they've
+
+00:58:47.560 --> 00:58:49.990 align:middle line:84%
+made, should let us
+estimate delta mu, which
+
+00:58:49.990 --> 00:58:50.910 align:middle line:90%
+is what we care about.
+
+00:58:50.910 --> 00:58:54.070 align:middle line:90%
+
+
+00:58:54.070 --> 00:58:55.530 align:middle line:90%
+And what do they find?
+
+00:58:55.530 --> 00:58:58.670 align:middle line:90%
+
+
+00:58:58.670 --> 00:59:03.600 align:middle line:84%
+So they define lambda
+equals delta times mu.
+
+00:59:03.600 --> 00:59:05.310 align:middle line:90%
+What did we think mu is?
+
+00:59:05.310 --> 00:59:08.460 align:middle line:84%
+We think that mu, you've got
+to be able to get at least--
+
+00:59:08.460 --> 00:59:11.170 align:middle line:84%
+normally, you'd get 50%
+back at the bookstore.
+
+00:59:11.170 --> 00:59:13.170 align:middle line:84%
+If you're going to sell
+it back to your friends,
+
+00:59:13.170 --> 00:59:15.930 align:middle line:84%
+maybe you could go to your--
+well, not your closest friends--
+
+00:59:15.930 --> 00:59:18.738 align:middle line:84%
+and say, I'll sell my
+book to you for only 75%
+
+00:59:18.738 --> 00:59:20.280 align:middle line:84%
+of the cover price,
+because if people
+
+00:59:20.280 --> 00:59:22.860 align:middle line:84%
+want to go to the
+campus bookstore,
+
+00:59:22.860 --> 00:59:25.248 align:middle line:84%
+they can buy the used book
+at 75% of the cover price.
+
+00:59:25.248 --> 00:59:27.540 align:middle line:84%
+You're not going be able to
+sell it for more than that.
+
+00:59:27.540 --> 00:59:29.640 align:middle line:84%
+Just posting a sign
+in the dorm saying,
+
+00:59:29.640 --> 00:59:31.740 align:middle line:90%
+I've got a used copy to sell.
+
+00:59:31.740 --> 00:59:36.240 align:middle line:84%
+But so if we think mu
+is between 0.4 and 0.75,
+
+00:59:36.240 --> 00:59:40.980 align:middle line:84%
+they estimate is-- they
+estimate lambda is 0.61.
+
+00:59:40.980 --> 00:59:44.460 align:middle line:84%
+And so if you estimate
+that lambda is 0.61
+
+00:59:44.460 --> 00:59:48.390 align:middle line:84%
+and you think that
+mu is in this range,
+
+00:59:48.390 --> 00:59:50.790 align:middle line:84%
+that's got to tell you
+that mu is not 0.4.
+
+00:59:50.790 --> 00:59:55.030 align:middle line:84%
+Mu is bigger than 0.4, and
+delta is pretty close to 1.
+
+00:59:55.030 --> 00:59:58.630 align:middle line:84%
+So the estimates are
+indicating that consumers
+
+00:59:58.630 --> 01:00:02.980 align:middle line:84%
+must be fairly close to
+all being forward-looking
+
+01:00:02.980 --> 01:00:07.240 align:middle line:84%
+and putting a very large weight
+on that revision probability
+
+01:00:07.240 --> 01:00:11.620 align:middle line:84%
+because they're reacting
+a great deal to books
+
+01:00:11.620 --> 01:00:13.280 align:middle line:90%
+that are about to die.
+
+01:00:13.280 --> 01:00:15.520 align:middle line:84%
+And they could only
+react that much
+
+01:00:15.520 --> 01:00:19.900 align:middle line:84%
+to books that are about
+to die if they recognize
+
+01:00:19.900 --> 01:00:22.810 align:middle line:84%
+they're going to die, or there's
+a high probability of death
+
+01:00:22.810 --> 01:00:24.953 align:middle line:90%
+and put a lot of weight on that.
+
+01:00:24.953 --> 01:00:26.870 align:middle line:84%
+So in some sense, we're
+estimating two things.
+
+01:00:26.870 --> 01:00:29.420 align:middle line:90%
+We get this--
+
+01:00:29.420 --> 01:00:33.430 align:middle line:90%
+I have alpha and alpha delta mu.
+
+01:00:33.430 --> 01:00:36.470 align:middle line:84%
+So the coefficient on
+the probability of death
+
+01:00:36.470 --> 01:00:40.680 align:middle line:84%
+is giving me this, the
+coefficient on the price
+
+01:00:40.680 --> 01:00:43.035 align:middle line:84%
+is giving me this, and
+so then I divide them,
+
+01:00:43.035 --> 01:00:44.660 align:middle line:84%
+and that's where I
+get the lambda from.
+
+01:00:44.660 --> 01:00:53.560 align:middle line:90%
+
+
+01:00:53.560 --> 01:00:55.125 align:middle line:90%
+Any questions on that?
+
+01:00:55.125 --> 01:00:59.290 align:middle line:90%
+
+
+01:00:59.290 --> 01:01:01.890 align:middle line:84%
+So, obviously, as with
+any empirical paper,
+
+01:01:01.890 --> 01:01:05.550 align:middle line:90%
+I can think of lots of concerns.
+
+01:01:05.550 --> 01:01:08.010 align:middle line:84%
+And I think one of the hurdles
+to getting research done
+
+01:01:08.010 --> 01:01:09.210 align:middle line:84%
+is you just-- there
+are always going
+
+01:01:09.210 --> 01:01:10.502 align:middle line:90%
+to be problems with your paper.
+
+01:01:10.502 --> 01:01:12.638 align:middle line:84%
+You just go ahead
+and write them.
+
+01:01:12.638 --> 01:01:14.430 align:middle line:84%
+In our profession, the
+people who get ahead
+
+01:01:14.430 --> 01:01:15.630 align:middle line:84%
+are the people who
+write the papers,
+
+01:01:15.630 --> 01:01:17.172 align:middle line:84%
+and then other people
+criticize them.
+
+01:01:17.172 --> 01:01:18.090 align:middle line:90%
+That's OK.
+
+01:01:18.090 --> 01:01:20.250 align:middle line:84%
+Just writing the
+papers and having
+
+01:01:20.250 --> 01:01:21.750 align:middle line:84%
+people talk about
+your paper is what
+
+01:01:21.750 --> 01:01:23.500 align:middle line:84%
+you have to do to get
+ahead in this world.
+
+01:01:23.500 --> 01:01:25.800 align:middle line:84%
+And so you write the
+paper, there may be flaws,
+
+01:01:25.800 --> 01:01:27.400 align:middle line:84%
+there are things
+people can criticize.
+
+01:01:27.400 --> 01:01:30.550 align:middle line:84%
+But as with any paper, there can
+be lots of things to criticize,
+
+01:01:30.550 --> 01:01:33.000 align:middle line:84%
+and that's OK as long
+as you get it out there.
+
+01:01:33.000 --> 01:01:36.090 align:middle line:84%
+So what can I criticize
+about this one?
+
+01:01:36.090 --> 01:01:39.100 align:middle line:84%
+They have no data on
+the non-bookstore sales.
+
+01:01:39.100 --> 01:01:41.440 align:middle line:84%
+They have very good data
+on the bookstore sales
+
+01:01:41.440 --> 01:01:43.900 align:middle line:84%
+they get through the
+bookstores themselves.
+
+01:01:43.900 --> 01:01:46.832 align:middle line:84%
+They really don't know
+much about the used market.
+
+01:01:46.832 --> 01:01:49.290 align:middle line:84%
+They have a couple different
+treatments of the used market,
+
+01:01:49.290 --> 01:01:53.460 align:middle line:84%
+but, in some sense, they're kind
+of making up the used book sales
+
+01:01:53.460 --> 01:01:57.940 align:middle line:90%
+and just going with that.
+
+01:01:57.940 --> 01:02:00.220 align:middle line:90%
+Instruments are important.
+
+01:02:00.220 --> 01:02:04.150 align:middle line:84%
+I think the non-profit publisher
+instrument is a good instrument.
+
+01:02:04.150 --> 01:02:06.880 align:middle line:84%
+But let's suppose you
+haven't fully instrumented
+
+01:02:06.880 --> 01:02:10.570 align:middle line:90%
+for this thing, the lambda is--
+
+01:02:10.570 --> 01:02:13.450 align:middle line:84%
+lambda hat is going to
+be like alpha delta mu
+
+01:02:13.450 --> 01:02:16.120 align:middle line:90%
+hat over alpha hat.
+
+01:02:16.120 --> 01:02:18.760 align:middle line:84%
+If the alpha hat ends
+up biased toward zero,
+
+01:02:18.760 --> 01:02:21.050 align:middle line:84%
+you're going to be
+inflating the lambda hat.
+
+01:02:21.050 --> 01:02:24.820 align:middle line:84%
+So imperfect job of
+instrumenting for alpha
+
+01:02:24.820 --> 01:02:27.500 align:middle line:84%
+is going to make you think that
+lambda is bigger than it is.
+
+01:02:27.500 --> 01:02:29.590 align:middle line:84%
+You worry, could that be
+part of what's going on?
+
+01:02:29.590 --> 01:02:32.260 align:middle line:90%
+
+
+01:02:32.260 --> 01:02:35.990 align:middle line:84%
+Distribution of errors--
+again, we have that theorem.
+
+01:02:35.990 --> 01:02:38.530 align:middle line:90%
+If the epsilons are i.i.d.
+
+01:02:38.530 --> 01:02:42.310 align:middle line:84%
+extreme value-type errors,
+then log of s over log of s
+
+01:02:42.310 --> 01:02:44.562 align:middle line:90%
+equals this.
+
+01:02:44.562 --> 01:02:46.270 align:middle line:84%
+There's a converse of
+that theorem, which
+
+01:02:46.270 --> 01:02:49.150 align:middle line:84%
+says if the errors are not
+i.i.d. extreme value type one,
+
+01:02:49.150 --> 01:02:54.160 align:middle line:84%
+then log of s new over s0
+not equal to x times beta
+
+01:02:54.160 --> 01:02:56.980 align:middle line:84%
+minus alpha times p minus
+alpha times p1 minus die.
+
+01:02:56.980 --> 01:03:00.430 align:middle line:84%
+So obviously, we're relying
+on this functional form
+
+01:03:00.430 --> 01:03:02.890 align:middle line:90%
+identification in that sense.
+
+01:03:02.890 --> 01:03:05.410 align:middle line:84%
+We're also relying on
+functional form identification
+
+01:03:05.410 --> 01:03:08.860 align:middle line:84%
+in the second sense, which is
+the probability that a book will
+
+01:03:08.860 --> 01:03:14.080 align:middle line:84%
+die is a function of its
+age and the field it's in
+
+01:03:14.080 --> 01:03:16.060 align:middle line:90%
+and other things.
+
+01:03:16.060 --> 01:03:20.470 align:middle line:84%
+So by using that probability
+of death as an instrument
+
+01:03:20.470 --> 01:03:21.790 align:middle line:90%
+on the right side--
+
+01:03:21.790 --> 01:03:25.540 align:middle line:84%
+so the way the estimation
+is actually done
+
+01:03:25.540 --> 01:03:29.848 align:middle line:84%
+is they put 1 minus whether
+it actually died here
+
+01:03:29.848 --> 01:03:32.140 align:middle line:84%
+on the right side and then
+use the probability of death
+
+01:03:32.140 --> 01:03:34.790 align:middle line:84%
+as an instrument for
+whether it actually died.
+
+01:03:34.790 --> 01:03:37.565 align:middle line:90%
+But still, using that--
+
+01:03:37.565 --> 01:03:39.190 align:middle line:84%
+you're using as an
+instrument something
+
+01:03:39.190 --> 01:03:42.405 align:middle line:84%
+that's a function of variables
+that are all in your equation.
+
+01:03:42.405 --> 01:03:43.780 align:middle line:84%
+And so it has to
+be that somehow,
+
+01:03:43.780 --> 01:03:46.300 align:middle line:84%
+that nonlinear
+function of semesters
+
+01:03:46.300 --> 01:03:49.480 align:middle line:84%
+and whatever is uncorrelated
+with the errors in the demand
+
+01:03:49.480 --> 01:03:52.900 align:middle line:84%
+equation, even though you put
+the variables themselves also
+
+01:03:52.900 --> 01:03:55.420 align:middle line:90%
+on the right side just linearly.
+
+01:03:55.420 --> 01:03:58.360 align:middle line:84%
+So there's a use of functional
+forms to identify that.
+
+01:03:58.360 --> 01:04:00.490 align:middle line:84%
+I should say, one
+nice thing that they
+
+01:04:00.490 --> 01:04:03.970 align:middle line:84%
+did at the back of the paper to
+try to make it more convincing
+
+01:04:03.970 --> 01:04:07.940 align:middle line:84%
+is this paper was written before
+books were sold on Amazon.
+
+01:04:07.940 --> 01:04:09.850 align:middle line:84%
+They then got some
+more recent data
+
+01:04:09.850 --> 01:04:12.020 align:middle line:90%
+of used books sold on Amazon.
+
+01:04:12.020 --> 01:04:15.430 align:middle line:84%
+And they also find this
+effect there on the price side
+
+01:04:15.430 --> 01:04:17.560 align:middle line:84%
+that if you look at,
+at what price can you
+
+01:04:17.560 --> 01:04:21.760 align:middle line:84%
+sell your used book on Amazon,
+it goes down dramatically
+
+01:04:21.760 --> 01:04:23.800 align:middle line:90%
+in semester 5.
+
+01:04:23.800 --> 01:04:28.330 align:middle line:84%
+And sometimes, you go on Amazon,
+and you see the 12th edition is
+
+01:04:28.330 --> 01:04:30.760 align:middle line:84%
+already available, not
+yet available to buy,
+
+01:04:30.760 --> 01:04:31.930 align:middle line:90%
+but it's there.
+
+01:04:31.930 --> 01:04:33.280 align:middle line:90%
+I own the 11th--
+
+01:04:33.280 --> 01:04:35.060 align:middle line:84%
+I'm being asked to
+buy the 11th edition.
+
+01:04:35.060 --> 01:04:39.800 align:middle line:84%
+The 12th edition is listed on
+Amazon as available October 15.
+
+01:04:39.800 --> 01:04:42.670 align:middle line:84%
+In that situation,
+price is really--
+
+01:04:42.670 --> 01:04:44.820 align:middle line:84%
+price of used books
+really, really drop.
+
+01:04:44.820 --> 01:04:51.790 align:middle line:90%
+
+
+01:04:51.790 --> 01:04:53.715 align:middle line:84%
+Any further questions
+on this paper?
+
+01:04:53.715 --> 01:04:59.910 align:middle line:90%
+
+
+01:04:59.910 --> 01:05:02.995 align:middle line:84%
+So let me go to final paper--
+and again, this is a--
+
+01:05:02.995 --> 01:05:04.990 align:middle line:84%
+the final paper I thought
+I'd talk about is--
+
+01:05:04.990 --> 01:05:06.290 align:middle line:90%
+it's 10 years old.
+
+01:05:06.290 --> 01:05:07.130 align:middle line:90%
+It's 10 years old.
+
+01:05:07.130 --> 01:05:09.170 align:middle line:84%
+It almost seems--
+or 12 years old.
+
+01:05:09.170 --> 01:05:12.010 align:middle line:84%
+It almost seems more topical
+than it did when it was written.
+
+01:05:12.010 --> 01:05:14.620 align:middle line:90%
+So this is about media slant.
+
+01:05:14.620 --> 01:05:23.290 align:middle line:84%
+This one, the question is, why
+do we see biased news media?
+
+01:05:23.290 --> 01:05:25.960 align:middle line:84%
+One reason why you might
+think we see biased news media
+
+01:05:25.960 --> 01:05:29.590 align:middle line:84%
+is maybe Rupert Murdoch
+is very conservative
+
+01:05:29.590 --> 01:05:33.410 align:middle line:84%
+and wants to spread conservative
+values across the United States.
+
+01:05:33.410 --> 01:05:38.620 align:middle line:84%
+Or maybe Newsmax is secretly
+controlled by Russia,
+
+01:05:38.620 --> 01:05:41.110 align:middle line:84%
+and they're out to display
+misinformation that will
+
+01:05:41.110 --> 01:05:43.220 align:middle line:90%
+destroy American democracy.
+
+01:05:43.220 --> 01:05:47.200 align:middle line:84%
+But another explanation would
+simply be that running Fox News
+
+01:05:47.200 --> 01:05:48.850 align:middle line:84%
+and getting people
+angry about things
+
+01:05:48.850 --> 01:05:50.417 align:middle line:84%
+is a very, very
+profitable business.
+
+01:05:50.417 --> 01:05:51.250 align:middle line:90%
+And you don't even--
+
+01:05:51.250 --> 01:05:52.833 align:middle line:84%
+Rupert Murdoch doesn't
+even have to be
+
+01:05:52.833 --> 01:05:55.030 align:middle line:84%
+conservative to want to
+do this because he's just
+
+01:05:55.030 --> 01:05:58.345 align:middle line:84%
+making lots and lots of money
+because people watch Fox News.
+
+01:05:58.345 --> 01:06:01.542 align:middle line:90%
+
+
+01:06:01.542 --> 01:06:03.500 align:middle line:84%
+In this case, I said in
+Chevalier and Goolsbee,
+
+01:06:03.500 --> 01:06:06.080 align:middle line:84%
+it was like there was a public
+policy question about books
+
+01:06:06.080 --> 01:06:08.330 align:middle line:84%
+and why they're so expensive
+and why they get revised.
+
+01:06:08.330 --> 01:06:10.695 align:middle line:84%
+But then there's an
+understanding the theory better.
+
+01:06:10.695 --> 01:06:13.070 align:middle line:84%
+Here, I think it's less of an
+understanding of the theory
+
+01:06:13.070 --> 01:06:15.170 align:middle line:84%
+better than just recognizing
+the theory, which
+
+01:06:15.170 --> 01:06:17.300 align:middle line:84%
+is the theory is the
+optimal product quality
+
+01:06:17.300 --> 01:06:20.810 align:middle line:84%
+theorem from monopoly pricing,
+that we think monopolists ought
+
+01:06:20.810 --> 01:06:22.970 align:middle line:84%
+to choose the quality
+of their product
+
+01:06:22.970 --> 01:06:25.170 align:middle line:84%
+that is optimal to
+maximize profits.
+
+01:06:25.170 --> 01:06:27.680 align:middle line:84%
+And so the question here is,
+does that optimal quality
+
+01:06:27.680 --> 01:06:30.560 align:middle line:84%
+theorem apply to help
+us understand Fox News,
+
+01:06:30.560 --> 01:06:34.820 align:middle line:84%
+and does it look like Fox
+News is profit maximizing,
+
+01:06:34.820 --> 01:06:37.850 align:middle line:84%
+and do we understand things
+are profit maximizing?
+
+01:06:37.850 --> 01:06:40.890 align:middle line:84%
+Now, turns out this paper
+is not about Fox News.
+
+01:06:40.890 --> 01:06:42.560 align:middle line:90%
+This is about newspapers.
+
+01:06:42.560 --> 01:06:47.340 align:middle line:90%
+And again, things do age.
+
+01:06:47.340 --> 01:06:49.230 align:middle line:84%
+There was a time in
+the United States
+
+01:06:49.230 --> 01:06:52.500 align:middle line:84%
+not so long ago when
+people read newspapers.
+
+01:06:52.500 --> 01:06:55.650 align:middle line:84%
+Newspapers were things printed
+on physical paper, delivered
+
+01:06:55.650 --> 01:06:57.772 align:middle line:90%
+to people's houses by carriers.
+
+01:06:57.772 --> 01:07:00.480 align:middle line:84%
+And then you would get up in the
+morning, pick up your newspaper,
+
+01:07:00.480 --> 01:07:04.380 align:middle line:84%
+and read it while drinking your
+coffee and eating breakfast.
+
+01:07:04.380 --> 01:07:07.540 align:middle line:84%
+There were many, many local
+newspapers in the United States.
+
+01:07:07.540 --> 01:07:09.580 align:middle line:84%
+Every city had
+multiple newspapers.
+
+01:07:09.580 --> 01:07:11.940 align:middle line:84%
+So in Boston, instead of
+just having the Boston Globe,
+
+01:07:11.940 --> 01:07:14.232 align:middle line:84%
+we had the Boston Globe and
+something called the Boston
+
+01:07:14.232 --> 01:07:14.820 align:middle line:90%
+Herald.
+
+01:07:14.820 --> 01:07:16.530 align:middle line:84%
+Boston Herald was
+smaller and easier
+
+01:07:16.530 --> 01:07:18.930 align:middle line:84%
+to read while riding
+on the subway.
+
+01:07:18.930 --> 01:07:22.090 align:middle line:84%
+But many towns across the
+United States had newspapers.
+
+01:07:22.090 --> 01:07:24.330 align:middle line:84%
+Those newspapers would
+convey both local news
+
+01:07:24.330 --> 01:07:25.520 align:middle line:90%
+and national news.
+
+01:07:25.520 --> 01:07:30.000 align:middle line:90%
+
+
+01:07:30.000 --> 01:07:35.650 align:middle line:84%
+So let's see, motivation--
+so anyway, media slant
+
+01:07:35.650 --> 01:07:37.640 align:middle line:90%
+remains a very big topic.
+
+01:07:37.640 --> 01:07:38.680 align:middle line:90%
+I should say that--
+
+01:07:38.680 --> 01:07:41.390 align:middle line:84%
+I mentioned Fox News, I think
+another very interesting topic,
+
+01:07:41.390 --> 01:07:44.750 align:middle line:84%
+there's a company flying more
+under the radar, Sinclair Media.
+
+01:07:44.750 --> 01:07:48.350 align:middle line:84%
+Sinclair Media is basically the
+Fox News of local television.
+
+01:07:48.350 --> 01:07:52.600 align:middle line:84%
+So Sinclair has bought hundreds
+and hundreds of local stations
+
+01:07:52.600 --> 01:07:55.780 align:middle line:84%
+across the United States and
+made the 10:00 and 11:00 news
+
+01:07:55.780 --> 01:07:59.220 align:middle line:84%
+that you receive free over
+the air more Fox News-like.
+
+01:07:59.220 --> 01:08:02.200 align:middle line:90%
+
+
+01:08:02.200 --> 01:08:04.700 align:middle line:84%
+Anyway, what
+Gentzkow and Shapiro
+
+01:08:04.700 --> 01:08:07.060 align:middle line:84%
+were trying to do
+is ideally, they
+
+01:08:07.060 --> 01:08:10.510 align:middle line:84%
+would like to have this two-step
+investigation of understanding
+
+01:08:10.510 --> 01:08:12.970 align:middle line:90%
+motivations for biased news.
+
+01:08:12.970 --> 01:08:17.600 align:middle line:84%
+Step one is estimate the slant
+that would be profit maximizing.
+
+01:08:17.600 --> 01:08:21.490 align:middle line:84%
+And then step two is compare
+the actual and profit-maximizing
+
+01:08:21.490 --> 01:08:24.199 align:middle line:90%
+slant and see whether there--
+
+01:08:24.199 --> 01:08:26.103 align:middle line:84%
+are there differences
+between the two?
+
+01:08:26.103 --> 01:08:27.520 align:middle line:84%
+If there are
+differences, are they
+
+01:08:27.520 --> 01:08:31.370 align:middle line:84%
+related to the ideology of the
+person who owns the newspaper?
+
+01:08:31.370 --> 01:08:34.310 align:middle line:90%
+
+
+01:08:34.310 --> 01:08:39.649 align:middle line:84%
+I think the paper falls a little
+short of the self-description,
+
+01:08:39.649 --> 01:08:41.698 align:middle line:84%
+or it's a little heroic
+in the assumptions
+
+01:08:41.698 --> 01:08:43.490 align:middle line:84%
+that you need to think
+that it's estimating
+
+01:08:43.490 --> 01:08:45.710 align:middle line:90%
+profit-maximizing slants.
+
+01:08:45.710 --> 01:08:50.880 align:middle line:84%
+But it has been very influential
+for the questions it raised
+
+01:08:50.880 --> 01:08:54.090 align:middle line:84%
+and also, actually, for the ways
+it's quantifying media bias.
+
+01:08:54.090 --> 01:08:56.250 align:middle line:84%
+And techniques
+developed here get
+
+01:08:56.250 --> 01:08:58.999 align:middle line:84%
+used in many other
+papers on media bias.
+
+01:08:58.999 --> 01:09:02.210 align:middle line:90%
+
+
+01:09:02.210 --> 01:09:03.859 align:middle line:90%
+OK, so quantifying media slant--
+
+01:09:03.859 --> 01:09:06.470 align:middle line:90%
+
+
+01:09:06.470 --> 01:09:08.967 align:middle line:84%
+this was really one of
+the first papers to use--
+
+01:09:08.967 --> 01:09:10.550 align:middle line:84%
+you wouldn't even
+these days call them
+
+01:09:10.550 --> 01:09:12.680 align:middle line:84%
+machine learning techniques,
+but automated text
+
+01:09:12.680 --> 01:09:15.590 align:middle line:90%
+processing as a way to get data.
+
+01:09:15.590 --> 01:09:18.500 align:middle line:84%
+And so what they're trying to do
+is they're trying to figure out,
+
+01:09:18.500 --> 01:09:23.800 align:middle line:84%
+is a newspaper right skewed
+or is a newspaper left skewed?
+
+01:09:23.800 --> 01:09:26.680 align:middle line:84%
+How do you make a newspaper
+skewed one way or the other?
+
+01:09:26.680 --> 01:09:29.490 align:middle line:84%
+Well, one thing you do is
+just with the words you use.
+
+01:09:29.490 --> 01:09:32.180 align:middle line:84%
+And in the early 2000s,
+they give examples like,
+
+01:09:32.180 --> 01:09:35.569 align:middle line:84%
+do you call something the
+Iraq War or the War on Terror?
+
+01:09:35.569 --> 01:09:37.760 align:middle line:84%
+And generally, people
+who favored the Iraq War
+
+01:09:37.760 --> 01:09:39.130 align:middle line:90%
+would call it the War on Terror.
+
+01:09:39.130 --> 01:09:43.100 align:middle line:84%
+People who opposed the War in
+Iraq would call it the Iraq War.
+
+01:09:43.100 --> 01:09:46.729 align:middle line:84%
+Estate tax and death tax is
+a very nice linguistic thing.
+
+01:09:46.729 --> 01:09:50.240 align:middle line:84%
+In the United States, if you
+have less than $5 million
+
+01:09:50.240 --> 01:09:53.720 align:middle line:84%
+when you die, you can pass
+it on to your heirs tax free.
+
+01:09:53.720 --> 01:09:55.822 align:middle line:84%
+If you have billions
+of dollars, it
+
+01:09:55.822 --> 01:09:58.280 align:middle line:84%
+seems like you can often pass
+it on to your heirs tax free,
+
+01:09:58.280 --> 01:10:00.660 align:middle line:84%
+never having paid the
+capital gains taxes either.
+
+01:10:00.660 --> 01:10:03.060 align:middle line:84%
+But there are taxes on
+the books that you're
+
+01:10:03.060 --> 01:10:06.930 align:middle line:84%
+supposed to pay when you
+pass your billions of dollars
+
+01:10:06.930 --> 01:10:09.600 align:middle line:90%
+on to your children.
+
+01:10:09.600 --> 01:10:13.530 align:middle line:84%
+But anyway, the Republicans tend
+to refer to it as the death tax,
+
+01:10:13.530 --> 01:10:16.283 align:middle line:84%
+because who wants to
+pile on someone's misery
+
+01:10:16.283 --> 01:10:17.700 align:middle line:84%
+when someone has
+died and tax them
+
+01:10:17.700 --> 01:10:19.860 align:middle line:90%
+for it, versus the estate tax.
+
+01:10:19.860 --> 01:10:21.550 align:middle line:84%
+Everyone can agree
+on taxing estates.
+
+01:10:21.550 --> 01:10:23.280 align:middle line:84%
+If you have wealthy
+people, estate--
+
+01:10:23.280 --> 01:10:25.062 align:middle line:84%
+wealthy estates
+should pay taxes.
+
+01:10:25.062 --> 01:10:26.520 align:middle line:84%
+So there's a question
+of what words
+
+01:10:26.520 --> 01:10:28.210 align:middle line:90%
+do you use in your newspaper?
+
+01:10:28.210 --> 01:10:29.760 align:middle line:90%
+But then much more--
+
+01:10:29.760 --> 01:10:31.860 align:middle line:84%
+if you look at what Fox
+News does, some of it
+
+01:10:31.860 --> 01:10:34.658 align:middle line:84%
+may be outright lying about
+voting machine tampering
+
+01:10:34.658 --> 01:10:36.450 align:middle line:84%
+or something like that
+to get people angry.
+
+01:10:36.450 --> 01:10:38.085 align:middle line:84%
+But much more,
+it's a question of,
+
+01:10:38.085 --> 01:10:39.840 align:middle line:84%
+do you have a lot
+of news stories
+
+01:10:39.840 --> 01:10:43.680 align:middle line:84%
+about undocumented immigrants
+assaulting and killing people?
+
+01:10:43.680 --> 01:10:48.460 align:middle line:84%
+Or do you have a lot
+of stories about people
+
+01:10:48.460 --> 01:10:51.160 align:middle line:84%
+invading the US capitol
+and beating police officers
+
+01:10:51.160 --> 01:10:52.120 align:middle line:90%
+or whatever?
+
+01:10:52.120 --> 01:10:57.090 align:middle line:84%
+So in some sense, the
+extent to which you
+
+01:10:57.090 --> 01:10:59.490 align:middle line:84%
+talk about tax breaks
+being given to corporations
+
+01:10:59.490 --> 01:11:01.590 align:middle line:84%
+or the extent you talk
+about illegal immigrants
+
+01:11:01.590 --> 01:11:04.980 align:middle line:84%
+committing crimes is going to
+be one way in which you can
+
+01:11:04.980 --> 01:11:06.720 align:middle line:84%
+slant your news
+coverage and change
+
+01:11:06.720 --> 01:11:09.330 align:middle line:84%
+political opinions of the
+people who live in the area
+
+01:11:09.330 --> 01:11:11.070 align:middle line:90%
+that you're serving.
+
+01:11:11.070 --> 01:11:15.600 align:middle line:84%
+And so what they try to do is--
+the question is, how do you
+
+01:11:15.600 --> 01:11:19.560 align:middle line:84%
+pick out a Democratic from a
+Republican issue or a Democratic
+
+01:11:19.560 --> 01:11:21.785 align:middle line:84%
+from a Republican talking
+point or Democratic
+
+01:11:21.785 --> 01:11:23.380 align:middle line:90%
+from Republican phrasing?
+
+01:11:23.380 --> 01:11:26.880 align:middle line:84%
+And what they do is they
+go through the full text
+
+01:11:26.880 --> 01:11:29.723 align:middle line:84%
+of all speeches
+given on the floor
+
+01:11:29.723 --> 01:11:31.140 align:middle line:84%
+of the US House
+of Representatives
+
+01:11:31.140 --> 01:11:32.340 align:middle line:90%
+and the House of Senate.
+
+01:11:32.340 --> 01:11:34.710 align:middle line:84%
+And they pick up two-
+and three-word phrases
+
+01:11:34.710 --> 01:11:38.190 align:middle line:84%
+that are being used by
+Democrats and Republicans.
+
+01:11:38.190 --> 01:11:42.360 align:middle line:84%
+And they actually classify
+each congressperson as a
+
+01:11:42.360 --> 01:11:45.090 align:middle line:84%
+where they are on a
+continuum spectrum
+
+01:11:45.090 --> 01:11:49.050 align:middle line:84%
+by what's the vote
+share for George W.
+
+01:11:49.050 --> 01:11:51.820 align:middle line:84%
+Bush in their
+congressional district.
+
+01:11:51.820 --> 01:11:53.700 align:middle line:84%
+And so they use this
+for what is being
+
+01:11:53.700 --> 01:11:55.570 align:middle line:84%
+spoken by far left
+people, what's being
+
+01:11:55.570 --> 01:11:57.290 align:middle line:90%
+spoken by far right people.
+
+01:11:57.290 --> 01:11:58.990 align:middle line:90%
+And so they identify basically--
+
+01:11:58.990 --> 01:12:05.200 align:middle line:90%
+
+
+01:12:05.200 --> 01:12:08.980 align:middle line:84%
+they select 1,000 two- and
+three-word phrases that are used
+
+01:12:08.980 --> 01:12:11.260 align:middle line:84%
+significantly different
+frequencies by people
+
+01:12:11.260 --> 01:12:13.960 align:middle line:84%
+on the left versus the right
+of the political spectrum.
+
+01:12:13.960 --> 01:12:17.200 align:middle line:84%
+And then for each
+newspaper, they
+
+01:12:17.200 --> 01:12:19.330 align:middle line:84%
+regress the excess
+frequency with which
+
+01:12:19.330 --> 01:12:23.230 align:middle line:84%
+it uses each phrase on that
+phrase's Republican-ness.
+
+01:12:23.230 --> 01:12:28.630 align:middle line:84%
+And they define the slant of
+the newspaper as the coefficient
+
+01:12:28.630 --> 01:12:32.050 align:middle line:90%
+on that variable.
+
+01:12:32.050 --> 01:12:35.800 align:middle line:84%
+So if it's really using
+almost exclusively right
+
+01:12:35.800 --> 01:12:38.500 align:middle line:84%
+Republican phrases, it's going
+to be a very high coefficient.
+
+01:12:38.500 --> 01:12:41.000 align:middle line:84%
+If it's using mostly
+Democratic phrases--
+
+01:12:41.000 --> 01:12:45.820 align:middle line:84%
+so if the distribution
+looks like this,
+
+01:12:45.820 --> 01:12:47.882 align:middle line:84%
+it's going to be a very
+left-skewed newspaper.
+
+01:12:47.882 --> 01:12:49.840 align:middle line:84%
+If the distribution of
+phrases looks like that,
+
+01:12:49.840 --> 01:12:51.798 align:middle line:84%
+it's going to be a very
+right-skewed newspaper.
+
+01:12:51.798 --> 01:12:55.230 align:middle line:84%
+And they measure the skew by the
+slope of those estimated lines.
+
+01:12:55.230 --> 01:12:58.470 align:middle line:90%
+
+
+01:12:58.470 --> 01:13:02.070 align:middle line:84%
+Now, obviously, part of
+that in these examples sound
+
+01:13:02.070 --> 01:13:04.257 align:middle line:84%
+like things where you're
+doing media slant.
+
+01:13:04.257 --> 01:13:06.840 align:middle line:84%
+There are also going to be all
+kinds of other things picked up
+
+01:13:06.840 --> 01:13:07.340 align:middle line:90%
+in this.
+
+01:13:07.340 --> 01:13:10.290 align:middle line:84%
+So, for instance,
+some Congresspeople
+
+01:13:10.290 --> 01:13:12.540 align:middle line:84%
+talk about agriculture
+policy, and some
+
+01:13:12.540 --> 01:13:17.100 align:middle line:84%
+talk about guns in their
+urban neighborhoods.
+
+01:13:17.100 --> 01:13:19.290 align:middle line:84%
+Talking about agriculture
+policy may just
+
+01:13:19.290 --> 01:13:21.480 align:middle line:84%
+mean that you're talking
+about agricultural policy.
+
+01:13:21.480 --> 01:13:24.720 align:middle line:84%
+But generally, Republicans
+tend to represent
+
+01:13:24.720 --> 01:13:27.420 align:middle line:84%
+agricultural states,
+and so you may get corn
+
+01:13:27.420 --> 01:13:30.960 align:middle line:84%
+as being a Republican
+phrase when it's not--
+
+01:13:30.960 --> 01:13:36.810 align:middle line:84%
+talking about corn prices is
+not a political statement.
+
+01:13:36.810 --> 01:13:39.190 align:middle line:84%
+They didn't pick the phrases
+to have political content.
+
+01:13:39.190 --> 01:13:41.200 align:middle line:84%
+They just picked
+phrases automatically.
+
+01:13:41.200 --> 01:13:44.340 align:middle line:84%
+And so there's going to be some
+contamination of political slant
+
+01:13:44.340 --> 01:13:45.526 align:middle line:90%
+with other differences.
+
+01:13:45.526 --> 01:13:50.780 align:middle line:90%
+
+
+01:13:50.780 --> 01:13:52.940 align:middle line:84%
+Consumer demand,
+again, is going to be
+
+01:13:52.940 --> 01:13:55.190 align:middle line:90%
+derived from utility function.
+
+01:13:55.190 --> 01:14:01.010 align:middle line:84%
+We assume that the utility
+that consumer I in ZIP code Z
+
+01:14:01.010 --> 01:14:04.520 align:middle line:84%
+gets from buying newspaper
+N is some function
+
+01:14:04.520 --> 01:14:12.430 align:middle line:84%
+of the average quality of the
+newspaper minus disutility
+
+01:14:12.430 --> 01:14:14.980 align:middle line:84%
+that the consumer has from
+consuming something that's
+
+01:14:14.980 --> 01:14:17.700 align:middle line:90%
+different from the ideal slant.
+
+01:14:17.700 --> 01:14:21.450 align:middle line:84%
+So Iz is the ideal slant
+of all people in ZIP code
+
+01:14:21.450 --> 01:14:25.570 align:middle line:84%
+Z. yn is the actual
+slant of newspaper n.
+
+01:14:25.570 --> 01:14:28.990 align:middle line:84%
+So as the slant of
+the newspaper differs
+
+01:14:28.990 --> 01:14:31.730 align:middle line:84%
+from what's ideal for
+people in that ZIP code,
+
+01:14:31.730 --> 01:14:34.960 align:middle line:84%
+utility of people in
+that ZIP code goes down.
+
+01:14:34.960 --> 01:14:36.900 align:middle line:84%
+And then there's a
+random error term.
+
+01:14:36.900 --> 01:14:41.610 align:middle line:90%
+
+
+01:14:41.610 --> 01:14:44.160 align:middle line:84%
+They assume that the
+utility-maximizing slant
+
+01:14:44.160 --> 01:14:49.770 align:middle line:84%
+in ZIP code z is just alpha
+plus beta times rz, where
+
+01:14:49.770 --> 01:14:53.580 align:middle line:84%
+rz is the fraction of people in
+ZIP code z who are Republican.
+
+01:14:53.580 --> 01:14:58.900 align:middle line:84%
+So it's a very specific
+assumption in several ways.
+
+01:14:58.900 --> 01:15:01.280 align:middle line:90%
+So there's no heterogeneity.
+
+01:15:01.280 --> 01:15:03.510 align:middle line:84%
+All people in ZIP
+code z have exactly
+
+01:15:03.510 --> 01:15:06.790 align:middle line:90%
+the same preferred slant.
+
+01:15:06.790 --> 01:15:11.190 align:middle line:84%
+And there is no error
+in this equation.
+
+01:15:11.190 --> 01:15:15.340 align:middle line:84%
+All people in-- preferred
+slant in ZIP code z
+
+01:15:15.340 --> 01:15:18.250 align:middle line:84%
+is this linear function of
+the fraction Republican,
+
+01:15:18.250 --> 01:15:20.560 align:middle line:84%
+with no heterogeneity
+across ZIP codes.
+
+01:15:20.560 --> 01:15:23.825 align:middle line:84%
+There are no ZIP codes
+where a left slant is better
+
+01:15:23.825 --> 01:15:26.325 align:middle line:84%
+than you would think, given how
+many Republicans live there.
+
+01:15:26.325 --> 01:15:30.330 align:middle line:90%
+
+
+01:15:30.330 --> 01:15:33.810 align:middle line:84%
+Once again, they also assume
+now that these epsilon izn's
+
+01:15:33.810 --> 01:15:34.500 align:middle line:90%
+are i.i.d.
+
+01:15:34.500 --> 01:15:37.740 align:middle line:84%
+extreme value, and then they
+make this magical transformation
+
+01:15:37.740 --> 01:15:40.470 align:middle line:84%
+from sales of the
+newspaper to utility
+
+01:15:40.470 --> 01:15:42.280 align:middle line:90%
+of the purchasing consumers.
+
+01:15:42.280 --> 01:15:48.720 align:middle line:84%
+And they get that the log of
+the market share of purchasers
+
+01:15:48.720 --> 01:15:53.430 align:middle line:84%
+versus nonpurchasers is the
+average utility minus gamma
+
+01:15:53.430 --> 01:15:56.130 align:middle line:84%
+times the difference
+between the newspaper slant
+
+01:15:56.130 --> 01:16:03.270 align:middle line:84%
+and that linear function of the
+fraction Republican in the ZIP
+
+01:16:03.270 --> 01:16:04.050 align:middle line:90%
+code.
+
+01:16:04.050 --> 01:16:07.680 align:middle line:84%
+And obviously, we can just
+expand this quadratic.
+
+01:16:07.680 --> 01:16:09.390 align:middle line:84%
+And when you expand
+this quadratic,
+
+01:16:09.390 --> 01:16:11.593 align:middle line:84%
+you're just going
+to get things like--
+
+01:16:11.593 --> 01:16:13.260 align:middle line:84%
+you're going to get
+y on the right side.
+
+01:16:13.260 --> 01:16:14.760 align:middle line:90%
+You're going to get y squared.
+
+01:16:14.760 --> 01:16:16.468 align:middle line:84%
+You're going to get
+r squared, and you're
+
+01:16:16.468 --> 01:16:17.730 align:middle line:90%
+going to get y times r.
+
+01:16:17.730 --> 01:16:19.647 align:middle line:84%
+So you're just going to
+have this thing that's
+
+01:16:19.647 --> 01:16:23.610 align:middle line:84%
+this right-hand side term that's
+got y's and r's and y squareds
+
+01:16:23.610 --> 01:16:26.800 align:middle line:90%
+and r squareds and y times r.
+
+01:16:26.800 --> 01:16:33.500 align:middle line:84%
+And in this model, if
+this model is correct,
+
+01:16:33.500 --> 01:16:37.970 align:middle line:84%
+the utility-maximizing
+slant is alpha plus beta rz.
+
+01:16:37.970 --> 01:16:42.910 align:middle line:84%
+And we can estimate how the
+utility-maximizing slant varies
+
+01:16:42.910 --> 01:16:46.390 align:middle line:84%
+with rz by just looking at the
+coefficient of-- the coefficient
+
+01:16:46.390 --> 01:16:50.403 align:middle line:90%
+of yn times rz is going to be--
+
+01:16:50.403 --> 01:16:55.420 align:middle line:90%
+
+
+01:16:55.420 --> 01:17:01.510 align:middle line:84%
+it's going to be gamma minus
+2 times gamma times beta.
+
+01:17:01.510 --> 01:17:04.605 align:middle line:84%
+So anyway, we're
+going to get that--
+
+01:17:04.605 --> 01:17:08.160 align:middle line:84%
+yeah, the coefficient
+on yn times
+
+01:17:08.160 --> 01:17:11.208 align:middle line:84%
+rz is going to be minus
+2 times gamma times beta.
+
+01:17:11.208 --> 01:17:12.750 align:middle line:84%
+And so we're going
+to be estimating--
+
+01:17:12.750 --> 01:17:15.750 align:middle line:84%
+we're going to get gamma
+times-- identify gamma times
+
+01:17:15.750 --> 01:17:18.900 align:middle line:84%
+beta by just looking at
+the coefficient of this
+
+01:17:18.900 --> 01:17:22.980 align:middle line:84%
+when I regress log
+of share of purchases
+
+01:17:22.980 --> 01:17:26.410 align:middle line:84%
+of the newspaper on the
+right-hand side variables.
+
+01:17:26.410 --> 01:17:32.340 align:middle line:90%
+
+
+01:17:32.340 --> 01:17:35.160 align:middle line:90%
+What did they find?
+
+01:17:35.160 --> 01:17:37.290 align:middle line:84%
+The clear finding
+is that this ZIP
+
+01:17:37.290 --> 01:17:44.980 align:middle line:84%
+share Republican times slant has
+a clear, positive, significant
+
+01:17:44.980 --> 01:17:45.890 align:middle line:90%
+coefficient.
+
+01:17:45.890 --> 01:17:51.070 align:middle line:84%
+So this is evidence
+that the ideal slant
+
+01:17:51.070 --> 01:17:56.140 align:middle line:84%
+is to put more Republican
+news in a Republican ZIP code
+
+01:17:56.140 --> 01:18:00.160 align:middle line:90%
+from a profit-maximizing sense.
+
+01:18:00.160 --> 01:18:04.910 align:middle line:84%
+Let me say that my
+view on this is--
+
+01:18:04.910 --> 01:18:06.470 align:middle line:84%
+it's a very, very
+strong assumption
+
+01:18:06.470 --> 01:18:08.512 align:middle line:84%
+to assume that there's a
+profit-maximizing slant,
+
+01:18:08.512 --> 01:18:11.480 align:middle line:84%
+and it doesn't differ across
+consumers within a ZIP code,
+
+01:18:11.480 --> 01:18:14.900 align:middle line:84%
+and it has no error
+term across ZIP codes.
+
+01:18:14.900 --> 01:18:18.473 align:middle line:84%
+I find it convincing
+evidence that in more
+
+01:18:18.473 --> 01:18:20.390 align:middle line:84%
+right-leaning areas, you
+do better with a more
+
+01:18:20.390 --> 01:18:22.950 align:middle line:90%
+right-leaning newspaper.
+
+01:18:22.950 --> 01:18:27.350 align:middle line:84%
+The fact that this slant is
+the profit-maximizing slant--
+
+01:18:27.350 --> 01:18:31.020 align:middle line:84%
+that relies on those no errors,
+homogeneity assumptions.
+
+01:18:31.020 --> 01:18:32.900 align:middle line:84%
+So it takes pretty
+heroic assumptions
+
+01:18:32.900 --> 01:18:35.690 align:middle line:84%
+to say that this really is
+the profit-maximizing slant.
+
+01:18:35.690 --> 01:18:37.760 align:middle line:84%
+But I do think it's
+pretty clear evidence
+
+01:18:37.760 --> 01:18:40.580 align:middle line:84%
+that right-slanted
+news does sell better
+
+01:18:40.580 --> 01:18:43.310 align:middle line:84%
+in right-slanted areas,
+which is fundamentally--
+
+01:18:43.310 --> 01:18:46.940 align:middle line:84%
+we're regressing log of q on
+the share Republican times
+
+01:18:46.940 --> 01:18:48.950 align:middle line:84%
+slant interaction and
+getting a positive effect,
+
+01:18:48.950 --> 01:18:51.860 align:middle line:84%
+saying in more Republican
+areas, more right-slanted news
+
+01:18:51.860 --> 01:18:52.945 align:middle line:90%
+is selling more copies.
+
+01:18:52.945 --> 01:18:58.940 align:middle line:90%
+
+
+01:18:58.940 --> 01:19:05.760 align:middle line:84%
+And then is slant
+profit maximizing?
+
+01:19:05.760 --> 01:19:08.100 align:middle line:90%
+They show this graph.
+
+01:19:08.100 --> 01:19:11.220 align:middle line:84%
+And this graph is
+supposed to show you,
+
+01:19:11.220 --> 01:19:15.150 align:middle line:84%
+are newspapers more
+right slanted in more
+
+01:19:15.150 --> 01:19:16.270 align:middle line:90%
+Republican areas?
+
+01:19:16.270 --> 01:19:19.290 align:middle line:84%
+And the answer,
+unsurprisingly, is yes.
+
+01:19:19.290 --> 01:19:22.530 align:middle line:90%
+So we get this positive slope.
+
+01:19:22.530 --> 01:19:25.020 align:middle line:84%
+The more Republican is the
+area in which your newspaper is
+
+01:19:25.020 --> 01:19:28.680 align:middle line:84%
+being sold, the more
+right you do make
+
+01:19:28.680 --> 01:19:31.710 align:middle line:90%
+the slant of your newspaper.
+
+01:19:31.710 --> 01:19:35.170 align:middle line:84%
+The demand estimates
+aren't separately
+
+01:19:35.170 --> 01:19:37.540 align:middle line:84%
+identifying gamma and
+beta, so it's a little hard
+
+01:19:37.540 --> 01:19:40.450 align:middle line:84%
+to say whether this slope
+is the slope we would expect
+
+01:19:40.450 --> 01:19:44.093 align:middle line:90%
+given the profit maximization.
+
+01:19:44.093 --> 01:19:45.510 align:middle line:84%
+So then the final
+thing they do is
+
+01:19:45.510 --> 01:19:48.040 align:middle line:90%
+they say, well, let's look at--
+
+01:19:48.040 --> 01:19:52.330 align:middle line:84%
+regress the slant on the
+share Republican in the market
+
+01:19:52.330 --> 01:19:58.443 align:middle line:84%
+and then ownership fixed effects
+to see whether it looks like--
+
+01:19:58.443 --> 01:19:59.360 align:middle line:90%
+they do this two ways.
+
+01:19:59.360 --> 01:20:01.540 align:middle line:84%
+One is they look at owner
+political contributions
+
+01:20:01.540 --> 01:20:04.100 align:middle line:84%
+and put owner political
+contributions on the right side.
+
+01:20:04.100 --> 01:20:06.050 align:middle line:84%
+For some reason, it's
+not in the same table.
+
+01:20:06.050 --> 01:20:08.140 align:middle line:84%
+And the other thing they just
+do is put in ownership fixed
+
+01:20:08.140 --> 01:20:09.515 align:middle line:84%
+effects and see
+whether the owner
+
+01:20:09.515 --> 01:20:13.180 align:middle line:84%
+fixed effects increase the
+r squared of the regression.
+
+01:20:13.180 --> 01:20:15.730 align:middle line:84%
+And if you put the
+owner fixed effects in,
+
+01:20:15.730 --> 01:20:18.650 align:middle line:84%
+it does make a big increase in
+the r squared of the regression.
+
+01:20:18.650 --> 01:20:22.177 align:middle line:84%
+It more than doubles the r
+squared from 0.18 to 0.44.
+
+01:20:22.177 --> 01:20:24.760 align:middle line:84%
+But obviously, you're putting
+in an awful lot of fixed effects
+
+01:20:24.760 --> 01:20:26.000 align:middle line:90%
+on the right side.
+
+01:20:26.000 --> 01:20:30.520 align:middle line:84%
+And so what they note is that if
+you put in state fixed effects
+
+01:20:30.520 --> 01:20:33.310 align:middle line:84%
+instead of owner fixed effects
+and then put in state fixed
+
+01:20:33.310 --> 01:20:36.280 align:middle line:84%
+effects and then an
+ownership effect,
+
+01:20:36.280 --> 01:20:39.490 align:middle line:84%
+then the ownership effect
+is not significant.
+
+01:20:39.490 --> 01:20:44.080 align:middle line:84%
+So while the ownership fixed
+effects do increase the fit,
+
+01:20:44.080 --> 01:20:46.637 align:middle line:84%
+you put in owner fixed effects
+and state fixed effects,
+
+01:20:46.637 --> 01:20:49.220 align:middle line:84%
+suddenly you can't tell whether
+the owner effects are actually
+
+01:20:49.220 --> 01:20:50.900 align:middle line:90%
+there or not at all.
+
+01:20:50.900 --> 01:20:54.740 align:middle line:84%
+So they take this
+to argue that it
+
+01:20:54.740 --> 01:20:57.500 align:middle line:84%
+looks like there isn't much
+evidence that owner slant--
+
+01:20:57.500 --> 01:21:01.110 align:middle line:84%
+it looks like the "Rupert
+Murdoch is just making money"
+
+01:21:01.110 --> 01:21:05.030 align:middle line:84%
+story works pretty well here,
+and it's hard to say that
+
+01:21:05.030 --> 01:21:07.690 align:middle line:84%
+there's a lot of media
+bias other than that.
+
+01:21:07.690 --> 01:21:09.440 align:middle line:84%
+They also put in--
+they do a version where
+
+01:21:09.440 --> 01:21:14.810 align:middle line:84%
+they put in owners' political
+contributions on the right side.
+
+01:21:14.810 --> 01:21:17.840 align:middle line:84%
+And it's like, well, this share
+Republican in the ZIP code
+
+01:21:17.840 --> 01:21:19.640 align:middle line:84%
+explains 20% of
+the variance, it's
+
+01:21:19.640 --> 01:21:22.220 align:middle line:84%
+like the ownership political
+contributions explain
+
+01:21:22.220 --> 01:21:23.675 align:middle line:90%
+5% of the variance.
+
+01:21:23.675 --> 01:21:26.300 align:middle line:84%
+So it looks like the ownership
+political contributions are just
+
+01:21:26.300 --> 01:21:29.240 align:middle line:84%
+not a powerful explanatory
+variable compared
+
+01:21:29.240 --> 01:21:33.100 align:middle line:84%
+to the Republican-ness of the
+ZIP code that they're serving.
+
+01:21:33.100 --> 01:21:51.000 align:middle line:90%

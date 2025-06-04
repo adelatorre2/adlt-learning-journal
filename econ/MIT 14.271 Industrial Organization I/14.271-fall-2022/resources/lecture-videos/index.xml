@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 01: Monopoly Pricing and Durable Goods, Part 1</title>
+      <link>/resources/14271-f22-lecture-1-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-1-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;In this first lecture, Glenn Ellison explains monopoly pricing and durable goods, including monopoly information design.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 02: Monopoly Pricing and Durable Goods, Part 2</title>
+      <link>/resources/14271-f22-lecture-2-multi-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-2-multi-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison discusses monopoly pricing, including monopoly information design. He also covers durable goods, which are goods one uses over time rather than being completely consumed in one use. Examples of durable goods include cars and books.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 03: Price Discrimination, Part 1</title>
+      <link>/resources/14271-f22-lecture-3-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-3-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison explains price discrimination, which is selling different units of the same good at different prices, such as theater tickets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 04: Price Discrimination, Part 2</title>
+      <link>/resources/14271-f22-lecture-4-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-4-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison talks about price discrimination empirics. Price discrimination is a strategy where similar goods or services are sold at different prices by the same provider.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 05: Static Competition and Models of Differentiation, Part 1</title>
+      <link>/resources/14271-f22-lecture-5-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-5-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison introduces the most commonly used differentiated product demand models.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 06: Static Competition and Models of Differentiation, Part 2</title>
+      <link>/resources/14271-f22-lecture-6-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-6-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;In this lecture, Glenn Ellison discusses the empirics of static competition, which is a theoretical model of competition in economics that assumes an infinite number of buyers and sellers, and perfect knowledge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 07: Estimation of Demand, Supply, and Market Power, Part 1</title>
+      <link>/resources/14271-f22-lecture-7-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-7-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Tobias Salz teaches the essentials of static demand models, as they are used in modern empirical industrial organization.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 08: Estimation of Demand, Supply, and Market Power, Part 2</title>
+      <link>/resources/14271-f22-lecture-8-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-8-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;In this lecture, Tobias Salz discusses the empirical model for calculating consumer demand.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 09: Search, Part 1</title>
+      <link>/resources/14271-f22-lecture-9-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-9-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison covers search theory, including search costs and price dispersion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 10: Search, Part 2</title>
+      <link>/resources/14271-f22-lecture-10-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-10-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison lectures on reduced-form empirical evidence on search.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 11: Regulating the Tech Giants</title>
+      <link>/resources/14271-f22-lecture-11-multi-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-11-multi-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Nobel Laureate Jean Tirole, a guest lecturer, talks about regulating technology and competition policy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 12: Ethics and Markets</title>
+      <link>/resources/14271-f22-lecture-12-version-3_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-12-version-3_mp4/data.json</guid>
+      <description>&lt;p&gt;Nobel Laureate Jean Tirole, a guest lecturer, talks about the ethics of the market economy.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 13: Search, Part 3</title>
+      <link>/resources/14271-f22-lecture-13-multi-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-13-multi-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Tobias Salz continues to discuss economic settings through the lens of search models.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 14: Dynamic Competition, Part 1</title>
+      <link>/resources/14271-f22-lecture-14-multi-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-14-multi-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison covers dynamic competition, which is a style of competition that relies on innovation to produce new products and processes, which accompany substantial price reductions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 15: Dynamic Competition, Part 2</title>
+      <link>/resources/14271-f22-lecture-15-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-15-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison talks about empirics and dynamic competition, using the railroads as an example.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 16: Entry</title>
+      <link>/resources/14271-f22-lecture-16-multi-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-16-multi-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison talks about barriers to entry as factors that can prevent or impede newcomers to a market or industry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 17: Entry, Part 2</title>
+      <link>/resources/14271-f22-lecture-17-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-17-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison continues the discussion of entry costs and barriers from the previous lecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 18: Strategic Investment, Part 1</title>
+      <link>/resources/14271-f22-lecture-18-multi-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-18-multi-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison covers strategic investments and explains actions that firms can take to affect both entry and post-entry competition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 19: Strategic Investment, Part 2</title>
+      <link>/resources/14271-f22-lecture-19-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-19-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison discusses strategic investment theories that identify incentives that firms may have to deter entry or reshape future competition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 20: Bounded Rationality, Part 1</title>
+      <link>/resources/14271-f22-lecture-20-multi-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-20-multi-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison talks about bounded rationality, which is the idea that people make decisions that will be good enough, rather than the best possible decision.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 21: Bounded Rationality, Part 2</title>
+      <link>/resources/14271-f22-lecture-21-multi-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-21-multi-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison continues the discussion from the previous lecture about bounded rationality. This lecture looks at it from the approach of rule-of-thumb consumers and computational costs. He also looks at advertising.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 22: Auctions, Part 1</title>
+      <link>/resources/14271-f22-lecture-22-multi-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-22-multi-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison talks about auctions, which are sales in which buyers compete for an asset by placing bids. Real-world examples include government procurement, art and used-car auctions, and online advertising.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 23: Auctions, Part 2</title>
+      <link>/resources/14271-f22-lecture-23-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-23-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Tobias Salz explains how the thinking on empirics of auctions has evolved. This is followed by two applications of empirical models of auctions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 24: Advertising</title>
+      <link>/resources/14271-f22-lecture-24-multi-version-3_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-24-multi-version-3_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison talks about empirical work on advertising.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 25: Online Markets, Part 1</title>
+      <link>/resources/14271-f22-lecture-25-multi-version-3-email-correction_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-25-multi-version-3-email-correction_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison begins talking about online markets, where all transactions are managed by the website owner. Prof. Ellison focuses the discussion on Google.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 26: Online Markets, Part 2</title>
+      <link>/resources/14271-f22-lecture-26-multi-version-2_mp4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/14271-f22-lecture-26-multi-version-2_mp4/data.json</guid>
+      <description>&lt;p&gt;Glenn Ellison finishes his discussion on different issues with online retail.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

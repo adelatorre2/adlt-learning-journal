@@ -1,0 +1,6312 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.988 align:middle line:90%
+[SQUEAKING]
+
+00:00:01.988 --> 00:00:03.479 align:middle line:90%
+[RUSTLING]
+
+00:00:03.479 --> 00:00:04.970 align:middle line:90%
+[CLICKING]
+
+00:00:04.970 --> 00:00:16.655 align:middle line:90%
+
+
+00:00:16.655 --> 00:00:18.530 align:middle line:84%
+GLENN ELLISON: OK,
+anyway, so online markets.
+
+00:00:18.530 --> 00:00:23.000 align:middle line:84%
+So what I've got
+several different papers
+
+00:00:23.000 --> 00:00:24.820 align:middle line:90%
+I figured I'd talk about today.
+
+00:00:24.820 --> 00:00:28.030 align:middle line:84%
+All of them are talking
+about online retail
+
+00:00:28.030 --> 00:00:33.670 align:middle line:84%
+in one form or another
+and just different issues
+
+00:00:33.670 --> 00:00:36.110 align:middle line:84%
+in online retail trying to
+understand the industry.
+
+00:00:36.110 --> 00:00:39.910 align:middle line:84%
+So the first paper I was going
+to talk about, Einav, Kuchler,
+
+00:00:39.910 --> 00:00:41.800 align:middle line:84%
+Levin, Sundaresan,
+Learning from Seller
+
+00:00:41.800 --> 00:00:43.600 align:middle line:90%
+Experiments in Online Markets.
+
+00:00:43.600 --> 00:00:47.980 align:middle line:90%
+This is a paper studying eBay.
+
+00:00:47.980 --> 00:00:52.570 align:middle line:84%
+And while eBay has been
+in a long run decline,
+
+00:00:52.570 --> 00:00:55.430 align:middle line:84%
+it's still an important way
+in which things get sold.
+
+00:00:55.430 --> 00:00:56.860 align:middle line:84%
+And I also just
+wanted to cover it
+
+00:00:56.860 --> 00:01:01.120 align:middle line:84%
+because I felt the
+methodology of the paper
+
+00:01:01.120 --> 00:01:04.690 align:middle line:84%
+is interesting as a way to
+attack problems and these ideas
+
+00:01:04.690 --> 00:01:08.470 align:middle line:84%
+that what they're talking about
+is an alternative to doing field
+
+00:01:08.470 --> 00:01:12.340 align:middle line:84%
+experiments or setting up
+agreements to run experiments
+
+00:01:12.340 --> 00:01:14.290 align:middle line:84%
+with online service
+providers is what they
+
+00:01:14.290 --> 00:01:17.870 align:middle line:90%
+call opportunistic experiments.
+
+00:01:17.870 --> 00:01:20.040 align:middle line:84%
+There are many, many
+businesses in this world.
+
+00:01:20.040 --> 00:01:22.830 align:middle line:84%
+Those businesses are trying
+to operate optimally.
+
+00:01:22.830 --> 00:01:25.170 align:middle line:84%
+They run lots of
+experiments themselves.
+
+00:01:25.170 --> 00:01:28.310 align:middle line:84%
+And so their idea
+is to take advantage
+
+00:01:28.310 --> 00:01:31.010 align:middle line:84%
+of all these experiments that
+sellers are running on eBay
+
+00:01:31.010 --> 00:01:32.430 align:middle line:90%
+and analyze those.
+
+00:01:32.430 --> 00:01:35.593 align:middle line:84%
+And obviously, you know, you
+get less controlled experiments
+
+00:01:35.593 --> 00:01:37.760 align:middle line:84%
+than if you were setting
+up the experiment yourself.
+
+00:01:37.760 --> 00:01:42.020 align:middle line:84%
+Each experiment is not ideal,
+but, you know, there's thousands
+
+00:01:42.020 --> 00:01:43.910 align:middle line:84%
+and thousands of not
+ideal experiments
+
+00:01:43.910 --> 00:01:48.320 align:middle line:84%
+may be more
+informative and cheaper
+
+00:01:48.320 --> 00:01:51.140 align:middle line:84%
+to run than just one
+experiment you design yourself.
+
+00:01:51.140 --> 00:01:52.970 align:middle line:84%
+So to start with, they
+note that, you know,
+
+00:01:52.970 --> 00:01:56.690 align:middle line:84%
+very few things on eBay
+are actually unique.
+
+00:01:56.690 --> 00:01:59.720 align:middle line:84%
+They said, you know, I guess
+interesting fact about eBay,
+
+00:01:59.720 --> 00:02:02.450 align:middle line:84%
+for about a half of the
+items that are sold on eBay,
+
+00:02:02.450 --> 00:02:04.730 align:middle line:84%
+you can find a nearly
+identical item sold
+
+00:02:04.730 --> 00:02:07.259 align:middle line:90%
+by exactly the same seller.
+
+00:02:07.259 --> 00:02:09.259 align:middle line:84%
+And so when they're talking
+about an experiment,
+
+00:02:09.259 --> 00:02:14.270 align:middle line:84%
+an experiment meaning you
+have exactly the same seller
+
+00:02:14.270 --> 00:02:17.210 align:middle line:84%
+selling a product with
+exactly the same listing
+
+00:02:17.210 --> 00:02:20.190 align:middle line:84%
+title listed in the same
+category and subtitle.
+
+00:02:20.190 --> 00:02:23.540 align:middle line:84%
+And they find 55 million
+seller experiments
+
+00:02:23.540 --> 00:02:27.680 align:middle line:84%
+involving a total of
+350 million listings.
+
+00:02:27.680 --> 00:02:30.473 align:middle line:84%
+For much of their
+analysis, they're
+
+00:02:30.473 --> 00:02:32.390 align:middle line:84%
+restricting attention
+to experiments that have
+
+00:02:32.390 --> 00:02:34.020 align:middle line:90%
+several different features.
+
+00:02:34.020 --> 00:02:35.970 align:middle line:84%
+There are at least
+two items auctioned.
+
+00:02:35.970 --> 00:02:38.885 align:middle line:84%
+There's also at least one
+successful posted price sale.
+
+00:02:38.885 --> 00:02:40.760 align:middle line:84%
+They want a posted price
+sale because they're
+
+00:02:40.760 --> 00:02:42.590 align:middle line:84%
+going to use that as
+a reference for what's
+
+00:02:42.590 --> 00:02:44.550 align:middle line:84%
+the market price of this
+if you just sell it.
+
+00:02:44.550 --> 00:02:48.000 align:middle line:90%
+So not through an auction.
+
+00:02:48.000 --> 00:02:49.580 align:middle line:84%
+And even with
+those restrictions,
+
+00:02:49.580 --> 00:02:53.910 align:middle line:84%
+they come up with 244,000
+experiments that have 7.6
+
+00:02:53.910 --> 00:02:55.440 align:middle line:90%
+million listings.
+
+00:02:55.440 --> 00:02:58.370 align:middle line:84%
+So the idea is just that
+eBay sellers are just
+
+00:02:58.370 --> 00:03:01.110 align:middle line:84%
+experimenting all the time
+with all kinds of things.
+
+00:03:01.110 --> 00:03:03.200 align:middle line:84%
+And this is something we
+can take advantage of.
+
+00:03:03.200 --> 00:03:09.350 align:middle line:84%
+The paper itself has multiple
+different sub papers discussing
+
+00:03:09.350 --> 00:03:10.320 align:middle line:90%
+what to do with this.
+
+00:03:10.320 --> 00:03:14.570 align:middle line:84%
+So one of the sub papers
+is how do "Buy It Now"
+
+00:03:14.570 --> 00:03:16.460 align:middle line:90%
+prices affect outcomes?
+
+00:03:16.460 --> 00:03:18.790 align:middle line:84%
+On eBay, if you've never
+been on an eBay auction,
+
+00:03:18.790 --> 00:03:22.030 align:middle line:84%
+it's like it's classic
+English ascending bid auction,
+
+00:03:22.030 --> 00:03:24.190 align:middle line:84%
+but there's also this
+option of just click
+
+00:03:24.190 --> 00:03:27.350 align:middle line:84%
+here to buy it for $125
+and end the auction.
+
+00:03:27.350 --> 00:03:28.900 align:middle line:84%
+And so one of the
+papers they do is
+
+00:03:28.900 --> 00:03:33.310 align:middle line:84%
+how does having a Buy It Now
+price affect the outcome?
+
+00:03:33.310 --> 00:03:36.230 align:middle line:84%
+Second is, how does shipping
+fees affect outcomes?
+
+00:03:36.230 --> 00:03:40.540 align:middle line:84%
+There's this interesting earlier
+paper by Hossain and Morgan
+
+00:03:40.540 --> 00:03:44.560 align:middle line:84%
+that argued that consumers
+are fairly naive in dealing
+
+00:03:44.560 --> 00:03:47.590 align:middle line:84%
+with shipping fees and that
+you make more money by having
+
+00:03:47.590 --> 00:03:52.430 align:middle line:84%
+good with $9.95 shipping than
+good with $5.95 shipping.
+
+00:03:52.430 --> 00:03:56.495 align:middle line:84%
+Just somehow you offer the same
+good, different shipping prices,
+
+00:03:56.495 --> 00:03:58.120 align:middle line:84%
+people somehow focus
+on the item price,
+
+00:03:58.120 --> 00:03:59.210 align:middle line:90%
+not on the shipping price.
+
+00:03:59.210 --> 00:04:00.918 align:middle line:84%
+And so the plus shipping
+and handling you
+
+00:04:00.918 --> 00:04:04.480 align:middle line:84%
+make more money selling with a
+high shipping and handling fee.
+
+00:04:04.480 --> 00:04:07.390 align:middle line:84%
+Anyway, they're going to
+do an experiment on that
+
+00:04:07.390 --> 00:04:09.545 align:middle line:84%
+or many sellers have
+done experiments on that.
+
+00:04:09.545 --> 00:04:10.920 align:middle line:84%
+And then they also
+have this sort
+
+00:04:10.920 --> 00:04:14.410 align:middle line:84%
+of third paper about how and
+why the reserve prices affect
+
+00:04:14.410 --> 00:04:15.500 align:middle line:90%
+revenues.
+
+00:04:15.500 --> 00:04:17.600 align:middle line:84%
+I'm just going to talk
+about the third one
+
+00:04:17.600 --> 00:04:20.269 align:middle line:84%
+because it feeds back to things
+I talked about in the auction
+
+00:04:20.269 --> 00:04:24.780 align:middle line:84%
+literature about optimal
+reserve prices and auctions.
+
+00:04:24.780 --> 00:04:27.330 align:middle line:84%
+OK, here's just their
+motivating figure
+
+00:04:27.330 --> 00:04:30.270 align:middle line:90%
+to explain eBay experiments.
+
+00:04:30.270 --> 00:04:34.710 align:middle line:84%
+Like, so they did a search
+for "TaylorMade driver."
+
+00:04:34.710 --> 00:04:38.155 align:middle line:84%
+TaylorMade is a brand of
+golf club manufacturer.
+
+00:04:38.155 --> 00:04:39.780 align:middle line:84%
+You do a search for
+"TaylorMade driver"
+
+00:04:39.780 --> 00:04:43.410 align:middle line:84%
+on eBay and you just see a
+screen like this just full
+
+00:04:43.410 --> 00:04:49.360 align:middle line:84%
+of people selling new
+and used golf clubs.
+
+00:04:49.360 --> 00:04:51.180 align:middle line:84%
+And it looks like
+there's just a zillion
+
+00:04:51.180 --> 00:04:53.260 align:middle line:84%
+different golf clubs
+out there on eBay.
+
+00:04:53.260 --> 00:04:56.160 align:middle line:84%
+But if you do a more
+specific search.
+
+00:04:56.160 --> 00:05:00.420 align:middle line:84%
+So for this specific search,
+they typed in "TaylorMade burner
+
+00:05:00.420 --> 00:05:05.700 align:middle line:84%
+09 driver 2009 golf
+club new quote 10RH."
+
+00:05:05.700 --> 00:05:07.890 align:middle line:84%
+And so you do this
+very specific search
+
+00:05:07.890 --> 00:05:09.240 align:middle line:90%
+and then what do you find?
+
+00:05:09.240 --> 00:05:11.520 align:middle line:84%
+You find that there
+is one seller who
+
+00:05:11.520 --> 00:05:15.180 align:middle line:84%
+uses that as his title when he
+sells TaylorMade drivers online.
+
+00:05:15.180 --> 00:05:18.000 align:middle line:84%
+And so all the searches say
+"TaylorMade burner 09 driver
+
+00:05:18.000 --> 00:05:21.990 align:middle line:84%
+2009 golf club new 10.5
+degrees right hand."
+
+00:05:21.990 --> 00:05:24.460 align:middle line:84%
+And what you'll
+notice in this thing
+
+00:05:24.460 --> 00:05:27.080 align:middle line:84%
+is that the seller has
+these many, many auctions.
+
+00:05:27.080 --> 00:05:29.600 align:middle line:84%
+This one is closing in
+3 hours and 21 minutes.
+
+00:05:29.600 --> 00:05:31.850 align:middle line:84%
+This one closes in 3
+hours and 22 minutes.
+
+00:05:31.850 --> 00:05:34.070 align:middle line:84%
+This one closes in 6
+hours and 9 minutes.
+
+00:05:34.070 --> 00:05:35.325 align:middle line:90%
+6 hours and 9 minutes.
+
+00:05:35.325 --> 00:05:35.950 align:middle line:90%
+8 hours and 59.
+
+00:05:35.950 --> 00:05:38.380 align:middle line:90%
+9, 41.
+
+00:05:38.380 --> 00:05:41.020 align:middle line:84%
+So this seller is selling
+auctioning off eight
+
+00:05:41.020 --> 00:05:43.010 align:middle line:90%
+of these in the next 12 hours.
+
+00:05:43.010 --> 00:05:46.030 align:middle line:84%
+And you can see this seller
+is conducting an experiment.
+
+00:05:46.030 --> 00:05:49.070 align:middle line:84%
+This golf club here-- maybe
+you can't see it, I can.
+
+00:05:49.070 --> 00:05:51.020 align:middle line:90%
+This one has $7.99 shipping.
+
+00:05:51.020 --> 00:05:53.410 align:middle line:90%
+This one has $9.99 shipping.
+
+00:05:53.410 --> 00:05:55.190 align:middle line:90%
+This one has $9.99 shipping.
+
+00:05:55.190 --> 00:05:56.750 align:middle line:90%
+This one has $7.99 shipping.
+
+00:05:56.750 --> 00:06:00.230 align:middle line:84%
+So here it's clear these
+have Buy It Now prices.
+
+00:06:00.230 --> 00:06:02.740 align:middle line:90%
+This is just $125 plus $9.99.
+
+00:06:02.740 --> 00:06:05.240 align:middle line:90%
+This $125 plus $7.99.
+
+00:06:05.240 --> 00:06:07.180 align:middle line:84%
+If anyone saw
+these two listings,
+
+00:06:07.180 --> 00:06:09.380 align:middle line:84%
+obviously no one
+would buy this one.
+
+00:06:09.380 --> 00:06:12.290 align:middle line:84%
+But they're just mixed
+in with that big list.
+
+00:06:12.290 --> 00:06:14.240 align:middle line:84%
+People may only see
+one versus the other.
+
+00:06:14.240 --> 00:06:18.160 align:middle line:84%
+It's unclear what's
+going to happen.
+
+00:06:18.160 --> 00:06:21.170 align:middle line:84%
+Anyway, so this is one
+seller's experiment.
+
+00:06:21.170 --> 00:06:23.650 align:middle line:84%
+And their idea is that
+there are many, many,
+
+00:06:23.650 --> 00:06:25.160 align:middle line:84%
+many of these
+experiments out there.
+
+00:06:25.160 --> 00:06:32.475 align:middle line:84%
+But this is one of the
+244,000 they're analyzing.
+
+00:06:32.475 --> 00:06:34.850 align:middle line:84%
+AUDIENCE: What's the logic
+from the seller's perspective?
+
+00:06:34.850 --> 00:06:36.880 align:middle line:90%
+Like, where does it come from?
+
+00:06:36.880 --> 00:06:40.510 align:middle line:84%
+GLENN ELLISON: [INAUDIBLE] well,
+so I guess the seller probably
+
+00:06:40.510 --> 00:06:44.200 align:middle line:84%
+doesn't know whether a $7.99
+shipping or a $9.99 shipping
+
+00:06:44.200 --> 00:06:46.420 align:middle line:90%
+produces better profits.
+
+00:06:46.420 --> 00:06:48.698 align:middle line:84%
+So they're probably just
+auctioning both of them off,
+
+00:06:48.698 --> 00:06:50.740 align:middle line:84%
+and they may have been
+doing this for a few weeks
+
+00:06:50.740 --> 00:06:54.850 align:middle line:84%
+and then stopped and settled
+on whichever one was better.
+
+00:06:54.850 --> 00:06:57.860 align:middle line:84%
+Certainly this Buy It
+Now versus the auction,
+
+00:06:57.860 --> 00:07:00.770 align:middle line:84%
+they're probably some people
+who prefer one to the other.
+
+00:07:00.770 --> 00:07:02.520 align:middle line:84%
+And so you probably
+sell both ways.
+
+00:07:02.520 --> 00:07:07.070 align:middle line:90%
+
+
+00:07:07.070 --> 00:07:09.290 align:middle line:84%
+But, you know, something
+you see in their data
+
+00:07:09.290 --> 00:07:12.365 align:middle line:84%
+is you see people
+conducting auctions
+
+00:07:12.365 --> 00:07:14.990 align:middle line:84%
+where the starting price in the
+auction is above the Buy It Now
+
+00:07:14.990 --> 00:07:16.400 align:middle line:90%
+price.
+
+00:07:16.400 --> 00:07:19.400 align:middle line:84%
+So it does seem like there are
+people who just see an auction
+
+00:07:19.400 --> 00:07:21.920 align:middle line:84%
+and decide to enter it and other
+people who just are looking
+
+00:07:21.920 --> 00:07:24.470 align:middle line:84%
+for a fixed price and buy it
+and not really paying attention
+
+00:07:24.470 --> 00:07:25.450 align:middle line:90%
+to the opposite ones.
+
+00:07:25.450 --> 00:07:33.570 align:middle line:90%
+
+
+00:07:33.570 --> 00:07:37.560 align:middle line:84%
+OK, anyway, so how do we think
+about effects of reserve prices
+
+00:07:37.560 --> 00:07:39.630 align:middle line:90%
+in IPV auctions?
+
+00:07:39.630 --> 00:07:44.568 align:middle line:84%
+If you remember basic
+theory of reserve
+
+00:07:44.568 --> 00:07:46.360 align:middle line:84%
+prices in an English
+auction is the reserve
+
+00:07:46.360 --> 00:07:49.430 align:middle line:84%
+price in English auction is the
+monopoly price to one bidder.
+
+00:07:49.430 --> 00:07:52.410 align:middle line:84%
+And the logic was just,
+you're selling this good,
+
+00:07:52.410 --> 00:07:54.160 align:middle line:84%
+once you found out
+what the second highest
+
+00:07:54.160 --> 00:07:58.240 align:middle line:84%
+value is, the willingness to
+pay of the high value bidder
+
+00:07:58.240 --> 00:08:00.070 align:middle line:84%
+is just the
+distribution truncated
+
+00:08:00.070 --> 00:08:02.630 align:middle line:84%
+at the point at which you know
+their value is at least that.
+
+00:08:02.630 --> 00:08:05.620 align:middle line:84%
+And so you're just monopoly
+pricing on the single bidder
+
+00:08:05.620 --> 00:08:07.210 align:middle line:90%
+distribution.
+
+00:08:07.210 --> 00:08:09.872 align:middle line:84%
+And so it's just the
+optimal reserve price
+
+00:08:09.872 --> 00:08:11.080 align:middle line:90%
+is the monopoly price, right?
+
+00:08:11.080 --> 00:08:16.460 align:middle line:84%
+You have this
+distribution of values.
+
+00:08:16.460 --> 00:08:19.060 align:middle line:84%
+Once everyone else
+has dropped out here,
+
+00:08:19.060 --> 00:08:21.460 align:middle line:84%
+all you know is
+that you're selling
+
+00:08:21.460 --> 00:08:27.420 align:middle line:84%
+to someone whose draw is from
+this is the second highest bid.
+
+00:08:27.420 --> 00:08:30.380 align:middle line:90%
+
+
+00:08:30.380 --> 00:08:31.809 align:middle line:90%
+Nope.
+
+00:08:31.809 --> 00:08:32.309 align:middle line:90%
+OK.
+
+00:08:32.309 --> 00:08:34.190 align:middle line:84%
+Anyway, so you have
+this distribution
+
+00:08:34.190 --> 00:08:35.539 align:middle line:90%
+of the second highest bid.
+
+00:08:35.539 --> 00:08:36.559 align:middle line:90%
+You're pricing to that.
+
+00:08:36.559 --> 00:08:39.860 align:middle line:84%
+You set the monopoly price
+on that demand curve.
+
+00:08:39.860 --> 00:08:42.710 align:middle line:84%
+They also note that if we want
+to think about this empirically,
+
+00:08:42.710 --> 00:08:46.010 align:middle line:84%
+how does a reserve
+price effect--
+
+00:08:46.010 --> 00:08:47.670 align:middle line:84%
+what's the optimal
+reserve price?
+
+00:08:47.670 --> 00:08:49.760 align:middle line:84%
+Here's another good
+way to think about--
+
+00:08:49.760 --> 00:08:53.660 align:middle line:84%
+so this is density F of v.
+If you want to think about
+
+00:08:53.660 --> 00:08:56.180 align:middle line:84%
+how does a reserve price
+affect things, what I can do
+
+00:08:56.180 --> 00:08:57.890 align:middle line:84%
+is just imagine an
+experiment where
+
+00:08:57.890 --> 00:09:01.040 align:middle line:84%
+the seller has used many,
+many different reserve prices.
+
+00:09:01.040 --> 00:09:03.140 align:middle line:84%
+Like, they've
+started the bidding
+
+00:09:03.140 --> 00:09:06.680 align:middle line:90%
+at $1, $5, $10, 20, 30, 40, 50.
+
+00:09:06.680 --> 00:09:09.800 align:middle line:84%
+For every reserve
+price, you can just
+
+00:09:09.800 --> 00:09:14.090 align:middle line:84%
+draw a graph, which
+is, if I use a reserve
+
+00:09:14.090 --> 00:09:20.600 align:middle line:84%
+price of 5% of the
+expected sale price,
+
+00:09:20.600 --> 00:09:25.010 align:middle line:84%
+what's the eventual price
+at which I sell the good,
+
+00:09:25.010 --> 00:09:29.310 align:middle line:90%
+and what's the--
+
+00:09:29.310 --> 00:09:31.500 align:middle line:84%
+if I use a very
+low reserve price,
+
+00:09:31.500 --> 00:09:35.760 align:middle line:84%
+I sell the good with
+probability 0.9 or 0.95,
+
+00:09:35.760 --> 00:09:38.440 align:middle line:84%
+but I get a fairly
+low average price.
+
+00:09:38.440 --> 00:09:41.550 align:middle line:84%
+And then if I sell it
+with a $20 reserve,
+
+00:09:41.550 --> 00:09:44.550 align:middle line:84%
+maybe I sell the good
+with probability 0.8
+
+00:09:44.550 --> 00:09:46.600 align:middle line:84%
+and I get a higher
+average price.
+
+00:09:46.600 --> 00:09:48.720 align:middle line:84%
+And if I sell it
+with a reserve that's
+
+00:09:48.720 --> 00:09:51.820 align:middle line:84%
+120% of the average
+price for the good,
+
+00:09:51.820 --> 00:09:54.450 align:middle line:84%
+maybe I sell it with just
+some very small probability,
+
+00:09:54.450 --> 00:09:56.623 align:middle line:84%
+but I do get a very
+high price of selling.
+
+00:09:56.623 --> 00:09:59.040 align:middle line:84%
+So what you can basically do
+is just look at every reserve
+
+00:09:59.040 --> 00:10:01.560 align:middle line:84%
+price in the data
+and figure out what's
+
+00:10:01.560 --> 00:10:03.540 align:middle line:84%
+the probability
+that the good sells
+
+00:10:03.540 --> 00:10:06.820 align:middle line:84%
+and what's the expected price
+conditional on its selling,
+
+00:10:06.820 --> 00:10:09.972 align:middle line:84%
+and that's basically
+just your demand curve.
+
+00:10:09.972 --> 00:10:11.430 align:middle line:84%
+You can view that
+as a demand curve
+
+00:10:11.430 --> 00:10:13.930 align:middle line:84%
+and you're just trying to
+monopoly price on that curve.
+
+00:10:13.930 --> 00:10:18.660 align:middle line:84%
+So that's a second way to think
+about optimal reserve pricing is
+
+00:10:18.660 --> 00:10:21.360 align:middle line:84%
+just draw this demand
+curve like object
+
+00:10:21.360 --> 00:10:24.417 align:middle line:84%
+and think about what would be
+the monopoly price on that.
+
+00:10:24.417 --> 00:10:26.250 align:middle line:84%
+And that would be the
+way to figure out what
+
+00:10:26.250 --> 00:10:28.420 align:middle line:90%
+the optimal reserve price is.
+
+00:10:28.420 --> 00:10:30.000 align:middle line:84%
+So that would be
+an experimental way
+
+00:10:30.000 --> 00:10:32.910 align:middle line:84%
+to figure out my optimal reserve
+price without, you know--
+
+00:10:32.910 --> 00:10:34.420 align:middle line:84%
+theoretically you
+want to just say,
+
+00:10:34.420 --> 00:10:35.970 align:middle line:84%
+what's the distribution
+from which the values are
+
+00:10:35.970 --> 00:10:36.630 align:middle line:90%
+being drawn.
+
+00:10:36.630 --> 00:10:38.490 align:middle line:84%
+But without thinking about what
+the distribution from which
+
+00:10:38.490 --> 00:10:41.130 align:middle line:84%
+values are being drawn, you
+could just make this curve
+
+00:10:41.130 --> 00:10:44.880 align:middle line:90%
+monopoly price relative to it.
+
+00:10:44.880 --> 00:10:46.161 align:middle line:90%
+OK.
+
+00:10:46.161 --> 00:10:49.050 align:middle line:84%
+You know, several reasons why
+this simple theory may not
+
+00:10:49.050 --> 00:10:50.760 align:middle line:90%
+work in practice.
+
+00:10:50.760 --> 00:10:52.540 align:middle line:90%
+One is entry costs.
+
+00:10:52.540 --> 00:10:54.540 align:middle line:84%
+If you imagine there's
+some cost to a bidder
+
+00:10:54.540 --> 00:10:58.740 align:middle line:84%
+of starting to bid in
+an auction and examining
+
+00:10:58.740 --> 00:10:59.940 align:middle line:90%
+the good in detail.
+
+00:10:59.940 --> 00:11:01.710 align:middle line:84%
+If there's a low
+price, they may be
+
+00:11:01.710 --> 00:11:03.190 align:middle line:90%
+willing to pay the entry cost.
+
+00:11:03.190 --> 00:11:05.340 align:middle line:84%
+If they see that the
+reserve price is $110,
+
+00:11:05.340 --> 00:11:07.320 align:middle line:84%
+they may not bother to
+read all the fine print
+
+00:11:07.320 --> 00:11:10.320 align:middle line:90%
+and enter that auction.
+
+00:11:10.320 --> 00:11:12.700 align:middle line:84%
+There could be some kind
+of common value component.
+
+00:11:12.700 --> 00:11:16.200 align:middle line:84%
+This theory was, once I
+know everybody else's bid,
+
+00:11:16.200 --> 00:11:17.760 align:middle line:90%
+my bid is unchanged.
+
+00:11:17.760 --> 00:11:19.720 align:middle line:84%
+There's common values,
+the theory changes.
+
+00:11:19.720 --> 00:11:22.470 align:middle line:84%
+And then they also note
+that there could be--
+
+00:11:22.470 --> 00:11:26.130 align:middle line:84%
+speaking of this theory and
+why this theory may not work.
+
+00:11:26.130 --> 00:11:29.590 align:middle line:84%
+You could also have behavioral
+preferences, like loss aversion.
+
+00:11:29.590 --> 00:11:33.270 align:middle line:84%
+If you imagine the loss
+aversion is always like,
+
+00:11:33.270 --> 00:11:35.208 align:middle line:84%
+I feel bad losing
+something that I have.
+
+00:11:35.208 --> 00:11:37.500 align:middle line:84%
+If you start the bidding at
+a very low price and people
+
+00:11:37.500 --> 00:11:39.480 align:middle line:84%
+get used to the idea of
+owning this fancy golf
+
+00:11:39.480 --> 00:11:41.585 align:middle line:84%
+club because they see
+it being bid for $20,
+
+00:11:41.585 --> 00:11:42.960 align:middle line:84%
+once they've got
+used to the fact
+
+00:11:42.960 --> 00:11:45.670 align:middle line:84%
+that they have this
+fancy golf club,
+
+00:11:45.670 --> 00:11:49.293 align:middle line:84%
+then they may feel loss aversion
+if they don't win the golf club.
+
+00:11:49.293 --> 00:11:51.460 align:middle line:84%
+You might, by getting people
+tied up in the bidding,
+
+00:11:51.460 --> 00:11:53.252 align:middle line:84%
+they may get used to
+the thought of winning
+
+00:11:53.252 --> 00:11:56.440 align:middle line:84%
+and then they may
+bid more in the end.
+
+00:11:56.440 --> 00:12:01.960 align:middle line:84%
+Anyway, to examine this, what
+they do is they find a data set
+
+00:12:01.960 --> 00:12:04.450 align:middle line:84%
+where they found
+19,000 experiments,
+
+00:12:04.450 --> 00:12:07.390 align:middle line:84%
+where there are
+several features.
+
+00:12:07.390 --> 00:12:10.930 align:middle line:84%
+One is there's variation
+in the start price,
+
+00:12:10.930 --> 00:12:13.580 align:middle line:84%
+there's free shipping, which
+just simplifies things.
+
+00:12:13.580 --> 00:12:16.340 align:middle line:84%
+There's no secret reserve
+price, no Buy It Now auction.
+
+00:12:16.340 --> 00:12:20.770 align:middle line:84%
+So these are just straight,
+plain vanilla auctions
+
+00:12:20.770 --> 00:12:23.050 align:middle line:90%
+of a good, many different times.
+
+00:12:23.050 --> 00:12:30.570 align:middle line:84%
+And so about 25
+listings per experiment.
+
+00:12:30.570 --> 00:12:35.280 align:middle line:84%
+So again, these
+are just, you know,
+
+00:12:35.280 --> 00:12:39.910 align:middle line:84%
+sellers experimenting with,
+if I'm selling $125 golf club,
+
+00:12:39.910 --> 00:12:43.135 align:middle line:84%
+should I start the bidding
+at $5, or $100, or 50,
+
+00:12:43.135 --> 00:12:44.135 align:middle line:90%
+or something in between?
+
+00:12:44.135 --> 00:12:46.640 align:middle line:90%
+
+
+00:12:46.640 --> 00:12:48.500 align:middle line:84%
+Figure 5 of the paper
+shows that, yes,
+
+00:12:48.500 --> 00:12:50.640 align:middle line:90%
+sellers are doing this a lot.
+
+00:12:50.640 --> 00:12:53.000 align:middle line:84%
+So let's look at a typical
+category like goods
+
+00:12:53.000 --> 00:12:55.610 align:middle line:90%
+that cost between $30 and $100.
+
+00:12:55.610 --> 00:12:58.572 align:middle line:84%
+And you can see goods
+where that cost,
+
+00:12:58.572 --> 00:13:00.530 align:middle line:84%
+this is like the average
+price at which they're
+
+00:13:00.530 --> 00:13:04.160 align:middle line:84%
+sold when they sell them
+through just a fixed price sale.
+
+00:13:04.160 --> 00:13:07.190 align:middle line:84%
+And you can see goods
+that sell for $30 to $100,
+
+00:13:07.190 --> 00:13:11.990 align:middle line:84%
+20% of the sellers start them
+out at 0 in these experiments
+
+00:13:11.990 --> 00:13:17.390 align:middle line:84%
+and then 37% start them
+out at between 85 to 100%
+
+00:13:17.390 --> 00:13:19.520 align:middle line:90%
+of the average fixed price sale.
+
+00:13:19.520 --> 00:13:21.870 align:middle line:90%
+17% choose 60 to 80%.
+
+00:13:21.870 --> 00:13:25.490 align:middle line:84%
+13% are actually starting
+them off above the average
+
+00:13:25.490 --> 00:13:28.080 align:middle line:84%
+Buy It Now average
+fixed price sales.
+
+00:13:28.080 --> 00:13:30.780 align:middle line:84%
+But we get this sort of
+bimodal distribution.
+
+00:13:30.780 --> 00:13:33.513 align:middle line:84%
+Notably, there are very few
+sellers starting out in here.
+
+00:13:33.513 --> 00:13:35.180 align:middle line:84%
+It seems like if
+you're going to go low,
+
+00:13:35.180 --> 00:13:37.100 align:middle line:84%
+you just go all the
+way down to the bottom
+
+00:13:37.100 --> 00:13:40.620 align:middle line:90%
+and start at almost 0.
+
+00:13:40.620 --> 00:13:44.380 align:middle line:84%
+And then there's with-- a lot
+of within experiment variation.
+
+00:13:44.380 --> 00:13:48.270 align:middle line:84%
+So if you look at auctions
+in which their sellers are
+
+00:13:48.270 --> 00:13:50.950 align:middle line:84%
+sometimes selling
+it at less than 5%,
+
+00:13:50.950 --> 00:13:52.440 align:middle line:84%
+those same sellers
+were sometimes
+
+00:13:52.440 --> 00:13:56.280 align:middle line:84%
+selling it at less than 5% are
+also sometimes selling 5 to 45%,
+
+00:13:56.280 --> 00:14:01.800 align:middle line:84%
+45 to 85%, 85 to 100%, 100
+to 120%, greater than 120%.
+
+00:14:01.800 --> 00:14:03.630 align:middle line:84%
+So there are just
+many experiments
+
+00:14:03.630 --> 00:14:07.450 align:middle line:84%
+where sellers are trying out
+the whole range themselves.
+
+00:14:07.450 --> 00:14:10.412 align:middle line:84%
+This is our experimental
+paper that we
+
+00:14:10.412 --> 00:14:12.120 align:middle line:84%
+get to run without
+acting to actually pay
+
+00:14:12.120 --> 00:14:13.026 align:middle line:90%
+for the experiments.
+
+00:14:13.026 --> 00:14:17.040 align:middle line:90%
+
+
+00:14:17.040 --> 00:14:17.540 align:middle line:90%
+OK.
+
+00:14:17.540 --> 00:14:23.980 align:middle line:84%
+So does the standard
+auction demand theory work?
+
+00:14:23.980 --> 00:14:26.870 align:middle line:90%
+And the answer is no.
+
+00:14:26.870 --> 00:14:28.880 align:middle line:84%
+There's one interesting
+feature, which
+
+00:14:28.880 --> 00:14:32.660 align:middle line:84%
+is the demand curve turns
+up at very low prices.
+
+00:14:32.660 --> 00:14:35.060 align:middle line:84%
+So remember, I drew
+this curve for you,
+
+00:14:35.060 --> 00:14:38.975 align:middle line:84%
+saying, if I start
+the good at only $5,
+
+00:14:38.975 --> 00:14:40.100 align:middle line:90%
+if I start the good at $1--
+
+00:14:40.100 --> 00:14:43.280 align:middle line:90%
+
+
+00:14:43.280 --> 00:14:45.140 align:middle line:84%
+if I start the good
+at $1, I sell it
+
+00:14:45.140 --> 00:14:46.585 align:middle line:84%
+almost entirely
+for sure, but I'm
+
+00:14:46.585 --> 00:14:48.710 align:middle line:84%
+going to have a lower
+average price than if I start
+
+00:14:48.710 --> 00:14:50.600 align:middle line:90%
+the good at a higher price.
+
+00:14:50.600 --> 00:14:54.350 align:middle line:84%
+What they find is that the
+curve doesn't look like this.
+
+00:14:54.350 --> 00:14:56.200 align:middle line:90%
+The curve looks like this.
+
+00:14:56.200 --> 00:15:01.350 align:middle line:90%
+
+
+00:15:01.350 --> 00:15:05.130 align:middle line:84%
+So as I start at a lower
+and lower price, not
+
+00:15:05.130 --> 00:15:08.400 align:middle line:84%
+only do I sell with
+a higher probability,
+
+00:15:08.400 --> 00:15:11.970 align:middle line:84%
+I sell at a higher price,
+conditional on selling.
+
+00:15:11.970 --> 00:15:15.018 align:middle line:84%
+So I'm up here, I'm
+selling at 90% probability
+
+00:15:15.018 --> 00:15:16.560 align:middle line:84%
+and I'm getting a
+higher price than I
+
+00:15:16.560 --> 00:15:18.268 align:middle line:84%
+would get if I chose
+a reserve price that
+
+00:15:18.268 --> 00:15:20.670 align:middle line:90%
+only sold with 70% probability.
+
+00:15:20.670 --> 00:15:23.700 align:middle line:84%
+So the demand curve
+turns up, suggesting
+
+00:15:23.700 --> 00:15:28.510 align:middle line:84%
+that I put the $100 item out
+there, start the bidding at $1,
+
+00:15:28.510 --> 00:15:30.360 align:middle line:90%
+lots of people see it at $1.
+
+00:15:30.360 --> 00:15:32.040 align:middle line:84%
+10 hours before the
+auction is over,
+
+00:15:32.040 --> 00:15:33.970 align:middle line:84%
+they all start
+following the auction.
+
+00:15:33.970 --> 00:15:35.640 align:middle line:90%
+They all start bidding.
+
+00:15:35.640 --> 00:15:40.840 align:middle line:84%
+I get more entry than I would if
+I started at it at $20 instead.
+
+00:15:40.840 --> 00:15:43.650 align:middle line:84%
+So the curve, instead
+of looking like this,
+
+00:15:43.650 --> 00:15:44.930 align:middle line:90%
+looks like this instead.
+
+00:15:44.930 --> 00:15:50.940 align:middle line:90%
+
+
+00:15:50.940 --> 00:15:52.860 align:middle line:84%
+Obviously, how do we
+do monopoly pricing?
+
+00:15:52.860 --> 00:15:54.930 align:middle line:84%
+Like, the way to think
+about monopoly pricing
+
+00:15:54.930 --> 00:15:57.220 align:middle line:84%
+is you do marginal revenue
+equals marginal cost.
+
+00:15:57.220 --> 00:15:59.580 align:middle line:84%
+So they take this
+demand curve, they
+
+00:15:59.580 --> 00:16:01.830 align:middle line:84%
+construct the marginal
+revenue curve,
+
+00:16:01.830 --> 00:16:07.260 align:middle line:84%
+and the marginal revenue
+curve also turns up.
+
+00:16:07.260 --> 00:16:10.530 align:middle line:84%
+Like, we're used to marginal
+revenue is downward sloping.
+
+00:16:10.530 --> 00:16:12.480 align:middle line:90%
+You draw marginal cost across.
+
+00:16:12.480 --> 00:16:14.530 align:middle line:84%
+Where marginal revenue
+hits marginal cost,
+
+00:16:14.530 --> 00:16:17.620 align:middle line:90%
+that's the monopoly price.
+
+00:16:17.620 --> 00:16:21.090 align:middle line:84%
+What do you do when
+marginal revenue turns up?
+
+00:16:21.090 --> 00:16:26.760 align:middle line:84%
+So if this is my
+marginal revenue curve,
+
+00:16:26.760 --> 00:16:28.290 align:middle line:90%
+my marginal cost is flat.
+
+00:16:28.290 --> 00:16:30.870 align:middle line:84%
+That's my normal
+monopoly pricing.
+
+00:16:30.870 --> 00:16:34.650 align:middle line:84%
+What do I do if marginal
+revenue turns up?
+
+00:16:34.650 --> 00:16:39.060 align:middle line:84%
+Then I can draw the line across
+where marginal revenue equals
+
+00:16:39.060 --> 00:16:40.620 align:middle line:90%
+marginal cost.
+
+00:16:40.620 --> 00:16:44.800 align:middle line:84%
+This is a locally
+optimal monopoly price.
+
+00:16:44.800 --> 00:16:49.640 align:middle line:84%
+But the solution is either going
+to be this point or this point.
+
+00:16:49.640 --> 00:16:51.600 align:middle line:84%
+You know, it doesn't
+have to intersect again.
+
+00:16:51.600 --> 00:16:56.010 align:middle line:84%
+It could be that you get a,
+here your revenue's increasing,
+
+00:16:56.010 --> 00:16:58.640 align:middle line:84%
+so it may be that you
+want to price there.
+
+00:16:58.640 --> 00:17:00.560 align:middle line:90%
+You may want to price here.
+
+00:17:00.560 --> 00:17:02.300 align:middle line:84%
+That may be the
+global optimum or this
+
+00:17:02.300 --> 00:17:03.410 align:middle line:84%
+could be the global
+optimum, but you're
+
+00:17:03.410 --> 00:17:04.618 align:middle line:90%
+going to do one or the other.
+
+00:17:04.618 --> 00:17:08.089 align:middle line:90%
+
+
+00:17:08.089 --> 00:17:08.630 align:middle line:90%
+Anyway.
+
+00:17:08.630 --> 00:17:10.669 align:middle line:84%
+And so that's, I guess,
+in some sense the--
+
+00:17:10.669 --> 00:17:13.900 align:middle line:90%
+
+
+00:17:13.900 --> 00:17:17.150 align:middle line:84%
+this is how they explain
+what's going on in the data.
+
+00:17:17.150 --> 00:17:19.930 align:middle line:84%
+If you remember in the data,
+there was a lot of firms--
+
+00:17:19.930 --> 00:17:20.920 align:middle line:90%
+figure 5.
+
+00:17:20.920 --> 00:17:25.630 align:middle line:84%
+Like, there were a lot of firms
+charging fairly high reserve
+
+00:17:25.630 --> 00:17:28.030 align:middle line:84%
+prices and then some firms
+charging very low reserve
+
+00:17:28.030 --> 00:17:29.090 align:middle line:90%
+prices.
+
+00:17:29.090 --> 00:17:31.690 align:middle line:84%
+And so their thought is that
+what's going on in the data
+
+00:17:31.690 --> 00:17:34.840 align:middle line:84%
+is probably something like
+this, where the marginal cost is
+
+00:17:34.840 --> 00:17:35.960 align:middle line:90%
+pretty high.
+
+00:17:35.960 --> 00:17:40.210 align:middle line:84%
+So you either set a quite
+high reserve price and this
+
+00:17:40.210 --> 00:17:43.100 align:middle line:84%
+is the optimum or you
+set this right end point.
+
+00:17:43.100 --> 00:17:45.360 align:middle line:84%
+And for different sellers,
+different ones are optimal.
+
+00:17:45.360 --> 00:17:50.480 align:middle line:90%
+
+
+00:17:50.480 --> 00:17:52.400 align:middle line:84%
+And in general, if your
+marginal cost is high,
+
+00:17:52.400 --> 00:17:54.400 align:middle line:84%
+you're going to just set
+the high reserve price.
+
+00:17:54.400 --> 00:17:56.093 align:middle line:84%
+Your marginal cost
+is low, you're
+
+00:17:56.093 --> 00:17:57.760 align:middle line:84%
+going to be setting
+the right end point.
+
+00:17:57.760 --> 00:18:00.152 align:middle line:90%
+
+
+00:18:00.152 --> 00:18:02.610 align:middle line:84%
+You know, and then the paper
+tries to do other predictions.
+
+00:18:02.610 --> 00:18:07.430 align:middle line:84%
+It tries to have a test of
+upper tail hypothesis of,
+
+00:18:07.430 --> 00:18:11.150 align:middle line:84%
+does the upper tail of
+the price distribution
+
+00:18:11.150 --> 00:18:14.850 align:middle line:84%
+look the same regardless of
+what reserve price you use?
+
+00:18:14.850 --> 00:18:17.220 align:middle line:84%
+And that test only
+works so well.
+
+00:18:17.220 --> 00:18:21.020 align:middle line:84%
+So it does seem like
+the classic theory,
+
+00:18:21.020 --> 00:18:24.140 align:middle line:84%
+this sort of upper
+tail distribution
+
+00:18:24.140 --> 00:18:25.610 align:middle line:84%
+is just what you
+get by truncating
+
+00:18:25.610 --> 00:18:27.470 align:middle line:90%
+isn't quite right here.
+
+00:18:27.470 --> 00:18:29.480 align:middle line:90%
+And it does seem to enter--
+
+00:18:29.480 --> 00:18:32.480 align:middle line:84%
+it's entry costs are
+important for online auctions,
+
+00:18:32.480 --> 00:18:36.730 align:middle line:84%
+I think is the
+main message there.
+
+00:18:36.730 --> 00:18:38.090 align:middle line:90%
+OK, questions?
+
+00:18:38.090 --> 00:18:43.010 align:middle line:90%
+
+
+00:18:43.010 --> 00:18:43.510 align:middle line:90%
+Yeah.
+
+00:18:43.510 --> 00:18:48.150 align:middle line:84%
+And obviously, I think
+that's something, you know--
+
+00:18:48.150 --> 00:18:50.850 align:middle line:90%
+that work was done inside eBay.
+
+00:18:50.850 --> 00:18:52.620 align:middle line:84%
+For a long time,
+eBay actually had
+
+00:18:52.620 --> 00:18:56.598 align:middle line:84%
+this sort of very, very
+open policy to academics.
+
+00:18:56.598 --> 00:18:58.140 align:middle line:84%
+And we actually had
+several students,
+
+00:18:58.140 --> 00:18:59.940 align:middle line:84%
+like, after they
+finished their PhDs here,
+
+00:18:59.940 --> 00:19:02.760 align:middle line:84%
+go to a postdoc for a year and
+stay at eBay because eBay would
+
+00:19:02.760 --> 00:19:06.120 align:middle line:84%
+let you sit there and
+operate inside the company
+
+00:19:06.120 --> 00:19:08.670 align:middle line:84%
+and do all kinds of stuff
+with their full data set.
+
+00:19:08.670 --> 00:19:12.820 align:middle line:84%
+That seems to have faded
+away three or four years ago.
+
+00:19:12.820 --> 00:19:14.820 align:middle line:84%
+But obviously one could
+still scrape eBay and do
+
+00:19:14.820 --> 00:19:17.430 align:middle line:90%
+the same kinds of things.
+
+00:19:17.430 --> 00:19:21.732 align:middle line:84%
+OK, so then the second
+topic that I guess
+
+00:19:21.732 --> 00:19:23.190 align:middle line:84%
+is common to the
+rest of the papers
+
+00:19:23.190 --> 00:19:26.370 align:middle line:84%
+I'm going to talk about
+is just understanding
+
+00:19:26.370 --> 00:19:30.990 align:middle line:84%
+how online retail works
+and why it's successful.
+
+00:19:30.990 --> 00:19:34.980 align:middle line:84%
+You know, if you read people
+writing about E-commerce
+
+00:19:34.980 --> 00:19:39.060 align:middle line:84%
+early in the internet era,
+there was this question of,
+
+00:19:39.060 --> 00:19:42.750 align:middle line:84%
+is online retail ever going to
+really take off and displace
+
+00:19:42.750 --> 00:19:44.410 align:middle line:90%
+traditional retail?
+
+00:19:44.410 --> 00:19:47.520 align:middle line:84%
+And the biggest argument
+against online retail taking off
+
+00:19:47.520 --> 00:19:51.030 align:middle line:84%
+was that it's just
+much more expensive.
+
+00:19:51.030 --> 00:19:54.660 align:middle line:84%
+You know, like, if you look
+at the long history of retail
+
+00:19:54.660 --> 00:19:59.460 align:middle line:84%
+in America, you
+know, in the 1800s,
+
+00:19:59.460 --> 00:20:02.010 align:middle line:84%
+people shopped in
+department stores.
+
+00:20:02.010 --> 00:20:06.270 align:middle line:84%
+And then there was this
+golden era of catalog retail
+
+00:20:06.270 --> 00:20:09.690 align:middle line:84%
+where, like the Sears
+catalog in some sense
+
+00:20:09.690 --> 00:20:12.780 align:middle line:84%
+brought products to-- you
+know, they were only formally
+
+00:20:12.780 --> 00:20:14.770 align:middle line:84%
+available in cities
+to all of America.
+
+00:20:14.770 --> 00:20:16.890 align:middle line:84%
+And they had like this
+phone book, you know,
+
+00:20:16.890 --> 00:20:20.260 align:middle line:84%
+1,000-page thick catalog
+that they would mail you.
+
+00:20:20.260 --> 00:20:22.830 align:middle line:84%
+You could buy anything
+from the Sears catalog.
+
+00:20:22.830 --> 00:20:26.550 align:middle line:84%
+You know, the Sears catalog
+just took off in the, I guess
+
+00:20:26.550 --> 00:20:29.790 align:middle line:84%
+it's late 1800s after there
+were trains, or whatever,
+
+00:20:29.790 --> 00:20:32.770 align:middle line:84%
+that would bring
+packages to people.
+
+00:20:32.770 --> 00:20:35.890 align:middle line:84%
+When the car was invented,
+the Sears catalog just
+
+00:20:35.890 --> 00:20:37.420 align:middle line:90%
+went into a prolonged decline.
+
+00:20:37.420 --> 00:20:41.290 align:middle line:84%
+And Sears opened, you know,
+massive, you know, not the size
+
+00:20:41.290 --> 00:20:44.350 align:middle line:84%
+of a Walmart, but, you know,
+massive department stores
+
+00:20:44.350 --> 00:20:45.650 align:middle line:90%
+in many US cities.
+
+00:20:45.650 --> 00:20:47.840 align:middle line:84%
+And again, the catalog
+business declined.
+
+00:20:47.840 --> 00:20:51.940 align:middle line:84%
+The physical retail
+business took off.
+
+00:20:51.940 --> 00:20:54.190 align:middle line:90%
+Thoughts on why that was.
+
+00:20:54.190 --> 00:20:57.310 align:middle line:84%
+Catalog retail was just
+always much more expensive
+
+00:20:57.310 --> 00:20:58.770 align:middle line:90%
+than traditional retail.
+
+00:20:58.770 --> 00:21:04.820 align:middle line:84%
+Like, if you look at Walmart,
+Walmart's cost of selling goods
+
+00:21:04.820 --> 00:21:11.030 align:middle line:84%
+is roughly 20% of the
+merchandise that they sell.
+
+00:21:11.030 --> 00:21:15.650 align:middle line:84%
+Catalog retail had costs
+more like 40 or 50%.
+
+00:21:15.650 --> 00:21:19.190 align:middle line:84%
+And why does it cost
+Walmart only 20%
+
+00:21:19.190 --> 00:21:22.260 align:middle line:84%
+when it costs
+catalog retail 50%?
+
+00:21:22.260 --> 00:21:25.900 align:middle line:84%
+You know, it's because
+catalog retail,
+
+00:21:25.900 --> 00:21:27.760 align:middle line:84%
+you need to have
+stuff in a warehouse.
+
+00:21:27.760 --> 00:21:29.580 align:middle line:84%
+Every single item
+that gets sold,
+
+00:21:29.580 --> 00:21:32.580 align:middle line:84%
+someone needs to put it in a
+box, put the box in the mail,
+
+00:21:32.580 --> 00:21:33.890 align:middle line:90%
+pay for the mail.
+
+00:21:33.890 --> 00:21:37.440 align:middle line:84%
+Whereas Walmart's
+cost of putting--
+
+00:21:37.440 --> 00:21:39.220 align:middle line:84%
+like, the simplest
+example of things
+
+00:21:39.220 --> 00:21:40.387 align:middle line:90%
+that should never be online.
+
+00:21:40.387 --> 00:21:41.880 align:middle line:84%
+Like, a kiddie
+swimming pool, one
+
+00:21:41.880 --> 00:21:44.520 align:middle line:84%
+of those plastic four-foot
+diameter swimming pools.
+
+00:21:44.520 --> 00:21:47.580 align:middle line:84%
+You can put a whole bunch of
+four-foot diameter plastic
+
+00:21:47.580 --> 00:21:50.780 align:middle line:84%
+swimming pools, stack them
+together, put them in a truck,
+
+00:21:50.780 --> 00:21:53.280 align:middle line:84%
+take them to the Walmart, and
+the cost of getting them there
+
+00:21:53.280 --> 00:21:55.780 align:middle line:84%
+is, you know, $0.50 or
+something like that.
+
+00:21:55.780 --> 00:21:58.170 align:middle line:84%
+You try to put a kiddie
+swimming pool in the mail
+
+00:21:58.170 --> 00:22:00.120 align:middle line:84%
+and send it to
+somebody, you've spent,
+
+00:22:00.120 --> 00:22:03.210 align:middle line:84%
+you know, $30 mailing
+something that's only worth
+
+00:22:03.210 --> 00:22:04.660 align:middle line:90%
+$5 or something.
+
+00:22:04.660 --> 00:22:06.360 align:middle line:84%
+And, you know, putting
+things in a truck
+
+00:22:06.360 --> 00:22:10.320 align:middle line:84%
+is just much, much cheaper
+than handling every package
+
+00:22:10.320 --> 00:22:10.930 align:middle line:90%
+individually.
+
+00:22:10.930 --> 00:22:13.020 align:middle line:84%
+And you're getting some sense
+the free labor of people
+
+00:22:13.020 --> 00:22:15.353 align:middle line:84%
+to just walk through the store
+and take it off the shelf
+
+00:22:15.353 --> 00:22:18.130 align:middle line:90%
+and carry it home.
+
+00:22:18.130 --> 00:22:23.267 align:middle line:84%
+Anyway, early on, Amazon was
+undercutting Barnes & Noble
+
+00:22:23.267 --> 00:22:25.600 align:middle line:84%
+and selling books for lower
+than you would buy the books
+
+00:22:25.600 --> 00:22:27.060 align:middle line:90%
+in a physical bookstore.
+
+00:22:27.060 --> 00:22:29.500 align:middle line:84%
+And this question
+of, could Amazon ever
+
+00:22:29.500 --> 00:22:32.960 align:middle line:84%
+actually make a profit
+selling things not at a loss?
+
+00:22:32.960 --> 00:22:36.430 align:middle line:84%
+And if Amazon were pricing
+things at cost or above cost,
+
+00:22:36.430 --> 00:22:39.880 align:middle line:84%
+could it be competitive
+with traditional retail?
+
+00:22:39.880 --> 00:22:43.450 align:middle line:84%
+One of the big arguments
+that was made early on
+
+00:22:43.450 --> 00:22:46.030 align:middle line:84%
+was that, yes,
+Amazon doesn't need
+
+00:22:46.030 --> 00:22:48.770 align:middle line:84%
+to have a cost advantage
+to sell things online.
+
+00:22:48.770 --> 00:22:51.310 align:middle line:84%
+It could be that you have a
+cost disadvantage that people
+
+00:22:51.310 --> 00:22:54.100 align:middle line:84%
+buy online because of
+the product variety.
+
+00:22:54.100 --> 00:22:57.010 align:middle line:84%
+The product variety
+advantages are much bigger
+
+00:22:57.010 --> 00:22:59.030 align:middle line:90%
+than the cost disadvantage.
+
+00:22:59.030 --> 00:23:02.057 align:middle line:84%
+So therefore people buy online
+to get the book they want
+
+00:23:02.057 --> 00:23:03.640 align:middle line:84%
+or whatever product
+they want and have
+
+00:23:03.640 --> 00:23:06.070 align:middle line:90%
+a much bigger selection.
+
+00:23:06.070 --> 00:23:08.770 align:middle line:84%
+And they note that
+when Amazon launched,
+
+00:23:08.770 --> 00:23:10.530 align:middle line:90%
+Amazon had one million titles.
+
+00:23:10.530 --> 00:23:13.270 align:middle line:84%
+Obviously, it later expanded
+to several million titles.
+
+00:23:13.270 --> 00:23:17.060 align:middle line:84%
+And a very large physical
+bookstore at the time would have
+
+00:23:17.060 --> 00:23:18.470 align:middle line:90%
+100,000 titles.
+
+00:23:18.470 --> 00:23:22.820 align:middle line:84%
+You're typical bookstore might
+have 50,000 titles in it.
+
+00:23:22.820 --> 00:23:26.490 align:middle line:84%
+Perhaps there's some superstores
+that would have 200,000.
+
+00:23:26.490 --> 00:23:30.350 align:middle line:84%
+But Amazon had many,
+many more books,
+
+00:23:30.350 --> 00:23:35.395 align:middle line:84%
+even from the very beginning,
+than physical bookstores did.
+
+00:23:35.395 --> 00:23:37.520 align:middle line:84%
+And so what Brynjolfsson,
+Hu, and Smith tried to do
+
+00:23:37.520 --> 00:23:41.270 align:middle line:84%
+is just say, could we estimate
+how big the product variety
+
+00:23:41.270 --> 00:23:45.480 align:middle line:84%
+benefit is by just, in some
+sense, looking at this demand
+
+00:23:45.480 --> 00:23:45.980 align:middle line:90%
+curve?
+
+00:23:45.980 --> 00:23:53.630 align:middle line:84%
+Like, finding out what fraction
+of the sales of Amazon are
+
+00:23:53.630 --> 00:23:58.178 align:middle line:84%
+to books that are beyond
+the 100,000th book?
+
+00:23:58.178 --> 00:24:00.470 align:middle line:84%
+So let's say there are 100,000
+books that are available
+
+00:24:00.470 --> 00:24:01.980 align:middle line:90%
+in your physical bookstore.
+
+00:24:01.980 --> 00:24:03.410 align:middle line:84%
+There are millions
+of other books
+
+00:24:03.410 --> 00:24:05.500 align:middle line:84%
+that are not available
+in a physical bookstore.
+
+00:24:05.500 --> 00:24:09.350 align:middle line:84%
+How much utility do people get
+from buying all those books from
+
+00:24:09.350 --> 00:24:12.320 align:middle line:90%
+100,000 out to 2 million?
+
+00:24:12.320 --> 00:24:18.270 align:middle line:84%
+And the way they do that is to
+just basically convert Amazon
+
+00:24:18.270 --> 00:24:21.870 align:middle line:84%
+sales ranks to quantities,
+figure out how many copies
+
+00:24:21.870 --> 00:24:25.260 align:middle line:84%
+of every book are being sold,
+and then just count up how many
+
+00:24:25.260 --> 00:24:28.150 align:middle line:84%
+books-- what fraction of Amazon
+sales are books outside the top
+
+00:24:28.150 --> 00:24:31.800 align:middle line:84%
+100,000 and then multiply them
+by just a consumer surplus
+
+00:24:31.800 --> 00:24:33.090 align:middle line:90%
+estimate per title.
+
+00:24:33.090 --> 00:24:36.270 align:middle line:84%
+If you have a general sense
+of the demand elasticity,
+
+00:24:36.270 --> 00:24:38.490 align:middle line:84%
+you know the average price,
+you know the consumer,
+
+00:24:38.490 --> 00:24:39.990 align:middle line:84%
+you can just guess
+what the consumer
+
+00:24:39.990 --> 00:24:43.850 align:middle line:90%
+surplus is and estimate that.
+
+00:24:43.850 --> 00:24:47.360 align:middle line:84%
+And what they show in this
+figure is that if you look
+
+00:24:47.360 --> 00:24:50.150 align:middle line:84%
+at books that are
+outside the top 100,000,
+
+00:24:50.150 --> 00:24:52.910 align:middle line:84%
+there seems to be this
+very, very thick or very,
+
+00:24:52.910 --> 00:24:55.030 align:middle line:90%
+very slow decline in sales.
+
+00:24:55.030 --> 00:24:59.630 align:middle line:84%
+So book number 100,000 is
+selling 1 and 1/2 copies a week.
+
+00:24:59.630 --> 00:25:02.100 align:middle line:84%
+Book number 200,000
+is selling 0.8.
+
+00:25:02.100 --> 00:25:05.400 align:middle line:84%
+Book number 400 is
+selling 0.6 copies a week.
+
+00:25:05.400 --> 00:25:08.460 align:middle line:84%
+Book number 6 is
+selling like 0.4.
+
+00:25:08.460 --> 00:25:10.650 align:middle line:84%
+But then when you get
+to book 2.2 million,
+
+00:25:10.650 --> 00:25:13.580 align:middle line:84%
+book 2.2 million is not selling
+that many fewer copies than book
+
+00:25:13.580 --> 00:25:15.000 align:middle line:90%
+600,000.
+
+00:25:15.000 --> 00:25:20.390 align:middle line:84%
+And so because this tail doesn't
+just go to 0 very quickly,
+
+00:25:20.390 --> 00:25:22.430 align:middle line:84%
+there are lots of
+sales on Amazon
+
+00:25:22.430 --> 00:25:24.620 align:middle line:90%
+that are these extra books.
+
+00:25:24.620 --> 00:25:26.990 align:middle line:84%
+And the thought is that
+all these extra books
+
+00:25:26.990 --> 00:25:31.190 align:middle line:84%
+are contributing a lot
+to consumer surplus.
+
+00:25:31.190 --> 00:25:32.960 align:middle line:84%
+What they estimate
+in their paper
+
+00:25:32.960 --> 00:25:36.590 align:middle line:84%
+is that the product variety back
+in 2000, when Amazon was still
+
+00:25:36.590 --> 00:25:40.760 align:middle line:84%
+young, was adding $700
+million to a billion
+
+00:25:40.760 --> 00:25:44.480 align:middle line:84%
+to consumer surplus,
+and that was about--
+
+00:25:44.480 --> 00:25:46.820 align:middle line:84%
+Amazon was lowering
+prices, I think it was by--
+
+00:25:46.820 --> 00:25:50.730 align:middle line:84%
+Amazon was 5 to 10% cheaper than
+physical bookstores at the time.
+
+00:25:50.730 --> 00:25:53.480 align:middle line:84%
+And what they find is
+that look at the gain
+
+00:25:53.480 --> 00:25:56.400 align:middle line:84%
+from the lower prices,
+the 5 to 10% lower prices.
+
+00:25:56.400 --> 00:26:00.290 align:middle line:84%
+Look at the gains from
+the consumer surplus.
+
+00:26:00.290 --> 00:26:02.060 align:middle line:84%
+And the gains from
+the lower prices
+
+00:26:02.060 --> 00:26:03.790 align:middle line:84%
+were only about
+$100 million a year.
+
+00:26:03.790 --> 00:26:06.140 align:middle line:84%
+The gains from the consumer
+surplus is like $1 billion
+
+00:26:06.140 --> 00:26:06.910 align:middle line:90%
+a year.
+
+00:26:06.910 --> 00:26:11.310 align:middle line:84%
+So consumer surplus is 10 times
+as important as the price cut.
+
+00:26:11.310 --> 00:26:14.330 align:middle line:84%
+And so if you believe that, if
+consumer surplus is 10 times as
+
+00:26:14.330 --> 00:26:17.780 align:middle line:84%
+important as a price cut, you
+could take away the $100 million
+
+00:26:17.780 --> 00:26:19.640 align:middle line:84%
+or even have a
+negative $100 million
+
+00:26:19.640 --> 00:26:22.850 align:middle line:84%
+or negative $200 million, and
+they say that Amazon really
+
+00:26:22.850 --> 00:26:26.767 align:middle line:84%
+could raise prices and still be
+a positive value for consumers
+
+00:26:26.767 --> 00:26:28.225 align:middle line:84%
+because the product
+variety effect.
+
+00:26:28.225 --> 00:26:30.760 align:middle line:90%
+
+
+00:26:30.760 --> 00:26:32.980 align:middle line:90%
+It's a very nice paper.
+
+00:26:32.980 --> 00:26:35.250 align:middle line:84%
+The calculation itself
+is a little speculative
+
+00:26:35.250 --> 00:26:37.667 align:middle line:90%
+in that it is a--
+
+00:26:37.667 --> 00:26:39.000 align:middle line:90%
+we don't have a lot of evidence.
+
+00:26:39.000 --> 00:26:40.380 align:middle line:84%
+Like, if you think
+about it, like,
+
+00:26:40.380 --> 00:26:42.060 align:middle line:84%
+any of these books that
+are sold very rarely,
+
+00:26:42.060 --> 00:26:44.010 align:middle line:84%
+it's very hard to get much
+evidence of what the demand
+
+00:26:44.010 --> 00:26:46.010 align:middle line:84%
+curves look like for them
+because they're hardly
+
+00:26:46.010 --> 00:26:47.160 align:middle line:90%
+selling any copies.
+
+00:26:47.160 --> 00:26:51.600 align:middle line:84%
+You are extrapolating
+on some things there.
+
+00:26:51.600 --> 00:26:54.240 align:middle line:84%
+So then the paper I
+want to talk about more
+
+00:26:54.240 --> 00:26:59.830 align:middle line:84%
+is Quan and Williams' Product
+Variety, Market Heterogeneity.
+
+00:26:59.830 --> 00:27:02.670 align:middle line:84%
+And this is an argument
+that the Brynjolfsson, Hu,
+
+00:27:02.670 --> 00:27:08.040 align:middle line:84%
+and Smith paper may really be
+overestimating product variety
+
+00:27:08.040 --> 00:27:09.220 align:middle line:90%
+advantages.
+
+00:27:09.220 --> 00:27:10.950 align:middle line:84%
+And the reason they
+would argue this
+
+00:27:10.950 --> 00:27:13.440 align:middle line:84%
+could be really overestimating
+profit variety advantages
+
+00:27:13.440 --> 00:27:15.750 align:middle line:84%
+is because different
+physical bookstores
+
+00:27:15.750 --> 00:27:17.410 align:middle line:90%
+carry different books.
+
+00:27:17.410 --> 00:27:18.990 align:middle line:84%
+So, for instance,
+you know, people
+
+00:27:18.990 --> 00:27:21.930 align:middle line:84%
+at the time needed
+to get textbooks
+
+00:27:21.930 --> 00:27:24.400 align:middle line:84%
+for all of their graduate
+economics classes.
+
+00:27:24.400 --> 00:27:27.550 align:middle line:84%
+Where would you get textbooks
+for graduate economics classes?
+
+00:27:27.550 --> 00:27:30.700 align:middle line:84%
+None of them are in the top
+100,000 most popular books
+
+00:27:30.700 --> 00:27:32.060 align:middle line:90%
+in the United States.
+
+00:27:32.060 --> 00:27:34.750 align:middle line:84%
+However, you go to the
+MIT Coop in the week
+
+00:27:34.750 --> 00:27:36.250 align:middle line:84%
+before classes
+start, and they would
+
+00:27:36.250 --> 00:27:38.380 align:middle line:84%
+have all of the graduate
+economics textbooks
+
+00:27:38.380 --> 00:27:41.140 align:middle line:84%
+and all of the other textbooks
+for all of your other classes
+
+00:27:41.140 --> 00:27:42.680 align:middle line:90%
+would be in the MIT Coop.
+
+00:27:42.680 --> 00:27:45.820 align:middle line:84%
+And, you know, not just the
+graduate economics textbooks
+
+00:27:45.820 --> 00:27:48.940 align:middle line:84%
+from MIT Coop, but
+the MIT Coop also
+
+00:27:48.940 --> 00:27:52.760 align:middle line:84%
+has a big selection of,
+you know, technical books.
+
+00:27:52.760 --> 00:27:55.600 align:middle line:84%
+And if you just want books
+about computer programming
+
+00:27:55.600 --> 00:27:57.550 align:middle line:84%
+or whatever, not
+for your classes,
+
+00:27:57.550 --> 00:27:59.875 align:middle line:84%
+they have lots of those
+books in that bookstores.
+
+00:27:59.875 --> 00:28:01.750 align:middle line:84%
+And then there are other
+bookstores in Boston
+
+00:28:01.750 --> 00:28:03.220 align:middle line:84%
+where if you're
+interested in art
+
+00:28:03.220 --> 00:28:05.920 align:middle line:84%
+that have lots of books
+about art and lots
+
+00:28:05.920 --> 00:28:07.642 align:middle line:84%
+of big coffee table
+books or whatever.
+
+00:28:07.642 --> 00:28:09.850 align:middle line:84%
+And so their thought was
+that-- the Quan and Williams
+
+00:28:09.850 --> 00:28:12.582 align:middle line:84%
+argument is that you really
+could be overestimating what
+
+00:28:12.582 --> 00:28:15.040 align:middle line:84%
+Amazon is doing because there
+are many different bookstores
+
+00:28:15.040 --> 00:28:17.373 align:middle line:84%
+and many different bookstores
+have many different books.
+
+00:28:17.373 --> 00:28:20.813 align:middle line:84%
+So the gain from the online
+over going to the bookstore
+
+00:28:20.813 --> 00:28:22.230 align:middle line:84%
+that you know would
+have the books
+
+00:28:22.230 --> 00:28:24.840 align:middle line:90%
+you want could be much smaller.
+
+00:28:24.840 --> 00:28:27.820 align:middle line:84%
+They study this not
+in the case of books.
+
+00:28:27.820 --> 00:28:29.230 align:middle line:90%
+They pick a different industry.
+
+00:28:29.230 --> 00:28:31.350 align:middle line:90%
+Their industry is shoes.
+
+00:28:31.350 --> 00:28:34.000 align:middle line:84%
+They don't say it, one
+suspects that they have--
+
+00:28:34.000 --> 00:28:36.690 align:middle line:84%
+they had a friend who worked at
+Zappos, because they are working
+
+00:28:36.690 --> 00:28:41.850 align:middle line:84%
+with what they describe as
+a very large online shoe
+
+00:28:41.850 --> 00:28:45.600 align:middle line:90%
+store in the year 2012, 2013.
+
+00:28:45.600 --> 00:28:48.480 align:middle line:84%
+And just here's
+one example of why
+
+00:28:48.480 --> 00:28:52.350 align:middle line:84%
+we would think that
+physical shoe stores would
+
+00:28:52.350 --> 00:28:53.500 align:middle line:90%
+carry different things.
+
+00:28:53.500 --> 00:28:59.790 align:middle line:84%
+This graph is entirely done
+with sales on the online site.
+
+00:28:59.790 --> 00:29:03.180 align:middle line:84%
+But what they graph is, this
+is a state level analysis
+
+00:29:03.180 --> 00:29:05.790 align:middle line:90%
+for, I think, 49 states.
+
+00:29:05.790 --> 00:29:07.260 align:middle line:84%
+And what they put
+on this is just
+
+00:29:07.260 --> 00:29:11.610 align:middle line:84%
+a dot for every state of
+what fraction of the shoes
+
+00:29:11.610 --> 00:29:14.670 align:middle line:84%
+that are sold to
+that state are boots
+
+00:29:14.670 --> 00:29:17.070 align:middle line:90%
+and what fraction are sandals.
+
+00:29:17.070 --> 00:29:20.830 align:middle line:84%
+And what do you notice on
+the right side of this graph?
+
+00:29:20.830 --> 00:29:23.050 align:middle line:84%
+We take the two warmest
+US states, which
+
+00:29:23.050 --> 00:29:25.190 align:middle line:90%
+would be Hawaii and Florida.
+
+00:29:25.190 --> 00:29:27.250 align:middle line:84%
+And in Hawaii and
+Florida, people
+
+00:29:27.250 --> 00:29:31.090 align:middle line:84%
+don't buy a whole lot of boots
+and they buy a lot of sandals.
+
+00:29:31.090 --> 00:29:34.180 align:middle line:84%
+I guess especially in Florida,
+people buy a lot of sandals.
+
+00:29:34.180 --> 00:29:36.820 align:middle line:84%
+And then you go
+down here and you
+
+00:29:36.820 --> 00:29:40.500 align:middle line:84%
+look at what people are
+buying in the coldest states.
+
+00:29:40.500 --> 00:29:44.410 align:middle line:84%
+So it's, I don't know if
+that's North Dakota, Wyoming,
+
+00:29:44.410 --> 00:29:47.170 align:middle line:84%
+Minnesota, places
+like that, people buy
+
+00:29:47.170 --> 00:29:49.030 align:middle line:90%
+a lot of boots in North Dakota.
+
+00:29:49.030 --> 00:29:53.230 align:middle line:84%
+People buy fewer
+sandals in North Dakota.
+
+00:29:53.230 --> 00:29:55.090 align:middle line:84%
+Although I guess sort
+of surprising things
+
+00:29:55.090 --> 00:29:56.040 align:middle line:90%
+you learned from this.
+
+00:29:56.040 --> 00:29:57.498 align:middle line:84%
+It turns out people
+in North Dakota
+
+00:29:57.498 --> 00:29:59.050 align:middle line:84%
+and Wyoming actually
+buy more sandals
+
+00:29:59.050 --> 00:30:01.990 align:middle line:84%
+than people in middle
+temperature states.
+
+00:30:01.990 --> 00:30:03.318 align:middle line:90%
+I guess it may be--
+
+00:30:03.318 --> 00:30:03.860 align:middle line:90%
+I don't know.
+
+00:30:03.860 --> 00:30:05.277 align:middle line:84%
+Maybe if you live
+in a cold place,
+
+00:30:05.277 --> 00:30:08.335 align:middle line:84%
+you go on vacation to Florida
+and you need to buy sandals.
+
+00:30:08.335 --> 00:30:10.210 align:middle line:84%
+Or if you live in a
+medium temperature state,
+
+00:30:10.210 --> 00:30:11.920 align:middle line:84%
+you just don't go
+on as many vacations
+
+00:30:11.920 --> 00:30:13.370 align:middle line:90%
+to warm weather states.
+
+00:30:13.370 --> 00:30:14.230 align:middle line:90%
+I don't know.
+
+00:30:14.230 --> 00:30:16.990 align:middle line:84%
+But anyway, but their
+thought from this graph
+
+00:30:16.990 --> 00:30:18.550 align:middle line:84%
+is if you look at
+if this is what
+
+00:30:18.550 --> 00:30:20.590 align:middle line:90%
+happens for online retailers.
+
+00:30:20.590 --> 00:30:22.690 align:middle line:90%
+You imagine that you walk into--
+
+00:30:22.690 --> 00:30:24.760 align:middle line:84%
+even take a national
+chain store,
+
+00:30:24.760 --> 00:30:28.940 align:middle line:84%
+you imagine that the national
+chains in their North Dakota
+
+00:30:28.940 --> 00:30:31.580 align:middle line:84%
+stores, they have lots
+of boots on the shelves,
+
+00:30:31.580 --> 00:30:34.760 align:middle line:84%
+and in their Florida stores,
+they have very few winter
+
+00:30:34.760 --> 00:30:36.530 align:middle line:90%
+boots on the shelves.
+
+00:30:36.530 --> 00:30:38.370 align:middle line:84%
+And so this would
+just be an example.
+
+00:30:38.370 --> 00:30:42.440 align:middle line:84%
+You know, this doesn't
+prove that local stores
+
+00:30:42.440 --> 00:30:47.650 align:middle line:84%
+tailor their selections
+to what customers want.
+
+00:30:47.650 --> 00:30:50.330 align:middle line:84%
+But this at least suggests
+that local stores ought
+
+00:30:50.330 --> 00:30:52.490 align:middle line:84%
+to tailor their selections
+to their customers,
+
+00:30:52.490 --> 00:30:55.580 align:middle line:84%
+and that ought to give
+you back some of the gains
+
+00:30:55.580 --> 00:30:58.130 align:middle line:84%
+that we think is Amazon's gains
+from product variety should
+
+00:30:58.130 --> 00:31:00.670 align:middle line:84%
+be gains from product
+variety at these stores.
+
+00:31:00.670 --> 00:31:04.210 align:middle line:90%
+
+
+00:31:04.210 --> 00:31:10.430 align:middle line:84%
+You know, the paper has a
+second data set where they also
+
+00:31:10.430 --> 00:31:14.390 align:middle line:84%
+got access to the
+inventories of local stores
+
+00:31:14.390 --> 00:31:19.400 align:middle line:84%
+at Macy's and Payless Shoe
+stores, which are just two chain
+
+00:31:19.400 --> 00:31:21.270 align:middle line:90%
+retail stores.
+
+00:31:21.270 --> 00:31:24.410 align:middle line:84%
+And they find that there
+is substantial differences
+
+00:31:24.410 --> 00:31:27.883 align:middle line:84%
+in the SKUs carried at
+the different stores.
+
+00:31:27.883 --> 00:31:29.300 align:middle line:84%
+They don't really
+have enough data
+
+00:31:29.300 --> 00:31:31.050 align:middle line:84%
+to say whether it's
+just completely random
+
+00:31:31.050 --> 00:31:36.333 align:middle line:84%
+or how much of it is this store
+carrying boots and this one
+
+00:31:36.333 --> 00:31:38.750 align:middle line:84%
+carrying sandals, or this one
+having just different brands
+
+00:31:38.750 --> 00:31:39.417 align:middle line:90%
+from the others.
+
+00:31:39.417 --> 00:31:42.860 align:middle line:84%
+But what they find is that
+especially at the Macy's, there
+
+00:31:42.860 --> 00:31:45.380 align:middle line:84%
+are almost no shoes that
+all the Macy's have.
+
+00:31:45.380 --> 00:31:47.855 align:middle line:84%
+Different Macy's just
+have different shoes.
+
+00:31:47.855 --> 00:31:49.730 align:middle line:84%
+There are a lot of them,
+shoes, that are only
+
+00:31:49.730 --> 00:31:51.510 align:middle line:90%
+found in one or two stores.
+
+00:31:51.510 --> 00:31:53.780 align:middle line:84%
+Very few that are found
+in 100% of stores.
+
+00:31:53.780 --> 00:31:56.800 align:middle line:84%
+At the Payless, there are
+a lot of store shoes that
+
+00:31:56.800 --> 00:31:59.300 align:middle line:84%
+are found in every Payless and
+a lot of shoes that are found
+
+00:31:59.300 --> 00:32:00.776 align:middle line:90%
+in like one or two Paylesses.
+
+00:32:00.776 --> 00:32:04.280 align:middle line:90%
+
+
+00:32:04.280 --> 00:32:08.210 align:middle line:84%
+OK, anyway, so how
+do they estimate?
+
+00:32:08.210 --> 00:32:12.230 align:middle line:84%
+So what they want to do is
+estimate how important is
+
+00:32:12.230 --> 00:32:14.780 align:middle line:84%
+this variation in
+consumer preferences
+
+00:32:14.780 --> 00:32:18.050 align:middle line:84%
+and to estimate how
+important if stores just
+
+00:32:18.050 --> 00:32:20.900 align:middle line:84%
+match their local
+preferences, would stores
+
+00:32:20.900 --> 00:32:22.910 align:middle line:84%
+be able to get most
+of the benefits
+
+00:32:22.910 --> 00:32:24.113 align:middle line:90%
+that you get from Amazon?
+
+00:32:24.113 --> 00:32:26.990 align:middle line:90%
+
+
+00:32:26.990 --> 00:32:29.970 align:middle line:84%
+So what they do is
+demand estimation,
+
+00:32:29.970 --> 00:32:33.720 align:middle line:84%
+it's going to be a standard
+kind of nested logit demand.
+
+00:32:33.720 --> 00:32:40.130 align:middle line:84%
+So this is utility, customer I,
+location L, buying product J.
+
+00:32:40.130 --> 00:32:45.590 align:middle line:84%
+It's going to be a mean utility
+of product J in location L,
+
+00:32:45.590 --> 00:32:50.160 align:middle line:84%
+plus sort of nested logit
+models, there's a shock.
+
+00:32:50.160 --> 00:32:52.100 align:middle line:84%
+You have this
+idiosyncratic preference
+
+00:32:52.100 --> 00:32:57.170 align:middle line:84%
+of a customer for all
+products in category J.
+
+00:32:57.170 --> 00:32:58.700 align:middle line:84%
+So if I'm looking
+for snow boots,
+
+00:32:58.700 --> 00:33:04.370 align:middle line:84%
+I have a snow boot specific
+shock, and then a weight.
+
+00:33:04.370 --> 00:33:05.640 align:middle line:90%
+I have two shocks.
+
+00:33:05.640 --> 00:33:07.280 align:middle line:84%
+One is the
+category-specific shock,
+
+00:33:07.280 --> 00:33:09.990 align:middle line:84%
+and then one is the
+brand-specific shock.
+
+00:33:09.990 --> 00:33:12.330 align:middle line:84%
+And they're going to estimate
+this lambda parameter
+
+00:33:12.330 --> 00:33:14.163 align:middle line:84%
+so they can tell whether
+people's shocks are
+
+00:33:14.163 --> 00:33:19.610 align:middle line:84%
+mostly category-specific
+or mostly product-specific.
+
+00:33:19.610 --> 00:33:21.470 align:middle line:84%
+And then what they're
+going to assume
+
+00:33:21.470 --> 00:33:24.650 align:middle line:84%
+is that the mean
+utility provided
+
+00:33:24.650 --> 00:33:28.310 align:middle line:84%
+by product J in
+location L is a function
+
+00:33:28.310 --> 00:33:33.060 align:middle line:84%
+of the product characteristics,
+a function of the product price.
+
+00:33:33.060 --> 00:33:37.520 align:middle line:84%
+And then this other
+xi sub LJ term,
+
+00:33:37.520 --> 00:33:42.440 align:middle line:84%
+which that's the
+idiosyncratic preference
+
+00:33:42.440 --> 00:33:46.580 align:middle line:90%
+for this product in location L.
+
+00:33:46.580 --> 00:33:48.150 align:middle line:84%
+They don't have the
+temperature here.
+
+00:33:48.150 --> 00:33:51.330 align:middle line:84%
+So the people in Florida
+don't like boots would be here
+
+00:33:51.330 --> 00:33:54.510 align:middle line:84%
+or people in Hawaii like
+sandals would be here.
+
+00:33:54.510 --> 00:33:57.410 align:middle line:84%
+But then you could
+imagine there's also just
+
+00:33:57.410 --> 00:33:59.660 align:middle line:84%
+like these mayonnaise-like
+preferences.
+
+00:33:59.660 --> 00:34:04.230 align:middle line:84%
+Like, there's just UGGs boots
+are popular in New England.
+
+00:34:04.230 --> 00:34:06.320 align:middle line:84%
+They're unfashionable
+in California.
+
+00:34:06.320 --> 00:34:09.420 align:middle line:84%
+Or this brand of
+shoes is popular here,
+
+00:34:09.420 --> 00:34:11.010 align:middle line:90%
+it's not popular here.
+
+00:34:11.010 --> 00:34:14.014 align:middle line:84%
+All of that would
+go into the xi LJs.
+
+00:34:14.014 --> 00:34:18.989 align:middle line:90%
+
+
+00:34:18.989 --> 00:34:22.080 align:middle line:84%
+A real challenge to
+estimating demand
+
+00:34:22.080 --> 00:34:26.969 align:middle line:84%
+is that most products,
+you know, like there's
+
+00:34:26.969 --> 00:34:30.900 align:middle line:84%
+a very, very large number
+of shoes in the world.
+
+00:34:30.900 --> 00:34:35.790 align:middle line:84%
+And it turns out that most shoes
+in most cities in most months
+
+00:34:35.790 --> 00:34:38.179 align:middle line:90%
+have zero sales.
+
+00:34:38.179 --> 00:34:42.170 align:middle line:84%
+And so dealing with quantity
+data when you have zeros
+
+00:34:42.170 --> 00:34:43.730 align:middle line:90%
+is very difficult.
+
+00:34:43.730 --> 00:34:47.000 align:middle line:84%
+If you remember, one
+of the things we--
+
+00:34:47.000 --> 00:34:50.224 align:middle line:84%
+standard approaches
+people do in the load
+
+00:34:50.224 --> 00:34:52.500 align:middle line:84%
+to demand estimation
+is you have,
+
+00:34:52.500 --> 00:34:54.920 align:middle line:84%
+you know, log of
+the share of product
+
+00:34:54.920 --> 00:34:58.730 align:middle line:84%
+J minus log of the share
+of the outside good
+
+00:34:58.730 --> 00:35:03.655 align:middle line:84%
+was X, J, beta minus Alpha,
+P, J, something like that.
+
+00:35:03.655 --> 00:35:07.100 align:middle line:90%
+
+
+00:35:07.100 --> 00:35:10.040 align:middle line:84%
+You convert to the market shares
+to get back to the product
+
+00:35:10.040 --> 00:35:12.530 align:middle line:84%
+characteristics, and then
+you can run IV regressions
+
+00:35:12.530 --> 00:35:14.010 align:middle line:90%
+to estimate demand.
+
+00:35:14.010 --> 00:35:17.090 align:middle line:84%
+You know, you can't do
+these log transformations
+
+00:35:17.090 --> 00:35:20.450 align:middle line:84%
+when you have a whole bunch
+of zeros in your data.
+
+00:35:20.450 --> 00:35:23.030 align:middle line:84%
+And so what do you do when you
+have a whole bunch of zeros
+
+00:35:23.030 --> 00:35:24.020 align:middle line:90%
+in your data?
+
+00:35:24.020 --> 00:35:29.960 align:middle line:84%
+Anyway, what they do in
+this paper is discuss a GMM
+
+00:35:29.960 --> 00:35:34.850 align:middle line:84%
+approach to try to
+deal with all the zeros
+
+00:35:34.850 --> 00:35:36.600 align:middle line:84%
+You also don't
+want to throw out--
+
+00:35:36.600 --> 00:35:38.308 align:middle line:84%
+another thing people
+do is sometimes just
+
+00:35:38.308 --> 00:35:39.430 align:middle line:90%
+throw out all the zeros.
+
+00:35:39.430 --> 00:35:41.790 align:middle line:84%
+You clearly don't want to
+throw out all the zeros
+
+00:35:41.790 --> 00:35:45.060 align:middle line:84%
+because the goods that have
+zero sales in one month
+
+00:35:45.060 --> 00:35:47.140 align:middle line:84%
+will have positive
+sales in the next month.
+
+00:35:47.140 --> 00:35:48.820 align:middle line:84%
+They all have positive
+mean utilities.
+
+00:35:48.820 --> 00:35:50.550 align:middle line:84%
+You don't want to
+remove them and say,
+
+00:35:50.550 --> 00:35:54.570 align:middle line:84%
+no one wants to buy
+from those goods.
+
+00:35:54.570 --> 00:35:59.280 align:middle line:84%
+In particular, what they
+note is that the number
+
+00:35:59.280 --> 00:36:03.420 align:middle line:84%
+of shoes that are sold
+by this online website
+
+00:36:03.420 --> 00:36:06.540 align:middle line:84%
+in a particular city,
+in a particular month
+
+00:36:06.540 --> 00:36:11.240 align:middle line:84%
+is smaller than the inventory
+of a large shoe store.
+
+00:36:11.240 --> 00:36:15.470 align:middle line:84%
+So if you actually were to take
+the realized shoe sales and say,
+
+00:36:15.470 --> 00:36:17.120 align:middle line:84%
+those people's
+deltas are only based
+
+00:36:17.120 --> 00:36:19.850 align:middle line:84%
+on the shoes that actually got
+bought, what you'd conclude
+
+00:36:19.850 --> 00:36:21.800 align:middle line:84%
+is that a single physical
+store could actually
+
+00:36:21.800 --> 00:36:23.678 align:middle line:90%
+supply the entire market.
+
+00:36:23.678 --> 00:36:25.220 align:middle line:84%
+And so it's just,
+it's very important
+
+00:36:25.220 --> 00:36:27.710 align:middle line:84%
+to correctly deal with
+all of these shoes that
+
+00:36:27.710 --> 00:36:31.350 align:middle line:84%
+are in the store and have
+zero sales in a month.
+
+00:36:31.350 --> 00:36:33.445 align:middle line:84%
+But, you know,
+people are buying.
+
+00:36:33.445 --> 00:36:34.820 align:middle line:84%
+You just have
+these many products
+
+00:36:34.820 --> 00:36:37.710 align:middle line:84%
+all with a fraction
+of expected sales.
+
+00:36:37.710 --> 00:36:39.213 align:middle line:84%
+But those are what
+people buy among.
+
+00:36:39.213 --> 00:36:40.880 align:middle line:84%
+And so they have to
+deal with the zeros.
+
+00:36:40.880 --> 00:36:44.470 align:middle line:84%
+Anyway, one thing you'll
+notice in the paper,
+
+00:36:44.470 --> 00:36:47.170 align:middle line:84%
+like, they spend a while talking
+about how to deal with demand
+
+00:36:47.170 --> 00:36:49.288 align:middle line:84%
+estimation when you
+have lots of zeros.
+
+00:36:49.288 --> 00:36:50.830 align:middle line:84%
+If you ever have a
+paper where you're
+
+00:36:50.830 --> 00:36:54.700 align:middle line:84%
+trying to do demand
+estimation with lots of zeros,
+
+00:36:54.700 --> 00:36:56.802 align:middle line:84%
+they discuss their
+method and other methods
+
+00:36:56.802 --> 00:36:58.510 align:middle line:84%
+that people have used
+to deal with zeros.
+
+00:36:58.510 --> 00:37:01.210 align:middle line:84%
+I think theirs is thought to be
+a fairly good method for doing
+
+00:37:01.210 --> 00:37:05.610 align:middle line:84%
+demand estimation when you
+have a whole bunch of zeros.
+
+00:37:05.610 --> 00:37:11.460 align:middle line:84%
+But so anyway, the basic
+idea is they aggregate sales
+
+00:37:11.460 --> 00:37:13.150 align:middle line:90%
+to the location month level.
+
+00:37:13.150 --> 00:37:16.020 align:middle line:90%
+They have 213 locations.
+
+00:37:16.020 --> 00:37:22.150 align:middle line:84%
+Most of the 213 locations
+are metropolitan areas.
+
+00:37:22.150 --> 00:37:27.120 align:middle line:84%
+But then in addition, they
+have each metropolitan area
+
+00:37:27.120 --> 00:37:28.950 align:middle line:84%
+as a location
+observation, and then they
+
+00:37:28.950 --> 00:37:31.680 align:middle line:84%
+have the rest of the state
+not in metropolitan areas
+
+00:37:31.680 --> 00:37:33.390 align:middle line:90%
+as an observation.
+
+00:37:33.390 --> 00:37:36.780 align:middle line:84%
+Anyway, so they have
+213 different locations.
+
+00:37:36.780 --> 00:37:41.040 align:middle line:84%
+They do something that's
+kind of like a BLP estimation
+
+00:37:41.040 --> 00:37:43.000 align:middle line:90%
+except dealing with the zeros.
+
+00:37:43.000 --> 00:37:45.870 align:middle line:90%
+So they aggregate sales.
+
+00:37:45.870 --> 00:37:48.353 align:middle line:84%
+They do something
+very much like, I
+
+00:37:48.353 --> 00:37:50.520 align:middle line:84%
+don't know if you remember
+back to Tobias's lecture,
+
+00:37:50.520 --> 00:37:53.520 align:middle line:84%
+you're BLP instruments
+for price are
+
+00:37:53.520 --> 00:37:55.500 align:middle line:84%
+some function of the
+characteristics of all
+
+00:37:55.500 --> 00:37:57.130 align:middle line:90%
+the competing brands.
+
+00:37:57.130 --> 00:38:00.330 align:middle line:84%
+So they have not
+a very convincing
+
+00:38:00.330 --> 00:38:03.070 align:middle line:84%
+instrumentation strategy,
+but that's what's available.
+
+00:38:03.070 --> 00:38:06.520 align:middle line:84%
+So they have a BLP style
+instrumentation strategy
+
+00:38:06.520 --> 00:38:08.030 align:middle line:90%
+dealing with the zeros.
+
+00:38:08.030 --> 00:38:10.480 align:middle line:84%
+And it's not a
+pure cross section
+
+00:38:10.480 --> 00:38:14.710 align:middle line:84%
+because there's price variation,
+because the prices vary
+
+00:38:14.710 --> 00:38:15.560 align:middle line:90%
+across months.
+
+00:38:15.560 --> 00:38:18.550 align:middle line:84%
+And you can see when this
+shoe is on sale in some month,
+
+00:38:18.550 --> 00:38:20.620 align:middle line:90%
+do sales go up.
+
+00:38:20.620 --> 00:38:23.210 align:middle line:84%
+Product reviews are
+also time varying.
+
+00:38:23.210 --> 00:38:25.330 align:middle line:84%
+Shoes come out and they
+have no reviews over time.
+
+00:38:25.330 --> 00:38:27.160 align:middle line:90%
+They build up reviews.
+
+00:38:27.160 --> 00:38:30.290 align:middle line:84%
+Obviously, higher reviews
+are good for sales.
+
+00:38:30.290 --> 00:38:34.090 align:middle line:84%
+It turns out, though, also
+zero reviews are good for sales
+
+00:38:34.090 --> 00:38:36.820 align:middle line:84%
+or positively associated
+with sales as well.
+
+00:38:36.820 --> 00:38:40.240 align:middle line:84%
+And this may be because
+zero reviews means
+
+00:38:40.240 --> 00:38:43.390 align:middle line:84%
+it's a brand new product
+that's just being introduced
+
+00:38:43.390 --> 00:38:45.760 align:middle line:84%
+with the latest fashion
+or that's being advertised
+
+00:38:45.760 --> 00:38:48.130 align:middle line:90%
+or something like that.
+
+00:38:48.130 --> 00:38:52.210 align:middle line:84%
+Anyway, and then the products,
+that is also time varying.
+
+00:38:52.210 --> 00:38:54.250 align:middle line:84%
+So anyway, with all
+of that, they're
+
+00:38:54.250 --> 00:38:58.360 align:middle line:84%
+able to estimate all
+these coefficients.
+
+00:38:58.360 --> 00:39:02.470 align:middle line:84%
+And they can estimate a
+distribution of the delta LJ's.
+
+00:39:02.470 --> 00:39:06.280 align:middle line:84%
+And the delta LJ's
+indicate that there
+
+00:39:06.280 --> 00:39:09.970 align:middle line:84%
+is a lot of cross-market
+heterogeneity in preferences.
+
+00:39:09.970 --> 00:39:11.558 align:middle line:84%
+And, you know, you
+have to have faith
+
+00:39:11.558 --> 00:39:13.600 align:middle line:84%
+that they're dealing with
+the zeros appropriately
+
+00:39:13.600 --> 00:39:14.267 align:middle line:90%
+to deal with it.
+
+00:39:14.267 --> 00:39:17.410 align:middle line:84%
+It's not just in some
+markets these shoes actually
+
+00:39:17.410 --> 00:39:20.133 align:middle line:84%
+have sales, in some markets
+these have actually have sales.
+
+00:39:20.133 --> 00:39:22.300 align:middle line:84%
+But I think they've done a
+fairly good job of trying
+
+00:39:22.300 --> 00:39:25.030 align:middle line:84%
+to argue that, no,
+there's underlying
+
+00:39:25.030 --> 00:39:27.910 align:middle line:84%
+cross sectional variation
+in the propensities
+
+00:39:27.910 --> 00:39:30.350 align:middle line:84%
+to purchase different
+shoes in different places.
+
+00:39:30.350 --> 00:39:32.080 align:middle line:84%
+And again, I think
+some of that is
+
+00:39:32.080 --> 00:39:34.700 align:middle line:84%
+like the boots versus
+sandals approach.
+
+00:39:34.700 --> 00:39:39.110 align:middle line:84%
+And some of that is just, you
+know, shoes are a fashion good.
+
+00:39:39.110 --> 00:39:40.870 align:middle line:84%
+And there are
+brands of sneakers,
+
+00:39:40.870 --> 00:39:43.360 align:middle line:84%
+brands of shoes,
+brands of whatever that
+
+00:39:43.360 --> 00:39:45.980 align:middle line:84%
+are more or less fashionable
+in different cities.
+
+00:39:45.980 --> 00:39:48.940 align:middle line:84%
+For whatever reason, this has
+become something people wear
+
+00:39:48.940 --> 00:39:53.180 align:middle line:84%
+and people are willing
+to pay more for those.
+
+00:39:53.180 --> 00:39:58.520 align:middle line:84%
+OK, so how do they estimate
+the gains from product variety?
+
+00:39:58.520 --> 00:40:00.350 align:middle line:84%
+Estimated gains from
+product variety, this
+
+00:40:00.350 --> 00:40:02.420 align:middle line:90%
+is done with a counterfactual.
+
+00:40:02.420 --> 00:40:06.470 align:middle line:84%
+So they know all the
+sales that Zappos,
+
+00:40:06.470 --> 00:40:08.750 align:middle line:84%
+or whatever the
+retailer is, made.
+
+00:40:08.750 --> 00:40:10.790 align:middle line:84%
+And then they think about
+a counterfactual world
+
+00:40:10.790 --> 00:40:13.850 align:middle line:84%
+where instead of choosing
+from all the shoes at Zappos,
+
+00:40:13.850 --> 00:40:16.910 align:middle line:84%
+people could only choose
+from a limited supply.
+
+00:40:16.910 --> 00:40:18.720 align:middle line:84%
+What do they do for
+the limited supply?
+
+00:40:18.720 --> 00:40:21.260 align:middle line:84%
+Well, the first
+thing they do is they
+
+00:40:21.260 --> 00:40:24.980 align:middle line:84%
+use the data on the Macy's
+and Payless Shoe Stores
+
+00:40:24.980 --> 00:40:28.820 align:middle line:84%
+to estimate the total
+number of products
+
+00:40:28.820 --> 00:40:32.130 align:middle line:84%
+available in each market as
+a function of the population.
+
+00:40:32.130 --> 00:40:35.780 align:middle line:84%
+So they would be doing, how
+many different brands of shoes
+
+00:40:35.780 --> 00:40:37.460 align:middle line:90%
+are available in Boston?
+
+00:40:37.460 --> 00:40:39.860 align:middle line:84%
+Which you get by looking
+at the overlap of all the
+
+00:40:39.860 --> 00:40:42.140 align:middle line:84%
+Macy's in Boston and the
+overlap of the Macy's
+
+00:40:42.140 --> 00:40:44.790 align:middle line:84%
+in Boston with the Payless
+Shoe Stores in Boston.
+
+00:40:44.790 --> 00:40:46.700 align:middle line:84%
+And then they have
+census data knowing
+
+00:40:46.700 --> 00:40:49.820 align:middle line:84%
+how many shoe stores
+there are in Boston
+
+00:40:49.820 --> 00:40:51.690 align:middle line:84%
+and how large they
+are in Boston.
+
+00:40:51.690 --> 00:40:55.350 align:middle line:84%
+They assume that they have the
+same overlap as they're seeing
+
+00:40:55.350 --> 00:40:57.070 align:middle line:90%
+in the Macy's and Paylesses.
+
+00:40:57.070 --> 00:41:00.630 align:middle line:84%
+And they're trying to estimate
+how many total shoes are there
+
+00:41:00.630 --> 00:41:05.423 align:middle line:84%
+in the Boston area that you can
+buy at physical retail stores.
+
+00:41:05.423 --> 00:41:07.590 align:middle line:84%
+Obviously, that's a bit of
+an aggressive assumption,
+
+00:41:07.590 --> 00:41:09.690 align:middle line:84%
+and that is assuming that
+people could actually
+
+00:41:09.690 --> 00:41:11.610 align:middle line:84%
+know which local
+Boston shoe store
+
+00:41:11.610 --> 00:41:15.750 align:middle line:84%
+to go to buy whatever particular
+brand of boots they want.
+
+00:41:15.750 --> 00:41:19.830 align:middle line:84%
+And then what they assume
+is that offline consumers
+
+00:41:19.830 --> 00:41:22.440 align:middle line:84%
+have the choice
+of the NL products
+
+00:41:22.440 --> 00:41:26.910 align:middle line:84%
+that have the highest delta
+LJ's to choose from so
+
+00:41:26.910 --> 00:41:32.400 align:middle line:84%
+that the physical stores
+in each state or each city
+
+00:41:32.400 --> 00:41:34.780 align:middle line:90%
+carry the most popular brands.
+
+00:41:34.780 --> 00:41:38.580 align:middle line:84%
+So again, it's kind of an
+aggressive assumption in that,
+
+00:41:38.580 --> 00:41:41.370 align:middle line:84%
+you know, local stores are
+tailoring their demand to what
+
+00:41:41.370 --> 00:41:44.020 align:middle line:84%
+people want and they're
+tailoring it perfectly.
+
+00:41:44.020 --> 00:41:45.790 align:middle line:84%
+They're picking the
+most popular brands.
+
+00:41:45.790 --> 00:41:50.760 align:middle line:84%
+And so, you know,
+it's both we observe.
+
+00:41:50.760 --> 00:41:55.050 align:middle line:84%
+It's both we know where
+to buy shoes physically,
+
+00:41:55.050 --> 00:41:58.290 align:middle line:84%
+depending on what we want,
+which store to go to,
+
+00:41:58.290 --> 00:42:00.960 align:middle line:84%
+and the shoe stores are doing
+perfect tailoring and carrying
+
+00:42:00.960 --> 00:42:02.893 align:middle line:84%
+the most popular shoes,
+not making mistakes.
+
+00:42:02.893 --> 00:42:05.490 align:middle line:90%
+
+
+00:42:05.490 --> 00:42:09.900 align:middle line:84%
+But anyway, so subject to that
+caveat, as the paper suggests,
+
+00:42:09.900 --> 00:42:12.110 align:middle line:84%
+the online product
+variety benefits
+
+00:42:12.110 --> 00:42:16.080 align:middle line:84%
+are much smaller than what
+Brynjolfsson, Hu, and Smith
+
+00:42:16.080 --> 00:42:16.870 align:middle line:90%
+said.
+
+00:42:16.870 --> 00:42:20.070 align:middle line:84%
+And they're much smaller
+in two different senses.
+
+00:42:20.070 --> 00:42:24.690 align:middle line:84%
+The first is that if you look at
+the gain from product variety,
+
+00:42:24.690 --> 00:42:29.010 align:middle line:84%
+they argue that about half of
+the gain from product variety
+
+00:42:29.010 --> 00:42:33.270 align:middle line:84%
+would be provided
+anyway by local stores
+
+00:42:33.270 --> 00:42:36.510 align:middle line:84%
+by just having heterogeneity
+in local stores.
+
+00:42:36.510 --> 00:42:39.146 align:middle line:84%
+So if you think about
+this sort of continuum.
+
+00:42:39.146 --> 00:42:42.220 align:middle line:90%
+
+
+00:42:42.220 --> 00:42:44.920 align:middle line:84%
+Let me do the Brynjolfsson,
+Hu, and Smith numbers.
+
+00:42:44.920 --> 00:42:50.050 align:middle line:90%
+
+
+00:42:50.050 --> 00:42:52.832 align:middle line:84%
+So Brynjolfsson, Hu, and
+Smith are all looking at sort
+
+00:42:52.832 --> 00:42:57.670 align:middle line:84%
+of, what's the consumer surplus
+from there being one bookstore
+
+00:42:57.670 --> 00:43:01.800 align:middle line:90%
+that has 100,000 titles?
+
+00:43:01.800 --> 00:43:08.750 align:middle line:84%
+And then we have this sort of
+Amazon with 2 million titles
+
+00:43:08.750 --> 00:43:11.450 align:middle line:84%
+and they're arguing
+that this is 10.
+
+00:43:11.450 --> 00:43:14.340 align:middle line:84%
+This is like, if this
+is 1, this is 10.
+
+00:43:14.340 --> 00:43:15.733 align:middle line:90%
+You get 10 times--
+
+00:43:15.733 --> 00:43:17.650 align:middle line:84%
+I'm putting the consumer
+surplus in this axis.
+
+00:43:17.650 --> 00:43:21.420 align:middle line:90%
+
+
+00:43:21.420 --> 00:43:26.880 align:middle line:84%
+And then what Quan and Williams
+are saying is that we have--
+
+00:43:26.880 --> 00:43:28.845 align:middle line:90%
+so this is--
+
+00:43:28.845 --> 00:43:30.720 align:middle line:84%
+Quan and Williams saying,
+well, our benchmark
+
+00:43:30.720 --> 00:43:37.080 align:middle line:84%
+is going to be not one
+bookstore, but all Boston
+
+00:43:37.080 --> 00:43:39.150 align:middle line:90%
+bookstores.
+
+00:43:39.150 --> 00:43:41.220 align:middle line:84%
+They don't know what all
+Boston bookstores have,
+
+00:43:41.220 --> 00:43:43.590 align:middle line:84%
+but they just assume that
+the Boston bookstores have
+
+00:43:43.590 --> 00:43:46.290 align:middle line:84%
+these non-overlapping
+sets of books
+
+00:43:46.290 --> 00:43:49.740 align:middle line:84%
+and the non-overlapping sets of
+books tailored to what the MIT
+
+00:43:49.740 --> 00:43:53.070 align:middle line:84%
+students want, tailored to what
+everybody else in Boston wants.
+
+00:43:53.070 --> 00:43:57.780 align:middle line:84%
+And what they find
+is that, you know--
+
+00:43:57.780 --> 00:44:00.600 align:middle line:84%
+well, they do all shoe
+stores, but all shoe stores
+
+00:44:00.600 --> 00:44:02.800 align:middle line:84%
+thing compared to
+the one shoe store,
+
+00:44:02.800 --> 00:44:06.690 align:middle line:84%
+they're arguing that all shoe
+stores get you about half
+
+00:44:06.690 --> 00:44:08.800 align:middle line:84%
+of the way to the
+Amazon rankings.
+
+00:44:08.800 --> 00:44:10.890 align:middle line:84%
+So in some sense that
+Quan and Williams
+
+00:44:10.890 --> 00:44:18.980 align:middle line:84%
+may be overstating the
+gains by 100% or something.
+
+00:44:18.980 --> 00:44:20.757 align:middle line:90%
+And so that's one point.
+
+00:44:20.757 --> 00:44:22.340 align:middle line:84%
+And then the second
+point of the paper
+
+00:44:22.340 --> 00:44:25.165 align:middle line:84%
+that is not emphasized
+as much in just
+
+00:44:25.165 --> 00:44:26.540 align:middle line:84%
+in the title and
+the introduction
+
+00:44:26.540 --> 00:44:34.310 align:middle line:84%
+is that they also find that
+the gains from product variety
+
+00:44:34.310 --> 00:44:39.080 align:middle line:84%
+are just much smaller than
+are reported elsewhere.
+
+00:44:39.080 --> 00:44:49.950 align:middle line:84%
+So that whereas
+Brynjolfsson, Hu, and Smith
+
+00:44:49.950 --> 00:44:52.500 align:middle line:84%
+are saying that these
+gains are 10 times the gain
+
+00:44:52.500 --> 00:44:55.020 align:middle line:90%
+from a 5% price cut.
+
+00:44:55.020 --> 00:44:58.770 align:middle line:84%
+What they find is that the
+gains in the shoe store data
+
+00:44:58.770 --> 00:45:06.060 align:middle line:84%
+look like they're, you know,
+2 times the benefit of a--
+
+00:45:06.060 --> 00:45:07.200 align:middle line:90%
+so anyway, sorry.
+
+00:45:07.200 --> 00:45:10.530 align:middle line:90%
+
+
+00:45:10.530 --> 00:45:12.450 align:middle line:90%
+If I make this 1, this is 2.
+
+00:45:12.450 --> 00:45:15.270 align:middle line:84%
+So the gain is just
+equivalent to a 5.
+
+00:45:15.270 --> 00:45:19.710 align:middle line:84%
+The gain is like equivalent
+to a 5% price cut.
+
+00:45:19.710 --> 00:45:23.440 align:middle line:84%
+So it's like this number is
+here, this number is here.
+
+00:45:23.440 --> 00:45:25.460 align:middle line:84%
+So what they're
+arguing is that the--
+
+00:45:25.460 --> 00:45:27.900 align:middle line:90%
+actually, no, I take that back.
+
+00:45:27.900 --> 00:45:29.970 align:middle line:84%
+It's this one
+compared to this one
+
+00:45:29.970 --> 00:45:33.480 align:middle line:84%
+I think is roughly
+equivalent to a 5% price cut.
+
+00:45:33.480 --> 00:45:36.930 align:middle line:84%
+So what they're finding is that
+the gains from product variety
+
+00:45:36.930 --> 00:45:39.360 align:middle line:84%
+are just much, much
+smaller in shoes
+
+00:45:39.360 --> 00:45:42.400 align:middle line:84%
+than Brynjolfsson, Hu, and
+Smith said they were in books.
+
+00:45:42.400 --> 00:45:45.840 align:middle line:84%
+And because the gains
+are so much smaller,
+
+00:45:45.840 --> 00:45:49.770 align:middle line:84%
+and you take out this thing
+is halfway there already, what
+
+00:45:49.770 --> 00:45:52.160 align:middle line:84%
+you're getting is the
+product variety gains
+
+00:45:52.160 --> 00:45:56.120 align:middle line:84%
+are really only like
+equivalent to a 5% price cut.
+
+00:45:56.120 --> 00:45:59.360 align:middle line:90%
+
+
+00:45:59.360 --> 00:46:03.590 align:middle line:84%
+So it's saying, at
+least in the shoe sense,
+
+00:46:03.590 --> 00:46:06.620 align:middle line:84%
+product variety
+gains are, you know,
+
+00:46:06.620 --> 00:46:08.555 align:middle line:84%
+10 times smaller
+than you would have
+
+00:46:08.555 --> 00:46:10.430 align:middle line:84%
+might have thought from
+the Brynjolfsson, Hu,
+
+00:46:10.430 --> 00:46:11.630 align:middle line:90%
+and Smith paper.
+
+00:46:11.630 --> 00:46:14.510 align:middle line:84%
+And obviously, you know,
+is that because shoes
+
+00:46:14.510 --> 00:46:16.360 align:middle line:90%
+are very different from books?
+
+00:46:16.360 --> 00:46:17.730 align:middle line:90%
+That's one possibility.
+
+00:46:17.730 --> 00:46:20.253 align:middle line:84%
+You know, like, every book
+is very, very different
+
+00:46:20.253 --> 00:46:21.170 align:middle line:90%
+from every other book.
+
+00:46:21.170 --> 00:46:23.990 align:middle line:84%
+You could imagine, once
+you've got a million shoes,
+
+00:46:23.990 --> 00:46:26.150 align:middle line:84%
+the ability to make
+a million first shoe
+
+00:46:26.150 --> 00:46:29.070 align:middle line:84%
+that's very different from all
+existing shoes is very hard.
+
+00:46:29.070 --> 00:46:31.430 align:middle line:84%
+Whereas every new book is
+just completely different
+
+00:46:31.430 --> 00:46:32.940 align:middle line:90%
+text from every other book.
+
+00:46:32.940 --> 00:46:34.820 align:middle line:84%
+There may be more
+inherent variety in books
+
+00:46:34.820 --> 00:46:37.160 align:middle line:84%
+than there are in
+shoes, but I think
+
+00:46:37.160 --> 00:46:41.300 align:middle line:84%
+it may also be that they
+may have done a better
+
+00:46:41.300 --> 00:46:44.810 align:middle line:84%
+job of dealing with
+estimating what's
+
+00:46:44.810 --> 00:46:47.790 align:middle line:84%
+true product variety versus
+spurious product variety.
+
+00:46:47.790 --> 00:46:50.313 align:middle line:90%
+You know, like the--
+
+00:46:50.313 --> 00:46:51.230 align:middle line:90%
+I don't if I remember.
+
+00:46:51.230 --> 00:46:52.880 align:middle line:84%
+Like, I've discussed,
+like, when you're
+
+00:46:52.880 --> 00:46:55.220 align:middle line:84%
+trying to estimate
+consumer variety in demand,
+
+00:46:55.220 --> 00:46:57.020 align:middle line:84%
+like, consumer
+welfare from demand
+
+00:46:57.020 --> 00:46:59.010 align:middle line:84%
+and you have
+heterogeneous products,
+
+00:46:59.010 --> 00:47:04.580 align:middle line:84%
+you know, everyone's always
+doing this X, J, Beta
+
+00:47:04.580 --> 00:47:09.142 align:middle line:84%
+minus alpha, P, J
+plus Epsilon, IJ.
+
+00:47:09.142 --> 00:47:10.850 align:middle line:84%
+And they're always
+assuming these Epsilon
+
+00:47:10.850 --> 00:47:14.360 align:middle line:84%
+IJ's are logit distributed,
+which has a fairly thick tail,
+
+00:47:14.360 --> 00:47:16.280 align:middle line:84%
+and that every Epsilon
+IJ is independent
+
+00:47:16.280 --> 00:47:19.400 align:middle line:90%
+of every other Epsilon IJ.
+
+00:47:19.400 --> 00:47:22.370 align:middle line:84%
+Again, once you get to the
+millionth different shoe,
+
+00:47:22.370 --> 00:47:25.010 align:middle line:84%
+is it really an Epsilon IJ
+that's completely independent
+
+00:47:25.010 --> 00:47:27.420 align:middle line:84%
+of your taste for every
+other shoe out there?
+
+00:47:27.420 --> 00:47:29.180 align:middle line:84%
+It's highly likely
+those Epsilons are
+
+00:47:29.180 --> 00:47:31.340 align:middle line:90%
+highly correlated across shoes.
+
+00:47:31.340 --> 00:47:32.900 align:middle line:90%
+At least by having the--
+
+00:47:32.900 --> 00:47:37.310 align:middle line:84%
+you know, they've got those
+category-specific shocks
+
+00:47:37.310 --> 00:47:39.200 align:middle line:84%
+by putting in the
+category-specific shocks
+
+00:47:39.200 --> 00:47:42.680 align:middle line:84%
+and assuming the magnitude and
+doing a careful job of thinking
+
+00:47:42.680 --> 00:47:45.320 align:middle line:84%
+about the zeros,
+they may be avoiding
+
+00:47:45.320 --> 00:47:48.170 align:middle line:84%
+overstating how big all
+these Epsilon IJ's are
+
+00:47:48.170 --> 00:47:50.490 align:middle line:84%
+and all this surplus
+we're getting from all
+
+00:47:50.490 --> 00:47:53.840 align:middle line:90%
+these new different products.
+
+00:47:53.840 --> 00:47:55.490 align:middle line:84%
+And I guess one
+other paper I thought
+
+00:47:55.490 --> 00:47:57.115 align:middle line:84%
+I'd mention-- one
+other thing I thought
+
+00:47:57.115 --> 00:48:00.110 align:middle line:84%
+I'd mentioned in the
+paper is that they
+
+00:48:00.110 --> 00:48:02.240 align:middle line:84%
+know that Macy's and Payless
+carry different shoes
+
+00:48:02.240 --> 00:48:03.140 align:middle line:90%
+in different stores.
+
+00:48:03.140 --> 00:48:06.320 align:middle line:84%
+They ask, how important
+is it for stores
+
+00:48:06.320 --> 00:48:08.160 align:middle line:90%
+to tailor their selections?
+
+00:48:08.160 --> 00:48:09.680 align:middle line:84%
+And what they find
+is that there's
+
+00:48:09.680 --> 00:48:11.010 align:middle line:90%
+a gain that firms should do it.
+
+00:48:11.010 --> 00:48:12.180 align:middle line:90%
+It's not that large.
+
+00:48:12.180 --> 00:48:16.550 align:middle line:84%
+The gain from customizing stores
+is estimated to be about 6%
+
+00:48:16.550 --> 00:48:17.240 align:middle line:90%
+in revenue.
+
+00:48:17.240 --> 00:48:19.520 align:middle line:84%
+So you could just carry
+all the standard shoes
+
+00:48:19.520 --> 00:48:21.830 align:middle line:84%
+or you could tailor the
+demand in your city.
+
+00:48:21.830 --> 00:48:25.370 align:middle line:84%
+You tailor the demand in your
+city, you get 6% more profit.
+
+00:48:25.370 --> 00:48:27.600 align:middle line:84%
+So it seems like
+it's worth doing.
+
+00:48:27.600 --> 00:48:29.600 align:middle line:84%
+Firms should want to do
+this, especially if they
+
+00:48:29.600 --> 00:48:30.990 align:middle line:90%
+have thin profit margins.
+
+00:48:30.990 --> 00:48:37.250 align:middle line:84%
+But it's boundedly-- tailoring
+is boundedly profitable?
+
+00:48:37.250 --> 00:48:43.920 align:middle line:90%
+
+
+00:48:43.920 --> 00:48:44.780 align:middle line:90%
+Yeah?
+
+00:48:44.780 --> 00:48:46.560 align:middle line:84%
+AUDIENCE: Was this
+paper actually
+
+00:48:46.560 --> 00:48:47.800 align:middle line:90%
+response to names on paper?
+
+00:48:47.800 --> 00:48:49.543 align:middle line:84%
+Or was it just
+kind of disjointed?
+
+00:48:49.543 --> 00:48:51.460 align:middle line:84%
+Because couldn't you
+just do the same exercise
+
+00:48:51.460 --> 00:48:55.075 align:middle line:84%
+they did in the Amazon paper but
+with shoes [INAUDIBLE] exchange?
+
+00:48:55.075 --> 00:48:57.200 align:middle line:84%
+GLENN ELLISON: Yeah, so
+certainly they could have--
+
+00:48:57.200 --> 00:49:00.580 align:middle line:90%
+
+
+00:49:00.580 --> 00:49:02.530 align:middle line:84%
+you know, so they
+actually have--
+
+00:49:02.530 --> 00:49:03.730 align:middle line:90%
+I don't know.
+
+00:49:03.730 --> 00:49:06.080 align:middle line:84%
+They do several different
+calculations in the paper.
+
+00:49:06.080 --> 00:49:07.910 align:middle line:84%
+Like, suppose we
+estimate demand this way.
+
+00:49:07.910 --> 00:49:09.410 align:middle line:84%
+Suppose we estimate
+demand this way.
+
+00:49:09.410 --> 00:49:11.230 align:middle line:84%
+Suppose we estimate
+demand this way.
+
+00:49:11.230 --> 00:49:13.810 align:middle line:84%
+You know, in some sense
+doing demand worse and worse
+
+00:49:13.810 --> 00:49:16.460 align:middle line:84%
+and worse, doing worse and
+worse demand estimation.
+
+00:49:16.460 --> 00:49:19.430 align:middle line:84%
+And they do present
+several things.
+
+00:49:19.430 --> 00:49:21.250 align:middle line:84%
+If you've done this
+estimate, instead you'd
+
+00:49:21.250 --> 00:49:23.050 align:middle line:84%
+get numbers that are
+two times as big.
+
+00:49:23.050 --> 00:49:24.467 align:middle line:84%
+If you do these
+estimates instead,
+
+00:49:24.467 --> 00:49:26.240 align:middle line:84%
+you get things that
+are five times as big.
+
+00:49:26.240 --> 00:49:29.020 align:middle line:90%
+So they do get--
+
+00:49:29.020 --> 00:49:33.873 align:middle line:84%
+you know, it's not exactly the
+same calculation as the Amazon
+
+00:49:33.873 --> 00:49:35.290 align:middle line:84%
+data, but they do
+something that's
+
+00:49:35.290 --> 00:49:39.370 align:middle line:84%
+more like the naive calculations
+where you treat everything
+
+00:49:39.370 --> 00:49:42.100 align:middle line:84%
+as national market shares
+and use logit models
+
+00:49:42.100 --> 00:49:44.080 align:middle line:84%
+and show that you can
+get things many times
+
+00:49:44.080 --> 00:49:45.788 align:middle line:84%
+bigger than the
+estimates they've gotten.
+
+00:49:45.788 --> 00:49:52.490 align:middle line:90%
+
+
+00:49:52.490 --> 00:49:55.313 align:middle line:84%
+Yeah, I think these are the
+things that obviously you
+
+00:49:55.313 --> 00:49:56.980 align:middle line:84%
+couldn't have done
+with the Amazon data.
+
+00:49:56.980 --> 00:49:59.630 align:middle line:84%
+Like, the Brynjolfsson,
+Hu, and Smith
+
+00:49:59.630 --> 00:50:02.420 align:middle line:84%
+didn't have anything about
+what is in local bookstores
+
+00:50:02.420 --> 00:50:05.120 align:middle line:84%
+and how much overlap there
+is across local bookstores
+
+00:50:05.120 --> 00:50:06.115 align:middle line:90%
+and stuff like that.
+
+00:50:06.115 --> 00:50:13.270 align:middle line:90%
+
+
+00:50:13.270 --> 00:50:16.660 align:middle line:84%
+But certainly, the paper is
+very much written in response
+
+00:50:16.660 --> 00:50:19.600 align:middle line:84%
+to literature saying there
+are these really big private--
+
+00:50:19.600 --> 00:50:21.980 align:middle line:84%
+really big product
+variety benefits.
+
+00:50:21.980 --> 00:50:29.260 align:middle line:84%
+And I think the paper is more
+about the benefits are smaller
+
+00:50:29.260 --> 00:50:31.780 align:middle line:84%
+because of the variety in
+retail than the benefits are
+
+00:50:31.780 --> 00:50:34.040 align:middle line:84%
+smaller if you just do the
+econometrics correctly.
+
+00:50:34.040 --> 00:50:35.295 align:middle line:90%
+But I think it is about both.
+
+00:50:35.295 --> 00:50:38.690 align:middle line:90%
+
+
+00:50:38.690 --> 00:50:39.514 align:middle line:90%
+OK.
+
+00:50:39.514 --> 00:50:42.500 align:middle line:84%
+So anyway, final
+paper I want to cover.
+
+00:50:42.500 --> 00:50:46.430 align:middle line:84%
+This is a working paper
+that Sara and I have,
+
+00:50:46.430 --> 00:50:49.700 align:middle line:84%
+which I guess has two
+different motivations.
+
+00:50:49.700 --> 00:50:53.570 align:middle line:84%
+You know, one is also this is a
+paper about trying to estimate
+
+00:50:53.570 --> 00:50:56.240 align:middle line:84%
+how big product
+variety benefits are
+
+00:50:56.240 --> 00:50:58.940 align:middle line:84%
+and how big product variety
+benefits are in an area where
+
+00:50:58.940 --> 00:51:01.460 align:middle line:84%
+we think the product variety
+benefits would be bigger,
+
+00:51:01.460 --> 00:51:03.000 align:middle line:90%
+which is in used books.
+
+00:51:03.000 --> 00:51:06.800 align:middle line:84%
+And then the other is also
+sometimes you can say it is a,
+
+00:51:06.800 --> 00:51:12.260 align:middle line:84%
+you know, Chicago school
+critique of our search
+
+00:51:12.260 --> 00:51:13.610 align:middle line:90%
+and obfuscation paper.
+
+00:51:13.610 --> 00:51:15.690 align:middle line:84%
+Where in the search
+and obfuscation paper
+
+00:51:15.690 --> 00:51:20.030 align:middle line:84%
+we argued that you see
+these not super low
+
+00:51:20.030 --> 00:51:22.370 align:middle line:84%
+and dispersed prices
+for computer components
+
+00:51:22.370 --> 00:51:27.830 align:middle line:84%
+because the firms
+have an incentive
+
+00:51:27.830 --> 00:51:29.900 align:middle line:84%
+to obfuscate what
+they're selling the price
+
+00:51:29.900 --> 00:51:32.930 align:middle line:84%
+is at and invent these add-ons
+or invent complicated things
+
+00:51:32.930 --> 00:51:37.370 align:middle line:84%
+that raise search costs and
+keep prices high and disperses
+
+00:51:37.370 --> 00:51:39.110 align:middle line:84%
+as they are in a
+search cost model
+
+00:51:39.110 --> 00:51:42.470 align:middle line:84%
+rather than letting perfect
+competition come out here.
+
+00:51:42.470 --> 00:51:47.090 align:middle line:84%
+This paper is going to provide
+an alternate explanation for why
+
+00:51:47.090 --> 00:51:48.810 align:middle line:90%
+prices can be high in dispersed.
+
+00:51:48.810 --> 00:51:51.110 align:middle line:84%
+It's going to be
+that in some sense,
+
+00:51:51.110 --> 00:51:53.490 align:middle line:84%
+prices are high and dispersed
+for two different reasons.
+
+00:51:53.490 --> 00:51:56.150 align:middle line:84%
+One is prices are
+high on the internet
+
+00:51:56.150 --> 00:51:59.700 align:middle line:84%
+because the internet is so good
+at matching products to people.
+
+00:51:59.700 --> 00:52:06.770 align:middle line:84%
+And if you think about a used
+book that you had as a child.
+
+00:52:06.770 --> 00:52:10.700 align:middle line:84%
+You know, and then you have
+a used book as a child,
+
+00:52:10.700 --> 00:52:12.090 align:middle line:90%
+you now have a niece or nephew.
+
+00:52:12.090 --> 00:52:16.310 align:middle line:84%
+You want to buy them the same
+picture book that you remember
+
+00:52:16.310 --> 00:52:17.640 align:middle line:90%
+from when you were a kid.
+
+00:52:17.640 --> 00:52:20.170 align:middle line:84%
+You're willing to pay many
+dollars for that book.
+
+00:52:20.170 --> 00:52:21.920 align:middle line:84%
+There are a million
+other people out there
+
+00:52:21.920 --> 00:52:23.820 align:middle line:84%
+who didn't remember that
+book when they were kids.
+
+00:52:23.820 --> 00:52:26.445 align:middle line:84%
+There are probably hundreds of
+copies of it sitting in physical
+
+00:52:26.445 --> 00:52:29.210 align:middle line:84%
+used bookstores with $0.10
+marked inside the cover that no
+
+00:52:29.210 --> 00:52:30.510 align:middle line:90%
+one is ever buying.
+
+00:52:30.510 --> 00:52:32.930 align:middle line:84%
+If we get those books in the
+hands of the right people,
+
+00:52:32.930 --> 00:52:34.950 align:middle line:84%
+the willingness to pay
+is way, way higher.
+
+00:52:34.950 --> 00:52:39.170 align:middle line:84%
+In fact, actually, we say the
+paper started when Sara was
+
+00:52:39.170 --> 00:52:41.300 align:middle line:84%
+writing a paper on
+pharmaceuticals and needed some
+
+00:52:41.300 --> 00:52:46.400 align:middle line:84%
+obscure pharmaceutical book that
+someone had written in the 1970s
+
+00:52:46.400 --> 00:52:48.770 align:middle line:84%
+that the MIT libraries
+didn't carry.
+
+00:52:48.770 --> 00:52:53.280 align:middle line:84%
+You know, websites selling
+used books online were new.
+
+00:52:53.280 --> 00:52:56.690 align:middle line:84%
+She actually went on to
+websites selling used books,
+
+00:52:56.690 --> 00:52:59.750 align:middle line:84%
+found the book, and it's like,
+wow, I can find this book.
+
+00:52:59.750 --> 00:53:01.320 align:middle line:90%
+I've been trying to find this.
+
+00:53:01.320 --> 00:53:02.233 align:middle line:90%
+It's only $15.
+
+00:53:02.233 --> 00:53:03.900 align:middle line:84%
+I can pay it out of
+my research account.
+
+00:53:03.900 --> 00:53:06.140 align:middle line:84%
+I'm thrilled to get it
+for $15 instead of $100.
+
+00:53:06.140 --> 00:53:09.000 align:middle line:84%
+Gets it and then got
+the book in like $0.25
+
+00:53:09.000 --> 00:53:11.140 align:middle line:84%
+was penciled inside
+the front cover of it.
+
+00:53:11.140 --> 00:53:14.250 align:middle line:84%
+And she realized it had been
+sitting in a bookstore in Iowa
+
+00:53:14.250 --> 00:53:16.500 align:middle line:84%
+City since some economics
+professor retired
+
+00:53:16.500 --> 00:53:19.570 align:middle line:84%
+for the last decade, and no one
+wanted to pay $0.25 for this.
+
+00:53:19.570 --> 00:53:21.750 align:middle line:84%
+And she was thrilled
+to get it for $15
+
+00:53:21.750 --> 00:53:24.480 align:middle line:84%
+and realizing that this
+is potential huge increase
+
+00:53:24.480 --> 00:53:27.162 align:middle line:84%
+in social welfare
+of match quality.
+
+00:53:27.162 --> 00:53:28.620 align:middle line:84%
+Anyway, so part of
+what we're doing
+
+00:53:28.620 --> 00:53:31.423 align:middle line:84%
+is underestimate
+that match quality.
+
+00:53:31.423 --> 00:53:33.090 align:middle line:84%
+And then the second
+thought in the paper
+
+00:53:33.090 --> 00:53:36.840 align:middle line:84%
+is that, it's nice to explain
+two things with one story.
+
+00:53:36.840 --> 00:53:38.520 align:middle line:84%
+Like, prices are
+high and dispersed
+
+00:53:38.520 --> 00:53:39.520 align:middle line:90%
+because of search costs.
+
+00:53:39.520 --> 00:53:41.320 align:middle line:84%
+But we think there
+are two stories here.
+
+00:53:41.320 --> 00:53:43.530 align:middle line:84%
+Prices are high because
+of match quality.
+
+00:53:43.530 --> 00:53:46.912 align:middle line:84%
+And prices are dispersed
+because some websites are better
+
+00:53:46.912 --> 00:53:48.870 align:middle line:84%
+at selling things than
+others, and the websites
+
+00:53:48.870 --> 00:53:49.860 align:middle line:84%
+that are better
+at selling things
+
+00:53:49.860 --> 00:53:52.470 align:middle line:84%
+are able to command much higher
+prices than the ones that
+
+00:53:52.470 --> 00:53:54.660 align:middle line:90%
+have limited attention.
+
+00:53:54.660 --> 00:53:56.830 align:middle line:84%
+Anyway, so what
+does the paper do?
+
+00:53:56.830 --> 00:53:58.940 align:middle line:90%
+It's a three-part paper.
+
+00:53:58.940 --> 00:54:02.910 align:middle line:84%
+First, it's developing simple
+models to basically illustrate
+
+00:54:02.910 --> 00:54:04.623 align:middle line:90%
+the ideas.
+
+00:54:04.623 --> 00:54:06.290 align:middle line:84%
+You know, one and two
+are really, again,
+
+00:54:06.290 --> 00:54:09.920 align:middle line:84%
+just me always aspiring to
+be like Hendrix and Porter
+
+00:54:09.920 --> 00:54:12.295 align:middle line:84%
+and having this theory, having
+predictions of the theory,
+
+00:54:12.295 --> 00:54:14.503 align:middle line:84%
+testing the predictions of
+the theory to convince you
+
+00:54:14.503 --> 00:54:15.360 align:middle line:90%
+that it's right.
+
+00:54:15.360 --> 00:54:16.880 align:middle line:84%
+And then the back
+part of the paper
+
+00:54:16.880 --> 00:54:20.300 align:middle line:84%
+is structural estimates to try
+to say how big are the welfare
+
+00:54:20.300 --> 00:54:24.860 align:middle line:84%
+gains from improved
+accessibility of used books sold
+
+00:54:24.860 --> 00:54:28.050 align:middle line:84%
+online versus in
+physical stores.
+
+00:54:28.050 --> 00:54:30.490 align:middle line:90%
+OK.
+
+00:54:30.490 --> 00:54:34.080 align:middle line:84%
+So first, let me start
+with the basic theory.
+
+00:54:34.080 --> 00:54:38.900 align:middle line:84%
+And this is a simple model
+of dynamic monopoly pricing
+
+00:54:38.900 --> 00:54:40.490 align:middle line:90%
+of a variety that we don't--
+
+00:54:40.490 --> 00:54:43.580 align:middle line:84%
+I guess I never covered
+in the IO class.
+
+00:54:43.580 --> 00:54:45.800 align:middle line:84%
+But so imagine that
+you have a seller
+
+00:54:45.800 --> 00:54:48.090 align:middle line:84%
+and the seller just
+has one unit to sell.
+
+00:54:48.090 --> 00:54:49.350 align:middle line:90%
+There's no production here.
+
+00:54:49.350 --> 00:54:51.180 align:middle line:90%
+So this is a unique item.
+
+00:54:51.180 --> 00:54:52.760 align:middle line:90%
+You're just trying to sell it.
+
+00:54:52.760 --> 00:54:54.620 align:middle line:84%
+And then you have
+customers who have
+
+00:54:54.620 --> 00:54:58.040 align:middle line:84%
+values VJ drawn from
+some distribution F
+
+00:54:58.040 --> 00:55:00.980 align:middle line:84%
+and they just arrive at
+some Poisson rate gamma.
+
+00:55:00.980 --> 00:55:02.780 align:middle line:90%
+They walk into your store.
+
+00:55:02.780 --> 00:55:05.000 align:middle line:84%
+When they walk into
+your store and are
+
+00:55:05.000 --> 00:55:06.950 align:middle line:84%
+interested in this
+pharmaceutical textbook,
+
+00:55:06.950 --> 00:55:10.260 align:middle line:84%
+you have to either sell it to
+them immediately or not at all.
+
+00:55:10.260 --> 00:55:13.007 align:middle line:84%
+Because if they walk into
+your store, they see the book,
+
+00:55:13.007 --> 00:55:15.090 align:middle line:84%
+they look at the price,
+they don't want to buy it,
+
+00:55:15.090 --> 00:55:15.780 align:middle line:90%
+they walk out.
+
+00:55:15.780 --> 00:55:16.947 align:middle line:90%
+You'll never see them again.
+
+00:55:16.947 --> 00:55:19.310 align:middle line:90%
+
+
+00:55:19.310 --> 00:55:21.610 align:middle line:90%
+How should you set your prices?
+
+00:55:21.610 --> 00:55:24.800 align:middle line:84%
+Well, you know, the
+demand from these
+
+00:55:24.800 --> 00:55:26.610 align:middle line:84%
+are one-time consumers
+who are myopic.
+
+00:55:26.610 --> 00:55:28.460 align:middle line:84%
+So the demand at
+price P is just 1
+
+00:55:28.460 --> 00:55:30.510 align:middle line:84%
+minus capital F of
+P, the probability
+
+00:55:30.510 --> 00:55:33.420 align:middle line:84%
+that the consumer's
+value is above P.
+
+00:55:33.420 --> 00:55:37.317 align:middle line:84%
+So the expected profit
+is the expectation
+
+00:55:37.317 --> 00:55:39.150 align:middle line:84%
+of setting a price of
+P and leaving it there
+
+00:55:39.150 --> 00:55:42.600 align:middle line:84%
+is the expectation of pe
+to the minus rt, where
+
+00:55:42.600 --> 00:55:48.000 align:middle line:84%
+t is the random time at
+which you will sell the book.
+
+00:55:48.000 --> 00:55:49.530 align:middle line:84%
+In this model, as
+long as you set
+
+00:55:49.530 --> 00:55:51.865 align:middle line:84%
+any p that's less than
+the upper bound of F,
+
+00:55:51.865 --> 00:55:53.490 align:middle line:84%
+you'll always sell
+the book eventually,
+
+00:55:53.490 --> 00:55:55.800 align:middle line:84%
+you just may sell it a
+million years in the future
+
+00:55:55.800 --> 00:55:58.980 align:middle line:84%
+and the [INAUDIBLE] rt will
+eat up all your profits.
+
+00:55:58.980 --> 00:56:03.150 align:middle line:84%
+OK, so what we're going
+to do is integrate pe
+
+00:56:03.150 --> 00:56:06.960 align:middle line:84%
+to the minus rt
+times the density
+
+00:56:06.960 --> 00:56:10.440 align:middle line:84%
+of the probability
+of selling the book
+
+00:56:10.440 --> 00:56:12.760 align:middle line:90%
+in the interval tt plus dt.
+
+00:56:12.760 --> 00:56:16.100 align:middle line:90%
+
+
+00:56:16.100 --> 00:56:18.720 align:middle line:84%
+Gamma is the Poisson
+arrival rate.
+
+00:56:18.720 --> 00:56:22.430 align:middle line:84%
+Gamma D of P is the
+Poisson arrival rate
+
+00:56:22.430 --> 00:56:26.240 align:middle line:84%
+of people willing to
+pay at least P. And so
+
+00:56:26.240 --> 00:56:28.280 align:middle line:84%
+the density of the
+time you sell it
+
+00:56:28.280 --> 00:56:34.033 align:middle line:84%
+is gamma D of pe to the
+minus gamma D of pt.
+
+00:56:34.033 --> 00:56:36.200 align:middle line:84%
+You may have seen like if
+you have a Poisson arrival
+
+00:56:36.200 --> 00:56:40.460 align:middle line:84%
+rate, gamma, you know,
+the density of arrivals
+
+00:56:40.460 --> 00:56:45.950 align:middle line:90%
+is gamma e to the minus gamma t.
+
+00:56:45.950 --> 00:56:49.860 align:middle line:84%
+And so the arrival rate of
+people willing to pay p is this.
+
+00:56:49.860 --> 00:56:54.390 align:middle line:84%
+So this is the density of
+the arrival distribution.
+
+00:56:54.390 --> 00:56:57.330 align:middle line:84%
+And it turns out this is a
+nice, well-behaved integral.
+
+00:56:57.330 --> 00:57:03.330 align:middle line:84%
+And so the price is a function
+of p as this expression.
+
+00:57:03.330 --> 00:57:08.310 align:middle line:84%
+It's p times gamma D of p
+over r plus gamma D of p.
+
+00:57:08.310 --> 00:57:13.120 align:middle line:84%
+And so as gamma
+D of p goes to 1,
+
+00:57:13.120 --> 00:57:17.410 align:middle line:84%
+you're selling it almost
+instantly and your profit is p.
+
+00:57:17.410 --> 00:57:21.595 align:middle line:84%
+As gamma D of p goes
+to zero, the r over
+
+00:57:21.595 --> 00:57:23.470 align:middle line:84%
+outweighs the gamma D
+of p, and you basically
+
+00:57:23.470 --> 00:57:26.500 align:middle line:84%
+are getting something that's
+going towards zero because this
+
+00:57:26.500 --> 00:57:31.210 align:middle line:84%
+is the discounting and this is
+the price at which you sell it.
+
+00:57:31.210 --> 00:57:35.030 align:middle line:84%
+And so we can think of monopoly
+pricing in two different ways.
+
+00:57:35.030 --> 00:57:37.540 align:middle line:84%
+One way to think about it
+is just the monopoly price
+
+00:57:37.540 --> 00:57:41.140 align:middle line:84%
+is the maximizer
+of this expression.
+
+00:57:41.140 --> 00:57:43.750 align:middle line:84%
+Second way to think about it
+is like a dynamic programming
+
+00:57:43.750 --> 00:57:44.980 align:middle line:90%
+approach.
+
+00:57:44.980 --> 00:57:47.085 align:middle line:84%
+This good doesn't have
+any production costs,
+
+00:57:47.085 --> 00:57:49.210 align:middle line:84%
+but it has an opportunity
+cost because you can only
+
+00:57:49.210 --> 00:57:50.500 align:middle line:90%
+sell it once.
+
+00:57:50.500 --> 00:57:55.570 align:middle line:84%
+And so if pi star is your
+equilibrium expected profit
+
+00:57:55.570 --> 00:57:58.060 align:middle line:84%
+from holding one
+unit of this good,
+
+00:57:58.060 --> 00:58:00.940 align:middle line:84%
+you're thinking about someone's
+in my store now, what price
+
+00:58:00.940 --> 00:58:03.250 align:middle line:90%
+should I quote them?
+
+00:58:03.250 --> 00:58:07.060 align:middle line:84%
+What I want to do is maximize
+p minus pi star D of p.
+
+00:58:07.060 --> 00:58:09.820 align:middle line:84%
+I'm maximizing price
+minus opportunity cost
+
+00:58:09.820 --> 00:58:10.910 align:middle line:90%
+times the demand.
+
+00:58:10.910 --> 00:58:12.410 align:middle line:84%
+And so another way
+to think about it
+
+00:58:12.410 --> 00:58:19.610 align:middle line:84%
+is that pm has to solve this
+where pi star is pi of pm.
+
+00:58:19.610 --> 00:58:21.350 align:middle line:84%
+So it's two different
+ways to think
+
+00:58:21.350 --> 00:58:23.843 align:middle line:84%
+about monopoly pricing
+for a unique item
+
+00:58:23.843 --> 00:58:25.260 align:middle line:84%
+when you have a
+customer arrivals.
+
+00:58:25.260 --> 00:58:29.030 align:middle line:90%
+
+
+00:58:29.030 --> 00:58:32.360 align:middle line:84%
+Observations from this
+monopoly pricing model.
+
+00:58:32.360 --> 00:58:36.795 align:middle line:84%
+Monopoly prices increasing
+in the customer arrival rate.
+
+00:58:36.795 --> 00:58:38.670 align:middle line:84%
+Why is the increase in
+customer arrival rate?
+
+00:58:38.670 --> 00:58:40.670 align:middle line:84%
+Because the higher is the
+customer arrival rate,
+
+00:58:40.670 --> 00:58:42.620 align:middle line:84%
+the higher is your
+opportunity cost.
+
+00:58:42.620 --> 00:58:47.040 align:middle line:84%
+This is, again, a 14.121
+standard exam question.
+
+00:58:47.040 --> 00:58:49.040 align:middle line:84%
+Your monopoly
+price is increasing
+
+00:58:49.040 --> 00:58:52.850 align:middle line:84%
+in your cost, full stop
+because of this function
+
+00:58:52.850 --> 00:58:54.420 align:middle line:90%
+as increasing differences.
+
+00:58:54.420 --> 00:58:59.930 align:middle line:84%
+So monopoly price is increasing
+opportunity cost, therefore
+
+00:58:59.930 --> 00:59:02.240 align:middle line:84%
+dynamic monopoly price
+increases in arrival rate
+
+00:59:02.240 --> 00:59:04.760 align:middle line:84%
+because arrival rate increases
+your opportunity set.
+
+00:59:04.760 --> 00:59:07.370 align:middle line:90%
+Opportunity cost goes up.
+
+00:59:07.370 --> 00:59:10.640 align:middle line:84%
+So anyway, if consumers start
+to arrive at higher rates
+
+00:59:10.640 --> 00:59:12.560 align:middle line:84%
+online than they did
+in physical stores,
+
+00:59:12.560 --> 00:59:14.340 align:middle line:84%
+you're going to
+get higher prices.
+
+00:59:14.340 --> 00:59:16.430 align:middle line:84%
+And if there's a rival
+rate heterogeneity
+
+00:59:16.430 --> 00:59:18.710 align:middle line:84%
+across online
+stores, that's going
+
+00:59:18.710 --> 00:59:20.010 align:middle line:90%
+to lead to price dispersion.
+
+00:59:20.010 --> 00:59:22.545 align:middle line:84%
+And stores that are frequently
+visited by online consumers
+
+00:59:22.545 --> 00:59:24.920 align:middle line:84%
+are going to be able to set
+higher prices because they're
+
+00:59:24.920 --> 00:59:26.040 align:middle line:90%
+more patient.
+
+00:59:26.040 --> 00:59:30.780 align:middle line:84%
+Those that have fewer visitors
+are going to set lower prices.
+
+00:59:30.780 --> 00:59:33.840 align:middle line:84%
+How sensitive prices
+are to arrival rates
+
+00:59:33.840 --> 00:59:38.450 align:middle line:84%
+depends on the thickness
+of the upper tail.
+
+00:59:38.450 --> 00:59:41.540 align:middle line:84%
+If you have an extremely
+thick tailed distribution,
+
+00:59:41.540 --> 00:59:45.830 align:middle line:84%
+like constant times p
+to the minus 1, then
+
+00:59:45.830 --> 00:59:47.930 align:middle line:84%
+the monopoly price
+increases almost
+
+00:59:47.930 --> 00:59:50.030 align:middle line:90%
+linearly in arrival rates.
+
+00:59:50.030 --> 00:59:52.220 align:middle line:84%
+If you have a very thin
+tailed distribution
+
+00:59:52.220 --> 00:59:55.970 align:middle line:84%
+with a greater than 1, you know,
+things increase more slowly
+
+00:59:55.970 --> 00:59:58.850 align:middle line:90%
+with arrival rates.
+
+00:59:58.850 --> 01:00:03.290 align:middle line:84%
+And then with if demand has
+this constant elasticity form,
+
+01:00:03.290 --> 01:00:08.060 align:middle line:84%
+like this, then you get
+this very unusual theorem.
+
+01:00:08.060 --> 01:00:10.820 align:middle line:84%
+So the theorem is, suppose
+the distribution of consumer
+
+01:00:10.820 --> 01:00:12.680 align:middle line:84%
+valuations is such
+that demand has
+
+01:00:12.680 --> 01:00:15.320 align:middle line:84%
+a truncated, constant
+elasticity form.
+
+01:00:15.320 --> 01:00:17.990 align:middle line:84%
+Suppose the monopoly
+price is not
+
+01:00:17.990 --> 01:00:19.850 align:middle line:84%
+at the kink of this
+demand curve at 1,
+
+01:00:19.850 --> 01:00:22.970 align:middle line:84%
+but it's on the
+downward sloping part.
+
+01:00:22.970 --> 01:00:27.530 align:middle line:84%
+Then the monopoly price
+maximizes social welfare,
+
+01:00:27.530 --> 01:00:32.190 align:middle line:84%
+and social welfare is the price
+numerically, just numerically.
+
+01:00:32.190 --> 01:00:35.420 align:middle line:84%
+Like, I want to say, what's
+the expected producer
+
+01:00:35.420 --> 01:00:37.950 align:middle line:84%
+surplus plus consumer surplus
+from selling this book?
+
+01:00:37.950 --> 01:00:40.520 align:middle line:84%
+The answer is, if that
+book is being sold for $12,
+
+01:00:40.520 --> 01:00:42.620 align:middle line:84%
+the answer expected
+welfare is $12.
+
+01:00:42.620 --> 01:00:45.080 align:middle line:84%
+So in some sense, like,
+it's the most powerful
+
+01:00:45.080 --> 01:00:47.840 align:middle line:84%
+structural estimation
+theorem of all time,
+
+01:00:47.840 --> 01:00:50.720 align:middle line:84%
+saying, if you want to
+estimate the social welfare
+
+01:00:50.720 --> 01:00:53.250 align:middle line:84%
+from dynamic sales, you
+just write down the price.
+
+01:00:53.250 --> 01:00:55.458 align:middle line:84%
+You don't need to compute
+the demand elasticities.
+
+01:00:55.458 --> 01:00:57.750 align:middle line:84%
+You don't need to figure out
+consumer surplus, nothing.
+
+01:00:57.750 --> 01:01:01.040 align:middle line:84%
+You just write down the price
+and that is the welfare.
+
+01:01:01.040 --> 01:01:03.050 align:middle line:84%
+And then there's also
+this optimality theorem
+
+01:01:03.050 --> 01:01:06.140 align:middle line:84%
+that there's no
+monopoly distortion.
+
+01:01:06.140 --> 01:01:10.200 align:middle line:84%
+And so, like, why
+does this work out?
+
+01:01:10.200 --> 01:01:15.590 align:middle line:84%
+You know, obviously
+the monopoly price
+
+01:01:15.590 --> 01:01:19.720 align:middle line:90%
+maximizes monopolist profits.
+
+01:01:19.720 --> 01:01:22.690 align:middle line:90%
+But what is consumer surplus?
+
+01:01:22.690 --> 01:01:27.670 align:middle line:84%
+So if I have this distribution
+of consumer valuations.
+
+01:01:27.670 --> 01:01:32.860 align:middle line:84%
+So I have this distribution of
+consumer valuations, F of V,
+
+01:01:32.860 --> 01:01:35.380 align:middle line:84%
+and imagine it looks
+something like that.
+
+01:01:35.380 --> 01:01:37.360 align:middle line:84%
+And suppose I set
+some price, pm.
+
+01:01:37.360 --> 01:01:40.110 align:middle line:90%
+
+
+01:01:40.110 --> 01:01:41.400 align:middle line:90%
+OK.
+
+01:01:41.400 --> 01:01:47.490 align:middle line:84%
+When I sell the good, there's
+some consumer surplus.
+
+01:01:47.490 --> 01:01:49.440 align:middle line:90%
+What's the consumer surplus?
+
+01:01:49.440 --> 01:01:54.143 align:middle line:84%
+That's the expectation of
+V minus pm conditional on V
+
+01:01:54.143 --> 01:01:54.810 align:middle line:90%
+greater than pm.
+
+01:01:54.810 --> 01:01:58.150 align:middle line:90%
+
+
+01:01:58.150 --> 01:02:01.840 align:middle line:84%
+How does that vary with
+the monopoly price?
+
+01:02:01.840 --> 01:02:11.110 align:middle line:84%
+Like, in a linear demand curve,
+as I set the price really high,
+
+01:02:11.110 --> 01:02:13.600 align:middle line:84%
+you know, the expected value
+conditional on being bigger
+
+01:02:13.600 --> 01:02:15.910 align:middle line:90%
+than this is almost nothing.
+
+01:02:15.910 --> 01:02:19.000 align:middle line:84%
+And so consumer surplus
+drops substantially
+
+01:02:19.000 --> 01:02:20.580 align:middle line:90%
+with the monopoly price.
+
+01:02:20.580 --> 01:02:23.380 align:middle line:84%
+But in a constant
+elasticity model,
+
+01:02:23.380 --> 01:02:28.120 align:middle line:84%
+the expected value of V
+minus pm conditional on V
+
+01:02:28.120 --> 01:02:32.560 align:middle line:84%
+being bigger than pm
+is proportional to pm.
+
+01:02:32.560 --> 01:02:35.680 align:middle line:84%
+So in a constant
+elasticity demand curve,
+
+01:02:35.680 --> 01:02:40.780 align:middle line:84%
+consumer surplus is
+proportional to the price.
+
+01:02:40.780 --> 01:02:43.750 align:middle line:84%
+So if you set a really,
+really high price,
+
+01:02:43.750 --> 01:02:46.010 align:middle line:84%
+you don't sell for
+a very long time,
+
+01:02:46.010 --> 01:02:49.250 align:middle line:84%
+and so the pe to the minus
+rt part gets really small.
+
+01:02:49.250 --> 01:02:51.790 align:middle line:84%
+But when you do sell it,
+the person because they're
+
+01:02:51.790 --> 01:02:53.950 align:middle line:84%
+willing to pay $1
+million for this book,
+
+01:02:53.950 --> 01:02:58.640 align:middle line:84%
+their expected surplus is also
+on the order of $1 million.
+
+01:02:58.640 --> 01:03:01.910 align:middle line:84%
+And so with constant
+elasticity demand,
+
+01:03:01.910 --> 01:03:04.130 align:middle line:84%
+the consumer surplus
+is just always
+
+01:03:04.130 --> 01:03:07.700 align:middle line:84%
+proportional to the price being
+paid, expected proportional
+
+01:03:07.700 --> 01:03:08.550 align:middle line:90%
+to price.
+
+01:03:08.550 --> 01:03:12.055 align:middle line:84%
+Therefore, by maximizing
+expected price paid
+
+01:03:12.055 --> 01:03:13.430 align:middle line:84%
+discounted expected
+price, you're
+
+01:03:13.430 --> 01:03:16.850 align:middle line:84%
+also maximizing discounted
+expected social welfare.
+
+01:03:16.850 --> 01:03:18.710 align:middle line:90%
+So I view this as more a--
+
+01:03:18.710 --> 01:03:21.440 align:middle line:84%
+I mean, it's a neat
+estimation trick or something,
+
+01:03:21.440 --> 01:03:23.540 align:middle line:84%
+but I view it more
+as a cautionary tale.
+
+01:03:23.540 --> 01:03:26.870 align:middle line:84%
+The cautionary tale being,
+if in this demand estimation,
+
+01:03:26.870 --> 01:03:31.400 align:middle line:84%
+you can't tell the
+demand apart from--
+
+01:03:31.400 --> 01:03:34.670 align:middle line:84%
+if you can't tell the
+valuation curve apart
+
+01:03:34.670 --> 01:03:37.100 align:middle line:84%
+from a constant
+elasticity demand curve,
+
+01:03:37.100 --> 01:03:39.650 align:middle line:84%
+then you're going
+to end up finding
+
+01:03:39.650 --> 01:03:41.278 align:middle line:84%
+that the expected
+welfare is the price,
+
+01:03:41.278 --> 01:03:43.070 align:middle line:84%
+regardless of what the
+demand elasticity is
+
+01:03:43.070 --> 01:03:45.610 align:middle line:90%
+and everything else are.
+
+01:03:45.610 --> 01:03:48.437 align:middle line:84%
+So it can be a
+first approximation.
+
+01:03:48.437 --> 01:03:50.520 align:middle line:84%
+And it's also, if you want
+a better approximation,
+
+01:03:50.520 --> 01:03:53.250 align:middle line:84%
+you need to be able to tell
+the shape of this curve
+
+01:03:53.250 --> 01:03:56.085 align:middle line:84%
+apart from a constant
+elasticity one, which
+
+01:03:56.085 --> 01:03:57.960 align:middle line:84%
+is going to be hard to
+do when the upper tail
+
+01:03:57.960 --> 01:04:01.610 align:middle line:84%
+because you don't see things
+in the upper tail very often.
+
+01:04:01.610 --> 01:04:04.010 align:middle line:90%
+OK.
+
+01:04:04.010 --> 01:04:07.340 align:middle line:84%
+so now let me think about
+that's a monopoly model.
+
+01:04:07.340 --> 01:04:09.600 align:middle line:84%
+Again, think about
+an oligopoly model.
+
+01:04:09.600 --> 01:04:11.880 align:middle line:84%
+So you have two
+types of consumers.
+
+01:04:11.880 --> 01:04:14.670 align:middle line:84%
+You have some people
+who just go straight.
+
+01:04:14.670 --> 01:04:17.360 align:middle line:84%
+Like, they know some
+online bookstore,
+
+01:04:17.360 --> 01:04:20.420 align:middle line:84%
+like Better World Books
+or Powell's Books.
+
+01:04:20.420 --> 01:04:23.810 align:middle line:84%
+And they just go directly
+to PowellsBooks.com,
+
+01:04:23.810 --> 01:04:25.120 align:middle line:90%
+look for a book there.
+
+01:04:25.120 --> 01:04:27.800 align:middle line:90%
+
+
+01:04:27.800 --> 01:04:30.830 align:middle line:84%
+We're going to have some
+consumers who have this,
+
+01:04:30.830 --> 01:04:32.700 align:middle line:90%
+or you do a Google search.
+
+01:04:32.700 --> 01:04:35.480 align:middle line:84%
+Google search reveals
+the name of one bookstore
+
+01:04:35.480 --> 01:04:36.518 align:middle line:90%
+for the title you want.
+
+01:04:36.518 --> 01:04:38.060 align:middle line:84%
+You just go to that
+bookstore and you
+
+01:04:38.060 --> 01:04:41.050 align:middle line:84%
+buy from the first, the one
+that's highest ranked on Google.
+
+01:04:41.050 --> 01:04:42.830 align:middle line:84%
+And then we have
+other people who
+
+01:04:42.830 --> 01:04:45.920 align:middle line:84%
+are going to be shoppers who
+are going to arrive at a Poisson
+
+01:04:45.920 --> 01:04:49.910 align:middle line:84%
+rate and they observe the
+prices at all the stores.
+
+01:04:49.910 --> 01:04:52.562 align:middle line:90%
+Do I have a picture of AbeBooks?
+
+01:04:52.562 --> 01:04:54.020 align:middle line:84%
+I don't have a
+picture of AbeBooks.
+
+01:04:54.020 --> 01:04:54.520 align:middle line:90%
+OK.
+
+01:04:54.520 --> 01:05:01.370 align:middle line:84%
+Anyway, we use data in
+the paper from a website
+
+01:05:01.370 --> 01:05:02.790 align:middle line:90%
+called AbeBooks.com.
+
+01:05:02.790 --> 01:05:08.450 align:middle line:90%
+
+
+01:05:08.450 --> 01:05:12.810 align:middle line:84%
+AbeBooks, it's a used
+book aggregator site.
+
+01:05:12.810 --> 01:05:14.040 align:middle line:90%
+You can go on there.
+
+01:05:14.040 --> 01:05:17.400 align:middle line:84%
+You could type in any book
+you want that's out of print.
+
+01:05:17.400 --> 01:05:20.240 align:middle line:84%
+It will find 100
+online bookstores that
+
+01:05:20.240 --> 01:05:22.660 align:middle line:90%
+sell that particular used book.
+
+01:05:22.660 --> 01:05:24.950 align:middle line:90%
+OK.
+
+01:05:24.950 --> 01:05:26.612 align:middle line:84%
+Actually, you
+know, AbeBooks used
+
+01:05:26.612 --> 01:05:27.820 align:middle line:90%
+to be an independent company.
+
+01:05:27.820 --> 01:05:29.080 align:middle line:90%
+It was purchased by Amazon.
+
+01:05:29.080 --> 01:05:31.890 align:middle line:84%
+So if you go to the
+Amazon Buy Used button,
+
+01:05:31.890 --> 01:05:36.200 align:middle line:84%
+Amazon Buy Used button
+is the AbeBooks listings.
+
+01:05:36.200 --> 01:05:38.575 align:middle line:84%
+In some sense, Amazon invented
+the Buy Used button first.
+
+01:05:38.575 --> 01:05:40.200 align:middle line:84%
+When they invented
+the Buy Used button,
+
+01:05:40.200 --> 01:05:41.940 align:middle line:84%
+there was nothing
+there under Buy Used.
+
+01:05:41.940 --> 01:05:44.590 align:middle line:84%
+You'd click Buy Used and there
+were no copies available.
+
+01:05:44.590 --> 01:05:46.340 align:middle line:84%
+And then they realized,
+well, why don't we
+
+01:05:46.340 --> 01:05:49.140 align:middle line:84%
+just buy AbeBooks that has
+10 million used books listed
+
+01:05:49.140 --> 01:05:51.430 align:middle line:84%
+and put all their listings
+under the Buy Used button?
+
+01:05:51.430 --> 01:05:53.097 align:middle line:84%
+So now if you go to
+the Buy Used button,
+
+01:05:53.097 --> 01:05:55.530 align:middle line:84%
+you're seeing the same
+AbeBooks listings.
+
+01:05:55.530 --> 01:05:56.640 align:middle line:90%
+OK.
+
+01:05:56.640 --> 01:05:58.087 align:middle line:84%
+Anyway, so our
+model is that there
+
+01:05:58.087 --> 01:05:59.795 align:middle line:84%
+are sort of these two
+types of customers,
+
+01:05:59.795 --> 01:06:02.280 align:middle line:84%
+the ones going to Amazon
+and clicking Buy Used
+
+01:06:02.280 --> 01:06:05.560 align:middle line:84%
+and getting this curated list of
+all the things sorted by price,
+
+01:06:05.560 --> 01:06:07.560 align:middle line:84%
+and then the people who
+are searching for a book
+
+01:06:07.560 --> 01:06:10.200 align:middle line:84%
+by just typing it into
+Google or going directly
+
+01:06:10.200 --> 01:06:12.030 align:middle line:84%
+to a used bookstore
+that they know online
+
+01:06:12.030 --> 01:06:14.440 align:middle line:90%
+and finding it that way.
+
+01:06:14.440 --> 01:06:16.860 align:middle line:84%
+You know, we know
+that this model
+
+01:06:16.860 --> 01:06:19.953 align:middle line:84%
+can have pure strategy dispersed
+price equilibrium, not so
+
+01:06:19.953 --> 01:06:21.870 align:middle line:84%
+different from the
+dispersed price equilibrium
+
+01:06:21.870 --> 01:06:25.670 align:middle line:84%
+I did when I did differentiated
+product search models.
+
+01:06:25.670 --> 01:06:27.450 align:middle line:84%
+You know, the firms
+here, the dispersion
+
+01:06:27.450 --> 01:06:30.000 align:middle line:84%
+is going to be the firms that
+have the higher arrival rates
+
+01:06:30.000 --> 01:06:33.440 align:middle line:84%
+are going to set high prices and
+mostly serve the non-shoppers.
+
+01:06:33.440 --> 01:06:35.340 align:middle line:84%
+If you don't have a
+lot of non-shoppers,
+
+01:06:35.340 --> 01:06:38.670 align:middle line:84%
+you're going to set a low price
+and compete for the shoppers.
+
+01:06:38.670 --> 01:06:42.450 align:middle line:84%
+And when I'm thinking about,
+like, how does the online prices
+
+01:06:42.450 --> 01:06:43.890 align:middle line:90%
+differ from the offline prices?
+
+01:06:43.890 --> 01:06:46.030 align:middle line:84%
+It helps think that
+there are two reasons.
+
+01:06:46.030 --> 01:06:47.762 align:middle line:90%
+One is the match quality reason.
+
+01:06:47.762 --> 01:06:50.220 align:middle line:84%
+The higher arrival rates shift
+the distribution of monopoly
+
+01:06:50.220 --> 01:06:52.710 align:middle line:90%
+prices to the right.
+
+01:06:52.710 --> 01:06:54.930 align:middle line:84%
+The second is the
+competition effect,
+
+01:06:54.930 --> 01:06:57.970 align:middle line:84%
+which is there's a desire
+to attract the shoppers.
+
+01:06:57.970 --> 01:07:01.020 align:middle line:84%
+So the firms that have low
+arrival rates of non-shoppers
+
+01:07:01.020 --> 01:07:03.150 align:middle line:84%
+are going to be competing
+against each other
+
+01:07:03.150 --> 01:07:05.592 align:middle line:84%
+to try to sell in a more
+Bertrand-like environment
+
+01:07:05.592 --> 01:07:07.550 align:middle line:84%
+to the people who are
+using the search engines.
+
+01:07:07.550 --> 01:07:10.610 align:middle line:90%
+
+
+01:07:10.610 --> 01:07:13.200 align:middle line:84%
+So I think on the next page
+I have this illustration.
+
+01:07:13.200 --> 01:07:16.590 align:middle line:84%
+So here's a numerical
+simulation of the model.
+
+01:07:16.590 --> 01:07:20.960 align:middle line:84%
+So this dashed gray line would
+be the distribution of monopoly
+
+01:07:20.960 --> 01:07:22.850 align:middle line:84%
+prices if there
+are exponentially
+
+01:07:22.850 --> 01:07:24.240 align:middle line:90%
+distributed arrival rates.
+
+01:07:24.240 --> 01:07:26.390 align:middle line:84%
+And so the firms with
+high arrival rates
+
+01:07:26.390 --> 01:07:30.320 align:middle line:84%
+at high prices, those with low
+arrival rates at low prices.
+
+01:07:30.320 --> 01:07:34.700 align:middle line:84%
+If I increase the
+value of the good
+
+01:07:34.700 --> 01:07:36.830 align:middle line:84%
+because people are getting
+a better matched good,
+
+01:07:36.830 --> 01:07:38.390 align:middle line:84%
+the monopoly price
+distribution would
+
+01:07:38.390 --> 01:07:42.250 align:middle line:84%
+shift to the right from the
+gray line to the blue line.
+
+01:07:42.250 --> 01:07:45.735 align:middle line:84%
+But then if I add in
+this atom of shoppers
+
+01:07:45.735 --> 01:07:47.860 align:middle line:84%
+who are just going to buy
+for the lowest price book
+
+01:07:47.860 --> 01:07:51.040 align:middle line:84%
+and are fairly price
+insensitive, what you get
+
+01:07:51.040 --> 01:07:52.930 align:middle line:90%
+is the distribution of prices.
+
+01:07:52.930 --> 01:07:55.540 align:middle line:84%
+All the firms that are going
+to be setting the lowest prices
+
+01:07:55.540 --> 01:07:58.180 align:middle line:84%
+are now Bertrand competing
+against the other firms
+
+01:07:58.180 --> 01:08:00.220 align:middle line:84%
+who are also going to
+set very low prices.
+
+01:08:00.220 --> 01:08:03.620 align:middle line:84%
+And so the low end of the price
+distribution gets pulled down.
+
+01:08:03.620 --> 01:08:06.570 align:middle line:84%
+The upper tail really
+doesn't get affected at all.
+
+01:08:06.570 --> 01:08:08.320 align:middle line:84%
+The upper tail doesn't
+get affected at all
+
+01:08:08.320 --> 01:08:10.630 align:middle line:84%
+because these firms were
+just monopoly pricing
+
+01:08:10.630 --> 01:08:13.870 align:middle line:84%
+and serving the high
+value customers who happen
+
+01:08:13.870 --> 01:08:15.520 align:middle line:90%
+on their website occasionally.
+
+01:08:15.520 --> 01:08:17.821 align:middle line:84%
+They don't bother to
+compete for the shoppers.
+
+01:08:17.821 --> 01:08:19.779 align:middle line:84%
+They just leave the high
+price and just exploit
+
+01:08:19.779 --> 01:08:21.340 align:middle line:90%
+the non-shoppers.
+
+01:08:21.340 --> 01:08:23.710 align:middle line:84%
+And so what you get
+is this increase
+
+01:08:23.710 --> 01:08:28.060 align:middle line:84%
+in dispersion, which comes
+from the upper tail really
+
+01:08:28.060 --> 01:08:30.700 align:middle line:84%
+having moved up because
+people have higher values,
+
+01:08:30.700 --> 01:08:35.600 align:middle line:84%
+and then the lower tail getting
+pulled down by the competition.
+
+01:08:35.600 --> 01:08:38.170 align:middle line:84%
+And so we think those are the
+two things you should expect
+
+01:08:38.170 --> 01:08:40.630 align:middle line:84%
+is that the online price
+distribution has this thicker
+
+01:08:40.630 --> 01:08:43.850 align:middle line:84%
+upper tail relative to the
+offline price distribution,
+
+01:08:43.850 --> 01:08:47.050 align:middle line:84%
+but then it also has more mass
+in the lower tail, perhaps.
+
+01:08:47.050 --> 01:08:52.870 align:middle line:90%
+
+
+01:08:52.870 --> 01:08:55.600 align:middle line:84%
+OK, so how do we try to
+test this in the data?
+
+01:08:55.600 --> 01:09:00.250 align:middle line:84%
+So we gathered a data
+set that had 335 books
+
+01:09:00.250 --> 01:09:03.580 align:middle line:84%
+representative of traditional
+used bookstores' inventories.
+
+01:09:03.580 --> 01:09:07.000 align:middle line:90%
+The way this worked is we just--
+
+01:09:07.000 --> 01:09:08.819 align:middle line:84%
+actually, Sara did
+some of this herself.
+
+01:09:08.819 --> 01:09:12.760 align:middle line:84%
+We also just sent an RA to
+some physical bookstores with
+
+01:09:12.760 --> 01:09:17.979 align:middle line:84%
+the instructions, I want you to
+go to the physical bookstores
+
+01:09:17.979 --> 01:09:22.060 align:middle line:84%
+and just go to the first
+shelf, take every 17th book off
+
+01:09:22.060 --> 01:09:25.210 align:middle line:84%
+the shelf, take that book, write
+down the title, what it is,
+
+01:09:25.210 --> 01:09:28.479 align:middle line:84%
+write down the price, and then
+just go shelf to shelf to shelf
+
+01:09:28.479 --> 01:09:31.300 align:middle line:90%
+picking out books.
+
+01:09:31.300 --> 01:09:33.460 align:middle line:84%
+So we have hundreds,
+what we call
+
+01:09:33.460 --> 01:09:35.390 align:middle line:90%
+standard books in the data set.
+
+01:09:35.390 --> 01:09:38.960 align:middle line:84%
+We also oversampled what we
+call local interest books.
+
+01:09:38.960 --> 01:09:40.630 align:middle line:84%
+Like, if you go into
+a Boston bookstore,
+
+01:09:40.630 --> 01:09:42.880 align:middle line:84%
+you'll notice there's
+a shelf of books
+
+01:09:42.880 --> 01:09:46.270 align:middle line:90%
+about Boston and Boston stuff.
+
+01:09:46.270 --> 01:09:50.319 align:middle line:84%
+And so what we said is, if
+there's a local interest
+
+01:09:50.319 --> 01:09:53.359 align:middle line:84%
+section, so there's a Boston
+shelf in a Boston bookstore,
+
+01:09:53.359 --> 01:09:55.790 align:middle line:84%
+one of the bookstores
+was in Atlanta, there
+
+01:09:55.790 --> 01:09:58.185 align:middle line:84%
+if there's a book about
+Christmas in Georgia,
+
+01:09:58.185 --> 01:10:00.560 align:middle line:84%
+you know, like, find the shelf
+that has the Georgia books
+
+01:10:00.560 --> 01:10:03.440 align:middle line:90%
+and oversample those.
+
+01:10:03.440 --> 01:10:06.580 align:middle line:84%
+And then we also separate
+out popular books.
+
+01:10:06.580 --> 01:10:08.450 align:middle line:84%
+Popular books are
+the things like--
+
+01:10:08.450 --> 01:10:10.040 align:middle line:84%
+I mean, not necessarily
+Harry Potter,
+
+01:10:10.040 --> 01:10:11.720 align:middle line:84%
+but things that
+are popular enough
+
+01:10:11.720 --> 01:10:14.728 align:middle line:84%
+that every used bookstore is
+probably going to have a copy.
+
+01:10:14.728 --> 01:10:17.270 align:middle line:84%
+There are some things that these
+are former mega bestsellers.
+
+01:10:17.270 --> 01:10:19.490 align:middle line:84%
+So it's not so
+rare to find these,
+
+01:10:19.490 --> 01:10:22.130 align:middle line:84%
+whereas the standard books
+are all going to be completely
+
+01:10:22.130 --> 01:10:24.680 align:middle line:84%
+non-overlapping across stores
+because just the average used
+
+01:10:24.680 --> 01:10:26.013 align:middle line:90%
+book--
+
+01:10:26.013 --> 01:10:27.180 align:middle line:90%
+there are millions of books.
+
+01:10:27.180 --> 01:10:28.850 align:middle line:84%
+The average used book
+is just no one's going
+
+01:10:28.850 --> 01:10:30.090 align:middle line:90%
+to have another copy of that.
+
+01:10:30.090 --> 01:10:31.965 align:middle line:84%
+You could search the
+bookstores all your life
+
+01:10:31.965 --> 01:10:34.720 align:middle line:84%
+and probably not find another
+copy of a standard book.
+
+01:10:34.720 --> 01:10:35.600 align:middle line:90%
+OK.
+
+01:10:35.600 --> 01:10:38.700 align:middle line:84%
+Anyway, so we have
+four data collections.
+
+01:10:38.700 --> 01:10:41.420 align:middle line:84%
+What we did is we first just
+randomly selected these books
+
+01:10:41.420 --> 01:10:43.310 align:middle line:84%
+from physical
+bookstores, and then we
+
+01:10:43.310 --> 01:10:47.450 align:middle line:84%
+went online and searched for
+those books at AbeBooks.com.
+
+01:10:47.450 --> 01:10:52.160 align:middle line:84%
+And then we noticed
+that in between the time
+
+01:10:52.160 --> 01:10:54.470 align:middle line:84%
+we collected this and
+we wrote the paper,
+
+01:10:54.470 --> 01:10:57.050 align:middle line:90%
+Amazon bought AbeBooks.
+
+01:10:57.050 --> 01:11:00.320 align:middle line:84%
+And we thought, wow, that's
+a great second accidental
+
+01:11:00.320 --> 01:11:03.800 align:middle line:84%
+opportunity here is that Amazon
+buying AbeBooks and putting
+
+01:11:03.800 --> 01:11:06.000 align:middle line:84%
+the listings under
+Buy Used probably
+
+01:11:06.000 --> 01:11:08.000 align:middle line:84%
+just dramatically increased
+the number of people
+
+01:11:08.000 --> 01:11:12.960 align:middle line:84%
+who are looking at the curated
+search engine listings for them.
+
+01:11:12.960 --> 01:11:16.550 align:middle line:84%
+And so then after Amazon bought
+and incorporated the AbeBooks
+
+01:11:16.550 --> 01:11:19.140 align:middle line:84%
+listings, we went out and
+collected the data again
+
+01:11:19.140 --> 01:11:20.720 align:middle line:90%
+a second time.
+
+01:11:20.720 --> 01:11:22.780 align:middle line:84%
+And we collected the data
+again a second time so
+
+01:11:22.780 --> 01:11:25.700 align:middle line:84%
+that we would have a before
+and after on prices, before
+
+01:11:25.700 --> 01:11:27.980 align:middle line:90%
+and after the AbeBooks listings.
+
+01:11:27.980 --> 01:11:30.270 align:middle line:84%
+And then we went and
+collected the data fourth time
+
+01:11:30.270 --> 01:11:31.520 align:middle line:90%
+a few months later.
+
+01:11:31.520 --> 01:11:34.340 align:middle line:84%
+We realized it would be
+useful to have quantity data,
+
+01:11:34.340 --> 01:11:36.470 align:middle line:84%
+and a way to get
+quantity data is
+
+01:11:36.470 --> 01:11:38.690 align:middle line:84%
+to search a bookstore
+for the book,
+
+01:11:38.690 --> 01:11:40.838 align:middle line:84%
+search that same bookstore
+two months later,
+
+01:11:40.838 --> 01:11:42.380 align:middle line:84%
+see if they're still
+listing the book
+
+01:11:42.380 --> 01:11:44.270 align:middle line:84%
+and infer if they're
+not still listing
+
+01:11:44.270 --> 01:11:47.362 align:middle line:84%
+the book two months later,
+they may have sold the book.
+
+01:11:47.362 --> 01:11:49.320 align:middle line:84%
+Now they may have just
+also just taken it down,
+
+01:11:49.320 --> 01:11:52.070 align:middle line:84%
+but it's a pain to take
+things down from your website.
+
+01:11:52.070 --> 01:11:55.320 align:middle line:84%
+You probably take them
+down when you sell them.
+
+01:11:55.320 --> 01:11:58.700 align:middle line:84%
+So anyway, that's so we have
+these four data collections.
+
+01:11:58.700 --> 01:12:01.450 align:middle line:84%
+And last two is how
+we got quantity data.
+
+01:12:01.450 --> 01:12:04.610 align:middle line:90%
+
+
+01:12:04.610 --> 01:12:07.230 align:middle line:84%
+So what are the predictions
+we're trying to test?
+
+01:12:07.230 --> 01:12:10.610 align:middle line:84%
+Prediction 1 is
+that online prices
+
+01:12:10.610 --> 01:12:12.770 align:middle line:84%
+should be more dispersed
+than offline prices
+
+01:12:12.770 --> 01:12:16.000 align:middle line:90%
+and have a thicker upper tail.
+
+01:12:16.000 --> 01:12:19.870 align:middle line:84%
+Prediction 2 is, local
+interest books may already
+
+01:12:19.870 --> 01:12:22.360 align:middle line:84%
+be well matched by
+the offline stores,
+
+01:12:22.360 --> 01:12:25.330 align:middle line:84%
+and so the online-offline
+gap should be smaller
+
+01:12:25.330 --> 01:12:27.110 align:middle line:90%
+for the local interest books.
+
+01:12:27.110 --> 01:12:30.163 align:middle line:84%
+In particular, I put
+this quote up here.
+
+01:12:30.163 --> 01:12:32.080 align:middle line:84%
+I found this online
+review of one of the books
+
+01:12:32.080 --> 01:12:34.240 align:middle line:84%
+in our data set, the Mount
+Vernon Street Warrens--
+
+01:12:34.240 --> 01:12:35.030 align:middle line:90%
+A Boston Story.
+
+01:12:35.030 --> 01:12:37.360 align:middle line:84%
+I don't know if you guys
+have been to Beacon Hill.
+
+01:12:37.360 --> 01:12:41.650 align:middle line:84%
+Mount Vernon is one of the
+streets on Beacon Hill.
+
+01:12:41.650 --> 01:12:43.690 align:middle line:84%
+It's a cute street or
+whatever, with the gas
+
+01:12:43.690 --> 01:12:46.420 align:middle line:84%
+lamps and the brick
+sidewalks and stuff.
+
+01:12:46.420 --> 01:12:50.170 align:middle line:84%
+Anyway, if you go into a local
+Boston bookstore, one of them,
+
+01:12:50.170 --> 01:12:52.960 align:middle line:84%
+some RA found a copy of this
+Mount Vernon Street Warrens.
+
+01:12:52.960 --> 01:12:54.700 align:middle line:84%
+Anyway, if you read
+that book, like,
+
+01:12:54.700 --> 01:12:56.020 align:middle line:90%
+what's your overwhelming thing?
+
+01:12:56.020 --> 01:12:57.970 align:middle line:84%
+So this is, you know,
+"telling the stories
+
+01:12:57.970 --> 01:13:00.178 align:middle line:84%
+of these children who became
+notable for eccentricity
+
+01:13:00.178 --> 01:13:00.890 align:middle line:90%
+and philanthropy.
+
+01:13:00.890 --> 01:13:03.940 align:middle line:84%
+Green focuses on Ned Warren,
+a homosexual and mover
+
+01:13:03.940 --> 01:13:06.010 align:middle line:84%
+in the international
+movement of aestheticism,
+
+01:13:06.010 --> 01:13:08.677 align:middle line:84%
+who was determined to lead
+a 'grand but blighted life.'
+
+01:13:08.677 --> 01:13:11.260 align:middle line:84%
+This somewhat jumbled tale of a
+family sundering through greed
+
+01:13:11.260 --> 01:13:12.350 align:middle line:90%
+and suicide."
+
+01:13:12.350 --> 01:13:14.650 align:middle line:84%
+You know, basically I
+read this and I'm like,
+
+01:13:14.650 --> 01:13:16.140 align:middle line:90%
+I don't want to read that book.
+
+01:13:16.140 --> 01:13:18.560 align:middle line:84%
+I mean, I don't know so much
+about what aestheticism was,
+
+01:13:18.560 --> 01:13:21.670 align:middle line:84%
+but how much do I want to really
+read about greed and suicide
+
+01:13:21.670 --> 01:13:22.920 align:middle line:90%
+in Boston in the 19th century?
+
+01:13:22.920 --> 01:13:25.860 align:middle line:84%
+And the whole point is, in fact,
+nobody wants to read that book.
+
+01:13:25.860 --> 01:13:28.260 align:middle line:84%
+So who is the high value
+purchaser of that book?
+
+01:13:28.260 --> 01:13:31.040 align:middle line:84%
+A tourist who's just been to
+Beacon Hill and seen Mount
+
+01:13:31.040 --> 01:13:35.360 align:middle line:84%
+Vernon Street and finds a
+copy of a book about a family
+
+01:13:35.360 --> 01:13:37.820 align:middle line:84%
+on Mount Vernon Street in the
+19th century and thinks, wow,
+
+01:13:37.820 --> 01:13:39.660 align:middle line:84%
+this will be great to
+read in my hotel room.
+
+01:13:39.660 --> 01:13:41.480 align:middle line:84%
+And then you get partway through
+and get the suicide side,
+
+01:13:41.480 --> 01:13:43.522 align:middle line:84%
+and you're like, this is
+not my vacation reading.
+
+01:13:43.522 --> 01:13:45.290 align:middle line:84%
+And then you leave
+it there and then
+
+01:13:45.290 --> 01:13:47.300 align:middle line:84%
+the hotel turns it back
+in and then sells it
+
+01:13:47.300 --> 01:13:49.133 align:middle line:84%
+to the used bookstore,
+and then they sell it
+
+01:13:49.133 --> 01:13:51.380 align:middle line:84%
+again to the next
+tourist or something.
+
+01:13:51.380 --> 01:13:53.270 align:middle line:84%
+But anyway, but so
+for these books,
+
+01:13:53.270 --> 01:13:55.580 align:middle line:84%
+like, the online price
+is not really much higher
+
+01:13:55.580 --> 01:13:59.120 align:middle line:84%
+because no one is out there
+searching for that book.
+
+01:13:59.120 --> 01:14:03.980 align:middle line:84%
+But it is a good match to
+the local physical bookstore.
+
+01:14:03.980 --> 01:14:06.980 align:middle line:84%
+Anyway, other predictions,
+the online-offline gap
+
+01:14:06.980 --> 01:14:09.080 align:middle line:84%
+should also be smaller
+for popular titles
+
+01:14:09.080 --> 01:14:11.960 align:middle line:84%
+because there's a thinner
+upper tail for popular titles.
+
+01:14:11.960 --> 01:14:14.100 align:middle line:84%
+There's not the
+match quality issue.
+
+01:14:14.100 --> 01:14:17.240 align:middle line:84%
+And then Amazon's
+Buy Used feature
+
+01:14:17.240 --> 01:14:19.790 align:middle line:84%
+should lead to more
+low prices in 2012
+
+01:14:19.790 --> 01:14:23.330 align:middle line:84%
+because it increases that
+competition for the lower tail.
+
+01:14:23.330 --> 01:14:26.010 align:middle line:84%
+Anyway, so those are the
+predictions we try to test.
+
+01:14:26.010 --> 01:14:28.670 align:middle line:84%
+And let me just say
+basically the story is,
+
+01:14:28.670 --> 01:14:31.100 align:middle line:84%
+almost all of these things
+seem to be true in the data.
+
+01:14:31.100 --> 01:14:33.470 align:middle line:84%
+In each of these
+figures, the left
+
+01:14:33.470 --> 01:14:37.100 align:middle line:84%
+is the distribution
+of offline prices.
+
+01:14:37.100 --> 01:14:41.060 align:middle line:84%
+The right side is an estimate
+of the same object, an estimate
+
+01:14:41.060 --> 01:14:44.480 align:middle line:84%
+of the average across titles
+of the distribution of prices
+
+01:14:44.480 --> 01:14:46.160 align:middle line:90%
+for that title.
+
+01:14:46.160 --> 01:14:50.120 align:middle line:84%
+So these should be estimates
+of the distribution
+
+01:14:50.120 --> 01:14:52.100 align:middle line:84%
+of offline prices
+for these books
+
+01:14:52.100 --> 01:14:54.480 align:middle line:84%
+and the distribution of
+online prices for these books.
+
+01:14:54.480 --> 01:14:56.090 align:middle line:84%
+And if you see for
+the standard books,
+
+01:14:56.090 --> 01:14:59.930 align:middle line:84%
+there's just this massively
+higher upper tail of prices
+
+01:14:59.930 --> 01:15:04.600 align:middle line:90%
+online than there was offline.
+
+01:15:04.600 --> 01:15:06.730 align:middle line:84%
+If you go to the
+local interest books,
+
+01:15:06.730 --> 01:15:11.140 align:middle line:84%
+the local interest books
+already had something of a tail
+
+01:15:11.140 --> 01:15:13.220 align:middle line:84%
+online because the ones
+that are well-matched.
+
+01:15:13.220 --> 01:15:15.670 align:middle line:84%
+That book that finds its way
+to the Beacon Hill bookstore
+
+01:15:15.670 --> 01:15:18.220 align:middle line:84%
+is already well-matched,
+can charge a very high price
+
+01:15:18.220 --> 01:15:19.310 align:middle line:90%
+offline.
+
+01:15:19.310 --> 01:15:21.830 align:middle line:90%
+And so the offline--
+
+01:15:21.830 --> 01:15:24.410 align:middle line:84%
+you know, more of an
+upper tail offline.
+
+01:15:24.410 --> 01:15:27.170 align:middle line:84%
+The online-offline gap is
+smaller for those local interest
+
+01:15:27.170 --> 01:15:28.820 align:middle line:90%
+books.
+
+01:15:28.820 --> 01:15:33.200 align:middle line:84%
+Popular ones also
+works, but we skip that.
+
+01:15:33.200 --> 01:15:36.690 align:middle line:90%
+This is a 2009-2012 comparison.
+
+01:15:36.690 --> 01:15:42.800 align:middle line:84%
+2009-2012 comparison, the
+gray bars are the 2009 price
+
+01:15:42.800 --> 01:15:43.650 align:middle line:90%
+distribution.
+
+01:15:43.650 --> 01:15:47.880 align:middle line:84%
+The white outlined bars
+for the 2012 distribution.
+
+01:15:47.880 --> 01:15:51.020 align:middle line:84%
+And you see these
+distributions almost
+
+01:15:51.020 --> 01:15:53.210 align:middle line:84%
+lie exactly on
+top of each other,
+
+01:15:53.210 --> 01:15:56.360 align:middle line:84%
+with the exception that
+here on the standard titles,
+
+01:15:56.360 --> 01:15:59.840 align:middle line:84%
+the number of standard titles
+sold at a very low price just
+
+01:15:59.840 --> 01:16:04.520 align:middle line:84%
+shoots up in 2012 after
+the Amazon acquisition.
+
+01:16:04.520 --> 01:16:06.990 align:middle line:84%
+And so this is if there are
+many more people searching.
+
+01:16:06.990 --> 01:16:09.500 align:middle line:84%
+And so that left tail
+just gets pushed down,
+
+01:16:09.500 --> 01:16:11.910 align:middle line:84%
+but it doesn't affect
+the upper tail at all.
+
+01:16:11.910 --> 01:16:14.270 align:middle line:84%
+And you see that in all
+three categories of books
+
+01:16:14.270 --> 01:16:17.583 align:middle line:84%
+that the lower tail
+gets much thicker.
+
+01:16:17.583 --> 01:16:20.000 align:middle line:84%
+And it just seems to be drawing
+from these slightly higher
+
+01:16:20.000 --> 01:16:24.780 align:middle line:84%
+prices, as if it's competition
+is pulling down the bottom end.
+
+01:16:24.780 --> 01:16:28.200 align:middle line:84%
+And then, you know,
+the paper also
+
+01:16:28.200 --> 01:16:30.810 align:middle line:84%
+then develops a structural
+model to estimate
+
+01:16:30.810 --> 01:16:34.320 align:middle line:84%
+what are the welfare gains
+from selling books online.
+
+01:16:34.320 --> 01:16:37.710 align:middle line:84%
+And our answer is, there seems
+to be a substantial welfare
+
+01:16:37.710 --> 01:16:41.530 align:middle line:84%
+gain, but even in this used
+books case, it's not enormous.
+
+01:16:41.530 --> 01:16:43.380 align:middle line:84%
+So we're more with
+Quan and Williams
+
+01:16:43.380 --> 01:16:45.660 align:middle line:84%
+than we are with
+Brynjolfsson, Hu, and Smith
+
+01:16:45.660 --> 01:16:47.520 align:middle line:84%
+in terms of what are
+the welfare gains.
+
+01:16:47.520 --> 01:16:54.960 align:middle line:84%
+What we find is that the
+estimated social welfare
+
+01:16:54.960 --> 01:16:59.100 align:middle line:84%
+from selling one of these 2009
+books in the offline world
+
+01:16:59.100 --> 01:17:02.100 align:middle line:90%
+was $7.76.
+
+01:17:02.100 --> 01:17:07.720 align:middle line:84%
+Estimated social welfare from
+selling it online was $16.87.
+
+01:17:07.720 --> 01:17:10.680 align:middle line:84%
+So it's a more than
+doubling of welfare
+
+01:17:10.680 --> 01:17:14.970 align:middle line:84%
+that comes from selling
+online, but it's only
+
+01:17:14.970 --> 01:17:16.390 align:middle line:90%
+a more than doubling of welfare.
+
+01:17:16.390 --> 01:17:19.980 align:middle line:84%
+It's not a massive, not a
+10 times increase in welfare
+
+01:17:19.980 --> 01:17:21.730 align:middle line:84%
+from selling these
+things online.
+
+01:17:21.730 --> 01:17:24.665 align:middle line:84%
+And if you look at
+the firm profits,
+
+01:17:24.665 --> 01:17:26.790 align:middle line:84%
+the profit is coming from
+two different dimensions.
+
+01:17:26.790 --> 01:17:31.370 align:middle line:84%
+It's like the average price
+is going from $12 to $16
+
+01:17:31.370 --> 01:17:35.700 align:middle line:84%
+when they're sold online and
+the books are being sold sooner.
+
+01:17:35.700 --> 01:17:38.450 align:middle line:84%
+So instead of the e to
+the minus rt being 0.3,
+
+01:17:38.450 --> 01:17:41.150 align:middle line:90%
+the e to the minus rt is 0.48.
+
+01:17:41.150 --> 01:17:44.750 align:middle line:84%
+So the books are getting
+sold for higher prices
+
+01:17:44.750 --> 01:17:46.590 align:middle line:90%
+and they're getting sold sooner.
+
+01:17:46.590 --> 01:17:50.000 align:middle line:84%
+Those two things both make
+profit more than double.
+
+01:17:50.000 --> 01:17:53.660 align:middle line:84%
+We're also estimating that the
+consumer surplus, as best we
+
+01:17:53.660 --> 01:17:56.870 align:middle line:90%
+can, is also more than doubling.
+
+01:17:56.870 --> 01:17:58.430 align:middle line:84%
+And the consumer
+surplus is more than
+
+01:17:58.430 --> 01:18:02.477 align:middle line:84%
+doubling because the people who
+are willing to buy $16 books
+
+01:18:02.477 --> 01:18:05.060 align:middle line:84%
+get more utility than people who
+are willing to buy $12 books,
+
+01:18:05.060 --> 01:18:06.330 align:middle line:90%
+and they're getting them sooner.
+
+01:18:06.330 --> 01:18:07.872 align:middle line:84%
+So the consumer
+surplus is discounted
+
+01:18:07.872 --> 01:18:09.740 align:middle line:90%
+by this instead of that.
+
+01:18:09.740 --> 01:18:10.240 align:middle line:90%
+OK.
+
+01:18:10.240 --> 01:18:16.036 align:middle line:90%
+
+
+01:18:16.036 --> 01:18:17.200 align:middle line:90%
+Sorry, I'm out of time.
+
+01:18:17.200 --> 01:18:18.930 align:middle line:84%
+So [INAUDIBLE] you
+say, that's what
+
+01:18:18.930 --> 01:18:20.190 align:middle line:90%
+I've got on retail for today.
+
+01:18:20.190 --> 01:18:21.950 align:middle line:90%
+And then--
+
+01:18:21.950 --> 01:18:34.000 align:middle line:90%

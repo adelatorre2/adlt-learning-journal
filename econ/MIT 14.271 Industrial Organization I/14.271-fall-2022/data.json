@@ -1,0 +1,23 @@
+{
+  "course_title":"Industrial Organization I",
+  "course_description":"14.271 is a PhD-level course in industrial organization, introducing students to the basic building blocks of the field and exposing them to a variety of techniques. It is designed to start the process of preparing economics PhD students to conduct thesis research in the area. It is also intended to be of interest to doctoral students working in other areas of economics and related fields. The course integrates theoretical models and empirical studies.",
+  "course_description_html":"14.271 is a PhD-level course in industrial organization, introducing students to the basic building blocks of the field and exposing them to a variety of techniques. It is designed to start the process of preparing economics PhD students to conduct thesis research in the area. It is also intended to be of interest to doctoral students working in other areas of economics and related fields. The course integrates theoretical models and empirical studies.",
+  "site_uid":"7e149d5b-54e0-4fea-bdf3-6b78ddf74650",
+  "legacy_uid":"","instructors": [{
+    "first_name":"Glenn",
+    "last_name":"Ellison",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Glenn Ellison"}],"department_numbers":["14"],
+  "learning_resource_types":["Exams","Lecture Notes","Lecture Videos","Problem Sets with Solutions","Readings"],
+  "topics":[["Social Science","Economics","Industrial Organization"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"14.271",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2022",
+  "level":["Graduate"],
+  "hide_download":false,
+  "image_src":"./static_resources/mit14_271_f22_chp.jpg",
+  "course_image_metadata":{"body":"","content_type":"resource","draft":false,"file":"/courses/14-271-industrial-organization-i-fall-2022/mit14_271_f22_chp.jpg","file_size":197541,"file_type":"image/jpeg","image_metadata":{"caption":"Planes at a terminal at the Los Angeles International Airport. It is common in the airline industry to utilize price discrimination. Image by [Aero Icarus](https://flickr.com/photos/aero_icarus/26499046141/) on Flickr. License: CC BY-NC-SA.","credit":"Image by [Aero Icarus](https://flickr.com/photos/aero_icarus/26499046141/) on Flickr. License: CC BY-NC-SA","image-alt":"Planes taxiing on the runway and parked at the gates at Los Angeles International Airport. "},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","resourcetype":"Image","title":"mit14_271_f22_chp.jpg","uid":"6f46ab12-0cba-4057-80fc-3532dd3d4d4b","video_files":{"archive_url":"","video_captions_file":"","video_thumbnail_file":"","video_transcript_file":""},"video_metadata":{"video_speakers":"","video_tags":"","youtube_description":"","youtube_id":""}}}
+

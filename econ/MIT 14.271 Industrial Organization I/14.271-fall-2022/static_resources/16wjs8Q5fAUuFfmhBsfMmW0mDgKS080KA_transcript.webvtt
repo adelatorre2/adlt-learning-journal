@@ -1,0 +1,6469 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.458 align:middle line:90%
+[SQUEAKING]
+
+00:00:01.458 --> 00:00:02.916 align:middle line:90%
+[RUSTLING]
+
+00:00:02.916 --> 00:00:04.860 align:middle line:90%
+[CLICKING]
+
+00:00:04.860 --> 00:00:18.010 align:middle line:90%
+
+
+00:00:18.010 --> 00:00:20.510 align:middle line:84%
+GLENN ELLISON: So today
+I'm continuing my lecture.
+
+00:00:20.510 --> 00:00:23.870 align:middle line:84%
+I'm starting a new
+topic on online markets.
+
+00:00:23.870 --> 00:00:28.870 align:middle line:84%
+And in some ways, I
+think in online markets,
+
+00:00:28.870 --> 00:00:36.730 align:middle line:84%
+it's come to be that Google
+and Facebook and Amazon
+
+00:00:36.730 --> 00:00:38.458 align:middle line:84%
+tend to really dominate
+the online space
+
+00:00:38.458 --> 00:00:40.750 align:middle line:84%
+and earn most of the profits
+and most of the page views
+
+00:00:40.750 --> 00:00:41.420 align:middle line:90%
+or whatever.
+
+00:00:41.420 --> 00:00:43.330 align:middle line:84%
+So I think most of
+what I'm going to do
+
+00:00:43.330 --> 00:00:46.300 align:middle line:84%
+is try to talk about
+those leading firms.
+
+00:00:46.300 --> 00:00:48.530 align:middle line:84%
+Actually, most of today is
+going to be about Google.
+
+00:00:48.530 --> 00:00:50.197 align:middle line:84%
+I'm going to get a
+little bit to talking
+
+00:00:50.197 --> 00:00:53.172 align:middle line:84%
+about models, how people think
+about Amazon at the very end.
+
+00:00:53.172 --> 00:00:54.880 align:middle line:84%
+I actually don't know
+a lot of good stuff
+
+00:00:54.880 --> 00:00:59.020 align:middle line:84%
+about social media
+other than there's
+
+00:00:59.020 --> 00:01:01.428 align:middle line:84%
+literature about social
+media addiction, which
+
+00:01:01.428 --> 00:01:03.220 align:middle line:84%
+I think is also an
+interesting topic there,
+
+00:01:03.220 --> 00:01:07.270 align:middle line:90%
+but not much theory on it.
+
+00:01:07.270 --> 00:01:08.830 align:middle line:90%
+Oops.
+
+00:01:08.830 --> 00:01:11.260 align:middle line:84%
+So anyway, before
+starting today's topic,
+
+00:01:11.260 --> 00:01:14.680 align:middle line:84%
+I'm going to do a brief
+review of VCG mechanisms.
+
+00:01:14.680 --> 00:01:17.520 align:middle line:84%
+And I think Steven is
+teaching [14.]124 this year.
+
+00:01:17.520 --> 00:01:18.450 align:middle line:90%
+He'll do a better job.
+
+00:01:18.450 --> 00:01:20.930 align:middle line:84%
+But I wanted to go
+over this quickly
+
+00:01:20.930 --> 00:01:23.670 align:middle line:84%
+because it helps for thinking
+about allocating problems.
+
+00:01:23.670 --> 00:01:27.710 align:middle line:84%
+So I'm going to find a private
+value social choice problem
+
+00:01:27.710 --> 00:01:32.000 align:middle line:90%
+to be given by four primitives.
+
+00:01:32.000 --> 00:01:34.520 align:middle line:84%
+First, you have a set of
+types for each player, which
+
+00:01:34.520 --> 00:01:38.515 align:middle line:84%
+you can think of as typically
+holding their preferences.
+
+00:01:38.515 --> 00:01:39.890 align:middle line:84%
+But it could be
+other information
+
+00:01:39.890 --> 00:01:42.200 align:middle line:90%
+that the players have.
+
+00:01:42.200 --> 00:01:43.910 align:middle line:84%
+There's some
+probability distribution
+
+00:01:43.910 --> 00:01:47.270 align:middle line:84%
+p on the Cartesian
+product of all the thetas,
+
+00:01:47.270 --> 00:01:50.690 align:middle line:84%
+and we're going to think of
+those p's as not necessarily
+
+00:01:50.690 --> 00:01:52.910 align:middle line:90%
+independent across players.
+
+00:01:52.910 --> 00:01:57.080 align:middle line:84%
+There's a set A of possible
+social alternatives.
+
+00:01:57.080 --> 00:02:00.590 align:middle line:84%
+In the simple auction example,
+the social alternatives
+
+00:02:00.590 --> 00:02:03.620 align:middle line:84%
+are give the good to person one,
+give the good to person two,
+
+00:02:03.620 --> 00:02:06.080 align:middle line:84%
+give the good to person
+three, and so on.
+
+00:02:06.080 --> 00:02:09.720 align:middle line:84%
+And I'm going to talk about
+online advertising examples.
+
+00:02:09.720 --> 00:02:11.883 align:middle line:84%
+The social alternatives
+would be all of the ads
+
+00:02:11.883 --> 00:02:13.550 align:middle line:84%
+that are displayed
+on the page and where
+
+00:02:13.550 --> 00:02:14.800 align:middle line:90%
+they're displayed on the page.
+
+00:02:14.800 --> 00:02:16.790 align:middle line:84%
+And the complete
+set of ads are all
+
+00:02:16.790 --> 00:02:18.660 align:middle line:90%
+possible social alternatives.
+
+00:02:18.660 --> 00:02:20.240 align:middle line:84%
+And this model also
+does other things
+
+00:02:20.240 --> 00:02:23.300 align:middle line:84%
+like you can have
+group of n roommates
+
+00:02:23.300 --> 00:02:24.950 align:middle line:84%
+get two tickets
+to a play and they
+
+00:02:24.950 --> 00:02:27.170 align:middle line:84%
+have to pick two people
+to go to the play together
+
+00:02:27.170 --> 00:02:30.620 align:middle line:84%
+and the people could care about
+who they go with and whatever.
+
+00:02:30.620 --> 00:02:32.155 align:middle line:84%
+Then the alternatives
+would be all
+
+00:02:32.155 --> 00:02:33.530 align:middle line:84%
+of the sets of at
+most two people
+
+00:02:33.530 --> 00:02:35.330 align:middle line:84%
+who are going to
+get the two tickets.
+
+00:02:35.330 --> 00:02:37.310 align:middle line:84%
+And then so the
+utility functions
+
+00:02:37.310 --> 00:02:40.850 align:middle line:84%
+depend on the chosen
+social alternative,
+
+00:02:40.850 --> 00:02:46.150 align:middle line:84%
+depend on your own private
+type, and then on transfers.
+
+00:02:46.150 --> 00:02:48.150 align:middle line:84%
+And I'm going to make
+them additively separable.
+
+00:02:48.150 --> 00:02:51.140 align:middle line:84%
+So you have this
+gross utility function
+
+00:02:51.140 --> 00:02:54.410 align:middle line:84%
+for your utility of action
+a when your type is theta i,
+
+00:02:54.410 --> 00:02:55.920 align:middle line:90%
+and then there's a transfer.
+
+00:02:55.920 --> 00:02:58.380 align:middle line:84%
+And so it's important that
+it's a private value problem.
+
+00:02:58.380 --> 00:03:03.470 align:middle line:84%
+You know your own valuation for
+all the social alternatives.
+
+00:03:03.470 --> 00:03:06.470 align:middle line:84%
+We define the utilitarian
+solution to this problem
+
+00:03:06.470 --> 00:03:09.080 align:middle line:84%
+to be the function
+au mapping theta
+
+00:03:09.080 --> 00:03:12.230 align:middle line:84%
+into a that's just
+defined by au of theta
+
+00:03:12.230 --> 00:03:17.150 align:middle line:84%
+is the action that maximizes
+the sum of the utilities given
+
+00:03:17.150 --> 00:03:19.640 align:middle line:90%
+the true types.
+
+00:03:19.640 --> 00:03:23.540 align:middle line:84%
+So again, like in a
+second price auction,
+
+00:03:23.540 --> 00:03:28.520 align:middle line:84%
+the outcome that
+maximizes utility is
+
+00:03:28.520 --> 00:03:30.860 align:middle line:84%
+give the good to the person
+with the highest value,
+
+00:03:30.860 --> 00:03:32.860 align:middle line:84%
+because you give it to
+the highest value, that's
+
+00:03:32.860 --> 00:03:36.350 align:middle line:84%
+the maximum of the sum of the
+utilities you can achieve.
+
+00:03:36.350 --> 00:03:38.180 align:middle line:84%
+What is a mechanism
+is going to be
+
+00:03:38.180 --> 00:03:41.450 align:middle line:84%
+a way for trying to achieve
+an outcome in a social choice
+
+00:03:41.450 --> 00:03:42.440 align:middle line:90%
+problem.
+
+00:03:42.440 --> 00:03:47.150 align:middle line:84%
+A mechanism consists of a set
+of possible strategy profiles,
+
+00:03:47.150 --> 00:03:49.460 align:middle line:84%
+you know, one set
+si for each player.
+
+00:03:49.460 --> 00:03:52.310 align:middle line:84%
+An action, so basically,
+you can think of a mechanism
+
+00:03:52.310 --> 00:03:55.280 align:middle line:84%
+as every player
+chooses some player
+
+00:03:55.280 --> 00:03:58.190 align:middle line:90%
+i chooses an si and capital SI.
+
+00:03:58.190 --> 00:04:02.840 align:middle line:84%
+And then after we observe
+what actions, what
+
+00:04:02.840 --> 00:04:04.820 align:middle line:84%
+strategies everyone
+has chosen, there's
+
+00:04:04.820 --> 00:04:06.410 align:middle line:84%
+some function for
+determining what
+
+00:04:06.410 --> 00:04:09.870 align:middle line:84%
+the action is going to be as
+a function of those choices.
+
+00:04:09.870 --> 00:04:12.300 align:middle line:84%
+And then there are going
+to be transfers paid.
+
+00:04:12.300 --> 00:04:14.180 align:middle line:84%
+And again, the transfer
+that player i gets,
+
+00:04:14.180 --> 00:04:16.250 align:middle line:84%
+which can be
+positive or negative,
+
+00:04:16.250 --> 00:04:20.990 align:middle line:84%
+is a function of
+everybody's strategy.
+
+00:04:20.990 --> 00:04:24.740 align:middle line:84%
+So if we have the social choice
+problem, we have a mechanism.
+
+00:04:24.740 --> 00:04:29.450 align:middle line:84%
+Then we're going to
+think about the game
+
+00:04:29.450 --> 00:04:32.750 align:middle line:84%
+where players observe their
+types, standard Bayesian game,
+
+00:04:32.750 --> 00:04:34.440 align:middle line:90%
+players observe their types.
+
+00:04:34.440 --> 00:04:36.860 align:middle line:84%
+They then choose
+strategies from the sets s
+
+00:04:36.860 --> 00:04:39.830 align:middle line:84%
+and then the mechanism
+decides which
+
+00:04:39.830 --> 00:04:43.820 align:middle line:84%
+social allocation is chosen and
+what transfers everyone gets.
+
+00:04:43.820 --> 00:04:46.522 align:middle line:84%
+And so the second
+price auction is
+
+00:04:46.522 --> 00:04:48.230 align:middle line:84%
+an example of a
+mechanism that implements
+
+00:04:48.230 --> 00:04:50.070 align:middle line:90%
+the utilitarian solution.
+
+00:04:50.070 --> 00:04:52.080 align:middle line:84%
+We run the second
+price auction game.
+
+00:04:52.080 --> 00:04:54.770 align:middle line:84%
+Everyone bids against each other
+in the second price auction,
+
+00:04:54.770 --> 00:04:58.580 align:middle line:84%
+and then in that
+game, I showed it's
+
+00:04:58.580 --> 00:05:01.280 align:middle line:84%
+a dominant strategy for everyone
+to bid their true value.
+
+00:05:01.280 --> 00:05:03.080 align:middle line:84%
+And then the high
+value person ends up
+
+00:05:03.080 --> 00:05:04.710 align:middle line:90%
+getting allocated the object.
+
+00:05:04.710 --> 00:05:07.430 align:middle line:84%
+So the second price
+auction is a mechanism
+
+00:05:07.430 --> 00:05:11.040 align:middle line:84%
+that implements the utilitarian
+solution in dominant strategies.
+
+00:05:11.040 --> 00:05:13.820 align:middle line:84%
+The first price auction
+is also a mechanism
+
+00:05:13.820 --> 00:05:16.470 align:middle line:84%
+that implements the
+utilitarian solution.
+
+00:05:16.470 --> 00:05:19.170 align:middle line:84%
+There it does it just as a
+Bayesian Nash equilibrium,
+
+00:05:19.170 --> 00:05:22.180 align:middle line:84%
+not as a dominant strategy
+Bayesian Nash equilibrium.
+
+00:05:22.180 --> 00:05:25.055 align:middle line:84%
+But the first price auction also
+implements the social optimum.
+
+00:05:25.055 --> 00:05:29.120 align:middle line:90%
+
+
+00:05:29.120 --> 00:05:31.910 align:middle line:84%
+Important result due to
+Vickrey-Clarke-Groves
+
+00:05:31.910 --> 00:05:36.003 align:middle line:84%
+is that we can implement
+utilitarian action.
+
+00:05:36.003 --> 00:05:37.670 align:middle line:84%
+The second price
+auction, in some sense,
+
+00:05:37.670 --> 00:05:41.060 align:middle line:84%
+is just a special case of a
+much more powerful mechanism.
+
+00:05:41.060 --> 00:05:44.807 align:middle line:84%
+And basically, that we can,
+even in complicated problems
+
+00:05:44.807 --> 00:05:46.640 align:middle line:84%
+like the one I mentioned
+with the roommates,
+
+00:05:46.640 --> 00:05:49.790 align:middle line:84%
+where everybody
+cares about who--
+
+00:05:49.790 --> 00:05:51.650 align:middle line:84%
+they may be jealous
+of other people going.
+
+00:05:51.650 --> 00:05:53.930 align:middle line:84%
+They may want to go
+with some people,
+
+00:05:53.930 --> 00:05:55.910 align:middle line:84%
+not want to go
+with other people.
+
+00:05:55.910 --> 00:05:57.500 align:middle line:84%
+Whatever preferences
+you give them
+
+00:05:57.500 --> 00:06:00.170 align:middle line:84%
+over those complicated
+sets, we can still
+
+00:06:00.170 --> 00:06:03.410 align:middle line:84%
+implement the utilitarian
+solution in dominant strategies.
+
+00:06:03.410 --> 00:06:05.250 align:middle line:90%
+So how does VCG do this?
+
+00:06:05.250 --> 00:06:10.580 align:middle line:90%
+
+
+00:06:10.580 --> 00:06:13.820 align:middle line:84%
+So I had this function au, which
+described what was socially
+
+00:06:13.820 --> 00:06:16.550 align:middle line:90%
+optimal given the types theta.
+
+00:06:16.550 --> 00:06:18.710 align:middle line:84%
+I'm going to define
+this second function
+
+00:06:18.710 --> 00:06:23.630 align:middle line:84%
+a minus iu to be what's socially
+optimal if we ignore player
+
+00:06:23.630 --> 00:06:25.050 align:middle line:90%
+i's preferences.
+
+00:06:25.050 --> 00:06:28.380 align:middle line:84%
+So given a vector
+of types theta,
+
+00:06:28.380 --> 00:06:32.700 align:middle line:84%
+what maximizes the sum over
+everybody else's utility?
+
+00:06:32.700 --> 00:06:36.210 align:middle line:84%
+So for instance, in a
+second price auction,
+
+00:06:36.210 --> 00:06:39.900 align:middle line:84%
+a minus iu is to give the
+object to the person who
+
+00:06:39.900 --> 00:06:42.750 align:middle line:84%
+has the highest value
+other than player i?
+
+00:06:42.750 --> 00:06:46.380 align:middle line:84%
+So this is what's the best thing
+for everyone other than player
+
+00:06:46.380 --> 00:06:48.180 align:middle line:90%
+i.
+
+00:06:48.180 --> 00:06:51.690 align:middle line:84%
+I then define the externality
+that player i exerts on others
+
+00:06:51.690 --> 00:06:56.610 align:middle line:84%
+to be what is everybody else's
+utility when we take player
+
+00:06:56.610 --> 00:07:00.930 align:middle line:84%
+i's utility into account and
+choose the optimal action minus
+
+00:07:00.930 --> 00:07:04.980 align:middle line:84%
+what is everybody else's utility
+if we ignore player i's utility
+
+00:07:04.980 --> 00:07:07.470 align:middle line:90%
+when we're deciding what to do?
+
+00:07:07.470 --> 00:07:09.900 align:middle line:84%
+So generally, this is going
+to be a negative number.
+
+00:07:09.900 --> 00:07:14.402 align:middle line:84%
+If we ignore player i's utility,
+if we ignore player i's utility,
+
+00:07:14.402 --> 00:07:16.110 align:middle line:84%
+we're going to do
+something that's better
+
+00:07:16.110 --> 00:07:18.150 align:middle line:90%
+for all the other players.
+
+00:07:18.150 --> 00:07:20.980 align:middle line:84%
+It could be 0 whether
+player i is there or not.
+
+00:07:20.980 --> 00:07:22.500 align:middle line:90%
+We give it to player three.
+
+00:07:22.500 --> 00:07:24.160 align:middle line:84%
+But anyway, this
+is what we find.
+
+00:07:24.160 --> 00:07:27.720 align:middle line:84%
+This is the externality
+that i exerts on others.
+
+00:07:27.720 --> 00:07:31.120 align:middle line:84%
+And so then definition
+of the VCG mechanism.
+
+00:07:31.120 --> 00:07:36.760 align:middle line:84%
+The VCG mechanism is let
+the set s be capital theta.
+
+00:07:36.760 --> 00:07:41.340 align:middle line:84%
+So every player is just asked
+to announce their true type.
+
+00:07:41.340 --> 00:07:44.760 align:middle line:84%
+The action is the
+utilitarian solution,
+
+00:07:44.760 --> 00:07:48.540 align:middle line:84%
+treating the announced
+types as true.
+
+00:07:48.540 --> 00:07:53.640 align:middle line:84%
+And then the transfers that
+every player is asked to make
+
+00:07:53.640 --> 00:07:57.990 align:middle line:84%
+is the transfers that are
+given to every player is
+
+00:07:57.990 --> 00:08:01.140 align:middle line:84%
+the negative externality that
+they exert on others by having
+
+00:08:01.140 --> 00:08:03.390 align:middle line:90%
+their preferences considered.
+
+00:08:03.390 --> 00:08:05.200 align:middle line:84%
+So everyone
+announces their type.
+
+00:08:05.200 --> 00:08:08.140 align:middle line:84%
+We do what's utilitarian
+given the announced types.
+
+00:08:08.140 --> 00:08:12.000 align:middle line:84%
+And then if you're exerting a
+negative externality on others
+
+00:08:12.000 --> 00:08:14.187 align:middle line:84%
+by having your preferences
+taken into account,
+
+00:08:14.187 --> 00:08:16.020 align:middle line:84%
+we make you pay for
+your-- we ask you to pay
+
+00:08:16.020 --> 00:08:17.590 align:middle line:90%
+your negative externality.
+
+00:08:17.590 --> 00:08:20.896 align:middle line:90%
+
+
+00:08:20.896 --> 00:08:24.300 align:middle line:84%
+So the second price
+auction is a special case.
+
+00:08:24.300 --> 00:08:26.400 align:middle line:84%
+In the second price
+auction, you get the good
+
+00:08:26.400 --> 00:08:29.350 align:middle line:84%
+and then you pay the second
+highest person's value.
+
+00:08:29.350 --> 00:08:31.240 align:middle line:84%
+That's the negative
+externality you exert.
+
+00:08:31.240 --> 00:08:33.990 align:middle line:84%
+Because if the winning
+bidder wasn't there,
+
+00:08:33.990 --> 00:08:35.970 align:middle line:84%
+the second high bidder
+would have gotten
+
+00:08:35.970 --> 00:08:40.090 align:middle line:84%
+the good and the second high
+bidder's bid is their utility.
+
+00:08:40.090 --> 00:08:43.020 align:middle line:84%
+Therefore, you're paying
+the negative externality
+
+00:08:43.020 --> 00:08:46.050 align:middle line:84%
+you're exerting on others,
+because you're taking it away
+
+00:08:46.050 --> 00:08:47.357 align:middle line:90%
+from the second high bidder.
+
+00:08:47.357 --> 00:08:49.440 align:middle line:84%
+And so that's why you pay
+the second high bid, not
+
+00:08:49.440 --> 00:08:50.090 align:middle line:90%
+your own bid.
+
+00:08:50.090 --> 00:08:54.870 align:middle line:90%
+
+
+00:08:54.870 --> 00:08:58.980 align:middle line:84%
+So anyway, theorem VCG
+mechanism implements
+
+00:08:58.980 --> 00:09:00.750 align:middle line:84%
+the utilitarian
+solution and is a truth
+
+00:09:00.750 --> 00:09:03.690 align:middle line:84%
+telling dominant
+strategy Bayesian Nash
+
+00:09:03.690 --> 00:09:09.450 align:middle line:84%
+equilibrium in any private
+value social choice problem.
+
+00:09:09.450 --> 00:09:12.900 align:middle line:84%
+So important things to
+know about this, that VCG
+
+00:09:12.900 --> 00:09:15.150 align:middle line:90%
+is just very powerful.
+
+00:09:15.150 --> 00:09:18.480 align:middle line:84%
+You can do this in models
+with n goods and models
+
+00:09:18.480 --> 00:09:20.680 align:middle line:84%
+where the social alternatives
+aren't goods at all.
+
+00:09:20.680 --> 00:09:23.100 align:middle line:84%
+The social alternatives are
+just things that society
+
+00:09:23.100 --> 00:09:24.330 align:middle line:90%
+has to be choosing among.
+
+00:09:24.330 --> 00:09:28.260 align:middle line:84%
+As long as the players
+know their own valuation,
+
+00:09:28.260 --> 00:09:30.690 align:middle line:84%
+you can get players all
+the players to reveal
+
+00:09:30.690 --> 00:09:32.760 align:middle line:84%
+that information, at
+least reveal it enough
+
+00:09:32.760 --> 00:09:36.390 align:middle line:84%
+that you can choose a
+socially optimal outcome.
+
+00:09:36.390 --> 00:09:39.150 align:middle line:84%
+VCG is essentially the
+only way to achieve
+
+00:09:39.150 --> 00:09:42.720 align:middle line:84%
+dominant strategy Bayesian Nash
+equilibrium implementation of a.
+
+00:09:42.720 --> 00:09:44.155 align:middle line:90%
+In some ways you can just--
+
+00:09:44.155 --> 00:09:45.780 align:middle line:84%
+I haven't even shown
+you the proof yet.
+
+00:09:45.780 --> 00:09:47.700 align:middle line:84%
+But in some sense, the
+converse of the proof
+
+00:09:47.700 --> 00:09:50.910 align:middle line:84%
+is if ever someone wasn't paying
+the negative externality they'd
+
+00:09:50.910 --> 00:09:54.940 align:middle line:84%
+exert on others, then they
+could take an action that
+
+00:09:54.940 --> 00:09:58.150 align:middle line:84%
+makes society better or worse
+off by giving them slightly
+
+00:09:58.150 --> 00:10:01.600 align:middle line:90%
+more or slightly less utility.
+
+00:10:01.600 --> 00:10:06.280 align:middle line:84%
+VCG mechanism is
+not budget balanced.
+
+00:10:06.280 --> 00:10:08.860 align:middle line:90%
+Everyone pays this transfer t.
+
+00:10:08.860 --> 00:10:11.197 align:middle line:90%
+The transfers don't add up to 0.
+
+00:10:11.197 --> 00:10:13.030 align:middle line:84%
+If you think about the
+second price auction,
+
+00:10:13.030 --> 00:10:14.830 align:middle line:84%
+it's important in the
+second price auction
+
+00:10:14.830 --> 00:10:17.260 align:middle line:84%
+that the money is going
+to the auctioneer,
+
+00:10:17.260 --> 00:10:19.267 align:middle line:90%
+not to the other bidders.
+
+00:10:19.267 --> 00:10:21.100 align:middle line:84%
+If the money went to
+the other bidders, then
+
+00:10:21.100 --> 00:10:23.017 align:middle line:84%
+the second high bidder
+would have an incentive
+
+00:10:23.017 --> 00:10:25.360 align:middle line:84%
+to lie and claim that the
+thing was worth more to them
+
+00:10:25.360 --> 00:10:29.960 align:middle line:84%
+than it really is so that
+they got a higher transfer.
+
+00:10:29.960 --> 00:10:33.190 align:middle line:84%
+And so what happens is
+the money, in some sense,
+
+00:10:33.190 --> 00:10:34.372 align:middle line:90%
+there's a set of bidders.
+
+00:10:34.372 --> 00:10:35.830 align:middle line:84%
+The money is flowing
+out of the set
+
+00:10:35.830 --> 00:10:38.810 align:middle line:84%
+of bidders to this outside
+party, which is the auctioneer.
+
+00:10:38.810 --> 00:10:41.590 align:middle line:84%
+And that's fundamental
+in VCG that you
+
+00:10:41.590 --> 00:10:45.310 align:middle line:84%
+can't, as I said, essentially
+the only way to achieve
+
+00:10:45.310 --> 00:10:47.290 align:middle line:84%
+dominant strategy
+implementation.
+
+00:10:47.290 --> 00:10:50.483 align:middle line:84%
+And it's not budget
+balanced, so you
+
+00:10:50.483 --> 00:10:52.900 align:middle line:84%
+can't achieve dominant strategy
+implementation in a budget
+
+00:10:52.900 --> 00:10:54.390 align:middle line:90%
+balanced way.
+
+00:10:54.390 --> 00:10:59.670 align:middle line:84%
+And then in terms of is
+this a practical mechanism?
+
+00:10:59.670 --> 00:11:03.730 align:middle line:84%
+The VCG action spaces
+could be very large.
+
+00:11:03.730 --> 00:11:07.920 align:middle line:84%
+So famous example is that
+the United States, again,
+
+00:11:07.920 --> 00:11:11.130 align:middle line:84%
+in the early 2000s was
+auctioning off the right
+
+00:11:11.130 --> 00:11:15.300 align:middle line:84%
+to provide cellular or
+telephone service in 394 cities
+
+00:11:15.300 --> 00:11:17.280 align:middle line:90%
+simultaneously.
+
+00:11:17.280 --> 00:11:20.490 align:middle line:84%
+And Verizon was bidding
+and T-Mobile was bidding
+
+00:11:20.490 --> 00:11:22.270 align:middle line:90%
+and AT&T was bidding.
+
+00:11:22.270 --> 00:11:24.913 align:middle line:84%
+And they had two
+licenses per city.
+
+00:11:24.913 --> 00:11:26.580 align:middle line:84%
+And so if you think
+about what's the set
+
+00:11:26.580 --> 00:11:28.122 align:middle line:84%
+of possible social
+alternatives, it's
+
+00:11:28.122 --> 00:11:32.820 align:middle line:84%
+like Verizon and T-Mobile get
+Boston, Verizon, and AT&T get
+
+00:11:32.820 --> 00:11:33.510 align:middle line:90%
+New York.
+
+00:11:33.510 --> 00:11:37.720 align:middle line:84%
+Verizon and Sprint
+get DC, whatever.
+
+00:11:37.720 --> 00:11:42.840 align:middle line:84%
+If you go with every set of
+those alternatives, 20 bidders,
+
+00:11:42.840 --> 00:11:46.840 align:middle line:84%
+so there may have been 20 choose
+2 raised to the 430th power.
+
+00:11:46.840 --> 00:11:49.000 align:middle line:84%
+That's the number of
+social alternatives.
+
+00:11:49.000 --> 00:11:51.390 align:middle line:84%
+VCG says you submit
+your preferences
+
+00:11:51.390 --> 00:11:56.258 align:middle line:84%
+over every social alternative
+and then that's not feasible
+
+00:11:56.258 --> 00:11:57.800 align:middle line:84%
+and then there'll
+be the second step.
+
+00:11:57.800 --> 00:11:59.592 align:middle line:84%
+You have to then figure
+out, OK, if this is
+
+00:11:59.592 --> 00:12:02.980 align:middle line:84%
+everybody's preferences
+over these 2 to 1,000 social
+
+00:12:02.980 --> 00:12:09.125 align:middle line:84%
+alternatives, then what's
+actually the best combination?
+
+00:12:09.125 --> 00:12:10.750 align:middle line:84%
+You'd have to then
+search over that set
+
+00:12:10.750 --> 00:12:12.208 align:middle line:84%
+and find what's
+the best allocation
+
+00:12:12.208 --> 00:12:13.610 align:middle line:90%
+of the goods to the bidders.
+
+00:12:13.610 --> 00:12:15.910 align:middle line:84%
+It can be completely
+infeasible if the number
+
+00:12:15.910 --> 00:12:18.495 align:middle line:84%
+of social alternatives
+is very large.
+
+00:12:18.495 --> 00:12:23.390 align:middle line:90%
+
+
+00:12:23.390 --> 00:12:24.560 align:middle line:90%
+Questions?
+
+00:12:24.560 --> 00:12:28.220 align:middle line:84%
+So anyway, Steven will do
+VCG much better in [14.]124.
+
+00:12:28.220 --> 00:12:30.770 align:middle line:84%
+But I recognize many people
+have not taken [14.]124,
+
+00:12:30.770 --> 00:12:33.350 align:middle line:90%
+so I wanted to do it quickly.
+
+00:12:33.350 --> 00:12:34.760 align:middle line:90%
+Here's a proof.
+
+00:12:34.760 --> 00:12:37.560 align:middle line:84%
+Sometimes you use slides
+as just lecture notes.
+
+00:12:37.560 --> 00:12:41.000 align:middle line:84%
+If you want to see a proof,
+there's a proof there.
+
+00:12:41.000 --> 00:12:44.810 align:middle line:84%
+So now most of what I'm going
+to talk about today is Google.
+
+00:12:44.810 --> 00:12:49.357 align:middle line:84%
+So Google is the
+dominant search engine.
+
+00:12:49.357 --> 00:12:51.440 align:middle line:84%
+In some sense, Google has
+been the dominant search
+
+00:12:51.440 --> 00:12:52.290 align:middle line:90%
+engine for a while.
+
+00:12:52.290 --> 00:12:54.950 align:middle line:84%
+There was a time when
+many different countries
+
+00:12:54.950 --> 00:12:56.780 align:middle line:84%
+had their own native
+search engines
+
+00:12:56.780 --> 00:12:59.370 align:middle line:84%
+and those native search
+engines dominated Google.
+
+00:12:59.370 --> 00:13:03.960 align:middle line:84%
+And so Google was, well, Google
+came into the United States
+
+00:13:03.960 --> 00:13:05.960 align:middle line:84%
+and there were four or
+five other search engines
+
+00:13:05.960 --> 00:13:07.860 align:middle line:90%
+that had 100% market share.
+
+00:13:07.860 --> 00:13:11.330 align:middle line:84%
+Google very quickly after its
+introduction took over the US.
+
+00:13:11.330 --> 00:13:13.400 align:middle line:84%
+And then just one
+by one by one, it's
+
+00:13:13.400 --> 00:13:15.860 align:middle line:90%
+taken over all other countries.
+
+00:13:15.860 --> 00:13:19.280 align:middle line:84%
+Seznam in Czechia was like
+one of the last holdouts,
+
+00:13:19.280 --> 00:13:22.380 align:middle line:90%
+and Google passed them in 2011.
+
+00:13:22.380 --> 00:13:23.160 align:middle line:90%
+Yahoo!
+
+00:13:23.160 --> 00:13:27.030 align:middle line:84%
+was number one in
+Japan and Taiwan.
+
+00:13:27.030 --> 00:13:29.350 align:middle line:90%
+Naver was number one in Korea.
+
+00:13:29.350 --> 00:13:32.130 align:middle line:84%
+One by one by one,
+Google picked them off.
+
+00:13:32.130 --> 00:13:36.370 align:middle line:84%
+Google actually passed
+Yandex in Russia in 2019,
+
+00:13:36.370 --> 00:13:39.380 align:middle line:84%
+but I guess post
+war, Yandex is back
+
+00:13:39.380 --> 00:13:41.380 align:middle line:84%
+to being the number one
+search engine in Russia.
+
+00:13:41.380 --> 00:13:44.910 align:middle line:84%
+And then China is the one major
+country where Google is not
+
+00:13:44.910 --> 00:13:49.500 align:middle line:84%
+dominant, and Google just has
+a very tiny share in China.
+
+00:13:49.500 --> 00:13:51.990 align:middle line:84%
+But anyway, worldwide
+market share of Google
+
+00:13:51.990 --> 00:13:57.990 align:middle line:84%
+was reported to be
+roughly over 90%.
+
+00:13:57.990 --> 00:14:00.840 align:middle line:90%
+Google is incredibly profitable.
+
+00:14:00.840 --> 00:14:03.940 align:middle line:84%
+Google has $100
+billion in revenues.
+
+00:14:03.940 --> 00:14:05.830 align:middle line:90%
+It has very high profit margins.
+
+00:14:05.830 --> 00:14:08.130 align:middle line:84%
+It therefore makes tens of
+billions of dollars a year
+
+00:14:08.130 --> 00:14:09.660 align:middle line:90%
+in profits.
+
+00:14:09.660 --> 00:14:11.910 align:middle line:84%
+In some ways, I think Google
+is even more important
+
+00:14:11.910 --> 00:14:14.220 align:middle line:84%
+than just the fact that
+it's dominating the search
+
+00:14:14.220 --> 00:14:16.500 align:middle line:84%
+business is that the
+fact that Google has
+
+00:14:16.500 --> 00:14:18.732 align:middle line:84%
+this enormous revenue coming
+in, the search business
+
+00:14:18.732 --> 00:14:20.190 align:middle line:84%
+lets it do many,
+many other things,
+
+00:14:20.190 --> 00:14:22.830 align:middle line:84%
+and in fact, many other
+online businesses.
+
+00:14:22.830 --> 00:14:25.050 align:middle line:84%
+Android operating
+systems, in some sense,
+
+00:14:25.050 --> 00:14:28.200 align:middle line:84%
+Google bought
+Android and puts out
+
+00:14:28.200 --> 00:14:30.840 align:middle line:84%
+Android phones as the only
+competitor to the iPhone,
+
+00:14:30.840 --> 00:14:33.720 align:middle line:84%
+in part because it's using
+the revenues that it gets
+
+00:14:33.720 --> 00:14:35.730 align:middle line:84%
+from searches on Android
+phones and the profits
+
+00:14:35.730 --> 00:14:37.522 align:middle line:84%
+that it's getting from
+its other businesses
+
+00:14:37.522 --> 00:14:41.250 align:middle line:84%
+to keep Android as a viable
+competitor to iPhones.
+
+00:14:41.250 --> 00:14:45.840 align:middle line:84%
+Other products like Google
+quickly dominated online email.
+
+00:14:45.840 --> 00:14:48.570 align:middle line:84%
+Google quickly dominated,
+well, after a number of years
+
+00:14:48.570 --> 00:14:50.740 align:middle line:84%
+came to dominate
+the browser market.
+
+00:14:50.740 --> 00:14:53.700 align:middle line:84%
+Google is trying
+many other markets.
+
+00:14:53.700 --> 00:14:59.250 align:middle line:84%
+Chrome OS and Google Docs
+competing with Microsoft.
+
+00:14:59.250 --> 00:15:03.330 align:middle line:84%
+Google Cloud competing
+with Amazon Web Services
+
+00:15:03.330 --> 00:15:05.620 align:middle line:90%
+and with Microsoft Azure.
+
+00:15:05.620 --> 00:15:07.900 align:middle line:90%
+Google Meets.
+
+00:15:07.900 --> 00:15:09.900 align:middle line:84%
+I don't know how well
+Google Meets is competing.
+
+00:15:09.900 --> 00:15:12.960 align:middle line:84%
+But anyway, in some sense,
+Google has all of this money
+
+00:15:12.960 --> 00:15:15.100 align:middle line:84%
+and Google can plow this
+money into other markets.
+
+00:15:15.100 --> 00:15:16.950 align:middle line:84%
+And so understanding
+Google's profits
+
+00:15:16.950 --> 00:15:22.710 align:middle line:84%
+are essential to understanding
+what's going on there.
+
+00:15:22.710 --> 00:15:27.720 align:middle line:84%
+The US Department of Justice
+filed suit in October 2020
+
+00:15:27.720 --> 00:15:30.720 align:middle line:84%
+alleging that Google violated
+the Sherman Act in monopolizing
+
+00:15:30.720 --> 00:15:32.520 align:middle line:90%
+the search market.
+
+00:15:32.520 --> 00:15:34.710 align:middle line:84%
+Part of their case is that
+Google makes very, very
+
+00:15:34.710 --> 00:15:36.840 align:middle line:84%
+large payments to
+Apple every year
+
+00:15:36.840 --> 00:15:40.980 align:middle line:84%
+to be the default search
+provider on iPhones.
+
+00:15:40.980 --> 00:15:43.950 align:middle line:84%
+Justice Department is alleging
+that that's a monopolization,
+
+00:15:43.950 --> 00:15:46.080 align:middle line:84%
+that Google in some
+sense is actively
+
+00:15:46.080 --> 00:15:48.330 align:middle line:90%
+acting to become a monopoly.
+
+00:15:48.330 --> 00:15:50.610 align:middle line:84%
+Several states have
+also sued Google
+
+00:15:50.610 --> 00:15:55.080 align:middle line:84%
+for monopolizing
+online advertising
+
+00:15:55.080 --> 00:15:58.390 align:middle line:84%
+and for their ad
+sales practices.
+
+00:15:58.390 --> 00:16:00.390 align:middle line:84%
+Keep being rumors that
+the Department of Justice
+
+00:16:00.390 --> 00:16:02.700 align:middle line:84%
+is going to file
+related claims also
+
+00:16:02.700 --> 00:16:04.595 align:middle line:84%
+and hasn't happened
+yet, as far as I know.
+
+00:16:04.595 --> 00:16:07.260 align:middle line:90%
+
+
+00:16:07.260 --> 00:16:09.630 align:middle line:84%
+So anyway, some basic
+facts about Google
+
+00:16:09.630 --> 00:16:14.530 align:middle line:84%
+is every time you do a search on
+Google, Google runs an auction.
+
+00:16:14.530 --> 00:16:17.790 align:middle line:84%
+That auction determines what the
+advertisements are going to be.
+
+00:16:17.790 --> 00:16:22.050 align:middle line:84%
+This advertising auction
+produces very stable results.
+
+00:16:22.050 --> 00:16:24.930 align:middle line:84%
+The advertising is
+incredibly profitable.
+
+00:16:24.930 --> 00:16:28.430 align:middle line:84%
+And Microsoft has been
+losing billions of dollars
+
+00:16:28.430 --> 00:16:30.050 align:middle line:90%
+a year running Bing.
+
+00:16:30.050 --> 00:16:33.680 align:middle line:84%
+Despite the fact that Microsoft
+is channeling $1 billion
+
+00:16:33.680 --> 00:16:35.360 align:middle line:84%
+a year or more
+into Bing, Bing has
+
+00:16:35.360 --> 00:16:37.250 align:middle line:84%
+done very little to
+erode Google's profit
+
+00:16:37.250 --> 00:16:41.580 align:middle line:90%
+margins or its market share.
+
+00:16:41.580 --> 00:16:43.170 align:middle line:84%
+STUDENT: What does
+it mean for results
+
+00:16:43.170 --> 00:16:46.800 align:middle line:90%
+to be stable in this case?
+
+00:16:46.800 --> 00:16:49.580 align:middle line:84%
+GLENN ELLISON: Actually I guess
+I'll show you what unstable is.
+
+00:16:49.580 --> 00:16:52.410 align:middle line:90%
+
+
+00:16:52.410 --> 00:16:56.460 align:middle line:84%
+So, I guess stable meaning
+if you do a search on Google,
+
+00:16:56.460 --> 00:16:59.340 align:middle line:84%
+the ads stay in the
+same place and the firms
+
+00:16:59.340 --> 00:17:00.850 align:middle line:90%
+don't change their bids.
+
+00:17:00.850 --> 00:17:02.860 align:middle line:90%
+So Google runs an auction.
+
+00:17:02.860 --> 00:17:06.387 align:middle line:84%
+The firms seem content to
+just put in their bids,
+
+00:17:06.387 --> 00:17:07.720 align:middle line:90%
+leave their bids where they are.
+
+00:17:07.720 --> 00:17:10.829 align:middle line:84%
+The ads stay in the same place
+rather than the firms needing
+
+00:17:10.829 --> 00:17:13.560 align:middle line:90%
+to cycle through the bidding.
+
+00:17:13.560 --> 00:17:16.119 align:middle line:84%
+I'll give an example of
+unstable in a minute.
+
+00:17:16.119 --> 00:17:21.780 align:middle line:84%
+So I assume most people
+have used Google.
+
+00:17:21.780 --> 00:17:25.018 align:middle line:84%
+You're looking for
+something, a turkey platter.
+
+00:17:25.018 --> 00:17:26.560 align:middle line:84%
+You do a search for
+"turkey platter."
+
+00:17:26.560 --> 00:17:30.480 align:middle line:84%
+And what you can get is
+several kinds of sponsored ads.
+
+00:17:30.480 --> 00:17:32.670 align:middle line:84%
+You get an ad up
+here at the top.
+
+00:17:32.670 --> 00:17:34.080 align:middle line:84%
+Sometimes you see
+three of those.
+
+00:17:34.080 --> 00:17:35.538 align:middle line:84%
+On shopping links,
+sometimes you'll
+
+00:17:35.538 --> 00:17:37.360 align:middle line:84%
+get a box like
+this with pictures.
+
+00:17:37.360 --> 00:17:39.180 align:middle line:84%
+Then you get a bunch
+of ads over here
+
+00:17:39.180 --> 00:17:41.138 align:middle line:84%
+on the right side
+for turkey platters.
+
+00:17:41.138 --> 00:17:43.180 align:middle line:84%
+And then down here, you
+get what people sometimes
+
+00:17:43.180 --> 00:17:46.160 align:middle line:84%
+call the organic or
+algorithmic search results.
+
+00:17:46.160 --> 00:17:48.980 align:middle line:84%
+These are the ones that
+advertisers didn't pay for.
+
+00:17:48.980 --> 00:17:52.030 align:middle line:84%
+And this is just Google picking
+out what's a good turkey platter
+
+00:17:52.030 --> 00:17:55.450 align:middle line:90%
+site to look at.
+
+00:17:55.450 --> 00:17:57.820 align:middle line:90%
+Maybe you haven't done Bing.
+
+00:17:57.820 --> 00:17:59.500 align:middle line:84%
+But anyway, if you
+do a search on Bing,
+
+00:17:59.500 --> 00:18:01.600 align:middle line:90%
+Bing is very much like Google.
+
+00:18:01.600 --> 00:18:04.040 align:middle line:84%
+Again, I do a search
+for "turkey platter."
+
+00:18:04.040 --> 00:18:06.200 align:middle line:84%
+I get some set of
+ads at the top.
+
+00:18:06.200 --> 00:18:08.530 align:middle line:90%
+I get image ads here.
+
+00:18:08.530 --> 00:18:11.300 align:middle line:84%
+Actually, those
+are not image ads.
+
+00:18:11.300 --> 00:18:14.500 align:middle line:84%
+So I guess I get
+ads here, images
+
+00:18:14.500 --> 00:18:17.380 align:middle line:84%
+that are not advertisements,
+ads here on the right,
+
+00:18:17.380 --> 00:18:21.130 align:middle line:84%
+and then the organic
+results for telling you you
+
+00:18:21.130 --> 00:18:22.550 align:middle line:84%
+can find a turkey
+platter on eBay.
+
+00:18:22.550 --> 00:18:23.085 align:middle line:90%
+Start here.
+
+00:18:23.085 --> 00:18:27.340 align:middle line:90%
+
+
+00:18:27.340 --> 00:18:31.420 align:middle line:84%
+One thing you notice very
+quickly if you play with Google
+
+00:18:31.420 --> 00:18:34.840 align:middle line:84%
+is that what Google
+is doing with the ads
+
+00:18:34.840 --> 00:18:37.940 align:middle line:84%
+depends very much on the type
+of query that you type in.
+
+00:18:37.940 --> 00:18:41.930 align:middle line:84%
+And the less commercial is your
+query, the fewer ads there are.
+
+00:18:41.930 --> 00:18:45.640 align:middle line:84%
+So for instance,
+I type in search
+
+00:18:45.640 --> 00:18:48.370 align:middle line:84%
+for a fairly non-commercial
+term, Math Counts,
+
+00:18:48.370 --> 00:18:51.260 align:middle line:84%
+which is a middle school
+American math competition.
+
+00:18:51.260 --> 00:18:55.360 align:middle line:84%
+And what you see is just
+the mathcounts.org site
+
+00:18:55.360 --> 00:18:58.900 align:middle line:84%
+with several sublinks and
+then Math Counts practice,
+
+00:18:58.900 --> 00:19:01.960 align:middle line:84%
+a Wikipedia article, various
+other things about Math Counts,
+
+00:19:01.960 --> 00:19:06.040 align:middle line:84%
+but just no ads
+whatsoever on that page.
+
+00:19:06.040 --> 00:19:11.290 align:middle line:84%
+And then if I make my search
+slightly more commercial
+
+00:19:11.290 --> 00:19:14.200 align:middle line:84%
+by putting in Math
+Counts preparation,
+
+00:19:14.200 --> 00:19:17.020 align:middle line:84%
+then Google decides it's
+a little more commercial
+
+00:19:17.020 --> 00:19:19.480 align:middle line:84%
+and they put two ads on the
+screen up here at the top.
+
+00:19:19.480 --> 00:19:22.630 align:middle line:84%
+No ads on the right, but they
+do have Math Counts preparation
+
+00:19:22.630 --> 00:19:25.370 align:middle line:84%
+at artofproblemsolving.com
+and amazon.com
+
+00:19:25.370 --> 00:19:27.780 align:middle line:84%
+to get books to prepare
+for Math Counts.
+
+00:19:27.780 --> 00:19:30.320 align:middle line:84%
+But then otherwise it's
+still mostly online search,
+
+00:19:30.320 --> 00:19:32.090 align:middle line:90%
+mostly organic.
+
+00:19:32.090 --> 00:19:37.970 align:middle line:84%
+And then if I picked "shorts" as
+a word that's more commercial.
+
+00:19:37.970 --> 00:19:41.120 align:middle line:84%
+People type in the word
+shorts, typically they're
+
+00:19:41.120 --> 00:19:43.370 align:middle line:90%
+trying to buy some shorts.
+
+00:19:43.370 --> 00:19:45.270 align:middle line:84%
+And so this is a
+very commercial word.
+
+00:19:45.270 --> 00:19:48.200 align:middle line:84%
+So on shorts, you see you get
+the full treatment of the 11
+
+00:19:48.200 --> 00:19:51.410 align:middle line:84%
+ads, which is maximum Google was
+doing at the time I took these.
+
+00:19:51.410 --> 00:19:52.710 align:middle line:90%
+I think may still be true.
+
+00:19:52.710 --> 00:19:54.420 align:middle line:90%
+So I searched for "shorts."
+
+00:19:54.420 --> 00:19:57.830 align:middle line:84%
+I get three ads at the top,
+Macy's, Victoria's Secret,
+
+00:19:57.830 --> 00:19:58.880 align:middle line:90%
+Zappos.
+
+00:19:58.880 --> 00:20:02.070 align:middle line:84%
+And then over on the right, I
+get one, two, three, four, five,
+
+00:20:02.070 --> 00:20:03.570 align:middle line:90%
+I get eight ads over here.
+
+00:20:03.570 --> 00:20:05.840 align:middle line:84%
+Other places you
+could buy shorts.
+
+00:20:05.840 --> 00:20:08.540 align:middle line:84%
+And you'll notice that Google
+has an awful lot of trouble
+
+00:20:08.540 --> 00:20:11.540 align:middle line:84%
+even thinking of what
+are the organic search
+
+00:20:11.540 --> 00:20:13.020 align:middle line:90%
+results to display.
+
+00:20:13.020 --> 00:20:16.700 align:middle line:84%
+So they do put in there
+was a movie named Shorts.
+
+00:20:16.700 --> 00:20:20.090 align:middle line:84%
+And so they put in a
+link to that movie.
+
+00:20:20.090 --> 00:20:22.580 align:middle line:84%
+They do decide that
+maybe Zappos is a place
+
+00:20:22.580 --> 00:20:25.250 align:middle line:84%
+to buy shorts or
+Zappos, Forever, 21,
+
+00:20:25.250 --> 00:20:28.130 align:middle line:84%
+and Kohl's are the places
+they think of to buy shorts.
+
+00:20:28.130 --> 00:20:29.990 align:middle line:84%
+I'm doubting those
+are the three most
+
+00:20:29.990 --> 00:20:31.200 align:middle line:90%
+common places to buy shorts.
+
+00:20:31.200 --> 00:20:32.340 align:middle line:84%
+But anyway, that's
+what Google picked out.
+
+00:20:32.340 --> 00:20:35.090 align:middle line:84%
+And then they also have the-- my
+favorite was the Wikipedia entry
+
+00:20:35.090 --> 00:20:38.540 align:middle line:84%
+in number five, which tells you
+shorts are "a bifurcated garment
+
+00:20:38.540 --> 00:20:40.520 align:middle line:84%
+worn by men and women
+over the pelvic area,
+
+00:20:40.520 --> 00:20:43.737 align:middle line:84%
+circling the waist and covering
+the upper parts of the legs."
+
+00:20:43.737 --> 00:20:45.320 align:middle line:84%
+I find it hard to
+believe that there's
+
+00:20:45.320 --> 00:20:48.260 align:middle line:84%
+anybody who did the search
+for shorts because they
+
+00:20:48.260 --> 00:20:49.410 align:middle line:90%
+didn't know what they were.
+
+00:20:49.410 --> 00:20:51.920 align:middle line:90%
+And then that description.
+
+00:20:51.920 --> 00:20:53.540 align:middle line:84%
+I didn't know what
+a pair of shorts
+
+00:20:53.540 --> 00:20:55.880 align:middle line:84%
+were, but now that I read
+that, my English is such
+
+00:20:55.880 --> 00:20:59.100 align:middle line:90%
+that that's what they are.
+
+00:20:59.100 --> 00:21:01.310 align:middle line:84%
+But it's commercial, so
+that what you can see
+
+00:21:01.310 --> 00:21:04.250 align:middle line:84%
+is they've largely turned the
+page over to the ads rather
+
+00:21:04.250 --> 00:21:07.460 align:middle line:90%
+than the organic results.
+
+00:21:07.460 --> 00:21:09.740 align:middle line:84%
+And I think what
+I and others would
+
+00:21:09.740 --> 00:21:16.160 align:middle line:84%
+argue is that the ads have
+done a better job than Google
+
+00:21:16.160 --> 00:21:19.550 align:middle line:84%
+could do, than the Google's
+organic search results here.
+
+00:21:19.550 --> 00:21:21.110 align:middle line:84%
+That somehow the
+ads have figured out
+
+00:21:21.110 --> 00:21:23.030 align:middle line:84%
+that Macy's would
+be a good place
+
+00:21:23.030 --> 00:21:28.142 align:middle line:84%
+to buy shorts, the Dockers,
+the Athleta, AE, Loft.
+
+00:21:28.142 --> 00:21:30.350 align:middle line:84%
+In some sense, they've picked
+out a variety of places
+
+00:21:30.350 --> 00:21:34.400 align:middle line:84%
+where people might actually
+buy shorts that, in my guess,
+
+00:21:34.400 --> 00:21:36.160 align:middle line:84%
+is better than Kohl's,
+but I don't know.
+
+00:21:36.160 --> 00:21:42.460 align:middle line:90%
+
+
+00:21:42.460 --> 00:21:44.990 align:middle line:90%
+Just one more example.
+
+00:21:44.990 --> 00:21:47.630 align:middle line:90%
+This is when things didn't work.
+
+00:21:47.630 --> 00:21:51.890 align:middle line:84%
+So this is a Yahoo!
+search example from Yahoo!
+
+00:21:51.890 --> 00:21:56.410 align:middle line:84%
+Search from before when Yahoo!
+was still competing with Google.
+
+00:21:56.410 --> 00:21:59.260 align:middle line:84%
+I did a search for
+"Paris Hilton."
+
+00:21:59.260 --> 00:22:04.720 align:middle line:84%
+And you look at what is it
+that when you search for "Paris
+
+00:22:04.720 --> 00:22:06.380 align:middle line:90%
+Hilton" can be.
+
+00:22:06.380 --> 00:22:09.340 align:middle line:84%
+Well, certainly you
+look at what Yahoo! is
+
+00:22:09.340 --> 00:22:11.920 align:middle line:90%
+able to come up here for ads.
+
+00:22:11.920 --> 00:22:13.360 align:middle line:90%
+"Paris Hilton tones.
+
+00:22:13.360 --> 00:22:16.570 align:middle line:84%
+Get complimentary Paris
+Hilton ringtones."
+
+00:22:16.570 --> 00:22:18.220 align:middle line:90%
+Paris Hilton is not a singer.
+
+00:22:18.220 --> 00:22:19.090 align:middle line:90%
+She's not a music--
+
+00:22:19.090 --> 00:22:20.810 align:middle line:90%
+what is a Paris Hilton ringtone?
+
+00:22:20.810 --> 00:22:24.332 align:middle line:84%
+What makes-- but clearly, they
+just had an ad for ringtones
+
+00:22:24.332 --> 00:22:26.290 align:middle line:84%
+that they would throw up
+there almost no matter
+
+00:22:26.290 --> 00:22:27.770 align:middle line:90%
+what you searched for.
+
+00:22:27.770 --> 00:22:30.790 align:middle line:84%
+And they would put Paris
+Hilton in the name.
+
+00:22:30.790 --> 00:22:35.980 align:middle line:84%
+And then they do have the "Paris
+Hilton cheap prices and huge
+
+00:22:35.980 --> 00:22:36.670 align:middle line:90%
+selection."
+
+00:22:36.670 --> 00:22:38.120 align:middle line:90%
+"Paris Hilton on sale."
+
+00:22:38.120 --> 00:22:40.970 align:middle line:84%
+Again, this was an ad that
+would pop up even if I typed
+
+00:22:40.970 --> 00:22:41.510 align:middle line:90%
+in "shorts."
+
+00:22:41.510 --> 00:22:43.910 align:middle line:84%
+It would say "shorts, cheap
+price and huge selection."
+
+00:22:43.910 --> 00:22:45.090 align:middle line:90%
+"Shorts on sale."
+
+00:22:45.090 --> 00:22:48.200 align:middle line:84%
+If I typed in "pencils," it
+would say "pencils on sale."
+
+00:22:48.200 --> 00:22:51.210 align:middle line:90%
+Clearly Yahoo!
+
+00:22:51.210 --> 00:22:52.182 align:middle line:90%
+had not figured it out.
+
+00:22:52.182 --> 00:22:54.140 align:middle line:84%
+One of the other interesting
+things about this,
+
+00:22:54.140 --> 00:22:57.350 align:middle line:84%
+though, is that you notice
+online machine learning always
+
+00:22:57.350 --> 00:23:00.060 align:middle line:84%
+does things that you don't
+necessarily intend it to do.
+
+00:23:00.060 --> 00:23:04.850 align:middle line:84%
+So what is Yahoo's machine
+learning thing doing here?
+
+00:23:04.850 --> 00:23:07.490 align:middle line:84%
+It's trying to teach middle
+school boys to overcome
+
+00:23:07.490 --> 00:23:11.820 align:middle line:90%
+their school's content filters.
+
+00:23:11.820 --> 00:23:16.700 align:middle line:84%
+So clearly it must be that some
+amount of the searches for Paris
+
+00:23:16.700 --> 00:23:18.620 align:middle line:84%
+Hilton photos are
+teenage boys trying
+
+00:23:18.620 --> 00:23:21.330 align:middle line:84%
+to find naked pictures of
+Paris Hilton or whatever.
+
+00:23:21.330 --> 00:23:25.220 align:middle line:84%
+And what it suggests is that
+also try "Paris Hilton private
+
+00:23:25.220 --> 00:23:27.410 align:middle line:84%
+parts photos," "hot
+Paris Hilton photos,"
+
+00:23:27.410 --> 00:23:30.800 align:middle line:84%
+because if you type in
+"Paris Hilton naked photos,"
+
+00:23:30.800 --> 00:23:33.000 align:middle line:84%
+your middle school
+computer blocks that.
+
+00:23:33.000 --> 00:23:35.930 align:middle line:84%
+And so in some sense,
+Yahoo! is teaching students
+
+00:23:35.930 --> 00:23:38.690 align:middle line:84%
+how to avoid what your middle
+school computer blocks.
+
+00:23:38.690 --> 00:23:41.660 align:middle line:84%
+Obviously it's doing it because
+it notes that people type
+
+00:23:41.660 --> 00:23:44.150 align:middle line:84%
+something in, it gets blocked,
+and they type that in,
+
+00:23:44.150 --> 00:23:46.440 align:middle line:84%
+and then they look at
+something for a long time.
+
+00:23:46.440 --> 00:23:51.290 align:middle line:84%
+So it's like, aha, that's what I
+should suggest they search for.
+
+00:23:51.290 --> 00:23:56.030 align:middle line:84%
+So anyway, Google
+runs an auction
+
+00:23:56.030 --> 00:23:57.590 align:middle line:90%
+every single search you do.
+
+00:23:57.590 --> 00:23:59.900 align:middle line:84%
+You type in a search,
+there's an auction occurs.
+
+00:23:59.900 --> 00:24:02.150 align:middle line:84%
+And the auction
+occurs to determine
+
+00:24:02.150 --> 00:24:04.340 align:middle line:84%
+which ads to show you in
+between the time you hit
+
+00:24:04.340 --> 00:24:07.430 align:middle line:90%
+your query and the page loads.
+
+00:24:07.430 --> 00:24:11.690 align:middle line:84%
+So that millisecond or whatever
+it is, an auction has been run.
+
+00:24:11.690 --> 00:24:17.150 align:middle line:84%
+Here's an example of when Yahoo!
+was running that crappy engine
+
+00:24:17.150 --> 00:24:18.360 align:middle line:90%
+that I was showing you.
+
+00:24:18.360 --> 00:24:23.180 align:middle line:90%
+This is what bids on Yahoo!
+
+00:24:23.180 --> 00:24:26.150 align:middle line:84%
+for some keyword for
+click through rates
+
+00:24:26.150 --> 00:24:28.520 align:middle line:84%
+looked like over
+a one week period.
+
+00:24:28.520 --> 00:24:32.233 align:middle line:84%
+And you can see the bids
+were doing like this.
+
+00:24:32.233 --> 00:24:33.650 align:middle line:84%
+What was happening
+was at the time
+
+00:24:33.650 --> 00:24:38.010 align:middle line:84%
+Yahoo! was running a first
+price auction for ad slots.
+
+00:24:38.010 --> 00:24:40.280 align:middle line:84%
+They were running a first
+price auction for ad slots.
+
+00:24:40.280 --> 00:24:42.613 align:middle line:84%
+So on the word "auto insurance,"
+I want to be number one
+
+00:24:42.613 --> 00:24:43.530 align:middle line:90%
+on insurance page.
+
+00:24:43.530 --> 00:24:46.580 align:middle line:84%
+So what happens, Geico puts in
+a bid and gets to be number one,
+
+00:24:46.580 --> 00:24:47.955 align:middle line:84%
+and then Progressive
+is like, oh,
+
+00:24:47.955 --> 00:24:50.538 align:middle line:84%
+I want to bid into penny more
+than that and I'll put in my bid
+
+00:24:50.538 --> 00:24:51.690 align:middle line:90%
+and I'll get to be first.
+
+00:24:51.690 --> 00:24:55.140 align:middle line:84%
+And then Geico bids again,
+puts a penny above that.
+
+00:24:55.140 --> 00:24:57.710 align:middle line:84%
+And the firms would just
+play these cycling games
+
+00:24:57.710 --> 00:25:00.620 align:middle line:84%
+where they would just overbid
+each other over and over
+
+00:25:00.620 --> 00:25:03.930 align:middle line:84%
+and over again, creating these
+Edgeworth cycles on steroids.
+
+00:25:03.930 --> 00:25:07.730 align:middle line:84%
+And obviously everybody
+has to write a bot
+
+00:25:07.730 --> 00:25:10.880 align:middle line:84%
+to update their prices
+every millisecond
+
+00:25:10.880 --> 00:25:13.110 align:middle line:84%
+or whatever to keep
+up with each other.
+
+00:25:13.110 --> 00:25:16.220 align:middle line:84%
+And we had this chaotic thing
+where the firms were spending
+
+00:25:16.220 --> 00:25:19.070 align:middle line:84%
+a lot of time
+writing pricing bots
+
+00:25:19.070 --> 00:25:21.290 align:middle line:84%
+rather than just
+figuring out what
+
+00:25:21.290 --> 00:25:24.220 align:middle line:84%
+the slots were worth to them
+and putting their ads up there.
+
+00:25:24.220 --> 00:25:26.990 align:middle line:90%
+
+
+00:25:26.990 --> 00:25:28.720 align:middle line:84%
+So I said those
+other things already.
+
+00:25:28.720 --> 00:25:35.180 align:middle line:90%
+
+
+00:25:35.180 --> 00:25:41.270 align:middle line:84%
+OK, so how the system works
+is there can be up to 11 ads.
+
+00:25:41.270 --> 00:25:45.470 align:middle line:84%
+The way I'm going to think about
+this is it's hard for Google
+
+00:25:45.470 --> 00:25:46.978 align:middle line:90%
+to figure out what's--
+
+00:25:46.978 --> 00:25:49.520 align:middle line:84%
+it's hard for machine learning
+to figure out which sites have
+
+00:25:49.520 --> 00:25:52.610 align:middle line:90%
+good shorts at good prices.
+
+00:25:52.610 --> 00:25:55.263 align:middle line:84%
+But the advertisers are going
+to have information about that.
+
+00:25:55.263 --> 00:25:57.680 align:middle line:84%
+The advertisers know whether
+people who come to their site
+
+00:25:57.680 --> 00:25:59.780 align:middle line:90%
+buy shorts or not.
+
+00:25:59.780 --> 00:26:02.810 align:middle line:84%
+And so the idea is
+going to be that this
+
+00:26:02.810 --> 00:26:05.510 align:middle line:84%
+is readily available
+information for Google
+
+00:26:05.510 --> 00:26:08.820 align:middle line:84%
+that Google can use to figure
+out which ads to display.
+
+00:26:08.820 --> 00:26:10.850 align:middle line:84%
+Just ask the sellers
+how much they're
+
+00:26:10.850 --> 00:26:13.050 align:middle line:84%
+willing to pay to have
+their shorts displayed.
+
+00:26:13.050 --> 00:26:15.290 align:middle line:84%
+That's going to tell
+you the people who
+
+00:26:15.290 --> 00:26:18.470 align:middle line:84%
+are going to pay more to be
+displayed are the ones that
+
+00:26:18.470 --> 00:26:20.540 align:middle line:84%
+are actually more likely
+to sell things to people
+
+00:26:20.540 --> 00:26:21.890 align:middle line:90%
+when they click on the ad.
+
+00:26:21.890 --> 00:26:23.445 align:middle line:90%
+And that's valuable information.
+
+00:26:23.445 --> 00:26:25.820 align:middle line:84%
+That's information that's
+easier to get out of those bids
+
+00:26:25.820 --> 00:26:29.780 align:middle line:84%
+than it is out of the whole
+machine learning stuff.
+
+00:26:29.780 --> 00:26:34.320 align:middle line:84%
+Now, in theory, what we could
+do is actually figure out
+
+00:26:34.320 --> 00:26:38.820 align:middle line:84%
+the best value page by just
+having all the bidders say,
+
+00:26:38.820 --> 00:26:41.460 align:middle line:84%
+there are 50 firms
+out there that
+
+00:26:41.460 --> 00:26:44.940 align:middle line:84%
+would like to display ads
+on the keyword shorts.
+
+00:26:44.940 --> 00:26:46.958 align:middle line:84%
+You could just ask
+all 50 of them, OK,
+
+00:26:46.958 --> 00:26:48.750 align:middle line:84%
+think about every way
+that we could make up
+
+00:26:48.750 --> 00:26:53.040 align:middle line:84%
+this page, which is 50
+firms we could put here,
+
+00:26:53.040 --> 00:26:56.620 align:middle line:90%
+49 here, 48 here, 47, 46, 45.
+
+00:26:56.620 --> 00:27:00.060 align:middle line:84%
+So we just have 50
+factorial over 39 factorial
+
+00:27:00.060 --> 00:27:03.870 align:middle line:84%
+and then say, tell me your
+bid for that composition
+
+00:27:03.870 --> 00:27:07.710 align:middle line:84%
+of the page with you first and
+Athleta second and Macy's third
+
+00:27:07.710 --> 00:27:08.680 align:middle line:90%
+and so on.
+
+00:27:08.680 --> 00:27:10.840 align:middle line:84%
+And then we would run
+the VCG mechanism,
+
+00:27:10.840 --> 00:27:12.900 align:middle line:84%
+we determine who's
+best, and that
+
+00:27:12.900 --> 00:27:16.350 align:middle line:84%
+would be a way to allocate
+the ads efficiently.
+
+00:27:16.350 --> 00:27:20.190 align:middle line:84%
+Clearly that doesn't work,
+because just the bidding
+
+00:27:20.190 --> 00:27:23.190 align:middle line:84%
+space for the firms would
+be absolutely enormous.
+
+00:27:23.190 --> 00:27:26.970 align:middle line:84%
+How does American Eagle
+know what their value
+
+00:27:26.970 --> 00:27:28.450 align:middle line:90%
+is for all of these pages?
+
+00:27:28.450 --> 00:27:31.260 align:middle line:84%
+And then how do they
+send you that message
+
+00:27:31.260 --> 00:27:33.030 align:middle line:90%
+with a trillion different bids?
+
+00:27:33.030 --> 00:27:35.110 align:middle line:84%
+And it's just an
+infeasible system.
+
+00:27:35.110 --> 00:27:38.310 align:middle line:84%
+But in some sense, theory would
+say that's what you want to do
+
+00:27:38.310 --> 00:27:41.520 align:middle line:84%
+is just run the VCG mechanism
+to have all the advertisers tell
+
+00:27:41.520 --> 00:27:44.800 align:middle line:84%
+you what's the best value
+of every page to them
+
+00:27:44.800 --> 00:27:46.895 align:middle line:84%
+and then you just pick
+the value maximizing page.
+
+00:27:46.895 --> 00:27:50.510 align:middle line:90%
+
+
+00:27:50.510 --> 00:27:52.710 align:middle line:84%
+OK, so what has
+Google done instead?
+
+00:27:52.710 --> 00:27:57.230 align:middle line:84%
+Google, again, early 2000s
+invented the following.
+
+00:27:57.230 --> 00:28:00.860 align:middle line:84%
+Advertisers submit
+standing per click bids.
+
+00:28:00.860 --> 00:28:03.420 align:middle line:84%
+So I can enter any
+search query I want.
+
+00:28:03.420 --> 00:28:05.480 align:middle line:90%
+I could enter "Paris."
+
+00:28:05.480 --> 00:28:06.805 align:middle line:90%
+I could enter "Paris hotels."
+
+00:28:06.805 --> 00:28:08.180 align:middle line:84%
+I could do "Paris"
+minus "Hilton"
+
+00:28:08.180 --> 00:28:11.420 align:middle line:84%
+to say if it's got Paris Hilton
+in it, if it's got both words,
+
+00:28:11.420 --> 00:28:13.370 align:middle line:90%
+I don't want it.
+
+00:28:13.370 --> 00:28:17.300 align:middle line:84%
+I can do these bids times
+persons in the United States.
+
+00:28:17.300 --> 00:28:21.510 align:middle line:84%
+Person is 18 to 39 years
+old, person is whatever.
+
+00:28:21.510 --> 00:28:23.750 align:middle line:84%
+But I just have a fairly
+expressive bidding language
+
+00:28:23.750 --> 00:28:26.630 align:middle line:84%
+where I can say for
+a person of this type
+
+00:28:26.630 --> 00:28:29.150 align:middle line:84%
+having done this
+search, this is my value
+
+00:28:29.150 --> 00:28:31.765 align:middle line:84%
+that I'm willing to pay per
+click to have my ad clicked on.
+
+00:28:31.765 --> 00:28:35.450 align:middle line:90%
+
+
+00:28:35.450 --> 00:28:39.140 align:middle line:84%
+And people just can submit
+these asynchronously, just
+
+00:28:39.140 --> 00:28:40.910 align:middle line:90%
+any time you just have a list.
+
+00:28:40.910 --> 00:28:44.060 align:middle line:84%
+Large advertisers will have a
+million standing bids on Google.
+
+00:28:44.060 --> 00:28:46.350 align:middle line:84%
+When someone types
+in a search query,
+
+00:28:46.350 --> 00:28:48.260 align:middle line:84%
+Google has this
+computer science problem
+
+00:28:48.260 --> 00:28:51.910 align:middle line:84%
+of identifying all of the bids
+that apply to that search query.
+
+00:28:51.910 --> 00:28:53.910 align:middle line:84%
+But anyway, as
+quickly as they can,
+
+00:28:53.910 --> 00:28:56.285 align:middle line:84%
+they find all the bids they
+think apply to that query.
+
+00:28:56.285 --> 00:28:58.410 align:middle line:84%
+And then I'm going to say,
+suppose there are n bids
+
+00:28:58.410 --> 00:29:02.250 align:middle line:84%
+b1 through bn that
+apply to that query.
+
+00:29:02.250 --> 00:29:04.410 align:middle line:84%
+Then what Google
+does is it multiplies
+
+00:29:04.410 --> 00:29:10.560 align:middle line:84%
+every bid by a quality
+score w1, w2 up to wn.
+
+00:29:10.560 --> 00:29:14.490 align:middle line:84%
+And then it ranks
+the bids from highest
+
+00:29:14.490 --> 00:29:19.770 align:middle line:84%
+to lowest on the product of
+the quality score and the bid.
+
+00:29:19.770 --> 00:29:23.310 align:middle line:84%
+And then chooses as
+winners the people
+
+00:29:23.310 --> 00:29:25.590 align:middle line:84%
+whose products
+are highest and it
+
+00:29:25.590 --> 00:29:29.010 align:middle line:90%
+picks some m between 0 and 11.
+
+00:29:29.010 --> 00:29:32.280 align:middle line:84%
+Sometimes it displays 0
+ad, sometimes 1, up to 11.
+
+00:29:32.280 --> 00:29:38.880 align:middle line:84%
+And then advertisers only
+pay if you click on their ad.
+
+00:29:38.880 --> 00:29:42.250 align:middle line:84%
+So advertisers only pay
+if you click on their ad.
+
+00:29:42.250 --> 00:29:45.540 align:middle line:84%
+If ad k is clicked, then
+what advertiser k pays
+
+00:29:45.540 --> 00:29:49.980 align:middle line:84%
+is wk plus 1, bk
+plus 1 over wk, which
+
+00:29:49.980 --> 00:29:52.740 align:middle line:84%
+you can think of as a
+generalization of the k
+
+00:29:52.740 --> 00:29:54.550 align:middle line:90%
+plus first price auction.
+
+00:29:54.550 --> 00:29:58.380 align:middle line:84%
+So this is the lowest that
+I could have bid and still
+
+00:29:58.380 --> 00:30:00.300 align:middle line:90%
+beaten bidder k plus 1.
+
+00:30:00.300 --> 00:30:03.570 align:middle line:84%
+So I bid something that
+beats bidder k plus 1,
+
+00:30:03.570 --> 00:30:06.120 align:middle line:84%
+and they're just saying
+think of the lowest
+
+00:30:06.120 --> 00:30:08.770 align:middle line:84%
+number you could have bid and
+still bid in the same position.
+
+00:30:08.770 --> 00:30:11.375 align:middle line:84%
+That's what we're going to
+charge you on a per click basis.
+
+00:30:11.375 --> 00:30:16.330 align:middle line:90%
+
+
+00:30:16.330 --> 00:30:18.110 align:middle line:84%
+I'm going to mostly
+ignore them today.
+
+00:30:18.110 --> 00:30:22.210 align:middle line:84%
+But the weights are
+incredibly important.
+
+00:30:22.210 --> 00:30:24.790 align:middle line:84%
+I would guess Google may
+spend $1 billion a year
+
+00:30:24.790 --> 00:30:26.800 align:middle line:90%
+on their weighting algorithms.
+
+00:30:26.800 --> 00:30:30.580 align:middle line:84%
+Because the whole point is I
+didn't have the other Yahoo!
+
+00:30:30.580 --> 00:30:31.790 align:middle line:90%
+examples illustrating this.
+
+00:30:31.790 --> 00:30:35.140 align:middle line:84%
+Yahoo! had an unweighted
+auction, unweighted first price
+
+00:30:35.140 --> 00:30:37.060 align:middle line:90%
+auction in the old days.
+
+00:30:37.060 --> 00:30:42.550 align:middle line:84%
+So let's suppose you do a search
+for the word "tennis racquet"
+
+00:30:42.550 --> 00:30:45.190 align:middle line:84%
+on Yahoo! in the
+unweighted auction days.
+
+00:30:45.190 --> 00:30:48.190 align:middle line:84%
+What's going to come up
+first on the search screen?
+
+00:30:48.190 --> 00:30:51.220 align:middle line:84%
+You might think, OK,
+it should be stores
+
+00:30:51.220 --> 00:30:52.390 align:middle line:90%
+who sell tennis racquets.
+
+00:30:52.390 --> 00:30:55.180 align:middle line:84%
+Like maybe Dick's Sporting
+Goods is number one or somebody
+
+00:30:55.180 --> 00:30:57.070 align:middle line:84%
+who is going to sell
+tennis racquets.
+
+00:30:57.070 --> 00:30:59.270 align:middle line:84%
+No, that wasn't what
+it was under Yahoo!
+
+00:30:59.270 --> 00:31:03.580 align:middle line:84%
+It was people who sold ringtones
+and people who sold pornography.
+
+00:31:03.580 --> 00:31:05.920 align:middle line:84%
+And you might think, well,
+why would pornography show up
+
+00:31:05.920 --> 00:31:08.295 align:middle line:84%
+as number one when someone
+searched for "tennis racquet"?
+
+00:31:08.295 --> 00:31:10.820 align:middle line:84%
+Well, the whole point is
+it's a pay per click auction.
+
+00:31:10.820 --> 00:31:12.890 align:middle line:84%
+It's not a pay per
+display auction.
+
+00:31:12.890 --> 00:31:16.420 align:middle line:84%
+And so if someone types
+in "tennis racquet"
+
+00:31:16.420 --> 00:31:21.910 align:middle line:84%
+and then you put an ad
+there that says "XXX videos,
+
+00:31:21.910 --> 00:31:26.350 align:middle line:84%
+promotion $0.99 a month for
+the first six months free"
+
+00:31:26.350 --> 00:31:33.320 align:middle line:84%
+or whatever, 99.999% of the
+people who click on that ad are
+
+00:31:33.320 --> 00:31:35.580 align:middle line:84%
+not going to buy
+the pornography.
+
+00:31:35.580 --> 00:31:39.362 align:middle line:84%
+But conditional on seeing
+the ad for pornography
+
+00:31:39.362 --> 00:31:40.820 align:middle line:84%
+and have it be very
+clear that it's
+
+00:31:40.820 --> 00:31:43.880 align:middle line:84%
+buying pornography and entering
+your credit card number,
+
+00:31:43.880 --> 00:31:46.920 align:middle line:84%
+if you click on it, then they're
+going to make a lot of money
+
+00:31:46.920 --> 00:31:47.420 align:middle line:90%
+off you.
+
+00:31:47.420 --> 00:31:48.650 align:middle line:84%
+And they're going to
+make more money off you
+
+00:31:48.650 --> 00:31:50.525 align:middle line:84%
+than they would make
+selling tennis racquets,
+
+00:31:50.525 --> 00:31:53.230 align:middle line:84%
+because tennis racquets
+have a $20 profit margin.
+
+00:31:53.230 --> 00:31:55.950 align:middle line:90%
+Pornography is 0 marginal cost.
+
+00:31:55.950 --> 00:31:59.450 align:middle line:84%
+And if you get people to sign
+up for a $9.95 a month plan,
+
+00:31:59.450 --> 00:32:01.920 align:middle line:84%
+you make $120 a year
+off each customer.
+
+00:32:01.920 --> 00:32:04.220 align:middle line:84%
+And so if you don't
+have the weights there
+
+00:32:04.220 --> 00:32:07.370 align:middle line:84%
+and you're only paying
+when you're clicked,
+
+00:32:07.370 --> 00:32:09.080 align:middle line:84%
+the screen fills
+up with things that
+
+00:32:09.080 --> 00:32:12.050 align:middle line:84%
+have high profit if clicked
+on and that usually won't
+
+00:32:12.050 --> 00:32:15.200 align:middle line:90%
+be clicked on by accident.
+
+00:32:15.200 --> 00:32:17.660 align:middle line:84%
+And so anyway, the weights
+there are very, very important.
+
+00:32:17.660 --> 00:32:19.430 align:middle line:84%
+If you look at the
+keyword "shorts,"
+
+00:32:19.430 --> 00:32:22.640 align:middle line:84%
+I cannot get on the Google
+screen for the keyword "shorts."
+
+00:32:22.640 --> 00:32:24.980 align:middle line:84%
+Because if I try to
+bid for "shorts,"
+
+00:32:24.980 --> 00:32:27.300 align:middle line:84%
+I can say I'm willing
+to pay $10 a click.
+
+00:32:27.300 --> 00:32:29.710 align:middle line:84%
+But they're going to
+look at my landing page
+
+00:32:29.710 --> 00:32:33.420 align:middle line:84%
+and my landing page doesn't look
+like a store that sells shorts.
+
+00:32:33.420 --> 00:32:36.010 align:middle line:84%
+They're going to be like, no
+one is interested in that.
+
+00:32:36.010 --> 00:32:38.550 align:middle line:84%
+We're not going to sell
+the keyword "shorts"
+
+00:32:38.550 --> 00:32:41.240 align:middle line:84%
+to him unless he has
+a high quality score.
+
+00:32:41.240 --> 00:32:45.230 align:middle line:90%
+
+
+00:32:45.230 --> 00:32:47.825 align:middle line:84%
+But from now on, let me
+just say from here now,
+
+00:32:47.825 --> 00:32:50.450 align:middle line:84%
+I'm going to ignore the quality
+score for much of this lecture.
+
+00:32:50.450 --> 00:32:52.825 align:middle line:84%
+Because you can ignore the
+quality score if you're-- once
+
+00:32:52.825 --> 00:32:56.630 align:middle line:84%
+you restrict to Macy's and
+Athleta and Loft and whomever
+
+00:32:56.630 --> 00:33:00.537 align:middle line:84%
+who are all selling shorts, then
+they may all have approximately
+
+00:33:00.537 --> 00:33:02.870 align:middle line:84%
+equal quality scores and the
+quality scores don't matter
+
+00:33:02.870 --> 00:33:03.445 align:middle line:90%
+so much.
+
+00:33:03.445 --> 00:33:08.290 align:middle line:90%
+
+
+00:33:08.290 --> 00:33:10.740 align:middle line:90%
+OK, so there's a paper.
+
+00:33:10.740 --> 00:33:13.240 align:middle line:84%
+First paper I want to do is
+Edelman, Ostrovsky, and Schwarz,
+
+00:33:13.240 --> 00:33:16.390 align:middle line:84%
+which developed
+the following model
+
+00:33:16.390 --> 00:33:21.490 align:middle line:84%
+to think about how this Google
+advertising system works
+
+00:33:21.490 --> 00:33:24.370 align:middle line:84%
+and why it seems to
+work so well for Google.
+
+00:33:24.370 --> 00:33:26.600 align:middle line:90%
+So here's their model.
+
+00:33:26.600 --> 00:33:28.600 align:middle line:90%
+So there are n firms.
+
+00:33:28.600 --> 00:33:30.800 align:middle line:90%
+There will be m prizes.
+
+00:33:30.800 --> 00:33:34.960 align:middle line:84%
+So think of these positions
+on the screen as the prizes.
+
+00:33:34.960 --> 00:33:39.370 align:middle line:84%
+And if you get prize
+k, you get zk clicks.
+
+00:33:39.370 --> 00:33:41.320 align:middle line:84%
+And then I'm going to
+assume that z1 is bigger
+
+00:33:41.320 --> 00:33:42.880 align:middle line:90%
+than z2 is bigger than zm.
+
+00:33:42.880 --> 00:33:48.220 align:middle line:84%
+So just somehow exogenously,
+slot one gets the most clicks,
+
+00:33:48.220 --> 00:33:51.135 align:middle line:84%
+slot three gets third,
+four, five, whatever.
+
+00:33:51.135 --> 00:33:52.510 align:middle line:84%
+So the slots are
+ordered in terms
+
+00:33:52.510 --> 00:33:55.133 align:middle line:84%
+of number of times people
+will click on them.
+
+00:33:55.133 --> 00:33:56.800 align:middle line:84%
+And it is true in
+practice, people click
+
+00:33:56.800 --> 00:33:58.630 align:middle line:84%
+on things on the top
+much more than they
+
+00:33:58.630 --> 00:34:01.900 align:middle line:90%
+click on things on the bottom.
+
+00:34:01.900 --> 00:34:05.620 align:middle line:84%
+They're going to assume that
+bidder i gets paid off zk times
+
+00:34:05.620 --> 00:34:10.409 align:middle line:84%
+vi if that bidder
+gets zk clicks.
+
+00:34:10.409 --> 00:34:14.120 align:middle line:84%
+So as if each seller
+has an expected profit
+
+00:34:14.120 --> 00:34:16.550 align:middle line:84%
+they're going to get every
+time someone clicks on their ad
+
+00:34:16.550 --> 00:34:19.909 align:middle line:84%
+and their total payoff
+is just number of clicks
+
+00:34:19.909 --> 00:34:21.810 align:middle line:90%
+times payoff per click.
+
+00:34:21.810 --> 00:34:25.429 align:middle line:84%
+And then it's the vi that's
+the random variable that's
+
+00:34:25.429 --> 00:34:28.889 align:middle line:84%
+known to bidder i and
+unknown to Google.
+
+00:34:28.889 --> 00:34:31.699 align:middle line:84%
+And that's why you need the
+bidding is to get the high vi
+
+00:34:31.699 --> 00:34:34.250 align:middle line:90%
+people to be displayed.
+
+00:34:34.250 --> 00:34:36.170 align:middle line:84%
+Suppose that
+advertising slots are
+
+00:34:36.170 --> 00:34:38.730 align:middle line:84%
+auctioned by the following
+clock auction procedure.
+
+00:34:38.730 --> 00:34:41.489 align:middle line:84%
+There's a price clock
+that starts at 0.
+
+00:34:41.489 --> 00:34:46.310 align:middle line:84%
+The price rises until there
+are only m bidders left bidding
+
+00:34:46.310 --> 00:34:48.060 align:middle line:90%
+to try to be on the screen.
+
+00:34:48.060 --> 00:34:51.199 align:middle line:84%
+And then from that point
+on, every time a bidder
+
+00:34:51.199 --> 00:34:54.179 align:middle line:84%
+drops out so that there are
+only k minus 1 bidders left,
+
+00:34:54.179 --> 00:34:57.800 align:middle line:84%
+the bidder who just
+dropped out gets position k
+
+00:34:57.800 --> 00:34:59.600 align:middle line:84%
+and is assigned a per
+click payment, which
+
+00:34:59.600 --> 00:35:01.460 align:middle line:84%
+is equal to the drop out point
+of the bidder in position
+
+00:35:01.460 --> 00:35:02.290 align:middle line:90%
+k plus 1.
+
+00:35:02.290 --> 00:35:05.010 align:middle line:90%
+
+
+00:35:05.010 --> 00:35:09.000 align:middle line:84%
+So this is how they're going
+to think about the Google
+
+00:35:09.000 --> 00:35:11.250 align:middle line:84%
+mechanism of
+submitting sealed bids
+
+00:35:11.250 --> 00:35:14.490 align:middle line:84%
+with the k plus
+first pricing plan
+
+00:35:14.490 --> 00:35:16.840 align:middle line:84%
+as the outcome of
+an English auction,
+
+00:35:16.840 --> 00:35:18.940 align:middle line:84%
+just to specify the
+game a little more.
+
+00:35:18.940 --> 00:35:22.560 align:middle line:84%
+It turns out the game is better
+specified as an English auction
+
+00:35:22.560 --> 00:35:23.820 align:middle line:90%
+than as a sealed bid auction.
+
+00:35:23.820 --> 00:35:25.528 align:middle line:84%
+But they specify it
+as an English auction
+
+00:35:25.528 --> 00:35:28.650 align:middle line:84%
+where just prices go up
+and then every time--
+
+00:35:28.650 --> 00:35:30.270 align:middle line:90%
+people drop out in order.
+
+00:35:30.270 --> 00:35:33.540 align:middle line:84%
+Once there are only 12 firms
+left, 11th firm drops out,
+
+00:35:33.540 --> 00:35:34.530 align:middle line:90%
+they get slot 11.
+
+00:35:34.530 --> 00:35:36.750 align:middle line:84%
+10th firm drops out,
+they get slot 10.
+
+00:35:36.750 --> 00:35:40.110 align:middle line:84%
+You pay the drop out point
+of the person below you.
+
+00:35:40.110 --> 00:35:42.540 align:middle line:84%
+So this is just
+a way of modeling
+
+00:35:42.540 --> 00:35:45.620 align:middle line:84%
+that sealed bid procedure
+to give us a unique outcome.
+
+00:35:45.620 --> 00:35:52.510 align:middle line:90%
+
+
+00:35:52.510 --> 00:35:55.330 align:middle line:90%
+Initial observations.
+
+00:35:55.330 --> 00:35:58.330 align:middle line:84%
+This generalized second
+price auction mechanism
+
+00:35:58.330 --> 00:36:01.750 align:middle line:84%
+that they're describing
+is not the VCG mechanism.
+
+00:36:01.750 --> 00:36:03.430 align:middle line:84%
+In the VCG mechanism,
+you're having
+
+00:36:03.430 --> 00:36:07.330 align:middle line:84%
+to give bids over 50
+factorial, over 39
+
+00:36:07.330 --> 00:36:10.420 align:middle line:84%
+factorial possible
+outcomes of the screen.
+
+00:36:10.420 --> 00:36:13.060 align:middle line:84%
+Here you're just
+submitting a single one
+
+00:36:13.060 --> 00:36:16.803 align:middle line:84%
+dimensional real number, which
+is just your pay per click.
+
+00:36:16.803 --> 00:36:18.470 align:middle line:84%
+So you're submitting
+your pay per click.
+
+00:36:18.470 --> 00:36:20.530 align:middle line:90%
+That's a very different thing.
+
+00:36:20.530 --> 00:36:22.990 align:middle line:90%
+So the message space is smaller.
+
+00:36:22.990 --> 00:36:30.070 align:middle line:84%
+And message space is smaller
+and your payment is different.
+
+00:36:30.070 --> 00:36:33.340 align:middle line:84%
+In the Google mechanism,
+you pay the number
+
+00:36:33.340 --> 00:36:37.840 align:middle line:84%
+of clicks you get times the
+bid of the person below you.
+
+00:36:37.840 --> 00:36:41.080 align:middle line:90%
+What's my VCG cost?
+
+00:36:41.080 --> 00:36:45.490 align:middle line:84%
+Let's suppose I take this
+slot in the VCG mechanism.
+
+00:36:45.490 --> 00:36:47.500 align:middle line:84%
+By taking this slot,
+I move the person
+
+00:36:47.500 --> 00:36:50.320 align:middle line:84%
+who would have been here down
+to this slot and the person who
+
+00:36:50.320 --> 00:36:52.430 align:middle line:84%
+would have been here down to
+that slot, the person who would
+
+00:36:52.430 --> 00:36:55.097 align:middle line:84%
+have been here to that slot, the
+person who would have been here
+
+00:36:55.097 --> 00:36:58.490 align:middle line:84%
+to that slot, and this
+person just gets nothing.
+
+00:36:58.490 --> 00:37:00.860 align:middle line:84%
+So by taking this slot, I'm
+doing a negative externality
+
+00:37:00.860 --> 00:37:03.020 align:middle line:84%
+on the person who would
+have been here and here
+
+00:37:03.020 --> 00:37:04.850 align:middle line:90%
+and here and here and here.
+
+00:37:04.850 --> 00:37:09.350 align:middle line:84%
+And so my VCG payment should
+be the number of clicks
+
+00:37:09.350 --> 00:37:12.440 align:middle line:84%
+that I take from somebody in
+moving them from spot I down
+
+00:37:12.440 --> 00:37:14.017 align:middle line:90%
+to spot i plus 1.
+
+00:37:14.017 --> 00:37:16.100 align:middle line:84%
+The number of clicks that
+I take from someone else
+
+00:37:16.100 --> 00:37:18.653 align:middle line:84%
+to move them from spot i
+plus 1 down to spot i plus 2.
+
+00:37:18.653 --> 00:37:20.570 align:middle line:84%
+I multiply that by their
+value, because that's
+
+00:37:20.570 --> 00:37:21.930 align:middle line:90%
+how much I hurt them.
+
+00:37:21.930 --> 00:37:24.980 align:middle line:84%
+And then finally, the person who
+I bump off the screen entirely,
+
+00:37:24.980 --> 00:37:29.000 align:middle line:84%
+they would have gotten zm clicks
+and had payment vm plus 1.
+
+00:37:29.000 --> 00:37:31.525 align:middle line:90%
+That's how much I hurt them.
+
+00:37:31.525 --> 00:37:35.150 align:middle line:90%
+
+
+00:37:35.150 --> 00:37:37.740 align:middle line:90%
+So it's not a VCG mechanism.
+
+00:37:37.740 --> 00:37:39.960 align:middle line:84%
+It just has a much
+smaller bidding space.
+
+00:37:39.960 --> 00:37:43.800 align:middle line:84%
+And it doesn't have the
+negative externality payments.
+
+00:37:43.800 --> 00:37:46.460 align:middle line:84%
+It has just the bidder
+below you bid payment, not
+
+00:37:46.460 --> 00:37:49.172 align:middle line:84%
+the weighted average of all
+the bids of all the people
+
+00:37:49.172 --> 00:37:50.005 align:middle line:90%
+below your payments.
+
+00:37:50.005 --> 00:37:52.520 align:middle line:90%
+
+
+00:37:52.520 --> 00:37:55.423 align:middle line:84%
+Truth telling is not
+necessarily going
+
+00:37:55.423 --> 00:37:56.840 align:middle line:84%
+to be an equilibrium
+when you have
+
+00:37:56.840 --> 00:38:00.010 align:middle line:84%
+more than one bidder or more
+than one slot available.
+
+00:38:00.010 --> 00:38:03.440 align:middle line:84%
+So I give this example
+here of suppose there
+
+00:38:03.440 --> 00:38:06.200 align:middle line:90%
+are two slots on the screen.
+
+00:38:06.200 --> 00:38:10.250 align:middle line:84%
+Slot one gives 200 clicks,
+slot two gives 199 clicks,
+
+00:38:10.250 --> 00:38:12.170 align:middle line:90%
+and there's no third slot.
+
+00:38:12.170 --> 00:38:15.290 align:middle line:84%
+And then imagine you have three
+bidders have these values.
+
+00:38:15.290 --> 00:38:17.580 align:middle line:84%
+High value bidder
+has value of 10.
+
+00:38:17.580 --> 00:38:22.220 align:middle line:84%
+Second has a value of four,
+third has a value of two.
+
+00:38:22.220 --> 00:38:27.240 align:middle line:84%
+With truth telling,
+bidder one bids 10.
+
+00:38:27.240 --> 00:38:29.520 align:middle line:90%
+Bidder one gets the top slot.
+
+00:38:29.520 --> 00:38:33.810 align:middle line:84%
+They get 200 clicks and they
+get a profit of six per click,
+
+00:38:33.810 --> 00:38:36.180 align:middle line:84%
+because they're paying four
+for each click they get.
+
+00:38:36.180 --> 00:38:39.810 align:middle line:90%
+200 times 6 is 1,200.
+
+00:38:39.810 --> 00:38:44.550 align:middle line:84%
+But if instead of
+bidding 10 I bid three,
+
+00:38:44.550 --> 00:38:47.140 align:middle line:84%
+then I move down to the
+second slot on the screen.
+
+00:38:47.140 --> 00:38:49.890 align:middle line:90%
+I get 199 clicks instead of 200.
+
+00:38:49.890 --> 00:38:52.620 align:middle line:84%
+But I'm only paying two for
+them instead of paying four.
+
+00:38:52.620 --> 00:38:53.740 align:middle line:90%
+So I wouldn't want to bid.
+
+00:38:53.740 --> 00:38:57.570 align:middle line:84%
+Truthfully, here I would
+drop my bid from 10
+
+00:38:57.570 --> 00:39:00.600 align:middle line:84%
+and I would rather bid three,
+because bidding three gets
+
+00:39:00.600 --> 00:39:04.920 align:middle line:84%
+me almost the same number
+of clicks at a lower price.
+
+00:39:04.920 --> 00:39:09.060 align:middle line:84%
+So this Google
+mechanism, it's not VCG.
+
+00:39:09.060 --> 00:39:11.340 align:middle line:84%
+Different strategy space,
+different payments, and it's
+
+00:39:11.340 --> 00:39:13.590 align:middle line:84%
+not VCG like in
+that bidders-- it's
+
+00:39:13.590 --> 00:39:17.340 align:middle line:84%
+going to be a non truth telling
+equilibrium in this mechanism.
+
+00:39:17.340 --> 00:39:18.840 align:middle line:84%
+Kind of like the
+first price auction
+
+00:39:18.840 --> 00:39:20.340 align:middle line:84%
+is a non truth
+telling mechanism.
+
+00:39:20.340 --> 00:39:22.530 align:middle line:84%
+But bidders are going to
+have to shade their bids,
+
+00:39:22.530 --> 00:39:25.700 align:middle line:84%
+because bidding
+truthfully isn't optimal.
+
+00:39:25.700 --> 00:39:32.880 align:middle line:90%
+
+
+00:39:32.880 --> 00:39:33.935 align:middle line:90%
+OK, so what happens?
+
+00:39:33.935 --> 00:39:38.100 align:middle line:90%
+
+
+00:39:38.100 --> 00:39:39.870 align:middle line:84%
+Much like the first
+price auction,
+
+00:39:39.870 --> 00:39:41.370 align:middle line:84%
+Edelman, Ostrovsky,
+and Schwarz show
+
+00:39:41.370 --> 00:39:44.790 align:middle line:84%
+that this model does have an
+equilibrium in which bidders
+
+00:39:44.790 --> 00:39:46.440 align:middle line:90%
+shade their bids.
+
+00:39:46.440 --> 00:39:51.570 align:middle line:84%
+So if you're not going
+to get on the screen,
+
+00:39:51.570 --> 00:39:54.290 align:middle line:84%
+you always want to keep bidding
+higher and higher if you
+
+00:39:54.290 --> 00:39:55.540 align:middle line:90%
+need to, to get on the screen.
+
+00:39:55.540 --> 00:39:58.330 align:middle line:84%
+Because if you don't get on
+the screen, you get nothing.
+
+00:39:58.330 --> 00:40:00.690 align:middle line:84%
+So all the losing
+bidders stay in
+
+00:40:00.690 --> 00:40:03.570 align:middle line:84%
+until the clock reaches
+their true value.
+
+00:40:03.570 --> 00:40:08.700 align:middle line:84%
+But then once you're
+guaranteed a slot,
+
+00:40:08.700 --> 00:40:12.120 align:middle line:84%
+when there are k bidders drop
+out and the k plus first bid
+
+00:40:12.120 --> 00:40:17.460 align:middle line:84%
+was bk plus 1, you drop out at
+your true value minus something.
+
+00:40:17.460 --> 00:40:20.370 align:middle line:84%
+And it's your value
+minus something
+
+00:40:20.370 --> 00:40:22.230 align:middle line:90%
+that's a fraction of the--
+
+00:40:22.230 --> 00:40:24.738 align:middle line:84%
+it's something related to the
+surplus that you're getting
+
+00:40:24.738 --> 00:40:27.030 align:middle line:84%
+and the ratio of the number
+of clicks of the two higher
+
+00:40:27.030 --> 00:40:30.190 align:middle line:90%
+slots, like the 200 over 199.
+
+00:40:30.190 --> 00:40:32.090 align:middle line:90%
+199 over 200 thing.
+
+00:40:32.090 --> 00:40:36.383 align:middle line:84%
+But anyway, it's your bid minus
+some fraction of the surplus
+
+00:40:36.383 --> 00:40:37.550 align:middle line:90%
+that you're already getting.
+
+00:40:37.550 --> 00:40:39.090 align:middle line:90%
+You drop out early.
+
+00:40:39.090 --> 00:40:42.585 align:middle line:84%
+And the intuition
+is you can't bid--
+
+00:40:42.585 --> 00:40:46.630 align:middle line:90%
+
+
+00:40:46.630 --> 00:40:50.140 align:middle line:84%
+suppose I'm bidding against--
+there are two of us.
+
+00:40:50.140 --> 00:40:53.645 align:middle line:84%
+I'm bidding to get on the
+very top slot on the screen.
+
+00:40:53.645 --> 00:40:55.270 align:middle line:84%
+And there are two of
+us who are hanging
+
+00:40:55.270 --> 00:40:57.880 align:middle line:84%
+in the bidding trying to
+get the number one slot,
+
+00:40:57.880 --> 00:41:00.790 align:middle line:90%
+and my value is $10.
+
+00:41:00.790 --> 00:41:03.340 align:middle line:84%
+Well, as the clock
+is approaching $10,
+
+00:41:03.340 --> 00:41:05.860 align:middle line:84%
+if my opponent hasn't
+dropped out at $10
+
+00:41:05.860 --> 00:41:07.540 align:middle line:84%
+and I haven't
+dropped out at $10,
+
+00:41:07.540 --> 00:41:09.998 align:middle line:84%
+the worst thing on Earth for
+me is if my opponent drops out
+
+00:41:09.998 --> 00:41:11.050 align:middle line:90%
+at $9.99.
+
+00:41:11.050 --> 00:41:12.940 align:middle line:84%
+Because if he
+drops out at $9.99,
+
+00:41:12.940 --> 00:41:16.570 align:middle line:84%
+I'm paying $9.99 per
+click, and I'm only getting
+
+00:41:16.570 --> 00:41:18.020 align:middle line:90%
+$10 a click worth of value.
+
+00:41:18.020 --> 00:41:20.240 align:middle line:84%
+And so I'm getting $0.01
+per click in surplus.
+
+00:41:20.240 --> 00:41:23.270 align:middle line:84%
+And so I'm getting
+almost nothing.
+
+00:41:23.270 --> 00:41:25.810 align:middle line:84%
+So if someone else
+dropped out at six,
+
+00:41:25.810 --> 00:41:29.480 align:middle line:84%
+there are two of us bidding
+for the top two slots,
+
+00:41:29.480 --> 00:41:31.900 align:middle line:84%
+at some point I want
+to take my $4 per click
+
+00:41:31.900 --> 00:41:34.090 align:middle line:84%
+for a lot of clicks in
+the number two position
+
+00:41:34.090 --> 00:41:38.890 align:middle line:84%
+rather than hang out and risk
+the other guy dropping out.
+
+00:41:38.890 --> 00:41:42.580 align:middle line:84%
+Any time I'm mad if he drops
+out, I shouldn't be there.
+
+00:41:42.580 --> 00:41:45.580 align:middle line:84%
+And so there's going to be some
+drop off point where you decide,
+
+00:41:45.580 --> 00:41:49.040 align:middle line:84%
+like in a first price
+auction, I want some surplus.
+
+00:41:49.040 --> 00:41:53.110 align:middle line:84%
+So I just drop out and take
+my surplus in position two
+
+00:41:53.110 --> 00:41:56.710 align:middle line:84%
+rather than risking this guy
+drops out and leaving almost
+
+00:41:56.710 --> 00:41:59.800 align:middle line:90%
+no surplus in position one.
+
+00:41:59.800 --> 00:42:03.806 align:middle line:84%
+So there's going to be a
+bid shading equilibrium.
+
+00:42:03.806 --> 00:42:10.440 align:middle line:90%
+
+
+00:42:10.440 --> 00:42:11.880 align:middle line:90%
+Why is this?
+
+00:42:11.880 --> 00:42:18.180 align:middle line:84%
+If you think about this
+equilibrium drop out point
+
+00:42:18.180 --> 00:42:21.120 align:middle line:84%
+b star of v. The
+first order condition
+
+00:42:21.120 --> 00:42:24.570 align:middle line:84%
+is I'm indifferent between
+dropping out at b star of v
+
+00:42:24.570 --> 00:42:28.440 align:middle line:84%
+and dropping out at b
+star of v plus delta b.
+
+00:42:28.440 --> 00:42:32.070 align:middle line:84%
+So what's the difference
+in my payoff if I drop out
+
+00:42:32.070 --> 00:42:36.090 align:middle line:84%
+at this one versus this one if
+my opponent doesn't drop out
+
+00:42:36.090 --> 00:42:37.028 align:middle line:90%
+in between?
+
+00:42:37.028 --> 00:42:38.820 align:middle line:84%
+If my opponent doesn't
+drop out in between,
+
+00:42:38.820 --> 00:42:43.080 align:middle line:84%
+it makes no difference because
+I'm still just paying the $6
+
+00:42:43.080 --> 00:42:46.017 align:middle line:90%
+and getting slot number two.
+
+00:42:46.017 --> 00:42:47.850 align:middle line:84%
+So the only time it
+makes a difference to me
+
+00:42:47.850 --> 00:42:52.710 align:middle line:84%
+whether I stay in
+from 857 to 858
+
+00:42:52.710 --> 00:42:57.390 align:middle line:84%
+is if my opponent is going to
+drop out between 857 and 858.
+
+00:42:57.390 --> 00:43:00.210 align:middle line:84%
+And so if this is the
+optimum it must be,
+
+00:43:00.210 --> 00:43:03.330 align:middle line:84%
+I'm indifferent between
+dropping out at 857 and 858
+
+00:43:03.330 --> 00:43:06.270 align:middle line:84%
+conditional on my
+opponent dropping out
+
+00:43:06.270 --> 00:43:08.280 align:middle line:84%
+in between the
+two of them, which
+
+00:43:08.280 --> 00:43:12.190 align:middle line:84%
+would be that my payoff if I'm
+the second person to drop out
+
+00:43:12.190 --> 00:43:16.902 align:middle line:84%
+is I get the higher slot
+and I pay b star of v.
+
+00:43:16.902 --> 00:43:18.610 align:middle line:84%
+Essentially he's
+dropping out essentially
+
+00:43:18.610 --> 00:43:20.260 align:middle line:90%
+where I was going to drop out.
+
+00:43:20.260 --> 00:43:23.140 align:middle line:84%
+Or getting the lower slot
+where I get fewer clicks,
+
+00:43:23.140 --> 00:43:29.110 align:middle line:84%
+zk instead of zk minus 1, but I
+pay the $6 instead of the 857.
+
+00:43:29.110 --> 00:43:31.240 align:middle line:84%
+And so anyway, so it's
+this local indifference
+
+00:43:31.240 --> 00:43:34.210 align:middle line:84%
+that tells me I'm locally
+indifferent between dropping
+
+00:43:34.210 --> 00:43:36.670 align:middle line:90%
+out and getting the lower--
+
+00:43:36.670 --> 00:43:38.170 align:middle line:84%
+at the point where
+I'm dropping out,
+
+00:43:38.170 --> 00:43:40.503 align:middle line:84%
+I'm locally indifferent between
+dropping out and getting
+
+00:43:40.503 --> 00:43:41.990 align:middle line:90%
+the lower or the higher slot.
+
+00:43:41.990 --> 00:43:43.750 align:middle line:84%
+And that gives me an
+expression that I can
+
+00:43:43.750 --> 00:43:45.000 align:middle line:90%
+use to solve for bid shading.
+
+00:43:45.000 --> 00:43:51.830 align:middle line:90%
+
+
+00:43:51.830 --> 00:43:56.060 align:middle line:84%
+And then sort of a corollary,
+the bidding formula
+
+00:43:56.060 --> 00:43:57.150 align:middle line:90%
+seemed unexciting.
+
+00:43:57.150 --> 00:43:58.530 align:middle line:90%
+You shade your bid.
+
+00:43:58.530 --> 00:44:02.000 align:middle line:84%
+Remarkable corollary
+is when players
+
+00:44:02.000 --> 00:44:04.640 align:middle line:84%
+bid using those formulas
+I just showed you,
+
+00:44:04.640 --> 00:44:07.040 align:middle line:84%
+the Google auction
+mechanism results
+
+00:44:07.040 --> 00:44:10.340 align:middle line:84%
+in every player making the same
+payment schedule as they would
+
+00:44:10.340 --> 00:44:13.430 align:middle line:90%
+have made in a VCG mechanism.
+
+00:44:13.430 --> 00:44:18.920 align:middle line:84%
+So it's a non truth
+telling equilibrium.
+
+00:44:18.920 --> 00:44:20.480 align:middle line:90%
+Everyone shades their bids.
+
+00:44:20.480 --> 00:44:22.130 align:middle line:84%
+But somehow in
+equilibrium, everyone
+
+00:44:22.130 --> 00:44:24.050 align:middle line:84%
+shades their bids in a
+way that this exactly
+
+00:44:24.050 --> 00:44:26.965 align:middle line:90%
+reproduces VCG payments.
+
+00:44:26.965 --> 00:44:32.870 align:middle line:90%
+
+
+00:44:32.870 --> 00:44:34.110 align:middle line:90%
+Why is that?
+
+00:44:34.110 --> 00:44:38.570 align:middle line:84%
+Well, just a simple
+induction argument.
+
+00:44:38.570 --> 00:44:40.260 align:middle line:90%
+The losing bidders pay nothing.
+
+00:44:40.260 --> 00:44:43.220 align:middle line:84%
+That's what happens
+in the VCG mechanism.
+
+00:44:43.220 --> 00:44:45.380 align:middle line:84%
+The bidder in the
+very bottom position
+
+00:44:45.380 --> 00:44:48.560 align:middle line:84%
+on the screen who's bumping
+someone else off the screen,
+
+00:44:48.560 --> 00:44:50.648 align:middle line:84%
+they pay the number
+of clicks they
+
+00:44:50.648 --> 00:44:52.440 align:middle line:84%
+get times the bid of
+the person below them.
+
+00:44:52.440 --> 00:44:55.430 align:middle line:90%
+That's also the VCG externality.
+
+00:44:55.430 --> 00:44:58.170 align:middle line:90%
+And then just go one level up.
+
+00:44:58.170 --> 00:45:02.390 align:middle line:84%
+What does the person
+in this slot pay?
+
+00:45:02.390 --> 00:45:04.340 align:middle line:84%
+They pay the number
+of clicks they get
+
+00:45:04.340 --> 00:45:06.840 align:middle line:90%
+times the bid of this person.
+
+00:45:06.840 --> 00:45:08.870 align:middle line:84%
+So they pay number of
+clicks in position m
+
+00:45:08.870 --> 00:45:13.550 align:middle line:84%
+minus 1 times the bid of
+the person in position m.
+
+00:45:13.550 --> 00:45:16.760 align:middle line:84%
+But what was the bid of
+the person in position m?
+
+00:45:16.760 --> 00:45:20.330 align:middle line:84%
+It was vm minus this
+bid shading, which
+
+00:45:20.330 --> 00:45:25.400 align:middle line:84%
+was zm over zm minus
+1, vm minus bm plus 1.
+
+00:45:25.400 --> 00:45:31.050 align:middle line:84%
+When I multiply these things
+together, I get zm minus 1vm.
+
+00:45:31.050 --> 00:45:35.220 align:middle line:84%
+And then this cancels
+and I get minus zm vm.
+
+00:45:35.220 --> 00:45:38.520 align:middle line:84%
+So the first two terms
+I get are the number
+
+00:45:38.520 --> 00:45:42.630 align:middle line:84%
+of clicks that I reduce,
+the number of clicks
+
+00:45:42.630 --> 00:45:45.990 align:middle line:84%
+that I cost the person who ends
+up in position m multiplied
+
+00:45:45.990 --> 00:45:47.730 align:middle line:90%
+by their value.
+
+00:45:47.730 --> 00:45:49.350 align:middle line:84%
+And then there's a
+final term, which
+
+00:45:49.350 --> 00:45:50.950 align:middle line:90%
+is this times this times this.
+
+00:45:50.950 --> 00:45:53.580 align:middle line:90%
+I get zm times vm plus 1.
+
+00:45:53.580 --> 00:45:55.590 align:middle line:84%
+So I'm getting the
+negative externality
+
+00:45:55.590 --> 00:45:59.580 align:middle line:84%
+on the person m minus 1 plus
+the negative externality
+
+00:45:59.580 --> 00:46:01.080 align:middle line:90%
+in person m.
+
+00:46:01.080 --> 00:46:03.300 align:middle line:84%
+So somehow that
+indifference condition
+
+00:46:03.300 --> 00:46:05.370 align:middle line:84%
+that determines the
+equilibrium bids
+
+00:46:05.370 --> 00:46:08.790 align:middle line:84%
+results in the
+equilibrium payment
+
+00:46:08.790 --> 00:46:10.740 align:middle line:84%
+that I make being
+the VCG payment.
+
+00:46:10.740 --> 00:46:13.473 align:middle line:84%
+I'm actually paying that sum
+of negative externalities
+
+00:46:13.473 --> 00:46:15.140 align:middle line:84%
+of all the people up
+and down the table.
+
+00:46:15.140 --> 00:46:18.380 align:middle line:90%
+
+
+00:46:18.380 --> 00:46:22.440 align:middle line:84%
+And so do I have another
+slide here, I take it?
+
+00:46:22.440 --> 00:46:25.850 align:middle line:90%
+Yeah, so implications.
+
+00:46:25.850 --> 00:46:28.430 align:middle line:84%
+The fact that Google's
+mechanism recreates VCG
+
+00:46:28.430 --> 00:46:30.820 align:middle line:84%
+means that it's an
+ex post equilibrium.
+
+00:46:30.820 --> 00:46:33.090 align:middle line:84%
+In VCG, you announce
+your values.
+
+00:46:33.090 --> 00:46:34.427 align:middle line:90%
+It was a dominant strategy.
+
+00:46:34.427 --> 00:46:36.260 align:middle line:84%
+You don't want to change
+what you announced.
+
+00:46:36.260 --> 00:46:37.773 align:middle line:84%
+In a first price
+auction, you bid.
+
+00:46:37.773 --> 00:46:39.440 align:middle line:84%
+You see that you've
+been slightly outbid
+
+00:46:39.440 --> 00:46:40.520 align:middle line:90%
+when you bid v over 2.
+
+00:46:40.520 --> 00:46:42.350 align:middle line:90%
+You want to change your bid.
+
+00:46:42.350 --> 00:46:45.290 align:middle line:84%
+In a VCG mechanism, you
+make your announcement.
+
+00:46:45.290 --> 00:46:46.260 align:middle line:90%
+You make your payment.
+
+00:46:46.260 --> 00:46:48.052 align:middle line:84%
+You don't want to change
+your announcement,
+
+00:46:48.052 --> 00:46:51.080 align:middle line:84%
+because your announcement
+was a dominant strategy.
+
+00:46:51.080 --> 00:46:53.420 align:middle line:84%
+The fact that this
+is recreating VCG
+
+00:46:53.420 --> 00:46:56.420 align:middle line:84%
+means you don't want to
+change your bid when you've
+
+00:46:56.420 --> 00:46:58.110 align:middle line:90%
+seen what the other people bid.
+
+00:46:58.110 --> 00:47:01.222 align:middle line:84%
+You're making the VCG payments
+given your true value, assuming
+
+00:47:01.222 --> 00:47:02.930 align:middle line:84%
+everyone else announces
+their true value,
+
+00:47:02.930 --> 00:47:05.870 align:middle line:84%
+everyone plays the equilibrium
+given their true value.
+
+00:47:05.870 --> 00:47:09.170 align:middle line:84%
+You're making your VCG payment
+given the announcements
+
+00:47:09.170 --> 00:47:10.560 align:middle line:90%
+that are being made.
+
+00:47:10.560 --> 00:47:13.290 align:middle line:84%
+Therefore, it's an
+ex post equilibrium.
+
+00:47:13.290 --> 00:47:15.270 align:middle line:84%
+You don't need to
+change your bid.
+
+00:47:15.270 --> 00:47:20.220 align:middle line:84%
+And computer science wise,
+this is an incredibly important
+
+00:47:20.220 --> 00:47:22.200 align:middle line:84%
+aspect to making a
+system work efficiently,
+
+00:47:22.200 --> 00:47:24.090 align:middle line:84%
+is you don't want
+everyone to have
+
+00:47:24.090 --> 00:47:27.780 align:middle line:84%
+to have a bot that's repricing
+their bids every millisecond,
+
+00:47:27.780 --> 00:47:29.400 align:middle line:84%
+seeing what everyone
+else is doing.
+
+00:47:29.400 --> 00:47:33.700 align:middle line:84%
+By having the VCG payments,
+it's an ex post equilibrium.
+
+00:47:33.700 --> 00:47:35.770 align:middle line:84%
+You're happy to have
+your bids stay the same.
+
+00:47:35.770 --> 00:47:37.770 align:middle line:84%
+Everyone can just put in
+these equilibrium bids
+
+00:47:37.770 --> 00:47:39.330 align:middle line:90%
+and then let them sit there.
+
+00:47:39.330 --> 00:47:41.340 align:middle line:84%
+And it's not like I'm
+disappointed that I'm
+
+00:47:41.340 --> 00:47:42.550 align:middle line:90%
+third instead of second.
+
+00:47:42.550 --> 00:47:45.850 align:middle line:84%
+It's like, I put in my bid
+and I'm happy where I am.
+
+00:47:45.850 --> 00:47:48.827 align:middle line:84%
+If I had ended up third instead
+of second, that would be good.
+
+00:47:48.827 --> 00:47:51.410 align:middle line:84%
+But given what other people are
+bidding, I don't want to move.
+
+00:47:51.410 --> 00:47:55.510 align:middle line:90%
+
+
+00:47:55.510 --> 00:47:57.580 align:middle line:84%
+Another implication
+of VCG equivalence
+
+00:47:57.580 --> 00:48:00.400 align:middle line:84%
+is that this mechanism
+is efficient.
+
+00:48:00.400 --> 00:48:02.830 align:middle line:84%
+The winners are the firms
+that derive the most
+
+00:48:02.830 --> 00:48:05.770 align:middle line:90%
+value from being listed.
+
+00:48:05.770 --> 00:48:08.170 align:middle line:84%
+And this gives you
+a suggestion for why
+
+00:48:08.170 --> 00:48:13.600 align:middle line:84%
+it may be that the Google
+ad pages work so well.
+
+00:48:13.600 --> 00:48:20.770 align:middle line:84%
+If it's the case that
+value of an ad for shorts,
+
+00:48:20.770 --> 00:48:23.200 align:middle line:84%
+the profit that
+goes to the seller
+
+00:48:23.200 --> 00:48:26.470 align:middle line:84%
+is proportional to
+the consumer surplus.
+
+00:48:26.470 --> 00:48:28.840 align:middle line:84%
+Because consumer
+surplus tends to be
+
+00:48:28.840 --> 00:48:32.260 align:middle line:84%
+divided evenly between sellers
+and buyers in an equilibrium.
+
+00:48:32.260 --> 00:48:37.060 align:middle line:84%
+Then Google is picking out
+the highest value advertisers
+
+00:48:37.060 --> 00:48:38.510 align:middle line:90%
+there via this mechanism.
+
+00:48:38.510 --> 00:48:42.820 align:middle line:84%
+Whatever this page max, over
+all possible 50 factorial
+
+00:48:42.820 --> 00:48:44.980 align:middle line:84%
+over 39 factorial
+orientations, this
+
+00:48:44.980 --> 00:48:49.570 align:middle line:84%
+is picking out the page that
+gives the largest sum of values
+
+00:48:49.570 --> 00:48:51.820 align:middle line:84%
+to the firms, which may be
+the largest sum of consumer
+
+00:48:51.820 --> 00:48:53.330 align:middle line:90%
+surpluses to the consumers.
+
+00:48:53.330 --> 00:48:56.960 align:middle line:90%
+
+
+00:48:56.960 --> 00:49:01.490 align:middle line:84%
+Third observation is remember I
+said VCG is not budget balanced.
+
+00:49:01.490 --> 00:49:04.780 align:middle line:84%
+This is what I sometimes call
+the commercial genius of Google.
+
+00:49:04.780 --> 00:49:08.600 align:middle line:84%
+That is, VCG is not
+budget balanced.
+
+00:49:08.600 --> 00:49:10.940 align:middle line:84%
+The only way to
+choose the right ads
+
+00:49:10.940 --> 00:49:12.920 align:middle line:84%
+is to have firms
+making VCG payments
+
+00:49:12.920 --> 00:49:14.660 align:middle line:90%
+for being on the screen.
+
+00:49:14.660 --> 00:49:16.490 align:middle line:90%
+Where's all that money flowing?
+
+00:49:16.490 --> 00:49:19.490 align:middle line:84%
+It's flowing from the
+advertisers to Google.
+
+00:49:19.490 --> 00:49:21.260 align:middle line:84%
+And let's suppose
+Bing were to say,
+
+00:49:21.260 --> 00:49:23.510 align:middle line:84%
+OK, we would like
+you to-- we're going
+
+00:49:23.510 --> 00:49:25.970 align:middle line:84%
+to try to steal advertisers
+away from Google
+
+00:49:25.970 --> 00:49:29.090 align:middle line:84%
+by charging the advertisers
+less and hoping the advertisers
+
+00:49:29.090 --> 00:49:32.000 align:middle line:84%
+will abandon Google and
+advertise on Bing instead.
+
+00:49:32.000 --> 00:49:34.590 align:middle line:84%
+This theorem basically
+says you can't do that.
+
+00:49:34.590 --> 00:49:37.700 align:middle line:84%
+You can't charge the
+advertisers any less than this
+
+00:49:37.700 --> 00:49:40.440 align:middle line:84%
+and find out which are
+the best ads to show.
+
+00:49:40.440 --> 00:49:42.860 align:middle line:84%
+So Google, in some
+sense, has this immunity
+
+00:49:42.860 --> 00:49:45.950 align:middle line:84%
+to undercutting in price
+that many firms don't have.
+
+00:49:45.950 --> 00:49:48.460 align:middle line:84%
+The theorem is if you try
+to undercut Google on price,
+
+00:49:48.460 --> 00:49:50.210 align:middle line:84%
+you're picking the
+wrong ads and consumers
+
+00:49:50.210 --> 00:49:51.760 align:middle line:90%
+will like the page less.
+
+00:49:51.760 --> 00:49:57.690 align:middle line:84%
+So in some sense,
+to do this business
+
+00:49:57.690 --> 00:50:00.810 align:middle line:84%
+and to choose the right ads, you
+have to charge the advertisers
+
+00:50:00.810 --> 00:50:01.970 align:middle line:90%
+this much.
+
+00:50:01.970 --> 00:50:05.100 align:middle line:84%
+And price competition
+doesn't work the way
+
+00:50:05.100 --> 00:50:06.110 align:middle line:90%
+it would otherwise work.
+
+00:50:06.110 --> 00:50:16.080 align:middle line:90%
+
+
+00:50:16.080 --> 00:50:19.110 align:middle line:84%
+At one point, Microsoft had,
+maybe they still have it,
+
+00:50:19.110 --> 00:50:21.120 align:middle line:90%
+they had Bing Rewards.
+
+00:50:21.120 --> 00:50:23.488 align:middle line:84%
+They had a big rewards program
+for the advertisers where
+
+00:50:23.488 --> 00:50:25.530 align:middle line:84%
+it would be like if you
+advertised a lot on Bing,
+
+00:50:25.530 --> 00:50:27.265 align:middle line:84%
+we'll give you an
+advertising credit
+
+00:50:27.265 --> 00:50:29.140 align:middle line:84%
+and give you 50% back
+at the end of the month
+
+00:50:29.140 --> 00:50:31.320 align:middle line:84%
+for having bought
+a lot of Bing ads.
+
+00:50:31.320 --> 00:50:32.890 align:middle line:84%
+What's the equivalent
+of that game?
+
+00:50:32.890 --> 00:50:35.378 align:middle line:84%
+Just everyone bids twice
+as much, get 50% back,
+
+00:50:35.378 --> 00:50:37.170 align:middle line:84%
+and then they're happy
+with their position.
+
+00:50:37.170 --> 00:50:40.050 align:middle line:84%
+In some sense, it's
+hard to undo this logic
+
+00:50:40.050 --> 00:50:43.530 align:middle line:84%
+that if you want to
+choose the right things,
+
+00:50:43.530 --> 00:50:45.590 align:middle line:84%
+firms have to make
+the VCG payments.
+
+00:50:45.590 --> 00:50:46.880 align:middle line:90%
+It's hard to mess with that.
+
+00:50:46.880 --> 00:50:54.176 align:middle line:90%
+
+
+00:50:54.176 --> 00:50:55.790 align:middle line:90%
+So other issues.
+
+00:50:55.790 --> 00:50:59.240 align:middle line:84%
+I think Edelman, Ostrovsky,
+Schwarz is a beautiful theorem.
+
+00:50:59.240 --> 00:51:03.260 align:middle line:84%
+I think in practice,
+these weights
+
+00:51:03.260 --> 00:51:05.720 align:middle line:90%
+are incredibly important.
+
+00:51:05.720 --> 00:51:11.420 align:middle line:84%
+The weights are what let you
+do this pay per click auction.
+
+00:51:11.420 --> 00:51:14.990 align:middle line:84%
+Because without the weights,
+you couldn't do pay per click
+
+00:51:14.990 --> 00:51:18.470 align:middle line:84%
+and have the right bidders
+selected, because then there'd
+
+00:51:18.470 --> 00:51:22.130 align:middle line:84%
+be this big bias towards people
+whose ads don't get clicked on
+
+00:51:22.130 --> 00:51:25.580 align:middle line:84%
+or people don't get clicked
+on unless for people who--
+
+00:51:25.580 --> 00:51:27.900 align:middle line:84%
+most people in search are
+not interested in those ads.
+
+00:51:27.900 --> 00:51:30.650 align:middle line:84%
+And so the weights are
+incredibly important.
+
+00:51:30.650 --> 00:51:31.920 align:middle line:90%
+The weights do reflect--
+
+00:51:31.920 --> 00:51:33.920 align:middle line:84%
+if you look at the weights
+that Google is using,
+
+00:51:33.920 --> 00:51:36.780 align:middle line:84%
+the weights clearly reflect what
+people are going to click on.
+
+00:51:36.780 --> 00:51:38.720 align:middle line:84%
+But the weights also
+reflect much more
+
+00:51:38.720 --> 00:51:39.900 align:middle line:84%
+than what people are
+going to click on.
+
+00:51:39.900 --> 00:51:41.317 align:middle line:84%
+The weights are
+also going to have
+
+00:51:41.317 --> 00:51:43.820 align:middle line:84%
+to reflect whether people buy
+for something after clicking
+
+00:51:43.820 --> 00:51:45.403 align:middle line:84%
+on it rather than
+they're disappointed
+
+00:51:45.403 --> 00:51:46.765 align:middle line:90%
+after clicking on it and so on.
+
+00:51:46.765 --> 00:51:49.460 align:middle line:90%
+
+
+00:51:49.460 --> 00:51:53.520 align:middle line:84%
+Google makes liberal use
+of reservation prices.
+
+00:51:53.520 --> 00:51:56.790 align:middle line:84%
+Many, many pages have
+no ads whatsoever.
+
+00:51:56.790 --> 00:51:59.850 align:middle line:84%
+That Math Counts
+page, I've got a book
+
+00:51:59.850 --> 00:52:04.300 align:middle line:84%
+to sell that has middle
+school math practice for kids.
+
+00:52:04.300 --> 00:52:08.370 align:middle line:84%
+If I'm not willing to
+bid $3 or $2 a click,
+
+00:52:08.370 --> 00:52:10.290 align:middle line:84%
+Google is not going
+to display it.
+
+00:52:10.290 --> 00:52:12.927 align:middle line:84%
+And they've chosen a very high
+reservation price for that page.
+
+00:52:12.927 --> 00:52:14.760 align:middle line:84%
+They're not going to
+show ads that have less
+
+00:52:14.760 --> 00:52:17.760 align:middle line:90%
+than that reservation price.
+
+00:52:17.760 --> 00:52:20.122 align:middle line:84%
+I think Edelman,
+Ostrovsky, Schwarz is not
+
+00:52:20.122 --> 00:52:22.080 align:middle line:84%
+an adequate tool for
+thinking about the welfare
+
+00:52:22.080 --> 00:52:23.400 align:middle line:90%
+implications of that.
+
+00:52:23.400 --> 00:52:28.170 align:middle line:84%
+In Edelman, Ostrovsky,
+Schwarz, reservation prices
+
+00:52:28.170 --> 00:52:31.200 align:middle line:84%
+are purely consumer
+welfare reducing.
+
+00:52:31.200 --> 00:52:35.340 align:middle line:84%
+If these firms have values
+for all of these slots,
+
+00:52:35.340 --> 00:52:37.442 align:middle line:84%
+then by not putting
+the ad on there,
+
+00:52:37.442 --> 00:52:39.150 align:middle line:84%
+you're just reducing
+the number of people
+
+00:52:39.150 --> 00:52:41.700 align:middle line:90%
+who click on them, the total.
+
+00:52:41.700 --> 00:52:45.450 align:middle line:84%
+You can't get any consumer
+surplus if there's no click.
+
+00:52:45.450 --> 00:52:49.470 align:middle line:84%
+So Edelman, Ostrovsky,
+Schwarz would say the fact
+
+00:52:49.470 --> 00:52:51.780 align:middle line:84%
+that Google is using
+reserve prices is evidence
+
+00:52:51.780 --> 00:52:55.710 align:middle line:84%
+that it's exerting market power
+and market power is always bad.
+
+00:52:55.710 --> 00:52:58.950 align:middle line:84%
+So I think the next
+paper I'm going to cover
+
+00:52:58.950 --> 00:53:01.583 align:middle line:84%
+is about, in part, how do we
+think about reserve prices
+
+00:53:01.583 --> 00:53:02.750 align:middle line:90%
+and why they may not be bad.
+
+00:53:02.750 --> 00:53:06.350 align:middle line:90%
+
+
+00:53:06.350 --> 00:53:08.930 align:middle line:90%
+Anyway, so next paper.
+
+00:53:08.930 --> 00:53:11.260 align:middle line:84%
+Any questions on that
+before I go on to mine?
+
+00:53:11.260 --> 00:53:16.790 align:middle line:90%
+
+
+00:53:16.790 --> 00:53:20.420 align:middle line:84%
+Athey-Ellison, position
+auctions with consumer search.
+
+00:53:20.420 --> 00:53:23.480 align:middle line:84%
+The main idea of our paper
+is to endogenize the prizes
+
+00:53:23.480 --> 00:53:26.150 align:middle line:84%
+in the Edelman Ostrovsky,
+Schwarz model as the profits
+
+00:53:26.150 --> 00:53:28.740 align:middle line:84%
+that you get from selling
+to consumer population.
+
+00:53:28.740 --> 00:53:30.590 align:middle line:84%
+And the idea is going
+to be that we're
+
+00:53:30.590 --> 00:53:33.740 align:middle line:84%
+going to marry Edelman,
+Ostrovsky, Schwarz with a search
+
+00:53:33.740 --> 00:53:38.000 align:middle line:84%
+model where consumers have
+search costs that they incur
+
+00:53:38.000 --> 00:53:40.672 align:middle line:84%
+every time they click on an
+ad and only click on an ad
+
+00:53:40.672 --> 00:53:43.130 align:middle line:84%
+if they think that the ad is
+going to have something that's
+
+00:53:43.130 --> 00:53:44.065 align:middle line:90%
+worth showing them.
+
+00:53:44.065 --> 00:53:46.700 align:middle line:90%
+
+
+00:53:46.700 --> 00:53:48.660 align:middle line:84%
+What are motivations
+for doing this?
+
+00:53:48.660 --> 00:53:51.380 align:middle line:84%
+Obviously, thinking about
+the consumers clicking
+
+00:53:51.380 --> 00:53:52.953 align:middle line:90%
+seems like a reasonable channel.
+
+00:53:52.953 --> 00:53:55.850 align:middle line:90%
+
+
+00:53:55.850 --> 00:53:57.713 align:middle line:84%
+Think about where
+the value comes from
+
+00:53:57.713 --> 00:53:59.880 align:middle line:84%
+is going to think about
+changes you're going to want
+
+00:53:59.880 --> 00:54:01.400 align:middle line:90%
+to make to the standard model.
+
+00:54:01.400 --> 00:54:07.500 align:middle line:84%
+In particular, one idea we have
+is that reserve prices need not
+
+00:54:07.500 --> 00:54:09.720 align:middle line:90%
+be welfare reducing.
+
+00:54:09.720 --> 00:54:13.693 align:middle line:84%
+In some sense, why are reserve
+prices not welfare reducing?
+
+00:54:13.693 --> 00:54:15.610 align:middle line:84%
+Consumers have to always
+make these decisions.
+
+00:54:15.610 --> 00:54:17.110 align:middle line:90%
+Do I click on ads?
+
+00:54:17.110 --> 00:54:19.190 align:middle line:90%
+If every page you put on--
+
+00:54:19.190 --> 00:54:21.690 align:middle line:84%
+if you're Yahoo! and every page
+you put up there, it's like,
+
+00:54:21.690 --> 00:54:24.130 align:middle line:84%
+here are the Paris
+Hilton ringtones thing,
+
+00:54:24.130 --> 00:54:25.390 align:middle line:90%
+what do consumers learn?
+
+00:54:25.390 --> 00:54:27.765 align:middle line:84%
+Consumers learn that the upper
+right corner of the screen
+
+00:54:27.765 --> 00:54:30.720 align:middle line:84%
+is where you can find
+the find x ringtones ad.
+
+00:54:30.720 --> 00:54:32.800 align:middle line:90%
+Consumers won't even read that.
+
+00:54:32.800 --> 00:54:33.700 align:middle line:90%
+They won't read it.
+
+00:54:33.700 --> 00:54:34.750 align:middle line:90%
+They will never click on it.
+
+00:54:34.750 --> 00:54:37.110 align:middle line:84%
+If there actually is something
+that's useful to them up there,
+
+00:54:37.110 --> 00:54:37.900 align:middle line:90%
+they won't see it.
+
+00:54:37.900 --> 00:54:39.580 align:middle line:84%
+They won't consider
+clicking on it.
+
+00:54:39.580 --> 00:54:42.180 align:middle line:84%
+So by using a reserve
+price, reserve prices
+
+00:54:42.180 --> 00:54:45.810 align:middle line:84%
+can convince consumers that
+there is probably something.
+
+00:54:45.810 --> 00:54:47.283 align:middle line:84%
+The fact that when
+you see an ad,
+
+00:54:47.283 --> 00:54:49.950 align:middle line:84%
+you know that person was willing
+to pay the reserve price, which
+
+00:54:49.950 --> 00:54:52.230 align:middle line:84%
+means they probably have
+something good to sell you.
+
+00:54:52.230 --> 00:54:53.880 align:middle line:84%
+So you should read
+it and you should
+
+00:54:53.880 --> 00:54:55.470 align:middle line:84%
+think about clicking
+on it, depending
+
+00:54:55.470 --> 00:54:57.210 align:middle line:90%
+on your clicking costs.
+
+00:54:57.210 --> 00:55:00.300 align:middle line:84%
+But the idea is that reserve
+prices can be valuable as a way
+
+00:55:00.300 --> 00:55:03.420 align:middle line:84%
+to signal to consumers
+that the ads that there
+
+00:55:03.420 --> 00:55:05.370 align:middle line:84%
+are worth clicking on
+and then can actually
+
+00:55:05.370 --> 00:55:06.990 align:middle line:84%
+increase the total
+number of clicks
+
+00:55:06.990 --> 00:55:09.720 align:middle line:84%
+rather than always decreasing
+the total number of clicks.
+
+00:55:09.720 --> 00:55:12.330 align:middle line:84%
+And then also just
+we want to think
+
+00:55:12.330 --> 00:55:14.610 align:middle line:84%
+about when you have a
+model with the consumers,
+
+00:55:14.610 --> 00:55:17.340 align:middle line:84%
+you can't think about consumer
+and social welfare in Edelman,
+
+00:55:17.340 --> 00:55:21.840 align:middle line:84%
+Ostrovsky, Schwarz because the
+consumers are just mindlessly
+
+00:55:21.840 --> 00:55:23.053 align:middle line:90%
+clicking and buying things.
+
+00:55:23.053 --> 00:55:24.720 align:middle line:84%
+You don't have the
+consumer search costs
+
+00:55:24.720 --> 00:55:27.387 align:middle line:84%
+that are being incurred when you
+put the ads on the screen, what
+
+00:55:27.387 --> 00:55:31.630 align:middle line:84%
+you think about what the
+consumer welfare is going to be.
+
+00:55:31.630 --> 00:55:34.660 align:middle line:84%
+So anyway, our model
+basic elements.
+
+00:55:34.660 --> 00:55:36.250 align:middle line:84%
+Consumers are going
+to have a need.
+
+00:55:36.250 --> 00:55:38.060 align:middle line:84%
+A need could be
+a pair of shorts.
+
+00:55:38.060 --> 00:55:43.480 align:middle line:84%
+They can meet this need by
+purchasing from some advertiser.
+
+00:55:43.480 --> 00:55:45.280 align:middle line:84%
+Consumers incur
+some kind of search
+
+00:55:45.280 --> 00:55:47.740 align:middle line:84%
+costs every time
+they click on a link.
+
+00:55:47.740 --> 00:55:50.180 align:middle line:84%
+The advertisers
+differ in quality.
+
+00:55:50.180 --> 00:55:52.990 align:middle line:84%
+Quality is just going to be the
+probability of having something
+
+00:55:52.990 --> 00:55:54.340 align:middle line:90%
+the consumer wants to buy.
+
+00:55:54.340 --> 00:55:57.693 align:middle line:84%
+So everyone has some pair
+of shorts they want to buy.
+
+00:55:57.693 --> 00:55:59.110 align:middle line:84%
+If you click on
+their ad, they may
+
+00:55:59.110 --> 00:56:03.160 align:middle line:84%
+have the pair of shorts you
+want, in which case you buy it.
+
+00:56:03.160 --> 00:56:06.550 align:middle line:84%
+Quality is private information
+of the advertisers.
+
+00:56:06.550 --> 00:56:08.680 align:middle line:84%
+Some advertisers know that
+90% of people who click
+
+00:56:08.680 --> 00:56:10.010 align:middle line:90%
+will find the shorts they want.
+
+00:56:10.010 --> 00:56:13.420 align:middle line:84%
+30% will find it,
+10% will find it.
+
+00:56:13.420 --> 00:56:18.820 align:middle line:84%
+And then if the bids do end up
+being ordered in a way that's
+
+00:56:18.820 --> 00:56:21.743 align:middle line:84%
+monotone in quality, like the
+highest quality firm is here,
+
+00:56:21.743 --> 00:56:24.160 align:middle line:84%
+the second highest quality
+firm is here, the third highest
+
+00:56:24.160 --> 00:56:29.380 align:middle line:84%
+quality firm is here, then that
+creates guided consumer search
+
+00:56:29.380 --> 00:56:31.130 align:middle line:84%
+where instead of having
+to search randomly
+
+00:56:31.130 --> 00:56:34.010 align:middle line:84%
+over all the firms, you know
+to click on the highest quality
+
+00:56:34.010 --> 00:56:36.260 align:middle line:84%
+firm first, then the second
+highest quality firm, then
+
+00:56:36.260 --> 00:56:37.730 align:middle line:90%
+the third highest quality firm.
+
+00:56:37.730 --> 00:56:40.400 align:middle line:84%
+And that guiding in your
+search can be, in some sense,
+
+00:56:40.400 --> 00:56:44.060 align:middle line:84%
+it's a intermediary that
+improves the quality of search
+
+00:56:44.060 --> 00:56:47.640 align:middle line:84%
+by giving you partial
+information about the qualities.
+
+00:56:47.640 --> 00:56:53.390 align:middle line:90%
+
+
+00:56:53.390 --> 00:56:59.770 align:middle line:84%
+So anyway, observations
+in the paper.
+
+00:56:59.770 --> 00:57:02.270 align:middle line:84%
+You can think about
+these sponsored searches
+
+00:57:02.270 --> 00:57:05.960 align:middle line:84%
+as a means of as an information
+intermediary providing
+
+00:57:05.960 --> 00:57:07.490 align:middle line:84%
+partial information
+to consumers,
+
+00:57:07.490 --> 00:57:10.910 align:middle line:84%
+which is this ordering
+of the firms on quality.
+
+00:57:10.910 --> 00:57:13.700 align:middle line:84%
+We can generalize some of the
+Edelman, Ostrovsky, Schwarz
+
+00:57:13.700 --> 00:57:18.380 align:middle line:84%
+model to this, even though there
+are common value elements now.
+
+00:57:18.380 --> 00:57:21.620 align:middle line:84%
+Reserve prices can
+improve social welfare.
+
+00:57:21.620 --> 00:57:25.160 align:middle line:84%
+And the standard results about
+click weighting being weighted.
+
+00:57:25.160 --> 00:57:26.410 align:middle line:90%
+Things I'll discuss.
+
+00:57:26.410 --> 00:57:28.732 align:middle line:84%
+You would want to do the
+weighting differently
+
+00:57:28.732 --> 00:57:30.440 align:middle line:84%
+in this model than
+you would do weighting
+
+00:57:30.440 --> 00:57:32.330 align:middle line:90%
+in Edelman, Ostrovsky, Schwarz.
+
+00:57:32.330 --> 00:57:35.310 align:middle line:84%
+I'll do this relatively quickly
+and skip some of the results.
+
+00:57:35.310 --> 00:57:38.510 align:middle line:84%
+But so the basic model is we
+have this continuum of consumers
+
+00:57:38.510 --> 00:57:40.760 align:middle line:90%
+of unit mass.
+
+00:57:40.760 --> 00:57:42.740 align:middle line:90%
+Everybody has a need.
+
+00:57:42.740 --> 00:57:46.040 align:middle line:84%
+They get a payoff of 1
+if they meet their need.
+
+00:57:46.040 --> 00:57:50.113 align:middle line:84%
+The consumers have search costs
+sj from clicking on a link.
+
+00:57:50.113 --> 00:57:52.280 align:middle line:84%
+And then we're going to
+assume that search costs are
+
+00:57:52.280 --> 00:57:54.360 align:middle line:90%
+heterogeneous in the population.
+
+00:57:54.360 --> 00:57:56.580 align:middle line:84%
+And what consumers do
+is they search optimally
+
+00:57:56.580 --> 00:57:59.280 align:middle line:84%
+until their need is met or
+the benefit of further search
+
+00:57:59.280 --> 00:58:02.970 align:middle line:90%
+falls below sj.
+
+00:58:02.970 --> 00:58:06.510 align:middle line:84%
+We have n advertisers bidding
+to be the sponsored links.
+
+00:58:06.510 --> 00:58:10.110 align:middle line:84%
+Firm I has probability qi of
+meeting a random consumer's
+
+00:58:10.110 --> 00:58:10.920 align:middle line:90%
+need.
+
+00:58:10.920 --> 00:58:13.830 align:middle line:84%
+qi is private
+information of the firms.
+
+00:58:13.830 --> 00:58:17.040 align:middle line:84%
+Firms get a pay off of
+1 if they meet a need.
+
+00:58:17.040 --> 00:58:18.900 align:middle line:84%
+And what the search
+engine is going to do
+
+00:58:18.900 --> 00:58:22.080 align:middle line:84%
+is conduct the standard,
+unweighted, generalized second
+
+00:58:22.080 --> 00:58:26.190 align:middle line:84%
+price auction, like in
+Edelman, Ostrovsky, Schwarz.
+
+00:58:26.190 --> 00:58:28.740 align:middle line:84%
+And then they display
+m sponsored links
+
+00:58:28.740 --> 00:58:30.185 align:middle line:90%
+ordered according to the bids.
+
+00:58:30.185 --> 00:58:36.060 align:middle line:90%
+
+
+00:58:36.060 --> 00:58:40.050 align:middle line:84%
+So just benchmark for how the
+improvement in search quality
+
+00:58:40.050 --> 00:58:42.450 align:middle line:90%
+works.
+
+00:58:42.450 --> 00:58:45.003 align:middle line:84%
+What would you do if
+all you saw is the ads
+
+00:58:45.003 --> 00:58:47.170 align:middle line:84%
+and the ads had no ordering
+to them, what do you do?
+
+00:58:47.170 --> 00:58:49.140 align:middle line:90%
+You just click on a random ad.
+
+00:58:49.140 --> 00:58:52.240 align:middle line:84%
+You have some expectation of
+the quality of a random ad.
+
+00:58:52.240 --> 00:58:54.720 align:middle line:84%
+I either don't click on anything
+or I click one random ad,
+
+00:58:54.720 --> 00:58:57.380 align:middle line:84%
+and then I just keep
+clicking random ads.
+
+00:58:57.380 --> 00:58:59.130 align:middle line:84%
+Every ad is independent
+of every other ad,
+
+00:58:59.130 --> 00:59:00.660 align:middle line:84%
+so I just keep clicking
+random ads to see if they have
+
+00:59:00.660 --> 00:59:02.300 align:middle line:84%
+what I want until
+I run out of ads.
+
+00:59:02.300 --> 00:59:09.060 align:middle line:90%
+
+
+00:59:09.060 --> 00:59:11.800 align:middle line:84%
+What do you do if
+the ads are ordered?
+
+00:59:11.800 --> 00:59:14.100 align:middle line:84%
+If the ads are sorted by
+quality and equilibrium,
+
+00:59:14.100 --> 00:59:17.520 align:middle line:84%
+then consumers follow
+a top down strategy.
+
+00:59:17.520 --> 00:59:19.290 align:middle line:84%
+They start at the
+top and they just
+
+00:59:19.290 --> 00:59:22.680 align:middle line:84%
+continue clicking until
+either their need is met
+
+00:59:22.680 --> 00:59:25.530 align:middle line:84%
+or until the expected
+quality of the next website
+
+00:59:25.530 --> 00:59:27.400 align:middle line:90%
+is less than the search cost.
+
+00:59:27.400 --> 00:59:31.200 align:middle line:84%
+And as you move down the
+screen, expected quality
+
+00:59:31.200 --> 00:59:33.190 align:middle line:90%
+is decreasing for two reasons.
+
+00:59:33.190 --> 00:59:39.840 align:middle line:84%
+One is, you know that the
+firms were ordered on quality.
+
+00:59:39.840 --> 00:59:41.820 align:middle line:84%
+So that as you're
+going further down,
+
+00:59:41.820 --> 00:59:45.090 align:middle line:84%
+you're getting a lower order
+statistic from the distribution.
+
+00:59:45.090 --> 00:59:47.370 align:middle line:84%
+And then you're also Bayesian
+updating, because you're
+
+00:59:47.370 --> 00:59:50.280 align:middle line:84%
+learning that if the top three
+firms didn't have what I'm
+
+00:59:50.280 --> 00:59:53.250 align:middle line:84%
+looking for, it must
+be that the set of ads
+
+00:59:53.250 --> 00:59:56.310 align:middle line:84%
+is lower quality than I
+thought it was ex ante,
+
+00:59:56.310 --> 00:59:58.448 align:middle line:84%
+and the realizations
+were all low.
+
+00:59:58.448 --> 01:00:00.240 align:middle line:84%
+Therefore, the realization
+of the fifth one
+
+01:00:00.240 --> 01:00:02.740 align:middle line:84%
+is even lower than my ex ante
+expectation of the realization
+
+01:00:02.740 --> 01:00:03.670 align:middle line:90%
+of the fifth one.
+
+01:00:03.670 --> 01:00:07.045 align:middle line:84%
+So as you move down the
+list, your expectation
+
+01:00:07.045 --> 01:00:08.670 align:middle line:84%
+of the probability
+of meeting your need
+
+01:00:08.670 --> 01:00:09.850 align:middle line:90%
+goes down for two reasons.
+
+01:00:09.850 --> 01:00:11.610 align:middle line:84%
+You know they're a
+lower order statistic
+
+01:00:11.610 --> 01:00:13.920 align:middle line:84%
+and you know that the top
+firms were no good, which
+
+01:00:13.920 --> 01:00:15.712 align:middle line:84%
+makes you think that
+the whole set of draws
+
+01:00:15.712 --> 01:00:17.580 align:middle line:84%
+from the distribution
+were a low draw.
+
+01:00:17.580 --> 01:00:20.280 align:middle line:84%
+And so as you move down, you're
+just going to start at the top
+
+01:00:20.280 --> 01:00:24.510 align:middle line:84%
+and then move down until your
+updated expectation, given
+
+01:00:24.510 --> 01:00:28.320 align:middle line:84%
+that you've had a whole bunch
+of failures to meet your need
+
+01:00:28.320 --> 01:00:32.100 align:middle line:90%
+is less than your search cost.
+
+01:00:32.100 --> 01:00:33.800 align:middle line:84%
+What happens in
+the bidding game?
+
+01:00:33.800 --> 01:00:38.670 align:middle line:90%
+
+
+01:00:38.670 --> 01:00:41.390 align:middle line:84%
+Bidding game is just like
+Edelman, Ostrovsky, Schwarz.
+
+01:00:41.390 --> 01:00:44.060 align:middle line:90%
+
+
+01:00:44.060 --> 01:00:46.500 align:middle line:84%
+Suppose firms dropped
+out at these prices.
+
+01:00:46.500 --> 01:00:49.967 align:middle line:84%
+You're deciding how long
+to stay and accept slot k.
+
+01:00:49.967 --> 01:00:52.050 align:middle line:84%
+Again, you're just going
+to have this indifference
+
+01:00:52.050 --> 01:00:54.780 align:middle line:84%
+between dropping
+out at this b star
+
+01:00:54.780 --> 01:00:56.490 align:middle line:84%
+and dropping out
+at b star plus db.
+
+01:00:56.490 --> 01:00:59.460 align:middle line:90%
+
+
+01:00:59.460 --> 01:01:07.560 align:middle line:84%
+If you're in the slot k minus
+1, if you're in the higher slot,
+
+01:01:07.560 --> 01:01:10.590 align:middle line:84%
+you get qi minus bk
+times the number of slots
+
+01:01:10.590 --> 01:01:13.650 align:middle line:90%
+that go to slot k minus 1.
+
+01:01:13.650 --> 01:01:15.900 align:middle line:90%
+But what happens if you drop--
+
+01:01:15.900 --> 01:01:18.220 align:middle line:84%
+I'm bidding against another
+firm for slot number one.
+
+01:01:18.220 --> 01:01:21.490 align:middle line:84%
+What happens if I
+take the lower thing?
+
+01:01:21.490 --> 01:01:23.850 align:middle line:84%
+If I take the lower
+slot, I get q minus bk
+
+01:01:23.850 --> 01:01:28.830 align:middle line:84%
+plus 1 times my demand
+for being in slot k.
+
+01:01:28.830 --> 01:01:30.960 align:middle line:84%
+But my demand for
+being in slot k
+
+01:01:30.960 --> 01:01:33.100 align:middle line:84%
+depends on the quality
+of all the firms
+
+01:01:33.100 --> 01:01:34.730 align:middle line:90%
+that are in higher slots.
+
+01:01:34.730 --> 01:01:36.130 align:middle line:84%
+So if I'm bidding
+against someone
+
+01:01:36.130 --> 01:01:38.020 align:middle line:84%
+and I realize that
+they have quality one,
+
+01:01:38.020 --> 01:01:39.437 align:middle line:84%
+then I don't want
+to lose to them.
+
+01:01:39.437 --> 01:01:41.320 align:middle line:84%
+Because if I lose
+to them, a consumer
+
+01:01:41.320 --> 01:01:43.000 align:middle line:90%
+is never going to buy from me.
+
+01:01:43.000 --> 01:01:45.730 align:middle line:84%
+So in some sense, it's a
+common value auction instead
+
+01:01:45.730 --> 01:01:48.070 align:middle line:84%
+of a private value
+auction, because I
+
+01:01:48.070 --> 01:01:50.690 align:middle line:84%
+care about the quality of the
+firms I'm bidding against.
+
+01:01:50.690 --> 01:01:53.800 align:middle line:84%
+Because if they're really
+high quality and I get
+
+01:01:53.800 --> 01:01:56.133 align:middle line:84%
+outbid by them, I'm never
+going to make a sale.
+
+01:01:56.133 --> 01:01:57.550 align:middle line:84%
+And if they're
+really low quality,
+
+01:01:57.550 --> 01:02:00.093 align:middle line:84%
+I don't care about being outbid
+by them, because they're not
+
+01:02:00.093 --> 01:02:02.260 align:middle line:84%
+going to make the sale
+anyway, so I might as well be
+
+01:02:02.260 --> 01:02:03.530 align:middle line:90%
+in the second position.
+
+01:02:03.530 --> 01:02:06.460 align:middle line:84%
+So if you think about it, if
+we had the rare draw where
+
+01:02:06.460 --> 01:02:15.550 align:middle line:84%
+all the qualities
+were almost 0, there's
+
+01:02:15.550 --> 01:02:17.800 align:middle line:84%
+no reason to bid for the
+second versus the first slot,
+
+01:02:17.800 --> 01:02:18.850 align:middle line:84%
+because the consumers
+are going to think
+
+01:02:18.850 --> 01:02:20.365 align:middle line:90%
+the second firm is really good.
+
+01:02:20.365 --> 01:02:22.990 align:middle line:84%
+So I might as well just take the
+second slot with the first guy
+
+01:02:22.990 --> 01:02:24.850 align:middle line:90%
+have 0 quality and outbid me.
+
+01:02:24.850 --> 01:02:27.900 align:middle line:90%
+I'm fine.
+
+01:02:27.900 --> 01:02:32.950 align:middle line:84%
+It turns out that despite this
+being a common value auction,
+
+01:02:32.950 --> 01:02:34.910 align:middle line:90%
+the same argument goes through.
+
+01:02:34.910 --> 01:02:38.360 align:middle line:84%
+You can characterize what
+are the equilibrium bids.
+
+01:02:38.360 --> 01:02:40.720 align:middle line:84%
+It's easy to find
+the equilibrium bids.
+
+01:02:40.720 --> 01:02:45.940 align:middle line:84%
+So model still has a
+solution like the other model
+
+01:02:45.940 --> 01:02:47.830 align:middle line:90%
+where there's some bid shading.
+
+01:02:47.830 --> 01:02:48.640 align:middle line:90%
+You shade your bid.
+
+01:02:48.640 --> 01:02:51.460 align:middle line:84%
+You shade your
+bid because you're
+
+01:02:51.460 --> 01:02:53.260 align:middle line:84%
+going to get fewer
+clicks for two reasons.
+
+01:02:53.260 --> 01:02:57.308 align:middle line:84%
+Because the posterior
+is getting worse
+
+01:02:57.308 --> 01:02:59.600 align:middle line:84%
+and because they might have
+made the sale ahead of you.
+
+01:02:59.600 --> 01:03:00.700 align:middle line:84%
+So you have the two
+different factors
+
+01:03:00.700 --> 01:03:01.950 align:middle line:90%
+leading you to shade your bid.
+
+01:03:01.950 --> 01:03:05.265 align:middle line:90%
+But it's same deal.
+
+01:03:05.265 --> 01:03:08.980 align:middle line:90%
+
+
+01:03:08.980 --> 01:03:13.000 align:middle line:84%
+So anyway, but again, I think
+the heart of this paper,
+
+01:03:13.000 --> 01:03:14.880 align:middle line:84%
+like Edelman,
+Ostrovsky, Schwarz was
+
+01:03:14.880 --> 01:03:16.540 align:middle line:84%
+the heart of the
+paper was a theorem
+
+01:03:16.540 --> 01:03:19.360 align:middle line:90%
+about this reproduces VCG.
+
+01:03:19.360 --> 01:03:24.040 align:middle line:84%
+Ours, we have this theorem
+about welfare effects
+
+01:03:24.040 --> 01:03:25.520 align:middle line:90%
+of reserve prices.
+
+01:03:25.520 --> 01:03:28.550 align:middle line:84%
+And so here's a theorem
+on reserve prices.
+
+01:03:28.550 --> 01:03:30.830 align:middle line:84%
+Suppose search costs are
+uniformly distributed.
+
+01:03:30.830 --> 01:03:35.020 align:middle line:84%
+An important property
+is that consumer surplus
+
+01:03:35.020 --> 01:03:39.490 align:middle line:84%
+and social welfare are maximized
+at exactly the same reserve
+
+01:03:39.490 --> 01:03:40.510 align:middle line:90%
+price.
+
+01:03:40.510 --> 01:03:42.550 align:middle line:84%
+And in fact, given
+any bidding behavior
+
+01:03:42.550 --> 01:03:45.000 align:middle line:84%
+by advertiser and any
+reserve price policy,
+
+01:03:45.000 --> 01:03:48.970 align:middle line:84%
+the search engine equilibrium
+behavior by consumers
+
+01:03:48.970 --> 01:03:52.540 align:middle line:84%
+implies that the expected
+social welfare is just three
+
+01:03:52.540 --> 01:03:56.150 align:middle line:84%
+times the expected surplus
+or expected advertiser
+
+01:03:56.150 --> 01:03:59.430 align:middle line:84%
+and Google surplus is always
+twice expected consumer surplus.
+
+01:03:59.430 --> 01:04:03.800 align:middle line:84%
+So there's this social optimum
+that coincides with the consumer
+
+01:04:03.800 --> 01:04:05.330 align:middle line:90%
+optimum.
+
+01:04:05.330 --> 01:04:08.575 align:middle line:84%
+And the proof of that
+is pretty simple.
+
+01:04:08.575 --> 01:04:10.700 align:middle line:84%
+I'm going to find this
+object called gross consumer
+
+01:04:10.700 --> 01:04:14.210 align:middle line:84%
+surplus, which is consumer
+surplus plus the search
+
+01:04:14.210 --> 01:04:16.010 align:middle line:90%
+costs incurred.
+
+01:04:16.010 --> 01:04:18.050 align:middle line:84%
+And I'm going to find
+gross producer surplus
+
+01:04:18.050 --> 01:04:20.570 align:middle line:84%
+to be the advertiser
+profit plus the fees
+
+01:04:20.570 --> 01:04:23.630 align:middle line:90%
+that Google is charging.
+
+01:04:23.630 --> 01:04:27.080 align:middle line:84%
+Note that a search produces
+one unit of each of those
+
+01:04:27.080 --> 01:04:28.350 align:middle line:90%
+if the need is met.
+
+01:04:28.350 --> 01:04:31.130 align:middle line:84%
+Because if the need is
+met, the consumer surplus
+
+01:04:31.130 --> 01:04:33.470 align:middle line:84%
+is 1 minus the
+search cost incurred
+
+01:04:33.470 --> 01:04:35.930 align:middle line:84%
+so that the gross
+consumer surplus is 1.
+
+01:04:35.930 --> 01:04:38.990 align:middle line:84%
+And the gross producer surplus
+is the advertiser profit,
+
+01:04:38.990 --> 01:04:41.533 align:middle line:84%
+which is 1 minus the
+search engine fees.
+
+01:04:41.533 --> 01:04:42.950 align:middle line:84%
+So if the search
+is successful, it
+
+01:04:42.950 --> 01:04:44.768 align:middle line:84%
+produces one unit
+of each of these.
+
+01:04:44.768 --> 01:04:46.310 align:middle line:84%
+And if it's
+unsuccessful, it produces
+
+01:04:46.310 --> 01:04:48.180 align:middle line:90%
+0 units of each of these.
+
+01:04:48.180 --> 01:04:52.620 align:middle line:84%
+If you click and don't find
+what you want, these are both 0.
+
+01:04:52.620 --> 01:04:56.300 align:middle line:84%
+So that means the
+expected gross consumer
+
+01:04:56.300 --> 01:05:01.370 align:middle line:84%
+surplus is the expected
+gross producer surplus.
+
+01:05:01.370 --> 01:05:05.330 align:middle line:84%
+Welfare is gross consumer
+surplus plus gross producer
+
+01:05:05.330 --> 01:05:07.790 align:middle line:90%
+surplus minus search costs.
+
+01:05:07.790 --> 01:05:10.070 align:middle line:84%
+So to prove the
+theorem, we just need
+
+01:05:10.070 --> 01:05:14.120 align:middle line:84%
+to show that the expected
+search costs are exactly half
+
+01:05:14.120 --> 01:05:17.480 align:middle line:90%
+of the gross consumer surplus.
+
+01:05:17.480 --> 01:05:19.880 align:middle line:84%
+But that follows immediately
+from the optimality
+
+01:05:19.880 --> 01:05:21.470 align:middle line:84%
+of consumer search
+and this assumption
+
+01:05:21.470 --> 01:05:23.600 align:middle line:90%
+that search costs are uniform.
+
+01:05:23.600 --> 01:05:25.280 align:middle line:84%
+Because what's
+going to happen is
+
+01:05:25.280 --> 01:05:28.610 align:middle line:84%
+every time an ad
+is displayed, you
+
+01:05:28.610 --> 01:05:32.450 align:middle line:84%
+can think of who's going
+to click on the ad.
+
+01:05:32.450 --> 01:05:35.480 align:middle line:84%
+The people with a low
+search cost click on the ad.
+
+01:05:35.480 --> 01:05:40.070 align:middle line:84%
+The people with high search
+costs don't click on the ad.
+
+01:05:40.070 --> 01:05:41.430 align:middle line:90%
+What's the cut off?
+
+01:05:41.430 --> 01:05:45.380 align:middle line:84%
+The cut off is
+whatever information
+
+01:05:45.380 --> 01:05:49.760 align:middle line:84%
+you have, you're going to click
+if the expected value of the ad,
+
+01:05:49.760 --> 01:05:52.490 align:middle line:84%
+given your information,
+if your search cost
+
+01:05:52.490 --> 01:05:54.440 align:middle line:84%
+is less than the expected
+value of clicking,
+
+01:05:54.440 --> 01:05:56.310 align:middle line:84%
+given the information you
+have, you're going to click.
+
+01:05:56.310 --> 01:05:58.020 align:middle line:84%
+Otherwise, you're
+not going to click.
+
+01:05:58.020 --> 01:06:02.160 align:middle line:84%
+So what's the average
+cost incurred by clicking?
+
+01:06:02.160 --> 01:06:05.428 align:middle line:84%
+It's just the expected
+clicking cost conditional
+
+01:06:05.428 --> 01:06:07.220 align:middle line:84%
+on your clicking cost
+being less than this,
+
+01:06:07.220 --> 01:06:12.398 align:middle line:84%
+which is 1/2 of expected v. So
+the expected value of search
+
+01:06:12.398 --> 01:06:14.690 align:middle line:84%
+costs, given that search
+costs are less than a cut off,
+
+01:06:14.690 --> 01:06:17.090 align:middle line:90%
+is just 1/2 of that cut off.
+
+01:06:17.090 --> 01:06:21.410 align:middle line:84%
+So click by click, whatever all
+these situations that come up,
+
+01:06:21.410 --> 01:06:25.080 align:middle line:84%
+the search costs are always half
+of that conditional expectation.
+
+01:06:25.080 --> 01:06:28.010 align:middle line:84%
+So in average, search
+costs eat up half
+
+01:06:28.010 --> 01:06:29.350 align:middle line:90%
+of the gross consumer surplus.
+
+01:06:29.350 --> 01:06:36.630 align:middle line:90%
+
+
+01:06:36.630 --> 01:06:38.980 align:middle line:84%
+And so what does that
+alignment theorem do?
+
+01:06:38.980 --> 01:06:42.330 align:middle line:84%
+That alignment theorem,
+so we have this.
+
+01:06:42.330 --> 01:06:45.390 align:middle line:84%
+Something that you can think
+of, if we have of reserve prices
+
+01:06:45.390 --> 01:06:51.030 align:middle line:84%
+here on this axis, there's going
+to be some amount of consumer
+
+01:06:51.030 --> 01:06:54.060 align:middle line:90%
+surplus that looks like this.
+
+01:06:54.060 --> 01:06:56.310 align:middle line:84%
+And then there's just going
+to be the producer surplus
+
+01:06:56.310 --> 01:07:02.100 align:middle line:84%
+is just going to
+be 3 times that.
+
+01:07:02.100 --> 01:07:05.370 align:middle line:84%
+So producer surplus is
+just always 3 times--
+
+01:07:05.370 --> 01:07:11.980 align:middle line:84%
+our producer surplus is just
+always 3 times consumer surplus.
+
+01:07:11.980 --> 01:07:16.650 align:middle line:84%
+There's this unique
+maximizing point r
+
+01:07:16.650 --> 01:07:18.870 align:middle line:84%
+star where consumer
+surplus is maximized
+
+01:07:18.870 --> 01:07:22.316 align:middle line:84%
+and advertiser plus Google
+profit is also maximized.
+
+01:07:22.316 --> 01:07:25.907 align:middle line:90%
+
+
+01:07:25.907 --> 01:07:27.740 align:middle line:84%
+Simple example to show
+that these things can
+
+01:07:27.740 --> 01:07:29.990 align:middle line:84%
+be positive is suppose
+that there's only one
+
+01:07:29.990 --> 01:07:32.840 align:middle line:84%
+slot on the screen and the
+distributed search cost
+
+01:07:32.840 --> 01:07:34.190 align:middle line:90%
+is uniform.
+
+01:07:34.190 --> 01:07:38.630 align:middle line:84%
+Then the optimal reserve price
+is always going to satisfy--
+
+01:07:38.630 --> 01:07:42.560 align:middle line:84%
+The reserve price is just 1/2 of
+the expectation of the quality
+
+01:07:42.560 --> 01:07:46.580 align:middle line:84%
+of the best link, given that the
+best link has quality at least
+
+01:07:46.580 --> 01:07:47.450 align:middle line:90%
+r.
+
+01:07:47.450 --> 01:07:50.030 align:middle line:84%
+Because it must be that if
+you're maximizing consumer
+
+01:07:50.030 --> 01:07:52.200 align:middle line:90%
+surplus, it must be ex post.
+
+01:07:52.200 --> 01:07:54.372 align:middle line:84%
+When you're supposed
+to display the link,
+
+01:07:54.372 --> 01:07:55.830 align:middle line:84%
+you're supposed to
+display the link
+
+01:07:55.830 --> 01:07:59.060 align:middle line:84%
+if the bid is above r and not
+display if the bid is below r.
+
+01:07:59.060 --> 01:08:02.510 align:middle line:84%
+It must be that's ex post
+optimal for you to do.
+
+01:08:02.510 --> 01:08:05.150 align:middle line:84%
+If I display a link
+and people think
+
+01:08:05.150 --> 01:08:09.770 align:middle line:84%
+that the quality is bigger than
+r, this is going to be the--
+
+01:08:09.770 --> 01:08:11.900 align:middle line:84%
+people are going to
+click if and only
+
+01:08:11.900 --> 01:08:14.400 align:middle line:84%
+if their value is
+at least this high.
+
+01:08:14.400 --> 01:08:17.260 align:middle line:84%
+Therefore, the search costs
+incurred are going to be 1/2
+
+01:08:17.260 --> 01:08:17.760 align:middle line:90%
+of this.
+
+01:08:17.760 --> 01:08:19.177 align:middle line:84%
+And it has to be
+that I don't want
+
+01:08:19.177 --> 01:08:22.700 align:middle line:84%
+to save the consumers from
+search costs by not showing it.
+
+01:08:22.700 --> 01:08:24.899 align:middle line:84%
+And so I must be
+indifferent of showing
+
+01:08:24.899 --> 01:08:27.029 align:middle line:84%
+an ad that has
+quality exactly r,
+
+01:08:27.029 --> 01:08:29.890 align:middle line:84%
+which means that r
+satisfies this equation.
+
+01:08:29.890 --> 01:08:33.189 align:middle line:84%
+So if I have one bidder, r is
+going to be 1/3 or something
+
+01:08:33.189 --> 01:08:33.689 align:middle line:90%
+like that.
+
+01:08:33.689 --> 01:08:35.564 align:middle line:84%
+I do something kind of
+like monopoly pricing,
+
+01:08:35.564 --> 01:08:38.310 align:middle line:84%
+and it's because
+I don't want to--
+
+01:08:38.310 --> 01:08:41.010 align:middle line:84%
+it has to be that consumers know
+that this is my reserve price
+
+01:08:41.010 --> 01:08:43.750 align:middle line:84%
+and I only display things
+that are this good.
+
+01:08:43.750 --> 01:08:47.550 align:middle line:84%
+Then once they know that
+the quality is high,
+
+01:08:47.550 --> 01:08:51.950 align:middle line:84%
+their expected quality
+has to be exactly twice r.
+
+01:08:51.950 --> 01:08:59.010 align:middle line:90%
+
+
+01:08:59.010 --> 01:09:03.660 align:middle line:84%
+Another corollary is that
+there is this inherent conflict
+
+01:09:03.660 --> 01:09:06.689 align:middle line:84%
+of interest between Google
+and its advertisers that
+
+01:09:06.689 --> 01:09:09.569 align:middle line:84%
+says that advertiser surplus
+is lower under the profit
+
+01:09:09.569 --> 01:09:12.000 align:middle line:84%
+maximizing reserve price
+than under the consumer
+
+01:09:12.000 --> 01:09:14.370 align:middle line:90%
+optimal reserve price.
+
+01:09:14.370 --> 01:09:18.000 align:middle line:84%
+So under the consumer
+optimal reserve price,
+
+01:09:18.000 --> 01:09:20.500 align:middle line:90%
+we get this consumer surplus.
+
+01:09:20.500 --> 01:09:22.710 align:middle line:84%
+And this is the gross
+advertiser surplus
+
+01:09:22.710 --> 01:09:28.710 align:middle line:84%
+shared between Google
+and its advertisers.
+
+01:09:28.710 --> 01:09:31.600 align:middle line:84%
+Suppose an equilibrium Google
+doesn't pick this reserve price.
+
+01:09:31.600 --> 01:09:33.275 align:middle line:84%
+Google picks a
+higher reserve price.
+
+01:09:33.275 --> 01:09:36.270 align:middle line:90%
+
+
+01:09:36.270 --> 01:09:39.460 align:middle line:84%
+So we had this one and this
+one was shared between Google
+
+01:09:39.460 --> 01:09:42.479 align:middle line:84%
+gets some, the
+advertisers get some.
+
+01:09:42.479 --> 01:09:46.050 align:middle line:84%
+If Google instead is picking
+a different reserve price,
+
+01:09:46.050 --> 01:09:48.960 align:middle line:84%
+it must be that Google
+is getting more profit
+
+01:09:48.960 --> 01:09:51.609 align:middle line:84%
+from this reserve price than
+it gets at this reserve price.
+
+01:09:51.609 --> 01:09:54.480 align:middle line:84%
+So it must be that the
+area of Google's profit
+
+01:09:54.480 --> 01:09:57.670 align:middle line:84%
+has gotten larger for Google
+to want to choose that higher
+
+01:09:57.670 --> 01:09:59.500 align:middle line:90%
+reserve price.
+
+01:09:59.500 --> 01:10:03.580 align:middle line:84%
+But we know that consumer
+surplus is lower.
+
+01:10:03.580 --> 01:10:06.930 align:middle line:84%
+Therefore, Google plus
+producer surplus is lower.
+
+01:10:06.930 --> 01:10:10.150 align:middle line:84%
+So this is smaller than this
+and Google is getting more,
+
+01:10:10.150 --> 01:10:12.820 align:middle line:90%
+so the advertisers get less.
+
+01:10:12.820 --> 01:10:14.890 align:middle line:84%
+So anything that
+Google does that's
+
+01:10:14.890 --> 01:10:18.790 align:middle line:84%
+different from the consumer
+optimal reserve price
+
+01:10:18.790 --> 01:10:20.980 align:middle line:84%
+is something that's
+hurting advertisers.
+
+01:10:20.980 --> 01:10:21.730 align:middle line:90%
+So there is this--
+
+01:10:21.730 --> 01:10:25.540 align:middle line:90%
+
+
+01:10:25.540 --> 01:10:28.705 align:middle line:84%
+if your search engine is trying
+to maximize consumer surplus
+
+01:10:28.705 --> 01:10:31.330 align:middle line:84%
+and then doing something other
+than maximizing consumer surplus
+
+01:10:31.330 --> 01:10:34.330 align:middle line:84%
+is doing something that's worse
+for advertisers than maximizing
+
+01:10:34.330 --> 01:10:35.520 align:middle line:90%
+consumer surplus is.
+
+01:10:35.520 --> 01:10:41.590 align:middle line:90%
+
+
+01:10:41.590 --> 01:10:45.220 align:middle line:84%
+And obviously in the long run,
+I've talked to other people.
+
+01:10:45.220 --> 01:10:47.260 align:middle line:84%
+We think that it may
+be reasonable to think
+
+01:10:47.260 --> 01:10:49.030 align:middle line:84%
+that in the early
+days, Google was trying
+
+01:10:49.030 --> 01:10:50.380 align:middle line:90%
+to maximize consumer surplus.
+
+01:10:50.380 --> 01:10:52.960 align:middle line:84%
+If you're trying to maximize
+the number of long run customers
+
+01:10:52.960 --> 01:10:55.360 align:middle line:84%
+using your platform,
+it may be that trying
+
+01:10:55.360 --> 01:10:58.060 align:middle line:84%
+to design the platform to
+maximize this consumer surplus
+
+01:10:58.060 --> 01:11:00.340 align:middle line:84%
+is a good rule of
+thumb for doing that.
+
+01:11:00.340 --> 01:11:02.590 align:middle line:84%
+But to the extent you start
+monopoly pricing and doing
+
+01:11:02.590 --> 01:11:04.340 align:middle line:84%
+something other than
+maximizing consumers.
+
+01:11:04.340 --> 01:11:07.150 align:middle line:84%
+So positive reserve prices
+to maximize consumer surplus,
+
+01:11:07.150 --> 01:11:09.130 align:middle line:90%
+good for everyone.
+
+01:11:09.130 --> 01:11:12.890 align:middle line:84%
+Changing away from that, then
+its advertisers are suffering.
+
+01:11:12.890 --> 01:11:15.490 align:middle line:90%
+Consumers are suffering.
+
+01:11:15.490 --> 01:11:18.100 align:middle line:84%
+Any departure from this,
+advertisers and consumers
+
+01:11:18.100 --> 01:11:20.670 align:middle line:84%
+are both worse off if
+Google is better off.
+
+01:11:20.670 --> 01:11:27.310 align:middle line:90%
+
+
+01:11:27.310 --> 01:11:29.440 align:middle line:84%
+Anyway, I just
+think that this is
+
+01:11:29.440 --> 01:11:34.900 align:middle line:84%
+a literature that is still open
+for people to do other things.
+
+01:11:34.900 --> 01:11:36.640 align:middle line:84%
+Search engine can
+obviously do better
+
+01:11:36.640 --> 01:11:38.563 align:middle line:90%
+with more general strategies.
+
+01:11:38.563 --> 01:11:40.480 align:middle line:84%
+If you think about the
+search engine is trying
+
+01:11:40.480 --> 01:11:43.090 align:middle line:84%
+to convey information,
+you could really
+
+01:11:43.090 --> 01:11:46.540 align:middle line:84%
+bring in all kinds of
+information design ideas.
+
+01:11:46.540 --> 01:11:48.220 align:middle line:84%
+You could think
+about simple things
+
+01:11:48.220 --> 01:11:52.100 align:middle line:84%
+like reserve prices could vary
+by the position on the screen.
+
+01:11:52.100 --> 01:11:55.505 align:middle line:84%
+The displays could convey more
+information about quality.
+
+01:11:55.505 --> 01:11:57.880 align:middle line:84%
+I think Google already does
+this by sometimes putting ads
+
+01:11:57.880 --> 01:11:59.680 align:middle line:84%
+only on the side
+versus on the top
+
+01:11:59.680 --> 01:12:02.260 align:middle line:84%
+to give you some signal
+of what the quality is.
+
+01:12:02.260 --> 01:12:05.530 align:middle line:84%
+But you could think about
+giving more information somehow
+
+01:12:05.530 --> 01:12:08.020 align:middle line:90%
+about sponsored links.
+
+01:12:08.020 --> 01:12:11.170 align:middle line:84%
+Anyway, the paper also
+has sort of sections
+
+01:12:11.170 --> 01:12:12.520 align:middle line:90%
+about thinking about weighting.
+
+01:12:12.520 --> 01:12:14.280 align:middle line:84%
+But in some sense,
+I think weighting--
+
+01:12:14.280 --> 01:12:16.030 align:middle line:84%
+Edelman, Ostrovsky,
+Schwarz, every product
+
+01:12:16.030 --> 01:12:17.822 align:middle line:84%
+is independent of
+every other product.
+
+01:12:17.822 --> 01:12:19.780 align:middle line:84%
+If you think about what
+Google is trying to do,
+
+01:12:19.780 --> 01:12:21.950 align:middle line:84%
+Google is trying to
+display a shopping mall.
+
+01:12:21.950 --> 01:12:24.497 align:middle line:84%
+They're trying to create a
+shopping mall on the page.
+
+01:12:24.497 --> 01:12:26.080 align:middle line:84%
+So in some sense,
+what they want to do
+
+01:12:26.080 --> 01:12:28.520 align:middle line:84%
+is also have some kind of
+diversity weighting scheme,
+
+01:12:28.520 --> 01:12:31.820 align:middle line:84%
+like have something showing
+women's shorts, some showing
+
+01:12:31.820 --> 01:12:33.860 align:middle line:84%
+men's shorts, some
+showing athletic shorts,
+
+01:12:33.860 --> 01:12:36.103 align:middle line:90%
+some showing fashion shorts.
+
+01:12:36.103 --> 01:12:37.520 align:middle line:84%
+In some sense,
+what you want to do
+
+01:12:37.520 --> 01:12:39.290 align:middle line:84%
+is have some
+weights that reflect
+
+01:12:39.290 --> 01:12:41.978 align:middle line:84%
+how different every ad
+is from every other ad
+
+01:12:41.978 --> 01:12:43.520 align:middle line:84%
+so that you're in
+some sense creating
+
+01:12:43.520 --> 01:12:44.895 align:middle line:84%
+the equivalent of
+a shopping mall
+
+01:12:44.895 --> 01:12:47.840 align:middle line:84%
+rather than maximizing
+store by store by store
+
+01:12:47.840 --> 01:12:50.640 align:middle line:84%
+what you're trying
+to do up there.
+
+01:12:50.640 --> 01:12:51.890 align:middle line:90%
+OK, anyway, I will leave that.
+
+01:12:51.890 --> 01:12:53.690 align:middle line:90%
+People can read in the paper.
+
+01:12:53.690 --> 01:12:56.450 align:middle line:90%
+I have two other things here.
+
+01:12:56.450 --> 01:12:59.690 align:middle line:84%
+I will give you the 30
+second version of each
+
+01:12:59.690 --> 01:13:01.170 align:middle line:90%
+of the following two papers.
+
+01:13:01.170 --> 01:13:06.800 align:middle line:84%
+So one recent paper, Anderson
+and Renault, "Search Direction,
+
+01:13:06.800 --> 01:13:09.240 align:middle line:84%
+Positive Externalities,
+and Position Auction Bias."
+
+01:13:09.240 --> 01:13:16.220 align:middle line:84%
+This is addressing a limitation
+in all of these previous papers,
+
+01:13:16.220 --> 01:13:22.790 align:middle line:84%
+mine included, that in my paper,
+we take prices as exogenous.
+
+01:13:22.790 --> 01:13:24.950 align:middle line:84%
+Every time you
+click on an ad, you
+
+01:13:24.950 --> 01:13:26.480 align:middle line:84%
+get one unit of
+consumer surplus,
+
+01:13:26.480 --> 01:13:27.690 align:middle line:90%
+one unit of producer surplus.
+
+01:13:27.690 --> 01:13:29.730 align:middle line:84%
+We don't let the
+firms change prices.
+
+01:13:29.730 --> 01:13:32.150 align:middle line:84%
+You could imagine that
+in a model like this,
+
+01:13:32.150 --> 01:13:34.790 align:middle line:84%
+firms are going to use
+their pricing to exploit
+
+01:13:34.790 --> 01:13:36.920 align:middle line:90%
+their position on the screen.
+
+01:13:36.920 --> 01:13:39.140 align:middle line:84%
+And so what Anderson
+and Renault work out
+
+01:13:39.140 --> 01:13:41.540 align:middle line:84%
+is what would happen
+in a model where
+
+01:13:41.540 --> 01:13:44.390 align:middle line:90%
+firms' pricing is endogenous?
+
+01:13:44.390 --> 01:13:49.310 align:middle line:84%
+And they can set in some sense,
+the high price, the first firms,
+
+01:13:49.310 --> 01:13:51.110 align:middle line:84%
+they can exploit their
+pricing advantage.
+
+01:13:51.110 --> 01:13:54.350 align:middle line:84%
+But they also may
+want to use low prices
+
+01:13:54.350 --> 01:13:56.642 align:middle line:84%
+to keep consumers from
+searching the things below them.
+
+01:13:56.642 --> 01:13:58.600 align:middle line:84%
+And in their model, it
+turns out that turns out
+
+01:13:58.600 --> 01:14:01.250 align:middle line:84%
+to be the more important factor
+that I want to set a price
+
+01:14:01.250 --> 01:14:03.757 align:middle line:84%
+low enough so that consumers
+who like my product
+
+01:14:03.757 --> 01:14:06.090 align:middle line:84%
+don't have an incentive to
+search the rest of the screen
+
+01:14:06.090 --> 01:14:07.020 align:middle line:90%
+and find the lower prices.
+
+01:14:07.020 --> 01:14:09.440 align:middle line:84%
+I want to take advantage of the
+fact they've sunk their search
+
+01:14:09.440 --> 01:14:10.982 align:middle line:84%
+cost on me to get
+them to buy from me
+
+01:14:10.982 --> 01:14:13.760 align:middle line:90%
+and not search everybody else.
+
+01:14:13.760 --> 01:14:17.490 align:middle line:84%
+So anyway, they have this model
+where consumers have this need.
+
+01:14:17.490 --> 01:14:20.060 align:middle line:84%
+Every seller meets the
+need with some probability.
+
+01:14:20.060 --> 01:14:22.520 align:middle line:84%
+But then if consumers
+meet the need,
+
+01:14:22.520 --> 01:14:24.860 align:middle line:84%
+the gross utility
+they will provide
+
+01:14:24.860 --> 01:14:27.640 align:middle line:84%
+is something distributed on
+some interval v lower bar
+
+01:14:27.640 --> 01:14:28.910 align:middle line:90%
+v upper bar.
+
+01:14:28.910 --> 01:14:32.860 align:middle line:84%
+And then the firms set prices
+optimally knowing their position
+
+01:14:32.860 --> 01:14:33.560 align:middle line:90%
+on the screen.
+
+01:14:33.560 --> 01:14:36.070 align:middle line:84%
+So once they learn their
+position on the screen,
+
+01:14:36.070 --> 01:14:38.630 align:middle line:90%
+they set their price.
+
+01:14:38.630 --> 01:14:40.540 align:middle line:84%
+And the interesting
+aspect of this paper
+
+01:14:40.540 --> 01:14:45.670 align:middle line:84%
+is they note that this model
+has multiple equilibria.
+
+01:14:45.670 --> 01:14:48.400 align:middle line:84%
+Even if you have
+just two firms, you
+
+01:14:48.400 --> 01:14:51.040 align:middle line:84%
+can have the low quality firm
+on top and the high quality firm
+
+01:14:51.040 --> 01:14:53.770 align:middle line:84%
+below or the high quality firm
+on top and the low quality firm
+
+01:14:53.770 --> 01:14:54.620 align:middle line:90%
+below.
+
+01:14:54.620 --> 01:14:57.500 align:middle line:84%
+And they can both be equilibria
+with consumers searching top
+
+01:14:57.500 --> 01:14:58.000 align:middle line:90%
+down.
+
+01:14:58.000 --> 01:15:01.270 align:middle line:84%
+Because in each
+case, all the firms
+
+01:15:01.270 --> 01:15:02.990 align:middle line:84%
+know that the consumers
+search top down.
+
+01:15:02.990 --> 01:15:05.350 align:middle line:84%
+Therefore, the top firm
+sets a really low price
+
+01:15:05.350 --> 01:15:09.280 align:middle line:84%
+to keep consumers from searching
+the second one, and therefore,
+
+01:15:09.280 --> 01:15:11.440 align:middle line:84%
+having either firm
+on top at a low price
+
+01:15:11.440 --> 01:15:13.065 align:middle line:84%
+and then the firm
+below at a high price
+
+01:15:13.065 --> 01:15:14.773 align:middle line:84%
+to only serve consumers
+who couldn't meet
+
+01:15:14.773 --> 01:15:16.130 align:middle line:90%
+their need at the first firm.
+
+01:15:16.130 --> 01:15:18.100 align:middle line:90%
+Those are both equilibria.
+
+01:15:18.100 --> 01:15:20.950 align:middle line:84%
+And so they work out that
+this becomes a model where
+
+01:15:20.950 --> 01:15:22.720 align:middle line:90%
+that has multiple equilibria.
+
+01:15:22.720 --> 01:15:24.850 align:middle line:84%
+And different
+equilibria are better
+
+01:15:24.850 --> 01:15:27.530 align:middle line:84%
+for consumers and different
+equilibria are better for firms,
+
+01:15:27.530 --> 01:15:30.810 align:middle line:84%
+and they all involve
+this endogenous pricing.
+
+01:15:30.810 --> 01:15:34.160 align:middle line:84%
+So I think it's an interesting
+recent working paper.
+
+01:15:34.160 --> 01:15:37.550 align:middle line:84%
+And then the second
+one I wanted to mention
+
+01:15:37.550 --> 01:15:42.410 align:middle line:84%
+is Armstrong and Zhou
+on consumer information
+
+01:15:42.410 --> 01:15:44.220 align:middle line:90%
+in platform design.
+
+01:15:44.220 --> 01:15:54.350 align:middle line:84%
+So this is thinking about
+Amazon or other platforms who
+
+01:15:54.350 --> 01:15:58.220 align:middle line:84%
+are mediating the process
+through which outside sellers
+
+01:15:58.220 --> 01:16:01.070 align:middle line:90%
+sell products to consumers.
+
+01:16:01.070 --> 01:16:03.770 align:middle line:84%
+And the thought is going
+to be that consumers
+
+01:16:03.770 --> 01:16:06.740 align:middle line:84%
+are going to get
+utility vij minus pj
+
+01:16:06.740 --> 01:16:10.670 align:middle line:84%
+if they buy from Firm J, where
+vij is a random variable that
+
+01:16:10.670 --> 01:16:13.100 align:middle line:84%
+represents your idiosyncratic
+preferences for the two
+
+01:16:13.100 --> 01:16:14.600 align:middle line:90%
+firms' products.
+
+01:16:14.600 --> 01:16:18.440 align:middle line:84%
+And the platform design consists
+of choosing and committing
+
+01:16:18.440 --> 01:16:20.103 align:middle line:90%
+to some signal structure.
+
+01:16:20.103 --> 01:16:22.520 align:middle line:84%
+How much are you going to tell
+the consumers about the two
+
+01:16:22.520 --> 01:16:24.860 align:middle line:90%
+products?
+
+01:16:24.860 --> 01:16:28.400 align:middle line:84%
+How much are you going to tell
+the consumers about two products
+
+01:16:28.400 --> 01:16:29.900 align:middle line:90%
+before they click on the ads?
+
+01:16:29.900 --> 01:16:33.680 align:middle line:84%
+In some sense, by limiting how
+much information consumers get,
+
+01:16:33.680 --> 01:16:36.110 align:middle line:84%
+you change the price
+competition between firms.
+
+01:16:36.110 --> 01:16:39.530 align:middle line:84%
+Again, this is an
+endogenous pricing paper.
+
+01:16:39.530 --> 01:16:45.890 align:middle line:84%
+And first immediate thought
+is that the consumer optimal
+
+01:16:45.890 --> 01:16:47.720 align:middle line:90%
+outcome is unattainable.
+
+01:16:47.720 --> 01:16:49.820 align:middle line:84%
+What you would
+like to do is have
+
+01:16:49.820 --> 01:16:54.500 align:middle line:84%
+all consumers buy the product
+they like better at p equals c.
+
+01:16:54.500 --> 01:16:57.140 align:middle line:84%
+But having all consumers get the
+product they like better at p
+
+01:16:57.140 --> 01:17:00.770 align:middle line:84%
+equals c is not feasible,
+because for consumers
+
+01:17:00.770 --> 01:17:02.270 align:middle line:84%
+to get the product
+they like better,
+
+01:17:02.270 --> 01:17:04.940 align:middle line:84%
+they have to know which
+product they like better.
+
+01:17:04.940 --> 01:17:08.300 align:middle line:84%
+And if you tell consumers
+which product they like better,
+
+01:17:08.300 --> 01:17:11.660 align:middle line:84%
+then the firms are going to
+have market power knowing
+
+01:17:11.660 --> 01:17:14.480 align:middle line:84%
+that all the consumers know
+that they like my product better
+
+01:17:14.480 --> 01:17:16.272 align:middle line:84%
+than the other firm's
+product and are going
+
+01:17:16.272 --> 01:17:19.520 align:middle line:90%
+to price that into their--
+
+01:17:19.520 --> 01:17:22.110 align:middle line:84%
+they're going to raise
+their price to reflect that.
+
+01:17:22.110 --> 01:17:24.320 align:middle line:84%
+So for consumers to get the
+product they like better,
+
+01:17:24.320 --> 01:17:25.790 align:middle line:84%
+they have to know which
+one they like better.
+
+01:17:25.790 --> 01:17:27.260 align:middle line:90%
+Then there's differentiation.
+
+01:17:27.260 --> 01:17:31.730 align:middle line:84%
+Then the pricing game results
+in pricing not at marginal cost.
+
+01:17:31.730 --> 01:17:37.130 align:middle line:84%
+So there's no way to get that
+fully consumer optimal outcome.
+
+01:17:37.130 --> 01:17:40.160 align:middle line:84%
+The seller optimal outcome
+you can sometimes do.
+
+01:17:40.160 --> 01:17:43.007 align:middle line:84%
+The seller optimal outcome
+is to tell consumers
+
+01:17:43.007 --> 01:17:44.840 align:middle line:84%
+which product they like
+better and give them
+
+01:17:44.840 --> 01:17:48.740 align:middle line:84%
+0 other information about
+how much they like it.
+
+01:17:48.740 --> 01:17:51.530 align:middle line:84%
+Because they have no information
+about how much better it is,
+
+01:17:51.530 --> 01:17:54.170 align:middle line:84%
+then all consumers
+are ex ante identical,
+
+01:17:54.170 --> 01:17:58.022 align:middle line:84%
+and the firms can just charge
+consumers what is your value.
+
+01:17:58.022 --> 01:17:59.480 align:middle line:84%
+If you know there
+are two products,
+
+01:17:59.480 --> 01:18:00.890 align:middle line:84%
+you know which one
+you like better,
+
+01:18:00.890 --> 01:18:03.182 align:middle line:84%
+what's your expected value
+for the one you like better?
+
+01:18:03.182 --> 01:18:05.203 align:middle line:84%
+And then fully extract
+the consumer surplus.
+
+01:18:05.203 --> 01:18:08.660 align:middle line:90%
+
+
+01:18:08.660 --> 01:18:10.080 align:middle line:84%
+And so that's
+sometimes possible.
+
+01:18:10.080 --> 01:18:14.720 align:middle line:84%
+And then they work
+out, what are you
+
+01:18:14.720 --> 01:18:16.220 align:middle line:84%
+going to want to
+do if you're trying
+
+01:18:16.220 --> 01:18:19.443 align:middle line:84%
+to maximize consumer surplus
+versus producer surplus?
+
+01:18:19.443 --> 01:18:22.050 align:middle line:90%
+
+
+01:18:22.050 --> 01:18:27.950 align:middle line:84%
+And what they show
+is that if you--
+
+01:18:27.950 --> 01:18:30.750 align:middle line:84%
+in some sense, this is going
+back to this information design
+
+01:18:30.750 --> 01:18:31.250 align:middle line:90%
+thing.
+
+01:18:31.250 --> 01:18:34.670 align:middle line:84%
+We are just saying what is
+going to be the posterior?
+
+01:18:34.670 --> 01:18:39.530 align:middle line:84%
+What is going to be consumer's
+posterior on v1 minus v2 given
+
+01:18:39.530 --> 01:18:43.100 align:middle line:84%
+whatever information
+signal you've given them?
+
+01:18:43.100 --> 01:18:47.870 align:middle line:84%
+And what you want to do to
+maximize consumer surplus
+
+01:18:47.870 --> 01:18:56.460 align:middle line:84%
+is have consumers who view
+the two products differently.
+
+01:18:56.460 --> 01:18:58.370 align:middle line:84%
+I think I like product
+one slightly more
+
+01:18:58.370 --> 01:19:01.440 align:middle line:84%
+than product two or product two
+slightly more than product one.
+
+01:19:01.440 --> 01:19:04.152 align:middle line:84%
+And you want to have them
+have a posterior like this
+
+01:19:04.152 --> 01:19:06.110 align:middle line:84%
+that creates tremendous
+incentive for the firms
+
+01:19:06.110 --> 01:19:06.740 align:middle line:90%
+to undercut.
+
+01:19:06.740 --> 01:19:09.390 align:middle line:84%
+Because most consumers
+know that I like firm
+
+01:19:09.390 --> 01:19:11.880 align:middle line:84%
+one only epsilon better than
+firm two, given the epsilon
+
+01:19:11.880 --> 01:19:13.360 align:middle line:90%
+information you've given me.
+
+01:19:13.360 --> 01:19:15.480 align:middle line:84%
+And so by giving them
+this epsilon information
+
+01:19:15.480 --> 01:19:19.230 align:middle line:84%
+about how much they like
+product A versus product B, then
+
+01:19:19.230 --> 01:19:24.370 align:middle line:84%
+you've created very
+high elasticities.
+
+01:19:24.370 --> 01:19:26.890 align:middle line:90%
+And so the firms price very low.
+
+01:19:26.890 --> 01:19:28.367 align:middle line:84%
+And even only
+having this thinking
+
+01:19:28.367 --> 01:19:30.700 align:middle line:84%
+that you like this one epsilon
+better than the other one
+
+01:19:30.700 --> 01:19:34.110 align:middle line:84%
+in expectation lets you
+often get the right product.
+
+01:19:34.110 --> 01:19:36.960 align:middle line:84%
+So giving consumers this
+minimal information about--
+
+01:19:36.960 --> 01:19:40.050 align:middle line:84%
+lots of consumers, minimal
+information about which product
+
+01:19:40.050 --> 01:19:43.320 align:middle line:84%
+they like better creates
+very intense competition
+
+01:19:43.320 --> 01:19:45.780 align:middle line:84%
+and makes that trade off of
+getting a lot of consumers
+
+01:19:45.780 --> 01:19:49.620 align:middle line:84%
+to buy the product
+they do like better.
+
+01:19:49.620 --> 01:19:53.850 align:middle line:84%
+Whereas then the profit
+maximizing solution,
+
+01:19:53.850 --> 01:19:57.450 align:middle line:84%
+profit maximizing
+solution is often to--
+
+01:19:57.450 --> 01:20:03.600 align:middle line:84%
+you give consumers--
+many consumers
+
+01:20:03.600 --> 01:20:05.460 align:middle line:84%
+think they like one
+product much more
+
+01:20:05.460 --> 01:20:07.800 align:middle line:84%
+than the other, and
+only a few consumers who
+
+01:20:07.800 --> 01:20:08.790 align:middle line:84%
+think that they're
+roughly indifferent
+
+01:20:08.790 --> 01:20:09.748 align:middle line:90%
+between their products.
+
+01:20:09.748 --> 01:20:12.630 align:middle line:84%
+And you do that to try to get
+the prices as high as you can
+
+01:20:12.630 --> 01:20:14.670 align:middle line:84%
+possibly get and get
+many of the consumers
+
+01:20:14.670 --> 01:20:16.680 align:middle line:90%
+to buy the products they like.
+
+01:20:16.680 --> 01:20:20.670 align:middle line:84%
+But I guess one of the
+takeaways from this paper
+
+01:20:20.670 --> 01:20:23.130 align:middle line:84%
+was that they found
+that there's really not
+
+01:20:23.130 --> 01:20:28.080 align:middle line:84%
+much scope to transfer
+surplus between consumers.
+
+01:20:28.080 --> 01:20:30.160 align:middle line:84%
+Not much scope to
+modify social welfare.
+
+01:20:30.160 --> 01:20:33.040 align:middle line:84%
+A lot of it is transferring
+surplus between consumers
+
+01:20:33.040 --> 01:20:35.040 align:middle line:84%
+and producers by giving
+this kind of information
+
+01:20:35.040 --> 01:20:36.670 align:middle line:90%
+or this kind of information.
+
+01:20:36.670 --> 01:20:41.850 align:middle line:84%
+But it's harder to modify the
+equilibrium social welfare.
+
+01:20:41.850 --> 01:20:46.050 align:middle line:84%
+Anyway, if you're interested in
+reading recent papers on Google
+
+01:20:46.050 --> 01:20:49.800 align:middle line:84%
+with pricing or on Amazon, these
+would be two I'd recommend.
+
+01:20:49.800 --> 01:20:53.830 align:middle line:84%
+So anyway, Monday I'm
+going to be back here.
+
+01:20:53.830 --> 01:20:56.370 align:middle line:84%
+I'm going to be doing empirical
+work on online markets.
+
+01:20:56.370 --> 01:21:00.630 align:middle line:84%
+And these will be actually
+largely papers on online retail
+
+01:21:00.630 --> 01:21:03.980 align:middle line:84%
+and thinking about consumer
+preferences and online retail.
+
+01:21:03.980 --> 01:21:17.000 align:middle line:90%

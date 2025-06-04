@@ -1,0 +1,6788 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.988 align:middle line:90%
+[SQUEAKING]
+
+00:00:01.988 --> 00:00:03.976 align:middle line:90%
+[RUSTLING]
+
+00:00:03.976 --> 00:00:05.467 align:middle line:90%
+[CLICKING]
+
+00:00:05.467 --> 00:00:11.207 align:middle line:90%
+
+
+00:00:11.207 --> 00:00:12.540 align:middle line:90%
+GLENN ELLISON: Welcome to class.
+
+00:00:12.540 --> 00:00:15.510 align:middle line:90%
+So this is 14.271.
+
+00:00:15.510 --> 00:00:21.913 align:middle line:84%
+I should say that syllabus has
+a bunch of basic information.
+
+00:00:21.913 --> 00:00:23.330 align:middle line:84%
+You'll notice the
+course is listed
+
+00:00:23.330 --> 00:00:25.247 align:middle line:90%
+as co-taught by me and Tobias.
+
+00:00:25.247 --> 00:00:27.080 align:middle line:84%
+COVID permitting, I'm
+going to be doing most
+
+00:00:27.080 --> 00:00:28.372 align:middle line:90%
+of the lecturing in this class.
+
+00:00:28.372 --> 00:00:31.820 align:middle line:84%
+I think the plan is I'll be
+doing 21 of the lectures,
+
+00:00:31.820 --> 00:00:36.530 align:middle line:84%
+Tobias will be doing four,
+Jean Tirole will be doing two.
+
+00:00:36.530 --> 00:00:42.140 align:middle line:84%
+And it's a basic course in
+industrial organization.
+
+00:00:42.140 --> 00:00:45.950 align:middle line:84%
+I think these days, my primary
+responsibility in this class
+
+00:00:45.950 --> 00:00:47.852 align:middle line:84%
+is to teach students
+who are going
+
+00:00:47.852 --> 00:00:50.060 align:middle line:84%
+to write their thesis in
+industrial organization what
+
+00:00:50.060 --> 00:00:52.350 align:middle line:84%
+they need to do to
+write an IO thesis.
+
+00:00:52.350 --> 00:00:55.940 align:middle line:84%
+But the course has also
+traditionally been useful
+
+00:00:55.940 --> 00:00:58.130 align:middle line:84%
+for many students
+in other fields.
+
+00:00:58.130 --> 00:00:59.750 align:middle line:90%
+I think that's for two reasons.
+
+00:00:59.750 --> 00:01:03.230 align:middle line:84%
+One is IO has always been at
+the forefront in economics
+
+00:01:03.230 --> 00:01:06.410 align:middle line:84%
+and linking theory
+and empirics together.
+
+00:01:06.410 --> 00:01:08.635 align:middle line:84%
+And then also in
+recent years, IO
+
+00:01:08.635 --> 00:01:10.010 align:middle line:84%
+has developed a
+lot of techniques
+
+00:01:10.010 --> 00:01:11.552 align:middle line:84%
+for what's referred
+to as structural,
+
+00:01:11.552 --> 00:01:13.500 align:middle line:84%
+empirical industrial
+organization, which
+
+00:01:13.500 --> 00:01:16.590 align:middle line:84%
+have become very, very
+popular in other fields.
+
+00:01:16.590 --> 00:01:17.260 align:middle line:90%
+Anyway.
+
+00:01:17.260 --> 00:01:21.990 align:middle line:84%
+So my goal here is really to
+teach the basics of IO theory
+
+00:01:21.990 --> 00:01:24.298 align:middle line:84%
+and how IO people think
+about empirical work, which
+
+00:01:24.298 --> 00:01:26.340 align:middle line:84%
+is sometimes different
+from how empirical work is
+
+00:01:26.340 --> 00:01:28.110 align:middle line:90%
+done in different fields.
+
+00:01:28.110 --> 00:01:32.010 align:middle line:84%
+The way I'm going to do that
+is you'll see on the syllabus
+
+00:01:32.010 --> 00:01:35.730 align:middle line:84%
+we've got 12 topics or
+whatever we're going to cover.
+
+00:01:35.730 --> 00:01:38.290 align:middle line:84%
+Almost all of them are going
+to get covered in two lectures.
+
+00:01:38.290 --> 00:01:40.290 align:middle line:84%
+And typically in the first
+part of the semester,
+
+00:01:40.290 --> 00:01:42.100 align:middle line:84%
+the pattern is going
+to be on Wednesday,
+
+00:01:42.100 --> 00:01:43.900 align:middle line:84%
+I'm going to explain
+the theory of a topic.
+
+00:01:43.900 --> 00:01:45.900 align:middle line:84%
+I'm going to go over the
+basic theory on a topic.
+
+00:01:45.900 --> 00:01:47.733 align:middle line:84%
+And then on the Monday,
+I'm going to go over
+
+00:01:47.733 --> 00:01:49.510 align:middle line:90%
+the empirical work on a topic.
+
+00:01:49.510 --> 00:01:54.600 align:middle line:84%
+And my basic view of IO is IO is
+just an inherently theoretical
+
+00:01:54.600 --> 00:01:56.100 align:middle line:90%
+field.
+
+00:01:56.100 --> 00:01:59.970 align:middle line:84%
+There are many fields
+in which empirical work
+
+00:01:59.970 --> 00:02:02.580 align:middle line:84%
+and natural experiments
+testing policies
+
+00:02:02.580 --> 00:02:04.770 align:middle line:84%
+are what you want to do
+in studying that field.
+
+00:02:04.770 --> 00:02:07.830 align:middle line:84%
+In IO, the questions
+we get asked are
+
+00:02:07.830 --> 00:02:12.290 align:middle line:84%
+should Facebook be required
+to divest itself of Instagram?
+
+00:02:12.290 --> 00:02:18.020 align:middle line:84%
+Or is it OK for Google to be
+paying Apple $12 billion a year
+
+00:02:18.020 --> 00:02:21.600 align:middle line:84%
+to make Google the default
+search engine on iPhones?
+
+00:02:21.600 --> 00:02:24.218 align:middle line:84%
+And these are not things
+that can be addressed
+
+00:02:24.218 --> 00:02:25.260 align:middle line:90%
+with natural experiments.
+
+00:02:25.260 --> 00:02:28.130 align:middle line:84%
+You can't create
+100 different worlds
+
+00:02:28.130 --> 00:02:31.760 align:middle line:84%
+and break up Facebook and
+Instagram in half of them
+
+00:02:31.760 --> 00:02:34.610 align:middle line:84%
+and not break up Facebook and
+Instagram in the other half
+
+00:02:34.610 --> 00:02:37.670 align:middle line:84%
+of them and then do a comparison
+of means 10 years later
+
+00:02:37.670 --> 00:02:39.290 align:middle line:84%
+and see which was
+the right decision.
+
+00:02:39.290 --> 00:02:42.510 align:middle line:84%
+It's a one time decision
+that will get made or not.
+
+00:02:42.510 --> 00:02:45.300 align:middle line:84%
+And so you basically
+make decisions like that.
+
+00:02:45.300 --> 00:02:47.975 align:middle line:84%
+You need to have a
+theoretical understanding
+
+00:02:47.975 --> 00:02:50.600 align:middle line:84%
+of how the world works and how
+firms competing with other firms
+
+00:02:50.600 --> 00:02:53.030 align:middle line:84%
+work and what do you think
+would happen on the two
+
+00:02:53.030 --> 00:02:54.720 align:middle line:90%
+different market structures.
+
+00:02:54.720 --> 00:02:59.000 align:middle line:84%
+And then you may never find
+out if you were right or wrong.
+
+00:02:59.000 --> 00:03:02.600 align:middle line:84%
+While I think IO is inherently
+a theoretical field, almost
+
+00:03:02.600 --> 00:03:06.590 align:middle line:84%
+all students getting good
+jobs in IO in the last 15,
+
+00:03:06.590 --> 00:03:09.380 align:middle line:90%
+20 years are doing empirical IO.
+
+00:03:09.380 --> 00:03:13.115 align:middle line:84%
+And in part, this is because
+what happens is people in IO
+
+00:03:13.115 --> 00:03:13.740 align:middle line:90%
+make up models.
+
+00:03:13.740 --> 00:03:17.160 align:middle line:84%
+And the question is you
+can make up models that
+
+00:03:17.160 --> 00:03:18.580 align:middle line:90%
+predict all kinds of things.
+
+00:03:18.580 --> 00:03:21.000 align:middle line:84%
+Then you have to ask which
+model's assumptions are
+
+00:03:21.000 --> 00:03:24.870 align:middle line:84%
+correct in terms of how people
+behave, how firms behave,
+
+00:03:24.870 --> 00:03:27.930 align:middle line:84%
+and how large are those
+effects empirically.
+
+00:03:27.930 --> 00:03:30.630 align:middle line:84%
+And so what typically happens,
+there's a lot of interplay in IO
+
+00:03:30.630 --> 00:03:32.730 align:middle line:84%
+between you develop
+a theory, you then
+
+00:03:32.730 --> 00:03:35.280 align:middle line:84%
+do empirical work that tries
+to examine the theory in places
+
+00:03:35.280 --> 00:03:36.697 align:middle line:84%
+where it should
+or shouldn't work,
+
+00:03:36.697 --> 00:03:38.850 align:middle line:84%
+and you find out how
+important are the effects
+
+00:03:38.850 --> 00:03:40.840 align:middle line:90%
+the different models predict.
+
+00:03:40.840 --> 00:03:42.840 align:middle line:84%
+Are the assumptions and
+models good or should we
+
+00:03:42.840 --> 00:03:46.110 align:middle line:84%
+be looking at what-- in some
+sense, in any good IO empirical
+
+00:03:46.110 --> 00:03:47.310 align:middle line:90%
+work, something doesn't fit.
+
+00:03:47.310 --> 00:03:49.230 align:middle line:84%
+And then what
+doesn't fit gives you
+
+00:03:49.230 --> 00:03:51.150 align:middle line:84%
+the idea of how do you
+refine the model, what
+
+00:03:51.150 --> 00:03:52.525 align:middle line:84%
+else should be
+added to the model
+
+00:03:52.525 --> 00:03:54.120 align:middle line:84%
+to get a better
+predictive model.
+
+00:03:54.120 --> 00:03:56.430 align:middle line:84%
+So let me go ahead
+and get started.
+
+00:03:56.430 --> 00:03:57.910 align:middle line:90%
+And I'm going to get started--
+
+00:03:57.910 --> 00:04:00.360 align:middle line:84%
+I should say normally
+when you design a class,
+
+00:04:00.360 --> 00:04:02.550 align:middle line:84%
+you want to have the first
+class be really exciting
+
+00:04:02.550 --> 00:04:05.850 align:middle line:84%
+and have something intriguing
+for students to get hooked
+
+00:04:05.850 --> 00:04:07.110 align:middle line:90%
+on the class.
+
+00:04:07.110 --> 00:04:08.600 align:middle line:90%
+That's not the case with IO.
+
+00:04:08.600 --> 00:04:09.850 align:middle line:90%
+I have to start at square one.
+
+00:04:09.850 --> 00:04:11.590 align:middle line:84%
+I have to start with
+monopoly pricing.
+
+00:04:11.590 --> 00:04:13.170 align:middle line:84%
+I'm sure many of you have
+seen monopoly pricing
+
+00:04:13.170 --> 00:04:15.300 align:middle line:84%
+in your undergraduate
+intermediate micro or principles
+
+00:04:15.300 --> 00:04:15.820 align:middle line:90%
+classes.
+
+00:04:15.820 --> 00:04:19.529 align:middle line:84%
+But I'm going to start with
+the beginning with monopolies
+
+00:04:19.529 --> 00:04:22.230 align:middle line:84%
+pricing and then
+build from there.
+
+00:04:22.230 --> 00:04:23.490 align:middle line:90%
+So anyway, first class.
+
+00:04:23.490 --> 00:04:26.580 align:middle line:90%
+So this is 14.01.
+
+00:04:26.580 --> 00:04:28.943 align:middle line:84%
+Monopoly seller of
+a single product.
+
+00:04:28.943 --> 00:04:30.360 align:middle line:84%
+In this class, I'm
+generally going
+
+00:04:30.360 --> 00:04:35.610 align:middle line:84%
+to be putting quantity on the
+x-axis and price on the y-axis.
+
+00:04:35.610 --> 00:04:38.520 align:middle line:84%
+So a monopolist has
+this downward facing,
+
+00:04:38.520 --> 00:04:44.880 align:middle line:84%
+this inverse demand curve
+p of x if it sells x units.
+
+00:04:44.880 --> 00:04:48.100 align:middle line:84%
+Monopolist has a total
+cost function c of x.
+
+00:04:48.100 --> 00:04:50.760 align:middle line:84%
+So if they produce x units,
+the total cost of production
+
+00:04:50.760 --> 00:04:52.080 align:middle line:90%
+is c of x.
+
+00:04:52.080 --> 00:04:54.060 align:middle line:90%
+What does the monopolist do?
+
+00:04:54.060 --> 00:04:56.130 align:middle line:84%
+You've seen this many
+times, you maximize over
+
+00:04:56.130 --> 00:04:59.700 align:middle line:90%
+x, x times p of x minus c of x.
+
+00:04:59.700 --> 00:05:01.890 align:middle line:84%
+I take the first
+order condition and I
+
+00:05:01.890 --> 00:05:03.220 align:middle line:90%
+get this familiar equation.
+
+00:05:03.220 --> 00:05:06.850 align:middle line:84%
+Marginal revenue minus
+marginal cost equals 0.
+
+00:05:06.850 --> 00:05:11.930 align:middle line:84%
+So the monopolist sets marginal
+revenue equal to marginal cost.
+
+00:05:11.930 --> 00:05:13.400 align:middle line:90%
+Why am I starting here?
+
+00:05:13.400 --> 00:05:15.840 align:middle line:84%
+Well, even in IO, we do
+things a little differently.
+
+00:05:15.840 --> 00:05:18.830 align:middle line:84%
+The way people typically think
+about this first order condition
+
+00:05:18.830 --> 00:05:23.060 align:middle line:84%
+is instead of putting marginal
+revenue on the left and marginal
+
+00:05:23.060 --> 00:05:27.380 align:middle line:84%
+cost on the right, I'm going to
+take price minus marginal cost
+
+00:05:27.380 --> 00:05:31.070 align:middle line:84%
+and move the minus x p prime
+at x to the other side.
+
+00:05:31.070 --> 00:05:33.470 align:middle line:84%
+And then I divide
+both sides by p
+
+00:05:33.470 --> 00:05:37.190 align:middle line:84%
+of x and I get price minus
+marginal cost over price
+
+00:05:37.190 --> 00:05:40.466 align:middle line:90%
+equals this.
+
+00:05:40.466 --> 00:05:43.460 align:middle line:84%
+And what's over here
+on the right side?
+
+00:05:43.460 --> 00:05:47.330 align:middle line:90%
+p prime at x, x over p of x.
+
+00:05:47.330 --> 00:05:54.530 align:middle line:84%
+So you can think of that as
+x over p of x, 1 over p prime
+
+00:05:54.530 --> 00:05:57.380 align:middle line:90%
+at x.
+
+00:05:57.380 --> 00:06:00.470 align:middle line:84%
+And then if you think about
+the inverse function theorem,
+
+00:06:00.470 --> 00:06:07.340 align:middle line:84%
+1 over p prime at x is
+kind of like dq / dp.
+
+00:06:07.340 --> 00:06:09.500 align:middle line:90%
+Because p is the--
+
+00:06:09.500 --> 00:06:12.710 align:middle line:90%
+
+
+00:06:12.710 --> 00:06:14.840 align:middle line:84%
+if you think about p as
+the inverse function of q,
+
+00:06:14.840 --> 00:06:17.670 align:middle line:84%
+so this is like x
+over p prime at x.
+
+00:06:17.670 --> 00:06:22.400 align:middle line:84%
+And so if I divide this,
+dq / dp times p over q,
+
+00:06:22.400 --> 00:06:25.400 align:middle line:84%
+this is the
+elasticity of demand.
+
+00:06:25.400 --> 00:06:29.880 align:middle line:84%
+So what a monopolist
+does is it sets its price
+
+00:06:29.880 --> 00:06:32.780 align:middle line:84%
+so that price minus
+marginal cost over price
+
+00:06:32.780 --> 00:06:36.720 align:middle line:84%
+is the negative of 1 over
+the elasticity of demand.
+
+00:06:36.720 --> 00:06:40.040 align:middle line:84%
+And I start here because
+in macroeconomics, they
+
+00:06:40.040 --> 00:06:42.200 align:middle line:84%
+seem to have this thing
+that when demand goes up,
+
+00:06:42.200 --> 00:06:45.300 align:middle line:84%
+price goes up, and when demand
+goes down, price goes down.
+
+00:06:45.300 --> 00:06:47.600 align:middle line:90%
+That doesn't happen in IO.
+
+00:06:47.600 --> 00:06:49.940 align:middle line:84%
+When you think about
+firms with market power,
+
+00:06:49.940 --> 00:06:54.920 align:middle line:84%
+pricing is based on demand
+elasticities, not demand levels.
+
+00:06:54.920 --> 00:07:00.260 align:middle line:84%
+And on this left side, this
+is something that in IO we
+
+00:07:00.260 --> 00:07:02.240 align:middle line:90%
+call it the Lerner index.
+
+00:07:02.240 --> 00:07:04.123 align:middle line:84%
+Ignoring the marginal
+versus average,
+
+00:07:04.123 --> 00:07:06.540 align:middle line:84%
+this is like what accountants
+would call the gross margin.
+
+00:07:06.540 --> 00:07:08.750 align:middle line:84%
+This is the markup
+that you're charging
+
+00:07:08.750 --> 00:07:10.800 align:middle line:90%
+as a fraction of the price.
+
+00:07:10.800 --> 00:07:15.750 align:middle line:84%
+So if you charge double
+your marginal cost, that's
+
+00:07:15.750 --> 00:07:18.780 align:middle line:84%
+a 50% markup, because 50%
+of your price is markup,
+
+00:07:18.780 --> 00:07:20.320 align:middle line:90%
+50% is cost.
+
+00:07:20.320 --> 00:07:24.180 align:middle line:84%
+So this says the Lerner
+index is negative of 1
+
+00:07:24.180 --> 00:07:26.560 align:middle line:90%
+over the elasticity of demand.
+
+00:07:26.560 --> 00:07:29.530 align:middle line:84%
+So if, for instance, the
+elasticity of demand is--
+
+00:07:29.530 --> 00:07:33.940 align:middle line:84%
+if epsilon is negative 2, then
+this would say you do price
+
+00:07:33.940 --> 00:07:38.770 align:middle line:84%
+minus marginal cost
+over price is 1/2.
+
+00:07:38.770 --> 00:07:42.890 align:middle line:84%
+So if you're a monopolist,
+your elasticity of demand is 2.
+
+00:07:42.890 --> 00:07:44.530 align:middle line:90%
+Your margin is 50%.
+
+00:07:44.530 --> 00:07:46.360 align:middle line:84%
+You double your
+marginal cost when you
+
+00:07:46.360 --> 00:07:47.840 align:middle line:90%
+think of your monopoly price.
+
+00:07:47.840 --> 00:07:54.490 align:middle line:84%
+If your elasticity is 4, you
+do your 25% Lerner index.
+
+00:07:54.490 --> 00:07:58.930 align:middle line:84%
+Lerner index is 1/4, which means
+you're raising your price by 1/3
+
+00:07:58.930 --> 00:07:59.805 align:middle line:90%
+over cost.
+
+00:07:59.805 --> 00:08:04.890 align:middle line:90%
+
+
+00:08:04.890 --> 00:08:09.450 align:middle line:84%
+In 14.01, you certainly also
+did a diagram like this.
+
+00:08:09.450 --> 00:08:11.460 align:middle line:90%
+So what happens?
+
+00:08:11.460 --> 00:08:14.020 align:middle line:84%
+Firm sets marginal revenue
+equal to marginal cost.
+
+00:08:14.020 --> 00:08:16.050 align:middle line:90%
+They have this monopoly price.
+
+00:08:16.050 --> 00:08:18.600 align:middle line:84%
+They earn a profit
+on all the units
+
+00:08:18.600 --> 00:08:20.250 align:middle line:84%
+they sell at a
+cost that's greater
+
+00:08:20.250 --> 00:08:22.420 align:middle line:90%
+than the cost of producing them.
+
+00:08:22.420 --> 00:08:24.228 align:middle line:90%
+And so this is the profit.
+
+00:08:24.228 --> 00:08:26.520 align:middle line:84%
+This is the difference between
+the consumer willingness
+
+00:08:26.520 --> 00:08:28.728 align:middle line:84%
+to pay for each unit and
+the price that they've paid.
+
+00:08:28.728 --> 00:08:30.280 align:middle line:90%
+So this is consumer surplus.
+
+00:08:30.280 --> 00:08:33.620 align:middle line:90%
+This is deadweight loss.
+
+00:08:33.620 --> 00:08:38.130 align:middle line:84%
+Typically, a lot of IO is about
+market power is a bad thing.
+
+00:08:38.130 --> 00:08:39.720 align:middle line:90%
+We want to prevent market power.
+
+00:08:39.720 --> 00:08:42.770 align:middle line:84%
+Why do we want to
+prevent market power?
+
+00:08:42.770 --> 00:08:45.500 align:middle line:84%
+Classic explanation for why you
+want to prevent market power
+
+00:08:45.500 --> 00:08:46.740 align:middle line:90%
+is this triangle.
+
+00:08:46.740 --> 00:08:50.717 align:middle line:84%
+You have this deadweight loss
+is a social inefficiency.
+
+00:08:50.717 --> 00:08:52.550 align:middle line:84%
+People are willing to
+pay more than the cost
+
+00:08:52.550 --> 00:08:54.260 align:middle line:84%
+of producing the goods,
+and yet those goods
+
+00:08:54.260 --> 00:08:55.830 align:middle line:84%
+don't get produced
+and sold to them.
+
+00:08:55.830 --> 00:08:57.420 align:middle line:84%
+That's socially
+wasteful that we have
+
+00:08:57.420 --> 00:09:00.003 align:middle line:84%
+these opportunities for gains
+from trade that aren't realized.
+
+00:09:00.003 --> 00:09:02.930 align:middle line:90%
+
+
+00:09:02.930 --> 00:09:06.973 align:middle line:84%
+While people often focus
+on deadweight loss,
+
+00:09:06.973 --> 00:09:09.140 align:middle line:84%
+there are a lot of other
+reasons why you might think
+
+00:09:09.140 --> 00:09:10.980 align:middle line:90%
+monopolies are also a bad idea.
+
+00:09:10.980 --> 00:09:16.497 align:middle line:84%
+So many of these are harder to
+actually explain economically,
+
+00:09:16.497 --> 00:09:18.330 align:middle line:84%
+to realize I think they
+should be recurring.
+
+00:09:18.330 --> 00:09:19.997 align:middle line:84%
+But one thing you
+hear people talk about
+
+00:09:19.997 --> 00:09:23.210 align:middle line:90%
+is productive inefficiency.
+
+00:09:23.210 --> 00:09:25.940 align:middle line:84%
+Certainly the question
+is, are monopolists
+
+00:09:25.940 --> 00:09:30.140 align:middle line:84%
+going to produce things at
+the lowest cost possible?
+
+00:09:30.140 --> 00:09:31.940 align:middle line:84%
+Your basic intuition
+should be yes.
+
+00:09:31.940 --> 00:09:33.500 align:middle line:84%
+Monopolist gets
+all the extra money
+
+00:09:33.500 --> 00:09:34.800 align:middle line:90%
+they make from cost savings.
+
+00:09:34.800 --> 00:09:36.800 align:middle line:84%
+So monopolists ought to
+want to produce the most
+
+00:09:36.800 --> 00:09:38.697 align:middle line:90%
+efficient technology possible.
+
+00:09:38.697 --> 00:09:40.280 align:middle line:84%
+There are lots of
+discussions, though.
+
+00:09:40.280 --> 00:09:42.830 align:middle line:84%
+If you think about
+the old Soviet Union,
+
+00:09:42.830 --> 00:09:45.020 align:middle line:84%
+they had factories making
+things out of titanium
+
+00:09:45.020 --> 00:09:47.187 align:middle line:84%
+that could have been made
+out of steel and that cost
+
+00:09:47.187 --> 00:09:48.960 align:middle line:84%
+5 times as much as
+they cost in the West.
+
+00:09:48.960 --> 00:09:50.110 align:middle line:90%
+Why did that happen?
+
+00:09:50.110 --> 00:09:52.772 align:middle line:84%
+Well, one thing that
+you hear is that if you
+
+00:09:52.772 --> 00:09:54.980 align:middle line:84%
+have a firm that's a monopoly,
+they don't have anyone
+
+00:09:54.980 --> 00:09:56.140 align:middle line:90%
+to compare themselves to.
+
+00:09:56.140 --> 00:09:59.420 align:middle line:84%
+They don't realize there are
+better production technologies.
+
+00:09:59.420 --> 00:10:01.580 align:middle line:84%
+Employees can be
+lazy in figuring out
+
+00:10:01.580 --> 00:10:04.020 align:middle line:84%
+how to produce things and
+no one ever catches them.
+
+00:10:04.020 --> 00:10:08.330 align:middle line:84%
+So productive inefficiency
+could be a cost of monopoly.
+
+00:10:08.330 --> 00:10:09.900 align:middle line:90%
+Quality distortions.
+
+00:10:09.900 --> 00:10:12.360 align:middle line:84%
+Again, this is more
+an informal complaint.
+
+00:10:12.360 --> 00:10:14.720 align:middle line:84%
+But people look at
+Microsoft Windows
+
+00:10:14.720 --> 00:10:18.050 align:middle line:84%
+and are often thinking of
+30 different criticisms
+
+00:10:18.050 --> 00:10:20.580 align:middle line:84%
+of Microsoft Windows and why
+does it suck in so many ways.
+
+00:10:20.580 --> 00:10:21.840 align:middle line:90%
+Why can't Excel do this?
+
+00:10:21.840 --> 00:10:23.280 align:middle line:90%
+Why can't Excel do this?
+
+00:10:23.280 --> 00:10:25.250 align:middle line:84%
+Is it because
+Microsoft is a monopoly
+
+00:10:25.250 --> 00:10:27.960 align:middle line:84%
+and has no incentive to improve
+the quality of its products
+
+00:10:27.960 --> 00:10:30.050 align:middle line:90%
+because you've got to buy them?
+
+00:10:30.050 --> 00:10:31.800 align:middle line:84%
+You've got to put
+Windows on your computer
+
+00:10:31.800 --> 00:10:34.710 align:middle line:84%
+anyway, even if
+you don't like it.
+
+00:10:34.710 --> 00:10:38.250 align:middle line:84%
+Rent seeking is an
+important thing.
+
+00:10:38.250 --> 00:10:42.840 align:middle line:84%
+Sometimes we have monopolies
+for regulatory reasons
+
+00:10:42.840 --> 00:10:45.070 align:middle line:90%
+or for capacity constraints.
+
+00:10:45.070 --> 00:10:47.370 align:middle line:84%
+So, for instance,
+there's a limited number
+
+00:10:47.370 --> 00:10:53.040 align:middle line:84%
+of licenses to provide cell
+phone service in every city.
+
+00:10:53.040 --> 00:10:56.177 align:middle line:84%
+In the old days, when cell
+phone service first started,
+
+00:10:56.177 --> 00:10:58.260 align:middle line:84%
+these were actually-- when
+the United States first
+
+00:10:58.260 --> 00:11:00.210 align:middle line:84%
+adopted cell phones,
+there were going
+
+00:11:00.210 --> 00:11:02.505 align:middle line:84%
+to be two licenses
+in every city.
+
+00:11:02.505 --> 00:11:04.380 align:middle line:84%
+And they had what people
+refer to as a beauty
+
+00:11:04.380 --> 00:11:08.028 align:middle line:84%
+contest to allocate
+those licenses.
+
+00:11:08.028 --> 00:11:09.820 align:middle line:84%
+That is, firms didn't
+have to pay for them.
+
+00:11:09.820 --> 00:11:13.988 align:middle line:84%
+You just had to apply to
+provide cell phone service
+
+00:11:13.988 --> 00:11:15.780 align:middle line:84%
+and the government
+would pick the firm that
+
+00:11:15.780 --> 00:11:19.047 align:middle line:84%
+seemed best, socially efficient
+to provide the cell phone
+
+00:11:19.047 --> 00:11:20.880 align:middle line:84%
+service, and they would
+award those licenses
+
+00:11:20.880 --> 00:11:23.310 align:middle line:90%
+to those winning parties.
+
+00:11:23.310 --> 00:11:25.650 align:middle line:84%
+Often these winning
+parties were perhaps
+
+00:11:25.650 --> 00:11:26.980 align:middle line:90%
+not the ones you would think.
+
+00:11:26.980 --> 00:11:28.630 align:middle line:84%
+So, for instance, I don't
+know if the story is true.
+
+00:11:28.630 --> 00:11:30.090 align:middle line:84%
+There's a story that
+in Washington, DC,
+
+00:11:30.090 --> 00:11:32.298 align:middle line:84%
+one of the two licenses went
+to Katharine Graham, who
+
+00:11:32.298 --> 00:11:33.883 align:middle line:84%
+was the editor of
+the Washington Post.
+
+00:11:33.883 --> 00:11:35.550 align:middle line:84%
+Why would she know
+more than anyone else
+
+00:11:35.550 --> 00:11:36.790 align:middle line:84%
+about running a
+cell phone company?
+
+00:11:36.790 --> 00:11:39.030 align:middle line:84%
+Well, she ran a newspaper
+that would write stories
+
+00:11:39.030 --> 00:11:40.030 align:middle line:90%
+about the politicians.
+
+00:11:40.030 --> 00:11:41.670 align:middle line:84%
+So when they're thinking of
+who to give the license to,
+
+00:11:41.670 --> 00:11:42.970 align:middle line:90%
+they give it to her.
+
+00:11:42.970 --> 00:11:45.270 align:middle line:84%
+But in general, in
+many situations,
+
+00:11:45.270 --> 00:11:46.980 align:middle line:84%
+you're going to
+find that if there
+
+00:11:46.980 --> 00:11:48.930 align:middle line:84%
+are monopoly rents
+to be given out,
+
+00:11:48.930 --> 00:11:52.122 align:middle line:84%
+someone has the power to
+give out the monopoly rents.
+
+00:11:52.122 --> 00:11:53.580 align:middle line:84%
+And then when
+someone has the power
+
+00:11:53.580 --> 00:11:57.150 align:middle line:84%
+to give out the monopoly
+rents, those people
+
+00:11:57.150 --> 00:11:59.770 align:middle line:84%
+may take bribes from the
+people who are giving them.
+
+00:11:59.770 --> 00:12:01.590 align:middle line:84%
+It may be that
+you have something
+
+00:12:01.590 --> 00:12:04.470 align:middle line:84%
+akin to a political campaign
+where you're doing advertising
+
+00:12:04.470 --> 00:12:07.440 align:middle line:84%
+or lobbying, and you have
+all these socially wasteful
+
+00:12:07.440 --> 00:12:12.060 align:middle line:84%
+expenditures to try to be the
+one who earns these profits.
+
+00:12:12.060 --> 00:12:13.920 align:middle line:84%
+If you imagine a
+bidding game where
+
+00:12:13.920 --> 00:12:18.180 align:middle line:84%
+if everybody is going to give
+a bribe to the politician
+
+00:12:18.180 --> 00:12:21.852 align:middle line:84%
+and the biggest bribe wins,
+what's your bribe going to be?
+
+00:12:21.852 --> 00:12:24.060 align:middle line:84%
+You're willing to pay a
+bribe equal to the discounted
+
+00:12:24.060 --> 00:12:27.990 align:middle line:84%
+value of all future profits
+that you're going to earn.
+
+00:12:27.990 --> 00:12:31.530 align:middle line:84%
+In that game, you'd
+expect all of the profits
+
+00:12:31.530 --> 00:12:34.110 align:middle line:84%
+would also then get
+dissipated socially.
+
+00:12:34.110 --> 00:12:36.450 align:middle line:84%
+Well, actually, now
+if it's a bribe,
+
+00:12:36.450 --> 00:12:39.370 align:middle line:84%
+you believe in efficient
+markets, it's just a transfer.
+
+00:12:39.370 --> 00:12:42.690 align:middle line:84%
+And so it's just a transfer of
+wealth from consumers to the one
+
+00:12:42.690 --> 00:12:44.250 align:middle line:90%
+person who's taking the bribe.
+
+00:12:44.250 --> 00:12:48.480 align:middle line:84%
+But if the bribes are given
+in a socially wasteful way,
+
+00:12:48.480 --> 00:12:53.250 align:middle line:84%
+all of this could also be
+a loss of monopoly power.
+
+00:12:53.250 --> 00:12:54.900 align:middle line:84%
+And then my final
+comment on bribes
+
+00:12:54.900 --> 00:12:57.010 align:middle line:84%
+brings up this sort
+of equity concern.
+
+00:12:57.010 --> 00:13:00.180 align:middle line:84%
+Another problem with monopoly
+is that in a competitive market,
+
+00:13:00.180 --> 00:13:01.650 align:middle line:84%
+the consumers will
+be paying this.
+
+00:13:01.650 --> 00:13:03.510 align:middle line:84%
+In a monopoly,
+they're paying this.
+
+00:13:03.510 --> 00:13:04.870 align:middle line:90%
+Consumers paying more.
+
+00:13:04.870 --> 00:13:07.480 align:middle line:84%
+It's a transfer from
+consumers to firms.
+
+00:13:07.480 --> 00:13:09.810 align:middle line:84%
+If you believe that the
+consumers have a higher
+
+00:13:09.810 --> 00:13:12.090 align:middle line:84%
+marginal utility of income
+than the shareholders
+
+00:13:12.090 --> 00:13:14.815 align:middle line:84%
+of the firm, that's
+also a concern
+
+00:13:14.815 --> 00:13:15.940 align:middle line:90%
+we should be worried about.
+
+00:13:15.940 --> 00:13:18.070 align:middle line:84%
+I should say that in IO,
+I mentioned that today,
+
+00:13:18.070 --> 00:13:20.070 align:middle line:84%
+I'm never going to mention
+it again pretty much.
+
+00:13:20.070 --> 00:13:24.010 align:middle line:84%
+Jean may talk about it when
+he gives his guest lectures.
+
+00:13:24.010 --> 00:13:26.657 align:middle line:84%
+But in IO, all of
+these income effects
+
+00:13:26.657 --> 00:13:28.740 align:middle line:84%
+you see in public finance,
+whatever, those are all
+
+00:13:28.740 --> 00:13:29.590 align:middle line:90%
+going to disappear.
+
+00:13:29.590 --> 00:13:33.090 align:middle line:84%
+So in IO, pretty
+much everybody has
+
+00:13:33.090 --> 00:13:36.960 align:middle line:84%
+quasi linear preferences
+and everyone has preferences
+
+00:13:36.960 --> 00:13:39.480 align:middle line:84%
+that look like v minus
+p, where everybody's
+
+00:13:39.480 --> 00:13:42.128 align:middle line:84%
+got a marginal utility of
+income of 1 that's constant
+
+00:13:42.128 --> 00:13:44.170 align:middle line:84%
+and everyone has some
+value from buying the good.
+
+00:13:44.170 --> 00:13:46.620 align:middle line:84%
+And we just do additively
+separable utility
+
+00:13:46.620 --> 00:13:49.320 align:middle line:84%
+and don't really worry about
+income effects and stuff.
+
+00:13:49.320 --> 00:13:53.430 align:middle line:84%
+And obviously that's not
+to say that equity concerns
+
+00:13:53.430 --> 00:13:55.440 align:middle line:84%
+and transfers across
+consumers aren't important,
+
+00:13:55.440 --> 00:13:57.900 align:middle line:84%
+but it's just I
+think people in IO
+
+00:13:57.900 --> 00:13:59.650 align:middle line:84%
+have made the decision
+that you don't want
+
+00:13:59.650 --> 00:14:02.740 align:middle line:84%
+to be every single model
+talking about the incentive
+
+00:14:02.740 --> 00:14:07.132 align:middle line:84%
+to distort what you have the
+firms doing in order to benefit
+
+00:14:07.132 --> 00:14:09.340 align:middle line:84%
+the consumers with lower
+marginal utilities of income
+
+00:14:09.340 --> 00:14:11.298 align:middle line:84%
+instead of higher marginal
+utilities of income.
+
+00:14:11.298 --> 00:14:14.680 align:middle line:84%
+So we just do this, and you
+can think about equity concerns
+
+00:14:14.680 --> 00:14:15.730 align:middle line:90%
+on top of it.
+
+00:14:15.730 --> 00:14:17.410 align:middle line:84%
+But pretty much all
+semester I'm going
+
+00:14:17.410 --> 00:14:20.750 align:middle line:90%
+to have that kind of utility.
+
+00:14:20.750 --> 00:14:22.640 align:middle line:90%
+OK.
+
+00:14:22.640 --> 00:14:24.840 align:middle line:84%
+That's your basic
+monopoly pricing model.
+
+00:14:24.840 --> 00:14:27.500 align:middle line:84%
+What are some of the other
+things you need to know?
+
+00:14:27.500 --> 00:14:29.990 align:middle line:84%
+First of all, most
+firms in the real world
+
+00:14:29.990 --> 00:14:33.650 align:middle line:84%
+sell multiple goods
+instead of a single good.
+
+00:14:33.650 --> 00:14:36.720 align:middle line:84%
+So the way I'm going to think
+about this is simplest example.
+
+00:14:36.720 --> 00:14:40.640 align:middle line:84%
+Suppose the monopolist
+has two goods to sell.
+
+00:14:40.640 --> 00:14:43.080 align:middle line:84%
+Now I'm putting price
+as the argument.
+
+00:14:43.080 --> 00:14:46.950 align:middle line:84%
+So demand for good 1 is
+a function of p1 and p2.
+
+00:14:46.950 --> 00:14:51.890 align:middle line:84%
+Demand for good 2 is also
+a function of p1 and p2.
+
+00:14:51.890 --> 00:14:54.630 align:middle line:84%
+Let me stick with constant
+marginal costs here.
+
+00:14:54.630 --> 00:14:57.980 align:middle line:84%
+So the total cost of producing
+x1 units of good 1 and x2
+
+00:14:57.980 --> 00:15:00.996 align:middle line:84%
+units of good 2 is
+just c1 x1 plus c2 x2.
+
+00:15:00.996 --> 00:15:03.740 align:middle line:90%
+
+
+00:15:03.740 --> 00:15:06.060 align:middle line:84%
+So what's the
+monopolist's problem?
+
+00:15:06.060 --> 00:15:10.820 align:middle line:84%
+It's now maximizing
+over the two prices.
+
+00:15:10.820 --> 00:15:12.920 align:middle line:84%
+Price 1 minus
+marginal cost 1 times
+
+00:15:12.920 --> 00:15:19.790 align:middle line:84%
+the number of units of good 1
+plus p2 minus c2 dx times x2.
+
+00:15:19.790 --> 00:15:22.080 align:middle line:84%
+What do the first order
+conditions look like?
+
+00:15:22.080 --> 00:15:24.560 align:middle line:84%
+Well, if I differentiate, think
+about differentiating with
+
+00:15:24.560 --> 00:15:28.670 align:middle line:84%
+respect to the price of good 1,
+if I differentiate with respect
+
+00:15:28.670 --> 00:15:33.320 align:middle line:84%
+to p1, I'm going to get
+p1 minus c1 d(x1)/d(p1).
+
+00:15:33.320 --> 00:15:38.990 align:middle line:84%
+Plus this times the derivative
+of that, which is x1 of P1 P2.
+
+00:15:38.990 --> 00:15:42.530 align:middle line:84%
+But now I'm going to get an
+extra term that I wasn't getting
+
+00:15:42.530 --> 00:15:46.460 align:middle line:84%
+before, which is d(x2)/d(p1)
+times p2 minus c2.
+
+00:15:46.460 --> 00:15:50.910 align:middle line:90%
+
+
+00:15:50.910 --> 00:15:54.240 align:middle line:84%
+So one way to think about what
+we're getting is if I now do
+
+00:15:54.240 --> 00:15:56.550 align:middle line:84%
+the same thing,
+if I divide by x,
+
+00:15:56.550 --> 00:16:04.770 align:middle line:84%
+I get price minus cost plus x1
+over d(x1)/d(p1) plus p2 minus
+
+00:16:04.770 --> 00:16:10.140 align:middle line:84%
+c2 times d(x2)/d(p1) over
+d(x1)/d(p1) equals 0.
+
+00:16:10.140 --> 00:16:12.540 align:middle line:84%
+So this is the same
+first order condition
+
+00:16:12.540 --> 00:16:17.730 align:middle line:84%
+I had before, but with the
+addition of this extra term.
+
+00:16:17.730 --> 00:16:21.190 align:middle line:84%
+People in IO refer to this
+as the diversion ratio.
+
+00:16:21.190 --> 00:16:25.980 align:middle line:84%
+This is when I raise
+the price of good 1,
+
+00:16:25.980 --> 00:16:30.240 align:middle line:84%
+I'm going to sell
+fewer units of good 2.
+
+00:16:30.240 --> 00:16:32.440 align:middle line:84%
+When I sell fewer
+units of good 2,
+
+00:16:32.440 --> 00:16:34.320 align:middle line:84%
+sorry, when I sell
+price of good 1,
+
+00:16:34.320 --> 00:16:36.480 align:middle line:84%
+I'm going to sell
+fewer units of good 1.
+
+00:16:36.480 --> 00:16:40.150 align:middle line:84%
+But when I sell fewer
+units of good 1,
+
+00:16:40.150 --> 00:16:43.480 align:middle line:84%
+that's going to affect
+my sales of good 2.
+
+00:16:43.480 --> 00:16:46.570 align:middle line:84%
+And so it can either
+raise my sales of good 2
+
+00:16:46.570 --> 00:16:48.630 align:middle line:90%
+or lower my sales of good 2.
+
+00:16:48.630 --> 00:16:52.960 align:middle line:84%
+But I have to take in that
+account for every unit of goods
+
+00:16:52.960 --> 00:16:53.990 align:middle line:90%
+that I don't sell.
+
+00:16:53.990 --> 00:16:57.650 align:middle line:84%
+It gets diverted possibly
+to a sale of another good.
+
+00:16:57.650 --> 00:17:00.250 align:middle line:84%
+And I have to take the profits
+I would earn on those goods
+
+00:17:00.250 --> 00:17:03.380 align:middle line:84%
+into account when I'm
+doing the first one.
+
+00:17:03.380 --> 00:17:08.920 align:middle line:84%
+And so this gives me a
+different markup formula.
+
+00:17:08.920 --> 00:17:13.849 align:middle line:84%
+Price minus marginal cost over
+price is minus 1 over epsilon.
+
+00:17:13.849 --> 00:17:18.970 align:middle line:84%
+The elasticity of the good
+plus this other effect, which
+
+00:17:18.970 --> 00:17:21.760 align:middle line:84%
+comes from thinking about
+the effect of my change
+
+00:17:21.760 --> 00:17:24.330 align:middle line:84%
+in price of good 1
+on sales of good 2.
+
+00:17:24.330 --> 00:17:28.850 align:middle line:90%
+
+
+00:17:28.850 --> 00:17:31.708 align:middle line:84%
+I should say before I go to the
+next page, one way you can also
+
+00:17:31.708 --> 00:17:34.250 align:middle line:84%
+think about this is just you
+have to think about your pricing
+
+00:17:34.250 --> 00:17:35.010 align:middle line:90%
+as a system.
+
+00:17:35.010 --> 00:17:37.102 align:middle line:90%
+So, for instance, if you're--
+
+00:17:37.102 --> 00:17:38.810 align:middle line:84%
+the worst thing in
+the world you could do
+
+00:17:38.810 --> 00:17:46.430 align:middle line:84%
+is imagine you're advising Apple
+on selling both blue iPhones
+
+00:17:46.430 --> 00:17:48.090 align:middle line:90%
+and silver iPhones.
+
+00:17:48.090 --> 00:17:51.260 align:middle line:84%
+And you do a study of the price
+elasticity of blue iPhones
+
+00:17:51.260 --> 00:17:53.673 align:middle line:84%
+by raising the price
+of blue iPhones by $20
+
+00:17:53.673 --> 00:17:56.090 align:middle line:84%
+and lowering it by $20 and
+seeing what that does to sales,
+
+00:17:56.090 --> 00:17:57.930 align:middle line:90%
+holding all other prices fixed.
+
+00:17:57.930 --> 00:18:00.530 align:middle line:84%
+You'll find that the blue
+iPhone is incredibly price
+
+00:18:00.530 --> 00:18:04.595 align:middle line:84%
+sensitive price, because people
+switch and buy the silver one.
+
+00:18:04.595 --> 00:18:06.970 align:middle line:84%
+That does not mean that you
+want to have a really, really
+
+00:18:06.970 --> 00:18:08.392 align:middle line:90%
+low markup on the blue iPhone.
+
+00:18:08.392 --> 00:18:09.850 align:middle line:84%
+You have to think
+of it as a system
+
+00:18:09.850 --> 00:18:12.850 align:middle line:84%
+and what's the equilibrium
+solution to blue iPhone,
+
+00:18:12.850 --> 00:18:15.670 align:middle line:84%
+silver iPhone, red iPhone,
+green iPhone, whatever.
+
+00:18:15.670 --> 00:18:17.420 align:middle line:84%
+And think of all those
+things as a system.
+
+00:18:17.420 --> 00:18:18.962 align:middle line:84%
+If you look at each
+one individually,
+
+00:18:18.962 --> 00:18:20.200 align:middle line:90%
+you'll get it terribly wrong.
+
+00:18:20.200 --> 00:18:22.000 align:middle line:84%
+And so in general,
+any time you're
+
+00:18:22.000 --> 00:18:26.620 align:middle line:84%
+doing pricing of
+multiple goods, if there
+
+00:18:26.620 --> 00:18:28.672 align:middle line:84%
+are very strong diversion
+ratios between them,
+
+00:18:28.672 --> 00:18:30.130 align:middle line:84%
+you always want to
+make sure you're
+
+00:18:30.130 --> 00:18:32.890 align:middle line:84%
+thinking of it as a system,
+not in terms of each one
+
+00:18:32.890 --> 00:18:35.320 align:middle line:90%
+individually as its epsilon.
+
+00:18:35.320 --> 00:18:37.990 align:middle line:84%
+But when these diversion
+ratios are smaller,
+
+00:18:37.990 --> 00:18:40.300 align:middle line:84%
+you can think of it as
+it is 1 over epsilon
+
+00:18:40.300 --> 00:18:42.310 align:middle line:84%
+pricing with some
+increase or decrease
+
+00:18:42.310 --> 00:18:45.123 align:middle line:84%
+based on whether there
+is an effect of changing
+
+00:18:45.123 --> 00:18:46.290 align:middle line:90%
+sales on the other products.
+
+00:18:46.290 --> 00:18:51.050 align:middle line:90%
+
+
+00:18:51.050 --> 00:18:51.880 align:middle line:90%
+OK, anyway.
+
+00:18:51.880 --> 00:18:55.310 align:middle line:90%
+
+
+00:18:55.310 --> 00:18:57.330 align:middle line:84%
+OK, so what does this
+formula look like?
+
+00:18:57.330 --> 00:19:03.200 align:middle line:84%
+So my price is inverse
+elasticity minus price minus
+
+00:19:03.200 --> 00:19:06.680 align:middle line:90%
+cost over price d(xi)/d(pi).
+
+00:19:06.680 --> 00:19:09.200 align:middle line:84%
+If you think about the normal
+case, in the normal case,
+
+00:19:09.200 --> 00:19:12.770 align:middle line:84%
+goods are sold at
+positive markups.
+
+00:19:12.770 --> 00:19:15.450 align:middle line:84%
+So this would be
+a positive number.
+
+00:19:15.450 --> 00:19:17.370 align:middle line:90%
+This would be a positive number.
+
+00:19:17.370 --> 00:19:19.770 align:middle line:84%
+The d(xi)/d(pi) is
+a negative number.
+
+00:19:19.770 --> 00:19:20.790 align:middle line:90%
+So this is negative.
+
+00:19:20.790 --> 00:19:21.790 align:middle line:90%
+There's a negative sign.
+
+00:19:21.790 --> 00:19:22.648 align:middle line:90%
+This is positive.
+
+00:19:22.648 --> 00:19:24.440 align:middle line:84%
+So you can think of
+the whole thing in blue
+
+00:19:24.440 --> 00:19:27.410 align:middle line:90%
+as a positive number normally.
+
+00:19:27.410 --> 00:19:31.070 align:middle line:84%
+And so whether you
+price above or below
+
+00:19:31.070 --> 00:19:33.470 align:middle line:84%
+the inverse elasticity
+is typically
+
+00:19:33.470 --> 00:19:35.810 align:middle line:84%
+going to depend on whether
+this is a positive number
+
+00:19:35.810 --> 00:19:36.815 align:middle line:90%
+or a negative number.
+
+00:19:36.815 --> 00:19:40.010 align:middle line:90%
+
+
+00:19:40.010 --> 00:19:41.970 align:middle line:84%
+Standard case, we're
+dealing with a monopoly.
+
+00:19:41.970 --> 00:19:43.890 align:middle line:84%
+Pricing is often the
+substitutes case.
+
+00:19:43.890 --> 00:19:46.670 align:middle line:84%
+The substitutes
+case is when I raise
+
+00:19:46.670 --> 00:19:49.460 align:middle line:84%
+the price of the blue iPhone,
+sales of the silver iPhone
+
+00:19:49.460 --> 00:19:50.690 align:middle line:90%
+go up.
+
+00:19:50.690 --> 00:19:54.470 align:middle line:84%
+These goods are
+substitutes for consumers.
+
+00:19:54.470 --> 00:20:01.130 align:middle line:84%
+So when that's the case, margins
+for both products are positive.
+
+00:20:01.130 --> 00:20:05.360 align:middle line:84%
+And your margin exceeds the
+single product Lerner index
+
+00:20:05.360 --> 00:20:06.230 align:middle line:90%
+formula.
+
+00:20:06.230 --> 00:20:10.100 align:middle line:84%
+And the amount by which it
+exceeds that single index Lerner
+
+00:20:10.100 --> 00:20:16.910 align:middle line:84%
+formula depends on what
+is dx minus i over pdpi.
+
+00:20:16.910 --> 00:20:18.350 align:middle line:84%
+How large is the
+diversion ratio?
+
+00:20:18.350 --> 00:20:20.730 align:middle line:84%
+This divided by this
+is the diversion ratio.
+
+00:20:20.730 --> 00:20:23.060 align:middle line:84%
+So the larger is
+the diversion ratio,
+
+00:20:23.060 --> 00:20:25.010 align:middle line:84%
+the larger is the
+markup you're earning
+
+00:20:25.010 --> 00:20:27.650 align:middle line:84%
+on the other second
+product you're selling,
+
+00:20:27.650 --> 00:20:30.025 align:middle line:84%
+the more you exceed the
+Lerner index formula.
+
+00:20:30.025 --> 00:20:32.900 align:middle line:90%
+
+
+00:20:32.900 --> 00:20:38.370 align:middle line:84%
+The other more interesting
+case is this complements case.
+
+00:20:38.370 --> 00:20:43.010 align:middle line:84%
+So sometimes you have firms
+selling complements like
+
+00:20:43.010 --> 00:20:46.730 align:middle line:84%
+hamburgers and French
+fries at McDonald's.
+
+00:20:46.730 --> 00:20:48.890 align:middle line:84%
+If your price of
+hamburgers is lower, more
+
+00:20:48.890 --> 00:20:51.720 align:middle line:84%
+people come to McDonald's,
+more people buy French fries.
+
+00:20:51.720 --> 00:20:53.660 align:middle line:84%
+If your price for
+hamburgers is higher,
+
+00:20:53.660 --> 00:20:55.490 align:middle line:84%
+there could be an income effect
+where people feel like I've
+
+00:20:55.490 --> 00:20:56.430 align:middle line:90%
+spent too much already.
+
+00:20:56.430 --> 00:20:57.750 align:middle line:84%
+I don't want to
+also buy the fries.
+
+00:20:57.750 --> 00:20:58.790 align:middle line:84%
+But typically it's
+like the effect
+
+00:20:58.790 --> 00:21:00.915 align:middle line:84%
+is going to be people don't
+come to your restaurant
+
+00:21:00.915 --> 00:21:03.920 align:middle line:84%
+and then they don't
+buy fries at all.
+
+00:21:03.920 --> 00:21:07.190 align:middle line:84%
+In the Apple case, if I
+don't sell them this iPhone,
+
+00:21:07.190 --> 00:21:10.040 align:middle line:84%
+I'm not going to
+sell them my earbuds
+
+00:21:10.040 --> 00:21:11.463 align:middle line:90%
+that I sell for a huge profit.
+
+00:21:11.463 --> 00:21:13.880 align:middle line:84%
+If I don't sell them my iPhone,
+I'm not going to sell them
+
+00:21:13.880 --> 00:21:17.360 align:middle line:84%
+the 17th charger that they've
+had to buy from me because I
+
+00:21:17.360 --> 00:21:20.870 align:middle line:84%
+keep changing the way my
+charger and connector works.
+
+00:21:20.870 --> 00:21:23.490 align:middle line:84%
+And so the complements
+case is the higher
+
+00:21:23.490 --> 00:21:27.230 align:middle line:84%
+is the price of my
+iPhone, I sell fewer.
+
+00:21:27.230 --> 00:21:31.180 align:middle line:84%
+If I raise the price of the
+iPhone, I sell fewer earbuds.
+
+00:21:31.180 --> 00:21:39.790 align:middle line:84%
+And so in this case, now this
+becomes a negative number.
+
+00:21:39.790 --> 00:21:44.940 align:middle line:84%
+You set price below the
+elasticity of demand.
+
+00:21:44.940 --> 00:21:48.090 align:middle line:84%
+Very easily if this
+diversion ratio is large,
+
+00:21:48.090 --> 00:21:49.620 align:middle line:84%
+you can often think
+of the diversion
+
+00:21:49.620 --> 00:21:52.860 align:middle line:90%
+ratio is in some sense 1.
+
+00:21:52.860 --> 00:21:57.160 align:middle line:84%
+For every iPhone I
+sell, I don't sell,
+
+00:21:57.160 --> 00:21:59.460 align:middle line:84%
+that's exactly one pair
+of earbuds I don't sell
+
+00:21:59.460 --> 00:22:01.650 align:middle line:84%
+or that's one
+charger I don't sell.
+
+00:22:01.650 --> 00:22:06.870 align:middle line:84%
+So if this is a large number,
+if this diversion ratio is 1,
+
+00:22:06.870 --> 00:22:09.870 align:middle line:84%
+the margin is high in
+the competing good,
+
+00:22:09.870 --> 00:22:13.020 align:middle line:84%
+you can very easily end up with
+pricing one good below cost
+
+00:22:13.020 --> 00:22:14.680 align:middle line:90%
+or even having a negative price.
+
+00:22:14.680 --> 00:22:17.340 align:middle line:84%
+You may have thought
+you go into the store
+
+00:22:17.340 --> 00:22:19.410 align:middle line:84%
+to buy an Inkjet printer
+and it's remarkable,
+
+00:22:19.410 --> 00:22:24.420 align:middle line:84%
+but I can get this phenomenally
+complicated piece of electronics
+
+00:22:24.420 --> 00:22:26.760 align:middle line:84%
+with all kinds of chips in
+it and hardware and precision
+
+00:22:26.760 --> 00:22:28.783 align:middle line:90%
+stuff, and it's only $99.
+
+00:22:28.783 --> 00:22:31.200 align:middle line:84%
+And then you get really pissed
+off when the thing runs out
+
+00:22:31.200 --> 00:22:33.823 align:middle line:84%
+of ink seven days later
+and it's $59 for ink.
+
+00:22:33.823 --> 00:22:35.490 align:middle line:84%
+And you're thinking
+yourself, how can it
+
+00:22:35.490 --> 00:22:39.030 align:middle line:84%
+be that it only costs $99
+to produce this printer
+
+00:22:39.030 --> 00:22:44.520 align:middle line:84%
+and yet it costs $59 to get
+a bottle of ink this big?
+
+00:22:44.520 --> 00:22:46.570 align:middle line:84%
+You would think the ink
+should only cost $0.50.
+
+00:22:46.570 --> 00:22:48.400 align:middle line:84%
+And the answer is
+yes, obviously, yes.
+
+00:22:48.400 --> 00:22:50.410 align:middle line:90%
+The ink only costs $0.50.
+
+00:22:50.410 --> 00:22:52.890 align:middle line:84%
+But they're pricing
+the printer way
+
+00:22:52.890 --> 00:22:54.730 align:middle line:84%
+below the cost of
+producing the printer
+
+00:22:54.730 --> 00:22:58.750 align:middle line:90%
+to get you to buy the ink.
+
+00:22:58.750 --> 00:23:01.913 align:middle line:84%
+I guess newspapers, these
+examples no longer resonate.
+
+00:23:01.913 --> 00:23:04.580 align:middle line:84%
+There was a time when people had
+these things called newspapers.
+
+00:23:04.580 --> 00:23:06.330 align:middle line:84%
+And instead of reading
+news on your phone,
+
+00:23:06.330 --> 00:23:08.320 align:middle line:84%
+you got this big piece
+of paper delivered
+
+00:23:08.320 --> 00:23:10.720 align:middle line:90%
+to your house every day.
+
+00:23:10.720 --> 00:23:13.390 align:middle line:84%
+The way newspapers used to work
+is the newspaper would only cost
+
+00:23:13.390 --> 00:23:14.660 align:middle line:90%
+$0.50.
+
+00:23:14.660 --> 00:23:17.333 align:middle line:84%
+And if you think about how much
+does it cost to produce and get
+
+00:23:17.333 --> 00:23:19.000 align:middle line:84%
+a newspaper to your
+house every morning,
+
+00:23:19.000 --> 00:23:21.010 align:middle line:84%
+the answer was way
+more than $0.50.
+
+00:23:21.010 --> 00:23:23.900 align:middle line:84%
+It would cost $1 or $1.50
+or something like that.
+
+00:23:23.900 --> 00:23:25.280 align:middle line:90%
+How did newspapers work?
+
+00:23:25.280 --> 00:23:28.325 align:middle line:84%
+Newspapers worked because
+they sold them for $0.50,
+
+00:23:28.325 --> 00:23:30.700 align:middle line:84%
+even though it cost $1.50 to
+produce it because they were
+
+00:23:30.700 --> 00:23:31.960 align:middle line:90%
+full of ads.
+
+00:23:31.960 --> 00:23:37.990 align:middle line:84%
+And they were full of classified
+ads that now go to wherever.
+
+00:23:37.990 --> 00:23:40.460 align:middle line:84%
+They were full of real estate
+ads that are now on Zillow.
+
+00:23:40.460 --> 00:23:43.430 align:middle line:84%
+They were full of ads
+for local car dealers.
+
+00:23:43.430 --> 00:23:47.050 align:middle line:84%
+They were full of ads
+for all kinds of things.
+
+00:23:47.050 --> 00:23:49.270 align:middle line:84%
+Whatever, eBay, everything
+that was sold on eBay
+
+00:23:49.270 --> 00:23:52.180 align:middle line:90%
+was sold through the newspaper.
+
+00:23:52.180 --> 00:23:54.520 align:middle line:84%
+The newspapers were selling
+the newspaper below cost
+
+00:23:54.520 --> 00:23:58.970 align:middle line:84%
+because the cost of printing
+an ad was essentially 0.
+
+00:23:58.970 --> 00:24:00.920 align:middle line:84%
+And so the cost of
+producing an ad was 0.
+
+00:24:00.920 --> 00:24:04.150 align:middle line:84%
+They'd charge you $100 or
+$1,000 to list your house
+
+00:24:04.150 --> 00:24:05.620 align:middle line:90%
+in the newspaper.
+
+00:24:05.620 --> 00:24:09.400 align:middle line:84%
+Price minus cost was huge on
+the ads that made the margin
+
+00:24:09.400 --> 00:24:12.010 align:middle line:90%
+on the newspaper negative.
+
+00:24:12.010 --> 00:24:18.410 align:middle line:84%
+In some industries, it even
+becomes there's a 0 lower bound
+
+00:24:18.410 --> 00:24:20.860 align:middle line:90%
+that becomes important.
+
+00:24:20.860 --> 00:24:24.190 align:middle line:84%
+Google in some sense would
+like to pay you to use Google.
+
+00:24:24.190 --> 00:24:25.360 align:middle line:90%
+Every time you do a--
+
+00:24:25.360 --> 00:24:29.350 align:middle line:84%
+Google's ad revenue is something
+like $0.06 or $0.08 a search.
+
+00:24:29.350 --> 00:24:34.150 align:middle line:84%
+Every time you do a search on
+Google, Google is making money.
+
+00:24:34.150 --> 00:24:37.870 align:middle line:84%
+The marginal cost of running
+a search for you on Google
+
+00:24:37.870 --> 00:24:39.380 align:middle line:90%
+is very, very small.
+
+00:24:39.380 --> 00:24:41.500 align:middle line:84%
+So when Google does
+the price search,
+
+00:24:41.500 --> 00:24:44.900 align:middle line:84%
+it costs them a thousandth of a
+cent to run the search for you.
+
+00:24:44.900 --> 00:24:47.690 align:middle line:84%
+They're making $0.08
+profit on every search.
+
+00:24:47.690 --> 00:24:50.410 align:middle line:84%
+They want to set the price of
+having Google on your phone
+
+00:24:50.410 --> 00:24:50.922 align:middle line:90%
+negative.
+
+00:24:50.922 --> 00:24:52.630 align:middle line:84%
+That's why Google is
+willing to pay Apple
+
+00:24:52.630 --> 00:24:55.172 align:middle line:84%
+billions and billions of dollars
+to put Google there and make
+
+00:24:55.172 --> 00:24:56.760 align:middle line:84%
+Google a default.
+In some sense, they
+
+00:24:56.760 --> 00:24:59.100 align:middle line:84%
+want to have a negative
+price to get as many people
+
+00:24:59.100 --> 00:25:00.050 align:middle line:90%
+to use it as possible.
+
+00:25:00.050 --> 00:25:05.070 align:middle line:90%
+
+
+00:25:05.070 --> 00:25:09.960 align:middle line:84%
+Any questions on
+multiproduct pricing?
+
+00:25:09.960 --> 00:25:13.290 align:middle line:90%
+So product quality.
+
+00:25:13.290 --> 00:25:16.470 align:middle line:84%
+So as I said, people
+often get frustrated
+
+00:25:16.470 --> 00:25:18.570 align:middle line:84%
+with their Microsoft
+and other products
+
+00:25:18.570 --> 00:25:21.925 align:middle line:84%
+and think this thing is so bad
+because they're a monopoly.
+
+00:25:21.925 --> 00:25:22.633 align:middle line:90%
+I have no choice.
+
+00:25:22.633 --> 00:25:27.610 align:middle line:90%
+
+
+00:25:27.610 --> 00:25:30.190 align:middle line:84%
+Maybe they get frustrated
+with the Sloan cafeteria
+
+00:25:30.190 --> 00:25:34.430 align:middle line:84%
+and are like, this place is
+closer than everywhere else
+
+00:25:34.430 --> 00:25:36.640 align:middle line:84%
+and yet still people walk
+across to Brothers Market
+
+00:25:36.640 --> 00:25:42.325 align:middle line:84%
+to get their lunch anyway,
+because it's not necessarily
+
+00:25:42.325 --> 00:25:44.200 align:middle line:84%
+the price of the food
+at the Sloan cafeteria,
+
+00:25:44.200 --> 00:25:47.530 align:middle line:84%
+although it's also high,
+but does Sloan cafeteria
+
+00:25:47.530 --> 00:25:51.700 align:middle line:84%
+have the option to set the
+optimal product quality?
+
+00:25:51.700 --> 00:25:55.190 align:middle line:84%
+Basic reasoning is going
+to be, in some sense,
+
+00:25:55.190 --> 00:25:57.190 align:middle line:84%
+while we may think the
+monopolists often provide
+
+00:25:57.190 --> 00:26:00.430 align:middle line:84%
+low quality products, at
+least the profit maximizing
+
+00:26:00.430 --> 00:26:02.410 align:middle line:84%
+theory tells us, they
+ought to do pretty well
+
+00:26:02.410 --> 00:26:03.710 align:middle line:90%
+on this dimension.
+
+00:26:03.710 --> 00:26:06.280 align:middle line:84%
+So let's suppose you
+have a monopolist.
+
+00:26:06.280 --> 00:26:08.770 align:middle line:84%
+It has a product that's
+a variable quality s.
+
+00:26:08.770 --> 00:26:12.450 align:middle line:84%
+And s is a choice variable
+as well as the price.
+
+00:26:12.450 --> 00:26:16.230 align:middle line:84%
+So suppose there's a constant
+marginal cost c of s.
+
+00:26:16.230 --> 00:26:19.260 align:middle line:84%
+So you could think of this as
+either the quality of the food
+
+00:26:19.260 --> 00:26:21.780 align:middle line:84%
+you're providing at
+a lunch or s could
+
+00:26:21.780 --> 00:26:25.800 align:middle line:84%
+be the quality of the
+camera in an iPhone.
+
+00:26:25.800 --> 00:26:28.715 align:middle line:84%
+The unit cost of producing
+this lunch or the unit
+
+00:26:28.715 --> 00:26:30.840 align:middle line:84%
+cost of producing the iPhone
+is going to be c of s.
+
+00:26:30.840 --> 00:26:33.090 align:middle line:84%
+And the higher quality you
+make it, the more expensive
+
+00:26:33.090 --> 00:26:34.740 align:middle line:90%
+it's going to produce.
+
+00:26:34.740 --> 00:26:37.300 align:middle line:84%
+And then I will do this as
+a constant marginal cost.
+
+00:26:37.300 --> 00:26:38.790 align:middle line:84%
+So if you produce
+100 iPhones, it's
+
+00:26:38.790 --> 00:26:41.350 align:middle line:84%
+just 100 times the
+cost of producing one.
+
+00:26:41.350 --> 00:26:46.020 align:middle line:84%
+If you produce 100 lunches, 100
+times the cost of one lunch.
+
+00:26:46.020 --> 00:26:48.450 align:middle line:84%
+Something we're going
+to do all the time in IO
+
+00:26:48.450 --> 00:26:52.000 align:middle line:84%
+is take consumer
+heterogeneity very seriously.
+
+00:26:52.000 --> 00:26:54.450 align:middle line:84%
+So I'm going to think
+about massive consumers who
+
+00:26:54.450 --> 00:26:57.940 align:middle line:84%
+have types theta
+distributed uniform on 0, 1.
+
+00:26:57.940 --> 00:27:00.790 align:middle line:84%
+The uniform 0, 1 here is
+without loss of generality.
+
+00:27:00.790 --> 00:27:01.630 align:middle line:90%
+I do that a lot.
+
+00:27:01.630 --> 00:27:05.070 align:middle line:84%
+It's just I index consumers
+by their percentile
+
+00:27:05.070 --> 00:27:07.740 align:middle line:84%
+within the distribution
+of consumers.
+
+00:27:07.740 --> 00:27:10.470 align:middle line:84%
+Here it's indexing within
+their distribution of consumers
+
+00:27:10.470 --> 00:27:13.510 align:middle line:84%
+in terms of how high their
+valuation is for the good
+
+00:27:13.510 --> 00:27:14.980 align:middle line:90%
+that people are buying.
+
+00:27:14.980 --> 00:27:17.535 align:middle line:90%
+So consumers are going to get--
+
+00:27:17.535 --> 00:27:19.660 align:middle line:84%
+consumers are going to
+either buy one-- they either
+
+00:27:19.660 --> 00:27:21.230 align:middle line:90%
+want one lunch or one phone.
+
+00:27:21.230 --> 00:27:22.720 align:middle line:90%
+It's a unit demand case.
+
+00:27:22.720 --> 00:27:26.020 align:middle line:84%
+And they're going to get
+utility v of s theta minus p
+
+00:27:26.020 --> 00:27:28.360 align:middle line:84%
+if they buy one unit
+of a quality s good
+
+00:27:28.360 --> 00:27:30.820 align:middle line:90%
+and their type is theta.
+
+00:27:30.820 --> 00:27:32.590 align:middle line:84%
+And I'm going to
+assume that we've
+
+00:27:32.590 --> 00:27:35.650 align:middle line:84%
+ordered the qualities
+and the types
+
+00:27:35.650 --> 00:27:40.300 align:middle line:84%
+so that utility is increasing
+in quality for everyone,
+
+00:27:40.300 --> 00:27:41.590 align:middle line:90%
+regardless of theta.
+
+00:27:41.590 --> 00:27:44.980 align:middle line:84%
+And the high theta people
+have a higher willingness
+
+00:27:44.980 --> 00:27:48.730 align:middle line:84%
+to pay than the low theta
+people, again, for any quality.
+
+00:27:48.730 --> 00:27:50.530 align:middle line:84%
+That doesn't fit all
+products, but assume
+
+00:27:50.530 --> 00:27:52.660 align:middle line:84%
+that there are these
+high types and low types
+
+00:27:52.660 --> 00:27:54.820 align:middle line:84%
+and the high types are willing
+to pay more for everything, as
+
+00:27:54.820 --> 00:27:56.487 align:middle line:84%
+if they're wealthier
+people with a lower
+
+00:27:56.487 --> 00:27:59.830 align:middle line:90%
+marginal utility of income.
+
+00:27:59.830 --> 00:28:02.290 align:middle line:84%
+Now imagine that in
+equilibrium the firm
+
+00:28:02.290 --> 00:28:04.090 align:middle line:90%
+is going to sell q units.
+
+00:28:04.090 --> 00:28:06.100 align:middle line:84%
+Given that the high
+theta people have
+
+00:28:06.100 --> 00:28:10.780 align:middle line:84%
+the highest willingness to
+pay, if you're going to sell--
+
+00:28:10.780 --> 00:28:11.490 align:middle line:90%
+let me put my--
+
+00:28:11.490 --> 00:28:16.200 align:middle line:90%
+
+
+00:28:16.200 --> 00:28:19.470 align:middle line:90%
+theta is uniform 0, 1 here.
+
+00:28:19.470 --> 00:28:26.077 align:middle line:84%
+If I'm going to
+sell q units, what's
+
+00:28:26.077 --> 00:28:27.660 align:middle line:84%
+going to have to
+happen in equilibrium
+
+00:28:27.660 --> 00:28:30.810 align:middle line:84%
+is everyone whose type is
+above 1 minus q buys the good,
+
+00:28:30.810 --> 00:28:33.790 align:middle line:84%
+and anyone whose type is below
+1 minus q doesn't buy the good.
+
+00:28:33.790 --> 00:28:36.948 align:middle line:84%
+Because if someone here is
+willing to buy the good,
+
+00:28:36.948 --> 00:28:38.490 align:middle line:84%
+anyone with a higher
+type is strictly
+
+00:28:38.490 --> 00:28:40.440 align:middle line:84%
+willing to buy the
+good at the same price.
+
+00:28:40.440 --> 00:28:41.940 align:middle line:84%
+So if you're going
+to sell the good,
+
+00:28:41.940 --> 00:28:46.320 align:middle line:84%
+this is how it's going to
+look in characteristic space.
+
+00:28:46.320 --> 00:28:49.590 align:middle line:84%
+So therefore, what's your
+maximization problem?
+
+00:28:49.590 --> 00:28:50.550 align:middle line:90%
+I'm going to maximize.
+
+00:28:50.550 --> 00:28:51.967 align:middle line:84%
+I'm going to set
+it over, maximize
+
+00:28:51.967 --> 00:28:55.560 align:middle line:84%
+over the quantity that I'm
+going to sell and the quality.
+
+00:28:55.560 --> 00:29:00.600 align:middle line:84%
+If I'm going to sell to
+everyone in this interval,
+
+00:29:00.600 --> 00:29:02.490 align:middle line:84%
+it's got to be
+that this person is
+
+00:29:02.490 --> 00:29:05.350 align:middle line:84%
+just indifferent between
+buying and not buying.
+
+00:29:05.350 --> 00:29:09.900 align:middle line:84%
+This person is willing
+to pay v of s 1 minus q,
+
+00:29:09.900 --> 00:29:12.610 align:middle line:90%
+because 1 minus q is their type.
+
+00:29:12.610 --> 00:29:15.310 align:middle line:84%
+So if I'm going to sell to these
+people and not to these people,
+
+00:29:15.310 --> 00:29:18.010 align:middle line:84%
+it must be that this is
+the price I'm charging.
+
+00:29:18.010 --> 00:29:21.010 align:middle line:84%
+So if I'm going to
+sell q units, my profit
+
+00:29:21.010 --> 00:29:24.625 align:middle line:84%
+is q times v of s1
+minus q minus c of s.
+
+00:29:24.625 --> 00:29:27.305 align:middle line:90%
+
+
+00:29:27.305 --> 00:29:32.400 align:middle line:84%
+I now want to differentiate
+that with respect to s to say,
+
+00:29:32.400 --> 00:29:36.120 align:middle line:84%
+what is the optimal
+quality to choose?
+
+00:29:36.120 --> 00:29:39.720 align:middle line:90%
+Notice the q.
+
+00:29:39.720 --> 00:29:43.320 align:middle line:84%
+This q drops out of the
+first order condition.
+
+00:29:43.320 --> 00:29:48.960 align:middle line:84%
+So I just get dv / ds evaluated
+at the monopoly level of s
+
+00:29:48.960 --> 00:29:52.920 align:middle line:90%
+and 1 minus q equals dc / ds.
+
+00:29:52.920 --> 00:29:57.750 align:middle line:84%
+So what this says is that
+the effect on the unit
+
+00:29:57.750 --> 00:30:02.580 align:middle line:84%
+cost of increasing
+quality is exactly what
+
+00:30:02.580 --> 00:30:04.920 align:middle line:84%
+the effect of that
+quality increase
+
+00:30:04.920 --> 00:30:10.560 align:middle line:84%
+is on the evaluation of
+the marginal consumer.
+
+00:30:10.560 --> 00:30:13.230 align:middle line:84%
+So the monopolist is
+choosing optimally--
+
+00:30:13.230 --> 00:30:16.170 align:middle line:84%
+choosing quality optimally
+from the perspective
+
+00:30:16.170 --> 00:30:17.470 align:middle line:90%
+of the marginal consumer.
+
+00:30:17.470 --> 00:30:20.010 align:middle line:84%
+And that's because the
+marginal consumer, if you raise
+
+00:30:20.010 --> 00:30:22.218 align:middle line:84%
+the quality, that person
+will be willing to pay more,
+
+00:30:22.218 --> 00:30:23.290 align:middle line:90%
+you can charge them more.
+
+00:30:23.290 --> 00:30:25.440 align:middle line:84%
+And so you're improving
+quality if and only
+
+00:30:25.440 --> 00:30:29.803 align:middle line:84%
+if the amount that the
+marginal consumers are
+
+00:30:29.803 --> 00:30:31.720 align:middle line:84%
+willing to pay for that
+improvement in quality
+
+00:30:31.720 --> 00:30:34.262 align:middle line:84%
+matches the cost of implementing
+that improvement in quality.
+
+00:30:34.262 --> 00:30:36.870 align:middle line:90%
+
+
+00:30:36.870 --> 00:30:41.650 align:middle line:84%
+So that in some sense, it's
+a partial optimality theorem.
+
+00:30:41.650 --> 00:30:44.680 align:middle line:90%
+What would a social planner do?
+
+00:30:44.680 --> 00:30:47.230 align:middle line:84%
+Well, a social planner
+would be choosing--
+
+00:30:47.230 --> 00:30:50.170 align:middle line:84%
+so let me say, so this would
+be what the monopolist ended up
+
+00:30:50.170 --> 00:30:51.088 align:middle line:90%
+doing.
+
+00:30:51.088 --> 00:30:52.880 align:middle line:84%
+What would the social
+planner end up doing?
+
+00:30:52.880 --> 00:30:55.060 align:middle line:90%
+It's maximizing over q and s.
+
+00:30:55.060 --> 00:30:58.360 align:middle line:84%
+Integral over all types
+from 1 minus q to 1,
+
+00:30:58.360 --> 00:31:02.680 align:middle line:84%
+v of s theta minus
+c of sd theta.
+
+00:31:02.680 --> 00:31:03.820 align:middle line:90%
+Maximize that.
+
+00:31:03.820 --> 00:31:06.890 align:middle line:84%
+I differentiate with respect
+to s under the integral sign.
+
+00:31:06.890 --> 00:31:09.550 align:middle line:84%
+So I get the integral
+from 1 minus q to 1
+
+00:31:09.550 --> 00:31:14.740 align:middle line:84%
+of dv / ds minus
+dc / ds d theta.
+
+00:31:14.740 --> 00:31:20.470 align:middle line:84%
+The integral from 1
+minus q to 1 of dc / ds
+
+00:31:20.470 --> 00:31:23.210 align:middle line:84%
+is just that's a
+constant function.
+
+00:31:23.210 --> 00:31:25.700 align:middle line:90%
+So it's just q times dc / ds.
+
+00:31:25.700 --> 00:31:29.590 align:middle line:84%
+So I've divided both sides by
+q and I get this expression.
+
+00:31:29.590 --> 00:31:35.390 align:middle line:84%
+The effect on the marginal
+cost of increasing quality
+
+00:31:35.390 --> 00:31:38.590 align:middle line:90%
+is equal to--
+
+00:31:38.590 --> 00:31:42.520 align:middle line:84%
+this is just an average
+across consumers of dv / ds.
+
+00:31:42.520 --> 00:31:46.090 align:middle line:84%
+So what the monopolist is
+doing is instead of equating
+
+00:31:46.090 --> 00:31:49.450 align:middle line:84%
+the cost of the
+quality improvement
+
+00:31:49.450 --> 00:31:51.400 align:middle line:84%
+to the benefit for
+the marginal consumer,
+
+00:31:51.400 --> 00:31:54.450 align:middle line:84%
+it's equating to the benefit
+for the average consumer.
+
+00:31:54.450 --> 00:31:58.050 align:middle line:84%
+So there are two reasons in
+which the monopolist is not
+
+00:31:58.050 --> 00:32:01.770 align:middle line:90%
+doing what we want socially.
+
+00:32:01.770 --> 00:32:04.560 align:middle line:84%
+First is that
+monopolist is focusing
+
+00:32:04.560 --> 00:32:07.950 align:middle line:84%
+on the marginal consumer rather
+than the average consumer.
+
+00:32:07.950 --> 00:32:09.780 align:middle line:84%
+But the other thing
+the monopolist is doing
+
+00:32:09.780 --> 00:32:13.950 align:middle line:84%
+is typically in this
+case, the monopolist
+
+00:32:13.950 --> 00:32:17.828 align:middle line:90%
+is choosing this quantity.
+
+00:32:17.828 --> 00:32:20.370 align:middle line:84%
+The competitive quantity that
+the social planner might choose
+
+00:32:20.370 --> 00:32:21.310 align:middle line:90%
+might be down here.
+
+00:32:21.310 --> 00:32:22.735 align:middle line:84%
+The social planner
+is going to serve--
+
+00:32:22.735 --> 00:32:24.090 align:middle line:84%
+for the social
+planner, there would
+
+00:32:24.090 --> 00:32:26.215 align:middle line:84%
+be many more iPhones sold
+than there are with Apple
+
+00:32:26.215 --> 00:32:29.610 align:middle line:90%
+as an iPhone monopolist.
+
+00:32:29.610 --> 00:32:36.210 align:middle line:84%
+And so notice that these effects
+often go in opposite directions.
+
+00:32:36.210 --> 00:32:38.430 align:middle line:84%
+One is that the
+monopolist is focusing
+
+00:32:38.430 --> 00:32:41.250 align:middle line:84%
+on the marginal consumer rather
+than the average consumer.
+
+00:32:41.250 --> 00:32:43.720 align:middle line:84%
+Because you're focusing
+on the marginal consumer,
+
+00:32:43.720 --> 00:32:47.400 align:middle line:84%
+you may make the
+quality too low.
+
+00:32:47.400 --> 00:32:51.060 align:middle line:84%
+It may be that the
+average consumer wishes
+
+00:32:51.060 --> 00:32:52.980 align:middle line:84%
+that their iPhone
+had a camera that
+
+00:32:52.980 --> 00:32:55.240 align:middle line:84%
+was as good as the camera
+on the Google Pixel,
+
+00:32:55.240 --> 00:32:57.535 align:middle line:84%
+but it doesn't have
+a camera that's
+
+00:32:57.535 --> 00:33:00.505 align:middle line:84%
+that good because the
+marginal consumer is not
+
+00:33:00.505 --> 00:33:02.630 align:middle line:84%
+willing to pay as much for
+the camera improvements.
+
+00:33:02.630 --> 00:33:05.920 align:middle line:84%
+So you make the camera lower
+than the average iPhone consumer
+
+00:33:05.920 --> 00:33:08.170 align:middle line:84%
+wishes-- worse than
+the iPhone camera--
+
+00:33:08.170 --> 00:33:10.710 align:middle line:84%
+average iPhone consumer
+wants the camera to be.
+
+00:33:10.710 --> 00:33:14.980 align:middle line:84%
+But the second effect is because
+only wealthy people and graduate
+
+00:33:14.980 --> 00:33:20.230 align:middle line:84%
+students have iPhones, because
+relatively wealthy people have
+
+00:33:20.230 --> 00:33:23.140 align:middle line:84%
+iPhones, all these
+people are not actually
+
+00:33:23.140 --> 00:33:24.410 align:middle line:90%
+getting iPhones at all.
+
+00:33:24.410 --> 00:33:26.680 align:middle line:84%
+And so it could be
+that the average--
+
+00:33:26.680 --> 00:33:29.530 align:middle line:84%
+with a social planner, you'd
+have this many iPhones sold.
+
+00:33:29.530 --> 00:33:32.170 align:middle line:84%
+The average consumer would
+be somewhere down here.
+
+00:33:32.170 --> 00:33:34.040 align:middle line:84%
+And serving the
+average consumer,
+
+00:33:34.040 --> 00:33:37.480 align:middle line:84%
+the iPhone would be even
+worse than it is today.
+
+00:33:37.480 --> 00:33:40.750 align:middle line:84%
+It's because Apple is only
+serving the high of the theta
+
+00:33:40.750 --> 00:33:41.930 align:middle line:90%
+distribution.
+
+00:33:41.930 --> 00:33:44.230 align:middle line:84%
+Their marginal
+consumer is higher
+
+00:33:44.230 --> 00:33:47.020 align:middle line:84%
+than the marginal consumer would
+be if they were serving everyone
+
+00:33:47.020 --> 00:33:48.615 align:middle line:90%
+with a $300 iPhone.
+
+00:33:48.615 --> 00:33:53.010 align:middle line:90%
+
+
+00:33:53.010 --> 00:33:55.710 align:middle line:84%
+But one corollary
+of this analysis
+
+00:33:55.710 --> 00:33:59.940 align:middle line:84%
+is if you have a homogeneous
+population model, which people
+
+00:33:59.940 --> 00:34:02.580 align:middle line:84%
+often do not thinking about
+it just to simplify things,
+
+00:34:02.580 --> 00:34:04.650 align:middle line:84%
+you make all the
+consumers identical.
+
+00:34:04.650 --> 00:34:08.300 align:middle line:84%
+If all consumers are
+identical, two things happen.
+
+00:34:08.300 --> 00:34:11.219 align:middle line:84%
+One is the marginal consumer
+is the average consumer,
+
+00:34:11.219 --> 00:34:13.530 align:middle line:84%
+because marginal and
+average are the same when
+
+00:34:13.530 --> 00:34:15.449 align:middle line:90%
+all consumers are identical.
+
+00:34:15.449 --> 00:34:18.330 align:middle line:84%
+The second is, in a
+homogeneous population model,
+
+00:34:18.330 --> 00:34:20.590 align:middle line:84%
+you're always making an
+all or none sales decision.
+
+00:34:20.590 --> 00:34:22.920 align:middle line:84%
+If everyone is identical,
+you either sell to everyone
+
+00:34:22.920 --> 00:34:24.750 align:middle line:90%
+or you sell to no one.
+
+00:34:24.750 --> 00:34:27.510 align:middle line:84%
+And typically you
+sell to everyone
+
+00:34:27.510 --> 00:34:29.260 align:middle line:90%
+faced with those two choices.
+
+00:34:29.260 --> 00:34:32.130 align:middle line:84%
+So in a homogeneous
+population model,
+
+00:34:32.130 --> 00:34:34.270 align:middle line:84%
+there's a strong
+optimal quality theorem.
+
+00:34:34.270 --> 00:34:35.760 align:middle line:84%
+That is, if you
+analyze something
+
+00:34:35.760 --> 00:34:37.650 align:middle line:84%
+that's a homogeneous
+population model,
+
+00:34:37.650 --> 00:34:40.360 align:middle line:84%
+you assume the monopolist
+is maximizing its profits.
+
+00:34:40.360 --> 00:34:41.860 align:middle line:84%
+You're going to
+assume it's choosing
+
+00:34:41.860 --> 00:34:43.800 align:middle line:84%
+the socially optimal
+quality, because there's
+
+00:34:43.800 --> 00:34:45.820 align:middle line:84%
+no scope for those
+two to be different.
+
+00:34:45.820 --> 00:34:50.960 align:middle line:90%
+
+
+00:34:50.960 --> 00:34:53.129 align:middle line:90%
+Questions on that?
+
+00:34:53.129 --> 00:34:53.629 align:middle line:90%
+OK.
+
+00:34:53.629 --> 00:34:56.060 align:middle line:84%
+And this optimal
+quality reasoning, this
+
+00:34:56.060 --> 00:34:59.380 align:middle line:84%
+will come in a few different
+times later in the class.
+
+00:34:59.380 --> 00:35:03.730 align:middle line:90%
+
+
+00:35:03.730 --> 00:35:06.400 align:middle line:90%
+Durable goods.
+
+00:35:06.400 --> 00:35:10.570 align:middle line:84%
+So in many cases,
+people are selling
+
+00:35:10.570 --> 00:35:14.350 align:middle line:84%
+durable goods that provide
+services over many periods.
+
+00:35:14.350 --> 00:35:16.090 align:middle line:90%
+You're selling washing machines.
+
+00:35:16.090 --> 00:35:17.320 align:middle line:90%
+You're selling cars.
+
+00:35:17.320 --> 00:35:19.270 align:middle line:90%
+You're selling phones.
+
+00:35:19.270 --> 00:35:21.250 align:middle line:84%
+Consumers are buying
+it today, and they're
+
+00:35:21.250 --> 00:35:23.610 align:middle line:84%
+using that same product
+in multiple periods.
+
+00:35:23.610 --> 00:35:27.390 align:middle line:90%
+
+
+00:35:27.390 --> 00:35:29.520 align:middle line:84%
+One intuition you'll
+have sometimes
+
+00:35:29.520 --> 00:35:32.200 align:middle line:84%
+is that this is a
+potential advantage.
+
+00:35:32.200 --> 00:35:34.443 align:middle line:84%
+Firms can use this
+durable goods nature,
+
+00:35:34.443 --> 00:35:36.360 align:middle line:84%
+the fact that people buy
+it at different times
+
+00:35:36.360 --> 00:35:39.810 align:middle line:84%
+to move down the demand curve
+and sell the goods first
+
+00:35:39.810 --> 00:35:41.760 align:middle line:84%
+to the people who
+have high values.
+
+00:35:41.760 --> 00:35:45.260 align:middle line:84%
+You have whatever new
+Xbox is coming out.
+
+00:35:45.260 --> 00:35:47.760 align:middle line:84%
+There's some number of people
+who line up outside the store,
+
+00:35:47.760 --> 00:35:49.810 align:middle line:84%
+sleeping on the curb
+to buy the Xbox.
+
+00:35:49.810 --> 00:35:52.320 align:middle line:84%
+They do not get it at
+the best possible price.
+
+00:35:52.320 --> 00:35:54.010 align:middle line:90%
+They all pay full price.
+
+00:35:54.010 --> 00:35:58.170 align:middle line:84%
+And then 14 months later at
+Christmas, that same Xbox
+
+00:35:58.170 --> 00:35:59.620 align:middle line:90%
+is selling for much, much less.
+
+00:35:59.620 --> 00:36:01.920 align:middle line:84%
+And maybe what
+Microsoft has done
+
+00:36:01.920 --> 00:36:04.260 align:middle line:84%
+is they've walked down
+that demand curve,
+
+00:36:04.260 --> 00:36:06.090 align:middle line:84%
+first selling it to
+the high value people,
+
+00:36:06.090 --> 00:36:07.500 align:middle line:84%
+then waiting for the
+high value people to buy,
+
+00:36:07.500 --> 00:36:09.375 align:middle line:84%
+then selling to the next
+highest value people
+
+00:36:09.375 --> 00:36:12.240 align:middle line:84%
+and in some sense
+trying to discriminate
+
+00:36:12.240 --> 00:36:14.640 align:middle line:84%
+between people based on when
+they want to buy the good.
+
+00:36:14.640 --> 00:36:19.350 align:middle line:90%
+
+
+00:36:19.350 --> 00:36:23.850 align:middle line:84%
+While somewhat appealing
+when you first hear the idea,
+
+00:36:23.850 --> 00:36:27.450 align:middle line:84%
+if you think about rational,
+forward looking consumers,
+
+00:36:27.450 --> 00:36:30.870 align:middle line:84%
+a durable goods monopolist
+is competing with itself.
+
+00:36:30.870 --> 00:36:33.940 align:middle line:84%
+And you're competing
+with your future self.
+
+00:36:33.940 --> 00:36:37.230 align:middle line:84%
+And if consumers think
+your future self is
+
+00:36:37.230 --> 00:36:40.518 align:middle line:84%
+going to lower the
+prices of the Xbox,
+
+00:36:40.518 --> 00:36:42.810 align:middle line:84%
+they're going to be hesitant
+to buy it on the first day
+
+00:36:42.810 --> 00:36:43.950 align:middle line:84%
+that it comes out,
+because they're
+
+00:36:43.950 --> 00:36:45.867 align:middle line:84%
+going to think, why
+don't I just wait a month
+
+00:36:45.867 --> 00:36:47.200 align:middle line:90%
+and get it when the price drops?
+
+00:36:47.200 --> 00:36:49.867 align:middle line:84%
+Or why don't I wait three months
+and get it when the price drops
+
+00:36:49.867 --> 00:36:50.400 align:middle line:90%
+or whatever?
+
+00:36:50.400 --> 00:36:51.997 align:middle line:84%
+And then the consumers
+who might have
+
+00:36:51.997 --> 00:36:54.330 align:middle line:84%
+bought it six months out are
+going to think, why don't I
+
+00:36:54.330 --> 00:36:57.145 align:middle line:84%
+wait till Christmas or
+whatever, where it's
+
+00:36:57.145 --> 00:36:58.270 align:middle line:90%
+the day after Thanksgiving.
+
+00:36:58.270 --> 00:37:00.450 align:middle line:84%
+I can get that thing
+at half price 7 months,
+
+00:37:00.450 --> 00:37:02.375 align:middle line:84%
+14 months after it
+comes out or whatever.
+
+00:37:02.375 --> 00:37:05.470 align:middle line:90%
+
+
+00:37:05.470 --> 00:37:08.740 align:middle line:84%
+So first thing I want to
+do is just think about
+
+00:37:08.740 --> 00:37:12.610 align:middle line:84%
+let's suppose you do have this
+model with commitment power
+
+00:37:12.610 --> 00:37:14.420 align:middle line:84%
+and with the forward
+looking consumers.
+
+00:37:14.420 --> 00:37:16.420 align:middle line:90%
+What would you do?
+
+00:37:16.420 --> 00:37:20.320 align:middle line:84%
+So simplest model
+of commitment power.
+
+00:37:20.320 --> 00:37:22.850 align:middle line:90%
+I'm often going to do this--
+
+00:37:22.850 --> 00:37:25.660 align:middle line:84%
+I know in some subjects,
+especially macro these days,
+
+00:37:25.660 --> 00:37:28.570 align:middle line:84%
+everything has to be an infinite
+horizon dynamic programming
+
+00:37:28.570 --> 00:37:30.370 align:middle line:90%
+model.
+
+00:37:30.370 --> 00:37:32.740 align:middle line:84%
+There's certainly plenty
+of infinite horizon dynamic
+
+00:37:32.740 --> 00:37:34.120 align:middle line:90%
+programming models in IO.
+
+00:37:34.120 --> 00:37:36.608 align:middle line:84%
+Often, though, in
+class, I'm just
+
+00:37:36.608 --> 00:37:38.650 align:middle line:84%
+going to use two period
+versions, because I think
+
+00:37:38.650 --> 00:37:41.358 align:middle line:84%
+the two period versions give you
+a lot of the intuition with much
+
+00:37:41.358 --> 00:37:43.820 align:middle line:84%
+less complication than the
+Bellman equations would.
+
+00:37:43.820 --> 00:37:45.730 align:middle line:84%
+So my simple model
+of commitment power.
+
+00:37:45.730 --> 00:37:46.900 align:middle line:90%
+There are just two periods.
+
+00:37:46.900 --> 00:37:49.740 align:middle line:84%
+Consumers can buy the good at
+either t equals 1 or t equals 2.
+
+00:37:49.740 --> 00:37:50.690 align:middle line:90%
+So think about it.
+
+00:37:50.690 --> 00:37:52.400 align:middle line:84%
+There's t equals 1,
+there's t equals 2,
+
+00:37:52.400 --> 00:37:55.870 align:middle line:84%
+then the world ends and
+everything goes away.
+
+00:37:55.870 --> 00:37:59.080 align:middle line:90%
+Good is perfectly durable.
+
+00:37:59.080 --> 00:38:02.860 align:middle line:84%
+Consumers, again, are going to
+have types theta distributed
+
+00:38:02.860 --> 00:38:04.010 align:middle line:90%
+on 0, 1.
+
+00:38:04.010 --> 00:38:06.467 align:middle line:84%
+Here I'm going to make
+theta the actual value.
+
+00:38:06.467 --> 00:38:09.050 align:middle line:84%
+So then I'm going to want theta
+to have a distribution capital
+
+00:38:09.050 --> 00:38:10.940 align:middle line:90%
+f of theta.
+
+00:38:10.940 --> 00:38:14.780 align:middle line:84%
+And so the consumer's utility
+is going to be 2 theta minus p
+
+00:38:14.780 --> 00:38:17.360 align:middle line:84%
+if they buy it at
+t equals 1, theta
+
+00:38:17.360 --> 00:38:19.190 align:middle line:84%
+minus p, if they buy
+it at t equals 2,
+
+00:38:19.190 --> 00:38:20.790 align:middle line:90%
+and 0 if they don't buy.
+
+00:38:20.790 --> 00:38:23.030 align:middle line:84%
+So the reasoning is
+like a type theta
+
+00:38:23.030 --> 00:38:27.140 align:middle line:84%
+consumer gets utility theta
+every period they have the good.
+
+00:38:27.140 --> 00:38:28.740 align:middle line:84%
+And so they buy
+it at t equals 1.
+
+00:38:28.740 --> 00:38:31.065 align:middle line:84%
+They get to enjoy the
+Xbox in two periods.
+
+00:38:31.065 --> 00:38:32.690 align:middle line:84%
+If they buy it at t
+equals 2, they only
+
+00:38:32.690 --> 00:38:34.015 align:middle line:90%
+get to enjoy it for one period.
+
+00:38:34.015 --> 00:38:36.698 align:middle line:90%
+
+
+00:38:36.698 --> 00:38:38.990 align:middle line:84%
+I'm going to have a constant
+marginal cost of producing
+
+00:38:38.990 --> 00:38:40.850 align:middle line:84%
+the good, and I'm
+going to assume
+
+00:38:40.850 --> 00:38:42.710 align:middle line:84%
+the monopolist has
+commitment power
+
+00:38:42.710 --> 00:38:44.530 align:middle line:84%
+and can set the
+price as p1 and p2
+
+00:38:44.530 --> 00:38:46.405 align:middle line:84%
+that it's going to charge
+in the two periods.
+
+00:38:46.405 --> 00:38:49.550 align:middle line:90%
+
+
+00:38:49.550 --> 00:38:51.590 align:middle line:84%
+Basic observation
+in this model is
+
+00:38:51.590 --> 00:38:54.980 align:middle line:84%
+that in this model,
+as I've written it,
+
+00:38:54.980 --> 00:38:57.120 align:middle line:84%
+you don't want to walk
+down the demand curve.
+
+00:38:57.120 --> 00:39:00.380 align:middle line:84%
+In this model, what
+you want to do is sell
+
+00:39:00.380 --> 00:39:01.970 align:middle line:84%
+the good at the
+monopoly price at t
+
+00:39:01.970 --> 00:39:05.500 align:middle line:84%
+equals 1 and commit to make
+no sales at all at t equals 2.
+
+00:39:05.500 --> 00:39:09.470 align:middle line:90%
+
+
+00:39:09.470 --> 00:39:12.020 align:middle line:84%
+So in this model,
+and obviously there
+
+00:39:12.020 --> 00:39:13.370 align:middle line:90%
+are some firms that fit this.
+
+00:39:13.370 --> 00:39:15.560 align:middle line:84%
+If you look at Apple's
+iPhone pricing,
+
+00:39:15.560 --> 00:39:18.710 align:middle line:84%
+it seems like that iPhone
+comes out and it's $999
+
+00:39:18.710 --> 00:39:21.260 align:middle line:84%
+and everyone knows that
+the iPhone 14 is coming out
+
+00:39:21.260 --> 00:39:24.290 align:middle line:84%
+literally next week and
+the iPhone 13 price still
+
+00:39:24.290 --> 00:39:25.820 align:middle line:90%
+has not dropped.
+
+00:39:25.820 --> 00:39:28.610 align:middle line:84%
+They've set it at the
+monopoly price for iPhone 13s
+
+00:39:28.610 --> 00:39:32.240 align:middle line:84%
+and they're going to keep it
+there and never sell another one
+
+00:39:32.240 --> 00:39:33.550 align:middle line:90%
+until the 14 comes out.
+
+00:39:33.550 --> 00:39:37.560 align:middle line:90%
+
+
+00:39:37.560 --> 00:39:39.040 align:middle line:90%
+Why does this happen?
+
+00:39:39.040 --> 00:39:42.970 align:middle line:84%
+Well, I'm going to
+think of my theta line.
+
+00:39:42.970 --> 00:39:47.147 align:middle line:84%
+So suppose we've
+got our consumers.
+
+00:39:47.147 --> 00:39:48.230 align:middle line:90%
+They're arranged by theta.
+
+00:39:48.230 --> 00:39:53.860 align:middle line:90%
+
+
+00:39:53.860 --> 00:39:56.350 align:middle line:84%
+What's going to
+happen in equilibrium?
+
+00:39:56.350 --> 00:39:59.290 align:middle line:84%
+If I have some
+policy that involves
+
+00:39:59.290 --> 00:40:02.980 align:middle line:84%
+selling the goods
+in both periods,
+
+00:40:02.980 --> 00:40:05.950 align:middle line:84%
+I'm going to have some
+high types who buy at t
+
+00:40:05.950 --> 00:40:14.140 align:middle line:84%
+equals 1, some intermediate
+types who buy at t equals 2,
+
+00:40:14.140 --> 00:40:17.055 align:middle line:84%
+and some lower
+types who don't buy.
+
+00:40:17.055 --> 00:40:19.710 align:middle line:90%
+
+
+00:40:19.710 --> 00:40:21.510 align:middle line:84%
+Why is that what's
+going to happen?
+
+00:40:21.510 --> 00:40:23.760 align:middle line:84%
+Again, it's a revealed
+preference argument.
+
+00:40:23.760 --> 00:40:26.640 align:middle line:84%
+If this person is willing to
+buy the phone at t equals 2,
+
+00:40:26.640 --> 00:40:28.390 align:middle line:90%
+this person gets a higher value.
+
+00:40:28.390 --> 00:40:30.280 align:middle line:84%
+They strictly prefer
+buying it at t equals 2.
+
+00:40:30.280 --> 00:40:34.090 align:middle line:84%
+So if anyone is buying it,
+everyone higher is buying it.
+
+00:40:34.090 --> 00:40:36.660 align:middle line:84%
+So the people buying it
+have to be above everyone
+
+00:40:36.660 --> 00:40:38.370 align:middle line:90%
+who never buys it.
+
+00:40:38.370 --> 00:40:42.060 align:middle line:90%
+And then buying at t equals 1.
+
+00:40:42.060 --> 00:40:44.190 align:middle line:84%
+If you buy at t equals 1,
+you may pay a high price
+
+00:40:44.190 --> 00:40:46.140 align:middle line:84%
+for getting the Xbox
+on the first day
+
+00:40:46.140 --> 00:40:49.180 align:middle line:84%
+or you can wait and get
+it later at a lower price.
+
+00:40:49.180 --> 00:40:52.230 align:middle line:84%
+Again, if you prefer
+buying it at t equals 1,
+
+00:40:52.230 --> 00:40:54.630 align:middle line:84%
+then anyone who's
+strictly higher value
+
+00:40:54.630 --> 00:40:57.087 align:middle line:84%
+strictly prefers getting
+a t equals 1 relative to t
+
+00:40:57.087 --> 00:40:59.670 align:middle line:84%
+equals 2 because they're getting
+the extra period of enjoyment
+
+00:40:59.670 --> 00:41:00.520 align:middle line:90%
+of the good.
+
+00:41:00.520 --> 00:41:04.991 align:middle line:84%
+That extra period of enjoyment
+is increasing in theta.
+
+00:41:04.991 --> 00:41:08.240 align:middle line:90%
+So if I do want--
+
+00:41:08.240 --> 00:41:11.540 align:middle line:84%
+often in IO, it often makes
+sense to think about the choices
+
+00:41:11.540 --> 00:41:14.900 align:middle line:84%
+not in price space,
+but in this data space.
+
+00:41:14.900 --> 00:41:18.510 align:middle line:84%
+So if I want to implement
+this policy, how do I do it?
+
+00:41:18.510 --> 00:41:22.340 align:middle line:84%
+Well, for this to be the cut
+off between people who buy at t
+
+00:41:22.340 --> 00:41:25.310 align:middle line:84%
+equals 2 and don't
+buy, obviously you're
+
+00:41:25.310 --> 00:41:29.535 align:middle line:84%
+going to have to have
+p2 equals theta 2 hat.
+
+00:41:29.535 --> 00:41:31.160 align:middle line:84%
+In the second period,
+you're selling it
+
+00:41:31.160 --> 00:41:32.750 align:middle line:90%
+at a price of theta 2 hat.
+
+00:41:32.750 --> 00:41:35.900 align:middle line:84%
+So the people who have utility
+values above theta 2 hat
+
+00:41:35.900 --> 00:41:37.010 align:middle line:90%
+buy at the second period.
+
+00:41:37.010 --> 00:41:41.250 align:middle line:84%
+The people who don't--
+utilities below that don't buy.
+
+00:41:41.250 --> 00:41:43.140 align:middle line:90%
+What about in the first period?
+
+00:41:43.140 --> 00:41:45.780 align:middle line:84%
+In the first period,
+you can't sell
+
+00:41:45.780 --> 00:41:48.090 align:middle line:84%
+to this guy at a
+price of 2 theta
+
+00:41:48.090 --> 00:41:51.270 align:middle line:84%
+1 hat, because he'd be
+getting 0 utility buying
+
+00:41:51.270 --> 00:41:53.080 align:middle line:90%
+at a price of 2 theta 1 hat.
+
+00:41:53.080 --> 00:41:54.900 align:middle line:84%
+He would just wait
+until the second period
+
+00:41:54.900 --> 00:41:57.180 align:middle line:84%
+and buy it at this low price
+and get positive utility
+
+00:41:57.180 --> 00:41:59.250 align:middle line:90%
+by buying in the second period.
+
+00:41:59.250 --> 00:42:01.440 align:middle line:84%
+So what you can do,
+the best you can do
+
+00:42:01.440 --> 00:42:05.730 align:middle line:84%
+is to chart, set a price so that
+the utility he gets from buying
+
+00:42:05.730 --> 00:42:08.195 align:middle line:84%
+in the first period
+exactly matches
+
+00:42:08.195 --> 00:42:10.320 align:middle line:84%
+the utility he could get
+from waiting and buying it
+
+00:42:10.320 --> 00:42:11.680 align:middle line:90%
+in the second period.
+
+00:42:11.680 --> 00:42:13.650 align:middle line:84%
+And so what it
+tells you is that p1
+
+00:42:13.650 --> 00:42:17.460 align:middle line:84%
+is going to be theta
+1 hat bigger than p2.
+
+00:42:17.460 --> 00:42:21.660 align:middle line:84%
+So p1 is going to be
+theta 1 hat plus theta 2
+
+00:42:21.660 --> 00:42:23.400 align:middle line:90%
+hat, which would make sense.
+
+00:42:23.400 --> 00:42:25.020 align:middle line:84%
+He's getting the
+one extra utility
+
+00:42:25.020 --> 00:42:28.980 align:middle line:90%
+of a period of enjoyment.
+
+00:42:28.980 --> 00:42:32.730 align:middle line:84%
+So you'd think about what's his
+incremental benefit from buying
+
+00:42:32.730 --> 00:42:33.970 align:middle line:90%
+it early versus late?
+
+00:42:33.970 --> 00:42:36.070 align:middle line:84%
+It's theta 1 hat is his
+incremental utility.
+
+00:42:36.070 --> 00:42:39.535 align:middle line:90%
+That's what you're charging him.
+
+00:42:39.535 --> 00:42:43.720 align:middle line:84%
+So monopolist problem
+looks like this.
+
+00:42:43.720 --> 00:42:47.350 align:middle line:84%
+Maximize over theta 1
+constrained by theta 1 hat
+
+00:42:47.350 --> 00:42:49.180 align:middle line:90%
+at least theta 2 hat.
+
+00:42:49.180 --> 00:42:54.940 align:middle line:84%
+The price minus cost at t
+equals 1 times the number
+
+00:42:54.940 --> 00:42:56.770 align:middle line:84%
+of units you sell
+at t equals 1, which
+
+00:42:56.770 --> 00:42:59.320 align:middle line:84%
+is 1 minus capital
+f of theta 1 hat,
+
+00:42:59.320 --> 00:43:04.450 align:middle line:84%
+plus profits you get
+from second period sales
+
+00:43:04.450 --> 00:43:08.608 align:middle line:84%
+times the mass of people who buy
+the good in the second period,
+
+00:43:08.608 --> 00:43:10.150 align:middle line:84%
+which, again, is
+the number of people
+
+00:43:10.150 --> 00:43:13.450 align:middle line:84%
+with types between theta
+2 hat and theta 1 hat.
+
+00:43:13.450 --> 00:43:16.480 align:middle line:84%
+So that's what my profit
+function looks like.
+
+00:43:16.480 --> 00:43:19.360 align:middle line:84%
+Notice that I've got
+two different terms that
+
+00:43:19.360 --> 00:43:21.220 align:middle line:90%
+involve theta 2 hat minus c.
+
+00:43:21.220 --> 00:43:23.520 align:middle line:90%
+It's here and it's here.
+
+00:43:23.520 --> 00:43:27.700 align:middle line:84%
+So if I group those together,
+it becomes my-- my profit
+
+00:43:27.700 --> 00:43:31.030 align:middle line:84%
+function looks like theta 1
+hat times 1 minus f of theta 1
+
+00:43:31.030 --> 00:43:38.410 align:middle line:84%
+hat plus theta 2 hat minus
+c times this plus this.
+
+00:43:38.410 --> 00:43:41.480 align:middle line:90%
+And then these things cancel.
+
+00:43:41.480 --> 00:43:44.660 align:middle line:84%
+And so my profit function
+is theta 1 hat times
+
+00:43:44.660 --> 00:43:49.520 align:middle line:84%
+1 minus f of theta 1 hat plus
+theta 2 hat minus c times 1
+
+00:43:49.520 --> 00:43:52.510 align:middle line:90%
+minus f of theta 2 hat.
+
+00:43:52.510 --> 00:43:53.775 align:middle line:90%
+That's my profit function.
+
+00:43:53.775 --> 00:44:00.660 align:middle line:90%
+
+
+00:44:00.660 --> 00:44:04.890 align:middle line:84%
+Let's assume that the
+constraint was not binding.
+
+00:44:04.890 --> 00:44:07.110 align:middle line:84%
+So if the constraint
+is not binding,
+
+00:44:07.110 --> 00:44:09.022 align:middle line:84%
+I actually want to walk
+down my demand curve
+
+00:44:09.022 --> 00:44:10.980 align:middle line:84%
+and set a high price and
+then set a lower price
+
+00:44:10.980 --> 00:44:14.010 align:middle line:90%
+in the second period.
+
+00:44:14.010 --> 00:44:17.820 align:middle line:84%
+This is just to separate
+maximization problems.
+
+00:44:17.820 --> 00:44:21.730 align:middle line:84%
+I maximize this with
+respect to theta 1 hat.
+
+00:44:21.730 --> 00:44:24.485 align:middle line:84%
+I maximize this with
+respect to theta 2 hat.
+
+00:44:24.485 --> 00:44:28.440 align:middle line:90%
+
+
+00:44:28.440 --> 00:44:31.380 align:middle line:84%
+Well, now let me go back to
+[14.]121 for those of you who
+
+00:44:31.380 --> 00:44:32.580 align:middle line:90%
+have taken it.
+
+00:44:32.580 --> 00:44:35.340 align:middle line:84%
+[14.]121 last year, [? Parad ?]
+did a lot of this functions with
+
+00:44:35.340 --> 00:44:38.100 align:middle line:90%
+increasing differences stuff.
+
+00:44:38.100 --> 00:44:41.160 align:middle line:84%
+If you look at this
+function theta minus c,
+
+00:44:41.160 --> 00:44:44.500 align:middle line:84%
+1 minus f of theta, this is like
+the monopoly profit function.
+
+00:44:44.500 --> 00:44:49.080 align:middle line:84%
+This thing has increasing
+differences in c and theta,
+
+00:44:49.080 --> 00:44:52.420 align:middle line:84%
+which means that this is
+a very general theorem.
+
+00:44:52.420 --> 00:44:54.990 align:middle line:84%
+When a monopolist
+marginal cost is higher,
+
+00:44:54.990 --> 00:44:56.135 align:middle line:90%
+it sets a higher price.
+
+00:44:56.135 --> 00:44:58.660 align:middle line:90%
+
+
+00:44:58.660 --> 00:45:01.540 align:middle line:84%
+This is basically the
+monopoly pricing problem
+
+00:45:01.540 --> 00:45:03.340 align:middle line:90%
+with a cost of 0.
+
+00:45:03.340 --> 00:45:07.220 align:middle line:84%
+This is a monopoly pricing
+problem with a cost of c.
+
+00:45:07.220 --> 00:45:09.920 align:middle line:84%
+So the maximizer
+of this is larger
+
+00:45:09.920 --> 00:45:12.640 align:middle line:90%
+than the maximizer of this.
+
+00:45:12.640 --> 00:45:14.860 align:middle line:84%
+So if I ignore the
+constraint, this
+
+00:45:14.860 --> 00:45:17.080 align:middle line:84%
+is the monopoly price
+when your cost is c.
+
+00:45:17.080 --> 00:45:19.360 align:middle line:84%
+This is the monopoly
+price when your cost is 0.
+
+00:45:19.360 --> 00:45:21.490 align:middle line:84%
+This tells you that theta
+2 hat would be bigger
+
+00:45:21.490 --> 00:45:23.020 align:middle line:90%
+than theta 1 hat.
+
+00:45:23.020 --> 00:45:25.810 align:middle line:84%
+So if I assume this
+constraint is non-binding,
+
+00:45:25.810 --> 00:45:29.740 align:middle line:84%
+I get the contradiction that if
+that constraint is not binding,
+
+00:45:29.740 --> 00:45:32.950 align:middle line:84%
+I find that theta 2 hat is
+strictly greater than theta
+
+00:45:32.950 --> 00:45:34.930 align:middle line:84%
+1 hat, and that
+contradicts the assumption
+
+00:45:34.930 --> 00:45:37.570 align:middle line:84%
+that the constraint
+is not binding.
+
+00:45:37.570 --> 00:45:38.330 align:middle line:90%
+Why is this?
+
+00:45:38.330 --> 00:45:42.460 align:middle line:84%
+In some sense, what's
+going on here is--
+
+00:45:42.460 --> 00:45:44.590 align:middle line:84%
+almost imagine with
+this durable good,
+
+00:45:44.590 --> 00:45:47.110 align:middle line:84%
+instead of selling those
+Xboxes in the first period,
+
+00:45:47.110 --> 00:45:48.045 align:middle line:90%
+I rent them to people.
+
+00:45:48.045 --> 00:45:49.670 align:middle line:84%
+I get all those people
+waiting in line.
+
+00:45:49.670 --> 00:45:52.030 align:middle line:84%
+I give them a one period
+rental on the Xbox,
+
+00:45:52.030 --> 00:45:53.845 align:middle line:84%
+and then I take them
+all back and then
+
+00:45:53.845 --> 00:45:55.470 align:middle line:84%
+I rent them again in
+the second period.
+
+00:45:55.470 --> 00:45:59.134 align:middle line:90%
+
+
+00:45:59.134 --> 00:46:01.830 align:middle line:84%
+Anyone that I'm selling
+it to in the first--
+
+00:46:01.830 --> 00:46:03.930 align:middle line:84%
+all these people who get
+it in the first period,
+
+00:46:03.930 --> 00:46:05.850 align:middle line:84%
+they're going to
+rent it back from me
+
+00:46:05.850 --> 00:46:08.530 align:middle line:84%
+in the second period at
+a price of theta 2 hat.
+
+00:46:08.530 --> 00:46:11.280 align:middle line:90%
+
+
+00:46:11.280 --> 00:46:14.340 align:middle line:84%
+When I'm selling extra
+units in the first period,
+
+00:46:14.340 --> 00:46:16.770 align:middle line:84%
+any extra units I sell
+in the first period
+
+00:46:16.770 --> 00:46:19.770 align:middle line:84%
+were units that I was going
+to sell in the second period
+
+00:46:19.770 --> 00:46:20.890 align:middle line:90%
+anyway.
+
+00:46:20.890 --> 00:46:24.995 align:middle line:84%
+So the cost of selling
+them one period early is 0.
+
+00:46:24.995 --> 00:46:27.920 align:middle line:84%
+I'm already producing them
+to sell in the second period.
+
+00:46:27.920 --> 00:46:31.530 align:middle line:84%
+So given that I'm producing them
+to sell in the second period,
+
+00:46:31.530 --> 00:46:34.410 align:middle line:84%
+there's 0 cost to me of selling
+them in the first period
+
+00:46:34.410 --> 00:46:36.150 align:middle line:90%
+instead.
+
+00:46:36.150 --> 00:46:39.060 align:middle line:84%
+So it's as if those units
+I'm going to sell anyway
+
+00:46:39.060 --> 00:46:42.660 align:middle line:84%
+have a marginal cost of 0
+instead of a marginal cost of c.
+
+00:46:42.660 --> 00:46:45.420 align:middle line:84%
+And so because I'm going to
+produce them and sell them
+
+00:46:45.420 --> 00:46:47.230 align:middle line:90%
+anyway, they have no cost.
+
+00:46:47.230 --> 00:46:50.610 align:middle line:84%
+So that makes me even more want
+to sell them rather than less
+
+00:46:50.610 --> 00:46:51.370 align:middle line:90%
+want to sell them.
+
+00:46:51.370 --> 00:46:54.920 align:middle line:90%
+So this doesn't make any sense.
+
+00:46:54.920 --> 00:46:57.860 align:middle line:84%
+So this would say is
+that monopolist selling
+
+00:46:57.860 --> 00:47:02.213 align:middle line:84%
+durable goods, this whole
+idea, it's a strictly bad idea
+
+00:47:02.213 --> 00:47:04.130 align:middle line:84%
+to walk down your demand
+curve, because you're
+
+00:47:04.130 --> 00:47:07.110 align:middle line:84%
+taking these goods that you're
+going to produce anyway.
+
+00:47:07.110 --> 00:47:09.440 align:middle line:84%
+They really have no cost
+to selling to people early,
+
+00:47:09.440 --> 00:47:12.510 align:middle line:84%
+and you're losing those
+people's enjoyment.
+
+00:47:12.510 --> 00:47:14.390 align:middle line:90%
+It doesn't make any sense.
+
+00:47:14.390 --> 00:47:16.388 align:middle line:84%
+These ones, you have to
+be hesitant to produce
+
+00:47:16.388 --> 00:47:17.430 align:middle line:90%
+because they have a cost.
+
+00:47:17.430 --> 00:47:20.480 align:middle line:84%
+These ones have no
+cost of production.
+
+00:47:20.480 --> 00:47:25.940 align:middle line:84%
+So in some sense, someone
+at Apple saw this lecture,
+
+00:47:25.940 --> 00:47:27.990 align:middle line:84%
+they realized this
+is what you do.
+
+00:47:27.990 --> 00:47:30.050 align:middle line:84%
+You do not bring
+out the new iPhone
+
+00:47:30.050 --> 00:47:31.790 align:middle line:84%
+and then make its
+price go down and let
+
+00:47:31.790 --> 00:47:33.660 align:middle line:90%
+people wait for the price cut.
+
+00:47:33.660 --> 00:47:34.860 align:middle line:90%
+You just bring it out.
+
+00:47:34.860 --> 00:47:36.420 align:middle line:90%
+You fix the price forever.
+
+00:47:36.420 --> 00:47:38.360 align:middle line:84%
+And that's the optimal
+monopoly pricing
+
+00:47:38.360 --> 00:47:39.520 align:middle line:90%
+policy with durable goods.
+
+00:47:39.520 --> 00:47:49.758 align:middle line:90%
+
+
+00:47:49.758 --> 00:47:51.050 align:middle line:90%
+Simple numerical example there.
+
+00:47:51.050 --> 00:47:52.175 align:middle line:90%
+I don't need to go over it.
+
+00:47:52.175 --> 00:47:56.580 align:middle line:84%
+So where would price drops
+come from in real life?
+
+00:47:56.580 --> 00:47:59.088 align:middle line:90%
+
+
+00:47:59.088 --> 00:48:00.880 align:middle line:84%
+Obviously we need to
+do something different
+
+00:48:00.880 --> 00:48:05.170 align:middle line:84%
+from this model to get prices
+of new goods to come out.
+
+00:48:05.170 --> 00:48:06.610 align:middle line:84%
+I think we do
+often have the view
+
+00:48:06.610 --> 00:48:08.207 align:middle line:90%
+that there are many new things.
+
+00:48:08.207 --> 00:48:09.290 align:middle line:90%
+The new product comes out.
+
+00:48:09.290 --> 00:48:10.240 align:middle line:90%
+It's got a really high price.
+
+00:48:10.240 --> 00:48:13.070 align:middle line:84%
+And then if you wait for it, the
+price will decline over time.
+
+00:48:13.070 --> 00:48:14.790 align:middle line:90%
+Why does that happen?
+
+00:48:14.790 --> 00:48:17.410 align:middle line:90%
+
+
+00:48:17.410 --> 00:48:20.800 align:middle line:84%
+One thing you can get is
+different preferences.
+
+00:48:20.800 --> 00:48:22.660 align:middle line:84%
+Suppose the people
+get utility not
+
+00:48:22.660 --> 00:48:24.400 align:middle line:84%
+from enjoying the
+good, for instance,
+
+00:48:24.400 --> 00:48:28.120 align:middle line:84%
+but from having the Xbox
+before any of their friends do.
+
+00:48:28.120 --> 00:48:30.227 align:middle line:84%
+I'm the one guy who
+has the brand new Xbox.
+
+00:48:30.227 --> 00:48:32.060 align:middle line:84%
+Everyone has to come
+to my house to play it.
+
+00:48:32.060 --> 00:48:34.870 align:middle line:84%
+I somehow get status
+in my friend group
+
+00:48:34.870 --> 00:48:38.860 align:middle line:84%
+out of being the guy
+with the new Xbox.
+
+00:48:38.860 --> 00:48:41.290 align:middle line:90%
+Fashion clothing.
+
+00:48:41.290 --> 00:48:42.070 align:middle line:90%
+Clothes come out.
+
+00:48:42.070 --> 00:48:43.810 align:middle line:90%
+Fashion designers introduce it.
+
+00:48:43.810 --> 00:48:45.890 align:middle line:84%
+Someone has a copy some
+number of months later.
+
+00:48:45.890 --> 00:48:51.200 align:middle line:84%
+But the people who wear the
+$3,000 dresses get utility from
+
+00:48:51.200 --> 00:48:53.960 align:middle line:84%
+knowing that they have the
+genuine $3,000 dress that no one
+
+00:48:53.960 --> 00:48:57.180 align:middle line:84%
+else has because it's just
+the new good that comes out.
+
+00:48:57.180 --> 00:49:00.410 align:middle line:84%
+So if you give people
+preferences for owning goods
+
+00:49:00.410 --> 00:49:03.050 align:middle line:84%
+that other people
+don't have, then it
+
+00:49:03.050 --> 00:49:05.630 align:middle line:84%
+can make total sense to
+have some set of people--
+
+00:49:05.630 --> 00:49:08.360 align:middle line:84%
+in some sense, almost
+that's going back
+
+00:49:08.360 --> 00:49:10.250 align:middle line:90%
+to an optimal quality theorem.
+
+00:49:10.250 --> 00:49:11.720 align:middle line:84%
+If there are people out there
+who have a high willingness
+
+00:49:11.720 --> 00:49:13.760 align:middle line:84%
+to pay for things that
+other people don't have,
+
+00:49:13.760 --> 00:49:15.380 align:middle line:84%
+you create a high
+quality product,
+
+00:49:15.380 --> 00:49:17.880 align:middle line:84%
+which is a product that other
+people don't have, and sell it
+
+00:49:17.880 --> 00:49:18.740 align:middle line:90%
+to them.
+
+00:49:18.740 --> 00:49:20.450 align:middle line:84%
+And then maybe
+once you've sold it
+
+00:49:20.450 --> 00:49:22.520 align:middle line:84%
+to people who have
+those preferences,
+
+00:49:22.520 --> 00:49:24.980 align:middle line:84%
+then you can sell it to
+the other people later.
+
+00:49:24.980 --> 00:49:29.900 align:middle line:84%
+So that would be one way
+you can get early adopters.
+
+00:49:29.900 --> 00:49:32.780 align:middle line:84%
+I think another thing that often
+comes up in the tech sector
+
+00:49:32.780 --> 00:49:38.120 align:middle line:84%
+is just costs that are changing
+over time or costs that
+
+00:49:38.120 --> 00:49:40.940 align:middle line:84%
+are changing over time because
+of technological improvements,
+
+00:49:40.940 --> 00:49:43.280 align:middle line:84%
+because of learning by
+doing, because of capacity
+
+00:49:43.280 --> 00:49:45.080 align:middle line:90%
+constraints at the factories.
+
+00:49:45.080 --> 00:49:48.420 align:middle line:84%
+Early on, it's very
+costly to produce goods.
+
+00:49:48.420 --> 00:49:49.230 align:middle line:90%
+The costs are high.
+
+00:49:49.230 --> 00:49:50.930 align:middle line:90%
+Therefore, you set a high price.
+
+00:49:50.930 --> 00:49:54.598 align:middle line:84%
+As the technology
+level changes, it
+
+00:49:54.598 --> 00:49:56.640 align:middle line:84%
+becomes cheaper and cheaper
+to produce that good.
+
+00:49:56.640 --> 00:49:59.060 align:middle line:90%
+You get better at producing it.
+
+00:49:59.060 --> 00:50:00.530 align:middle line:90%
+Your costs go down.
+
+00:50:00.530 --> 00:50:05.710 align:middle line:90%
+You drop your price as a result.
+
+00:50:05.710 --> 00:50:12.100 align:middle line:84%
+Third explanation is firms
+may have a commitment problem.
+
+00:50:12.100 --> 00:50:18.250 align:middle line:84%
+That is, if you think about how
+is this pricing supposed to go.
+
+00:50:18.250 --> 00:50:21.110 align:middle line:90%
+I bring out my new phone.
+
+00:50:21.110 --> 00:50:24.478 align:middle line:90%
+I price it at $1,000.
+
+00:50:24.478 --> 00:50:26.770 align:middle line:84%
+Everyone who wants that new
+phone comes out and buys it
+
+00:50:26.770 --> 00:50:27.910 align:middle line:90%
+at $1,000.
+
+00:50:27.910 --> 00:50:30.100 align:middle line:84%
+And then I'm supposed to
+sell, in this example,
+
+00:50:30.100 --> 00:50:34.660 align:middle line:84%
+without phones that break, I
+sell none for the next two years
+
+00:50:34.660 --> 00:50:36.800 align:middle line:84%
+or whatever until my
+new product comes out.
+
+00:50:36.800 --> 00:50:38.630 align:middle line:84%
+So I sell a whole
+bunch of phones.
+
+00:50:38.630 --> 00:50:40.160 align:middle line:90%
+I keep the price high.
+
+00:50:40.160 --> 00:50:41.540 align:middle line:84%
+Everyone bought
+it at t equals 1.
+
+00:50:41.540 --> 00:50:43.323 align:middle line:90%
+No one buys it at t equals 2.
+
+00:50:43.323 --> 00:50:45.490 align:middle line:84%
+If you imagine the firm
+sitting there at t equals 2,
+
+00:50:45.490 --> 00:50:47.740 align:middle line:84%
+they must be thinking
+once everyone has already
+
+00:50:47.740 --> 00:50:52.060 align:middle line:84%
+bought the product, if this
+was not like any repeated game,
+
+00:50:52.060 --> 00:50:55.400 align:middle line:84%
+imagine this was the last iPhone
+that was ever going to exist.
+
+00:50:55.400 --> 00:50:57.080 align:middle line:90%
+Why keep selling 0?
+
+00:50:57.080 --> 00:51:00.895 align:middle line:84%
+Why not take all those
+people who have low values?
+
+00:51:00.895 --> 00:51:02.770 align:middle line:84%
+The other people are
+going to be disappointed
+
+00:51:02.770 --> 00:51:04.540 align:middle line:84%
+when you cut the price and
+wish they had bought it later,
+
+00:51:04.540 --> 00:51:06.860 align:middle line:84%
+but it's too late for them
+to actually buy it later.
+
+00:51:06.860 --> 00:51:09.988 align:middle line:84%
+Once you've already sold the
+phones, it is optimal for you
+
+00:51:09.988 --> 00:51:12.280 align:middle line:84%
+then in the second period to
+go ahead and cut the price
+
+00:51:12.280 --> 00:51:15.130 align:middle line:90%
+and sell to more people.
+
+00:51:15.130 --> 00:51:18.760 align:middle line:84%
+And so if you
+don't have some way
+
+00:51:18.760 --> 00:51:22.480 align:middle line:84%
+to commit yourself not to
+lower the price after all
+
+00:51:22.480 --> 00:51:24.730 align:middle line:84%
+the early adopters
+have bought, you're
+
+00:51:24.730 --> 00:51:26.212 align:middle line:84%
+going to want to
+lower the price.
+
+00:51:26.212 --> 00:51:28.420 align:middle line:84%
+And then once you're going
+to want to lower the price
+
+00:51:28.420 --> 00:51:29.830 align:middle line:84%
+and equilibrium, you
+will lower the price
+
+00:51:29.830 --> 00:51:31.390 align:middle line:84%
+and then you'll be in
+the position of everyone
+
+00:51:31.390 --> 00:51:33.740 align:middle line:84%
+in the first period thinking
+you're going to lower the price
+
+00:51:33.740 --> 00:51:36.323 align:middle line:84%
+and not buy it because the price
+is too high given what you're
+
+00:51:36.323 --> 00:51:38.570 align:middle line:90%
+going to lower it to and so on.
+
+00:51:38.570 --> 00:51:41.840 align:middle line:84%
+So firms could be
+lowering prices
+
+00:51:41.840 --> 00:51:49.100 align:middle line:84%
+because they lack the ability to
+commit to a pricing structure.
+
+00:51:49.100 --> 00:51:51.710 align:middle line:84%
+So for instance, if
+you think about Apple
+
+00:51:51.710 --> 00:51:54.110 align:middle line:84%
+versus some company that's
+a new startup that may never
+
+00:51:54.110 --> 00:51:56.420 align:middle line:84%
+have a second phone,
+you could imagine
+
+00:51:56.420 --> 00:51:58.940 align:middle line:84%
+that Apple is able to
+commit because they
+
+00:51:58.940 --> 00:52:00.380 align:middle line:90%
+have some reputation.
+
+00:52:00.380 --> 00:52:02.120 align:middle line:84%
+A new entrant is
+not able to commit,
+
+00:52:02.120 --> 00:52:04.473 align:middle line:84%
+because no one knows if
+they're going to be around.
+
+00:52:04.473 --> 00:52:06.140 align:middle line:84%
+We don't know that
+they're a firm that's
+
+00:52:06.140 --> 00:52:07.470 align:middle line:90%
+not going to cut the price.
+
+00:52:07.470 --> 00:52:09.442 align:middle line:84%
+And so it may be that
+that's a disadvantage
+
+00:52:09.442 --> 00:52:11.900 align:middle line:84%
+that you get if you're not
+someone who is known to be there
+
+00:52:11.900 --> 00:52:13.160 align:middle line:84%
+for a long time
+and known to have
+
+00:52:13.160 --> 00:52:14.620 align:middle line:84%
+this reputation
+for high pricing.
+
+00:52:14.620 --> 00:52:18.610 align:middle line:90%
+
+
+00:52:18.610 --> 00:52:22.030 align:middle line:84%
+I put on the slides, I don't
+want to take the time to do it.
+
+00:52:22.030 --> 00:52:26.770 align:middle line:84%
+In some sense, I think
+that over time people in IO
+
+00:52:26.770 --> 00:52:29.110 align:middle line:84%
+believe less and less
+in commitment problems
+
+00:52:29.110 --> 00:52:31.600 align:middle line:84%
+and in firms being unable
+to exploit their monopoly
+
+00:52:31.600 --> 00:52:34.280 align:middle line:84%
+power because they have these
+severe commitment problems.
+
+00:52:34.280 --> 00:52:38.890 align:middle line:84%
+But anyway, I put on the slide
+a simple numerical example
+
+00:52:38.890 --> 00:52:42.550 align:middle line:84%
+of imagine theta
+was uniform 0, 1.
+
+00:52:42.550 --> 00:52:43.940 align:middle line:90%
+Cost was 0.
+
+00:52:43.940 --> 00:52:46.090 align:middle line:90%
+d of p is 1 minus p.
+
+00:52:46.090 --> 00:52:48.635 align:middle line:90%
+What is it that you do?
+
+00:52:48.635 --> 00:52:50.260 align:middle line:84%
+And without worrying
+about the algebra,
+
+00:52:50.260 --> 00:52:51.510 align:middle line:90%
+you can look at it afterwards.
+
+00:52:51.510 --> 00:52:52.518 align:middle line:90%
+What you do is--
+
+00:52:52.518 --> 00:52:53.810 align:middle line:90%
+do I have it on the next slide?
+
+00:52:53.810 --> 00:52:55.270 align:middle line:90%
+Yeah.
+
+00:52:55.270 --> 00:53:00.400 align:middle line:84%
+Whereas in this model, if you
+were a monopolist with d of p
+
+00:53:00.400 --> 00:53:05.340 align:middle line:84%
+as 1 minus p and two periods,
+the monopoly price is 1/2 per
+
+00:53:05.340 --> 00:53:05.840 align:middle line:90%
+period.
+
+00:53:05.840 --> 00:53:07.630 align:middle line:90%
+So you'd set a price of 1.
+
+00:53:07.630 --> 00:53:10.510 align:middle line:84%
+And so what you get, instead of
+setting a price of one and then
+
+00:53:10.510 --> 00:53:13.210 align:middle line:84%
+sticking to it and selling
+to half the consumers,
+
+00:53:13.210 --> 00:53:16.340 align:middle line:84%
+the solution turns out to be a
+set price of 9/10 in the first
+
+00:53:16.340 --> 00:53:19.950 align:middle line:84%
+period and then drop it to
+3/10 in the first period.
+
+00:53:19.950 --> 00:53:22.220 align:middle line:84%
+You sell to some people,
+but less than half
+
+00:53:22.220 --> 00:53:24.620 align:middle line:84%
+in the first period, even
+though your price is lower.
+
+00:53:24.620 --> 00:53:28.070 align:middle line:84%
+And then you sell to some
+people in the second period.
+
+00:53:28.070 --> 00:53:32.750 align:middle line:84%
+So two things that come out in
+this simple algebraic example
+
+00:53:32.750 --> 00:53:36.120 align:middle line:84%
+is you get a decreasing
+price sequence.
+
+00:53:36.120 --> 00:53:37.700 align:middle line:90%
+This is the commitment problem.
+
+00:53:37.700 --> 00:53:39.920 align:middle line:84%
+The price sequence
+has to go down
+
+00:53:39.920 --> 00:53:41.873 align:middle line:84%
+because if your
+price didn't go down,
+
+00:53:41.873 --> 00:53:43.790 align:middle line:84%
+no one would buy in the
+second period and then
+
+00:53:43.790 --> 00:53:46.165 align:middle line:84%
+the second period, you would
+be getting 0 profits instead
+
+00:53:46.165 --> 00:53:47.280 align:middle line:90%
+of positive profits.
+
+00:53:47.280 --> 00:53:50.690 align:middle line:84%
+So in a problem with commitment,
+you always get p2 less than 1/2
+
+00:53:50.690 --> 00:53:51.830 align:middle line:90%
+p1.
+
+00:53:51.830 --> 00:53:56.060 align:middle line:84%
+And you always get profits are
+lower without commitment than
+
+00:53:56.060 --> 00:54:00.200 align:middle line:84%
+with commitment, because if the
+profits were better with this
+
+00:54:00.200 --> 00:54:03.530 align:middle line:84%
+9/10, 3/10 thing, that's what
+you would have chosen when you
+
+00:54:03.530 --> 00:54:04.970 align:middle line:90%
+had commitment power.
+
+00:54:04.970 --> 00:54:06.680 align:middle line:84%
+So commitment power
+is always the best
+
+00:54:06.680 --> 00:54:08.690 align:middle line:84%
+you can do when you
+have commitment power.
+
+00:54:08.690 --> 00:54:12.500 align:middle line:84%
+So what you do in these sort
+of problems with a self control
+
+00:54:12.500 --> 00:54:14.570 align:middle line:84%
+problem is always you
+earn lower profits
+
+00:54:14.570 --> 00:54:16.195 align:middle line:84%
+and you do walk down
+your demand curve.
+
+00:54:16.195 --> 00:54:18.960 align:middle line:90%
+
+
+00:54:18.960 --> 00:54:24.820 align:middle line:84%
+So firms lacking this ability
+to commit is one explanation.
+
+00:54:24.820 --> 00:54:26.838 align:middle line:84%
+And firms are worse
+off because they
+
+00:54:26.838 --> 00:54:28.880 align:middle line:84%
+can't commit to doing what
+they would like to do.
+
+00:54:28.880 --> 00:54:32.790 align:middle line:90%
+
+
+00:54:32.790 --> 00:54:33.930 align:middle line:90%
+OK.
+
+00:54:33.930 --> 00:54:38.790 align:middle line:84%
+The Coase conjecture is even
+more extreme commitment problem.
+
+00:54:38.790 --> 00:54:42.300 align:middle line:84%
+I think in the
+1970s or whatever,
+
+00:54:42.300 --> 00:54:46.470 align:middle line:84%
+this was something the Chicago
+School of Economics took
+
+00:54:46.470 --> 00:54:49.890 align:middle line:84%
+seriously that if a monopolist
+has no market power and has
+
+00:54:49.890 --> 00:54:52.650 align:middle line:84%
+to price at marginal cost
+because commitment power is
+
+00:54:52.650 --> 00:54:53.770 align:middle line:90%
+so severe.
+
+00:54:53.770 --> 00:54:56.460 align:middle line:84%
+So the Coase conjecture
+is let's take
+
+00:54:56.460 --> 00:55:00.450 align:middle line:84%
+the extreme version of this
+where I set a price at t
+
+00:55:00.450 --> 00:55:01.240 align:middle line:90%
+equals 0.
+
+00:55:01.240 --> 00:55:04.620 align:middle line:84%
+I set a price at delta t, which
+you think of as one day later, 2
+
+00:55:04.620 --> 00:55:07.470 align:middle line:90%
+delta t, 3 delta t, and so on.
+
+00:55:07.470 --> 00:55:12.000 align:middle line:84%
+And assume that consumers have
+utility theta e to the minus rt
+
+00:55:12.000 --> 00:55:14.880 align:middle line:90%
+if they purchase at time t.
+
+00:55:14.880 --> 00:55:17.790 align:middle line:90%
+So consumers are discounting.
+
+00:55:17.790 --> 00:55:21.480 align:middle line:84%
+Firms are setting their prices
+over and over and over again,
+
+00:55:21.480 --> 00:55:24.150 align:middle line:84%
+and the consumers have this kind
+of discounted expected utility
+
+00:55:24.150 --> 00:55:26.070 align:middle line:90%
+and are forward looking.
+
+00:55:26.070 --> 00:55:29.610 align:middle line:84%
+The Coase conjecture says
+that under some conditions,
+
+00:55:29.610 --> 00:55:35.050 align:middle line:84%
+the monopolist profits go
+to 0 as delta t goes to 0.
+
+00:55:35.050 --> 00:55:37.930 align:middle line:84%
+So if you make this
+severe commitment problem
+
+00:55:37.930 --> 00:55:39.940 align:middle line:84%
+that every day I'm going
+to choose a new price,
+
+00:55:39.940 --> 00:55:42.315 align:middle line:84%
+every day I'm going to choose
+a new price with no ability
+
+00:55:42.315 --> 00:55:45.040 align:middle line:84%
+to commit to that
+price, the theorem
+
+00:55:45.040 --> 00:55:50.530 align:middle line:84%
+is that actually the more often
+you can change your price,
+
+00:55:50.530 --> 00:55:53.830 align:middle line:84%
+the more severe this
+commitment problem gets.
+
+00:55:53.830 --> 00:55:56.860 align:middle line:84%
+And in the limit as delta t goes
+to 0, what you do is basically
+
+00:55:56.860 --> 00:55:57.900 align:middle line:90%
+you do almost like that.
+
+00:55:57.900 --> 00:56:00.490 align:middle line:90%
+
+
+00:56:00.490 --> 00:56:02.560 align:middle line:84%
+You start your price
+out closer to 1,
+
+00:56:02.560 --> 00:56:06.490 align:middle line:84%
+but then it just drops to 0 and
+it goes to 0 almost instantly.
+
+00:56:06.490 --> 00:56:08.950 align:middle line:84%
+And in the limit as delta
+t goes to 0, and in fact,
+
+00:56:08.950 --> 00:56:11.740 align:middle line:84%
+your price goes to 0
+instantly and the monopolist
+
+00:56:11.740 --> 00:56:13.110 align:middle line:90%
+earns 0 profits at all.
+
+00:56:13.110 --> 00:56:19.200 align:middle line:90%
+
+
+00:56:19.200 --> 00:56:20.610 align:middle line:90%
+Why does this happen?
+
+00:56:20.610 --> 00:56:23.178 align:middle line:90%
+
+
+00:56:23.178 --> 00:56:24.720 align:middle line:84%
+Again, it's the
+example, the argument
+
+00:56:24.720 --> 00:56:27.670 align:middle line:84%
+is really there's nothing else
+that could happen in this model.
+
+00:56:27.670 --> 00:56:33.090 align:middle line:84%
+So suppose I did
+this example where
+
+00:56:33.090 --> 00:56:36.180 align:middle line:84%
+if I have commitment power,
+I just set the price at 1
+
+00:56:36.180 --> 00:56:37.180 align:middle line:90%
+and never change it.
+
+00:56:37.180 --> 00:56:40.560 align:middle line:84%
+So if I put time on this
+axis and p of t on this axis,
+
+00:56:40.560 --> 00:56:43.030 align:middle line:84%
+this is what the
+monopolist wants to do.
+
+00:56:43.030 --> 00:56:45.920 align:middle line:90%
+And when you have no--
+
+00:56:45.920 --> 00:56:47.990 align:middle line:84%
+when you had two periods,
+I think I showed you
+
+00:56:47.990 --> 00:56:50.250 align:middle line:90%
+that this is some sense.
+
+00:56:50.250 --> 00:56:51.990 align:middle line:90%
+That's what the monopolist does.
+
+00:56:51.990 --> 00:56:54.690 align:middle line:84%
+It sets the price here and
+then drops the price down.
+
+00:56:54.690 --> 00:56:56.990 align:middle line:84%
+If you have three
+periods, the monopolist
+
+00:56:56.990 --> 00:56:58.550 align:middle line:84%
+is going to do
+something like this,
+
+00:56:58.550 --> 00:57:03.940 align:middle line:84%
+set the price here, set the
+price here, set the price here.
+
+00:57:03.940 --> 00:57:06.370 align:middle line:84%
+Imagine the prices
+didn't go to 0.
+
+00:57:06.370 --> 00:57:09.400 align:middle line:84%
+If prices didn't go to 0, it
+must be when you do this thing
+
+00:57:09.400 --> 00:57:13.390 align:middle line:84%
+and very rapidly, you
+get some smooth curve.
+
+00:57:13.390 --> 00:57:19.000 align:middle line:84%
+Like this is what the monopolist
+does when it's changing prices
+
+00:57:19.000 --> 00:57:20.540 align:middle line:90%
+every second.
+
+00:57:20.540 --> 00:57:25.000 align:middle line:84%
+It just drops its price
+smoothly over time.
+
+00:57:25.000 --> 00:57:31.660 align:middle line:84%
+But dropping your price smoothly
+over time at a finite slope just
+
+00:57:31.660 --> 00:57:33.610 align:middle line:90%
+isn't going to ever be optimal.
+
+00:57:33.610 --> 00:57:35.120 align:middle line:90%
+And why is that?
+
+00:57:35.120 --> 00:57:39.880 align:middle line:84%
+The reason is that imagine this
+was what you were going to do
+
+00:57:39.880 --> 00:57:43.750 align:middle line:84%
+and you decided this time to
+instead of charging this price,
+
+00:57:43.750 --> 00:57:46.240 align:middle line:84%
+I'm just going to
+jump ahead one period
+
+00:57:46.240 --> 00:57:50.780 align:middle line:84%
+and charge this price instead
+and then follow the same path.
+
+00:57:50.780 --> 00:57:53.080 align:middle line:84%
+So I just say, OK,
+this one period, I'm
+
+00:57:53.080 --> 00:57:55.510 align:middle line:84%
+just going to jump ahead and
+charge that price instead
+
+00:57:55.510 --> 00:57:57.230 align:middle line:90%
+of this price.
+
+00:57:57.230 --> 00:58:00.860 align:middle line:84%
+If I jump ahead one period,
+I move all future sales back
+
+00:58:00.860 --> 00:58:03.400 align:middle line:90%
+by delta t.
+
+00:58:03.400 --> 00:58:12.080 align:middle line:84%
+The gain for moving those things
+ahead is first order in delta t.
+
+00:58:12.080 --> 00:58:14.610 align:middle line:84%
+Because it's got an e to
+the minus delta t in it.
+
+00:58:14.610 --> 00:58:17.150 align:middle line:84%
+I just move sales
+forward one period.
+
+00:58:17.150 --> 00:58:22.720 align:middle line:84%
+What have I lost by dropping
+the price from this to this?
+
+00:58:22.720 --> 00:58:26.570 align:middle line:84%
+Well, I could have earned this
+price on this tiny, tiny number
+
+00:58:26.570 --> 00:58:28.580 align:middle line:90%
+of units I sell in that period.
+
+00:58:28.580 --> 00:58:31.380 align:middle line:84%
+I now get this price
+on those units.
+
+00:58:31.380 --> 00:58:36.740 align:middle line:84%
+And so my loss from
+having jumped forward
+
+00:58:36.740 --> 00:58:39.980 align:middle line:90%
+is this thing times this thing.
+
+00:58:39.980 --> 00:58:43.490 align:middle line:84%
+That's second order in delta t,
+because the number of products
+
+00:58:43.490 --> 00:58:46.670 align:middle line:84%
+I'm selling in each delta t
+unit interval is like a delta t,
+
+00:58:46.670 --> 00:58:49.160 align:middle line:84%
+proportional to delta
+t, and the price drops
+
+00:58:49.160 --> 00:58:51.200 align:middle line:90%
+are proportional to delta t.
+
+00:58:51.200 --> 00:58:55.375 align:middle line:84%
+So the gain for moving things
+forward would be first order.
+
+00:58:55.375 --> 00:58:57.750 align:middle line:84%
+The loss for moving things
+forward would be second order.
+
+00:58:57.750 --> 00:58:59.880 align:middle line:84%
+So you would always want
+to move things forward.
+
+00:58:59.880 --> 00:59:01.820 align:middle line:84%
+And so what must be
+the case is it's not
+
+00:59:01.820 --> 00:59:04.220 align:middle line:84%
+the case that these things
+are both order delta t.
+
+00:59:04.220 --> 00:59:07.310 align:middle line:84%
+It's got to be that
+this thing is falling
+
+00:59:07.310 --> 00:59:10.670 align:middle line:84%
+at a nearly infinite rate
+so that the loss and gains
+
+00:59:10.670 --> 00:59:13.420 align:middle line:90%
+both become first order.
+
+00:59:13.420 --> 00:59:15.580 align:middle line:84%
+So anyway, so the
+Coase conjecture
+
+00:59:15.580 --> 00:59:19.090 align:middle line:84%
+says there are some conditions
+under which this happens.
+
+00:59:19.090 --> 00:59:22.032 align:middle line:84%
+There's a big literature
+on the Coase conjecture.
+
+00:59:22.032 --> 00:59:24.490 align:middle line:84%
+If you read the Fudenberg,
+Tirole Game Theory textbook, not
+
+00:59:24.490 --> 00:59:27.790 align:middle line:84%
+the IO textbook, it's got
+pages and pages and pages
+
+00:59:27.790 --> 00:59:29.440 align:middle line:84%
+proving versions
+of Coase theorem.
+
+00:59:29.440 --> 00:59:32.620 align:middle line:90%
+I think an IO right now--
+
+00:59:32.620 --> 00:59:34.210 align:middle line:84%
+I should say it's
+Coase conjecture
+
+00:59:34.210 --> 00:59:35.530 align:middle line:84%
+even though it's a
+theorem, whereas the Coase
+
+00:59:35.530 --> 00:59:36.890 align:middle line:90%
+theorem is really a conjecture.
+
+00:59:36.890 --> 00:59:39.115 align:middle line:84%
+But the Coase
+conjecture is true.
+
+00:59:39.115 --> 00:59:39.740 align:middle line:90%
+It's a theorem.
+
+00:59:39.740 --> 00:59:42.670 align:middle line:84%
+People have proved it
+under various assumptions.
+
+00:59:42.670 --> 00:59:44.570 align:middle line:90%
+Why isn't it true?
+
+00:59:44.570 --> 00:59:48.195 align:middle line:84%
+There's more of a literature
+in IO on why it doesn't happen,
+
+00:59:48.195 --> 00:59:49.570 align:middle line:84%
+and I don't think
+anyone believes
+
+00:59:49.570 --> 00:59:50.940 align:middle line:90%
+it should happen these days.
+
+00:59:50.940 --> 00:59:52.110 align:middle line:90%
+Why wouldn't it happen.
+
+00:59:52.110 --> 00:59:57.710 align:middle line:84%
+First of all, firms don't
+change their price every day.
+
+00:59:57.710 --> 00:59:59.597 align:middle line:84%
+It takes time to
+change your price.
+
+00:59:59.597 --> 01:00:01.930 align:middle line:84%
+In particular, it takes time
+after you change your price
+
+01:00:01.930 --> 01:00:04.300 align:middle line:84%
+for all consumers who are
+supposed to buy at that price
+
+01:00:04.300 --> 01:00:05.580 align:middle line:90%
+to buy at that price.
+
+01:00:05.580 --> 01:00:08.410 align:middle line:84%
+So if you decide I'm going
+to sell my phone for--
+
+01:00:08.410 --> 01:00:12.100 align:middle line:84%
+my Xbox at $399
+instead of $459, you're
+
+01:00:12.100 --> 01:00:14.690 align:middle line:84%
+going to have to wait a month
+for all the $399 consumers
+
+01:00:14.690 --> 01:00:16.410 align:middle line:84%
+to get around to coming
+in and buying it.
+
+01:00:16.410 --> 01:00:19.570 align:middle line:84%
+So it's not like the
+consumer's buying instantly.
+
+01:00:19.570 --> 01:00:20.990 align:middle line:90%
+It's also costly.
+
+01:00:20.990 --> 01:00:23.990 align:middle line:84%
+You're not going to change
+your price every day.
+
+01:00:23.990 --> 01:00:26.540 align:middle line:84%
+Firms like Apple
+can have reputations
+
+01:00:26.540 --> 01:00:29.630 align:middle line:90%
+for not buying their goods.
+
+01:00:29.630 --> 01:00:32.180 align:middle line:84%
+You can also have inflows
+of new high willingness
+
+01:00:32.180 --> 01:00:33.005 align:middle line:90%
+to pay customers.
+
+01:00:33.005 --> 01:00:34.880 align:middle line:84%
+So even if Apple didn't
+have this reputation,
+
+01:00:34.880 --> 01:00:36.920 align:middle line:84%
+there are people who are
+very high value iPhone
+
+01:00:36.920 --> 01:00:38.630 align:middle line:90%
+users whose phones break.
+
+01:00:38.630 --> 01:00:40.130 align:middle line:84%
+And then when
+their phones break,
+
+01:00:40.130 --> 01:00:43.670 align:middle line:84%
+those new high theta people show
+up wanting to buy a new iPhone.
+
+01:00:43.670 --> 01:00:47.270 align:middle line:84%
+So in some sense, there's always
+high theta people showing up
+
+01:00:47.270 --> 01:00:47.930 align:middle line:90%
+in the market.
+
+01:00:47.930 --> 01:00:50.097 align:middle line:84%
+And with high theta people
+showing up in the market,
+
+01:00:50.097 --> 01:00:53.065 align:middle line:84%
+that gives you another reason
+to keep your prices high.
+
+01:00:53.065 --> 01:00:59.090 align:middle line:90%
+
+
+01:00:59.090 --> 01:01:01.800 align:middle line:84%
+Consumers not being all
+rational and forward looking.
+
+01:01:01.800 --> 01:01:05.390 align:middle line:84%
+Again, that argument that I
+gave you was all the consumers
+
+01:01:05.390 --> 01:01:08.360 align:middle line:84%
+are anticipating the
+future price drops.
+
+01:01:08.360 --> 01:01:12.080 align:middle line:84%
+If you have some consumers who
+don't realize the price is going
+
+01:01:12.080 --> 01:01:14.120 align:middle line:84%
+to drop, then
+you're going to want
+
+01:01:14.120 --> 01:01:15.995 align:middle line:84%
+to exploit the consumers
+who don't understand
+
+01:01:15.995 --> 01:01:17.412 align:middle line:84%
+that the prices
+are going to drop.
+
+01:01:17.412 --> 01:01:19.220 align:middle line:84%
+That's going to change
+that first order
+
+01:01:19.220 --> 01:01:22.070 align:middle line:90%
+condition I gave you.
+
+01:01:22.070 --> 01:01:24.750 align:middle line:84%
+There are also many
+strategic reasons.
+
+01:01:24.750 --> 01:01:28.790 align:middle line:84%
+So, for instance,
+you can rent the good
+
+01:01:28.790 --> 01:01:31.040 align:middle line:90%
+rather than selling the good.
+
+01:01:31.040 --> 01:01:32.973 align:middle line:84%
+Like in the old
+days, it used to be
+
+01:01:32.973 --> 01:01:35.390 align:middle line:84%
+that AT&T, when they were a
+phone monopolist in the United
+
+01:01:35.390 --> 01:01:37.160 align:middle line:90%
+States, didn't sell telephones.
+
+01:01:37.160 --> 01:01:38.582 align:middle line:90%
+They only rented telephones.
+
+01:01:38.582 --> 01:01:40.790 align:middle line:84%
+And you had to rent your
+phone from AT&T. They didn't
+
+01:01:40.790 --> 01:01:42.660 align:middle line:90%
+offer sales as an option.
+
+01:01:42.660 --> 01:01:45.800 align:middle line:84%
+When Xerox first started
+selling copy machines,
+
+01:01:45.800 --> 01:01:47.760 align:middle line:90%
+they didn't sell copy machines.
+
+01:01:47.760 --> 01:01:48.960 align:middle line:90%
+They rented copy machines.
+
+01:01:48.960 --> 01:01:50.780 align:middle line:84%
+If you rent them
+instead of selling them,
+
+01:01:50.780 --> 01:01:52.550 align:middle line:84%
+you don't face this
+commitment problem,
+
+01:01:52.550 --> 01:01:54.740 align:middle line:84%
+because just every month you're
+renting to your current set
+
+01:01:54.740 --> 01:01:55.400 align:middle line:90%
+of consumers.
+
+01:01:55.400 --> 01:01:57.690 align:middle line:84%
+You're setting your optimal
+price to keep renting it.
+
+01:01:57.690 --> 01:01:59.240 align:middle line:90%
+That is the monopoly price.
+
+01:01:59.240 --> 01:02:01.830 align:middle line:90%
+
+
+01:02:01.830 --> 01:02:04.170 align:middle line:84%
+The other thing you can
+do is a tricky thing
+
+01:02:04.170 --> 01:02:06.340 align:middle line:84%
+that seems like it's
+favorable to your customers.
+
+01:02:06.340 --> 01:02:08.830 align:middle line:84%
+You can say, I have this very
+customer friendly policy.
+
+01:02:08.830 --> 01:02:11.970 align:middle line:84%
+If I ever sell this iPhone to
+any customer at a lower price
+
+01:02:11.970 --> 01:02:15.270 align:middle line:84%
+than I sold it to you, I'm going
+to rebate you the difference
+
+01:02:15.270 --> 01:02:16.060 align:middle line:90%
+automatically.
+
+01:02:16.060 --> 01:02:17.893 align:middle line:84%
+It's going to come back
+to your credit card.
+
+01:02:17.893 --> 01:02:20.677 align:middle line:84%
+It's a best price
+guarantee that you never
+
+01:02:20.677 --> 01:02:22.260 align:middle line:84%
+have to worry about
+I bought my iPhone
+
+01:02:22.260 --> 01:02:23.635 align:middle line:84%
+and got ripped
+and got ripped off
+
+01:02:23.635 --> 01:02:25.260 align:middle line:84%
+and someone else
+paid less than me.
+
+01:02:25.260 --> 01:02:28.480 align:middle line:84%
+Again, I adopt that most
+favored customer policy.
+
+01:02:28.480 --> 01:02:29.800 align:middle line:90%
+I commit to it.
+
+01:02:29.800 --> 01:02:32.490 align:middle line:84%
+Then once I've sold my phone to
+all the high value customers,
+
+01:02:32.490 --> 01:02:34.620 align:middle line:84%
+I don't want to cut the price,
+because if I cut the price,
+
+01:02:34.620 --> 01:02:36.010 align:middle line:84%
+I'm cutting the
+price for everyone.
+
+01:02:36.010 --> 01:02:38.177 align:middle line:84%
+That's back to the same
+thing as the rental problem.
+
+01:02:38.177 --> 01:02:43.000 align:middle line:90%
+
+
+01:02:43.000 --> 01:02:45.430 align:middle line:84%
+And firms can also
+strategically,
+
+01:02:45.430 --> 01:02:47.560 align:middle line:84%
+I can just build a
+factory that only produces
+
+01:02:47.560 --> 01:02:48.740 align:middle line:90%
+so many phones per month.
+
+01:02:48.740 --> 01:02:51.157 align:middle line:84%
+I build a factory that only
+produces enough phones to sell
+
+01:02:51.157 --> 01:02:52.550 align:middle line:90%
+to everyone at one size.
+
+01:02:52.550 --> 01:02:55.190 align:middle line:84%
+I'm not tempted
+to raise my price.
+
+01:02:55.190 --> 01:02:57.160 align:middle line:84%
+So I think the
+general view in IO
+
+01:02:57.160 --> 01:03:01.450 align:middle line:84%
+is that there are enough
+reasons why the consumer is not
+
+01:03:01.450 --> 01:03:02.270 align:middle line:90%
+being rational.
+
+01:03:02.270 --> 01:03:04.960 align:middle line:84%
+The inflows of high
+willingness to pay customers
+
+01:03:04.960 --> 01:03:08.390 align:middle line:84%
+are such that the extreme
+Coase thing shouldn't happen.
+
+01:03:08.390 --> 01:03:11.170 align:middle line:84%
+And if you were in a situation
+where the extreme Coase
+
+01:03:11.170 --> 01:03:14.677 align:middle line:84%
+problem were there, firms would
+come up with a way around it.
+
+01:03:14.677 --> 01:03:16.510 align:middle line:84%
+Obviously, there are
+some antitrust concerns
+
+01:03:16.510 --> 01:03:19.720 align:middle line:84%
+with some of these,
+but there are ways
+
+01:03:19.720 --> 01:03:21.080 align:middle line:90%
+to avoid the Coase conjecture.
+
+01:03:21.080 --> 01:03:26.380 align:middle line:84%
+I think we don't necessarily
+think that this is so important.
+
+01:03:26.380 --> 01:03:29.100 align:middle line:84%
+And I should say that
+this is something
+
+01:03:29.100 --> 01:03:30.350 align:middle line:90%
+you'll get later in the class.
+
+01:03:30.350 --> 01:03:32.530 align:middle line:84%
+We start doing-- a
+lot of people in IO
+
+01:03:32.530 --> 01:03:36.070 align:middle line:84%
+are doing structural models
+of dynamic situations
+
+01:03:36.070 --> 01:03:38.320 align:middle line:84%
+where you're always assuming
+firms follow these Markov
+
+01:03:38.320 --> 01:03:39.920 align:middle line:90%
+perfect strategies.
+
+01:03:39.920 --> 01:03:42.920 align:middle line:84%
+This Markov maximization
+is, in some sense, always
+
+01:03:42.920 --> 01:03:45.375 align:middle line:84%
+a firm with commitment
+problems where
+
+01:03:45.375 --> 01:03:47.750 align:middle line:84%
+it's every period the firm is
+choosing the optimal action
+
+01:03:47.750 --> 01:03:49.520 align:middle line:90%
+given that state.
+
+01:03:49.520 --> 01:03:52.130 align:middle line:84%
+Our skepticism of the Coase
+conjecture, in some sense,
+
+01:03:52.130 --> 01:03:54.470 align:middle line:84%
+should translate to skepticism
+of some of those models.
+
+01:03:54.470 --> 01:03:56.858 align:middle line:84%
+Or at least think
+about do we really
+
+01:03:56.858 --> 01:03:58.400 align:middle line:84%
+think the firms lack
+commitment power
+
+01:03:58.400 --> 01:04:01.010 align:middle line:84%
+and are always going to be
+maximizing period by period
+
+01:04:01.010 --> 01:04:02.185 align:middle line:90%
+what's optimal for them?
+
+01:04:02.185 --> 01:04:04.820 align:middle line:90%
+
+
+01:04:04.820 --> 01:04:07.400 align:middle line:84%
+So then the final topic I
+want to talk about today,
+
+01:04:07.400 --> 01:04:09.890 align:middle line:84%
+and I'll see if I have
+time to finish it,
+
+01:04:09.890 --> 01:04:12.080 align:middle line:84%
+this is a more
+recent topic in IO.
+
+01:04:12.080 --> 01:04:16.040 align:middle line:84%
+And if you wanted to do IO
+theory on monopoly pricing
+
+01:04:16.040 --> 01:04:20.780 align:middle line:84%
+as a thesis topic, this would be
+the active area of IO monopoly
+
+01:04:20.780 --> 01:04:22.790 align:middle line:90%
+pricing you could work on today.
+
+01:04:22.790 --> 01:04:25.550 align:middle line:84%
+So I'll give an overview
+of information design.
+
+01:04:25.550 --> 01:04:27.800 align:middle line:84%
+And obviously, I would say
+if you really want to study
+
+01:04:27.800 --> 01:04:32.108 align:middle line:84%
+information design, Steven and
+Ian in the [14.]281 class do
+
+01:04:32.108 --> 01:04:34.400 align:middle line:84%
+a lot of information design,
+and you would want to know
+
+01:04:34.400 --> 01:04:36.692 align:middle line:84%
+information design at the
+level at which they teach it.
+
+01:04:36.692 --> 01:04:42.360 align:middle line:84%
+But I think basics for this I'm
+going to cover here as well.
+
+01:04:42.360 --> 01:04:45.230 align:middle line:84%
+So motivating
+lecture for this is
+
+01:04:45.230 --> 01:04:48.950 align:middle line:84%
+that it is an interesting
+observation that when you look
+
+01:04:48.950 --> 01:04:51.943 align:middle line:84%
+at goods, there are some
+goods for which you seem
+
+01:04:51.943 --> 01:04:53.360 align:middle line:84%
+to get an awful
+lot of information
+
+01:04:53.360 --> 01:04:54.950 align:middle line:84%
+about what you're buying
+and some for which
+
+01:04:54.950 --> 01:04:56.690 align:middle line:84%
+you seem to get very little
+information about what you're
+
+01:04:56.690 --> 01:04:57.535 align:middle line:90%
+buying.
+
+01:04:57.535 --> 01:04:58.910 align:middle line:84%
+So an example of
+a good where you
+
+01:04:58.910 --> 01:05:00.368 align:middle line:84%
+seem to get a lot
+of information is
+
+01:05:00.368 --> 01:05:02.870 align:middle line:84%
+you want to buy a
+new laptop computer.
+
+01:05:02.870 --> 01:05:04.620 align:middle line:84%
+You can get on the
+site and the firms that
+
+01:05:04.620 --> 01:05:06.918 align:middle line:84%
+are selling you
+laptop computers,
+
+01:05:06.918 --> 01:05:08.460 align:middle line:84%
+they're going to
+tell you exactly how
+
+01:05:08.460 --> 01:05:09.940 align:middle line:90%
+many pixels are in the screen.
+
+01:05:09.940 --> 01:05:12.030 align:middle line:84%
+They're going to tell
+you what processor
+
+01:05:12.030 --> 01:05:18.440 align:middle line:84%
+is in it, what the processor
+speed is, what the battery
+
+01:05:18.440 --> 01:05:22.040 align:middle line:84%
+life is, what the battery power
+is, how much the laptop weighs,
+
+01:05:22.040 --> 01:05:23.153 align:middle line:90%
+what it's made out of.
+
+01:05:23.153 --> 01:05:25.070 align:middle line:84%
+You can get a tremendous
+amount of information
+
+01:05:25.070 --> 01:05:27.505 align:middle line:84%
+about every laptop that
+you're considering buying.
+
+01:05:27.505 --> 01:05:28.880 align:middle line:84%
+I don't know how
+many of you have
+
+01:05:28.880 --> 01:05:31.422 align:middle line:84%
+moved here recently and tried
+to buy a mattress in the United
+
+01:05:31.422 --> 01:05:31.930 align:middle line:90%
+States.
+
+01:05:31.930 --> 01:05:34.250 align:middle line:84%
+You try to buy a mattress
+in the United States
+
+01:05:34.250 --> 01:05:37.070 align:middle line:84%
+and there are lots of
+these mattress stores
+
+01:05:37.070 --> 01:05:38.660 align:middle line:90%
+and they sell really expensive.
+
+01:05:38.660 --> 01:05:43.050 align:middle line:84%
+It's often like this mattress
+is $1,200 or this one is $300.
+
+01:05:43.050 --> 01:05:46.610 align:middle line:84%
+And it's just
+impossible to figure out
+
+01:05:46.610 --> 01:05:48.840 align:middle line:84%
+what makes mattress A
+different from mattress B.
+
+01:05:48.840 --> 01:05:51.215 align:middle line:84%
+And you even think, OK, I'll
+go to four different stores,
+
+01:05:51.215 --> 01:05:53.210 align:middle line:84%
+all of whom sell
+Sealy Posturepedic
+
+01:05:53.210 --> 01:05:55.430 align:middle line:90%
+mattresses and comparison shop.
+
+01:05:55.430 --> 01:05:58.400 align:middle line:84%
+And you'll see that this store
+has the Sealy Posturepedic
+
+01:05:58.400 --> 01:06:00.890 align:middle line:84%
+Ruby and Diamond and
+Emerald, and this store
+
+01:06:00.890 --> 01:06:04.550 align:middle line:84%
+has the Sealy Posturepedic
+Gold and Platinum and Bronze,
+
+01:06:04.550 --> 01:06:08.090 align:middle line:84%
+and this one has this Sealy
+Posturepedic Cloud and Mountain
+
+01:06:08.090 --> 01:06:09.800 align:middle line:90%
+and Valley or something.
+
+01:06:09.800 --> 01:06:12.492 align:middle line:84%
+Just every different
+store, even if it's
+
+01:06:12.492 --> 01:06:15.200 align:middle line:84%
+the same brand of mattress, they
+have all different names on them
+
+01:06:15.200 --> 01:06:17.780 align:middle line:84%
+and no one's giving
+you any attribute.
+
+01:06:17.780 --> 01:06:22.250 align:middle line:84%
+The coils in this one
+are 0.73 mils thick
+
+01:06:22.250 --> 01:06:25.950 align:middle line:84%
+and the memory foam has this
+compression per unit thing.
+
+01:06:25.950 --> 01:06:27.812 align:middle line:84%
+And given that
+you can't actually
+
+01:06:27.812 --> 01:06:29.270 align:middle line:84%
+sleep on them in
+the store, it just
+
+01:06:29.270 --> 01:06:31.550 align:middle line:84%
+seems like there's
+no information
+
+01:06:31.550 --> 01:06:33.980 align:middle line:84%
+whatsoever to compare these
+matches and figure out
+
+01:06:33.980 --> 01:06:37.250 align:middle line:84%
+do I want to pay $100 for
+this one instead of that one.
+
+01:06:37.250 --> 01:06:38.960 align:middle line:84%
+Wholesale used
+cars are almost one
+
+01:06:38.960 --> 01:06:42.540 align:middle line:84%
+of the most interesting examples
+of explicit lack of information.
+
+01:06:42.540 --> 01:06:46.225 align:middle line:84%
+So you turn your
+car into a dealer.
+
+01:06:46.225 --> 01:06:47.600 align:middle line:84%
+Let's suppose that
+you had a car.
+
+01:06:47.600 --> 01:06:50.270 align:middle line:90%
+
+
+01:06:50.270 --> 01:06:51.417 align:middle line:90%
+I have my Honda Civic.
+
+01:06:51.417 --> 01:06:52.750 align:middle line:90%
+I decide I want to buy a Toyota.
+
+01:06:52.750 --> 01:06:55.080 align:middle line:84%
+I turn in my old Honda
+Civic to the Toyota dealer
+
+01:06:55.080 --> 01:06:56.500 align:middle line:90%
+when I buy my Toyota.
+
+01:06:56.500 --> 01:06:59.318 align:middle line:84%
+And then my Toyota dealer
+doesn't want to have a Honda.
+
+01:06:59.318 --> 01:07:01.860 align:middle line:84%
+So he takes and sells it at the
+wholesale level to some Honda
+
+01:07:01.860 --> 01:07:05.820 align:middle line:84%
+dealer somewhere who wants to
+have a used Honda on their lot.
+
+01:07:05.820 --> 01:07:08.100 align:middle line:84%
+You go to see these
+wholesale used car auctions
+
+01:07:08.100 --> 01:07:09.390 align:middle line:90%
+and it's a remarkable thing.
+
+01:07:09.390 --> 01:07:13.530 align:middle line:84%
+They have these giant parking
+lots in the middle of nowhere
+
+01:07:13.530 --> 01:07:16.150 align:middle line:84%
+with some big
+building next to them.
+
+01:07:16.150 --> 01:07:19.020 align:middle line:84%
+All the used car dealers
+show up with cars
+
+01:07:19.020 --> 01:07:21.220 align:middle line:84%
+to sell and have their
+cars listed for sale.
+
+01:07:21.220 --> 01:07:24.030 align:middle line:84%
+And then a bunch of people
+have the cars listed to buy.
+
+01:07:24.030 --> 01:07:29.400 align:middle line:84%
+And the rules for the wholesale
+used car auction is they drive
+
+01:07:29.400 --> 01:07:34.740 align:middle line:84%
+the 2013 Honda Civic,
+63,000 miles, up there.
+
+01:07:34.740 --> 01:07:38.400 align:middle line:84%
+All the buyers are allowed to
+look at the car from the inside.
+
+01:07:38.400 --> 01:07:43.420 align:middle line:84%
+A guy who works at the auction
+house starts the engine.
+
+01:07:43.420 --> 01:07:46.350 align:middle line:90%
+You can hear that the car runs.
+
+01:07:46.350 --> 01:07:48.100 align:middle line:84%
+You can look at it
+from the outside.
+
+01:07:48.100 --> 01:07:50.380 align:middle line:84%
+You may not open the hood
+and look under the hood.
+
+01:07:50.380 --> 01:07:52.560 align:middle line:84%
+You may not look under
+it with the mirror
+
+01:07:52.560 --> 01:07:55.480 align:middle line:84%
+and see whether the
+muffler is rusted out.
+
+01:07:55.480 --> 01:07:59.670 align:middle line:84%
+You may not have your mechanic
+try out all the parts.
+
+01:07:59.670 --> 01:08:01.330 align:middle line:90%
+The car is wheeled up there.
+
+01:08:01.330 --> 01:08:03.790 align:middle line:84%
+Everything stays closed except
+for the guy from the dealer.
+
+01:08:03.790 --> 01:08:06.310 align:middle line:90%
+He turns it on, runs the thing.
+
+01:08:06.310 --> 01:08:08.430 align:middle line:84%
+They then auction
+off in 45 seconds
+
+01:08:08.430 --> 01:08:09.900 align:middle line:90%
+and move on to the next car.
+
+01:08:09.900 --> 01:08:12.630 align:middle line:84%
+So basically, they provide
+no information whatsoever
+
+01:08:12.630 --> 01:08:16.830 align:middle line:84%
+on the car that's being sold
+other than Honda Civic 2013,
+
+01:08:16.830 --> 01:08:18.010 align:middle line:90%
+6,300 miles.
+
+01:08:18.010 --> 01:08:19.630 align:middle line:90%
+Here's what the engine turns on.
+
+01:08:19.630 --> 01:08:20.800 align:middle line:90%
+Here's what it sounds like.
+
+01:08:20.800 --> 01:08:22.633 align:middle line:84%
+This is what it looks
+like from the outside.
+
+01:08:22.633 --> 01:08:24.720 align:middle line:90%
+And then the next one is sold.
+
+01:08:24.720 --> 01:08:27.250 align:middle line:84%
+And it's clearly an
+intentional design
+
+01:08:27.250 --> 01:08:30.023 align:middle line:84%
+to provide zero
+information to the buyers.
+
+01:08:30.023 --> 01:08:33.310 align:middle line:90%
+
+
+01:08:33.310 --> 01:08:35.560 align:middle line:84%
+These examples,
+these are ones where
+
+01:08:35.560 --> 01:08:38.290 align:middle line:84%
+we think of as these are
+clearly pure monopoly pricing
+
+01:08:38.290 --> 01:08:43.000 align:middle line:84%
+decisions that somehow the
+mattress firm, the laptop firm,
+
+01:08:43.000 --> 01:08:44.800 align:middle line:84%
+the used car firms,
+they've decided
+
+01:08:44.800 --> 01:08:46.540 align:middle line:84%
+that providing this
+information to their consumers
+
+01:08:46.540 --> 01:08:49.040 align:middle line:84%
+is what maximizes their profits,
+because they're controlling
+
+01:08:49.040 --> 01:08:51.790 align:middle line:90%
+the information flow.
+
+01:08:51.790 --> 01:08:53.560 align:middle line:84%
+There are other
+examples, now, I guess,
+
+01:08:53.560 --> 01:08:55.510 align:middle line:84%
+which has [INAUDIBLE]
+another side, which
+
+01:08:55.510 --> 01:08:59.950 align:middle line:84%
+is that there are now plenty of
+intermediaries that make money
+
+01:08:59.950 --> 01:09:01.810 align:middle line:84%
+by providing information
+about products
+
+01:09:01.810 --> 01:09:04.180 align:middle line:84%
+and helping consumers
+find products they want.
+
+01:09:04.180 --> 01:09:08.750 align:middle line:84%
+So, for instance, Yelp helps
+people find restaurants.
+
+01:09:08.750 --> 01:09:11.620 align:middle line:84%
+Amazon sells many things
+that are not Amazon products,
+
+01:09:11.620 --> 01:09:15.050 align:middle line:84%
+helping you to find what's
+the best phone for me to buy?
+
+01:09:15.050 --> 01:09:19.600 align:middle line:84%
+What's the best
+tent for me to buy?
+
+01:09:19.600 --> 01:09:21.100 align:middle line:84%
+What's the best
+shirt for me to buy?
+
+01:09:21.100 --> 01:09:22.725 align:middle line:84%
+What are the best
+pair of hiking boots?
+
+01:09:22.725 --> 01:09:23.319 align:middle line:90%
+Whatever.
+
+01:09:23.319 --> 01:09:25.720 align:middle line:84%
+Amazon is selling these
+products that they don't make
+
+01:09:25.720 --> 01:09:29.069 align:middle line:84%
+and just providing you
+information about them.
+
+01:09:29.069 --> 01:09:30.990 align:middle line:84%
+One concern that
+you can think about,
+
+01:09:30.990 --> 01:09:32.359 align:middle line:90%
+what does Amazon want you to do?
+
+01:09:32.359 --> 01:09:36.270 align:middle line:84%
+Amazon wants you to buy
+products from Amazon.
+
+01:09:36.270 --> 01:09:38.189 align:middle line:84%
+Amazon therefore
+wants to provide you
+
+01:09:38.189 --> 01:09:40.620 align:middle line:84%
+with consumer surplus when
+you're buying these third party
+
+01:09:40.620 --> 01:09:42.620 align:middle line:84%
+products, that you buy
+the third party products,
+
+01:09:42.620 --> 01:09:43.840 align:middle line:90%
+you get consumer surplus.
+
+01:09:43.840 --> 01:09:45.720 align:middle line:84%
+You keep coming back
+to Amazon as a place
+
+01:09:45.720 --> 01:09:48.933 align:middle line:90%
+to start your shopping trips.
+
+01:09:48.933 --> 01:09:50.350 align:middle line:84%
+What information
+problem they have
+
+01:09:50.350 --> 01:09:51.939 align:middle line:84%
+is that let's suppose
+they provide you
+
+01:09:51.939 --> 01:09:54.940 align:middle line:84%
+with some number of
+information about the good.
+
+01:09:54.940 --> 01:09:56.440 align:middle line:84%
+If they provide you
+with information
+
+01:09:56.440 --> 01:09:58.000 align:middle line:84%
+that lets you figure
+out, yes, this
+
+01:09:58.000 --> 01:10:01.220 align:middle line:84%
+is the perfect pair of
+hiking boots for me.
+
+01:10:01.220 --> 01:10:03.320 align:middle line:84%
+Then the hiking
+boot company knowing
+
+01:10:03.320 --> 01:10:07.530 align:middle line:84%
+that Amazon is selling it only
+to the consumers for whom it's
+
+01:10:07.530 --> 01:10:09.530 align:middle line:84%
+the perfect product will
+set a really high price
+
+01:10:09.530 --> 01:10:11.750 align:middle line:84%
+and the consumer
+surplus will be low.
+
+01:10:11.750 --> 01:10:13.580 align:middle line:84%
+So in some sense,
+Amazon has this problem
+
+01:10:13.580 --> 01:10:15.410 align:middle line:84%
+of if they provide
+information that
+
+01:10:15.410 --> 01:10:19.340 align:middle line:84%
+lets you figure out exactly
+how good the product is for you
+
+01:10:19.340 --> 01:10:22.190 align:middle line:84%
+and what is, in some
+sense, trying to maximize
+
+01:10:22.190 --> 01:10:25.250 align:middle line:84%
+the profit maximizing
+set of information,
+
+01:10:25.250 --> 01:10:27.650 align:middle line:84%
+then it may be the monopolist
+then just raises the price
+
+01:10:27.650 --> 01:10:29.870 align:middle line:84%
+and extracts all
+that surplus and then
+
+01:10:29.870 --> 01:10:31.177 align:middle line:90%
+the consumers get no surplus.
+
+01:10:31.177 --> 01:10:33.260 align:middle line:84%
+And then Amazon isn't the
+place to start shopping,
+
+01:10:33.260 --> 01:10:35.810 align:middle line:84%
+because it's the place where,
+yes, you found what you wanted,
+
+01:10:35.810 --> 01:10:37.790 align:middle line:84%
+but yes, you also paid
+a super premium price,
+
+01:10:37.790 --> 01:10:42.740 align:middle line:84%
+and therefore you didn't
+get any surplus anyway.
+
+01:10:42.740 --> 01:10:44.330 align:middle line:90%
+So these kinds of--
+
+01:10:44.330 --> 01:10:47.630 align:middle line:84%
+I think it's the platform
+application and the developments
+
+01:10:47.630 --> 01:10:50.630 align:middle line:84%
+in theory of this growth of
+what we call information design.
+
+01:10:50.630 --> 01:10:54.020 align:middle line:84%
+Thinking about how
+would a firm that
+
+01:10:54.020 --> 01:10:56.000 align:middle line:84%
+controls information
+about products
+
+01:10:56.000 --> 01:10:58.400 align:middle line:84%
+want to provide that
+information either to maximize
+
+01:10:58.400 --> 01:11:00.230 align:middle line:84%
+its profit, selling
+them directly,
+
+01:11:00.230 --> 01:11:03.930 align:middle line:84%
+or to maximize the consumer
+surplus of the consumers who
+
+01:11:03.930 --> 01:11:07.032 align:middle line:84%
+it's not selling them-- who
+are-- if it's an intermediary,
+
+01:11:07.032 --> 01:11:09.240 align:middle line:84%
+it wants to maximize the
+consumer surplus rather than
+
+01:11:09.240 --> 01:11:12.180 align:middle line:84%
+the profit, or it might want
+to do something in between.
+
+01:11:12.180 --> 01:11:16.170 align:middle line:84%
+So to think about an
+example for illustration,
+
+01:11:16.170 --> 01:11:18.280 align:middle line:84%
+let's assume that we
+have a new product.
+
+01:11:18.280 --> 01:11:23.850 align:middle line:84%
+Maybe this new product is Clover
+has a new fried cauliflower
+
+01:11:23.850 --> 01:11:26.700 align:middle line:84%
+sandwich with some kind
+of Chinese sauce on it
+
+01:11:26.700 --> 01:11:32.360 align:middle line:84%
+or Indo-Chinese fried
+cauliflower sandwich, which
+
+01:11:32.360 --> 01:11:34.010 align:middle line:90%
+I think they do have.
+
+01:11:34.010 --> 01:11:37.250 align:middle line:84%
+So suppose that fully informed
+consumers, if they really
+
+01:11:37.250 --> 01:11:39.080 align:middle line:84%
+understood what the
+sandwich tasted like,
+
+01:11:39.080 --> 01:11:41.720 align:middle line:84%
+would have values v
+distributed uniform 0, 1.
+
+01:11:41.720 --> 01:11:45.680 align:middle line:84%
+Or maybe in this
+case, uniform 0, $18.
+
+01:11:45.680 --> 01:11:49.470 align:middle line:84%
+Suppose that the monopolist has
+a constant marginal cost of 1/3.
+
+01:11:49.470 --> 01:11:50.980 align:middle line:90%
+So $6 in this example.
+
+01:11:50.980 --> 01:11:54.250 align:middle line:90%
+
+
+01:11:54.250 --> 01:11:56.710 align:middle line:84%
+What are you going to do if
+consumers are fully informed?
+
+01:11:56.710 --> 01:11:58.630 align:middle line:90%
+They have values uniform 0, 1.
+
+01:11:58.630 --> 01:12:00.850 align:middle line:90%
+You have a cost of 1/3.
+
+01:12:00.850 --> 01:12:05.380 align:middle line:84%
+You maximize p minus
+1/3 times 1 minus p.
+
+01:12:05.380 --> 01:12:07.600 align:middle line:90%
+Monopoly price is 2/3.
+
+01:12:07.600 --> 01:12:11.540 align:middle line:84%
+So we get this situation
+of your cost is 1/3.
+
+01:12:11.540 --> 01:12:13.300 align:middle line:90%
+You set a price of 2/3.
+
+01:12:13.300 --> 01:12:15.460 align:middle line:90%
+1/3 of the people buy.
+
+01:12:15.460 --> 01:12:19.580 align:middle line:84%
+So if I multiply by 18,
+I have a cost of $6.
+
+01:12:19.580 --> 01:12:21.760 align:middle line:90%
+I set the price at $12.
+
+01:12:21.760 --> 01:12:23.300 align:middle line:84%
+1/3 of the people
+buy my sandwich.
+
+01:12:23.300 --> 01:12:24.440 align:middle line:90%
+I make $6 each.
+
+01:12:24.440 --> 01:12:25.455 align:middle line:90%
+I make $2 in profit.
+
+01:12:25.455 --> 01:12:28.710 align:middle line:90%
+
+
+01:12:28.710 --> 01:12:31.110 align:middle line:84%
+So that's clearly
+one thing that Clover
+
+01:12:31.110 --> 01:12:34.410 align:middle line:84%
+could do is just tell everybody
+everything about the sandwich,
+
+01:12:34.410 --> 01:12:36.240 align:middle line:84%
+somehow convey to them
+what it tastes like.
+
+01:12:36.240 --> 01:12:38.573 align:middle line:84%
+I don't know quite how they
+do that, but they convey it.
+
+01:12:38.573 --> 01:12:39.750 align:middle line:90%
+People get these values.
+
+01:12:39.750 --> 01:12:41.610 align:middle line:84%
+Maybe they give free
+sandwiches to everyone,
+
+01:12:41.610 --> 01:12:43.980 align:middle line:90%
+so they all learn their values.
+
+01:12:43.980 --> 01:12:46.588 align:middle line:84%
+They learn their v's and
+then they monopoly price
+
+01:12:46.588 --> 01:12:47.630 align:middle line:90%
+relative to those values.
+
+01:12:47.630 --> 01:12:52.730 align:middle line:90%
+
+
+01:12:52.730 --> 01:12:55.250 align:middle line:90%
+What else could you do?
+
+01:12:55.250 --> 01:13:00.923 align:middle line:84%
+Imagine that consumers
+learn their values.
+
+01:13:00.923 --> 01:13:04.340 align:middle line:90%
+
+
+01:13:04.340 --> 01:13:06.350 align:middle line:84%
+Consumers have to learn
+their values somewhere.
+
+01:13:06.350 --> 01:13:07.950 align:middle line:84%
+I know there's a
+new Clover sandwich.
+
+01:13:07.950 --> 01:13:10.010 align:middle line:84%
+How would I know whether
+I like it or not?
+
+01:13:10.010 --> 01:13:12.830 align:middle line:84%
+I know that I'm rational,
+so I know that v
+
+01:13:12.830 --> 01:13:15.823 align:middle line:90%
+is distributed uniform 0, 18.
+
+01:13:15.823 --> 01:13:17.990 align:middle line:84%
+But I don't know whether
+I'm one of the people who's
+
+01:13:17.990 --> 01:13:21.440 align:middle line:84%
+going to this sandwich or one
+who's not going to the sandwich.
+
+01:13:21.440 --> 01:13:23.480 align:middle line:84%
+Imagine one thing
+Clover could do
+
+01:13:23.480 --> 01:13:27.392 align:middle line:84%
+is provide no information
+whatsoever about the sandwich.
+
+01:13:27.392 --> 01:13:29.100 align:middle line:84%
+Don't even tell you
+it's got cauliflower.
+
+01:13:29.100 --> 01:13:30.683 align:middle line:84%
+Don't even tell you
+what the spice is.
+
+01:13:30.683 --> 01:13:33.320 align:middle line:84%
+Say, this is the
+new Clover sandwich.
+
+01:13:33.320 --> 01:13:34.790 align:middle line:84%
+If you're a rational,
+you're going
+
+01:13:34.790 --> 01:13:37.645 align:middle line:84%
+to know that, OK, there's
+a new sandwich out there.
+
+01:13:37.645 --> 01:13:40.970 align:middle line:90%
+
+
+01:13:40.970 --> 01:13:42.950 align:middle line:84%
+My value must be
+somewhere between 0 and 18
+
+01:13:42.950 --> 01:13:44.450 align:middle line:90%
+for that sandwich.
+
+01:13:44.450 --> 01:13:49.540 align:middle line:90%
+I don't know what that value is.
+
+01:13:49.540 --> 01:13:51.610 align:middle line:90%
+Or uniform 0, 1.
+
+01:13:51.610 --> 01:13:55.380 align:middle line:84%
+So here I would think on average
+that sandwich is worth $9 to me
+
+01:13:55.380 --> 01:13:55.880 align:middle line:90%
+not knowing.
+
+01:13:55.880 --> 01:13:57.172 align:middle line:90%
+It's just in a brown paper bag.
+
+01:13:57.172 --> 01:13:58.030 align:middle line:90%
+They've kept.
+
+01:13:58.030 --> 01:14:01.450 align:middle line:90%
+It's a secret sandwich.
+
+01:14:01.450 --> 01:14:05.140 align:middle line:84%
+My value is 1/2 or
+9 in that example.
+
+01:14:05.140 --> 01:14:07.330 align:middle line:84%
+So what the monopolist
+can do is sell
+
+01:14:07.330 --> 01:14:09.130 align:middle line:84%
+these sandwiches in
+the brown paper bags
+
+01:14:09.130 --> 01:14:11.970 align:middle line:90%
+to everyone at a price of 9.
+
+01:14:11.970 --> 01:14:14.880 align:middle line:84%
+And so instead of
+selling it to the--
+
+01:14:14.880 --> 01:14:17.400 align:middle line:84%
+I had the previous example, I'd
+sell it to 1/3 of the people
+
+01:14:17.400 --> 01:14:23.550 align:middle line:84%
+at a price of 12 and earn 1/3
+times 12 minus 6 is $2 profit.
+
+01:14:23.550 --> 01:14:28.320 align:middle line:84%
+Now everyone is willing to buy
+the sandwich in the paper bag.
+
+01:14:28.320 --> 01:14:30.235 align:middle line:84%
+They're only willing
+to pay $9 for it
+
+01:14:30.235 --> 01:14:31.860 align:middle line:84%
+because they don't
+know whether they're
+
+01:14:31.860 --> 01:14:33.735 align:middle line:84%
+someone who likes the
+sandwich or someone who
+
+01:14:33.735 --> 01:14:34.780 align:middle line:90%
+hates the sandwich.
+
+01:14:34.780 --> 01:14:39.190 align:middle line:84%
+But I get 1/3 times
+9 minus 6 is 3.
+
+01:14:39.190 --> 01:14:42.705 align:middle line:84%
+So I've made more money by
+hiding what my product is.
+
+01:14:42.705 --> 01:14:45.728 align:middle line:90%
+
+
+01:14:45.728 --> 01:14:48.780 align:middle line:84%
+And how I made more money by
+hiding what my product is,
+
+01:14:48.780 --> 01:14:52.380 align:middle line:84%
+well, social surplus
+has gone down.
+
+01:14:52.380 --> 01:14:56.240 align:middle line:84%
+There are all these people with
+low values for the sandwich,
+
+01:14:56.240 --> 01:14:58.200 align:middle line:90%
+values below 6.
+
+01:14:58.200 --> 01:14:59.910 align:middle line:84%
+That sandwich should
+not be sold to them.
+
+01:14:59.910 --> 01:15:01.790 align:middle line:84%
+There's this
+inefficient production
+
+01:15:01.790 --> 01:15:04.760 align:middle line:84%
+that there are
+people who don't even
+
+01:15:04.760 --> 01:15:07.820 align:middle line:84%
+like the sandwich it's
+being produced and sold to.
+
+01:15:07.820 --> 01:15:11.600 align:middle line:84%
+But I've eliminated the
+monopoly deadweight loss
+
+01:15:11.600 --> 01:15:14.330 align:middle line:84%
+that came from these people
+with values between 6 and 12
+
+01:15:14.330 --> 01:15:17.160 align:middle line:84%
+not getting the sandwich
+because monopoly pricing at 12.
+
+01:15:17.160 --> 01:15:21.650 align:middle line:84%
+And so because I'm extracting
+all the consumer surplus,
+
+01:15:21.650 --> 01:15:23.930 align:middle line:84%
+I've driven consumer
+surplus to 0,
+
+01:15:23.930 --> 01:15:26.640 align:middle line:84%
+total social surplus
+has gone down.
+
+01:15:26.640 --> 01:15:30.080 align:middle line:84%
+But because consumer surplus
+went down even faster
+
+01:15:30.080 --> 01:15:35.750 align:middle line:84%
+than social surplus went
+up, suppressing information
+
+01:15:35.750 --> 01:15:39.530 align:middle line:84%
+is transferred surplus and
+the monopolist is better off.
+
+01:15:39.530 --> 01:15:41.210 align:middle line:84%
+So this is just
+an extreme example
+
+01:15:41.210 --> 01:15:45.330 align:middle line:84%
+where I hide information about
+my product, my profits go up,
+
+01:15:45.330 --> 01:15:48.580 align:middle line:84%
+and it goes up because I've
+made consumers homogeneous.
+
+01:15:48.580 --> 01:15:51.940 align:middle line:84%
+By making them homogeneous, I
+can extract all their surplus.
+
+01:15:51.940 --> 01:15:55.953 align:middle line:84%
+And that's socially
+wasteful, but it's
+
+01:15:55.953 --> 01:15:57.870 align:middle line:84%
+a transfer from the
+consumer to the monopolist
+
+01:15:57.870 --> 01:15:59.495 align:middle line:84%
+and it makes the
+monopolist better off.
+
+01:15:59.495 --> 01:16:03.816 align:middle line:90%
+
+
+01:16:03.816 --> 01:16:08.030 align:middle line:84%
+So anyway, that's one
+thing Clover could do here.
+
+01:16:08.030 --> 01:16:11.750 align:middle line:84%
+Second observation is that you
+can also have examples like this
+
+01:16:11.750 --> 01:16:17.890 align:middle line:84%
+where providing less
+than full information
+
+01:16:17.890 --> 01:16:20.260 align:middle line:84%
+actually makes the
+consumer surplus go up.
+
+01:16:20.260 --> 01:16:21.360 align:middle line:90%
+So here's an example.
+
+01:16:21.360 --> 01:16:25.600 align:middle line:84%
+Again, think about
+Amazon or Yelp trying
+
+01:16:25.600 --> 01:16:29.190 align:middle line:84%
+to sell through Clover,
+provide information
+
+01:16:29.190 --> 01:16:31.650 align:middle line:84%
+about Clover
+sandwiches to people,
+
+01:16:31.650 --> 01:16:39.830 align:middle line:84%
+and give the consumers more
+surplus by using the platform.
+
+01:16:39.830 --> 01:16:43.040 align:middle line:84%
+So suppose what
+happens here is that--
+
+01:16:43.040 --> 01:16:47.510 align:middle line:84%
+so think of Yelp as the firm
+designing the information
+
+01:16:47.510 --> 01:16:48.560 align:middle line:90%
+structure.
+
+01:16:48.560 --> 01:16:52.070 align:middle line:84%
+And suppose that Yelp, because
+they've read all your reviews
+
+01:16:52.070 --> 01:16:54.770 align:middle line:84%
+that you've ever written
+of restaurants in the past,
+
+01:16:54.770 --> 01:16:59.540 align:middle line:84%
+they know how much you're going
+to like the Clover sandwich.
+
+01:16:59.540 --> 01:17:01.400 align:middle line:84%
+They've got enough
+things of people
+
+01:17:01.400 --> 01:17:04.110 align:middle line:84%
+who both ate this sandwich
+and had the same taste as you
+
+01:17:04.110 --> 01:17:09.110 align:middle line:84%
+at all previous restaurants,
+that Yelp knows whether or not
+
+01:17:09.110 --> 01:17:11.570 align:middle line:84%
+you're going to
+like the sandwich.
+
+01:17:11.570 --> 01:17:13.463 align:middle line:84%
+Because in some
+sense, they implicitly
+
+01:17:13.463 --> 01:17:15.505 align:middle line:84%
+know what it tastes like
+relative to your tastes.
+
+01:17:15.505 --> 01:17:18.300 align:middle line:90%
+
+
+01:17:18.300 --> 01:17:19.800 align:middle line:84%
+And so suppose what
+Yelp does is it
+
+01:17:19.800 --> 01:17:23.310 align:middle line:84%
+commits to this partial
+information policy.
+
+01:17:23.310 --> 01:17:28.185 align:middle line:84%
+If your value is between 0 and
+1/3 or 0 and $6, it tells you,
+
+01:17:28.185 --> 01:17:31.050 align:middle line:84%
+you are someone who is going
+to have a low value for that
+
+01:17:31.050 --> 01:17:32.870 align:middle line:90%
+sandwich.
+
+01:17:32.870 --> 01:17:36.450 align:middle line:84%
+If your value is
+between 1/3 and 7/9,
+
+01:17:36.450 --> 01:17:40.670 align:middle line:84%
+so that's between $6 and
+$14, it's going to you,
+
+01:17:40.670 --> 01:17:43.410 align:middle line:84%
+you have a medium value
+for that sandwich.
+
+01:17:43.410 --> 01:17:46.410 align:middle line:84%
+And if your value is between $14
+and $18, it's going to tell you,
+
+01:17:46.410 --> 01:17:48.370 align:middle line:84%
+you have a high value
+for that sandwich.
+
+01:17:48.370 --> 01:17:50.850 align:middle line:84%
+So it's like it's
+taken the sandwich,
+
+01:17:50.850 --> 01:17:53.980 align:middle line:84%
+it's wrapped it in a paper bag
+and not told you what it is,
+
+01:17:53.980 --> 01:17:56.790 align:middle line:84%
+but it says, based on
+what we know about you,
+
+01:17:56.790 --> 01:17:58.795 align:middle line:84%
+your value for this
+sandwich is low.
+
+01:17:58.795 --> 01:18:00.420 align:middle line:84%
+Your value for that
+sandwich is medium.
+
+01:18:00.420 --> 01:18:02.760 align:middle line:84%
+Your value of that
+sandwich is high.
+
+01:18:02.760 --> 01:18:04.380 align:middle line:84%
+And then it sends
+you into Clover
+
+01:18:04.380 --> 01:18:08.490 align:middle line:84%
+with that knowledge of you only
+can buy from Clover through Yelp
+
+01:18:08.490 --> 01:18:09.780 align:middle line:90%
+in this example.
+
+01:18:09.780 --> 01:18:12.450 align:middle line:84%
+I mean, it's more
+plausible with Amazon.
+
+01:18:12.450 --> 01:18:15.750 align:middle line:84%
+And so all you're provided with
+is the information of my value
+
+01:18:15.750 --> 01:18:18.690 align:middle line:84%
+is low, my value is medium,
+or my value is high.
+
+01:18:18.690 --> 01:18:23.640 align:middle line:84%
+So what does Clover do
+when it's in this world?
+
+01:18:23.640 --> 01:18:27.210 align:middle line:84%
+Well, the people who are told
+the value is low think that
+
+01:18:27.210 --> 01:18:33.410 align:middle line:90%
+the value is 1/6 or 3.
+
+01:18:33.410 --> 01:18:36.350 align:middle line:84%
+Those who think that their value
+is medium think their value is
+
+01:18:36.350 --> 01:18:40.740 align:middle line:84%
+5/9, halfway
+between 3/9 and 7/9.
+
+01:18:40.740 --> 01:18:43.910 align:middle line:84%
+And those who are told the value
+is high in expectation think
+
+01:18:43.910 --> 01:18:47.000 align:middle line:84%
+their utility is
+going to be 8/9.
+
+01:18:47.000 --> 01:18:49.770 align:middle line:84%
+So Clover is facing
+a strange population
+
+01:18:49.770 --> 01:18:54.880 align:middle line:84%
+where we now have, instead
+of having consumers
+
+01:18:54.880 --> 01:18:59.770 align:middle line:84%
+with values uniform on 0 to 18,
+we now just have 3 point masses.
+
+01:18:59.770 --> 01:19:04.270 align:middle line:84%
+We have a point mass of 1/3 on
+people who think it's worth $3
+
+01:19:04.270 --> 01:19:05.800 align:middle line:90%
+to them.
+
+01:19:05.800 --> 01:19:10.480 align:middle line:84%
+We have a point mass
+that's this big.
+
+01:19:10.480 --> 01:19:13.930 align:middle line:84%
+4/9 of the people who think
+the thing is worth 10.
+
+01:19:13.930 --> 01:19:17.950 align:middle line:84%
+And then we have a smaller point
+mass 2/9 who think the thing is
+
+01:19:17.950 --> 01:19:18.873 align:middle line:90%
+worth 16.
+
+01:19:18.873 --> 01:19:22.330 align:middle line:90%
+
+
+01:19:22.330 --> 01:19:24.930 align:middle line:84%
+So what does Clover do if
+it's faced with this demand?
+
+01:19:24.930 --> 01:19:26.680 align:middle line:84%
+There are some people
+who think it's worth
+
+01:19:26.680 --> 01:19:31.450 align:middle line:84%
+3, some who think it's worth 10,
+some who think it's worth 16.
+
+01:19:31.450 --> 01:19:34.630 align:middle line:84%
+Well, obviously, you're going
+to price the good either
+
+01:19:34.630 --> 01:19:38.530 align:middle line:90%
+at 10 or 16 in this example.
+
+01:19:38.530 --> 01:19:41.410 align:middle line:84%
+Because everyone has a value
+of-- if I price a value
+
+01:19:41.410 --> 01:19:42.910 align:middle line:84%
+more than 10, only
+these people buy,
+
+01:19:42.910 --> 01:19:44.740 align:middle line:90%
+so I might as well charge 16.
+
+01:19:44.740 --> 01:19:46.850 align:middle line:90%
+So I basically have two choices.
+
+01:19:46.850 --> 01:19:52.060 align:middle line:84%
+I can price it at 10 and earn
+10 to the minus 6 and sell it
+
+01:19:52.060 --> 01:19:54.800 align:middle line:90%
+to 2/3 of the people.
+
+01:19:54.800 --> 01:20:01.670 align:middle line:84%
+Or I can price it at 16 and
+get 16 minus 6 and then sell it
+
+01:20:01.670 --> 01:20:02.815 align:middle line:90%
+to 2/9 of the people.
+
+01:20:02.815 --> 01:20:06.990 align:middle line:90%
+
+
+01:20:06.990 --> 01:20:11.040 align:middle line:84%
+And I think the way I did
+these numbers, selling
+
+01:20:11.040 --> 01:20:15.180 align:middle line:84%
+to both groups at 10 is
+better for them than selling
+
+01:20:15.180 --> 01:20:17.920 align:middle line:90%
+to only the high types at 16.
+
+01:20:17.920 --> 01:20:24.070 align:middle line:84%
+So what happens is I get them
+to sell the sandwich to both
+
+01:20:24.070 --> 01:20:27.500 align:middle line:90%
+the medium and the high types.
+
+01:20:27.500 --> 01:20:29.810 align:middle line:84%
+And if you look
+at what I've done,
+
+01:20:29.810 --> 01:20:32.450 align:middle line:84%
+I've worked out the
+calculations here.
+
+01:20:32.450 --> 01:20:35.120 align:middle line:84%
+I've gotten them to
+sell the sandwich.
+
+01:20:35.120 --> 01:20:38.780 align:middle line:84%
+Instead of having the
+monopoly price of 12,
+
+01:20:38.780 --> 01:20:40.970 align:middle line:84%
+the monopoly price was
+sell it at 12 and everyone
+
+01:20:40.970 --> 01:20:44.810 align:middle line:90%
+with a value above 12 buys.
+
+01:20:44.810 --> 01:20:46.790 align:middle line:84%
+Here I've gotten
+them to sell the good
+
+01:20:46.790 --> 01:20:51.270 align:middle line:90%
+at a price of 10 instead of 12.
+
+01:20:51.270 --> 01:20:53.340 align:middle line:90%
+And so by getting them to--
+
+01:20:53.340 --> 01:20:55.950 align:middle line:84%
+by some sense, creating
+this extra mass of consumers
+
+01:20:55.950 --> 01:20:58.155 align:middle line:84%
+who think it's worth
+10, I've shifted down
+
+01:20:58.155 --> 01:21:00.030 align:middle line:84%
+where the monopoly price
+is and gotten clover
+
+01:21:00.030 --> 01:21:02.520 align:middle line:84%
+to sell the good at
+10 instead of 12.
+
+01:21:02.520 --> 01:21:06.960 align:middle line:84%
+And it turns out, if you
+work out the algebra here,
+
+01:21:06.960 --> 01:21:13.620 align:middle line:84%
+the profit of the monopolist
+is, I believe, lower.
+
+01:21:13.620 --> 01:21:14.340 align:middle line:90%
+Nope.
+
+01:21:14.340 --> 01:21:16.030 align:middle line:90%
+So actually, sorry, it's here.
+
+01:21:16.030 --> 01:21:18.750 align:middle line:84%
+So consumer surplus
+is higher than it
+
+01:21:18.750 --> 01:21:19.900 align:middle line:90%
+is under monopoly pricing.
+
+01:21:19.900 --> 01:21:22.358 align:middle line:84%
+And actually, in this example,
+the profit of the monopolist
+
+01:21:22.358 --> 01:21:23.460 align:middle line:90%
+is also higher.
+
+01:21:23.460 --> 01:21:26.530 align:middle line:84%
+So this was the no
+information treatment.
+
+01:21:26.530 --> 01:21:29.170 align:middle line:84%
+This was the full
+information treatment.
+
+01:21:29.170 --> 01:21:34.230 align:middle line:84%
+This one I've actually bumped
+up consumer surplus and profits
+
+01:21:34.230 --> 01:21:37.470 align:middle line:84%
+relative to the
+monopolist is done.
+
+01:21:37.470 --> 01:21:41.040 align:middle line:84%
+Anyway, so I am out of time now,
+so why don't I leave it there?
+
+01:21:41.040 --> 01:21:46.940 align:middle line:84%
+I will do my final slides on
+information design next time.
+
+01:21:46.940 --> 01:21:52.080 align:middle line:84%
+And I should say jumping
+ahead, as I said,
+
+01:21:52.080 --> 01:21:54.780 align:middle line:84%
+I'm going to do theory on
+Wednesdays and empirical work
+
+01:21:54.780 --> 01:21:57.055 align:middle line:84%
+on Mondays for the
+immediate future.
+
+01:21:57.055 --> 01:21:58.680 align:middle line:84%
+So in Monday's class,
+I'm going to talk
+
+01:21:58.680 --> 01:22:01.200 align:middle line:84%
+about two empirical papers
+on monopoly pricing,
+
+01:22:01.200 --> 01:22:04.530 align:middle line:84%
+Chevalier-Goolsbee
+and Gentzkow-Shapiro.
+
+01:22:04.530 --> 01:22:07.080 align:middle line:90%
+So be useful for you to--
+
+01:22:07.080 --> 01:22:08.850 align:middle line:84%
+I will discuss
+what's in the papers,
+
+01:22:08.850 --> 01:22:11.635 align:middle line:84%
+but probably useful for you
+to try to look at the papers
+
+01:22:11.635 --> 01:22:13.260 align:middle line:84%
+beforehand, try to
+read what's in them,
+
+01:22:13.260 --> 01:22:15.420 align:middle line:84%
+get some sense for
+reading IO papers.
+
+01:22:15.420 --> 01:22:18.090 align:middle line:84%
+I will say that Gentzkow-Shapiro
+is a bit difficult paper
+
+01:22:18.090 --> 01:22:20.700 align:middle line:84%
+to read if you haven't
+done a lot of econometrics.
+
+01:22:20.700 --> 01:22:23.280 align:middle line:84%
+We are covering the
+demand estimation
+
+01:22:23.280 --> 01:22:24.867 align:middle line:90%
+in week four of this course.
+
+01:22:24.867 --> 01:22:26.700 align:middle line:84%
+And in the first three
+weeks of this course,
+
+01:22:26.700 --> 01:22:28.825 align:middle line:84%
+you may be reading papers
+on demand estimation that
+
+01:22:28.825 --> 01:22:29.710 align:middle line:90%
+are harder to read.
+
+01:22:29.710 --> 01:22:31.320 align:middle line:84%
+I would just in the
+first three weeks
+
+01:22:31.320 --> 01:22:34.230 align:middle line:84%
+skim through them if you haven't
+done GMM estimation and things
+
+01:22:34.230 --> 01:22:37.250 align:middle line:84%
+and have trouble
+reading those papers.
+
+01:22:37.250 --> 01:22:37.870 align:middle line:90%
+OK.
+
+01:22:37.870 --> 01:22:38.530 align:middle line:90%
+Thanks.
+
+01:22:38.530 --> 01:22:41.540 align:middle line:84%
+Hope you enjoy the course,
+and I will see you on Monday.
+
+01:22:41.540 --> 01:22:48.000 align:middle line:90%

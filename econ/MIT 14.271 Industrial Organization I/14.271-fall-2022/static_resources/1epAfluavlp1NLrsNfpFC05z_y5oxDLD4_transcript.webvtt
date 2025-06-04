@@ -1,0 +1,6364 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.409 align:middle line:84%
+[SQUEAKING]
+[RUSTLING] [CLICKING]
+
+00:00:03.409 --> 00:00:17.570 align:middle line:90%
+
+
+00:00:17.570 --> 00:00:23.860 align:middle line:84%
+GLENN ELLISON: Today I'm going
+to do some empirical literature
+
+00:00:23.860 --> 00:00:24.360 align:middle line:90%
+on entry.
+
+00:00:24.360 --> 00:00:28.640 align:middle line:84%
+And I wanted to start with
+this really classic paper
+
+00:00:28.640 --> 00:00:31.100 align:middle line:90%
+by Bresnahan and Reiss.
+
+00:00:31.100 --> 00:00:34.760 align:middle line:84%
+And Bresnahan and Reiss-- it's
+actually-- it's an entry paper,
+
+00:00:34.760 --> 00:00:37.500 align:middle line:84%
+but it's really a static
+competition paper.
+
+00:00:37.500 --> 00:00:41.420 align:middle line:84%
+So the research question
+here is, how empirically
+
+00:00:41.420 --> 00:00:43.700 align:middle line:84%
+does level of markups
+and competition
+
+00:00:43.700 --> 00:00:46.130 align:middle line:84%
+change when you have
+more firms in the market?
+
+00:00:46.130 --> 00:00:47.930 align:middle line:90%
+Is it true that--
+
+00:00:47.930 --> 00:00:50.030 align:middle line:84%
+I guess maybe it
+is the entry graph.
+
+00:00:50.030 --> 00:00:52.147 align:middle line:84%
+What does this graph
+look like when--
+
+00:00:52.147 --> 00:00:56.260 align:middle line:90%
+
+
+00:00:56.260 --> 00:00:58.460 align:middle line:84%
+what does the
+price/cost margin look
+
+00:00:58.460 --> 00:01:00.680 align:middle line:90%
+like as the number of firms--
+
+00:01:00.680 --> 00:01:05.060 align:middle line:84%
+or their profits look like as
+the number of firms enters.
+
+00:01:05.060 --> 00:01:08.300 align:middle line:84%
+And Bresnahan and Reiss are
+starting from this classic NEIO
+
+00:01:08.300 --> 00:01:12.260 align:middle line:84%
+approach of thinking that it's
+very hard to estimate profits
+
+00:01:12.260 --> 00:01:15.140 align:middle line:84%
+because it's very hard
+to estimate costs.
+
+00:01:15.140 --> 00:01:17.970 align:middle line:84%
+In many businesses, there
+are lots of intangible costs.
+
+00:01:17.970 --> 00:01:20.710 align:middle line:84%
+And you can't just
+[INAUDIBLE] to get that.
+
+00:01:20.710 --> 00:01:23.445 align:middle line:84%
+So we want to use something
+that's readily observable,
+
+00:01:23.445 --> 00:01:26.710 align:middle line:84%
+and the idea is that entry
+is very clearly observable,
+
+00:01:26.710 --> 00:01:31.020 align:middle line:84%
+whereas the [INAUDIBLE]
+costs observed are not.
+
+00:01:31.020 --> 00:01:32.700 align:middle line:84%
+The other idea in
+Bresnahan and Reiss
+
+00:01:32.700 --> 00:01:35.910 align:middle line:84%
+is that in IO, one of
+the challenges is always,
+
+00:01:35.910 --> 00:01:38.220 align:middle line:84%
+how do you get a cross
+enough-- a big enough cross
+
+00:01:38.220 --> 00:01:42.810 align:middle line:84%
+section of observations to run
+the significant statistical
+
+00:01:42.810 --> 00:01:43.690 align:middle line:90%
+estimates?
+
+00:01:43.690 --> 00:01:46.170 align:middle line:84%
+And Bresnahan and
+Reiss had this idea
+
+00:01:46.170 --> 00:01:48.880 align:middle line:84%
+of looking at
+isolated small towns.
+
+00:01:48.880 --> 00:01:50.715 align:middle line:84%
+And so if you look
+at the United States,
+
+00:01:50.715 --> 00:01:52.590 align:middle line:84%
+one thing that's nice
+about the United States
+
+00:01:52.590 --> 00:01:54.340 align:middle line:90%
+is it's very, very big.
+
+00:01:54.340 --> 00:01:55.980 align:middle line:84%
+And there are many
+parts of it where
+
+00:01:55.980 --> 00:01:57.580 align:middle line:90%
+there aren't a lot of people.
+
+00:01:57.580 --> 00:02:00.720 align:middle line:84%
+And so that gives you a lot of
+towns where there are towns,
+
+00:02:00.720 --> 00:02:02.980 align:middle line:84%
+and then there's very
+little around them.
+
+00:02:02.980 --> 00:02:05.760 align:middle line:90%
+And so if you think about--
+
+00:02:05.760 --> 00:02:07.890 align:middle line:84%
+you go search around
+the United States,
+
+00:02:07.890 --> 00:02:10.720 align:middle line:84%
+it's a big enough country that
+you can-- if you want towns--
+
+00:02:10.720 --> 00:02:12.360 align:middle line:84%
+and in Bresnahan
+and Reiss's case,
+
+00:02:12.360 --> 00:02:13.730 align:middle line:90%
+what they're looking for is--
+
+00:02:13.730 --> 00:02:16.710 align:middle line:90%
+I forget what the cut-offs are.
+
+00:02:16.710 --> 00:02:19.220 align:middle line:84%
+You have towns that
+have at least--
+
+00:02:19.220 --> 00:02:23.340 align:middle line:84%
+you have cities that are
+isolated in the sense of--
+
+00:02:23.340 --> 00:02:27.640 align:middle line:84%
+I think they're all 100,000
+miles from any city of 100,000--
+
+00:02:27.640 --> 00:02:30.670 align:middle line:84%
+they're 100 miles from any
+city of 100,000 people.
+
+00:02:30.670 --> 00:02:33.840 align:middle line:84%
+And they are at least 20 miles
+from any city of 1,000 people.
+
+00:02:33.840 --> 00:02:35.340 align:middle line:84%
+So these are all
+towns that are just
+
+00:02:35.340 --> 00:02:38.100 align:middle line:84%
+completely isolated from
+anything else that you would--
+
+00:02:38.100 --> 00:02:40.027 align:middle line:90%
+any other population centers.
+
+00:02:40.027 --> 00:02:41.860 align:middle line:84%
+And they note that there
+are a lot of them--
+
+00:02:41.860 --> 00:02:45.690 align:middle line:90%
+and, in fact, I think they--
+
+00:02:45.690 --> 00:02:48.300 align:middle line:84%
+Peter tells stories of
+driving around and wanting
+
+00:02:48.300 --> 00:02:51.210 align:middle line:84%
+to verify the data by
+just driving around
+
+00:02:51.210 --> 00:02:53.970 align:middle line:84%
+to all of these small
+towns and then asking them,
+
+00:02:53.970 --> 00:02:55.840 align:middle line:84%
+where can I get a
+plumber in this town?
+
+00:02:55.840 --> 00:02:57.215 align:middle line:84%
+Where can I get--
+where can I buy
+
+00:02:57.215 --> 00:02:59.100 align:middle line:90%
+tires for my car or whatever?
+
+00:02:59.100 --> 00:03:00.150 align:middle line:90%
+And so what they did is--
+
+00:03:00.150 --> 00:03:01.590 align:middle line:84%
+most of the data
+collection was done
+
+00:03:01.590 --> 00:03:02.798 align:middle line:90%
+through business directories.
+
+00:03:02.798 --> 00:03:05.040 align:middle line:84%
+They basically just
+looked at a US map,
+
+00:03:05.040 --> 00:03:06.972 align:middle line:84%
+found places that were
+completely isolated.
+
+00:03:06.972 --> 00:03:08.430 align:middle line:84%
+And then we used
+to have this thing
+
+00:03:08.430 --> 00:03:11.400 align:middle line:84%
+called yellow pages, which was
+like a phone directory, where
+
+00:03:11.400 --> 00:03:13.960 align:middle line:84%
+you would look up phone
+numbers in a book.
+
+00:03:13.960 --> 00:03:16.640 align:middle line:84%
+And so people would use these
+books to look up phone numbers.
+
+00:03:16.640 --> 00:03:19.650 align:middle line:84%
+They would find out who was
+advertising as a plumber in each
+
+00:03:19.650 --> 00:03:20.490 align:middle line:90%
+of these towns.
+
+00:03:20.490 --> 00:03:23.560 align:middle line:84%
+They also use just
+business directories.
+
+00:03:23.560 --> 00:03:26.280 align:middle line:84%
+And then they
+visited them to see,
+
+00:03:26.280 --> 00:03:28.680 align:middle line:84%
+was this data being
+accurately collected?
+
+00:03:28.680 --> 00:03:31.392 align:middle line:90%
+
+
+00:03:31.392 --> 00:03:34.920 align:middle line:84%
+The paper-- it's a
+single cross-section.
+
+00:03:34.920 --> 00:03:38.820 align:middle line:84%
+They don't observe firms
+entering in or exiting.
+
+00:03:38.820 --> 00:03:42.200 align:middle line:84%
+But what they're going to
+infer is that sometime prior
+
+00:03:42.200 --> 00:03:44.480 align:middle line:84%
+to the point at which
+they're collecting the data,
+
+00:03:44.480 --> 00:03:48.710 align:middle line:90%
+this firm's--
+
+00:03:48.710 --> 00:03:51.570 align:middle line:84%
+classic game is
+firms choose in/out.
+
+00:03:51.570 --> 00:03:57.645 align:middle line:84%
+And then firms choose prices
+or quantity star of n--
+
+00:03:57.645 --> 00:03:59.170 align:middle line:90%
+q star of n.
+
+00:03:59.170 --> 00:04:02.930 align:middle line:90%
+
+
+00:04:02.930 --> 00:04:04.240 align:middle line:90%
+They paid a fixed cost.
+
+00:04:04.240 --> 00:04:05.990 align:middle line:84%
+They assume that this
+game has been played
+
+00:04:05.990 --> 00:04:07.080 align:middle line:90%
+at some point in the past.
+
+00:04:07.080 --> 00:04:09.290 align:middle line:84%
+And so what we're observing
+in each market is,
+
+00:04:09.290 --> 00:04:12.520 align:middle line:84%
+what's the equilibrium number
+of firms in that market?
+
+00:04:12.520 --> 00:04:16.640 align:middle line:90%
+
+
+00:04:16.640 --> 00:04:18.920 align:middle line:84%
+The basic thing the
+paper then tries to do
+
+00:04:18.920 --> 00:04:21.440 align:middle line:84%
+is say, if we can observe
+the number of firms
+
+00:04:21.440 --> 00:04:23.870 align:middle line:84%
+in a large cross-section
+of markets, that's
+
+00:04:23.870 --> 00:04:25.940 align:middle line:84%
+going to give us a
+means to estimate profit
+
+00:04:25.940 --> 00:04:31.980 align:middle line:84%
+levels without any data on
+prices or on costs or on demand.
+
+00:04:31.980 --> 00:04:35.133 align:middle line:90%
+And so consider of basic model.
+
+00:04:35.133 --> 00:04:36.300 align:middle line:90%
+You have the entry decision.
+
+00:04:36.300 --> 00:04:37.860 align:middle line:84%
+You have a firm that
+has fixed costs,
+
+00:04:37.860 --> 00:04:41.170 align:middle line:84%
+F. There's going to be
+symmetric competition.
+
+00:04:41.170 --> 00:04:45.060 align:middle line:84%
+So if there are N firms
+in a market with S people,
+
+00:04:45.060 --> 00:04:48.510 align:middle line:84%
+you're going to get S over N--
+so the total number of customers
+
+00:04:48.510 --> 00:04:53.700 align:middle line:84%
+divided by the number of firms
+times pN minus c D of pN.
+
+00:04:53.700 --> 00:04:56.730 align:middle line:84%
+And so they're going to call
+that's S over N times pi N.
+
+00:04:56.730 --> 00:05:02.040 align:middle line:84%
+So pi N is the per
+population profit--
+
+00:05:02.040 --> 00:05:05.910 align:middle line:84%
+or per population served
+profit in this market.
+
+00:05:05.910 --> 00:05:09.227 align:middle line:84%
+It reflects both sales you
+make to each customer-- there's
+
+00:05:09.227 --> 00:05:11.310 align:middle line:84%
+obviously only some fraction
+of the consumers that
+
+00:05:11.310 --> 00:05:12.160 align:middle line:90%
+are buying from you.
+
+00:05:12.160 --> 00:05:15.060 align:middle line:84%
+And so this is profit
+per person that's
+
+00:05:15.060 --> 00:05:16.690 align:middle line:90%
+in your part of the market.
+
+00:05:16.690 --> 00:05:20.430 align:middle line:84%
+So if you have a town, and
+roughly, it's divided like this,
+
+00:05:20.430 --> 00:05:23.140 align:middle line:84%
+and each firm gets one
+quarter of the market,
+
+00:05:23.140 --> 00:05:27.300 align:middle line:84%
+it's your per customer profit
+for the market that you serve.
+
+00:05:27.300 --> 00:05:29.500 align:middle line:84%
+We're going to have N
+firms in equilibrium
+
+00:05:29.500 --> 00:05:33.070 align:middle line:84%
+if S over N times pi N is
+bigger than the fixed cost.
+
+00:05:33.070 --> 00:05:36.010 align:middle line:84%
+But S over N plus
+1 times pi N plus 1
+
+00:05:36.010 --> 00:05:37.570 align:middle line:84%
+would be less than
+the fixed cost.
+
+00:05:37.570 --> 00:05:39.120 align:middle line:84%
+And obviously, this
+is decreasing--
+
+00:05:39.120 --> 00:05:42.340 align:middle line:84%
+this is smaller than
+this, both because you're
+
+00:05:42.340 --> 00:05:45.520 align:middle line:84%
+dividing the city
+into more fractions,
+
+00:05:45.520 --> 00:05:47.680 align:middle line:84%
+and the per customer
+profit goes down
+
+00:05:47.680 --> 00:05:50.670 align:middle line:90%
+because the price goes down.
+
+00:05:50.670 --> 00:05:53.100 align:middle line:84%
+And what we're going to
+say is what asset would
+
+00:05:53.100 --> 00:05:56.790 align:middle line:90%
+be the minimum size in which--
+
+00:05:56.790 --> 00:06:00.810 align:middle line:84%
+so, for instance, let's
+put N on this axis,
+
+00:06:00.810 --> 00:06:03.120 align:middle line:84%
+and then you can put
+the number of doctors
+
+00:06:03.120 --> 00:06:05.485 align:middle line:90%
+in a town on this axis.
+
+00:06:05.485 --> 00:06:07.860 align:middle line:84%
+And what you would observe,
+if you could draw this graph,
+
+00:06:07.860 --> 00:06:12.600 align:middle line:84%
+is towns that have no-- that are
+very small don't have a doctor.
+
+00:06:12.600 --> 00:06:14.280 align:middle line:84%
+And then there's
+some threshold--
+
+00:06:14.280 --> 00:06:16.230 align:middle line:90%
+maybe it's like 800 people--
+
+00:06:16.230 --> 00:06:19.830 align:middle line:84%
+where now there's a
+doctor in the town.
+
+00:06:19.830 --> 00:06:27.490 align:middle line:84%
+And then some other threshold
+where 2,000 people were.
+
+00:06:27.490 --> 00:06:30.255 align:middle line:84%
+Now you have to have
+two doctors, and then
+
+00:06:30.255 --> 00:06:32.713 align:middle line:84%
+some other threshold where you
+tend to have three doctors--
+
+00:06:32.713 --> 00:06:36.690 align:middle line:90%
+
+
+00:06:36.690 --> 00:06:39.500 align:middle line:90%
+2, 3.
+
+00:06:39.500 --> 00:06:43.010 align:middle line:84%
+And so the idea is that we
+can estimate these cut-off--
+
+00:06:43.010 --> 00:06:44.370 align:middle line:90%
+we can estimate these curves.
+
+00:06:44.370 --> 00:06:47.640 align:middle line:84%
+Obviously, in practice, you're
+going to see a lot of zeros.
+
+00:06:47.640 --> 00:06:51.230 align:middle line:84%
+You may see some doctors
+even in very small towns.
+
+00:06:51.230 --> 00:06:53.660 align:middle line:84%
+You'll still see some
+towns without doctors here,
+
+00:06:53.660 --> 00:06:58.190 align:middle line:84%
+but you'll see a lot of 1s, and
+maybe you'll even see some 2s.
+
+00:06:58.190 --> 00:07:01.010 align:middle line:84%
+But there's going to be, in
+general, some curve like this
+
+00:07:01.010 --> 00:07:03.860 align:middle line:84%
+where this is--
+typically, you need
+
+00:07:03.860 --> 00:07:09.410 align:middle line:84%
+to have S1 customers
+to have one doctor.
+
+00:07:09.410 --> 00:07:11.730 align:middle line:90%
+You need S2 to have two doctors.
+
+00:07:11.730 --> 00:07:16.730 align:middle line:84%
+Now, here, you need S3
+to have three doctors.
+
+00:07:16.730 --> 00:07:18.590 align:middle line:84%
+And so what they want
+to do is estimate
+
+00:07:18.590 --> 00:07:20.030 align:middle line:90%
+what does this look like?
+
+00:07:20.030 --> 00:07:23.060 align:middle line:84%
+How many people do you need to
+have before the first doctor
+
+00:07:23.060 --> 00:07:23.992 align:middle line:90%
+comes in?
+
+00:07:23.992 --> 00:07:26.450 align:middle line:84%
+How many do you need to have
+before the second doctor comes
+
+00:07:26.450 --> 00:07:26.810 align:middle line:90%
+in?
+
+00:07:26.810 --> 00:07:29.227 align:middle line:84%
+How many do you need to have
+before the third doctor comes
+
+00:07:29.227 --> 00:07:31.500 align:middle line:90%
+in?
+
+00:07:31.500 --> 00:07:34.597 align:middle line:84%
+Possibly you can estimate this
+just by plotting the cities
+
+00:07:34.597 --> 00:07:36.930 align:middle line:84%
+with the population on the
+x-axis, the number of doctors
+
+00:07:36.930 --> 00:07:38.460 align:middle line:90%
+on the y-axis.
+
+00:07:38.460 --> 00:07:40.680 align:middle line:84%
+Fit a curve that looks
+like this through them--
+
+00:07:40.680 --> 00:07:42.200 align:middle line:90%
+see where the jump points are.
+
+00:07:42.200 --> 00:07:45.210 align:middle line:90%
+
+
+00:07:45.210 --> 00:07:49.470 align:middle line:84%
+So if you assume that the
+fixed costs don't vary with N,
+
+00:07:49.470 --> 00:07:55.680 align:middle line:84%
+then SN over N is going to be pi
+N times pi N is going to be F.
+
+00:07:55.680 --> 00:08:00.630 align:middle line:84%
+And also, SN plus 1 over N plus
+1, pi N plus 1 is going to be F.
+
+00:08:00.630 --> 00:08:03.420 align:middle line:90%
+So both at this point--
+
+00:08:03.420 --> 00:08:05.273 align:middle line:84%
+at this point you
+know the second doctor
+
+00:08:05.273 --> 00:08:07.440 align:middle line:84%
+is just indifferent to
+entering or not because if it
+
+00:08:07.440 --> 00:08:08.732 align:middle line:90%
+was smaller, he wouldn't enter.
+
+00:08:08.732 --> 00:08:10.530 align:middle line:84%
+If it was bigger,
+he would enter.
+
+00:08:10.530 --> 00:08:15.670 align:middle line:84%
+Here, where the third doctor is
+in different entering or not.
+
+00:08:15.670 --> 00:08:19.800 align:middle line:84%
+So both of these, the profit
+that you get if you do come in,
+
+00:08:19.800 --> 00:08:22.650 align:middle line:90%
+is exactly F.
+
+00:08:22.650 --> 00:08:26.490 align:middle line:84%
+And so if you just set
+this equal to this,
+
+00:08:26.490 --> 00:08:28.440 align:middle line:90%
+and then you divide the--
+
+00:08:28.440 --> 00:08:30.280 align:middle line:84%
+bring the pi N down
+here in the denominator,
+
+00:08:30.280 --> 00:08:33.820 align:middle line:84%
+you get that the profit--
+with N plus 1 firms divided
+
+00:08:33.820 --> 00:08:36.190 align:middle line:84%
+by the profit of N
+firms is N plus 1
+
+00:08:36.190 --> 00:08:39.880 align:middle line:90%
+over N, SN over SN plus 1.
+
+00:08:39.880 --> 00:08:47.050 align:middle line:84%
+You could also write that
+as pi N plus 1 over pi N
+
+00:08:47.050 --> 00:08:54.840 align:middle line:84%
+equals SN over N divided
+by SN plus 1 over N plus 1.
+
+00:08:54.840 --> 00:08:59.250 align:middle line:90%
+
+
+00:08:59.250 --> 00:09:04.740 align:middle line:84%
+So the idea here is that
+imagine it takes 1,000 people
+
+00:09:04.740 --> 00:09:14.910 align:middle line:84%
+in a market to have one
+doctor, and S2 is 4,000.
+
+00:09:14.910 --> 00:09:16.050 align:middle line:90%
+Then this is--
+
+00:09:16.050 --> 00:09:18.310 align:middle line:90%
+S1 over 1 is 1,000.
+
+00:09:18.310 --> 00:09:21.300 align:middle line:84%
+You need 1,000 patients in
+order to be worthwhile to open
+
+00:09:21.300 --> 00:09:22.740 align:middle line:90%
+a doctor's office.
+
+00:09:22.740 --> 00:09:26.430 align:middle line:84%
+But then here, S2
+over 2 is 2,000.
+
+00:09:26.430 --> 00:09:28.893 align:middle line:84%
+So that would say you need
+2,000 people to make it work--
+
+00:09:28.893 --> 00:09:31.560 align:middle line:84%
+you need 2,000 patients for the
+new doctor to make it worthwhile
+
+00:09:31.560 --> 00:09:33.600 align:middle line:84%
+to have a second
+doctor's office.
+
+00:09:33.600 --> 00:09:38.400 align:middle line:84%
+And from that, we infer that it
+must be that pi 2 is just 1/2
+
+00:09:38.400 --> 00:09:40.350 align:middle line:90%
+of pi 1.
+
+00:09:40.350 --> 00:09:44.760 align:middle line:84%
+So this ratio of this to this
+is how much profits per person
+
+00:09:44.760 --> 00:09:47.923 align:middle line:84%
+must have declined for the
+second doctor to not come in
+
+00:09:47.923 --> 00:09:50.340 align:middle line:84%
+until the second doctor is
+going to get many more patients
+
+00:09:50.340 --> 00:09:51.640 align:middle line:90%
+than the first doctor got.
+
+00:09:51.640 --> 00:09:55.190 align:middle line:90%
+
+
+00:09:55.190 --> 00:09:57.830 align:middle line:84%
+And so anyway-- so that's
+the really powerful idea
+
+00:09:57.830 --> 00:09:58.980 align:middle line:90%
+of this paper.
+
+00:09:58.980 --> 00:10:02.690 align:middle line:84%
+We don't have to have any data
+at all on prices or quantities.
+
+00:10:02.690 --> 00:10:07.580 align:middle line:84%
+And yet, we can tell
+how the ratio of profits
+
+00:10:07.580 --> 00:10:10.640 align:middle line:84%
+declines as more firms enter
+the market by just looking
+
+00:10:10.640 --> 00:10:13.310 align:middle line:84%
+at how many more customers have
+to be there for the second firm
+
+00:10:13.310 --> 00:10:14.430 align:middle line:90%
+to want to come in.
+
+00:10:14.430 --> 00:10:17.130 align:middle line:90%
+
+
+00:10:17.130 --> 00:10:20.460 align:middle line:90%
+Question about that basic idea?
+
+00:10:20.460 --> 00:10:21.720 align:middle line:90%
+OK.
+
+00:10:21.720 --> 00:10:24.750 align:middle line:84%
+The previous slide suggested
+what Bresnahan and Reiss
+
+00:10:24.750 --> 00:10:29.700 align:middle line:84%
+were going to do is put
+population on the x-axis, number
+
+00:10:29.700 --> 00:10:31.320 align:middle line:84%
+of doctors on the
+y-axis, and then
+
+00:10:31.320 --> 00:10:35.160 align:middle line:84%
+just draw a curve like this
+that best fit the data.
+
+00:10:35.160 --> 00:10:38.700 align:middle line:84%
+That's not exactly what
+they do because they
+
+00:10:38.700 --> 00:10:41.730 align:middle line:84%
+want to have a lot of covariates
+in the regression that are also
+
+00:10:41.730 --> 00:10:43.270 align:middle line:90%
+affecting all of the elements.
+
+00:10:43.270 --> 00:10:46.200 align:middle line:84%
+So basically, they
+set up the models.
+
+00:10:46.200 --> 00:10:50.370 align:middle line:84%
+First, they have something they
+call the effect of population.
+
+00:10:50.370 --> 00:10:56.550 align:middle line:84%
+The effect of population in
+city I is its actual population
+
+00:10:56.550 --> 00:10:59.330 align:middle line:90%
+plus some X--
+
+00:10:59.330 --> 00:11:03.810 align:middle line:84%
+some explanatory variables, X,
+times some coefficients, gamma.
+
+00:11:03.810 --> 00:11:06.570 align:middle line:84%
+Those X's, they use for things
+like the rural population
+
+00:11:06.570 --> 00:11:09.030 align:middle line:84%
+within 5 miles of the
+city, the rural population
+
+00:11:09.030 --> 00:11:12.875 align:middle line:84%
+within 10 miles of the city, the
+growth rate of the population.
+
+00:11:12.875 --> 00:11:14.250 align:middle line:84%
+I forget what else
+goes in there.
+
+00:11:14.250 --> 00:11:16.860 align:middle line:84%
+But they have the actual
+population of the city
+
+00:11:16.860 --> 00:11:21.000 align:middle line:84%
+plus some controls
+for nearby population.
+
+00:11:21.000 --> 00:11:24.240 align:middle line:84%
+Per consumer profits--
+again, the idea
+
+00:11:24.240 --> 00:11:26.670 align:middle line:84%
+is that you would have per
+consumer profits, alpha
+
+00:11:26.670 --> 00:11:28.020 align:middle line:90%
+1 under a monopoly.
+
+00:11:28.020 --> 00:11:33.340 align:middle line:84%
+Profits alpha 1
+under the monopoly.
+
+00:11:33.340 --> 00:11:37.620 align:middle line:84%
+Alpha 2 would be
+duopoly profits.
+
+00:11:37.620 --> 00:11:40.405 align:middle line:90%
+Alpha 3 would be 3 firms.
+
+00:11:40.405 --> 00:11:42.780 align:middle line:84%
+But then you're going to have
+other variables that affect
+
+00:11:42.780 --> 00:11:44.320 align:middle line:90%
+the profitability of a market.
+
+00:11:44.320 --> 00:11:48.960 align:middle line:84%
+Those variables can include the
+per capita income in the city,
+
+00:11:48.960 --> 00:11:50.040 align:middle line:90%
+the age distribution.
+
+00:11:50.040 --> 00:11:53.100 align:middle line:84%
+Maybe higher income cities you
+earn more profits per customer
+
+00:11:53.100 --> 00:11:56.340 align:middle line:90%
+or things like that.
+
+00:11:56.340 --> 00:11:59.623 align:middle line:84%
+The fixed costs-- again,
+it's mostly a fixed cost.
+
+00:11:59.623 --> 00:12:02.040 align:middle line:84%
+They do allow there to be
+covariates that affect the fixed
+
+00:12:02.040 --> 00:12:03.310 align:middle line:90%
+costs across cities.
+
+00:12:03.310 --> 00:12:04.920 align:middle line:84%
+So, for instance,
+cities that have
+
+00:12:04.920 --> 00:12:06.870 align:middle line:84%
+more valuable
+agricultural land, it
+
+00:12:06.870 --> 00:12:11.220 align:middle line:84%
+may be more expensive to open up
+a tire dealership than in places
+
+00:12:11.220 --> 00:12:12.660 align:middle line:90%
+with cheaper agricultural land.
+
+00:12:12.660 --> 00:12:15.930 align:middle line:84%
+Because the land that you need
+to buy to set up your tire
+
+00:12:15.930 --> 00:12:16.920 align:middle line:90%
+shop costs more.
+
+00:12:16.920 --> 00:12:22.210 align:middle line:84%
+So they have a fixed cost to
+also vary with some covariates.
+
+00:12:22.210 --> 00:12:24.000 align:middle line:84%
+And then the basic
+thought is that-- so I
+
+00:12:24.000 --> 00:12:25.000 align:middle line:90%
+have all these elements.
+
+00:12:25.000 --> 00:12:30.700 align:middle line:84%
+I've redefined Si, pi iN, and
+Fi to be their covariates.
+
+00:12:30.700 --> 00:12:35.340 align:middle line:84%
+And then my model is if there
+were N firms in the market,
+
+00:12:35.340 --> 00:12:41.730 align:middle line:84%
+the profits would be Si over N,
+pi iN minus Fi plus epsilon i,
+
+00:12:41.730 --> 00:12:44.520 align:middle line:84%
+where epsilon i is just
+a normally distributed
+
+00:12:44.520 --> 00:12:47.040 align:middle line:90%
+random variable.
+
+00:12:47.040 --> 00:12:50.730 align:middle line:84%
+And so in this model, when are
+we going to observe in firms?
+
+00:12:50.730 --> 00:12:56.640 align:middle line:84%
+We're going to observe
+in firms if Si N--
+
+00:12:56.640 --> 00:13:06.060 align:middle line:84%
+sorry-- Si over N minus Fi plus
+epsilon i is greater than 0.
+
+00:13:06.060 --> 00:13:15.000 align:middle line:84%
+And Si over n plus 1, pi iN plus
+1 minus Fi plus epsilon i equals
+
+00:13:15.000 --> 00:13:17.940 align:middle line:90%
+0.
+
+00:13:17.940 --> 00:13:20.100 align:middle line:84%
+So we have these
+two things that have
+
+00:13:20.100 --> 00:13:24.990 align:middle line:84%
+to both be true for there to be
+exactly N firms in the market.
+
+00:13:24.990 --> 00:13:26.700 align:middle line:84%
+But you could
+write the first one
+
+00:13:26.700 --> 00:13:28.680 align:middle line:84%
+as epsilon is bigger
+than something,
+
+00:13:28.680 --> 00:13:31.860 align:middle line:84%
+and the second one is epsilon
+is less than something.
+
+00:13:31.860 --> 00:13:35.280 align:middle line:84%
+So if you view epsilon as
+a random variable here,
+
+00:13:35.280 --> 00:13:38.580 align:middle line:84%
+a random shock to
+fixed costs, we're
+
+00:13:38.580 --> 00:13:40.590 align:middle line:84%
+going to observe
+N firms whenever
+
+00:13:40.590 --> 00:13:42.150 align:middle line:90%
+epsilon is in this interval.
+
+00:13:42.150 --> 00:13:44.310 align:middle line:90%
+It's between this and this.
+
+00:13:44.310 --> 00:13:49.950 align:middle line:84%
+And so given the param-- given
+all the data and the parameters,
+
+00:13:49.950 --> 00:13:52.110 align:middle line:84%
+you can compute the
+likelihood of this
+
+00:13:52.110 --> 00:13:55.350 align:middle line:84%
+as just the normal CDF
+evaluated at this point
+
+00:13:55.350 --> 00:13:58.360 align:middle line:84%
+minus the normal CDF
+evaluated at this point.
+
+00:13:58.360 --> 00:14:01.290 align:middle line:84%
+And so then you can estimate
+all the parameters--
+
+00:14:01.290 --> 00:14:07.270 align:middle line:84%
+gamma, beta, alpha,
+delta, gamma--
+
+00:14:07.270 --> 00:14:09.450 align:middle line:90%
+this one was lambda.
+
+00:14:09.450 --> 00:14:13.560 align:middle line:84%
+You can estimate all of
+those by maximum likelihood.
+
+00:14:13.560 --> 00:14:17.700 align:middle line:84%
+And that's the basic estimation
+technique in the paper.
+
+00:14:17.700 --> 00:14:21.150 align:middle line:84%
+People-- I know we still
+teach ordered probit models
+
+00:14:21.150 --> 00:14:21.912 align:middle line:90%
+in econometrics.
+
+00:14:21.912 --> 00:14:24.370 align:middle line:84%
+This is what people refer to
+as ordered probit model, where
+
+00:14:24.370 --> 00:14:29.980 align:middle line:84%
+you have discrete data
+produced by the discretization
+
+00:14:29.980 --> 00:14:31.910 align:middle line:84%
+of something that has
+a normal error in it.
+
+00:14:31.910 --> 00:14:35.580 align:middle line:90%
+
+
+00:14:35.580 --> 00:14:39.150 align:middle line:84%
+And obviously, the main things
+of interest here coming out
+
+00:14:39.150 --> 00:14:42.420 align:middle line:90%
+of this estimation are alpha 1--
+
+00:14:42.420 --> 00:14:43.990 align:middle line:84%
+these were the
+objects of interest.
+
+00:14:43.990 --> 00:14:46.866 align:middle line:84%
+What is the per customer
+profits under monopoly?
+
+00:14:46.866 --> 00:14:51.990 align:middle line:90%
+
+
+00:14:51.990 --> 00:14:53.400 align:middle line:84%
+What are the per
+customer profits
+
+00:14:53.400 --> 00:14:55.470 align:middle line:84%
+under monopoly,
+duopoly, whatever?
+
+00:14:55.470 --> 00:14:57.780 align:middle line:84%
+But somehow in the
+paper, they really
+
+00:14:57.780 --> 00:15:00.340 align:middle line:84%
+liked the idea of the
+S's as the thresholds.
+
+00:15:00.340 --> 00:15:02.970 align:middle line:84%
+And so they basically
+estimate these things.
+
+00:15:02.970 --> 00:15:04.650 align:middle line:84%
+And then they convert
+from all the--
+
+00:15:04.650 --> 00:15:06.210 align:middle line:84%
+they convert from
+all the parameters
+
+00:15:06.210 --> 00:15:10.260 align:middle line:84%
+back to what is the mean
+S1, mean S2, mean S3,
+
+00:15:10.260 --> 00:15:12.870 align:middle line:84%
+holding all the covariates
+at their sample means.
+
+00:15:12.870 --> 00:15:16.680 align:middle line:84%
+And then they do a lot of the
+presentation just talking about
+
+00:15:16.680 --> 00:15:17.585 align:middle line:90%
+what are the S's?
+
+00:15:17.585 --> 00:15:21.320 align:middle line:90%
+
+
+00:15:21.320 --> 00:15:21.820 align:middle line:90%
+OK.
+
+00:15:21.820 --> 00:15:24.340 align:middle line:84%
+Anyway, so data
+samples-- as I said,
+
+00:15:24.340 --> 00:15:26.050 align:middle line:84%
+they've got data
+on a whole bunch
+
+00:15:26.050 --> 00:15:31.370 align:middle line:84%
+of businesses gathered from
+202 small towns in Western US.
+
+00:15:31.370 --> 00:15:32.630 align:middle line:90%
+These are small places.
+
+00:15:32.630 --> 00:15:36.310 align:middle line:90%
+The mean population is 3,740.
+
+00:15:36.310 --> 00:15:39.190 align:middle line:84%
+And, as I said, they're all at
+least 20 miles away from any
+
+00:15:39.190 --> 00:15:44.214 align:middle line:84%
+place that has
+1,000 people in it.
+
+00:15:44.214 --> 00:15:47.300 align:middle line:84%
+I went to college with
+a guy from Wyoming
+
+00:15:47.300 --> 00:15:51.372 align:middle line:84%
+who said he was 90 miles from
+the nearest movie theater.
+
+00:15:51.372 --> 00:15:53.830 align:middle line:84%
+So there are parts of the United
+States that are like that.
+
+00:15:53.830 --> 00:15:57.290 align:middle line:90%
+
+
+00:15:57.290 --> 00:16:04.430 align:middle line:84%
+Here is the data sample showing
+the full set of occupation--
+
+00:16:04.430 --> 00:16:06.350 align:middle line:84%
+or businesses they started
+with and the number
+
+00:16:06.350 --> 00:16:08.240 align:middle line:90%
+of firms they get.
+
+00:16:08.240 --> 00:16:11.580 align:middle line:84%
+They end up focusing on the ones
+on the top part of the table.
+
+00:16:11.580 --> 00:16:12.650 align:middle line:90%
+There are some paper--
+
+00:16:12.650 --> 00:16:14.270 align:middle line:84%
+some results in
+papers about things
+
+00:16:14.270 --> 00:16:15.720 align:middle line:90%
+farther down in the paper.
+
+00:16:15.720 --> 00:16:17.420 align:middle line:90%
+But what they wanted--
+
+00:16:17.420 --> 00:16:19.130 align:middle line:84%
+in some sense, if
+you want to talk
+
+00:16:19.130 --> 00:16:20.780 align:middle line:84%
+about how the
+competition changes
+
+00:16:20.780 --> 00:16:22.780 align:middle line:84%
+with the number
+of firms, you want
+
+00:16:22.780 --> 00:16:24.530 align:middle line:84%
+there to be a significant
+number of cities
+
+00:16:24.530 --> 00:16:29.190 align:middle line:84%
+that have zero firms,
+1, 2, 3, 4, or whatever.
+
+00:16:29.190 --> 00:16:33.500 align:middle line:84%
+And a lot of these businesses,
+it turns out, you never get--
+
+00:16:33.500 --> 00:16:36.380 align:middle line:84%
+a lot of these
+businesses are apparently
+
+00:16:36.380 --> 00:16:39.440 align:middle line:84%
+too big businesses to have
+many of them in the towns
+
+00:16:39.440 --> 00:16:40.940 align:middle line:90%
+that they're working with.
+
+00:16:40.940 --> 00:16:42.730 align:middle line:84%
+So they don't get much
+beyond N equals 2.
+
+00:16:42.730 --> 00:16:44.640 align:middle line:84%
+But if you look
+at the druggist--
+
+00:16:44.640 --> 00:16:47.790 align:middle line:90%
+I assume this means pharmacies--
+
+00:16:47.790 --> 00:16:51.100 align:middle line:84%
+they're very relatively
+rare to have no pharmacy.
+
+00:16:51.100 --> 00:16:55.980 align:middle line:84%
+But then you do get 1, 2, 3,
+and some 4s and 5s and beyond.
+
+00:16:55.980 --> 00:16:58.860 align:middle line:84%
+Same things with the doctors,
+dentists, plumbers, tire
+
+00:16:58.860 --> 00:17:00.135 align:middle line:90%
+dealers is--
+
+00:17:00.135 --> 00:17:01.740 align:middle line:84%
+in some sense,
+they focus on these
+
+00:17:01.740 --> 00:17:04.260 align:middle line:84%
+because they all have at least
+some number of markets with 3
+
+00:17:04.260 --> 00:17:08.180 align:middle line:84%
+and some number
+of markets with 4.
+
+00:17:08.180 --> 00:17:11.839 align:middle line:84%
+There was also a question of how
+well-defined are these markets?
+
+00:17:11.839 --> 00:17:17.450 align:middle line:84%
+Like, the sum of these things,
+like the barbers or whatever--
+
+00:17:17.450 --> 00:17:19.635 align:middle line:84%
+people who are not barbers
+can cut people's hair.
+
+00:17:19.635 --> 00:17:21.260 align:middle line:84%
+And so they're sort
+of-- it gets harder
+
+00:17:21.260 --> 00:17:24.619 align:middle line:84%
+to count how many barbers or
+beauticians there are in a town
+
+00:17:24.619 --> 00:17:26.990 align:middle line:84%
+because it's just somebody
+who works somewhere else--
+
+00:17:26.990 --> 00:17:27.795 align:middle line:90%
+also cuts hair.
+
+00:17:27.795 --> 00:17:29.920 align:middle line:84%
+People know they can go to
+that person or whatever.
+
+00:17:29.920 --> 00:17:31.500 align:middle line:90%
+So it's hard to--
+
+00:17:31.500 --> 00:17:34.700 align:middle line:84%
+whereas, things like
+dentists, I guess,
+
+00:17:34.700 --> 00:17:37.480 align:middle line:84%
+are easier to identify
+that someone is a dentist.
+
+00:17:37.480 --> 00:17:39.320 align:middle line:84%
+You don't get just
+guys who come over
+
+00:17:39.320 --> 00:17:41.650 align:middle line:84%
+and drill holes in
+your teeth on weekends.
+
+00:17:41.650 --> 00:17:45.380 align:middle line:90%
+
+
+00:17:45.380 --> 00:17:47.910 align:middle line:84%
+So what do the entry
+thresholds look like?
+
+00:17:47.910 --> 00:17:53.690 align:middle line:84%
+So, again, the numbers I put up
+on the board over there are--
+
+00:17:53.690 --> 00:17:57.050 align:middle line:84%
+most of these businesses tend
+to start to exist in towns,
+
+00:17:57.050 --> 00:17:59.510 align:middle line:84%
+and they have fewer
+than 1,000 people.
+
+00:17:59.510 --> 00:18:02.520 align:middle line:84%
+So the doctors-- the
+cutoff is 880 people.
+
+00:18:02.520 --> 00:18:06.020 align:middle line:84%
+The dentist-- the
+cut-off is 710 people.
+
+00:18:06.020 --> 00:18:08.680 align:middle line:90%
+The druggist-- it's 530 people.
+
+00:18:08.680 --> 00:18:10.853 align:middle line:84%
+The tire dealers,
+it's 490 people.
+
+00:18:10.853 --> 00:18:12.520 align:middle line:84%
+You need to be bigger
+to have a plumber.
+
+00:18:12.520 --> 00:18:17.850 align:middle line:84%
+That's over 1,000--
+1,400 people.
+
+00:18:17.850 --> 00:18:21.450 align:middle line:84%
+But then if you look at-- let's
+just look at-- the druggists
+
+00:18:21.450 --> 00:18:23.350 align:middle line:84%
+is one of the most
+stark examples.
+
+00:18:23.350 --> 00:18:26.430 align:middle line:84%
+It seems like you need
+500 people to have one.
+
+00:18:26.430 --> 00:18:28.930 align:middle line:84%
+You need 2,000
+people to have two.
+
+00:18:28.930 --> 00:18:32.610 align:middle line:84%
+So that's when you have 1,000
+customers per drugstore.
+
+00:18:32.610 --> 00:18:36.180 align:middle line:90%
+To have three, you need 5,000.
+
+00:18:36.180 --> 00:18:40.080 align:middle line:84%
+So that's like 1,600
+people per druggist.
+
+00:18:40.080 --> 00:18:45.750 align:middle line:84%
+And when they put the ratios
+over here and make it clear,
+
+00:18:45.750 --> 00:18:50.280 align:middle line:84%
+the S2 over S1 ratio-- this is
+how many customers per firm you
+
+00:18:50.280 --> 00:18:51.640 align:middle line:90%
+need to have to have--
+
+00:18:51.640 --> 00:19:00.128 align:middle line:84%
+so this is-- they use little sn
+to be capital SN over N, which
+
+00:19:00.128 --> 00:19:02.670 align:middle line:84%
+is always tough for when you're
+putting things on slides that
+
+00:19:02.670 --> 00:19:03.280 align:middle line:90%
+are small.
+
+00:19:03.280 --> 00:19:07.730 align:middle line:84%
+So anyway, these are the
+ratio of the per customer--
+
+00:19:07.730 --> 00:19:09.655 align:middle line:84%
+the per firm number
+of customers,
+
+00:19:09.655 --> 00:19:11.030 align:middle line:84%
+which you can
+think of as this is
+
+00:19:11.030 --> 00:19:14.370 align:middle line:84%
+the thing that's supposed to
+estimate pi N over pi N plus 1.
+
+00:19:14.370 --> 00:19:20.090 align:middle line:84%
+So this is supposed
+to be pi 1 over pi 2.
+
+00:19:20.090 --> 00:19:22.490 align:middle line:84%
+And so what this
+is saying is that
+
+00:19:22.490 --> 00:19:24.830 align:middle line:84%
+in many of these
+industries, profits
+
+00:19:24.830 --> 00:19:28.400 align:middle line:84%
+are dropping almost in half when
+you have-- you have this when
+
+00:19:28.400 --> 00:19:31.100 align:middle line:84%
+you have a second firm, or per
+customer profits dropping almost
+
+00:19:31.100 --> 00:19:31.600 align:middle line:90%
+in half.
+
+00:19:31.600 --> 00:19:34.700 align:middle line:90%
+It's like profits-- divide--
+
+00:19:34.700 --> 00:19:37.080 align:middle line:84%
+you divide it by
+either 1.9 or by 1.8.
+
+00:19:37.080 --> 00:19:39.290 align:middle line:84%
+So that's like a 45%,
+50% drop in profit
+
+00:19:39.290 --> 00:19:41.360 align:middle line:90%
+when the second firm comes in.
+
+00:19:41.360 --> 00:19:43.910 align:middle line:84%
+The one exception
+appears to be plumbers,
+
+00:19:43.910 --> 00:19:46.410 align:middle line:84%
+where we don't get the
+first plumber for a while.
+
+00:19:46.410 --> 00:19:52.100 align:middle line:84%
+And so it seems that the second
+plumber is also serving 50.
+
+00:19:52.100 --> 00:19:54.080 align:middle line:84%
+You get one plumber when
+you have 1,400 people
+
+00:19:54.080 --> 00:19:56.413 align:middle line:84%
+for the plumber to serve, a
+second plumber when you have
+
+00:19:56.413 --> 00:19:59.840 align:middle line:90%
+1,500.
+
+00:19:59.840 --> 00:20:03.500 align:middle line:84%
+If you look at what happens when
+you go-- so one firm to two--
+
+00:20:03.500 --> 00:20:05.160 align:middle line:90%
+it's a big drop in profit.
+
+00:20:05.160 --> 00:20:09.870 align:middle line:84%
+When you go from two firms to
+three, it varies by industry.
+
+00:20:09.870 --> 00:20:13.350 align:middle line:84%
+But most of them, other
+than the plumbers,
+
+00:20:13.350 --> 00:20:18.910 align:middle line:84%
+we have a 1 point-- a 10% drop,
+30% drop, 60% drop or whatever.
+
+00:20:18.910 --> 00:20:21.910 align:middle line:84%
+So it, again, is
+a-- or 1 over 1.6.
+
+00:20:21.910 --> 00:20:28.170 align:middle line:84%
+So, again, you get substantial
+drops often going from 2 to 3.
+
+00:20:28.170 --> 00:20:32.280 align:middle line:84%
+By the time you're out here,
+though, the S5 over S4 numbers,
+
+00:20:32.280 --> 00:20:34.303 align:middle line:84%
+here, it seems
+like competition--
+
+00:20:34.303 --> 00:20:35.970 align:middle line:84%
+whatever competition
+you're going to get
+
+00:20:35.970 --> 00:20:37.980 align:middle line:84%
+is all done by the time
+you have four firms.
+
+00:20:37.980 --> 00:20:40.680 align:middle line:84%
+Like four firms are getting
+you just as much competition
+
+00:20:40.680 --> 00:20:43.740 align:middle line:90%
+as five firms is giving you.
+
+00:20:43.740 --> 00:20:49.260 align:middle line:84%
+So the conclusion here of
+how basics of competition
+
+00:20:49.260 --> 00:20:51.870 align:middle line:84%
+seems to work is there's a big
+difference between monopoly
+
+00:20:51.870 --> 00:20:53.220 align:middle line:90%
+and two firms.
+
+00:20:53.220 --> 00:20:56.850 align:middle line:84%
+It seems like prices keep
+going down from 2 to 3.
+
+00:20:56.850 --> 00:20:59.760 align:middle line:84%
+And then it seems like we
+asymptote pretty quickly
+
+00:20:59.760 --> 00:21:03.760 align:middle line:84%
+to things are not getting
+any more competitive.
+
+00:21:03.760 --> 00:21:07.530 align:middle line:90%
+
+
+00:21:07.530 --> 00:21:08.590 align:middle line:90%
+Any questions?
+
+00:21:08.590 --> 00:21:13.545 align:middle line:90%
+
+
+00:21:13.545 --> 00:21:20.420 align:middle line:84%
+I mean, I think it's a fantastic
+paper in that this idea of entry
+
+00:21:20.420 --> 00:21:22.070 align:middle line:84%
+and telling us
+about profit levels
+
+00:21:22.070 --> 00:21:24.230 align:middle line:84%
+and that being an optimality
+condition we can use
+
+00:21:24.230 --> 00:21:27.020 align:middle line:84%
+has just been
+tremendously influential.
+
+00:21:27.020 --> 00:21:28.620 align:middle line:84%
+As far as the
+applied results go,
+
+00:21:28.620 --> 00:21:32.240 align:middle line:84%
+I would say the biggest
+difficulty with this
+
+00:21:32.240 --> 00:21:34.430 align:middle line:84%
+about-- with regard to
+this as an applied result
+
+00:21:34.430 --> 00:21:37.100 align:middle line:84%
+is this model is
+interpreting what
+
+00:21:37.100 --> 00:21:41.840 align:middle line:84%
+we're seeing as the equilibrium
+N star of this game.
+
+00:21:41.840 --> 00:21:44.090 align:middle line:84%
+So the equilibrium
+N star of that game
+
+00:21:44.090 --> 00:21:46.372 align:middle line:84%
+implies in part that
+everybody who is there
+
+00:21:46.372 --> 00:21:47.330 align:middle line:90%
+is happy they're there.
+
+00:21:47.330 --> 00:21:49.802 align:middle line:84%
+And everyone who's not there
+is happy they're not there.
+
+00:21:49.802 --> 00:21:51.260 align:middle line:84%
+I think the happy
+they're not there
+
+00:21:51.260 --> 00:21:54.130 align:middle line:90%
+part I think is very clear.
+
+00:21:54.130 --> 00:21:57.770 align:middle line:84%
+The question is, what do we make
+of all these doctors in towns
+
+00:21:57.770 --> 00:21:59.030 align:middle line:90%
+of 800 people?
+
+00:21:59.030 --> 00:22:01.340 align:middle line:84%
+Is the doctor in a
+town of 800 people
+
+00:22:01.340 --> 00:22:04.070 align:middle line:84%
+because the doctor is
+happy serving 800 patients?
+
+00:22:04.070 --> 00:22:06.740 align:middle line:84%
+Or is the doctor in a town of
+800 people because it was a town
+
+00:22:06.740 --> 00:22:11.550 align:middle line:84%
+of 1,500 people and a thriving
+farming town in the 1950s when
+
+00:22:11.550 --> 00:22:12.550 align:middle line:90%
+the doctor moved there.
+
+00:22:12.550 --> 00:22:14.430 align:middle line:84%
+And the doctor is
+now 75 years old
+
+00:22:14.430 --> 00:22:17.160 align:middle line:84%
+and doesn't want to leave
+the patients the doctor has
+
+00:22:17.160 --> 00:22:20.160 align:middle line:84%
+had for 40 years, even
+though the number of patients
+
+00:22:20.160 --> 00:22:24.750 align:middle line:84%
+is dwindling relative to what it
+was when the doctor got there.
+
+00:22:24.750 --> 00:22:28.470 align:middle line:84%
+And if you think about it, if
+there's this sort of-- you pay
+
+00:22:28.470 --> 00:22:32.250 align:middle line:84%
+this sunk cost to enter, and you
+don't get your sunk cost back
+
+00:22:32.250 --> 00:22:36.133 align:middle line:84%
+when you leave, it could
+be that people enter--
+
+00:22:36.133 --> 00:22:37.800 align:middle line:84%
+the entry-- the things
+that we're seeing
+
+00:22:37.800 --> 00:22:39.130 align:middle line:90%
+are not entry thresholds.
+
+00:22:39.130 --> 00:22:43.350 align:middle line:84%
+They're exit-- we're
+seeing exit thresholds.
+
+00:22:43.350 --> 00:22:48.410 align:middle line:84%
+And the exit thresholds might
+not be counting all fixed costs.
+
+00:22:48.410 --> 00:22:51.270 align:middle line:90%
+
+
+00:22:51.270 --> 00:22:55.230 align:middle line:84%
+Another potential issue is
+just that counting firms
+
+00:22:55.230 --> 00:22:59.480 align:middle line:84%
+is more difficult in their
+application than in others.
+
+00:22:59.480 --> 00:23:01.980 align:middle line:84%
+How do you count someone who
+does some plumbing on the side,
+
+00:23:01.980 --> 00:23:03.563 align:middle line:84%
+or someone who does
+some hair cutting?
+
+00:23:03.563 --> 00:23:05.790 align:middle line:84%
+So I think the ones in
+the licensed professions,
+
+00:23:05.790 --> 00:23:09.460 align:middle line:84%
+like the dentists and doctors,
+are probably better with that.
+
+00:23:09.460 --> 00:23:12.120 align:middle line:84%
+But the ones that are more
+like the businesses we normally
+
+00:23:12.120 --> 00:23:16.200 align:middle line:84%
+think about price competition
+operating in, some of those
+
+00:23:16.200 --> 00:23:17.730 align:middle line:84%
+have this issue of
+it's going to be
+
+00:23:17.730 --> 00:23:21.870 align:middle line:84%
+hard to identify businesses, and
+ensure that we're [INAUDIBLE].
+
+00:23:21.870 --> 00:23:23.700 align:middle line:84%
+For instance, the
+result on plumbers
+
+00:23:23.700 --> 00:23:27.158 align:middle line:84%
+could be that you don't
+get a lot of market power
+
+00:23:27.158 --> 00:23:29.700 align:middle line:84%
+with one plumber because there's
+always somebody else in town
+
+00:23:29.700 --> 00:23:32.220 align:middle line:84%
+who you can call who just
+owns wrenches and can
+
+00:23:32.220 --> 00:23:35.037 align:middle line:84%
+come over and fix stuff for
+you, even if they're not
+
+00:23:35.037 --> 00:23:35.870 align:middle line:90%
+officially plumbers.
+
+00:23:35.870 --> 00:23:39.310 align:middle line:90%
+
+
+00:23:39.310 --> 00:23:40.282 align:middle line:90%
+Questions?
+
+00:23:40.282 --> 00:23:43.000 align:middle line:90%
+
+
+00:23:43.000 --> 00:23:43.940 align:middle line:90%
+OK.
+
+00:23:43.940 --> 00:23:49.220 align:middle line:84%
+So then the next step I want to
+go to was Berry and Waldfogel.
+
+00:23:49.220 --> 00:23:51.950 align:middle line:84%
+So this is very
+much following up
+
+00:23:51.950 --> 00:23:54.825 align:middle line:84%
+on of theory of efficiency
+of entry I did last class.
+
+00:23:54.825 --> 00:23:57.270 align:middle line:84%
+And so, as I said,
+there are reasons
+
+00:23:57.270 --> 00:23:59.270 align:middle line:84%
+why entry is going to be
+higher or lower than we
+
+00:23:59.270 --> 00:24:00.210 align:middle line:90%
+would like it to be.
+
+00:24:00.210 --> 00:24:01.627 align:middle line:84%
+And Berry and
+Waldfogel are trying
+
+00:24:01.627 --> 00:24:03.530 align:middle line:90%
+to say, let's pick an industry.
+
+00:24:03.530 --> 00:24:05.940 align:middle line:84%
+Let's say in this industry,
+how does it work out?
+
+00:24:05.940 --> 00:24:08.700 align:middle line:84%
+Are there more firms than we
+would like or fewer firms?
+
+00:24:08.700 --> 00:24:11.270 align:middle line:84%
+How big are the welfare losses
+from the number of firms
+
+00:24:11.270 --> 00:24:12.620 align:middle line:90%
+that we observe?
+
+00:24:12.620 --> 00:24:18.340 align:middle line:84%
+The industry that they
+pick is commercial radio.
+
+00:24:18.340 --> 00:24:21.110 align:middle line:84%
+And I think the argument
+is that there's--
+
+00:24:21.110 --> 00:24:25.350 align:middle line:84%
+you need a license to
+open a radio station.
+
+00:24:25.350 --> 00:24:28.400 align:middle line:84%
+There are some places where
+you might-- where there's a--
+
+00:24:28.400 --> 00:24:30.733 align:middle line:84%
+you can't open a radio station
+and broadcast on any band
+
+00:24:30.733 --> 00:24:32.650 align:middle line:84%
+because you'd be interfering
+with the stations
+
+00:24:32.650 --> 00:24:33.390 align:middle line:90%
+right around you.
+
+00:24:33.390 --> 00:24:35.570 align:middle line:84%
+But in most cities
+in the United States,
+
+00:24:35.570 --> 00:24:37.580 align:middle line:84%
+there are bands
+that are available.
+
+00:24:37.580 --> 00:24:41.010 align:middle line:84%
+There's obviously a fixed cost
+of applying for the government
+
+00:24:41.010 --> 00:24:43.840 align:middle line:84%
+license and opening up and just
+putting up a transmission tower.
+
+00:24:43.840 --> 00:24:44.610 align:middle line:90%
+But that's fine.
+
+00:24:44.610 --> 00:24:46.953 align:middle line:90%
+That's exactly all the Fs.
+
+00:24:46.953 --> 00:24:48.870 align:middle line:84%
+And so this is an example
+of an industry where
+
+00:24:48.870 --> 00:24:51.363 align:middle line:84%
+we think there is a substantial
+F. Because to have a radio
+
+00:24:51.363 --> 00:24:52.530 align:middle line:90%
+station, you need equipment.
+
+00:24:52.530 --> 00:24:54.210 align:middle line:90%
+You need people there.
+
+00:24:54.210 --> 00:24:58.140 align:middle line:84%
+But then we can think
+about how are the--
+
+00:24:58.140 --> 00:25:00.810 align:middle line:90%
+how is the prices affected.
+
+00:25:00.810 --> 00:25:03.473 align:middle line:90%
+Now, radio is free.
+
+00:25:03.473 --> 00:25:04.890 align:middle line:84%
+So in some sense,
+the price you're
+
+00:25:04.890 --> 00:25:07.590 align:middle line:84%
+used to thinking about
+for radio is zero.
+
+00:25:07.590 --> 00:25:10.900 align:middle line:90%
+But radio is a platform market.
+
+00:25:10.900 --> 00:25:13.480 align:middle line:84%
+So there are two types of
+customers at radio stations.
+
+00:25:13.480 --> 00:25:15.930 align:middle line:84%
+There are listeners who
+typically pay zero to listen.
+
+00:25:15.930 --> 00:25:18.150 align:middle line:84%
+But then there are
+advertisers who pay money
+
+00:25:18.150 --> 00:25:20.070 align:middle line:90%
+to put commercials on.
+
+00:25:20.070 --> 00:25:23.610 align:middle line:90%
+And so the standard way that--
+
+00:25:23.610 --> 00:25:25.560 align:middle line:84%
+because the price is
+free, the standard way
+
+00:25:25.560 --> 00:25:29.580 align:middle line:84%
+that the FTC or antitrust
+regulators tend to treat radio
+
+00:25:29.580 --> 00:25:33.040 align:middle line:84%
+is to focus on the business
+of producing advertising.
+
+00:25:33.040 --> 00:25:35.250 align:middle line:84%
+So they think of as
+a radio station is--
+
+00:25:35.250 --> 00:25:39.220 align:middle line:84%
+they have this technology
+where they buy rights to music.
+
+00:25:39.220 --> 00:25:40.200 align:middle line:90%
+They play that music.
+
+00:25:40.200 --> 00:25:42.840 align:middle line:84%
+That music produces
+ears of people.
+
+00:25:42.840 --> 00:25:45.180 align:middle line:84%
+And then they sell
+those ears of people
+
+00:25:45.180 --> 00:25:47.610 align:middle line:84%
+to advertisers who want
+to advertise to them.
+
+00:25:47.610 --> 00:25:51.030 align:middle line:84%
+So when we're thinking
+about price in this market,
+
+00:25:51.030 --> 00:25:54.150 align:middle line:84%
+we should be thinking about
+price of advertisers--
+
+00:25:54.150 --> 00:25:59.820 align:middle line:84%
+price of-- think of the price
+as the price of a listener,
+
+00:25:59.820 --> 00:26:02.850 align:middle line:84%
+and think of the firms as having
+a technology for producing
+
+00:26:02.850 --> 00:26:03.620 align:middle line:90%
+listeners.
+
+00:26:03.620 --> 00:26:05.370 align:middle line:84%
+So this technology for
+producing listeners
+
+00:26:05.370 --> 00:26:08.400 align:middle line:84%
+involves something about
+radio music quality
+
+00:26:08.400 --> 00:26:09.930 align:middle line:90%
+or content quality.
+
+00:26:09.930 --> 00:26:12.090 align:middle line:84%
+And then that produces
+people that they then
+
+00:26:12.090 --> 00:26:13.900 align:middle line:90%
+sell to the advertisers.
+
+00:26:13.900 --> 00:26:16.230 align:middle line:84%
+So the advertisers
+are the consumers.
+
+00:26:16.230 --> 00:26:17.720 align:middle line:90%
+The people are ignored.
+
+00:26:17.720 --> 00:26:21.480 align:middle line:84%
+And one thing you might notice,
+if that's your view of radio,
+
+00:26:21.480 --> 00:26:22.500 align:middle line:90%
+you'd be like, wait.
+
+00:26:22.500 --> 00:26:25.230 align:middle line:84%
+Wouldn't that mean like whenever
+two radio stations are proposing
+
+00:26:25.230 --> 00:26:27.720 align:middle line:84%
+merging, what would
+be considered bad
+
+00:26:27.720 --> 00:26:29.820 align:middle line:84%
+is if by merging
+the radio stations
+
+00:26:29.820 --> 00:26:32.040 align:middle line:84%
+are going to raise the
+price of advertising
+
+00:26:32.040 --> 00:26:36.450 align:middle line:84%
+and have fewer commercials per
+hour and play music instead.
+
+00:26:36.450 --> 00:26:39.632 align:middle line:84%
+And that actually
+tends to be how
+
+00:26:39.632 --> 00:26:41.340 align:middle line:84%
+the US antitrust
+authorities have largely
+
+00:26:41.340 --> 00:26:42.490 align:middle line:90%
+conceptualized radio.
+
+00:26:42.490 --> 00:26:43.948 align:middle line:84%
+That is, if there's
+something going
+
+00:26:43.948 --> 00:26:46.980 align:middle line:84%
+on that's going to result in
+fewer commercials per hour
+
+00:26:46.980 --> 00:26:49.833 align:middle line:84%
+and more music or more news,
+then they're skeptical of it.
+
+00:26:49.833 --> 00:26:51.500 align:middle line:84%
+If it's something
+that's going to result
+
+00:26:51.500 --> 00:26:53.040 align:middle line:84%
+in even more
+commercials per hour,
+
+00:26:53.040 --> 00:26:56.310 align:middle line:84%
+that's good because that's
+stopping the deadweight loss
+
+00:26:56.310 --> 00:26:58.830 align:middle line:90%
+on the advertiser's side.
+
+00:26:58.830 --> 00:27:02.800 align:middle line:84%
+Obviously, Berry and
+Waldfogel mostly adopt that.
+
+00:27:02.800 --> 00:27:05.153 align:middle line:84%
+They are clearly well
+aware that radio is also
+
+00:27:05.153 --> 00:27:07.320 align:middle line:84%
+something people listen to,
+and they talk about that
+
+00:27:07.320 --> 00:27:09.750 align:middle line:84%
+at the end when all
+the analysis is done,
+
+00:27:09.750 --> 00:27:12.920 align:middle line:84%
+thinking about radio stations as
+things that produce advertising
+
+00:27:12.920 --> 00:27:14.056 align:middle line:90%
+to sell to advertisers.
+
+00:27:14.056 --> 00:27:18.880 align:middle line:90%
+
+
+00:27:18.880 --> 00:27:21.318 align:middle line:90%
+So we've got 135 US markets.
+
+00:27:21.318 --> 00:27:23.860 align:middle line:84%
+We're trying to compare with
+what would be socially efficient
+
+00:27:23.860 --> 00:27:26.140 align:middle line:84%
+and talk about the
+welfare losses.
+
+00:27:26.140 --> 00:27:29.500 align:middle line:84%
+We're going to focus
+on the radio stations
+
+00:27:29.500 --> 00:27:34.010 align:middle line:84%
+as firms that have
+advertisers as customers.
+
+00:27:34.010 --> 00:27:35.740 align:middle line:90%
+They're going to assume--
+
+00:27:35.740 --> 00:27:38.990 align:middle line:84%
+they're starting with the very
+first model of entry that I did.
+
+00:27:38.990 --> 00:27:41.410 align:middle line:84%
+So they're assuming that the
+ears that are being produced
+
+00:27:41.410 --> 00:27:43.150 align:middle line:90%
+are a homogeneous good.
+
+00:27:43.150 --> 00:27:46.150 align:middle line:84%
+So every listener is worth
+exactly the same amount
+
+00:27:46.150 --> 00:27:48.640 align:middle line:90%
+to every advertiser.
+
+00:27:48.640 --> 00:27:55.360 align:middle line:84%
+And, in practice, obviously,
+there are going to be stations
+
+00:27:55.360 --> 00:27:58.270 align:middle line:84%
+playing music from the 1950s,
+where they have lots of ads
+
+00:27:58.270 --> 00:28:00.430 align:middle line:90%
+for reverse mortgages.
+
+00:28:00.430 --> 00:28:04.930 align:middle line:84%
+There are going to
+be stations playing
+
+00:28:04.930 --> 00:28:09.970 align:middle line:84%
+much more up-to-date music that
+are advertising concert tickets.
+
+00:28:09.970 --> 00:28:12.970 align:middle line:84%
+Somehow they just they just
+abstract away from that.
+
+00:28:12.970 --> 00:28:15.070 align:middle line:84%
+It's just-- they're just
+going to go to listeners
+
+00:28:15.070 --> 00:28:16.220 align:middle line:90%
+are a homogeneous effect.
+
+00:28:16.220 --> 00:28:18.470 align:middle line:84%
+There's just a
+downward-sloping demand
+
+00:28:18.470 --> 00:28:22.820 align:middle line:84%
+curve for the more listeners
+you have, the price--
+
+00:28:22.820 --> 00:28:26.210 align:middle line:84%
+or the more listeners you--
+the more commercial slots
+
+00:28:26.210 --> 00:28:30.410 align:middle line:84%
+you have to sell, lowers the
+price per commercial slot.
+
+00:28:30.410 --> 00:28:32.470 align:middle line:84%
+And that's how that
+market is going to work.
+
+00:28:32.470 --> 00:28:35.660 align:middle line:84%
+Anyway, so the--
+what's also good
+
+00:28:35.660 --> 00:28:39.290 align:middle line:84%
+here is they have purely fixed
+costs and no marginal costs
+
+00:28:39.290 --> 00:28:40.680 align:middle line:90%
+of producing listeners.
+
+00:28:40.680 --> 00:28:42.470 align:middle line:84%
+So you get even simpler
+welfare function
+
+00:28:42.470 --> 00:28:43.970 align:middle line:84%
+than the one we
+talked about before.
+
+00:28:43.970 --> 00:28:47.750 align:middle line:84%
+So the welfare-- if you
+have-- and radio stations,
+
+00:28:47.750 --> 00:28:49.500 align:middle line:84%
+it's going to be
+the integral from 0.
+
+00:28:49.500 --> 00:28:51.708 align:middle line:84%
+So L star of N is going to
+be the number of listeners
+
+00:28:51.708 --> 00:28:53.810 align:middle line:84%
+per station when
+you have N stations.
+
+00:28:53.810 --> 00:28:58.590 align:middle line:84%
+So it's just the integral from
+0 to N L star of N. P of x dx--
+
+00:28:58.590 --> 00:29:01.220 align:middle line:84%
+the willingness to pay for the
+very first-- for each listener
+
+00:29:01.220 --> 00:29:03.303 align:middle line:84%
+integrated out over the
+total number of listeners.
+
+00:29:03.303 --> 00:29:06.230 align:middle line:84%
+So this is the
+advertiser willingness
+
+00:29:06.230 --> 00:29:08.060 align:middle line:90%
+to pay for listeners.
+
+00:29:08.060 --> 00:29:10.670 align:middle line:84%
+And this is the gross
+surplus, is just
+
+00:29:10.670 --> 00:29:15.500 align:middle line:84%
+the area under that curve,
+minus the fixed costs
+
+00:29:15.500 --> 00:29:18.200 align:middle line:84%
+that are incurred in
+generating all those listeners.
+
+00:29:18.200 --> 00:29:19.990 align:middle line:84%
+And so the things that
+we need to estimate
+
+00:29:19.990 --> 00:29:23.410 align:middle line:84%
+are this per firm
+listening function L
+
+00:29:23.410 --> 00:29:27.790 align:middle line:84%
+star of N. We need the
+advertiser inverse demand
+
+00:29:27.790 --> 00:29:32.170 align:middle line:84%
+function, L of N. And we
+need the fixed cost F. So
+
+00:29:32.170 --> 00:29:34.420 align:middle line:84%
+to evaluate welfare
+in this perspective,
+
+00:29:34.420 --> 00:29:36.405 align:middle line:84%
+you just need to estimate
+those three objects.
+
+00:29:36.405 --> 00:29:41.283 align:middle line:90%
+
+
+00:29:41.283 --> 00:29:42.200 align:middle line:90%
+How are we doing this?
+
+00:29:42.200 --> 00:29:44.500 align:middle line:84%
+So the first [INAUDIBLE]
+of listening, this
+
+00:29:44.500 --> 00:29:49.570 align:middle line:84%
+is where you get the sense
+of how much NEIO people like
+
+00:29:49.570 --> 00:29:52.150 align:middle line:84%
+discrete choice models and
+discrete-- discrete choice
+
+00:29:52.150 --> 00:29:53.950 align:middle line:84%
+models of estimating
+things because they
+
+00:29:53.950 --> 00:29:55.610 align:middle line:90%
+don't have any price variation.
+
+00:29:55.610 --> 00:29:57.777 align:middle line:84%
+They're not actually trying
+to estimate the consumer
+
+00:29:57.777 --> 00:29:58.450 align:middle line:90%
+preferences.
+
+00:29:58.450 --> 00:30:00.783 align:middle line:84%
+Despite not trying to estimate
+the consumer preferences,
+
+00:30:00.783 --> 00:30:04.300 align:middle line:84%
+they're still using a model with
+consumers having discrete choice
+
+00:30:04.300 --> 00:30:07.360 align:middle line:84%
+preferences, choosing among
+stations or the outside good
+
+00:30:07.360 --> 00:30:10.360 align:middle line:84%
+to generate their
+listening function.
+
+00:30:10.360 --> 00:30:15.910 align:middle line:84%
+So this is-- people know
+what nested logit models are?
+
+00:30:15.910 --> 00:30:17.470 align:middle line:90%
+So, OK.
+
+00:30:17.470 --> 00:30:20.830 align:middle line:84%
+So anyway, this is a-- what
+we call a nested logit model.
+
+00:30:20.830 --> 00:30:23.650 align:middle line:84%
+Do you remember I sort of-- we
+went with the standard logit
+
+00:30:23.650 --> 00:30:25.420 align:middle line:84%
+model, the utility
+the consumer i
+
+00:30:25.420 --> 00:30:29.320 align:middle line:84%
+gets from listening to
+station j is delta j,
+
+00:30:29.320 --> 00:30:32.710 align:middle line:84%
+which is like the quality of
+station j plus epsilon ij, which
+
+00:30:32.710 --> 00:30:34.225 align:middle line:90%
+is like the logit type.
+
+00:30:34.225 --> 00:30:37.210 align:middle line:90%
+
+
+00:30:37.210 --> 00:30:42.480 align:middle line:84%
+In the nested logic model,
+you add a second shock.
+
+00:30:42.480 --> 00:30:45.320 align:middle line:84%
+So the epsilon ij
+is the shock that's
+
+00:30:45.320 --> 00:30:46.925 align:middle line:90%
+independent across stations.
+
+00:30:46.925 --> 00:30:48.300 align:middle line:84%
+I like the music
+on this station.
+
+00:30:48.300 --> 00:30:49.758 align:middle line:84%
+I don't like music
+on this station.
+
+00:30:49.758 --> 00:30:53.210 align:middle line:84%
+That's additive
+to my preferences.
+
+00:30:53.210 --> 00:30:56.840 align:middle line:84%
+But then there's also
+a common shock, vi.
+
+00:30:56.840 --> 00:30:59.840 align:middle line:84%
+And the vi is a
+random variable that's
+
+00:30:59.840 --> 00:31:01.850 align:middle line:84%
+drawn randomly at the
+level of the customer,
+
+00:31:01.850 --> 00:31:03.150 align:middle line:90%
+not at the station.
+
+00:31:03.150 --> 00:31:06.620 align:middle line:84%
+And it is their taste for music
+as a whole versus not listening
+
+00:31:06.620 --> 00:31:07.820 align:middle line:90%
+to the radio.
+
+00:31:07.820 --> 00:31:09.680 align:middle line:90%
+So we have these two shocks--
+
+00:31:09.680 --> 00:31:15.740 align:middle line:84%
+one common shock that customer i
+gets regardless of which station
+
+00:31:15.740 --> 00:31:16.790 align:middle line:90%
+they listen to.
+
+00:31:16.790 --> 00:31:20.270 align:middle line:84%
+And then one set of-- and then
+a set of idiosyncratic shocks
+
+00:31:20.270 --> 00:31:23.270 align:middle line:84%
+that are independent across
+stations that you get if
+
+00:31:23.270 --> 00:31:26.780 align:middle line:84%
+and only if you listen to
+that particular station.
+
+00:31:26.780 --> 00:31:29.120 align:middle line:84%
+And the idea here is
+by having a sigma that
+
+00:31:29.120 --> 00:31:31.470 align:middle line:90%
+can vary between 0 and 1--
+
+00:31:31.470 --> 00:31:36.140 align:middle line:84%
+so sigma equals 0 is the
+pure logit model, where
+
+00:31:36.140 --> 00:31:39.980 align:middle line:84%
+when you add another
+station, it draws customers
+
+00:31:39.980 --> 00:31:42.050 align:middle line:84%
+equally from all of
+the other stations
+
+00:31:42.050 --> 00:31:43.760 align:middle line:90%
+and from the nonlisteners.
+
+00:31:43.760 --> 00:31:46.310 align:middle line:84%
+And in radio, nonlisteners
+are most people.
+
+00:31:46.310 --> 00:31:49.550 align:middle line:84%
+In most half hours, most
+people in the United States
+
+00:31:49.550 --> 00:31:51.118 align:middle line:90%
+are not listening to the radio.
+
+00:31:51.118 --> 00:31:52.410 align:middle line:90%
+It's actually surprisingly few.
+
+00:31:52.410 --> 00:31:54.710 align:middle line:84%
+It's about-- I
+think it's like 85%.
+
+00:31:54.710 --> 00:31:58.340 align:middle line:84%
+So typical half hour, 85%
+of people in United States
+
+00:31:58.340 --> 00:32:00.290 align:middle line:90%
+are not listening to the radio.
+
+00:32:00.290 --> 00:32:03.230 align:middle line:84%
+But so then if you have
+the pure logit, that
+
+00:32:03.230 --> 00:32:06.740 align:middle line:84%
+means when a new station
+attracts someone,
+
+00:32:06.740 --> 00:32:08.900 align:middle line:84%
+it's 85% chance that
+they're expanding the market
+
+00:32:08.900 --> 00:32:11.150 align:middle line:84%
+and choosing someone who
+wasn't listening to the radio
+
+00:32:11.150 --> 00:32:12.470 align:middle line:90%
+to begin with.
+
+00:32:12.470 --> 00:32:17.130 align:middle line:84%
+The other extreme, sigma
+equals 1, this shock goes away.
+
+00:32:17.130 --> 00:32:19.400 align:middle line:90%
+It's all the common shock.
+
+00:32:19.400 --> 00:32:21.650 align:middle line:84%
+And when it's all
+the common shock,
+
+00:32:21.650 --> 00:32:24.170 align:middle line:90%
+then it's 100% business dealing.
+
+00:32:24.170 --> 00:32:26.810 align:middle line:84%
+If you only have common shocks,
+and the idiosyncratic means are
+
+00:32:26.810 --> 00:32:29.300 align:middle line:84%
+essentially zero, you
+add a new station,
+
+00:32:29.300 --> 00:32:31.800 align:middle line:84%
+it's just going to pull people
+away from the other stations.
+
+00:32:31.800 --> 00:32:33.175 align:middle line:84%
+And it's only the
+people who have
+
+00:32:33.175 --> 00:32:36.410 align:middle line:84%
+the vi's that are big enough to
+overcome delta that will listen
+
+00:32:36.410 --> 00:32:40.470 align:middle line:90%
+to radio regardless.
+
+00:32:40.470 --> 00:32:43.042 align:middle line:84%
+Anyway, so this--
+they have this model.
+
+00:32:43.042 --> 00:32:44.500 align:middle line:84%
+It's got this free
+parameter sigma.
+
+00:32:44.500 --> 00:32:46.290 align:middle line:84%
+And that's going to let them
+say how important business
+
+00:32:46.290 --> 00:32:46.790 align:middle line:90%
+dealing is.
+
+00:32:46.790 --> 00:32:48.540 align:middle line:84%
+And it's very
+important to have that
+
+00:32:48.540 --> 00:32:49.923 align:middle line:90%
+because a business dealing--
+
+00:32:49.923 --> 00:32:51.840 align:middle line:84%
+we know that there's a
+lot of business dealing
+
+00:32:51.840 --> 00:32:52.993 align:middle line:90%
+if there's too much entry.
+
+00:32:52.993 --> 00:32:54.660 align:middle line:84%
+If there's very little
+business dealing,
+
+00:32:54.660 --> 00:32:59.700 align:middle line:84%
+then we might have
+insufficient entry.
+
+00:32:59.700 --> 00:33:01.950 align:middle line:90%
+If you have a totally--
+
+00:33:01.950 --> 00:33:03.532 align:middle line:84%
+if this model was
+totally symmetric,
+
+00:33:03.532 --> 00:33:06.240 align:middle line:84%
+if all the deltas were the same,
+if all the stations were exactly
+
+00:33:06.240 --> 00:33:12.300 align:middle line:84%
+the same quality, then the
+nested logit model N l star of N
+
+00:33:12.300 --> 00:33:14.790 align:middle line:84%
+would be N to the 1
+minus sigma power over e
+
+00:33:14.790 --> 00:33:17.500 align:middle line:84%
+to the minus delta plus
+the N to the 1 minus sigma.
+
+00:33:17.500 --> 00:33:21.150 align:middle line:84%
+So again, for sigma equals
+1, total listenership
+
+00:33:21.150 --> 00:33:23.640 align:middle line:84%
+is just completely
+fixed at 1 over 1
+
+00:33:23.640 --> 00:33:25.890 align:middle line:84%
+plus e to the minus
+delta, regardless
+
+00:33:25.890 --> 00:33:27.430 align:middle line:90%
+of the number of consumers.
+
+00:33:27.430 --> 00:33:34.500 align:middle line:84%
+But then when sigma goes to
+zero, this thing is like--
+
+00:33:34.500 --> 00:33:37.980 align:middle line:84%
+it's asymptoting towards 1,
+but it's going up initially
+
+00:33:37.980 --> 00:33:39.830 align:middle line:90%
+linearly then.
+
+00:33:39.830 --> 00:33:44.050 align:middle line:84%
+Because it's like N to the first
+over this plus something small.
+
+00:33:44.050 --> 00:33:45.995 align:middle line:90%
+So it's going up again.
+
+00:33:45.995 --> 00:33:53.720 align:middle line:90%
+
+
+00:33:53.720 --> 00:33:55.670 align:middle line:90%
+Anyway, so they estimate this--
+
+00:33:55.670 --> 00:33:58.760 align:middle line:84%
+we're estimating this using the
+data on how many people listen
+
+00:33:58.760 --> 00:34:01.700 align:middle line:84%
+as a function of N. And
+they have an IV approach
+
+00:34:01.700 --> 00:34:04.400 align:middle line:90%
+where they use population.
+
+00:34:04.400 --> 00:34:07.910 align:middle line:84%
+You might overesti--
+underestimate the effect of N
+
+00:34:07.910 --> 00:34:10.219 align:middle line:84%
+on markets because
+you'll see a lot of--
+
+00:34:10.219 --> 00:34:11.900 align:middle line:84%
+or overestimate it
+because you'd see
+
+00:34:11.900 --> 00:34:14.120 align:middle line:84%
+a lot of stations
+entering the markets that
+
+00:34:14.120 --> 00:34:15.290 align:middle line:90%
+have a lot of demand.
+
+00:34:15.290 --> 00:34:17.623 align:middle line:84%
+Like, there are some cities
+where people like the radio,
+
+00:34:17.623 --> 00:34:20.540 align:middle line:84%
+like Nashville, and some like
+Boston where they don't, then
+
+00:34:20.540 --> 00:34:23.270 align:middle line:84%
+you might get more firms
+in Nashville than in Boston
+
+00:34:23.270 --> 00:34:25.190 align:middle line:84%
+because they're
+meeting the demand.
+
+00:34:25.190 --> 00:34:28.040 align:middle line:84%
+And so the instrument
+for the number of firms,
+
+00:34:28.040 --> 00:34:30.230 align:middle line:84%
+they use the population
+as an instrument
+
+00:34:30.230 --> 00:34:31.230 align:middle line:90%
+for the number of firms.
+
+00:34:31.230 --> 00:34:34.340 align:middle line:84%
+And so they're sometimes
+looking at how does listening
+
+00:34:34.340 --> 00:34:40.135 align:middle line:84%
+compare in cities with a lot
+of people versus a few people.
+
+00:34:40.135 --> 00:34:41.760 align:middle line:84%
+Then the second thing
+they do is just--
+
+00:34:41.760 --> 00:34:44.639 align:middle line:84%
+they want to estimate this
+downward-sloping advertising
+
+00:34:44.639 --> 00:34:46.770 align:middle line:90%
+demand curve.
+
+00:34:46.770 --> 00:34:49.590 align:middle line:84%
+They're going to assume that
+the advertising prices depend
+
+00:34:49.590 --> 00:34:53.040 align:middle line:84%
+on the share of people listening
+to the radio and market k.
+
+00:34:53.040 --> 00:34:59.160 align:middle line:84%
+And so it's just the log of
+price of advertising in market k
+
+00:34:59.160 --> 00:35:04.660 align:middle line:84%
+is equal to some characteristics
+of the city, plus something--
+
+00:35:04.660 --> 00:35:07.560 align:middle line:84%
+if you have a downward-sloping
+demand in the number
+
+00:35:07.560 --> 00:35:08.820 align:middle line:90%
+of listeners--
+
+00:35:08.820 --> 00:35:11.730 align:middle line:84%
+listener hours that
+there are plus omega k.
+
+00:35:11.730 --> 00:35:15.970 align:middle line:84%
+So, again, the idea is the
+more listener hours you have,
+
+00:35:15.970 --> 00:35:17.970 align:middle line:84%
+the lower is the willingness
+to pay per listener
+
+00:35:17.970 --> 00:35:22.800 align:middle line:90%
+hour for the commercials.
+
+00:35:22.800 --> 00:35:25.410 align:middle line:90%
+And then the fixed costs.
+
+00:35:25.410 --> 00:35:29.640 align:middle line:84%
+In some sense, this is like
+Bresnahan and Reiss kind
+
+00:35:29.640 --> 00:35:31.790 align:middle line:90%
+of approach, that you just--
+
+00:35:31.790 --> 00:35:34.680 align:middle line:84%
+you are trying to rationalize
+the number of radio stations
+
+00:35:34.680 --> 00:35:35.490 align:middle line:90%
+in every market.
+
+00:35:35.490 --> 00:35:38.220 align:middle line:84%
+And so you rationalize
+it by assuming
+
+00:35:38.220 --> 00:35:40.830 align:middle line:90%
+that there are these errors.
+
+00:35:40.830 --> 00:35:42.420 align:middle line:84%
+In this case, they
+do errors drawn
+
+00:35:42.420 --> 00:35:44.580 align:middle line:84%
+from a log-normal
+distribution instead of
+
+00:35:44.580 --> 00:35:46.900 align:middle line:90%
+from a normal distribution.
+
+00:35:46.900 --> 00:35:49.710 align:middle line:90%
+And they do the--
+
+00:35:49.710 --> 00:35:51.360 align:middle line:84%
+estimate two
+parameters-- the mean
+
+00:35:51.360 --> 00:35:55.170 align:middle line:84%
+and variance of the
+log-normal distribution.
+
+00:35:55.170 --> 00:36:00.150 align:middle line:84%
+But anyway, that's just
+like Bresnahan and Reiss.
+
+00:36:00.150 --> 00:36:04.720 align:middle line:84%
+And the data have information
+about 3,285 stations,
+
+00:36:04.720 --> 00:36:06.610 align:middle line:90%
+135 markets.
+
+00:36:06.610 --> 00:36:08.640 align:middle line:84%
+So they have individual
+station characteristics
+
+00:36:08.640 --> 00:36:11.430 align:middle line:84%
+that they're using
+in some places.
+
+00:36:11.430 --> 00:36:14.430 align:middle line:84%
+These regressions, like the
+advertising demand regressions,
+
+00:36:14.430 --> 00:36:15.720 align:middle line:90%
+those are just run--
+
+00:36:15.720 --> 00:36:18.400 align:middle line:84%
+their advertising data is
+purely at the market level.
+
+00:36:18.400 --> 00:36:20.940 align:middle line:84%
+It's not at the
+station market level.
+
+00:36:20.940 --> 00:36:24.710 align:middle line:84%
+So there, they're just using
+market level advertising prices
+
+00:36:24.710 --> 00:36:27.130 align:middle line:84%
+they get from some
+consulting firm that
+
+00:36:27.130 --> 00:36:28.940 align:middle line:90%
+provides advertising prices.
+
+00:36:28.940 --> 00:36:32.200 align:middle line:84%
+I think it actually comes
+from the revenues and rate.
+
+00:36:32.200 --> 00:36:35.320 align:middle line:84%
+It comes with radio
+stations advertising--
+
+00:36:35.320 --> 00:36:38.710 align:middle line:90%
+reported advertising revenues.
+
+00:36:38.710 --> 00:36:41.470 align:middle line:84%
+The raw data, which
+is going to tell you
+
+00:36:41.470 --> 00:36:45.280 align:middle line:84%
+a lot about what the results
+come out, is here in the paper.
+
+00:36:45.280 --> 00:36:48.130 align:middle line:84%
+So this graph is as
+the number of stations
+
+00:36:48.130 --> 00:36:51.172 align:middle line:84%
+in a market increases,
+how does listening go up?
+
+00:36:51.172 --> 00:36:52.630 align:middle line:84%
+And you might say,
+OK, I definitely
+
+00:36:52.630 --> 00:36:54.400 align:middle line:90%
+see that positive slope--
+
+00:36:54.400 --> 00:36:57.310 align:middle line:84%
+more radio stations,
+more listening.
+
+00:36:57.310 --> 00:37:00.400 align:middle line:84%
+But if you look at
+this graph, this scale
+
+00:37:00.400 --> 00:37:04.070 align:middle line:84%
+is really running from 0.1
+to 0.18, or 0.12 to 0.18.
+
+00:37:04.070 --> 00:37:06.540 align:middle line:84%
+So when you have
+15 radio stations,
+
+00:37:06.540 --> 00:37:09.040 align:middle line:84%
+it's looking like you're getting
+14% of the people listening
+
+00:37:09.040 --> 00:37:10.810 align:middle line:90%
+to the radio.
+
+00:37:10.810 --> 00:37:15.140 align:middle line:84%
+When you have 45 radio stations,
+you're getting like 15 or 16.
+
+00:37:15.140 --> 00:37:19.060 align:middle line:84%
+So we're tripling the number of
+radio stations in the market,
+
+00:37:19.060 --> 00:37:23.860 align:middle line:84%
+and listening is going from 14%
+to 16% or something like that.
+
+00:37:23.860 --> 00:37:28.330 align:middle line:84%
+So this is saying that it does
+seem like radio station entry is
+
+00:37:28.330 --> 00:37:30.400 align:middle line:90%
+mostly business stealing.
+
+00:37:30.400 --> 00:37:33.250 align:middle line:84%
+And, again, we think that this
+graph, if you drew the OLS,
+
+00:37:33.250 --> 00:37:37.150 align:middle line:84%
+might be overstated how much
+market expansion there is.
+
+00:37:37.150 --> 00:37:40.060 align:middle line:84%
+So when you're on the IV, it's
+not surprising that it says,
+
+00:37:40.060 --> 00:37:44.080 align:middle line:84%
+yes, there's an awful lot
+of business dealing here.
+
+00:37:44.080 --> 00:37:45.430 align:middle line:90%
+And then-- OK, yeah.
+
+00:37:45.430 --> 00:37:50.830 align:middle line:84%
+This is just showing you where
+the instrument comes from.
+
+00:37:50.830 --> 00:37:53.770 align:middle line:84%
+That is, it is true that
+the cities that are small,
+
+00:37:53.770 --> 00:37:55.870 align:middle line:84%
+the cities of a few
+hundred thousand,
+
+00:37:55.870 --> 00:37:57.980 align:middle line:84%
+tend to have only 10
+or 15 radio stations.
+
+00:37:57.980 --> 00:37:59.560 align:middle line:84%
+And as markets
+get bigger, you're
+
+00:37:59.560 --> 00:38:00.860 align:middle line:90%
+getting more radio stations.
+
+00:38:00.860 --> 00:38:02.625 align:middle line:90%
+And so that's the first stage.
+
+00:38:02.625 --> 00:38:05.650 align:middle line:90%
+
+
+00:38:05.650 --> 00:38:07.633 align:middle line:90%
+And then the advertising prices.
+
+00:38:07.633 --> 00:38:11.350 align:middle line:90%
+
+
+00:38:11.350 --> 00:38:13.600 align:middle line:84%
+As the listening
+share increases--
+
+00:38:13.600 --> 00:38:19.510 align:middle line:84%
+this is per listener hour
+advertising price or advertising
+
+00:38:19.510 --> 00:38:20.470 align:middle line:90%
+revenue--
+
+00:38:20.470 --> 00:38:23.530 align:middle line:84%
+advertising revenues
+per listener hour
+
+00:38:23.530 --> 00:38:29.687 align:middle line:84%
+are clearly declining as the
+listening share is going up.
+
+00:38:29.687 --> 00:38:32.270 align:middle line:84%
+And the model for this would be
+there are some things that you
+
+00:38:32.270 --> 00:38:33.870 align:middle line:90%
+need to advertise on the radio.
+
+00:38:33.870 --> 00:38:37.340 align:middle line:84%
+And so if there's very few radio
+commercial slots available,
+
+00:38:37.340 --> 00:38:38.485 align:middle line:90%
+we pay a lot for them.
+
+00:38:38.485 --> 00:38:39.860 align:middle line:84%
+And then beyond
+that, you're just
+
+00:38:39.860 --> 00:38:42.530 align:middle line:84%
+left with playing radio
+ads for things that you
+
+00:38:42.530 --> 00:38:44.155 align:middle line:90%
+could advertise anywhere else.
+
+00:38:44.155 --> 00:38:45.530 align:middle line:84%
+And the advertiser--
+there's just
+
+00:38:45.530 --> 00:38:47.630 align:middle line:84%
+fewer advertisers who really
+want those ads [INAUDIBLE]
+
+00:38:47.630 --> 00:38:49.020 align:middle line:90%
+the prices after the decline.
+
+00:38:49.020 --> 00:38:55.100 align:middle line:90%
+
+
+00:38:55.100 --> 00:38:56.310 align:middle line:90%
+So what do they get?
+
+00:38:56.310 --> 00:38:58.670 align:middle line:84%
+So anyway, they estimate
+sigma close to 1, entries
+
+00:38:58.670 --> 00:39:00.000 align:middle line:90%
+mostly business stealing.
+
+00:39:00.000 --> 00:39:02.900 align:middle line:84%
+Therefore, there's going
+to be too much entry.
+
+00:39:02.900 --> 00:39:07.840 align:middle line:84%
+Almost shocking results here on
+how much excessive entry there
+
+00:39:07.840 --> 00:39:08.340 align:middle line:90%
+is.
+
+00:39:08.340 --> 00:39:14.150 align:middle line:84%
+So welfare under free
+entry is $5 billion.
+
+00:39:14.150 --> 00:39:18.350 align:middle line:84%
+A social planner could increase
+social welfare by almost 40%
+
+00:39:18.350 --> 00:39:20.870 align:middle line:84%
+by restricting the
+number of radio stations.
+
+00:39:20.870 --> 00:39:25.040 align:middle line:84%
+If we even had a monopolist--
+so there was just one firm that
+
+00:39:25.040 --> 00:39:27.133 align:middle line:84%
+had a unique license
+to operate all radio
+
+00:39:27.133 --> 00:39:29.550 align:middle line:84%
+stations in each market, and
+that monopolist could operate
+
+00:39:29.550 --> 00:39:31.860 align:middle line:84%
+as many stations
+as it wanted, it
+
+00:39:31.860 --> 00:39:34.320 align:middle line:84%
+would say we would do almost
+as well under monopolist as we
+
+00:39:34.320 --> 00:39:36.060 align:middle line:90%
+do under the social planner.
+
+00:39:36.060 --> 00:39:39.420 align:middle line:84%
+So the estimates imply that we
+want very few radio stations.
+
+00:39:39.420 --> 00:39:41.170 align:middle line:84%
+A monopolist wouldn't
+open just one.
+
+00:39:41.170 --> 00:39:46.140 align:middle line:84%
+A monopolist would open
+three or four or five
+
+00:39:46.140 --> 00:39:47.200 align:middle line:90%
+stations per market.
+
+00:39:47.200 --> 00:39:49.530 align:middle line:84%
+But in some sense,
+the model is saying
+
+00:39:49.530 --> 00:39:51.780 align:middle line:84%
+that there's just an awful
+lot of wasteful duplication
+
+00:39:51.780 --> 00:39:54.270 align:middle line:84%
+of fixed costs, so we could
+get by with many fewer radio
+
+00:39:54.270 --> 00:39:56.220 align:middle line:90%
+stations.
+
+00:39:56.220 --> 00:40:03.720 align:middle line:84%
+So in their data set, there are
+2,509 within metro stations.
+
+00:40:03.720 --> 00:40:06.870 align:middle line:84%
+And they basically estimate
+that we have four times as many
+
+00:40:06.870 --> 00:40:14.850 align:middle line:84%
+as we want, that optimal would
+be to only have 649 stations.
+
+00:40:14.850 --> 00:40:17.820 align:middle line:84%
+What would happen in this world
+where 3/4 of the radio stations
+
+00:40:17.820 --> 00:40:19.680 align:middle line:90%
+disappeared?
+
+00:40:19.680 --> 00:40:23.920 align:middle line:84%
+Advertising price would
+go from 277 to 336.
+
+00:40:23.920 --> 00:40:28.560 align:middle line:84%
+So it goes up, but
+only moderately.
+
+00:40:28.560 --> 00:40:33.460 align:middle line:84%
+Listening share would go from
+12.9% of the population to 9.3%.
+
+00:40:33.460 --> 00:40:37.800 align:middle line:84%
+So it is true that more than a
+quarter of all radio listening
+
+00:40:37.800 --> 00:40:40.440 align:middle line:84%
+would stop when all those
+stations disappeared.
+
+00:40:40.440 --> 00:40:43.590 align:middle line:84%
+But the big social welfare
+gain is the fixed costs
+
+00:40:43.590 --> 00:40:47.590 align:middle line:84%
+of operating all these radio
+stations drops from $5 billion
+
+00:40:47.590 --> 00:40:49.440 align:middle line:90%
+to $1 billion.
+
+00:40:49.440 --> 00:40:51.840 align:middle line:84%
+So I just have to say,
+this does make you
+
+00:40:51.840 --> 00:40:53.340 align:middle line:90%
+wonder a little bit about this.
+
+00:40:53.340 --> 00:40:57.060 align:middle line:84%
+Does this seem like some
+Marvel superhero movie where
+
+00:40:57.060 --> 00:40:58.530 align:middle line:84%
+there's this evil
+guy who's like,
+
+00:40:58.530 --> 00:41:02.070 align:middle line:84%
+I'm going to destroy 3/4
+of all the people on Earth,
+
+00:41:02.070 --> 00:41:04.200 align:middle line:84%
+and then everyone's going
+to be better off somehow.
+
+00:41:04.200 --> 00:41:08.730 align:middle line:84%
+So these guys, they're very
+well [INAUDIBLE] and destroy 3/4
+
+00:41:08.730 --> 00:41:09.830 align:middle line:90%
+of all the radio stations.
+
+00:41:09.830 --> 00:41:11.580 align:middle line:84%
+And yes, fewer people
+are going to listen,
+
+00:41:11.580 --> 00:41:13.290 align:middle line:84%
+but we're going to
+save all this money,
+
+00:41:13.290 --> 00:41:16.140 align:middle line:84%
+and we're all going
+to be better off here.
+
+00:41:16.140 --> 00:41:18.120 align:middle line:84%
+One thing they note
+is that it is true
+
+00:41:18.120 --> 00:41:20.280 align:middle line:84%
+that the advertising
+listening share goes down
+
+00:41:20.280 --> 00:41:22.520 align:middle line:84%
+from 12.9% to 9.3%
+Again, remember,
+
+00:41:22.520 --> 00:41:24.270 align:middle line:84%
+this is a calculation
+where there are only
+
+00:41:24.270 --> 00:41:26.830 align:middle line:84%
+two types of people
+in the world.
+
+00:41:26.830 --> 00:41:30.540 align:middle line:84%
+There are radio stations,
+and there are advertisers.
+
+00:41:30.540 --> 00:41:32.430 align:middle line:84%
+And the people are
+just intermediaries
+
+00:41:32.430 --> 00:41:35.520 align:middle line:84%
+who are just being used
+to generate ad revenue.
+
+00:41:35.520 --> 00:41:39.540 align:middle line:84%
+They ask, what happened-- how
+important would people have
+
+00:41:39.540 --> 00:41:43.140 align:middle line:84%
+to be and people's enjoyment of
+radio have to be in order to not
+
+00:41:43.140 --> 00:41:45.460 align:middle line:84%
+want to kill 3/4 of
+the radio stations?
+
+00:41:45.460 --> 00:41:48.700 align:middle line:84%
+And my take on the number is
+that it's really kind of small.
+
+00:41:48.700 --> 00:41:52.373 align:middle line:84%
+So the advertiser revenue
+per listener hour,
+
+00:41:52.373 --> 00:41:53.790 align:middle line:84%
+if I'm reading the
+data correctly,
+
+00:41:53.790 --> 00:41:56.455 align:middle line:84%
+is about 4.2 cents
+per listener hour.
+
+00:41:56.455 --> 00:41:58.830 align:middle line:84%
+That is, if you think about
+it, like you listen to radio,
+
+00:41:58.830 --> 00:42:00.420 align:middle line:84%
+how often you
+actually buy anything
+
+00:42:00.420 --> 00:42:01.690 align:middle line:90%
+that you hear in a radio ad?
+
+00:42:01.690 --> 00:42:03.690 align:middle line:84%
+How much would someone
+be willing to pay to have
+
+00:42:03.690 --> 00:42:04.732 align:middle line:90%
+you hear those radio ads?
+
+00:42:04.732 --> 00:42:06.960 align:middle line:90%
+The answer is almost nothing.
+
+00:42:06.960 --> 00:42:11.040 align:middle line:84%
+So to offset all these losses,
+you would need consumer surplus
+
+00:42:11.040 --> 00:42:16.290 align:middle line:84%
+to be about 13 and 1/2 cents
+per listener hour to say we
+
+00:42:16.290 --> 00:42:18.780 align:middle line:84%
+don't want to kill 3/4 of the
+radio stations in the United
+
+00:42:18.780 --> 00:42:19.300 align:middle line:90%
+States.
+
+00:42:19.300 --> 00:42:23.040 align:middle line:84%
+And again, I-- again,
+I don't know how much
+
+00:42:23.040 --> 00:42:25.363 align:middle line:84%
+people are willing to pay
+for listening to the radio.
+
+00:42:25.363 --> 00:42:28.030 align:middle line:84%
+It is true that satellite radio
+doesn't get that many customers.
+
+00:42:28.030 --> 00:42:29.040 align:middle line:84%
+And I don't know
+how much Spotify
+
+00:42:29.040 --> 00:42:30.210 align:middle line:90%
+charges per listener hour.
+
+00:42:30.210 --> 00:42:32.772 align:middle line:84%
+But 13 and 1/2 cents is
+not such a big number.
+
+00:42:32.772 --> 00:42:34.230 align:middle line:84%
+And so, in some
+sense, you wouldn't
+
+00:42:34.230 --> 00:42:36.630 align:middle line:84%
+need customers to be
+all that important
+
+00:42:36.630 --> 00:42:39.130 align:middle line:84%
+and not want to get rid of
+all the firms in this way.
+
+00:42:39.130 --> 00:42:42.610 align:middle line:90%
+
+
+00:42:42.610 --> 00:42:45.700 align:middle line:90%
+Any questions on that?
+
+00:42:45.700 --> 00:42:47.710 align:middle line:84%
+Oh, these are
+just-- yeah, anyway.
+
+00:42:47.710 --> 00:42:48.800 align:middle line:90%
+Had the graphs up there.
+
+00:42:48.800 --> 00:42:49.300 align:middle line:90%
+So yeah.
+
+00:42:49.300 --> 00:42:51.700 align:middle line:84%
+So the monopolist different
+numbers-- so like, monopolist
+
+00:42:51.700 --> 00:42:52.900 align:middle line:84%
+is nearly as good
+in their market.
+
+00:42:52.900 --> 00:42:54.400 align:middle line:84%
+The monopolist gets
+all the way down
+
+00:42:54.400 --> 00:42:58.130 align:middle line:84%
+to just 341 radio
+stations in 135 cities.
+
+00:42:58.130 --> 00:43:01.540 align:middle line:84%
+So we're going down literally
+less than three radio stations
+
+00:43:01.540 --> 00:43:02.830 align:middle line:90%
+per city.
+
+00:43:02.830 --> 00:43:06.100 align:middle line:84%
+And again, the listening
+share dropped substantially
+
+00:43:06.100 --> 00:43:09.370 align:middle line:90%
+under monopoly.
+
+00:43:09.370 --> 00:43:12.670 align:middle line:84%
+So some comments
+I wanted to make.
+
+00:43:12.670 --> 00:43:16.270 align:middle line:84%
+In some sense, I didn't need
+to actually do this paper--
+
+00:43:16.270 --> 00:43:17.620 align:middle line:90%
+do the empirics of this paper.
+
+00:43:17.620 --> 00:43:21.880 align:middle line:84%
+This is-- as I said, they model
+this as a homogeneous good.
+
+00:43:21.880 --> 00:43:23.920 align:middle line:84%
+I already gave that
+theorem that once when
+
+00:43:23.920 --> 00:43:26.390 align:middle line:84%
+you have a homogeneous good,
+entry is always excessive.
+
+00:43:26.390 --> 00:43:28.480 align:middle line:84%
+So whatever parameters,
+sigma and gamma
+
+00:43:28.480 --> 00:43:31.300 align:middle line:84%
+and whatever they've
+estimated, we
+
+00:43:31.300 --> 00:43:32.800 align:middle line:84%
+know that this model
+is going to say
+
+00:43:32.800 --> 00:43:35.080 align:middle line:84%
+there's too much entry
+if the advertisers--
+
+00:43:35.080 --> 00:43:39.915 align:middle line:84%
+if the people are homogeneous
+goods being sold to advertisers.
+
+00:43:39.915 --> 00:43:41.290 align:middle line:84%
+It's definitely
+true that they're
+
+00:43:41.290 --> 00:43:44.360 align:middle line:84%
+estimating how excessive it
+is by estimating that sigma
+
+00:43:44.360 --> 00:43:44.870 align:middle line:90%
+parameter.
+
+00:43:44.870 --> 00:43:47.210 align:middle line:84%
+And if that sigma parameter
+had to not be zero,
+
+00:43:47.210 --> 00:43:49.440 align:middle line:84%
+they would have gotten a
+much less excessive entry.
+
+00:43:49.440 --> 00:43:53.225 align:middle line:84%
+But the model is always
+saying that entry is excessive
+
+00:43:53.225 --> 00:43:55.100 align:middle line:84%
+and doesn't have estimates
+of the things that
+
+00:43:55.100 --> 00:43:58.970 align:middle line:84%
+will let you say there's
+insufficient entry.
+
+00:43:58.970 --> 00:44:00.480 align:middle line:90%
+What would those things be?
+
+00:44:00.480 --> 00:44:03.020 align:middle line:84%
+For instance, if
+you could estimate
+
+00:44:03.020 --> 00:44:05.100 align:middle line:84%
+how differentiated
+are the goods--
+
+00:44:05.100 --> 00:44:07.880 align:middle line:84%
+are people who listen to
+classical music versus top 40
+
+00:44:07.880 --> 00:44:10.770 align:middle line:84%
+music valued differently
+by different advertisers?
+
+00:44:10.770 --> 00:44:13.590 align:middle line:84%
+Do the advertisers gain
+from match quality?
+
+00:44:13.590 --> 00:44:15.140 align:middle line:84%
+That would be one
+thing leading us
+
+00:44:15.140 --> 00:44:17.665 align:middle line:84%
+to want more stations
+besides the consumer surplus.
+
+00:44:17.665 --> 00:44:20.870 align:middle line:90%
+
+
+00:44:20.870 --> 00:44:24.890 align:middle line:84%
+The paper also is also
+very limited in letting
+
+00:44:24.890 --> 00:44:27.440 align:middle line:90%
+quality vary across stations.
+
+00:44:27.440 --> 00:44:30.290 align:middle line:84%
+I think it is true that
+there are big stations that
+
+00:44:30.290 --> 00:44:31.590 align:middle line:90%
+have very big fixed costs.
+
+00:44:31.590 --> 00:44:33.410 align:middle line:84%
+There are a lot of
+college radio stations
+
+00:44:33.410 --> 00:44:37.620 align:middle line:84%
+that have very small fixed costs
+and very low-powered antennas.
+
+00:44:37.620 --> 00:44:42.200 align:middle line:84%
+And you imagine that it's not
+the case that we cut out 3/4
+
+00:44:42.200 --> 00:44:44.430 align:middle line:84%
+of stations, we cut out
+3/4 of the fixed costs.
+
+00:44:44.430 --> 00:44:47.097 align:middle line:84%
+It may be that all those little
+stations that no one's listening
+
+00:44:47.097 --> 00:44:48.890 align:middle line:84%
+to also are there
+because they all
+
+00:44:48.890 --> 00:44:52.790 align:middle line:84%
+have very little fixed costs,
+and we would like to do that.
+
+00:44:52.790 --> 00:44:55.610 align:middle line:84%
+The other thing that I think
+they don't have the data to do,
+
+00:44:55.610 --> 00:44:57.380 align:middle line:90%
+but it would be--
+
+00:44:57.380 --> 00:44:59.300 align:middle line:84%
+I think a big question
+in these media markets
+
+00:44:59.300 --> 00:45:01.850 align:middle line:84%
+is, what is the number of
+advertising minutes per hour,
+
+00:45:01.850 --> 00:45:04.820 align:middle line:84%
+and how is that optimal
+relative to consumer preferences
+
+00:45:04.820 --> 00:45:06.480 align:middle line:90%
+and advertiser preferences?
+
+00:45:06.480 --> 00:45:12.740 align:middle line:84%
+And it would be very
+nice to have more on--
+
+00:45:12.740 --> 00:45:16.310 align:middle line:84%
+know more about how
+do advertisers choose
+
+00:45:16.310 --> 00:45:17.860 align:middle line:90%
+the number of minutes per--
+
+00:45:17.860 --> 00:45:20.360 align:middle line:84%
+how do radio stations choose
+the number of minutes per hour,
+
+00:45:20.360 --> 00:45:23.010 align:middle line:84%
+and what does the
+trade-off on that look like
+
+00:45:23.010 --> 00:45:26.330 align:middle line:84%
+And you can imagine that we
+don't get price variation
+
+00:45:26.330 --> 00:45:29.060 align:middle line:84%
+on the consumer side, but you
+do get minutes of advertising
+
+00:45:29.060 --> 00:45:30.480 align:middle line:90%
+variation on the consumer side.
+
+00:45:30.480 --> 00:45:32.600 align:middle line:84%
+And so you could
+imagine that exploiting
+
+00:45:32.600 --> 00:45:35.180 align:middle line:84%
+that minute of
+advertising variation
+
+00:45:35.180 --> 00:45:41.690 align:middle line:84%
+can be an interesting way to get
+better at what are the-- what's
+
+00:45:41.690 --> 00:45:44.080 align:middle line:84%
+the consumer surplus of the
+consumers who are listening
+
+00:45:44.080 --> 00:45:45.560 align:middle line:90%
+to the free radio?
+
+00:45:45.560 --> 00:45:47.990 align:middle line:84%
+And I should say there
+are a number of papers
+
+00:45:47.990 --> 00:45:50.360 align:middle line:84%
+that do have advertising
+data to try to address
+
+00:45:50.360 --> 00:45:51.360 align:middle line:90%
+some of these questions.
+
+00:45:51.360 --> 00:45:52.985 align:middle line:84%
+But I think it's
+still an area where we
+
+00:45:52.985 --> 00:45:55.940 align:middle line:90%
+could do some interesting work.
+
+00:45:55.940 --> 00:45:58.260 align:middle line:84%
+So then the final
+thing I want to do
+
+00:45:58.260 --> 00:46:02.240 align:middle line:84%
+is a couple of papers
+that are, in some sense,
+
+00:46:02.240 --> 00:46:05.210 align:middle line:84%
+arguing that often,
+these entry models are
+
+00:46:05.210 --> 00:46:07.940 align:middle line:90%
+doing the wrong model of entry.
+
+00:46:07.940 --> 00:46:12.350 align:middle line:84%
+Most of the models of entry that
+I discussed in Tirole's textbook
+
+00:46:12.350 --> 00:46:13.830 align:middle line:90%
+are of this variety.
+
+00:46:13.830 --> 00:46:17.330 align:middle line:84%
+We have N for-- we have some
+large population of firms,
+
+00:46:17.330 --> 00:46:20.220 align:middle line:84%
+and they're all choosing in
+or out, paying a fixed cost.
+
+00:46:20.220 --> 00:46:21.740 align:middle line:84%
+And then once they
+enter, there's
+
+00:46:21.740 --> 00:46:24.378 align:middle line:84%
+this symmetric
+competition between them.
+
+00:46:24.378 --> 00:46:25.670 align:middle line:90%
+I think we know, though, that--
+
+00:46:25.670 --> 00:46:27.410 align:middle line:84%
+I've got a radio is an
+example-- that it's not
+
+00:46:27.410 --> 00:46:28.410 align:middle line:90%
+symmetric competition.
+
+00:46:28.410 --> 00:46:31.880 align:middle line:84%
+There are some big firms, and
+there are some small firms.
+
+00:46:31.880 --> 00:46:37.640 align:middle line:84%
+And what's in these next two
+papers is thinking about,
+
+00:46:37.640 --> 00:46:39.500 align:middle line:90%
+even when you have products--
+
+00:46:39.500 --> 00:46:41.702 align:middle line:84%
+Like in radio, we think
+there are high-quality,
+
+00:46:41.702 --> 00:46:43.910 align:middle line:84%
+or there's popular music
+stations that lots of people
+
+00:46:43.910 --> 00:46:44.410 align:middle line:90%
+listen to.
+
+00:46:44.410 --> 00:46:46.010 align:middle line:84%
+And then there are
+esoteric stations
+
+00:46:46.010 --> 00:46:48.290 align:middle line:84%
+that not a lot of people
+listen to with low power.
+
+00:46:48.290 --> 00:46:50.090 align:middle line:84%
+Even when you look
+at products that
+
+00:46:50.090 --> 00:46:52.850 align:middle line:84%
+seem like they should
+be homogeneous,
+
+00:46:52.850 --> 00:46:54.830 align:middle line:84%
+it seems like symmetry
+of competition
+
+00:46:54.830 --> 00:46:56.765 align:middle line:90%
+is not a correct answer.
+
+00:46:56.765 --> 00:46:58.640 align:middle line:84%
+And so these papers on
+entry that are, again,
+
+00:46:58.640 --> 00:47:00.182 align:middle line:84%
+also papers really
+about competition,
+
+00:47:00.182 --> 00:47:03.650 align:middle line:84%
+are arguing that this
+model of entry and then
+
+00:47:03.650 --> 00:47:05.270 align:middle line:84%
+symmetric competition
+seems like it
+
+00:47:05.270 --> 00:47:06.750 align:middle line:90%
+doesn't fit the data very well.
+
+00:47:06.750 --> 00:47:09.830 align:middle line:84%
+So anyway, here's an example
+of homogeneous product--
+
+00:47:09.830 --> 00:47:10.610 align:middle line:90%
+mayonnaise.
+
+00:47:10.610 --> 00:47:12.560 align:middle line:84%
+I've heard that if you
+do blind taste tests,
+
+00:47:12.560 --> 00:47:15.240 align:middle line:84%
+people have a very hard time
+telling one brand of mayonnaise
+
+00:47:15.240 --> 00:47:16.865 align:middle line:84%
+apart from another
+brand of mayonnaise.
+
+00:47:16.865 --> 00:47:18.865 align:middle line:84%
+Shouldn't mayonnaise just
+be a homogeneous good,
+
+00:47:18.865 --> 00:47:20.630 align:middle line:84%
+where there's a
+quantity of mayonnaise,
+
+00:47:20.630 --> 00:47:22.130 align:middle line:84%
+market-clearing
+price in mayonnaise.
+
+00:47:22.130 --> 00:47:24.422 align:middle line:84%
+Anyway, it turns out empirically
+that that's actually--
+
+00:47:24.422 --> 00:47:25.100 align:middle line:90%
+that's not true.
+
+00:47:25.100 --> 00:47:27.170 align:middle line:84%
+Well, it's not true that
+mayonnaise doesn't all
+
+00:47:27.170 --> 00:47:27.900 align:middle line:90%
+taste the same.
+
+00:47:27.900 --> 00:47:30.815 align:middle line:84%
+It's not-- what's not true is
+that people treat mayonnaise
+
+00:47:30.815 --> 00:47:32.815 align:middle line:84%
+like a homogeneous product
+when they're deciding
+
+00:47:32.815 --> 00:47:35.990 align:middle line:90%
+what to buy in the supermarket.
+
+00:47:35.990 --> 00:47:38.780 align:middle line:84%
+So, in particular, one
+of the things that's--
+
+00:47:38.780 --> 00:47:41.400 align:middle line:90%
+
+
+00:47:41.400 --> 00:47:44.040 align:middle line:84%
+so there's this paper
+by Golder and Tellis
+
+00:47:44.040 --> 00:47:46.740 align:middle line:84%
+that's a few decades
+old now, noting
+
+00:47:46.740 --> 00:47:49.890 align:middle line:84%
+that there are many,
+many leading brands that
+
+00:47:49.890 --> 00:47:52.290 align:middle line:84%
+have been leaders for
+a very, very long time.
+
+00:47:52.290 --> 00:47:54.480 align:middle line:84%
+Like, when did Coca-Cola
+become the leading cola
+
+00:47:54.480 --> 00:47:55.840 align:middle line:90%
+in the United States?
+
+00:47:55.840 --> 00:47:58.050 align:middle line:84%
+It's 100 and
+something years ago.
+
+00:47:58.050 --> 00:47:59.970 align:middle line:84%
+And like many of
+the products you can
+
+00:47:59.970 --> 00:48:02.760 align:middle line:90%
+think of have been the same--
+
+00:48:02.760 --> 00:48:05.100 align:middle line:84%
+the same leader has
+been there for decades
+
+00:48:05.100 --> 00:48:06.390 align:middle line:90%
+and decades and decades.
+
+00:48:06.390 --> 00:48:11.490 align:middle line:84%
+And Eveready
+batteries or whatever,
+
+00:48:11.490 --> 00:48:13.500 align:middle line:90%
+like the Pampers diapers.
+
+00:48:13.500 --> 00:48:15.270 align:middle line:84%
+These same firms just
+persist for decade
+
+00:48:15.270 --> 00:48:18.270 align:middle line:90%
+after decade after decade.
+
+00:48:18.270 --> 00:48:21.390 align:middle line:84%
+The interesting fact that
+Bronnenberg, Dhar, and Dubé were
+
+00:48:21.390 --> 00:48:23.687 align:middle line:84%
+bringing out in their paper
+is that not only is it true
+
+00:48:23.687 --> 00:48:25.895 align:middle line:84%
+that in many consumer goods
+there are market leaders,
+
+00:48:25.895 --> 00:48:30.170 align:middle line:84%
+but those market leaders
+differ in similar markets.
+
+00:48:30.170 --> 00:48:33.410 align:middle line:84%
+So this is the mayonnaise
+graph from their paper.
+
+00:48:33.410 --> 00:48:38.390 align:middle line:84%
+So there are two main mayonnaise
+firms in the United States,
+
+00:48:38.390 --> 00:48:40.860 align:middle line:84%
+at least in the--
+probably in the South.
+
+00:48:40.860 --> 00:48:43.780 align:middle line:84%
+There's Kraft, and
+there's Unilever.
+
+00:48:43.780 --> 00:48:48.070 align:middle line:84%
+And Kraft produces
+Kraft mayonnaise.
+
+00:48:48.070 --> 00:48:50.362 align:middle line:84%
+Unilever produces
+two brands, depending
+
+00:48:50.362 --> 00:48:51.320 align:middle line:90%
+on what city you're in.
+
+00:48:51.320 --> 00:48:53.990 align:middle line:84%
+They produce something called
+Hellmann's Real mayonnaise.
+
+00:48:53.990 --> 00:48:56.510 align:middle line:84%
+They also produce something
+called Best Foods mayonnaise.
+
+00:48:56.510 --> 00:48:59.500 align:middle line:84%
+You can tell from the jars
+that Hellmann's and Best Foods
+
+00:48:59.500 --> 00:49:00.830 align:middle line:90%
+mayonnaises are--
+
+00:49:00.830 --> 00:49:03.470 align:middle line:84%
+they're the same mayonnaise
+produced by Unilever.
+
+00:49:03.470 --> 00:49:05.167 align:middle line:84%
+Just in some
+cities, they sell it
+
+00:49:05.167 --> 00:49:07.000 align:middle line:84%
+as Hellmann's, and some
+cities, they sell it
+
+00:49:07.000 --> 00:49:09.340 align:middle line:90%
+as Best Foods mayonnaise.
+
+00:49:09.340 --> 00:49:12.430 align:middle line:84%
+But then what's striking
+is this is data on--
+
+00:49:12.430 --> 00:49:14.260 align:middle line:84%
+over the course
+of half a year, I
+
+00:49:14.260 --> 00:49:17.290 align:middle line:84%
+think-- on what's the
+market share by week
+
+00:49:17.290 --> 00:49:22.840 align:middle line:84%
+of Kraft mayonnaise versus
+Unilever mayonnaise in Denver?
+
+00:49:22.840 --> 00:49:26.920 align:middle line:84%
+And you can see in
+Denver, 65%, 70% of people
+
+00:49:26.920 --> 00:49:31.120 align:middle line:84%
+buy Kraft mayonnaise,
+and 15% to 20% of people
+
+00:49:31.120 --> 00:49:33.490 align:middle line:90%
+buy the Unilever mayonnaise.
+
+00:49:33.490 --> 00:49:35.330 align:middle line:90%
+And then you go to Los Angeles.
+
+00:49:35.330 --> 00:49:37.930 align:middle line:84%
+And in Los Angeles,
+only 25% of the people
+
+00:49:37.930 --> 00:49:41.680 align:middle line:84%
+are buying Kraft
+mayonnaise, and 60%,
+
+00:49:41.680 --> 00:49:44.080 align:middle line:84%
+I think it's the Best
+Foods mayonnaise sold
+
+00:49:44.080 --> 00:49:45.340 align:middle line:90%
+on the West Coast.
+
+00:49:45.340 --> 00:49:49.840 align:middle line:84%
+And so it's striking that
+like, in some sense, in Denver,
+
+00:49:49.840 --> 00:49:52.270 align:middle line:84%
+Kraft is the clear
+mayonnaise leader.
+
+00:49:52.270 --> 00:49:58.160 align:middle line:84%
+And in Los Angeles, Unilever
+is the clear mayonnaise leader.
+
+00:49:58.160 --> 00:50:00.310 align:middle line:84%
+And so there are these
+different market leaders,
+
+00:50:00.310 --> 00:50:02.350 align:middle line:84%
+and they've been
+different leaders.
+
+00:50:02.350 --> 00:50:05.110 align:middle line:84%
+And it seems quite stable
+that there's a leading
+
+00:50:05.110 --> 00:50:06.440 align:middle line:90%
+mayonnaise that everyone buys.
+
+00:50:06.440 --> 00:50:10.420 align:middle line:84%
+And then there's a second
+mayonnaise that some people buy.
+
+00:50:10.420 --> 00:50:12.800 align:middle line:84%
+They give other
+examples in the paper.
+
+00:50:12.800 --> 00:50:15.310 align:middle line:84%
+If you look at ground
+coffee, I think
+
+00:50:15.310 --> 00:50:17.650 align:middle line:84%
+of as another fairly
+undifferentiated product.
+
+00:50:17.650 --> 00:50:20.700 align:middle line:84%
+I don't know if you
+guys are wealthy enough
+
+00:50:20.700 --> 00:50:23.670 align:middle line:84%
+that you don't drink
+frozen-ground coffee,
+
+00:50:23.670 --> 00:50:25.350 align:middle line:84%
+and you go to
+Starbucks or whatever.
+
+00:50:25.350 --> 00:50:27.880 align:middle line:84%
+But you buy the frozen-ground
+coffee in a can--
+
+00:50:27.880 --> 00:50:30.090 align:middle line:84%
+I don't know how different
+the different cans are.
+
+00:50:30.090 --> 00:50:33.690 align:middle line:84%
+But anyway, Folgers' share
+ranges from 16% in New York
+
+00:50:33.690 --> 00:50:36.750 align:middle line:90%
+to 59% in Des Moines, Iowa.
+
+00:50:36.750 --> 00:50:39.480 align:middle line:84%
+Maxwell House's share
+is only 4% in Seattle,
+
+00:50:39.480 --> 00:50:41.830 align:middle line:90%
+but it's 46% in Pittsburgh.
+
+00:50:41.830 --> 00:50:45.305 align:middle line:84%
+And, again, these shares seem
+to be persistent in the data.
+
+00:50:45.305 --> 00:50:49.150 align:middle line:90%
+
+
+00:50:49.150 --> 00:50:53.350 align:middle line:84%
+So what Bronnenberg, Dhar,
+and Dubé do to talk about this
+
+00:50:53.350 --> 00:51:00.400 align:middle line:84%
+is they just investigate this as
+being a really, really long time
+
+00:51:00.400 --> 00:51:04.540 align:middle line:84%
+span echo of what happened when
+these products were introduced.
+
+00:51:04.540 --> 00:51:07.270 align:middle line:84%
+And so their idea
+is that in consumer
+
+00:51:07.270 --> 00:51:11.230 align:middle line:84%
+packaged goods
+markets, people just--
+
+00:51:11.230 --> 00:51:14.350 align:middle line:84%
+somehow there's some model where
+people learn to buy a brand.
+
+00:51:14.350 --> 00:51:15.305 align:middle line:90%
+They buy that brand.
+
+00:51:15.305 --> 00:51:16.930 align:middle line:84%
+And either they buy
+that brand and they
+
+00:51:16.930 --> 00:51:19.210 align:middle line:84%
+get used to exactly what
+that brand tastes like,
+
+00:51:19.210 --> 00:51:21.620 align:middle line:84%
+and that's what they think
+mayonnaise should taste like.
+
+00:51:21.620 --> 00:51:24.740 align:middle line:84%
+Or they just know that
+I buy Kraft mayonnaise.
+
+00:51:24.740 --> 00:51:26.270 align:middle line:84%
+My mother bought
+Kraft mayonnaise.
+
+00:51:26.270 --> 00:51:28.215 align:middle line:84%
+Her mother bought Kraft
+mayonnaise before her.
+
+00:51:28.215 --> 00:51:29.590 align:middle line:84%
+When you go to
+mayonnaise, you've
+
+00:51:29.590 --> 00:51:31.173 align:middle line:84%
+seen your mother buy
+Kraft mayonnaise.
+
+00:51:31.173 --> 00:51:32.650 align:middle line:90%
+You buy Kraft mayonnaise.
+
+00:51:32.650 --> 00:51:35.500 align:middle line:84%
+So anyway, that's the story
+that they're thinking of,
+
+00:51:35.500 --> 00:51:39.250 align:middle line:84%
+is there's just something
+about people forming tastes.
+
+00:51:39.250 --> 00:51:42.515 align:middle line:84%
+It could also be
+something that's less--
+
+00:51:42.515 --> 00:51:44.640 align:middle line:84%
+it could also be something
+that's less taste based.
+
+00:51:44.640 --> 00:51:48.110 align:middle line:84%
+It could also be there are
+some advantages to dominance.
+
+00:51:48.110 --> 00:51:50.270 align:middle line:84%
+Like, if you're the
+dominant mayonnaise,
+
+00:51:50.270 --> 00:51:54.140 align:middle line:84%
+you can go to the supermarket
+and tell Albertsons,
+
+00:51:54.140 --> 00:51:56.232 align:middle line:84%
+I want my mayonnaise
+at eye level.
+
+00:51:56.232 --> 00:51:58.190 align:middle line:84%
+I want you to put that
+Unilever mayonnaise down
+
+00:51:58.190 --> 00:51:59.360 align:middle line:90%
+on the bottom shelf.
+
+00:51:59.360 --> 00:52:01.130 align:middle line:84%
+And that somehow the
+dominant mayonnaise
+
+00:52:01.130 --> 00:52:02.407 align:middle line:90%
+gets put at eye level.
+
+00:52:02.407 --> 00:52:04.490 align:middle line:84%
+The second mayonnaise gets
+put on the lower shelf.
+
+00:52:04.490 --> 00:52:07.157 align:middle line:84%
+And then people are just always
+seeing the eye level mayonnaise,
+
+00:52:07.157 --> 00:52:08.690 align:middle line:90%
+and that's what they buy.
+
+00:52:08.690 --> 00:52:09.890 align:middle line:90%
+And so there's just some--
+
+00:52:09.890 --> 00:52:15.170 align:middle line:84%
+sometimes this is a story of
+dominance producing dominance
+
+00:52:15.170 --> 00:52:19.640 align:middle line:84%
+and some kind of market power
+being produced by large market
+
+00:52:19.640 --> 00:52:20.930 align:middle line:90%
+share.
+
+00:52:20.930 --> 00:52:25.130 align:middle line:84%
+But what they've done
+is they go back to--
+
+00:52:25.130 --> 00:52:26.880 align:middle line:90%
+they go back 100 years.
+
+00:52:26.880 --> 00:52:29.480 align:middle line:84%
+And so all of these products,
+like the Hellmann's mayonnaise
+
+00:52:29.480 --> 00:52:35.000 align:middle line:84%
+or the Kraft mayonnaise, they
+find where those products were
+
+00:52:35.000 --> 00:52:39.290 align:middle line:84%
+first introduced in
+the early 20th century,
+
+00:52:39.290 --> 00:52:42.270 align:middle line:84%
+and sometimes in
+the 19th century.
+
+00:52:42.270 --> 00:52:43.980 align:middle line:90%
+And then they run--
+
+00:52:43.980 --> 00:52:45.250 align:middle line:90%
+they do two things.
+
+00:52:45.250 --> 00:52:49.980 align:middle line:84%
+So this is their main analysis
+where they have 40 brands which
+
+00:52:49.980 --> 00:52:52.620 align:middle line:90%
+they could find these origins.
+
+00:52:52.620 --> 00:52:56.010 align:middle line:84%
+And they regress
+the market share
+
+00:52:56.010 --> 00:52:59.010 align:middle line:84%
+that brand i is
+getting in city m.
+
+00:52:59.010 --> 00:53:01.440 align:middle line:90%
+Forget about the c's.
+
+00:53:01.440 --> 00:53:03.040 align:middle line:90%
+It's a constant.
+
+00:53:03.040 --> 00:53:06.180 align:middle line:84%
+So Hellmann's is
+better than Kraft.
+
+00:53:06.180 --> 00:53:10.800 align:middle line:84%
+Plus these coefficients
+based on your distance
+
+00:53:10.800 --> 00:53:12.010 align:middle line:90%
+to the origin city.
+
+00:53:12.010 --> 00:53:13.470 align:middle line:90%
+Are you the origin city?
+
+00:53:13.470 --> 00:53:15.190 align:middle line:84%
+Are you 50 miles
+from the origin city?
+
+00:53:15.190 --> 00:53:19.060 align:middle line:84%
+Are you 100 miles, 200
+miles, 1,000 miles?
+
+00:53:19.060 --> 00:53:21.000 align:middle line:84%
+The thought being
+that they don't
+
+00:53:21.000 --> 00:53:23.160 align:middle line:84%
+know when all these
+mayonnaises got
+
+00:53:23.160 --> 00:53:24.460 align:middle line:90%
+to all these different places.
+
+00:53:24.460 --> 00:53:28.536 align:middle line:84%
+But their idea would
+be that there's--
+
+00:53:28.536 --> 00:53:32.160 align:middle line:90%
+if we look at United States.
+
+00:53:32.160 --> 00:53:35.160 align:middle line:84%
+So anyway, I have a map
+of the United States.
+
+00:53:35.160 --> 00:53:37.650 align:middle line:84%
+And then there's just
+like Kraft mayonnaise gets
+
+00:53:37.650 --> 00:53:40.642 align:middle line:90%
+invented here in the year 1895.
+
+00:53:40.642 --> 00:53:42.600 align:middle line:84%
+And then their thought
+is that it probably just
+
+00:53:42.600 --> 00:53:43.720 align:middle line:90%
+spread like this.
+
+00:53:43.720 --> 00:53:45.880 align:middle line:90%
+And so by 1910, it is here.
+
+00:53:45.880 --> 00:53:47.880 align:middle line:90%
+And by 1930, it was here.
+
+00:53:47.880 --> 00:53:50.430 align:middle line:84%
+And so we're seeing
+the Kraft spreading,
+
+00:53:50.430 --> 00:53:52.740 align:middle line:84%
+and we're seeing
+Hellmann's spreading.
+
+00:53:52.740 --> 00:53:57.780 align:middle line:84%
+And so how far you are
+from where it started
+
+00:53:57.780 --> 00:54:00.150 align:middle line:84%
+is going to be how many
+other mayonnaises were there
+
+00:54:00.150 --> 00:54:00.970 align:middle line:90%
+before you.
+
+00:54:00.970 --> 00:54:02.987 align:middle line:84%
+And so if you were
+near the origin,
+
+00:54:02.987 --> 00:54:05.070 align:middle line:84%
+you were there and got to
+establish the early lead
+
+00:54:05.070 --> 00:54:06.270 align:middle line:90%
+and now dominate.
+
+00:54:06.270 --> 00:54:10.265 align:middle line:84%
+If you're far from the origin,
+by the time this mayonnaise gets
+
+00:54:10.265 --> 00:54:11.640 align:middle line:84%
+to California,
+people were eating
+
+00:54:11.640 --> 00:54:14.990 align:middle line:84%
+several other mayonnaises,
+and so it's stayed behind.
+
+00:54:14.990 --> 00:54:18.060 align:middle line:90%
+
+
+00:54:18.060 --> 00:54:19.920 align:middle line:84%
+So that's the main
+analysis because they
+
+00:54:19.920 --> 00:54:21.733 align:middle line:84%
+were able to do this
+for 40 products.
+
+00:54:21.733 --> 00:54:24.150 align:middle line:84%
+The second thing they did is
+there were six products where
+
+00:54:24.150 --> 00:54:26.940 align:middle line:84%
+they were actually
+able to identify
+
+00:54:26.940 --> 00:54:29.667 align:middle line:84%
+at the city-by-city level,
+when did Miller beer
+
+00:54:29.667 --> 00:54:30.375 align:middle line:90%
+get to Milwaukee?
+
+00:54:30.375 --> 00:54:32.202 align:middle line:84%
+And when did Miller
+beer get to Chicago?
+
+00:54:32.202 --> 00:54:33.910 align:middle line:84%
+When did Miller beer
+get to Indianapolis?
+
+00:54:33.910 --> 00:54:35.560 align:middle line:90%
+When did it get to Philadelphia?
+
+00:54:35.560 --> 00:54:37.290 align:middle line:90%
+When did it get to Miami?
+
+00:54:37.290 --> 00:54:39.900 align:middle line:84%
+So they actually were able to
+track when each of the brands
+
+00:54:39.900 --> 00:54:41.860 align:middle line:84%
+entered all the
+different cities.
+
+00:54:41.860 --> 00:54:45.810 align:middle line:84%
+And then they can regress
+city-specific market shares
+
+00:54:45.810 --> 00:54:48.250 align:middle line:90%
+on dummies for entry order.
+
+00:54:48.250 --> 00:54:50.370 align:middle line:84%
+Were you there
+before your rival?
+
+00:54:50.370 --> 00:54:54.820 align:middle line:84%
+Which mayonnaise got to Phoenix
+first is the regression.
+
+00:54:54.820 --> 00:54:58.680 align:middle line:90%
+
+
+00:54:58.680 --> 00:54:59.180 align:middle line:90%
+Anyway.
+
+00:54:59.180 --> 00:55:03.300 align:middle line:84%
+So here's what their
+data sample looks like.
+
+00:55:03.300 --> 00:55:06.570 align:middle line:90%
+So again, this is 40 products.
+
+00:55:06.570 --> 00:55:08.270 align:middle line:84%
+And so for each of
+these 40 products--
+
+00:55:08.270 --> 00:55:11.270 align:middle line:84%
+let's go to mayonnaise
+down at the bottom--
+
+00:55:11.270 --> 00:55:12.880 align:middle line:90%
+mayonnaise at the very bottom.
+
+00:55:12.880 --> 00:55:15.620 align:middle line:84%
+Kraft mayonnaise-- oh,
+I was just about right.
+
+00:55:15.620 --> 00:55:17.840 align:middle line:84%
+Kraft mayonnaise started
+in Salem, Illinois.
+
+00:55:17.840 --> 00:55:21.020 align:middle line:84%
+And it started Salem,
+Illinois in 1931.
+
+00:55:21.020 --> 00:55:23.510 align:middle line:84%
+And Unilever mayonnaise,
+which is Hellmann's
+
+00:55:23.510 --> 00:55:24.750 align:middle line:90%
+on the East Coast--
+
+00:55:24.750 --> 00:55:29.270 align:middle line:84%
+Hellmann's mayonnaise started in
+New York City in the year 1905.
+
+00:55:29.270 --> 00:55:31.550 align:middle line:84%
+And so what they're
+looking at is
+
+00:55:31.550 --> 00:55:36.590 align:middle line:84%
+how do how does the share
+of Unilever versus Kraft
+
+00:55:36.590 --> 00:55:41.140 align:middle line:84%
+depend on your distance relative
+to these two points of origin?
+
+00:55:41.140 --> 00:55:46.490 align:middle line:90%
+
+
+00:55:46.490 --> 00:55:46.990 align:middle line:90%
+OK.
+
+00:55:46.990 --> 00:55:49.300 align:middle line:84%
+So distance to the
+origin analysis
+
+00:55:49.300 --> 00:55:54.610 align:middle line:84%
+finds that current market shares
+are 18 percentage points higher
+
+00:55:54.610 --> 00:55:57.310 align:middle line:84%
+in the closest cities than
+in the most distant cities.
+
+00:55:57.310 --> 00:56:01.698 align:middle line:84%
+So the mean share of these
+products is like 22%.
+
+00:56:01.698 --> 00:56:03.240 align:middle line:84%
+So this is saying
+that you get like--
+
+00:56:03.240 --> 00:56:07.070 align:middle line:84%
+you can think of the 18
+difference as being--
+
+00:56:07.070 --> 00:56:07.805 align:middle line:90%
+you get 31%.
+
+00:56:07.805 --> 00:56:12.630 align:middle line:90%
+
+
+00:56:12.630 --> 00:56:13.130 align:middle line:90%
+Yeah.
+
+00:56:13.130 --> 00:56:15.825 align:middle line:90%
+
+
+00:56:15.825 --> 00:56:16.540 align:middle line:90%
+Let's see.
+
+00:56:16.540 --> 00:56:19.600 align:middle line:84%
+So you get like 31%
+in the closest cities,
+
+00:56:19.600 --> 00:56:24.040 align:middle line:84%
+and you get 13% in the
+farthest away cities.
+
+00:56:24.040 --> 00:56:28.000 align:middle line:84%
+So your market share is
+just dramatically higher
+
+00:56:28.000 --> 00:56:29.830 align:middle line:84%
+in the cities near
+where you started--
+
+00:56:29.830 --> 00:56:32.500 align:middle line:84%
+right where you started
+than cities farther away
+
+00:56:32.500 --> 00:56:33.550 align:middle line:90%
+where you started.
+
+00:56:33.550 --> 00:56:37.960 align:middle line:84%
+We get this big effect
+for your origin city.
+
+00:56:37.960 --> 00:56:42.500 align:middle line:84%
+And then it's declining as we
+get to 250 miles, 500 miles,
+
+00:56:42.500 --> 00:56:44.360 align:middle line:90%
+1,000 miles.
+
+00:56:44.360 --> 00:56:47.047 align:middle line:84%
+It then seems to be fairly flat,
+and then it goes down a lot
+
+00:56:47.047 --> 00:56:49.380 align:middle line:84%
+when you get to the opposite
+coast of the United States.
+
+00:56:49.380 --> 00:56:52.670 align:middle line:84%
+So it's like East Coast
+products are selling noticeably
+
+00:56:52.670 --> 00:56:53.875 align:middle line:90%
+less on the West Coast.
+
+00:56:53.875 --> 00:56:55.250 align:middle line:84%
+West Coast products
+are selling--
+
+00:56:55.250 --> 00:56:57.625 align:middle line:84%
+or West Coast products are
+selling notably-- considerably
+
+00:56:57.625 --> 00:56:59.660 align:middle line:90%
+less on the East Coast.
+
+00:56:59.660 --> 00:57:02.990 align:middle line:84%
+So you may think that
+with our politics,
+
+00:57:02.990 --> 00:57:06.143 align:middle line:84%
+the coasts are actually
+similar to each other,
+
+00:57:06.143 --> 00:57:08.310 align:middle line:84%
+and it's the middle of the
+country that's different.
+
+00:57:08.310 --> 00:57:10.610 align:middle line:84%
+I think this graph is saying,
+no, it's actually the--
+
+00:57:10.610 --> 00:57:11.693 align:middle line:90%
+it really is the distance.
+
+00:57:11.693 --> 00:57:14.235 align:middle line:84%
+It's like there are your East
+Coast mayonnaises and your West
+
+00:57:14.235 --> 00:57:15.050 align:middle line:90%
+Coast mayonnaises.
+
+00:57:15.050 --> 00:57:17.490 align:middle line:84%
+There are East Coast bagels
+and West Coast bagels.
+
+00:57:17.490 --> 00:57:21.500 align:middle line:84%
+And the market shares are most
+different on the opposite coast
+
+00:57:21.500 --> 00:57:24.510 align:middle line:90%
+of the country.
+
+00:57:24.510 --> 00:57:28.320 align:middle line:84%
+And then the second
+part of the analysis
+
+00:57:28.320 --> 00:57:32.352 align:middle line:84%
+about just is your market
+share higher or low--
+
+00:57:32.352 --> 00:57:33.810 align:middle line:84%
+higher in the cities
+that you reach
+
+00:57:33.810 --> 00:57:37.500 align:middle line:84%
+first versus second relative
+to your main biggest rival?
+
+00:57:37.500 --> 00:57:40.860 align:middle line:84%
+And these numbers
+are more moderate.
+
+00:57:40.860 --> 00:57:42.260 align:middle line:90%
+They range across products.
+
+00:57:42.260 --> 00:57:45.240 align:middle line:84%
+So like the Budweiser
+versus Miller beer,
+
+00:57:45.240 --> 00:57:49.350 align:middle line:84%
+there's not that much difference
+between Bud and Miller market
+
+00:57:49.350 --> 00:57:52.140 align:middle line:90%
+shares in the United States.
+
+00:57:52.140 --> 00:57:54.480 align:middle line:84%
+On average, whoever
+got there first
+
+00:57:54.480 --> 00:57:57.870 align:middle line:84%
+is doing a 1.3
+percentage point better
+
+00:57:57.870 --> 00:58:00.330 align:middle line:90%
+than whoever got there second.
+
+00:58:00.330 --> 00:58:03.690 align:middle line:84%
+In the mayonnaise example, who
+got there first versus second
+
+00:58:03.690 --> 00:58:06.500 align:middle line:90%
+is 6.3 percentage points.
+
+00:58:06.500 --> 00:58:14.694 align:middle line:90%
+
+
+00:58:14.694 --> 00:58:15.690 align:middle line:90%
+Sure.
+
+00:58:15.690 --> 00:58:18.090 align:middle line:84%
+So it is, I think,
+fairly strong evidence,
+
+00:58:18.090 --> 00:58:20.550 align:middle line:84%
+especially that
+first part of there
+
+00:58:20.550 --> 00:58:21.970 align:middle line:90%
+just are these asymmetries.
+
+00:58:21.970 --> 00:58:24.130 align:middle line:84%
+And remember, these are
+events 100 years ago.
+
+00:58:24.130 --> 00:58:28.530 align:middle line:84%
+And so it does seem like there's
+very, very long-lasting market
+
+00:58:28.530 --> 00:58:30.400 align:middle line:90%
+leadership advantages.
+
+00:58:30.400 --> 00:58:34.187 align:middle line:84%
+And if we're thinking
+about entrance,
+
+00:58:34.187 --> 00:58:36.270 align:middle line:84%
+it's not like you enter,
+and one year later you're
+
+00:58:36.270 --> 00:58:37.437 align:middle line:90%
+going to be on even footing.
+
+00:58:37.437 --> 00:58:40.020 align:middle line:84%
+It's like you're going to enter,
+and 100 years later, you're
+
+00:58:40.020 --> 00:58:43.500 align:middle line:84%
+still going to have a
+fraction of the share
+
+00:58:43.500 --> 00:58:45.708 align:middle line:84%
+that the leading firm had
+100 years ago on something
+
+00:58:45.708 --> 00:58:47.250 align:middle line:84%
+like mayonnaise,
+where it's clearly--
+
+00:58:47.250 --> 00:58:48.900 align:middle line:84%
+it's not like their mayonnaise
+has just been better
+
+00:58:48.900 --> 00:58:49.665 align:middle line:90%
+over the years.
+
+00:58:49.665 --> 00:58:53.600 align:middle line:90%
+
+
+00:58:53.600 --> 00:58:54.100 align:middle line:90%
+OK.
+
+00:58:54.100 --> 00:58:57.220 align:middle line:84%
+So then the final paper I
+was going to cover today--
+
+00:58:57.220 --> 00:59:00.010 align:middle line:90%
+Bronnenberg, Dubé, Gentzkow.
+
+00:59:00.010 --> 00:59:03.520 align:middle line:84%
+So this is really
+digging into where
+
+00:59:03.520 --> 00:59:06.280 align:middle line:84%
+do long-lived
+advantages come from?
+
+00:59:06.280 --> 00:59:08.470 align:middle line:84%
+They draw two main
+distinctions for where--
+
+00:59:08.470 --> 00:59:10.390 align:middle line:84%
+I think two main
+types of stories.
+
+00:59:10.390 --> 00:59:12.850 align:middle line:84%
+One is what they will
+call demand side stories
+
+00:59:12.850 --> 00:59:15.170 align:middle line:84%
+or preference side--
+preference-based stories.
+
+00:59:15.170 --> 00:59:16.960 align:middle line:84%
+Their preference-based
+stories are
+
+00:59:16.960 --> 00:59:20.620 align:middle line:84%
+people develop
+tastes for products
+
+00:59:20.620 --> 00:59:22.540 align:middle line:90%
+that they consume growing up.
+
+00:59:22.540 --> 00:59:25.000 align:middle line:84%
+Like, I'm just used
+to this product.
+
+00:59:25.000 --> 00:59:26.680 align:middle line:84%
+I like the taste
+of this product.
+
+00:59:26.680 --> 00:59:29.050 align:middle line:84%
+Or I've just learned
+from my parents
+
+00:59:29.050 --> 00:59:31.210 align:middle line:84%
+that this is the
+right product to buy.
+
+00:59:31.210 --> 00:59:35.290 align:middle line:84%
+I just-- I have preferences
+about what this product is.
+
+00:59:35.290 --> 00:59:37.210 align:middle line:84%
+The supply side
+stories are the ones
+
+00:59:37.210 --> 00:59:42.040 align:middle line:84%
+I talked about about things
+like shelf space or advertising,
+
+00:59:42.040 --> 00:59:45.460 align:middle line:84%
+where if you're dominant, you
+get the premier shelf space.
+
+00:59:45.460 --> 00:59:48.920 align:middle line:84%
+Or if you're dominant, it pays
+you to put on TV commercials.
+
+00:59:48.920 --> 00:59:50.780 align:middle line:84%
+You put on TV commercials
+that reinforce
+
+00:59:50.780 --> 00:59:55.190 align:middle line:84%
+the people's love for your
+type-- for your product.
+
+00:59:55.190 --> 00:59:59.450 align:middle line:84%
+And so what Bronnenberg, Dubé,
+and Gentzkow want to do is say,
+
+00:59:59.450 --> 01:00:01.760 align:middle line:84%
+does it look like
+demand side, or does it
+
+01:00:01.760 --> 01:00:03.860 align:middle line:90%
+look like supply side?
+
+01:00:03.860 --> 01:00:07.010 align:middle line:84%
+And they have this sort of very
+thoughtful idea, which is, how
+
+01:00:07.010 --> 01:00:11.000 align:middle line:84%
+about to investigate this, let's
+look at people when they move.
+
+01:00:11.000 --> 01:00:14.000 align:middle line:84%
+And so like many of you
+have moved to Boston.
+
+01:00:14.000 --> 01:00:16.610 align:middle line:84%
+And the question is, once
+you've moved to Boston,
+
+01:00:16.610 --> 01:00:20.505 align:middle line:84%
+do you guys buy now the
+Boston mayonnaise brand?
+
+01:00:20.505 --> 01:00:22.130 align:middle line:84%
+Or do you guys buy
+the mayonnaise brand
+
+01:00:22.130 --> 01:00:23.780 align:middle line:90%
+that was big where you grew up?
+
+01:00:23.780 --> 01:00:25.310 align:middle line:90%
+So many of you probably--
+
+01:00:25.310 --> 01:00:29.300 align:middle line:84%
+I think-- I'd have to guess
+that Boston is a Hellmann's
+
+01:00:29.300 --> 01:00:32.990 align:middle line:84%
+mayonnaise city, given
+that, again, Hellmann's
+
+01:00:32.990 --> 01:00:35.690 align:middle line:84%
+started in New York, and
+Kraft started in Illinois.
+
+01:00:35.690 --> 01:00:38.330 align:middle line:84%
+Again-- and there was a 6
+percentage point difference.
+
+01:00:38.330 --> 01:00:40.970 align:middle line:84%
+But anyway, I would guess
+that Hellmann's is the Boston
+
+01:00:40.970 --> 01:00:41.490 align:middle line:90%
+mayonnaise.
+
+01:00:41.490 --> 01:00:44.360 align:middle line:84%
+And the question is, do you
+guys, when you move here--
+
+01:00:44.360 --> 01:00:45.230 align:middle line:90%
+I don't know.
+
+01:00:45.230 --> 01:00:47.660 align:middle line:84%
+I guess not that many of you
+are from the Midwest either.
+
+01:00:47.660 --> 01:00:50.570 align:middle line:84%
+But when you guys
+moved here, did you
+
+01:00:50.570 --> 01:00:52.010 align:middle line:84%
+start buying
+Hellmann's mayonnaise
+
+01:00:52.010 --> 01:00:53.390 align:middle line:84%
+and give up your
+Kraft mayonnaise?
+
+01:00:53.390 --> 01:00:55.598 align:middle line:84%
+Or do you continue to buy
+the Kraft mayonnaise, which
+
+01:00:55.598 --> 01:00:57.980 align:middle line:84%
+is totally available in
+Star Market and Whole Foods
+
+01:00:57.980 --> 01:00:58.620 align:middle line:90%
+and whatever.
+
+01:00:58.620 --> 01:01:02.240 align:middle line:84%
+Well, I'm not sure if
+it's in Whole Foods.
+
+01:01:02.240 --> 01:01:04.222 align:middle line:90%
+But anyway, that's their idea.
+
+01:01:04.222 --> 01:01:06.180 align:middle line:84%
+And you might think,
+well, that's a great idea.
+
+01:01:06.180 --> 01:01:08.310 align:middle line:90%
+How would I ever find this out?
+
+01:01:08.310 --> 01:01:12.287 align:middle line:84%
+And this is where, again,
+you get the recognition
+
+01:01:12.287 --> 01:01:14.120 align:middle line:84%
+of the importance in
+our profession of being
+
+01:01:14.120 --> 01:01:17.180 align:middle line:84%
+very well-funded and
+well-connected sometimes.
+
+01:01:17.180 --> 01:01:23.210 align:middle line:84%
+So what-- University of Chicago
+has a long-standing relationship
+
+01:01:23.210 --> 01:01:24.630 align:middle line:90%
+with Nielsen's.
+
+01:01:24.630 --> 01:01:27.470 align:middle line:90%
+
+
+01:01:27.470 --> 01:01:29.300 align:middle line:84%
+Firms like Nielsen,
+besides doing
+
+01:01:29.300 --> 01:01:30.710 align:middle line:84%
+things for people they
+have relationships with,
+
+01:01:30.710 --> 01:01:32.127 align:middle line:84%
+also do things for
+people who have
+
+01:01:32.127 --> 01:01:33.540 align:middle line:90%
+money to pay them to do things.
+
+01:01:33.540 --> 01:01:36.440 align:middle line:84%
+And so what Bronnenberg,
+Dubé, and Gentzkow
+
+01:01:36.440 --> 01:01:39.110 align:middle line:90%
+got Nielsen to do is--
+
+01:01:39.110 --> 01:01:41.300 align:middle line:84%
+have I talked about
+Nielsen Homescan Panel?
+
+01:01:41.300 --> 01:01:42.170 align:middle line:90%
+OK.
+
+01:01:42.170 --> 01:01:43.970 align:middle line:84%
+Nielsen Homescan
+Panel-- if you want it--
+
+01:01:43.970 --> 01:01:46.910 align:middle line:84%
+it's actually-- a lot of this
+data is available for free
+
+01:01:46.910 --> 01:01:50.870 align:middle line:84%
+through the University
+of Chicago website.
+
+01:01:50.870 --> 01:01:52.460 align:middle line:84%
+But anyway, Nielsen
+Homescan Panel
+
+01:01:52.460 --> 01:01:55.040 align:middle line:84%
+is they've got a panel
+of thousands of people
+
+01:01:55.040 --> 01:01:56.465 align:middle line:90%
+across the United States.
+
+01:01:56.465 --> 01:01:58.340 align:middle line:84%
+And what these thousands
+of people do is they
+
+01:01:58.340 --> 01:02:00.200 align:middle line:90%
+all have a part-time job.
+
+01:02:00.200 --> 01:02:04.130 align:middle line:84%
+Their part-time job is recording
+everything that they buy,
+
+01:02:04.130 --> 01:02:06.470 align:middle line:84%
+and they're employed
+by Nielsen to do that.
+
+01:02:06.470 --> 01:02:09.582 align:middle line:84%
+And so they're given like
+a supermarket scanner.
+
+01:02:09.582 --> 01:02:10.790 align:middle line:90%
+So you go to the supermarket.
+
+01:02:10.790 --> 01:02:11.418 align:middle line:90%
+You buy stuff.
+
+01:02:11.418 --> 01:02:13.460 align:middle line:84%
+You scan it all in the
+scanner when you're there.
+
+01:02:13.460 --> 01:02:16.043 align:middle line:84%
+And then you bring it home, and
+as you take it out of the bag,
+
+01:02:16.043 --> 01:02:17.900 align:middle line:90%
+you scan it again.
+
+01:02:17.900 --> 01:02:20.330 align:middle line:84%
+And you just scan it in so
+that Nielsen knows everything
+
+01:02:20.330 --> 01:02:21.230 align:middle line:90%
+that you bought.
+
+01:02:21.230 --> 01:02:23.490 align:middle line:84%
+And you're supposed to do
+this everywhere you go.
+
+01:02:23.490 --> 01:02:25.940 align:middle line:84%
+You go to Target, you
+come back, you scan it.
+
+01:02:25.940 --> 01:02:26.887 align:middle line:90%
+You go to the CVS.
+
+01:02:26.887 --> 01:02:27.470 align:middle line:90%
+You come back.
+
+01:02:27.470 --> 01:02:28.010 align:middle line:90%
+You scan it.
+
+01:02:28.010 --> 01:02:28.970 align:middle line:90%
+You go to the supermarket.
+
+01:02:28.970 --> 01:02:29.553 align:middle line:90%
+You come back.
+
+01:02:29.553 --> 01:02:30.150 align:middle line:90%
+You scan it.
+
+01:02:30.150 --> 01:02:33.440 align:middle line:84%
+You basically just
+are home scans.
+
+01:02:33.440 --> 01:02:35.360 align:middle line:84%
+What these people do
+is they buy stuff,
+
+01:02:35.360 --> 01:02:37.470 align:middle line:84%
+and then they just record
+everything they got.
+
+01:02:37.470 --> 01:02:40.290 align:middle line:84%
+And then they're also
+recording where they got it.
+
+01:02:40.290 --> 01:02:44.150 align:middle line:84%
+And so because Nielsen is
+already in the Star Market,
+
+01:02:44.150 --> 01:02:47.360 align:middle line:84%
+and Nielsen is already in the
+Whole Foods, you bring it home.
+
+01:02:47.360 --> 01:02:48.020 align:middle line:90%
+You scan it.
+
+01:02:48.020 --> 01:02:49.610 align:middle line:84%
+They know what you paid
+for it because they
+
+01:02:49.610 --> 01:02:50.870 align:middle line:84%
+know where you bought
+it, and they know what
+
+01:02:50.870 --> 01:02:52.470 align:middle line:90%
+that store is charging for it.
+
+01:02:52.470 --> 01:02:56.570 align:middle line:84%
+So you get this sort
+of data set of what
+
+01:02:56.570 --> 01:03:01.250 align:middle line:84%
+is it that people at the
+individual level are purchasing.
+
+01:03:01.250 --> 01:03:05.630 align:middle line:84%
+And you can also get aggregate
+market shares out of this.
+
+01:03:05.630 --> 01:03:08.980 align:middle line:84%
+Nielsen Homescan Panel
+did not tell them--
+
+01:03:08.980 --> 01:03:10.730 align:middle line:84%
+it tells you where the
+people are located,
+
+01:03:10.730 --> 01:03:12.000 align:middle line:90%
+that this person is in Boston.
+
+01:03:12.000 --> 01:03:16.160 align:middle line:84%
+It doesn't tell you that
+they grew up in Illinois
+
+01:03:16.160 --> 01:03:19.670 align:middle line:84%
+and moved to Boston when they
+went to college at age of 19.
+
+01:03:19.670 --> 01:03:22.220 align:middle line:84%
+So what they got
+Nielsen to do is
+
+01:03:22.220 --> 01:03:25.070 align:middle line:84%
+survey the members of the
+Homescan Panel and ask them.
+
+01:03:25.070 --> 01:03:28.710 align:middle line:90%
+So what state were you born in?
+
+01:03:28.710 --> 01:03:31.910 align:middle line:84%
+When did you leave
+your state of birth?
+
+01:03:31.910 --> 01:03:38.300 align:middle line:84%
+When do you-- how long have you
+been in your current location?
+
+01:03:38.300 --> 01:03:40.910 align:middle line:84%
+And ask you other questions
+like, what's your gender,
+
+01:03:40.910 --> 01:03:44.923 align:middle line:84%
+or what's your highest level of
+education completed, and so on.
+
+01:03:44.923 --> 01:03:46.340 align:middle line:84%
+Normally, you would
+think you send
+
+01:03:46.340 --> 01:03:47.900 align:middle line:84%
+a survey like that to
+people, it's very hard
+
+01:03:47.900 --> 01:03:48.930 align:middle line:90%
+to get them to respond.
+
+01:03:48.930 --> 01:03:51.300 align:middle line:84%
+But since this
+survey was sponsored
+
+01:03:51.300 --> 01:03:54.870 align:middle line:84%
+by Homescan, who is an employer
+of all the Homescan people,
+
+01:03:54.870 --> 01:03:58.800 align:middle line:84%
+they got a 65% response
+rate on their survey
+
+01:03:58.800 --> 01:03:59.993 align:middle line:90%
+asking this information.
+
+01:03:59.993 --> 01:04:02.160 align:middle line:84%
+They're able to merge that
+information together with
+
+01:04:02.160 --> 01:04:03.990 align:middle line:84%
+the people's
+purchasing patterns,
+
+01:04:03.990 --> 01:04:08.400 align:middle line:84%
+and they get this remarkable
+data set of 80,000 individuals
+
+01:04:08.400 --> 01:04:11.100 align:middle line:90%
+living in 49,000 households.
+
+01:04:11.100 --> 01:04:13.770 align:middle line:84%
+And they know their
+life history of moving,
+
+01:04:13.770 --> 01:04:17.172 align:middle line:84%
+and then they can examine
+what those people purchased.
+
+01:04:17.172 --> 01:04:20.720 align:middle line:84%
+And I think it's an interesting
+contrast with Bresnahan
+
+01:04:20.720 --> 01:04:22.255 align:middle line:90%
+and Reiss, where we have like--
+
+01:04:22.255 --> 01:04:23.630 align:middle line:84%
+we're opening up
+the phone books,
+
+01:04:23.630 --> 01:04:25.963 align:middle line:84%
+and we're counting there are
+three dentists or whatever,
+
+01:04:25.963 --> 01:04:29.690 align:middle line:84%
+and that's for 200 different
+cities versus this 80,000
+
+01:04:29.690 --> 01:04:32.900 align:middle line:84%
+people, you've got basically
+their shopping lives laid out
+
+01:04:32.900 --> 01:04:35.335 align:middle line:84%
+in front of you, as well as
+some of their life history.
+
+01:04:35.335 --> 01:04:40.760 align:middle line:90%
+
+
+01:04:40.760 --> 01:04:47.150 align:middle line:84%
+Nielsen classifies UPC codes
+by product category and brand.
+
+01:04:47.150 --> 01:04:52.200 align:middle line:84%
+In this paper, they've
+picked 238 different modules.
+
+01:04:52.200 --> 01:04:54.470 align:middle line:90%
+So a module could be mayonnaise.
+
+01:04:54.470 --> 01:04:56.980 align:middle line:90%
+So they pick 238 modules.
+
+01:04:56.980 --> 01:05:00.650 align:middle line:84%
+They pick modules where they
+have at least 5,000 households
+
+01:05:00.650 --> 01:05:05.030 align:middle line:84%
+purchasing that item and where
+the top two brands are owned
+
+01:05:05.030 --> 01:05:06.600 align:middle line:90%
+by different firms.
+
+01:05:06.600 --> 01:05:09.560 align:middle line:84%
+So, for instance, in
+the cream cheese module,
+
+01:05:09.560 --> 01:05:12.420 align:middle line:84%
+the number one cream cheese
+is Philadelphia cream cheese.
+
+01:05:12.420 --> 01:05:15.210 align:middle line:84%
+The number two cream cheese is
+Philadelphia Light cream cheese.
+
+01:05:15.210 --> 01:05:17.080 align:middle line:84%
+So they would throw
+out cream cheese.
+
+01:05:17.080 --> 01:05:18.930 align:middle line:84%
+But in mayonnaise,
+number one mayonnaise
+
+01:05:18.930 --> 01:05:20.640 align:middle line:90%
+is Unilever mayonnaise.
+
+01:05:20.640 --> 01:05:22.570 align:middle line:84%
+Number two mayonnaise
+is Kraft mayonnaise.
+
+01:05:22.570 --> 01:05:26.300 align:middle line:90%
+They keep mayonnaise.
+
+01:05:26.300 --> 01:05:28.010 align:middle line:84%
+Anyway, the current
+market share data
+
+01:05:28.010 --> 01:05:31.160 align:middle line:84%
+is also supplemented
+with historical data
+
+01:05:31.160 --> 01:05:33.740 align:middle line:84%
+at the state level that's
+obtained from some published
+
+01:05:33.740 --> 01:05:36.860 align:middle line:84%
+surveys that asked people
+about, what brand of mayonnaise
+
+01:05:36.860 --> 01:05:37.830 align:middle line:90%
+do you normally buy?
+
+01:05:37.830 --> 01:05:41.210 align:middle line:84%
+And they found these archival
+things from the '40s up
+
+01:05:41.210 --> 01:05:42.920 align:middle line:90%
+to the '60s.
+
+01:05:42.920 --> 01:05:45.230 align:middle line:84%
+I won't talk so much
+about that part, though.
+
+01:05:45.230 --> 01:05:47.315 align:middle line:84%
+Actually, they also
+do advertising data.
+
+01:05:47.315 --> 01:05:49.190 align:middle line:84%
+I'm not going to talk
+so much about what they
+
+01:05:49.190 --> 01:05:51.710 align:middle line:90%
+do with the advertising data.
+
+01:05:51.710 --> 01:05:54.420 align:middle line:84%
+But anyway, so here is
+part of their product list.
+
+01:05:54.420 --> 01:05:57.500 align:middle line:84%
+And, again, it's
+238 things long.
+
+01:05:57.500 --> 01:06:01.603 align:middle line:90%
+But so all of these are--
+
+01:06:01.603 --> 01:06:02.270 align:middle line:90%
+well, let's see.
+
+01:06:02.270 --> 01:06:03.895 align:middle line:84%
+Down here at the
+bottom, I've got beer.
+
+01:06:03.895 --> 01:06:05.420 align:middle line:90%
+I've talked about beer before.
+
+01:06:05.420 --> 01:06:09.740 align:middle line:84%
+So the number one
+beer is Budweiser.
+
+01:06:09.740 --> 01:06:13.100 align:middle line:90%
+The number two beer is Miller.
+
+01:06:13.100 --> 01:06:16.790 align:middle line:84%
+What they do is they record
+the aggregate purchase share.
+
+01:06:16.790 --> 01:06:21.200 align:middle line:84%
+So aggregate share here
+means share of product one.
+
+01:06:21.200 --> 01:06:24.540 align:middle line:84%
+Aggregate purchase share
+is share of Budweiser
+
+01:06:24.540 --> 01:06:27.280 align:middle line:84%
+and the fraction people
+buying Budweiser or Miller.
+
+01:06:27.280 --> 01:06:31.830 align:middle line:84%
+So 64% of the people who buy
+Budweiser or Miller buy Miller.
+
+01:06:31.830 --> 01:06:35.860 align:middle line:84%
+And then, again, these are the
+cross-state standard deviation.
+
+01:06:35.860 --> 01:06:37.163 align:middle line:90%
+So it's 64 on average.
+
+01:06:37.163 --> 01:06:38.830 align:middle line:84%
+But in different
+states, it's different.
+
+01:06:38.830 --> 01:06:43.470 align:middle line:84%
+So it's 64 plus or minus 19
+for Budweiser versus Miller.
+
+01:06:43.470 --> 01:06:48.180 align:middle line:84%
+Some of the products,
+like of bread,
+
+01:06:48.180 --> 01:06:50.950 align:middle line:84%
+Nature's Own versus Sara
+Lee Soft and Smooth,
+
+01:06:50.950 --> 01:06:54.276 align:middle line:84%
+it's like 50/50 between
+those two plus or minus 32.
+
+01:06:54.276 --> 01:06:59.160 align:middle line:90%
+
+
+01:06:59.160 --> 01:07:01.480 align:middle line:84%
+Some of them there's
+very little variation.
+
+01:07:01.480 --> 01:07:03.900 align:middle line:84%
+So antacids--
+Prilosec and Rolaids
+
+01:07:03.900 --> 01:07:06.030 align:middle line:90%
+are the top two antacids.
+
+01:07:06.030 --> 01:07:10.050 align:middle line:84%
+Prilosec is a 71% share
+in that comparison.
+
+01:07:10.050 --> 01:07:11.790 align:middle line:84%
+It's a more effective
+drug, I guess.
+
+01:07:11.790 --> 01:07:14.040 align:middle line:90%
+And it's 71 plus or minus 8.
+
+01:07:14.040 --> 01:07:19.370 align:middle line:90%
+
+
+01:07:19.370 --> 01:07:20.770 align:middle line:84%
+I look at some of
+these, and they
+
+01:07:20.770 --> 01:07:23.530 align:middle line:84%
+seem like things that are
+very similar products.
+
+01:07:23.530 --> 01:07:27.220 align:middle line:84%
+Like, I think I would be shocked
+if Comet abrasive cleaning
+
+01:07:27.220 --> 01:07:29.440 align:middle line:84%
+powder and Ajax
+abrasive cleaning powder
+
+01:07:29.440 --> 01:07:30.500 align:middle line:90%
+are very different.
+
+01:07:30.500 --> 01:07:32.150 align:middle line:84%
+Some of them, like
+the bakery products,
+
+01:07:32.150 --> 01:07:34.110 align:middle line:84%
+maybe it seems like
+they're not as homogeneous
+
+01:07:34.110 --> 01:07:35.760 align:middle line:90%
+as some of the other things.
+
+01:07:35.760 --> 01:07:40.820 align:middle line:90%
+
+
+01:07:40.820 --> 01:07:43.830 align:middle line:84%
+So what does
+shopper's homescan--
+
+01:07:43.830 --> 01:07:46.590 align:middle line:84%
+or these homescan shoppers in
+the United States look like?
+
+01:07:46.590 --> 01:07:49.590 align:middle line:84%
+I don't know how this compares
+to the US population as a whole.
+
+01:07:49.590 --> 01:07:51.560 align:middle line:90%
+Someone must know that.
+
+01:07:51.560 --> 01:07:58.460 align:middle line:84%
+About 27% of the households
+in their sample are migrants.
+
+01:07:58.460 --> 01:08:00.808 align:middle line:84%
+I guess, obviously,
+almost everybody
+
+01:08:00.808 --> 01:08:02.600 align:middle line:84%
+I know is a migrant,
+which I guess tells me
+
+01:08:02.600 --> 01:08:03.920 align:middle line:90%
+that migrants are unusual--
+
+01:08:03.920 --> 01:08:07.850 align:middle line:84%
+that we're somewhat unusual
+relative to the US population.
+
+01:08:07.850 --> 01:08:12.260 align:middle line:84%
+But 27% of the households
+were born in a different state
+
+01:08:12.260 --> 01:08:13.910 align:middle line:90%
+where they now reside.
+
+01:08:13.910 --> 01:08:17.270 align:middle line:84%
+16% were born in a different
+census region-- so conditional
+
+01:08:17.270 --> 01:08:19.010 align:middle line:90%
+on having moved states.
+
+01:08:19.010 --> 01:08:23.000 align:middle line:84%
+Many people have
+moved fairly far.
+
+01:08:23.000 --> 01:08:27.703 align:middle line:84%
+Obviously, this is-- you'll
+notice people don't really
+
+01:08:27.703 --> 01:08:28.620 align:middle line:90%
+move to the Northeast.
+
+01:08:28.620 --> 01:08:29.995 align:middle line:84%
+People are born
+in the Northeast,
+
+01:08:29.995 --> 01:08:31.529 align:middle line:84%
+and then they stay
+in the Northeast.
+
+01:08:31.529 --> 01:08:33.290 align:middle line:84%
+Very few people,
+especially from the West,
+
+01:08:33.290 --> 01:08:36.740 align:middle line:84%
+move to the Northeast,
+given the weather.
+
+01:08:36.740 --> 01:08:42.090 align:middle line:84%
+More people in the South move
+to the South from the Northeast
+
+01:08:42.090 --> 01:08:43.020 align:middle line:90%
+or from the Midwest.
+
+01:08:43.020 --> 01:08:45.870 align:middle line:90%
+
+
+01:08:45.870 --> 01:08:50.700 align:middle line:84%
+Ages-- the people in their
+sample tend to be in their 40s,
+
+01:08:50.700 --> 01:08:52.590 align:middle line:90%
+50s, 60s.
+
+01:08:52.590 --> 01:08:56.490 align:middle line:84%
+You get very few people in their
+20s who want to have a scanner
+
+01:08:56.490 --> 01:09:00.600 align:middle line:84%
+and scan everything they
+buy at the grocery store.
+
+01:09:00.600 --> 01:09:02.100 align:middle line:84%
+Age leaving state
+of birth-- there's
+
+01:09:02.100 --> 01:09:03.675 align:middle line:84%
+an awful lot of
+variation in that.
+
+01:09:03.675 --> 01:09:06.300 align:middle line:84%
+You get a lot of people who left
+before they were 10 years old,
+
+01:09:06.300 --> 01:09:10.350 align:middle line:84%
+a lot of people who move in
+their 20s, not surprisingly.
+
+01:09:10.350 --> 01:09:14.760 align:middle line:84%
+And then you do get people who
+also move in their 60s when
+
+01:09:14.760 --> 01:09:16.960 align:middle line:90%
+they're retiring.
+
+01:09:16.960 --> 01:09:19.279 align:middle line:90%
+So what's the main analysis?
+
+01:09:19.279 --> 01:09:22.229 align:middle line:84%
+The main thing is to ask,
+let's look at these people
+
+01:09:22.229 --> 01:09:26.399 align:middle line:84%
+and ask when they move, how far
+do they move from their birth
+
+01:09:26.399 --> 01:09:31.170 align:middle line:84%
+place purchasing patterns to
+their destination purchasing
+
+01:09:31.170 --> 01:09:32.189 align:middle line:90%
+patterns?
+
+01:09:32.189 --> 01:09:36.420 align:middle line:84%
+And so, they write
+mu sj for the share
+
+01:09:36.420 --> 01:09:40.380 align:middle line:84%
+of people who never move-- the
+share of nonmigrants in state
+
+01:09:40.380 --> 01:09:42.810 align:middle line:90%
+s who buy product j.
+
+01:09:42.810 --> 01:09:46.020 align:middle line:84%
+And then mu s prime j
+is the people in state
+
+01:09:46.020 --> 01:09:47.930 align:middle line:90%
+s prime who never move--
+
+01:09:47.930 --> 01:09:50.470 align:middle line:84%
+what fraction of
+them buy product j?
+
+01:09:50.470 --> 01:09:52.470 align:middle line:84%
+And so what I'm doing is
+I'm thinking of someone
+
+01:09:52.470 --> 01:09:56.940 align:middle line:84%
+who moves from state s to
+state s prime and saying,
+
+01:09:56.940 --> 01:10:00.810 align:middle line:84%
+how does their
+purchasing compare to--
+
+01:10:00.810 --> 01:10:05.710 align:middle line:84%
+how far in the direction of s
+prime has their purchasing--
+
+01:10:05.710 --> 01:10:09.090 align:middle line:84%
+how far along the way from
+mu s to mu s prime has
+
+01:10:09.090 --> 01:10:13.710 align:middle line:84%
+their purchasing moved, assuming
+they started at mu sj when they
+
+01:10:13.710 --> 01:10:14.730 align:middle line:90%
+were in--
+
+01:10:14.730 --> 01:10:18.450 align:middle line:84%
+before they moved 20 years
+ago when I don't observe them?
+
+01:10:18.450 --> 01:10:20.970 align:middle line:90%
+So the question is, if this--
+
+01:10:20.970 --> 01:10:23.370 align:middle line:90%
+if you still purchase--
+
+01:10:23.370 --> 01:10:29.110 align:middle line:84%
+if these migrants still purchase
+exactly what they purchased--
+
+01:10:29.110 --> 01:10:31.257 align:middle line:84%
+well, if they were
+representative of the population
+
+01:10:31.257 --> 01:10:33.840 align:middle line:84%
+in state s, and still purchase
+what they purchased before they
+
+01:10:33.840 --> 01:10:36.810 align:middle line:90%
+left, beta would be 0.
+
+01:10:36.810 --> 01:10:40.650 align:middle line:84%
+If they all purchase are
+exactly representative
+
+01:10:40.650 --> 01:10:43.300 align:middle line:84%
+of the nonmigrants in
+their new home and purchase
+
+01:10:43.300 --> 01:10:47.070 align:middle line:84%
+what people in the new home
+purchase, beta would be 1.
+
+01:10:47.070 --> 01:10:49.620 align:middle line:84%
+So beta is like, what
+fraction of the way
+
+01:10:49.620 --> 01:10:53.760 align:middle line:84%
+have people moved from looking
+like where they were born people
+
+01:10:53.760 --> 01:10:56.670 align:middle line:90%
+to where they now live people?
+
+01:10:56.670 --> 01:11:00.510 align:middle line:84%
+And we're going to basically
+have a regression estimating
+
+01:11:00.510 --> 01:11:08.940 align:middle line:84%
+beta ij as a function of the
+age that you were when you moved
+
+01:11:08.940 --> 01:11:11.912 align:middle line:84%
+and the time that you've
+been in your new location.
+
+01:11:11.912 --> 01:11:14.370 align:middle line:84%
+So you might think if you moved
+when you were one year old,
+
+01:11:14.370 --> 01:11:16.420 align:middle line:84%
+you've been your
+location for 60 years,
+
+01:11:16.420 --> 01:11:19.178 align:middle line:84%
+you ought to look like people
+who grew up in that location
+
+01:11:19.178 --> 01:11:20.970 align:middle line:84%
+where you moved when
+you were one year old,
+
+01:11:20.970 --> 01:11:22.637 align:middle line:84%
+other than maybe your
+parents taught you
+
+01:11:22.637 --> 01:11:24.630 align:middle line:90%
+about what mayonnaise to buy.
+
+01:11:24.630 --> 01:11:28.680 align:middle line:84%
+Whereas, if you're 60 years
+old, and you moved at age--
+
+01:11:28.680 --> 01:11:31.230 align:middle line:84%
+if you moved at age 60,
+and you've been there
+
+01:11:31.230 --> 01:11:33.950 align:middle line:84%
+for six months, you might
+expect that those people would
+
+01:11:33.950 --> 01:11:35.700 align:middle line:84%
+look more like the
+origin people, at least
+
+01:11:35.700 --> 01:11:37.188 align:middle line:90%
+on the taste side.
+
+01:11:37.188 --> 01:11:40.370 align:middle line:90%
+
+
+01:11:40.370 --> 01:11:42.620 align:middle line:84%
+And then they do this via
+weighted least squares.
+
+01:11:42.620 --> 01:11:44.120 align:middle line:84%
+Because if you think
+about it like--
+
+01:11:44.120 --> 01:11:47.150 align:middle line:84%
+if mu s and mu s prime are
+almost identical-- we're
+
+01:11:47.150 --> 01:11:49.230 align:middle line:84%
+getting almost no
+information from that market,
+
+01:11:49.230 --> 01:11:51.047 align:middle line:84%
+and it's where mu
+s and mu s prime
+
+01:11:51.047 --> 01:11:53.130 align:middle line:84%
+are very different that
+we're getting information,
+
+01:11:53.130 --> 01:11:55.220 align:middle line:84%
+and so they do a weighted
+least squares estimate
+
+01:11:55.220 --> 01:11:59.090 align:middle line:84%
+weighting the behavior
+of people who made moves
+
+01:11:59.090 --> 01:12:01.957 align:middle line:90%
+to more different places.
+
+01:12:01.957 --> 01:12:04.040 align:middle line:84%
+Anyway, so they've got a
+few figures that they do.
+
+01:12:04.040 --> 01:12:05.340 align:middle line:90%
+They've got this one.
+
+01:12:05.340 --> 01:12:09.440 align:middle line:84%
+Sometimes they're estimating
+this coefficient separately.
+
+01:12:09.440 --> 01:12:11.030 align:middle line:90%
+Again, you've got 80,000 people.
+
+01:12:11.030 --> 01:12:13.880 align:middle line:84%
+You've got a lot of
+people who move at age 15
+
+01:12:13.880 --> 01:12:16.050 align:middle line:84%
+and have been
+there for 35 years.
+
+01:12:16.050 --> 01:12:18.260 align:middle line:84%
+So they have
+separate coefficients
+
+01:12:18.260 --> 01:12:25.850 align:middle line:84%
+for every age at move and
+every year since move.
+
+01:12:25.850 --> 01:12:28.710 align:middle line:84%
+I find this one hard to see,
+though, in three dimensions.
+
+01:12:28.710 --> 01:12:32.040 align:middle line:84%
+It's hard to see how high these
+things are versus the slope.
+
+01:12:32.040 --> 01:12:35.190 align:middle line:84%
+So easier to read
+is these ones here.
+
+01:12:35.190 --> 01:12:39.030 align:middle line:84%
+They just go-- they collapse
+it down to one dimension.
+
+01:12:39.030 --> 01:12:43.320 align:middle line:84%
+And what this is saying
+is that an awful lot of it
+
+01:12:43.320 --> 01:12:45.660 align:middle line:90%
+seems to be supply side.
+
+01:12:45.660 --> 01:12:49.140 align:middle line:84%
+Because if you look at
+people who have just moved--
+
+01:12:49.140 --> 01:12:53.040 align:middle line:84%
+so it's zero to four
+years since their move,
+
+01:12:53.040 --> 01:12:57.600 align:middle line:84%
+they're immediately like
+60-something percent of the way
+
+01:12:57.600 --> 01:13:00.570 align:middle line:90%
+to the new purchasing patterns.
+
+01:13:00.570 --> 01:13:03.300 align:middle line:84%
+When you look at people who
+moved 40 or 50 years ago,
+
+01:13:03.300 --> 01:13:06.960 align:middle line:84%
+they are like 80% or 90% of the
+way to the purchasing patterns.
+
+01:13:06.960 --> 01:13:10.470 align:middle line:84%
+So it seems like there's a
+big supply side element that
+
+01:13:10.470 --> 01:13:13.320 align:middle line:84%
+makes you immediately on
+moving here to Boston,
+
+01:13:13.320 --> 01:13:15.660 align:middle line:84%
+you start buying
+Hellman's mayonnaise.
+
+01:13:15.660 --> 01:13:18.340 align:middle line:84%
+But there is something
+that's longer term.
+
+01:13:18.340 --> 01:13:21.390 align:middle line:84%
+And so this could be
+that advertising playing
+
+01:13:21.390 --> 01:13:25.900 align:middle line:84%
+on you over 40 years, or this
+could just be your tastes adapt.
+
+01:13:25.900 --> 01:13:26.942 align:middle line:90%
+You go to friends houses.
+
+01:13:26.942 --> 01:13:28.317 align:middle line:84%
+They serve Hellmann's
+mayonnaise.
+
+01:13:28.317 --> 01:13:30.010 align:middle line:84%
+You think, wow, that
+Hellmann's is good.
+
+01:13:30.010 --> 01:13:31.920 align:middle line:90%
+I should buy that myself.
+
+01:13:31.920 --> 01:13:35.550 align:middle line:84%
+So there's adaptation
+over time, but a lot of it
+
+01:13:35.550 --> 01:13:39.360 align:middle line:90%
+happens on day one.
+
+01:13:39.360 --> 01:13:41.850 align:middle line:84%
+And then here's the
+age at move graph.
+
+01:13:41.850 --> 01:13:44.607 align:middle line:84%
+The people who moved when they
+were children-- obviously,
+
+01:13:44.607 --> 01:13:46.440 align:middle line:84%
+the people who moved
+when they were children
+
+01:13:46.440 --> 01:13:50.357 align:middle line:84%
+have already had to
+have lived for quite
+
+01:13:50.357 --> 01:13:52.440 align:middle line:84%
+a while in the new location
+because they were only
+
+01:13:52.440 --> 01:13:53.620 align:middle line:90%
+surveying adults.
+
+01:13:53.620 --> 01:13:56.430 align:middle line:84%
+But the people who
+moved at children--
+
+01:13:56.430 --> 01:13:57.570 align:middle line:90%
+you moved at age one.
+
+01:13:57.570 --> 01:13:59.960 align:middle line:84%
+You do retain something
+of your birth mayonnaise.
+
+01:13:59.960 --> 01:14:02.830 align:middle line:84%
+So this is you're getting
+something about mayonnaise
+
+01:14:02.830 --> 01:14:04.120 align:middle line:90%
+from your parents.
+
+01:14:04.120 --> 01:14:07.600 align:middle line:84%
+Because it can't be that you
+moved at age one, therefore,
+
+01:14:07.600 --> 01:14:13.000 align:middle line:84%
+you remember the mayonnaise
+of your babyhood.
+
+01:14:13.000 --> 01:14:14.750 align:middle line:84%
+So there is something
+that you're getting.
+
+01:14:14.750 --> 01:14:19.870 align:middle line:84%
+It's only 0.9, but then it
+declines in the age it moves.
+
+01:14:19.870 --> 01:14:24.970 align:middle line:84%
+But it stays that even people
+who moved in their 60s,
+
+01:14:24.970 --> 01:14:27.640 align:middle line:84%
+they're mostly adjusting
+to the new mayonnaise.
+
+01:14:27.640 --> 01:14:33.920 align:middle line:90%
+
+
+01:14:33.920 --> 01:14:34.420 align:middle line:90%
+OK.
+
+01:14:34.420 --> 01:14:35.590 align:middle line:90%
+So what do I have here?
+
+01:14:35.590 --> 01:14:37.370 align:middle line:90%
+What does it say?
+
+01:14:37.370 --> 01:14:40.090 align:middle line:84%
+So anyway, people instantly
+move 60% of the way.
+
+01:14:40.090 --> 01:14:45.880 align:middle line:84%
+This suggests that it is a
+lot of supply side stuff.
+
+01:14:45.880 --> 01:14:47.170 align:middle line:90%
+Yeah.
+
+01:14:47.170 --> 01:14:49.040 align:middle line:84%
+People become more
+similar over time.
+
+01:14:49.040 --> 01:14:50.290 align:middle line:90%
+I said that.
+
+01:14:50.290 --> 01:14:52.590 align:middle line:84%
+Betas are related
+to age and move.
+
+01:14:52.590 --> 01:14:56.440 align:middle line:84%
+So age 60-plus, you're still
+getting a big movement toward
+
+01:14:56.440 --> 01:14:58.985 align:middle line:90%
+new things.
+
+01:14:58.985 --> 01:15:01.310 align:middle line:84%
+Oh, number 4-- data
+on premove migrants.
+
+01:15:01.310 --> 01:15:03.250 align:middle line:84%
+Again, there's this
+thing of you guys
+
+01:15:03.250 --> 01:15:08.800 align:middle line:84%
+moved to Boston because you're
+not the typical people where
+
+01:15:08.800 --> 01:15:09.820 align:middle line:90%
+you grew up.
+
+01:15:09.820 --> 01:15:11.680 align:middle line:84%
+You probably don't
+drink the same coffee
+
+01:15:11.680 --> 01:15:15.710 align:middle line:84%
+that people where
+you grew up drink.
+
+01:15:15.710 --> 01:15:17.380 align:middle line:84%
+You probably don't
+drink the same beer
+
+01:15:17.380 --> 01:15:19.420 align:middle line:84%
+that people where
+you grew up drink.
+
+01:15:19.420 --> 01:15:21.962 align:middle line:84%
+You probably don't-- maybe you
+don't have the same mayonnaise
+
+01:15:21.962 --> 01:15:23.650 align:middle line:90%
+like people you grew up.
+
+01:15:23.650 --> 01:15:25.960 align:middle line:84%
+So the question is,
+is this in part--
+
+01:15:25.960 --> 01:15:30.455 align:middle line:84%
+is this like 60% figure
+because the people--
+
+01:15:30.455 --> 01:15:32.080 align:middle line:84%
+remember, most of
+the analysis are only
+
+01:15:32.080 --> 01:15:33.730 align:middle line:84%
+observing where
+people are today.
+
+01:15:33.730 --> 01:15:36.010 align:middle line:84%
+So the 60% figure is that
+people living in Boston,
+
+01:15:36.010 --> 01:15:38.422 align:middle line:90%
+maybe it's that like--
+
+01:15:38.422 --> 01:15:39.630 align:middle line:90%
+it's like, you are different.
+
+01:15:39.630 --> 01:15:41.330 align:middle line:84%
+Therefore, you get your
+coffee at Starbucks.
+
+01:15:41.330 --> 01:15:43.040 align:middle line:84%
+Whereas, people you
+grew up with didn't
+
+01:15:43.040 --> 01:15:44.780 align:middle line:84%
+go to Starbucks or
+something like that.
+
+01:15:44.780 --> 01:15:47.690 align:middle line:84%
+And you moved to Boston because
+you were like the Starbucks type
+
+01:15:47.690 --> 01:15:49.820 align:middle line:90%
+person or something.
+
+01:15:49.820 --> 01:15:51.050 align:middle line:90%
+They have evidence, though--
+
+01:15:51.050 --> 01:15:54.620 align:middle line:84%
+they actually look at
+the month-by-month data.
+
+01:15:54.620 --> 01:15:57.140 align:middle line:84%
+They don't-- can't track you
+precisely, but they're ask--
+
+01:15:57.140 --> 01:16:02.510 align:middle line:84%
+they did their survey
+in October of 2007.
+
+01:16:02.510 --> 01:16:05.120 align:middle line:90%
+And then-- no, sorry.
+
+01:16:05.120 --> 01:16:07.640 align:middle line:84%
+They did their survey
+in September of 2008.
+
+01:16:07.640 --> 01:16:08.605 align:middle line:90%
+And they asked people--
+
+01:16:08.605 --> 01:16:09.980 align:middle line:84%
+like, they asked
+people, how long
+
+01:16:09.980 --> 01:16:11.150 align:middle line:84%
+have you been in
+your current state?
+
+01:16:11.150 --> 01:16:11.850 align:middle line:90%
+And what are the answers?
+
+01:16:11.850 --> 01:16:12.892 align:middle line:90%
+The answers are integers.
+
+01:16:12.892 --> 01:16:16.810 align:middle line:84%
+So it's less than 1, 1
+to 2, 2 to 3, whatever.
+
+01:16:16.810 --> 01:16:18.770 align:middle line:84%
+So all the people
+who said less than--
+
+01:16:18.770 --> 01:16:21.440 align:middle line:84%
+I'm living in some
+state in September 2008.
+
+01:16:21.440 --> 01:16:23.240 align:middle line:90%
+I've been here less than a year.
+
+01:16:23.240 --> 01:16:27.440 align:middle line:84%
+They know that they moved
+sometime between October of 2007
+
+01:16:27.440 --> 01:16:29.010 align:middle line:90%
+and September of 2008.
+
+01:16:29.010 --> 01:16:31.100 align:middle line:84%
+They didn't ask for
+the month of the move.
+
+01:16:31.100 --> 01:16:32.570 align:middle line:84%
+But what they can
+then do is say,
+
+01:16:32.570 --> 01:16:35.960 align:middle line:84%
+look at these people who moved
+here within the past year,
+
+01:16:35.960 --> 01:16:39.920 align:middle line:84%
+and look at what mayonnaise
+did they eat before they moved.
+
+01:16:39.920 --> 01:16:42.560 align:middle line:84%
+And what they find
+is that before they
+
+01:16:42.560 --> 01:16:47.660 align:middle line:84%
+moved over this year,
+it's looking to me
+
+01:16:47.660 --> 01:16:50.240 align:middle line:84%
+like the people were
+only like 10% of the way
+
+01:16:50.240 --> 01:16:51.660 align:middle line:90%
+to their new destination.
+
+01:16:51.660 --> 01:16:53.330 align:middle line:90%
+So maybe they were more worldly.
+
+01:16:53.330 --> 01:16:56.570 align:middle line:84%
+Maybe they already had
+more Boston kind of tastes.
+
+01:16:56.570 --> 01:17:00.380 align:middle line:84%
+But they're only maybe
+10% Boston taste people.
+
+01:17:00.380 --> 01:17:03.290 align:middle line:84%
+And then you look at them as
+they move through the year.
+
+01:17:03.290 --> 01:17:05.120 align:middle line:90%
+And by the time they moved--
+
+01:17:05.120 --> 01:17:08.680 align:middle line:84%
+like that 60%, 1 to 4 years
+isn't 60% 0 to 4 years.
+
+01:17:08.680 --> 01:17:13.442 align:middle line:84%
+That's 60% the within the first
+12 months after you get there.
+
+01:17:13.442 --> 01:17:15.650 align:middle line:84%
+So some of these people have
+only been here one month
+
+01:17:15.650 --> 01:17:17.630 align:middle line:84%
+and are already buying
+the new mayonnaise.
+
+01:17:17.630 --> 01:17:19.650 align:middle line:84%
+Some of them have been
+here six or nine months.
+
+01:17:19.650 --> 01:17:23.870 align:middle line:84%
+But it seems that
+this 65% thing looks
+
+01:17:23.870 --> 01:17:25.860 align:middle line:90%
+like a causal effect of moving.
+
+01:17:25.860 --> 01:17:26.930 align:middle line:90%
+And it looks like--
+
+01:17:26.930 --> 01:17:29.790 align:middle line:84%
+or maybe 80% of it's a
+causal effect of moving.
+
+01:17:29.790 --> 01:17:31.550 align:middle line:84%
+Some part of it is
+like a preexisting,
+
+01:17:31.550 --> 01:17:33.330 align:middle line:90%
+underlying heterogeneity.
+
+01:17:33.330 --> 01:17:35.393 align:middle line:84%
+But then there's
+this big, big one.
+
+01:17:35.393 --> 01:17:41.320 align:middle line:90%
+
+
+01:17:41.320 --> 01:17:43.300 align:middle line:90%
+And, again, it's just--
+
+01:17:43.300 --> 01:17:46.360 align:middle line:84%
+they're just--
+80,000 is a good--
+
+01:17:46.360 --> 01:17:48.680 align:middle line:84%
+80,000 data points
+is a good thing.
+
+01:17:48.680 --> 01:17:52.660 align:middle line:84%
+And 80,000 data points times
+238 products is a good thing.
+
+01:17:52.660 --> 01:17:56.207 align:middle line:84%
+And just-- this is
+vantage of data scale,
+
+01:17:56.207 --> 01:17:58.790 align:middle line:84%
+as you can do these things that
+would be very, very hard to do
+
+01:17:58.790 --> 01:18:00.772 align:middle line:90%
+with any small [INAUDIBLE].
+
+01:18:00.772 --> 01:18:06.370 align:middle line:90%
+
+
+01:18:06.370 --> 01:18:09.180 align:middle line:90%
+Questions on that?
+
+01:18:09.180 --> 01:18:12.110 align:middle line:90%
+So that is what I got today.
+
+01:18:12.110 --> 01:18:18.100 align:middle line:84%
+So next week, again, is theory
+Monday, empirics Wednesday.
+
+01:18:18.100 --> 01:18:21.400 align:middle line:84%
+Next week, the theory topic
+is strategic investment.
+
+01:18:21.400 --> 01:18:24.910 align:middle line:84%
+Again, this is going to
+be a very Tirole textbook
+
+01:18:24.910 --> 01:18:26.430 align:middle line:90%
+kind of lecture on Monday.
+
+01:18:26.430 --> 01:18:29.140 align:middle line:84%
+If you look at chapter
+8 of the Tirole's book.
+
+01:18:29.140 --> 01:18:30.770 align:middle line:84%
+It's the longest
+chapter in the book.
+
+01:18:30.770 --> 01:18:33.190 align:middle line:84%
+So I will just try
+to go over the basics
+
+01:18:33.190 --> 01:18:34.320 align:middle line:90%
+of strategic investment.
+
+01:18:34.320 --> 01:18:36.220 align:middle line:84%
+And strategic investment
+is about thinking
+
+01:18:36.220 --> 01:18:38.650 align:middle line:84%
+of things firms do to
+affect entry in markets.
+
+01:18:38.650 --> 01:18:41.860 align:middle line:84%
+Because if entry really is the
+primary determinant of markups,
+
+01:18:41.860 --> 01:18:45.130 align:middle line:84%
+really should want to affect
+entry and keep firms out
+
+01:18:45.130 --> 01:18:46.622 align:middle line:90%
+of markets [INAUDIBLE].
+
+01:18:46.622 --> 01:18:49.270 align:middle line:90%
+
+
+01:18:49.270 --> 01:18:51.150 align:middle line:90%
+See you on Monday.
+
+01:18:51.150 --> 01:19:03.000 align:middle line:90%

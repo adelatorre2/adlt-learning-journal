@@ -1,0 +1,6218 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.460 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.460 --> 00:00:04.428 align:middle line:90%
+[RUSTLING]
+
+00:00:04.428 --> 00:00:07.380 align:middle line:90%
+[CLICKING]
+
+00:00:07.380 --> 00:00:16.730 align:middle line:90%
+
+
+00:00:16.730 --> 00:00:18.300 align:middle line:84%
+PROFESSOR: OK, so
+let me get started.
+
+00:00:18.300 --> 00:00:21.380 align:middle line:84%
+So if you remember
+last class, I did
+
+00:00:21.380 --> 00:00:24.200 align:middle line:84%
+the basic strategic
+investment theory
+
+00:00:24.200 --> 00:00:29.780 align:middle line:84%
+and talked about how we
+think about firms trying
+
+00:00:29.780 --> 00:00:34.580 align:middle line:84%
+to make long term investments
+that either deter rivals
+
+00:00:34.580 --> 00:00:38.403 align:middle line:84%
+from entering or changing
+the nature of competition
+
+00:00:38.403 --> 00:00:40.820 align:middle line:84%
+in a way that's going to make
+them more profitable if they
+
+00:00:40.820 --> 00:00:42.920 align:middle line:84%
+go ahead and give up and
+accommodate that the rivals come
+
+00:00:42.920 --> 00:00:43.560 align:middle line:90%
+in.
+
+00:00:43.560 --> 00:00:47.450 align:middle line:84%
+And the basic insights
+there are, to deter entry,
+
+00:00:47.450 --> 00:00:48.270 align:middle line:90%
+it's fairly simple.
+
+00:00:48.270 --> 00:00:49.760 align:middle line:84%
+You just want to do whatever
+kinds of investments
+
+00:00:49.760 --> 00:00:51.300 align:middle line:90%
+are going to hurt your rivals.
+
+00:00:51.300 --> 00:00:54.260 align:middle line:84%
+And then when you're talking
+about accommodating entry,
+
+00:00:54.260 --> 00:00:56.258 align:middle line:84%
+one of the insights was
+it really depends on
+
+00:00:56.258 --> 00:00:58.550 align:middle line:84%
+whether you're playing games
+with strategic complements
+
+00:00:58.550 --> 00:00:59.520 align:middle line:90%
+or substitutes.
+
+00:00:59.520 --> 00:01:01.400 align:middle line:84%
+And in strategic
+complements games,
+
+00:01:01.400 --> 00:01:05.060 align:middle line:84%
+generally investments
+that help your rivals
+
+00:01:05.060 --> 00:01:06.830 align:middle line:84%
+are ones that are
+good strategically,
+
+00:01:06.830 --> 00:01:09.300 align:middle line:84%
+and investments that
+hurt your rivals are bad.
+
+00:01:09.300 --> 00:01:12.980 align:middle line:84%
+And then it's reversed if you're
+looking at Cournot wide games.
+
+00:01:12.980 --> 00:01:16.980 align:middle line:84%
+So today, I'm going to
+talk about empirical work
+
+00:01:16.980 --> 00:01:18.430 align:middle line:90%
+on strategic investment.
+
+00:01:18.430 --> 00:01:21.120 align:middle line:84%
+And why are we
+interested in this?
+
+00:01:21.120 --> 00:01:24.060 align:middle line:84%
+There's the standard
+considerations
+
+00:01:24.060 --> 00:01:25.390 align:middle line:90%
+that we want to understand.
+
+00:01:25.390 --> 00:01:26.470 align:middle line:90%
+Do the models work well?
+
+00:01:26.470 --> 00:01:28.110 align:middle line:90%
+Do firms do what we think?
+
+00:01:28.110 --> 00:01:32.340 align:middle line:84%
+There are other cases
+where strategic investment
+
+00:01:32.340 --> 00:01:33.990 align:middle line:84%
+of the type described
+in those models
+
+00:01:33.990 --> 00:01:35.790 align:middle line:84%
+could be violating
+antitrust laws.
+
+00:01:35.790 --> 00:01:38.940 align:middle line:84%
+I gave a model of
+tying where tying
+
+00:01:38.940 --> 00:01:40.650 align:middle line:90%
+could be used to deter entry.
+
+00:01:40.650 --> 00:01:43.616 align:middle line:84%
+That would potentially be
+a monopolization violation.
+
+00:01:43.616 --> 00:01:48.640 align:middle line:90%
+
+
+00:01:48.640 --> 00:01:52.620 align:middle line:84%
+So anyway, so yeah,
+trying to see, do these--
+
+00:01:52.620 --> 00:01:54.630 align:middle line:84%
+and are the incentives
+that these models
+
+00:01:54.630 --> 00:01:57.132 align:middle line:84%
+say could be there to signal
+costs or do other things?
+
+00:01:57.132 --> 00:01:58.840 align:middle line:84%
+Are those actually
+empirically important?
+
+00:01:58.840 --> 00:02:02.040 align:middle line:84%
+And then if they are important,
+do the firms recognize and react
+
+00:02:02.040 --> 00:02:03.070 align:middle line:90%
+to them?
+
+00:02:03.070 --> 00:02:07.270 align:middle line:84%
+So if we're thinking about, one,
+are these incentives important,
+
+00:02:07.270 --> 00:02:10.170 align:middle line:84%
+the main thing to
+understand is this d a1 star
+
+00:02:10.170 --> 00:02:14.010 align:middle line:90%
+/ dk1 and da2 star / dk1.
+
+00:02:14.010 --> 00:02:17.520 align:middle line:84%
+If you remember, when we're
+talking about the entry
+
+00:02:17.520 --> 00:02:22.790 align:middle line:84%
+deterrence, whether you
+do more or less investment
+
+00:02:22.790 --> 00:02:25.370 align:middle line:84%
+to deter entry was determined
+by a strategic effect.
+
+00:02:25.370 --> 00:02:27.515 align:middle line:84%
+And that strategic
+effect looked like--
+
+00:02:27.515 --> 00:02:30.500 align:middle line:90%
+
+
+00:02:30.500 --> 00:02:32.673 align:middle line:90%
+it was d pi 1--
+
+00:02:32.673 --> 00:02:36.540 align:middle line:90%
+
+
+00:02:36.540 --> 00:02:42.945 align:middle line:84%
+sorry, d pi 2 /
+da1, da1 star / dk1.
+
+00:02:42.945 --> 00:02:46.050 align:middle line:90%
+
+
+00:02:46.050 --> 00:02:47.730 align:middle line:84%
+Strategic entry
+deterrence was about
+
+00:02:47.730 --> 00:02:53.590 align:middle line:84%
+k1 is a commitment that makes me
+change my second period action.
+
+00:02:53.590 --> 00:02:55.800 align:middle line:84%
+And then when I change
+my second period action,
+
+00:02:55.800 --> 00:03:00.540 align:middle line:84%
+how does it affect firm 2 and
+keep firm 2 out of the market?
+
+00:03:00.540 --> 00:03:05.100 align:middle line:84%
+Accommodation, I went to
+the helping and hurting.
+
+00:03:05.100 --> 00:03:07.290 align:middle line:84%
+But before that, I had
+the strategic effect
+
+00:03:07.290 --> 00:03:14.460 align:middle line:84%
+was d pi 1 / da2,
+da2 star / dk1.
+
+00:03:14.460 --> 00:03:17.310 align:middle line:84%
+So strategic entry
+accommodation was
+
+00:03:17.310 --> 00:03:21.000 align:middle line:84%
+about getting your rival to
+do something that-- using k1
+
+00:03:21.000 --> 00:03:23.200 align:middle line:84%
+as a change in the
+nature of competition
+
+00:03:23.200 --> 00:03:25.033 align:middle line:84%
+in a way that get your
+rival to do something
+
+00:03:25.033 --> 00:03:26.400 align:middle line:90%
+that you want to do.
+
+00:03:26.400 --> 00:03:28.830 align:middle line:84%
+We pretty much always know
+what these are-- the signs
+
+00:03:28.830 --> 00:03:30.430 align:middle line:90%
+of these, d pi 2 / da1.
+
+00:03:30.430 --> 00:03:32.940 align:middle line:84%
+This is just like firms
+like their opponents
+
+00:03:32.940 --> 00:03:35.610 align:middle line:84%
+to set higher prices, or
+firms like their opponents
+
+00:03:35.610 --> 00:03:37.230 align:middle line:90%
+choose lower quantities.
+
+00:03:37.230 --> 00:03:38.980 align:middle line:84%
+So then, the important
+strategic questions
+
+00:03:38.980 --> 00:03:40.780 align:middle line:84%
+are, how big are
+these things that--
+
+00:03:40.780 --> 00:03:45.520 align:middle line:84%
+how much do the a's change
+with the investments?
+
+00:03:45.520 --> 00:03:48.543 align:middle line:84%
+So anyway, that's
+one thing people do.
+
+00:03:48.543 --> 00:03:49.960 align:middle line:84%
+And then the other
+thing people do
+
+00:03:49.960 --> 00:03:57.060 align:middle line:84%
+is we're trying to see, does the
+model with these investment--
+
+00:03:57.060 --> 00:03:59.290 align:middle line:84%
+entry deterring
+investments better explain
+
+00:03:59.290 --> 00:04:01.800 align:middle line:84%
+what firms do than a model
+without those investment
+
+00:04:01.800 --> 00:04:07.230 align:middle line:84%
+firms in there, and are
+firms recognizing those?
+
+00:04:07.230 --> 00:04:10.470 align:middle line:84%
+Sometimes, we can
+think of this question
+
+00:04:10.470 --> 00:04:13.470 align:middle line:84%
+of are firms recognizing and
+reacting to entry deterrence
+
+00:04:13.470 --> 00:04:15.510 align:middle line:84%
+incentives by really
+thinking of it as just
+
+00:04:15.510 --> 00:04:17.579 align:middle line:90%
+different strategic models.
+
+00:04:17.579 --> 00:04:19.829 align:middle line:84%
+So as I said, everything I
+did on strategic investment
+
+00:04:19.829 --> 00:04:23.160 align:middle line:84%
+was comparing the investment
+with an entry accommodation
+
+00:04:23.160 --> 00:04:25.990 align:middle line:84%
+motive to the open
+loop equilibrium.
+
+00:04:25.990 --> 00:04:29.190 align:middle line:84%
+And the open loop equilibrium
+is the fully optimal choice
+
+00:04:29.190 --> 00:04:33.480 align:middle line:84%
+of k in this model, where
+K is never observed.
+
+00:04:33.480 --> 00:04:37.690 align:middle line:84%
+The incumbent chooses Kk The
+entrant chooses in or out.
+
+00:04:37.690 --> 00:04:41.280 align:middle line:84%
+There's monopoly or duopoly,
+and only after the--
+
+00:04:41.280 --> 00:04:45.120 align:middle line:84%
+and never does the
+rival observe k.
+
+00:04:45.120 --> 00:04:47.610 align:middle line:84%
+So you can think of
+non-strategic investment
+
+00:04:47.610 --> 00:04:50.370 align:middle line:84%
+as just strategic
+investment in that model
+
+00:04:50.370 --> 00:04:51.820 align:middle line:90%
+where k is unobserved.
+
+00:04:51.820 --> 00:04:55.220 align:middle line:84%
+And then you could add in two
+different strategic variants,
+
+00:04:55.220 --> 00:04:59.830 align:middle line:84%
+one where if you
+observed k here,
+
+00:04:59.830 --> 00:05:01.690 align:middle line:84%
+that's the fully
+strategic model where
+
+00:05:01.690 --> 00:05:03.640 align:middle line:84%
+you think about entry
+accommodation and entry
+
+00:05:03.640 --> 00:05:04.880 align:middle line:90%
+deterrence motives.
+
+00:05:04.880 --> 00:05:07.120 align:middle line:84%
+And if you observe
+k here, that's
+
+00:05:07.120 --> 00:05:09.850 align:middle line:84%
+the model where you only
+think about strategic entry
+
+00:05:09.850 --> 00:05:12.430 align:middle line:84%
+accommodation, not deterrence,
+because you're not observing k
+
+00:05:12.430 --> 00:05:13.845 align:middle line:90%
+until after the entry decision.
+
+00:05:13.845 --> 00:05:16.950 align:middle line:90%
+
+
+00:05:16.950 --> 00:05:19.080 align:middle line:84%
+Anyway, so I'm going to
+talk about papers taking
+
+00:05:19.080 --> 00:05:20.750 align:middle line:90%
+a few different approaches.
+
+00:05:20.750 --> 00:05:24.480 align:middle line:84%
+First approach is just examine
+the effects of the investment
+
+00:05:24.480 --> 00:05:25.120 align:middle line:90%
+directly.
+
+00:05:25.120 --> 00:05:27.600 align:middle line:90%
+Just look at some investment, k.
+
+00:05:27.600 --> 00:05:29.880 align:middle line:84%
+Look at some action,
+a, that occurs later,
+
+00:05:29.880 --> 00:05:34.050 align:middle line:84%
+and observe whether da / dk is
+large, and what the sign of it
+
+00:05:34.050 --> 00:05:35.070 align:middle line:90%
+is.
+
+00:05:35.070 --> 00:05:39.570 align:middle line:84%
+Second approach you see is to
+try to understand if firms are
+
+00:05:39.570 --> 00:05:41.940 align:middle line:84%
+following their strategic
+incentives, what we could do
+
+00:05:41.940 --> 00:05:44.460 align:middle line:84%
+is examine reduced
+form predictions that
+
+00:05:44.460 --> 00:05:46.860 align:middle line:84%
+differ between the non-strategic
+and strategic models,
+
+00:05:46.860 --> 00:05:49.680 align:middle line:84%
+and then see which one
+better explains the data.
+
+00:05:49.680 --> 00:05:53.280 align:middle line:84%
+And then the third approach
+is to write down a model
+
+00:05:53.280 --> 00:05:55.977 align:middle line:84%
+that you can structurally
+estimate and understand,
+
+00:05:55.977 --> 00:05:58.560 align:middle line:84%
+does a structural model explain
+things better than, hopefully,
+
+00:05:58.560 --> 00:06:01.890 align:middle line:84%
+some alternate structural model
+that doesn't have that term?
+
+00:06:01.890 --> 00:06:04.380 align:middle line:84%
+And so I'll talk about
+papers with each approach.
+
+00:06:04.380 --> 00:06:08.460 align:middle line:84%
+So I'm going to start with
+Chevalier's paper, Capital
+
+00:06:08.460 --> 00:06:10.950 align:middle line:84%
+Structure and Product
+Market Competition.
+
+00:06:10.950 --> 00:06:13.440 align:middle line:84%
+So this is a paper about
+the supermarket industry,
+
+00:06:13.440 --> 00:06:19.200 align:middle line:84%
+and it's motivated by
+work in corporate finance.
+
+00:06:19.200 --> 00:06:21.870 align:middle line:84%
+So the corporate
+finance question
+
+00:06:21.870 --> 00:06:24.840 align:middle line:84%
+that motivates this is, why
+do firms choose the capital
+
+00:06:24.840 --> 00:06:26.700 align:middle line:90%
+structures that they do?
+
+00:06:26.700 --> 00:06:27.540 align:middle line:90%
+I think we're used--
+
+00:06:27.540 --> 00:06:28.332 align:middle line:90%
+well, I don't know.
+
+00:06:28.332 --> 00:06:30.790 align:middle line:84%
+How many people here have taken
+a corporate finance course?
+
+00:06:30.790 --> 00:06:32.160 align:middle line:90%
+Is the answer going to be 0?
+
+00:06:32.160 --> 00:06:34.620 align:middle line:90%
+OK, so-- one.
+
+00:06:34.620 --> 00:06:35.220 align:middle line:90%
+Good.
+
+00:06:35.220 --> 00:06:39.030 align:middle line:84%
+OK, anyway, so starting
+point for most theoretical
+
+00:06:39.030 --> 00:06:43.330 align:middle line:84%
+corporate finance courses is you
+start with Miller- Modigliani.
+
+00:06:43.330 --> 00:06:45.330 align:middle line:84%
+A lot of corporate finance
+is about how does a--
+
+00:06:45.330 --> 00:06:48.090 align:middle line:84%
+well, the basic structure that
+you certainly want to teach MBAs
+
+00:06:48.090 --> 00:06:53.310 align:middle line:84%
+is, how do you set up your
+capital structure of your firm?
+
+00:06:53.310 --> 00:06:55.800 align:middle line:84%
+How do you decide between
+raising money through debt,
+
+00:06:55.800 --> 00:06:57.510 align:middle line:90%
+raising money through equity?
+
+00:06:57.510 --> 00:07:01.830 align:middle line:84%
+How is a firm value affected by
+choosing a capital structure?
+
+00:07:01.830 --> 00:07:04.020 align:middle line:84%
+And so the starting
+point for this literature
+
+00:07:04.020 --> 00:07:06.610 align:middle line:84%
+is what's called the
+Miller-Modigliani theorem.
+
+00:07:06.610 --> 00:07:08.070 align:middle line:84%
+And the
+Miller-Modigliani theorem
+
+00:07:08.070 --> 00:07:09.840 align:middle line:84%
+is a basic theorem
+talking about how
+
+00:07:09.840 --> 00:07:14.370 align:middle line:84%
+in competitive markets with
+different states of the world,
+
+00:07:14.370 --> 00:07:17.008 align:middle line:84%
+your capital structure is
+just completely irrelevant.
+
+00:07:17.008 --> 00:07:18.550 align:middle line:84%
+And if you think
+about it, it's like,
+
+00:07:18.550 --> 00:07:21.010 align:middle line:84%
+there's just some
+giant set of states
+
+00:07:21.010 --> 00:07:23.440 align:middle line:84%
+of the world that may
+arise, and the firm
+
+00:07:23.440 --> 00:07:26.060 align:middle line:84%
+earns some different amount
+of profits in every state.
+
+00:07:26.060 --> 00:07:29.320 align:middle line:84%
+And then you divide up the
+state contingent claims
+
+00:07:29.320 --> 00:07:32.350 align:middle line:84%
+on the firms into
+a debt contract,
+
+00:07:32.350 --> 00:07:35.480 align:middle line:84%
+or an equity contract-- like
+any contract, like equity,
+
+00:07:35.480 --> 00:07:37.480 align:middle line:84%
+or debt, or whatever,
+pays off different amounts
+
+00:07:37.480 --> 00:07:39.110 align:middle line:84%
+in different states
+of the world.
+
+00:07:39.110 --> 00:07:41.770 align:middle line:84%
+And then Miller-Modigliani
+theorem is basically saying,
+
+00:07:41.770 --> 00:07:43.520 align:middle line:84%
+look, if you think about it, if
+you're just deciding how much
+
+00:07:43.520 --> 00:07:44.620 align:middle line:84%
+to have in different
+states of the world,
+
+00:07:44.620 --> 00:07:46.995 align:middle line:84%
+whether you have some this
+combination of debt and equity
+
+00:07:46.995 --> 00:07:50.205 align:middle line:84%
+or this combination, all you're
+doing is changing the debt
+
+00:07:50.205 --> 00:07:52.330 align:middle line:84%
+contract or something, the
+equities were something,
+
+00:07:52.330 --> 00:07:54.700 align:middle line:90%
+but the sum of the two is--
+
+00:07:54.700 --> 00:07:57.070 align:middle line:84%
+or the sum of all the
+claims you issue on the firm
+
+00:07:57.070 --> 00:07:59.643 align:middle line:84%
+are still just issued to all
+of the value of the state
+
+00:07:59.643 --> 00:08:01.310 align:middle line:84%
+contingent profits
+you're going to earn.
+
+00:08:01.310 --> 00:08:04.990 align:middle line:84%
+So capital structure is
+just completely irrelevant.
+
+00:08:04.990 --> 00:08:07.180 align:middle line:84%
+So then obviously, after
+that first observation,
+
+00:08:07.180 --> 00:08:10.570 align:middle line:84%
+you need theories
+for why firms do
+
+00:08:10.570 --> 00:08:13.370 align:middle line:84%
+have debt, and do have equity,
+and why they decide to do it.
+
+00:08:13.370 --> 00:08:16.060 align:middle line:84%
+And I wouldn't say this
+is the biggest class,
+
+00:08:16.060 --> 00:08:18.640 align:middle line:84%
+but a substantial part of
+that literature does say,
+
+00:08:18.640 --> 00:08:21.610 align:middle line:84%
+one reason why you could want
+capital structure could matter
+
+00:08:21.610 --> 00:08:25.060 align:middle line:84%
+is because capital structure
+can affect the product market
+
+00:08:25.060 --> 00:08:26.780 align:middle line:90%
+competition between the firms.
+
+00:08:26.780 --> 00:08:29.200 align:middle line:84%
+And there's a big
+literature about debt,
+
+00:08:29.200 --> 00:08:33.460 align:middle line:84%
+arguing how debt could affect
+real actions that firms take,
+
+00:08:33.460 --> 00:08:36.490 align:middle line:84%
+and effects that can go
+in different directions.
+
+00:08:36.490 --> 00:08:40.059 align:middle line:84%
+So let's think about, thought
+experiment, a firm takes
+
+00:08:40.059 --> 00:08:41.200 align:middle line:90%
+on a large amount of debt.
+
+00:08:41.200 --> 00:08:43.600 align:middle line:84%
+And so because they've taken
+on a large amount of debt,
+
+00:08:43.600 --> 00:08:46.210 align:middle line:84%
+they need a lot of cash flow
+to make the debt payments
+
+00:08:46.210 --> 00:08:48.610 align:middle line:90%
+that they've taken on.
+
+00:08:48.610 --> 00:08:49.940 align:middle line:90%
+What does that do?
+
+00:08:49.940 --> 00:08:53.860 align:middle line:84%
+Well, first, start with a
+standard oligopoly game.
+
+00:08:53.860 --> 00:08:55.610 align:middle line:84%
+That's going to have
+no effect whatsoever.
+
+00:08:55.610 --> 00:08:57.500 align:middle line:90%
+So I take it on debt.
+
+00:08:57.500 --> 00:08:58.850 align:middle line:90%
+I want to make more money.
+
+00:08:58.850 --> 00:09:00.820 align:middle line:84%
+If it's a static
+game, every period
+
+00:09:00.820 --> 00:09:02.590 align:middle line:84%
+I'm trying to make as
+much money as I can.
+
+00:09:02.590 --> 00:09:04.882 align:middle line:84%
+So I'm still just going to
+choose the profit maximizing
+
+00:09:04.882 --> 00:09:06.370 align:middle line:90%
+prices in every period.
+
+00:09:06.370 --> 00:09:09.990 align:middle line:84%
+Debt would have no
+effect whatsoever.
+
+00:09:09.990 --> 00:09:11.740 align:middle line:84%
+To get debt to have
+an effect, though, you
+
+00:09:11.740 --> 00:09:14.630 align:middle line:90%
+can think about dynamic models.
+
+00:09:14.630 --> 00:09:19.410 align:middle line:84%
+So one class of model might
+be if you have a model where
+
+00:09:19.410 --> 00:09:20.610 align:middle line:90%
+you have customer loyalty.
+
+00:09:20.610 --> 00:09:22.660 align:middle line:84%
+You sell things to
+consumers at good prices.
+
+00:09:22.660 --> 00:09:23.920 align:middle line:90%
+They get used to your product.
+
+00:09:23.920 --> 00:09:25.545 align:middle line:84%
+They like the taste
+of your mayonnaise.
+
+00:09:25.545 --> 00:09:28.440 align:middle line:84%
+They like your
+frequent flyer miles.
+
+00:09:28.440 --> 00:09:31.210 align:middle line:84%
+And then you build up
+this goodwill over time,
+
+00:09:31.210 --> 00:09:33.990 align:middle line:84%
+but then goodwill is an asset
+that you can depreciate.
+
+00:09:33.990 --> 00:09:37.110 align:middle line:84%
+Well, if you now need a lot
+of money in the short run
+
+00:09:37.110 --> 00:09:39.720 align:middle line:84%
+to pay down your debt, you
+might start raising your prices,
+
+00:09:39.720 --> 00:09:42.990 align:middle line:84%
+exploit all the customers who
+are temporarily captive to you,
+
+00:09:42.990 --> 00:09:46.650 align:middle line:84%
+and exploit and burn up all
+the goodwill you've gotten.
+
+00:09:46.650 --> 00:09:49.320 align:middle line:84%
+So that might be a case
+where you raise prices
+
+00:09:49.320 --> 00:09:52.890 align:middle line:84%
+because you need to raise
+money in the short run.
+
+00:09:52.890 --> 00:09:55.420 align:middle line:84%
+In dynamic collusion, you
+can get the opposite effect.
+
+00:09:55.420 --> 00:09:57.360 align:middle line:84%
+I talked about in the
+Rotemberg Saloner model,
+
+00:09:57.360 --> 00:10:00.630 align:middle line:84%
+if firms have a big incentive
+to deviate from the cartel
+
+00:10:00.630 --> 00:10:02.550 align:middle line:84%
+agreement, then
+the full collusion
+
+00:10:02.550 --> 00:10:04.420 align:middle line:90%
+is no longer sustainable.
+
+00:10:04.420 --> 00:10:06.870 align:middle line:84%
+So in a dynamic
+model, you could have
+
+00:10:06.870 --> 00:10:10.200 align:middle line:84%
+that we can no longer sustain
+this high collusive prices
+
+00:10:10.200 --> 00:10:11.585 align:middle line:90%
+because we have the debt.
+
+00:10:11.585 --> 00:10:13.710 align:middle line:84%
+We need to lower our prices
+to reduce our incentive
+
+00:10:13.710 --> 00:10:15.670 align:middle line:90%
+DV on the cartel agreement.
+
+00:10:15.670 --> 00:10:21.010 align:middle line:84%
+So this need for short run money
+could raise or lower prices.
+
+00:10:21.010 --> 00:10:25.300 align:middle line:84%
+Another effect we talked
+about with debt is high debt--
+
+00:10:25.300 --> 00:10:28.390 align:middle line:90%
+like if there's a--
+
+00:10:28.390 --> 00:10:29.950 align:middle line:84%
+for every extra
+dollar you borrow,
+
+00:10:29.950 --> 00:10:32.283 align:middle line:84%
+lenders are going to demand
+a higher and higher interest
+
+00:10:32.283 --> 00:10:35.110 align:middle line:84%
+rate for the next dollar
+because the threat of bankruptcy
+
+00:10:35.110 --> 00:10:36.730 align:middle line:90%
+is larger.
+
+00:10:36.730 --> 00:10:39.910 align:middle line:84%
+So high debt raises
+the cost of capital
+
+00:10:39.910 --> 00:10:42.160 align:middle line:84%
+and makes it difficult
+for you to borrow more
+
+00:10:42.160 --> 00:10:44.000 align:middle line:90%
+money for future expansion.
+
+00:10:44.000 --> 00:10:46.330 align:middle line:84%
+And so if you think
+about, how would
+
+00:10:46.330 --> 00:10:49.510 align:middle line:84%
+this work in a standard
+Cournot competition model,
+
+00:10:49.510 --> 00:10:53.770 align:middle line:84%
+in a Cournot model, if you've
+committed to not expand,
+
+00:10:53.770 --> 00:10:55.880 align:middle line:84%
+then your rivals
+are going to expand.
+
+00:10:55.880 --> 00:10:58.060 align:middle line:84%
+Because if I commit
+to a low Q, my rivals
+
+00:10:58.060 --> 00:11:00.620 align:middle line:84%
+are going to choose a
+higher Q as a best response.
+
+00:11:00.620 --> 00:11:04.600 align:middle line:84%
+So it could be that debt
+is a commitment that
+
+00:11:04.600 --> 00:11:07.270 align:middle line:90%
+leads my rivals to expand more.
+
+00:11:07.270 --> 00:11:08.870 align:middle line:84%
+There could be other
+models, though.
+
+00:11:08.870 --> 00:11:09.880 align:middle line:90%
+I haven't talked about them yet.
+
+00:11:09.880 --> 00:11:11.710 align:middle line:84%
+Like if you have--
+there's some new market,
+
+00:11:11.710 --> 00:11:14.380 align:middle line:90%
+there's some new growing city.
+
+00:11:14.380 --> 00:11:15.940 align:middle line:84%
+One of two firms
+is going to open up
+
+00:11:15.940 --> 00:11:17.960 align:middle line:84%
+a store in that
+new growing city.
+
+00:11:17.960 --> 00:11:19.030 align:middle line:90%
+Well, if you know--
+
+00:11:19.030 --> 00:11:21.338 align:middle line:84%
+like if you are afraid
+your rival is going
+
+00:11:21.338 --> 00:11:23.380 align:middle line:84%
+to open before you, you
+may race and get in there
+
+00:11:23.380 --> 00:11:24.980 align:middle line:84%
+before it's short
+run profitable,
+
+00:11:24.980 --> 00:11:28.040 align:middle line:84%
+but just when the PDV
+is positive, to get in
+
+00:11:28.040 --> 00:11:29.810 align:middle line:84%
+and beat your rival
+into the new market.
+
+00:11:29.810 --> 00:11:33.530 align:middle line:84%
+If you know your rival is debt
+constrained, can't raise money,
+
+00:11:33.530 --> 00:11:36.390 align:middle line:84%
+you can just wait
+later and enter later.
+
+00:11:36.390 --> 00:11:39.650 align:middle line:84%
+So it might be that your
+rivals enter less if you're
+
+00:11:39.650 --> 00:11:41.930 align:middle line:90%
+constrained by your debt load.
+
+00:11:41.930 --> 00:11:45.500 align:middle line:84%
+Anyway, so I tend to think of
+these as many different stories
+
+00:11:45.500 --> 00:11:49.220 align:middle line:84%
+in which taking on debt makes
+firms soft or makes firms tough,
+
+00:11:49.220 --> 00:11:51.980 align:middle line:84%
+and therefore, would have
+an entry deterring or entry
+
+00:11:51.980 --> 00:11:54.770 align:middle line:90%
+accommodating effect.
+
+00:11:54.770 --> 00:11:59.720 align:middle line:84%
+OK, so this is what Chevalier
+is interested in, is basically
+
+00:11:59.720 --> 00:12:03.530 align:middle line:84%
+this question of what
+effect does debt have,
+
+00:12:03.530 --> 00:12:06.470 align:middle line:84%
+using the supermarket
+industry as an opportunity
+
+00:12:06.470 --> 00:12:08.900 align:middle line:90%
+to explore debt?
+
+00:12:08.900 --> 00:12:11.570 align:middle line:84%
+And she takes
+advantage of, again,
+
+00:12:11.570 --> 00:12:13.020 align:middle line:90%
+what's a natural experiment?
+
+00:12:13.020 --> 00:12:19.110 align:middle line:84%
+Well, Judy claims that the
+basic story here, though,
+
+00:12:19.110 --> 00:12:21.870 align:middle line:84%
+is it's this weird
+natural experiment in LBOs
+
+00:12:21.870 --> 00:12:25.610 align:middle line:84%
+in which there's a family
+called the Haft family.
+
+00:12:25.610 --> 00:12:28.830 align:middle line:84%
+They had a drugstore chain,
+the Dart drugstore chain,
+
+00:12:28.830 --> 00:12:30.330 align:middle line:90%
+and they sold the chain for--
+
+00:12:30.330 --> 00:12:32.050 align:middle line:84%
+you know, this is
+back in the 1990s.
+
+00:12:32.050 --> 00:12:33.925 align:middle line:84%
+Businesses were worth
+less than they are now.
+
+00:12:33.925 --> 00:12:36.420 align:middle line:84%
+They sold their drugstore
+chain for $160 million.
+
+00:12:36.420 --> 00:12:39.060 align:middle line:84%
+And soon after, they
+decided that they
+
+00:12:39.060 --> 00:12:40.380 align:middle line:90%
+wanted to get into the super--
+
+00:12:40.380 --> 00:12:42.570 align:middle line:84%
+now, having cashed out of
+the drugstore business,
+
+00:12:42.570 --> 00:12:44.070 align:middle line:84%
+they wanted to get into
+the supermarket business.
+
+00:12:44.070 --> 00:12:46.050 align:middle line:84%
+And they embarked on
+a series of attempts
+
+00:12:46.050 --> 00:12:51.690 align:middle line:84%
+to buy some national supermarket
+chain using leveraged buyouts.
+
+00:12:51.690 --> 00:12:56.130 align:middle line:84%
+So people know what a
+leveraged buyout is?
+
+00:12:56.130 --> 00:12:58.990 align:middle line:84%
+Leveraged buyout is, I
+want to buy something.
+
+00:12:58.990 --> 00:13:00.930 align:middle line:84%
+I don't have nearly
+enough money to do it,
+
+00:13:00.930 --> 00:13:03.730 align:middle line:84%
+but I just get people to lend
+me a tremendous amount of money.
+
+00:13:03.730 --> 00:13:05.230 align:middle line:84%
+I take all the
+borrowed money, and I
+
+00:13:05.230 --> 00:13:08.730 align:middle line:84%
+use the borrowed money to buy
+the business that I want to buy.
+
+00:13:08.730 --> 00:13:11.418 align:middle line:84%
+And so the leverage
+refers to you're
+
+00:13:11.418 --> 00:13:13.710 align:middle line:84%
+buying this business largely
+with someone else's money,
+
+00:13:13.710 --> 00:13:15.627 align:middle line:84%
+but you're just taking
+on an awful lot of debt
+
+00:13:15.627 --> 00:13:17.680 align:middle line:90%
+to buy the business.
+
+00:13:17.680 --> 00:13:21.520 align:middle line:84%
+Anyway, so first thing we know
+they did is they tried to buy--
+
+00:13:21.520 --> 00:13:23.380 align:middle line:84%
+they just started
+buying up all the stock
+
+00:13:23.380 --> 00:13:25.600 align:middle line:90%
+in Safeway on the market.
+
+00:13:25.600 --> 00:13:29.110 align:middle line:84%
+And then obviously, you
+start buying up stock,
+
+00:13:29.110 --> 00:13:30.790 align:middle line:84%
+and you can buy
+up 5% of the stock
+
+00:13:30.790 --> 00:13:33.130 align:middle line:84%
+of a publicly traded
+company before announcing
+
+00:13:33.130 --> 00:13:34.220 align:middle line:90%
+your intentions.
+
+00:13:34.220 --> 00:13:36.330 align:middle line:84%
+So they started buying
+up stock in Safeway.
+
+00:13:36.330 --> 00:13:41.260 align:middle line:84%
+They then announced, we want to
+do an LBO and take over Safeway.
+
+00:13:41.260 --> 00:13:42.760 align:middle line:84%
+Obviously, as soon
+as they announced
+
+00:13:42.760 --> 00:13:45.250 align:middle line:84%
+that they were going to take
+over Safeway, the price of--
+
+00:13:45.250 --> 00:13:48.940 align:middle line:84%
+like often you buy out
+a firm at 50% premium
+
+00:13:48.940 --> 00:13:50.833 align:middle line:84%
+over the current
+stock market price.
+
+00:13:50.833 --> 00:13:53.000 align:middle line:84%
+So they announce they're
+going to take over Safeway.
+
+00:13:53.000 --> 00:13:57.190 align:middle line:90%
+Price of Safeway stock jumps.
+
+00:13:57.190 --> 00:14:01.738 align:middle line:84%
+And then-- so in some sense,
+they've bought the stock here.
+
+00:14:01.738 --> 00:14:03.280 align:middle line:84%
+They then announce
+they're buying it,
+
+00:14:03.280 --> 00:14:05.380 align:middle line:90%
+and the stock jumps like that.
+
+00:14:05.380 --> 00:14:07.450 align:middle line:84%
+And then anyway, the
+Safeway management
+
+00:14:07.450 --> 00:14:10.840 align:middle line:84%
+does not want to be bought
+out by the Haft family
+
+00:14:10.840 --> 00:14:12.110 align:middle line:90%
+and lose their jobs.
+
+00:14:12.110 --> 00:14:14.050 align:middle line:84%
+So the Safeway management
+decides, no, we also
+
+00:14:14.050 --> 00:14:15.620 align:middle line:90%
+think Safeway is undervalued.
+
+00:14:15.620 --> 00:14:18.040 align:middle line:84%
+We're going to buy
+Safeway out ourselves.
+
+00:14:18.040 --> 00:14:20.620 align:middle line:84%
+And so then what the
+Safeway management did
+
+00:14:20.620 --> 00:14:23.710 align:middle line:84%
+is they borrowed
+several billion dollars,
+
+00:14:23.710 --> 00:14:27.250 align:middle line:84%
+did an LBO to buy
+the drugstore instead
+
+00:14:27.250 --> 00:14:29.020 align:middle line:90%
+of letting the Haft family--
+
+00:14:29.020 --> 00:14:32.080 align:middle line:84%
+sorry, buy Safeway--
+the managers themselves
+
+00:14:32.080 --> 00:14:33.760 align:middle line:84%
+bought the firm
+and took it private
+
+00:14:33.760 --> 00:14:39.250 align:middle line:84%
+rather than letting the
+Haft family take it over.
+
+00:14:39.250 --> 00:14:42.430 align:middle line:84%
+And then I think one thing
+that the Haft family noticed
+
+00:14:42.430 --> 00:14:44.590 align:middle line:84%
+here was that they made
+an awful lot of money
+
+00:14:44.590 --> 00:14:49.870 align:middle line:84%
+when the stock did this,
+and then after it did this,
+
+00:14:49.870 --> 00:14:54.310 align:middle line:84%
+then the Safeway management
+took it over, and then
+
+00:14:54.310 --> 00:14:57.100 align:middle line:84%
+had to pay them again to
+buy up all of the shares
+
+00:14:57.100 --> 00:14:59.890 align:middle line:84%
+that they bought, and to give
+up their takeover attempt.
+
+00:14:59.890 --> 00:15:05.300 align:middle line:84%
+And so they ended up making $150
+million or something like that.
+
+00:15:05.300 --> 00:15:07.060 align:middle line:84%
+And then what we
+don't know is, like,
+
+00:15:07.060 --> 00:15:10.580 align:middle line:84%
+did the Haft brothers say,
+wow, that was awesome.
+
+00:15:10.580 --> 00:15:13.680 align:middle line:84%
+I just made $150 million and
+I didn't have to do anything,
+
+00:15:13.680 --> 00:15:15.972 align:middle line:84%
+or did they really want
+a supermarket chain?
+
+00:15:15.972 --> 00:15:18.430 align:middle line:84%
+But they basically at this
+point went from chain, to chain,
+
+00:15:18.430 --> 00:15:21.820 align:middle line:84%
+to chain, to chain, to chain,
+and kept trying to buy them,
+
+00:15:21.820 --> 00:15:23.390 align:middle line:90%
+and kept losing.
+
+00:15:23.390 --> 00:15:27.730 align:middle line:84%
+And the management of all
+these different supermarkets
+
+00:15:27.730 --> 00:15:31.132 align:middle line:84%
+did either LBOs or what are
+called leveraged recaps where
+
+00:15:31.132 --> 00:15:33.340 align:middle line:84%
+they just borrowed money,
+and didn't take it private,
+
+00:15:33.340 --> 00:15:36.580 align:middle line:84%
+but borrowed a lot of money and
+bought back a lot of the equity.
+
+00:15:36.580 --> 00:15:39.760 align:middle line:84%
+And so in this period
+of just three years,
+
+00:15:39.760 --> 00:15:44.710 align:middle line:84%
+19 of the 50 largest supermarket
+chains in the US did LBOs.
+
+00:15:44.710 --> 00:15:48.790 align:middle line:84%
+And so Judy treats
+this as she's going
+
+00:15:48.790 --> 00:15:53.350 align:middle line:84%
+to think of this as a
+relatively random choice.
+
+00:15:53.350 --> 00:15:56.233 align:middle line:84%
+Just where did the Haft
+brothers go over, and over,
+
+00:15:56.233 --> 00:15:57.650 align:middle line:84%
+and over again
+trying to buy them?
+
+00:15:57.650 --> 00:16:00.610 align:middle line:84%
+And we get this natural
+experiment of 19 chains
+
+00:16:00.610 --> 00:16:03.420 align:middle line:84%
+doing LBOs, 31 chains
+not doing LBOs.
+
+00:16:03.420 --> 00:16:06.310 align:middle line:84%
+And so you can treat
+this as a random event.
+
+00:16:06.310 --> 00:16:10.720 align:middle line:84%
+And then the market level
+impact of the LBO wave
+
+00:16:10.720 --> 00:16:13.090 align:middle line:84%
+varied a lot from city to
+city because most cities
+
+00:16:13.090 --> 00:16:16.830 align:middle line:84%
+will have three or four
+large supermarket chains.
+
+00:16:16.830 --> 00:16:18.080 align:middle line:90%
+And these are national chains.
+
+00:16:18.080 --> 00:16:19.747 align:middle line:84%
+And so it could be
+there are some cities
+
+00:16:19.747 --> 00:16:21.997 align:middle line:84%
+where all the LBO chains had
+almost the entire market.
+
+00:16:21.997 --> 00:16:23.372 align:middle line:84%
+There are some
+cities where there
+
+00:16:23.372 --> 00:16:25.180 align:middle line:84%
+was only one LBO chain,
+some cities where
+
+00:16:25.180 --> 00:16:26.970 align:middle line:90%
+there were no LBO chains.
+
+00:16:26.970 --> 00:16:30.540 align:middle line:90%
+
+
+00:16:30.540 --> 00:16:32.140 align:middle line:90%
+OK, so what's her dataset?
+
+00:16:32.140 --> 00:16:34.660 align:middle line:84%
+It's a few different
+data sources.
+
+00:16:34.660 --> 00:16:36.450 align:middle line:84%
+First, she's got
+annual information
+
+00:16:36.450 --> 00:16:40.200 align:middle line:84%
+on the number of supermarkets
+in each chain, each of 85 MSAs.
+
+00:16:40.200 --> 00:16:43.260 align:middle line:90%
+MSAs means cities.
+
+00:16:43.260 --> 00:16:46.170 align:middle line:84%
+She has the demographics
+of the MSAs,
+
+00:16:46.170 --> 00:16:49.230 align:middle line:84%
+and how that changed
+over the six-year period,
+
+00:16:49.230 --> 00:16:52.710 align:middle line:84%
+and then she has whether every
+store that was there in 1985
+
+00:16:52.710 --> 00:16:59.540 align:middle line:84%
+became part of an LBO
+firm by 1988 or by 1991.
+
+00:16:59.540 --> 00:17:02.750 align:middle line:84%
+So she's going to be running a
+lot of city-level regressions.
+
+00:17:02.750 --> 00:17:06.319 align:middle line:84%
+In the city-level regressions,
+the main explanatory variable
+
+00:17:06.319 --> 00:17:08.510 align:middle line:90%
+is LBO share.
+
+00:17:08.510 --> 00:17:13.670 align:middle line:84%
+So LBO share is just the
+share of stores in 1985
+
+00:17:13.670 --> 00:17:16.022 align:middle line:90%
+that became part of an LBO.
+
+00:17:16.022 --> 00:17:17.730 align:middle line:84%
+And so we're going to
+be comparing cities
+
+00:17:17.730 --> 00:17:19.950 align:middle line:84%
+that had lots of
+firms doing LBOs
+
+00:17:19.950 --> 00:17:22.160 align:middle line:90%
+and not many firms doing LBOs.
+
+00:17:22.160 --> 00:17:23.819 align:middle line:84%
+And the main thing
+she's looking at
+
+00:17:23.819 --> 00:17:30.480 align:middle line:84%
+is interest is the effect
+of the LBO on entry.
+
+00:17:30.480 --> 00:17:32.280 align:middle line:84%
+And so she's going
+to look at both
+
+00:17:32.280 --> 00:17:36.960 align:middle line:84%
+do the existing non-LBO firms
+expand and build more stores,
+
+00:17:36.960 --> 00:17:40.030 align:middle line:84%
+like a Cournot-like model
+that we can't expand,
+
+00:17:40.030 --> 00:17:42.010 align:middle line:84%
+therefore they start
+building more stores,
+
+00:17:42.010 --> 00:17:44.310 align:middle line:84%
+and then she also looks
+at effects on entry
+
+00:17:44.310 --> 00:17:48.180 align:middle line:84%
+by brand new firms
+come into this market,
+
+00:17:48.180 --> 00:17:51.720 align:middle line:84%
+perhaps because they know that
+Safeway can no longer expand,
+
+00:17:51.720 --> 00:17:53.610 align:middle line:84%
+or they expect Safeway
+to raise its prices,
+
+00:17:53.610 --> 00:17:54.700 align:middle line:90%
+or something like that.
+
+00:17:54.700 --> 00:17:57.360 align:middle line:84%
+So she's going to look
+at effects on expansions
+
+00:17:57.360 --> 00:17:58.385 align:middle line:90%
+and on new entry.
+
+00:17:58.385 --> 00:18:02.510 align:middle line:90%
+
+
+00:18:02.510 --> 00:18:06.320 align:middle line:84%
+So anyway, it becomes, compared
+to many papers we've looked at,
+
+00:18:06.320 --> 00:18:08.690 align:middle line:84%
+fairly simple paper
+econometrically.
+
+00:18:08.690 --> 00:18:11.750 align:middle line:84%
+It's just largely a
+lot of regressions,
+
+00:18:11.750 --> 00:18:16.042 align:middle line:84%
+looking at how conditions
+in the market change when--
+
+00:18:16.042 --> 00:18:18.500 align:middle line:84%
+differ between the cities that
+have lots of LBOs and cities
+
+00:18:18.500 --> 00:18:20.090 align:middle line:90%
+that don't have LBOs.
+
+00:18:20.090 --> 00:18:25.640 align:middle line:84%
+So the first one here is there
+is some fairly weak evidence
+
+00:18:25.640 --> 00:18:29.870 align:middle line:84%
+that number of early
+LBOs led to an increase
+
+00:18:29.870 --> 00:18:31.860 align:middle line:84%
+in the total number of
+stores in the market.
+
+00:18:31.860 --> 00:18:34.700 align:middle line:84%
+So you can see that that's
+this coefficient here.
+
+00:18:34.700 --> 00:18:37.400 align:middle line:84%
+So it's regressing like
+log of the number of stores
+
+00:18:37.400 --> 00:18:39.720 align:middle line:84%
+on a market on a
+bunch of things.
+
+00:18:39.720 --> 00:18:42.020 align:middle line:84%
+And then one of
+the things is the--
+
+00:18:42.020 --> 00:18:51.195 align:middle line:84%
+and this is log of stores as of
+1991 on market characteristics.
+
+00:18:51.195 --> 00:18:52.570 align:middle line:84%
+And this one here
+is the fraction
+
+00:18:52.570 --> 00:18:56.920 align:middle line:84%
+of stores that had done
+LBOs between 1995 and 1998.
+
+00:18:56.920 --> 00:19:01.870 align:middle line:84%
+And what it's showing is
+that in the cities that
+
+00:19:01.870 --> 00:19:07.360 align:middle line:84%
+have more LBO stores, more
+stores that did LBOs by 1998,
+
+00:19:07.360 --> 00:19:11.050 align:middle line:84%
+you see more stores
+in the market in 2001.
+
+00:19:11.050 --> 00:19:14.680 align:middle line:84%
+So you would think that's
+consistent with this story
+
+00:19:14.680 --> 00:19:17.440 align:middle line:84%
+that LBOs soften
+price competition.
+
+00:19:17.440 --> 00:19:20.410 align:middle line:84%
+Safeway after the LBO is
+going to raise its prices
+
+00:19:20.410 --> 00:19:25.450 align:middle line:84%
+to try to eat up its customer
+loyalty and pay off its debts.
+
+00:19:25.450 --> 00:19:27.130 align:middle line:84%
+Other firms are
+going to recognize
+
+00:19:27.130 --> 00:19:29.080 align:middle line:84%
+that as that prices are going
+to be higher in that market.
+
+00:19:29.080 --> 00:19:31.305 align:middle line:84%
+We could move in and enter
+there, or expand there.
+
+00:19:31.305 --> 00:19:37.930 align:middle line:90%
+
+
+00:19:37.930 --> 00:19:43.000 align:middle line:84%
+So that was total
+stores in the market.
+
+00:19:43.000 --> 00:19:50.980 align:middle line:84%
+So this is a question of when
+there are more LBO firms,
+
+00:19:50.980 --> 00:19:56.410 align:middle line:84%
+do the non-LBO firms build
+more stores in the market?
+
+00:19:56.410 --> 00:19:59.090 align:middle line:90%
+So this is coefficient here.
+
+00:19:59.090 --> 00:20:03.610 align:middle line:84%
+If you at the number of stores
+built by non-LBO incumbents,
+
+00:20:03.610 --> 00:20:09.490 align:middle line:84%
+when you have an early LBO, the
+non-LBO incumbents expand more.
+
+00:20:09.490 --> 00:20:12.880 align:middle line:84%
+Again, it's not highly
+significant effect,
+
+00:20:12.880 --> 00:20:18.460 align:middle line:84%
+but non-LBO
+incumbents expand more
+
+00:20:18.460 --> 00:20:20.850 align:middle line:84%
+when there are a lot of early
+LBO firms in the market.
+
+00:20:20.850 --> 00:20:27.010 align:middle line:90%
+
+
+00:20:27.010 --> 00:20:30.250 align:middle line:84%
+Third set of regressions
+is about de novo entry.
+
+00:20:30.250 --> 00:20:34.960 align:middle line:84%
+So de novo entry is looking at
+do you see brand new chains that
+
+00:20:34.960 --> 00:20:37.120 align:middle line:84%
+were never operating in
+this market before start
+
+00:20:37.120 --> 00:20:38.480 align:middle line:90%
+to open in stores?
+
+00:20:38.480 --> 00:20:41.320 align:middle line:84%
+And typically big national
+chains, they either
+
+00:20:41.320 --> 00:20:43.570 align:middle line:84%
+have a lot of stores in a
+city or no stores in a city.
+
+00:20:43.570 --> 00:20:45.612 align:middle line:84%
+Because if you're going
+to have stores in a city,
+
+00:20:45.612 --> 00:20:47.450 align:middle line:84%
+you need warehouses
+and things like that.
+
+00:20:47.450 --> 00:20:49.420 align:middle line:84%
+And then occasionally,
+the big chains
+
+00:20:49.420 --> 00:20:51.820 align:middle line:84%
+will decide, OK, now we're
+moving into this metro area,
+
+00:20:51.820 --> 00:20:53.920 align:middle line:90%
+and they'll build out there.
+
+00:20:53.920 --> 00:20:55.750 align:middle line:84%
+Also at the time,
+you were getting
+
+00:20:55.750 --> 00:20:59.410 align:middle line:84%
+Kmart and Walmart were
+expanding from just other things
+
+00:20:59.410 --> 00:21:01.690 align:middle line:90%
+into groceries.
+
+00:21:01.690 --> 00:21:04.480 align:middle line:90%
+And so what they find on--
+
+00:21:04.480 --> 00:21:07.150 align:middle line:84%
+what she finds on
+de novo entry is,
+
+00:21:07.150 --> 00:21:09.050 align:middle line:90%
+again, this coefficient here.
+
+00:21:09.050 --> 00:21:13.478 align:middle line:84%
+The more early LBOs there are
+in a city, the more likely
+
+00:21:13.478 --> 00:21:15.520 align:middle line:84%
+it is that we're going to
+see some new chain that
+
+00:21:15.520 --> 00:21:18.670 align:middle line:84%
+wasn't in the city, or
+Kmart, or Walmart opening up
+
+00:21:18.670 --> 00:21:22.170 align:middle line:90%
+new supermarkets there.
+
+00:21:22.170 --> 00:21:25.650 align:middle line:84%
+So I guess, overall,
+these results
+
+00:21:25.650 --> 00:21:31.830 align:middle line:84%
+are consistent with models in
+which LBOs make incumbents soft.
+
+00:21:31.830 --> 00:21:34.760 align:middle line:84%
+This could be-- what the
+soft is in terms of entry,
+
+00:21:34.760 --> 00:21:37.350 align:middle line:84%
+it could be the LBO
+firms are raising prices,
+
+00:21:37.350 --> 00:21:40.230 align:middle line:84%
+or it could be that the LBO
+firms are capacity constrained.
+
+00:21:40.230 --> 00:21:43.530 align:middle line:84%
+And that leads the rivals
+to introduce more stores.
+
+00:21:43.530 --> 00:21:46.710 align:middle line:84%
+Certainly, if it's the
+raising prices part,
+
+00:21:46.710 --> 00:21:50.070 align:middle line:84%
+the raising prices one
+would be, that is--
+
+00:21:50.070 --> 00:21:53.310 align:middle line:84%
+you do want to be soft in
+price competition games.
+
+00:21:53.310 --> 00:21:55.770 align:middle line:84%
+So if it's a commitment
+to raise your prices that
+
+00:21:55.770 --> 00:21:59.100 align:middle line:84%
+gets your rivals to raise
+their prices, that's good.
+
+00:21:59.100 --> 00:22:02.910 align:middle line:84%
+This isn't to say
+that you do more--
+
+00:22:02.910 --> 00:22:04.950 align:middle line:84%
+this isn't to say that
+strategic effect of LBOs
+
+00:22:04.950 --> 00:22:06.585 align:middle line:84%
+is what makes you
+do an LBO, but it
+
+00:22:06.585 --> 00:22:08.460 align:middle line:84%
+is saying that it's one
+of the considerations
+
+00:22:08.460 --> 00:22:10.140 align:middle line:84%
+in whether to take
+an LBO is-- one
+
+00:22:10.140 --> 00:22:12.240 align:middle line:84%
+of the benefits the
+LBO would be providing
+
+00:22:12.240 --> 00:22:14.670 align:middle line:84%
+is the committing to
+raise your price, which
+
+00:22:14.670 --> 00:22:16.295 align:middle line:84%
+gets your rivals to
+raise their prices.
+
+00:22:16.295 --> 00:22:18.628 align:middle line:84%
+And that would be one of the
+factors in the calculation.
+
+00:22:18.628 --> 00:22:20.550 align:middle line:84%
+So in some sense, you
+would do more LBOs
+
+00:22:20.550 --> 00:22:23.850 align:middle line:84%
+than you would in the
+open loop LBO equilibrium
+
+00:22:23.850 --> 00:22:26.430 align:middle line:84%
+where the rivals didn't know
+that you were doing the LBO
+
+00:22:26.430 --> 00:22:27.950 align:middle line:84%
+and it couldn't
+affect your pricing.
+
+00:22:27.950 --> 00:22:30.880 align:middle line:90%
+
+
+00:22:30.880 --> 00:22:33.000 align:middle line:90%
+Questions on that?
+
+00:22:33.000 --> 00:22:36.990 align:middle line:84%
+And then Judy also has
+a nice follow-up paper
+
+00:22:36.990 --> 00:22:41.340 align:middle line:84%
+in the Journal of Finance which
+looks directly at pricing.
+
+00:22:41.340 --> 00:22:48.010 align:middle line:84%
+So this one, again,
+it's a fairly--
+
+00:22:48.010 --> 00:22:50.435 align:middle line:84%
+she's gotten data from
+supermarket scanner data,
+
+00:22:50.435 --> 00:22:52.060 align:middle line:84%
+and looking at
+supermarket scanner data
+
+00:22:52.060 --> 00:22:54.580 align:middle line:84%
+to compare how the firms
+with undertaken LBOs
+
+00:22:54.580 --> 00:22:56.750 align:middle line:84%
+priced compared
+to non-LBO firms.
+
+00:22:56.750 --> 00:22:59.500 align:middle line:84%
+And what she finds
+is that by 1992,
+
+00:22:59.500 --> 00:23:04.610 align:middle line:84%
+the firms that did LBOs have
+raised their prices by 2% to 3%.
+
+00:23:04.610 --> 00:23:08.380 align:middle line:90%
+
+
+00:23:08.380 --> 00:23:12.790 align:middle line:84%
+In markets where there isn't
+some dominant firm that
+
+00:23:12.790 --> 00:23:16.480 align:middle line:84%
+didn't do an LBO, then
+market level prices
+
+00:23:16.480 --> 00:23:18.770 align:middle line:90%
+typically go up after the LBO.
+
+00:23:18.770 --> 00:23:24.580 align:middle line:84%
+But in markets where you do have
+the dominant low debt firm, what
+
+00:23:24.580 --> 00:23:27.370 align:middle line:84%
+we see is that actually, on
+average in the market prices,
+
+00:23:27.370 --> 00:23:29.510 align:middle line:84%
+if the market level
+prices go down,
+
+00:23:29.510 --> 00:23:33.070 align:middle line:84%
+it seems like sometimes
+the low debt firms
+
+00:23:33.070 --> 00:23:35.140 align:middle line:90%
+are exploiting the LBO firms.
+
+00:23:35.140 --> 00:23:37.600 align:middle line:84%
+And the LBO firms are
+committing to cut prices,
+
+00:23:37.600 --> 00:23:39.190 align:middle line:84%
+and the LBO firms
+perhaps could be
+
+00:23:39.190 --> 00:23:42.520 align:middle line:84%
+deciding this is an opportunity
+for us to keep our prices low.
+
+00:23:42.520 --> 00:23:46.490 align:middle line:84%
+And we see some increased
+exits of LBO stores
+
+00:23:46.490 --> 00:23:48.830 align:middle line:84%
+where the LBO stores find
+it difficult to compete
+
+00:23:48.830 --> 00:23:50.410 align:middle line:90%
+with the non-LBO firms.
+
+00:23:50.410 --> 00:23:54.270 align:middle line:90%
+
+
+00:23:54.270 --> 00:23:55.440 align:middle line:90%
+Questions?
+
+00:23:55.440 --> 00:23:57.900 align:middle line:84%
+I mean, it's two
+nice papers that
+
+00:23:57.900 --> 00:24:00.062 align:middle line:84%
+are very much of
+that first approach
+
+00:24:00.062 --> 00:24:01.770 align:middle line:84%
+I said of just looking
+at the investment,
+
+00:24:01.770 --> 00:24:03.210 align:middle line:84%
+seeing what the effect
+of the investment is.
+
+00:24:03.210 --> 00:24:04.252 align:middle line:90%
+What does it do to firms?
+
+00:24:04.252 --> 00:24:07.810 align:middle line:90%
+
+
+00:24:07.810 --> 00:24:12.050 align:middle line:84%
+OK, so then the second paper
+I wanted to talk about,
+
+00:24:12.050 --> 00:24:18.340 align:middle line:84%
+this is a paper Sara and I
+wrote about entity deterrence
+
+00:24:18.340 --> 00:24:20.680 align:middle line:84%
+in the pharmaceutical
+industries.
+
+00:24:20.680 --> 00:24:25.000 align:middle line:84%
+So I guess basics
+of pharmaceuticals
+
+00:24:25.000 --> 00:24:30.010 align:middle line:90%
+is, you invent a new drug.
+
+00:24:30.010 --> 00:24:31.430 align:middle line:90%
+You patent the new drug.
+
+00:24:31.430 --> 00:24:32.830 align:middle line:84%
+After you patent
+the drug, you do
+
+00:24:32.830 --> 00:24:34.480 align:middle line:84%
+some number of years
+of clinical trials
+
+00:24:34.480 --> 00:24:37.825 align:middle line:84%
+to prove that the drug
+is safe and effective.
+
+00:24:37.825 --> 00:24:39.700 align:middle line:84%
+If you have enough, you
+present your evidence
+
+00:24:39.700 --> 00:24:42.260 align:middle line:84%
+that drug is safe and
+effective to the FDA.
+
+00:24:42.260 --> 00:24:46.300 align:middle line:84%
+They approve your drug for
+sale in the United States.
+
+00:24:46.300 --> 00:24:49.510 align:middle line:84%
+The clock has been
+ticking since you
+
+00:24:49.510 --> 00:24:51.610 align:middle line:84%
+patented the drug
+on how long you will
+
+00:24:51.610 --> 00:24:53.480 align:middle line:90%
+have patent protection over it.
+
+00:24:53.480 --> 00:24:55.720 align:middle line:84%
+There are various
+more complicated rules
+
+00:24:55.720 --> 00:24:59.590 align:middle line:84%
+about if it's taken you this
+long to get the drug approved,
+
+00:24:59.590 --> 00:25:01.650 align:middle line:84%
+you can get extensions
+to your patent term.
+
+00:25:01.650 --> 00:25:04.150 align:middle line:84%
+And there are also various ways
+you can get other extensions
+
+00:25:04.150 --> 00:25:04.983 align:middle line:90%
+to your patent term.
+
+00:25:04.983 --> 00:25:07.345 align:middle line:84%
+But all drugs will have
+some date at which--
+
+00:25:07.345 --> 00:25:10.840 align:middle line:90%
+
+
+00:25:10.840 --> 00:25:14.590 align:middle line:84%
+they'll have some date
+at which the price drops.
+
+00:25:14.590 --> 00:25:18.520 align:middle line:84%
+Prices of many drugs
+are quite high.
+
+00:25:18.520 --> 00:25:21.560 align:middle line:84%
+I think these days, most
+people have insurance.
+
+00:25:21.560 --> 00:25:24.790 align:middle line:84%
+But because most
+people have insurance,
+
+00:25:24.790 --> 00:25:27.482 align:middle line:84%
+many new drugs come out that
+treat high blood pressure,
+
+00:25:27.482 --> 00:25:28.940 align:middle line:84%
+or cholesterol
+reduction, whatever,
+
+00:25:28.940 --> 00:25:31.690 align:middle line:84%
+and they come out with
+prices of $1,000 a month,
+
+00:25:31.690 --> 00:25:34.730 align:middle line:90%
+or $2,000 a month, or whatever.
+
+00:25:34.730 --> 00:25:38.570 align:middle line:84%
+And then obviously, you
+have insurance as a copay.
+
+00:25:38.570 --> 00:25:41.860 align:middle line:84%
+But the firms are getting these
+very high $2,000 a month prices
+
+00:25:41.860 --> 00:25:42.650 align:middle line:90%
+for new drugs.
+
+00:25:42.650 --> 00:25:44.775 align:middle line:84%
+Now, sometimes people are
+looking at pricing things
+
+00:25:44.775 --> 00:25:46.870 align:middle line:90%
+at $50,000 a month.
+
+00:25:46.870 --> 00:25:49.720 align:middle line:84%
+At some point, the
+patent expires.
+
+00:25:49.720 --> 00:25:53.620 align:middle line:84%
+When the patent expires,
+there's something
+
+00:25:53.620 --> 00:25:56.498 align:middle line:84%
+called an abbreviated
+new drug approval, ANDA.
+
+00:25:56.498 --> 00:25:57.915 align:middle line:84%
+I think that's
+what it stands for.
+
+00:25:57.915 --> 00:26:00.610 align:middle line:90%
+
+
+00:26:00.610 --> 00:26:03.700 align:middle line:84%
+Rivals can come in,
+show that they're
+
+00:26:03.700 --> 00:26:05.320 align:middle line:84%
+producing a chemical
+compound that's
+
+00:26:05.320 --> 00:26:07.570 align:middle line:84%
+equivalent to the chemical
+compound being produced
+
+00:26:07.570 --> 00:26:12.670 align:middle line:84%
+by the branded drug manufacturer
+that was approved by the FDA.
+
+00:26:12.670 --> 00:26:15.010 align:middle line:84%
+Earlier in US history,
+you had to again prove
+
+00:26:15.010 --> 00:26:17.135 align:middle line:84%
+safety and effectiveness,
+and there was essentially
+
+00:26:17.135 --> 00:26:17.870 align:middle line:90%
+no generic entry.
+
+00:26:17.870 --> 00:26:22.120 align:middle line:84%
+Now, all you have to do is prove
+bioequivalence of your drug
+
+00:26:22.120 --> 00:26:23.540 align:middle line:90%
+with the existing drug.
+
+00:26:23.540 --> 00:26:27.310 align:middle line:84%
+Then you can come in and
+compete with the existing firm.
+
+00:26:27.310 --> 00:26:30.130 align:middle line:84%
+Typically, what happens is
+firms are going along charging
+
+00:26:30.130 --> 00:26:34.450 align:middle line:84%
+their $1,000 a month price,
+and then know, generics enter.
+
+00:26:34.450 --> 00:26:36.962 align:middle line:90%
+And generics just come in and--
+
+00:26:36.962 --> 00:26:38.920 align:middle line:84%
+there's some date the
+generic entry is allowed.
+
+00:26:38.920 --> 00:26:41.410 align:middle line:84%
+And the generic just
+goes like that and prices
+
+00:26:41.410 --> 00:26:44.150 align:middle line:84%
+at a small fraction of what
+the branded firm charges.
+
+00:26:44.150 --> 00:26:47.725 align:middle line:84%
+Strangely, the branded firm
+does not cut its price to match.
+
+00:26:47.725 --> 00:26:50.350 align:middle line:84%
+Typically, what the branded firm
+does, if anything, is do this,
+
+00:26:50.350 --> 00:26:52.300 align:middle line:90%
+and price even higher.
+
+00:26:52.300 --> 00:26:56.800 align:middle line:84%
+Because now, all they're serving
+is the people who will not buy--
+
+00:26:56.800 --> 00:27:00.340 align:middle line:84%
+people who will not buy a
+bioequivalent drug, and so
+
+00:27:00.340 --> 00:27:02.260 align:middle line:84%
+those people you might
+think are captive
+
+00:27:02.260 --> 00:27:04.680 align:middle line:84%
+and are not going to leave
+no matter what you charge.
+
+00:27:04.680 --> 00:27:06.730 align:middle line:84%
+But in any case, if
+you look at the market
+
+00:27:06.730 --> 00:27:09.982 align:middle line:84%
+shares of the branded drug,
+the market shares go like this.
+
+00:27:09.982 --> 00:27:11.690 align:middle line:84%
+The branded drug has
+a market share of 1,
+
+00:27:11.690 --> 00:27:14.950 align:middle line:84%
+and then it pretty quickly
+asymptotes to some very small
+
+00:27:14.950 --> 00:27:16.220 align:middle line:90%
+number, like 10%.
+
+00:27:16.220 --> 00:27:18.280 align:middle line:84%
+And then the generics
+go like this,
+
+00:27:18.280 --> 00:27:21.480 align:middle line:84%
+and then they start to
+survey the whole market.
+
+00:27:21.480 --> 00:27:28.720 align:middle line:84%
+So what's nice about
+drugs as a place
+
+00:27:28.720 --> 00:27:31.810 align:middle line:84%
+to study strategic
+investment is there's
+
+00:27:31.810 --> 00:27:34.280 align:middle line:84%
+no entry possible
+until some date,
+
+00:27:34.280 --> 00:27:36.530 align:middle line:84%
+and then there's some date
+on which entry is possible.
+
+00:27:36.530 --> 00:27:39.460 align:middle line:84%
+And looking at the FDA
+data, you know the date
+
+00:27:39.460 --> 00:27:41.630 align:middle line:90%
+at which the entry is possible.
+
+00:27:41.630 --> 00:27:44.770 align:middle line:84%
+And so we get this opportunity
+where there's no entry,
+
+00:27:44.770 --> 00:27:46.400 align:middle line:84%
+no entry possible,
+no entry possible.
+
+00:27:46.400 --> 00:27:48.130 align:middle line:84%
+Suddenly entry is
+possible, and you
+
+00:27:48.130 --> 00:27:51.610 align:middle line:84%
+can use that change in how firms
+behave around the time entry
+
+00:27:51.610 --> 00:27:54.040 align:middle line:84%
+becomes possible to
+identify what firms
+
+00:27:54.040 --> 00:27:55.395 align:middle line:90%
+might be doing to deter entry.
+
+00:27:55.395 --> 00:27:58.330 align:middle line:90%
+
+
+00:27:58.330 --> 00:28:01.000 align:middle line:84%
+So anyway, our data
+sample in this paper,
+
+00:28:01.000 --> 00:28:04.960 align:middle line:84%
+it's 63 branded drugs that lost
+patent protection at some point
+
+00:28:04.960 --> 00:28:11.160 align:middle line:90%
+between 1986 and 1992.
+
+00:28:11.160 --> 00:28:13.360 align:middle line:90%
+I think I said that already.
+
+00:28:13.360 --> 00:28:19.280 align:middle line:84%
+So this paper is, as I said,
+the reduced form approach.
+
+00:28:19.280 --> 00:28:22.780 align:middle line:84%
+We're trying to understand
+not what the incentives are.
+
+00:28:22.780 --> 00:28:26.380 align:middle line:84%
+We think that in many cases,
+the economics is simple enough
+
+00:28:26.380 --> 00:28:29.320 align:middle line:84%
+that we know what the incentives
+for pharmaceutical manufacturers
+
+00:28:29.320 --> 00:28:32.770 align:middle line:84%
+are to do, and how
+they would deter entry.
+
+00:28:32.770 --> 00:28:35.980 align:middle line:84%
+The question is, are they
+reacting to those incentives
+
+00:28:35.980 --> 00:28:39.070 align:middle line:84%
+to deter entry, and do we
+see them taking actions
+
+00:28:39.070 --> 00:28:42.370 align:middle line:84%
+to try to keep generic
+drugs out of their markets?
+
+00:28:42.370 --> 00:28:44.320 align:middle line:84%
+And the way we
+propose to do this
+
+00:28:44.320 --> 00:28:47.987 align:middle line:84%
+is to identify a prediction
+that we think differs
+
+00:28:47.987 --> 00:28:50.320 align:middle line:84%
+between the strategic model
+and the non-strategic model,
+
+00:28:50.320 --> 00:28:52.420 align:middle line:90%
+and then test that prediction.
+
+00:28:52.420 --> 00:28:56.320 align:middle line:84%
+So the prediction comes
+off two observations.
+
+00:28:56.320 --> 00:29:00.190 align:middle line:84%
+First observation is that
+strategic entry deterrence
+
+00:29:00.190 --> 00:29:05.170 align:middle line:84%
+models often predict that the
+relationship between investment
+
+00:29:05.170 --> 00:29:08.890 align:middle line:84%
+and market size is going
+to be non monotonic.
+
+00:29:08.890 --> 00:29:16.550 align:middle line:84%
+The idea is that if you're Eli
+Lilly and your patent on Prozac
+
+00:29:16.550 --> 00:29:20.240 align:middle line:84%
+is expiring, or if you're Pfizer
+and your patent on Lipitor
+
+00:29:20.240 --> 00:29:22.820 align:middle line:84%
+is expiring, there's
+nothing you can do
+
+00:29:22.820 --> 00:29:24.650 align:middle line:90%
+to stop entry from occurring.
+
+00:29:24.650 --> 00:29:28.460 align:middle line:84%
+Because Lipitor is bringing
+in billions of dollars
+
+00:29:28.460 --> 00:29:29.430 align:middle line:90%
+a year in profits.
+
+00:29:29.430 --> 00:29:31.920 align:middle line:90%
+It costs almost nothing to make.
+
+00:29:31.920 --> 00:29:33.810 align:middle line:84%
+As soon as the patent
+on Lipitor expires,
+
+00:29:33.810 --> 00:29:37.970 align:middle line:84%
+there's going to be a ton of
+generic atorvastatin firms.
+
+00:29:37.970 --> 00:29:41.670 align:middle line:84%
+There's nothing that
+Pfizer could do about that.
+
+00:29:41.670 --> 00:29:43.820 align:middle line:90%
+Most drugs in the data--
+
+00:29:43.820 --> 00:29:46.320 align:middle line:84%
+we think of drugs as having
+these high prices and incredibly
+
+00:29:46.320 --> 00:29:47.257 align:middle line:90%
+high revenues.
+
+00:29:47.257 --> 00:29:48.840 align:middle line:84%
+If you actually look
+at the full cross
+
+00:29:48.840 --> 00:29:51.810 align:middle line:84%
+section of FDA approved
+drugs with expiring patents,
+
+00:29:51.810 --> 00:29:54.000 align:middle line:90%
+most of them don't do anything.
+
+00:29:54.000 --> 00:29:56.380 align:middle line:90%
+Firms get drugs.
+
+00:29:56.380 --> 00:29:58.150 align:middle line:90%
+They get the drugs approved.
+
+00:29:58.150 --> 00:30:00.760 align:middle line:84%
+But then the drug gets
+approved, but it's not
+
+00:30:00.760 --> 00:30:03.190 align:middle line:84%
+as good as some other
+drug in the market.
+
+00:30:03.190 --> 00:30:06.710 align:middle line:84%
+Or it was the best drug
+when it was first patented,
+
+00:30:06.710 --> 00:30:09.220 align:middle line:84%
+but then some new drug has
+come in and supplanted it.
+
+00:30:09.220 --> 00:30:12.040 align:middle line:84%
+So many, many drugs, basically,
+to first order approximation,
+
+00:30:12.040 --> 00:30:13.300 align:middle line:90%
+nobody takes.
+
+00:30:13.300 --> 00:30:15.010 align:middle line:84%
+And if you have a drug
+that nobody takes,
+
+00:30:15.010 --> 00:30:16.802 align:middle line:84%
+there's never going to
+be any generic entry
+
+00:30:16.802 --> 00:30:20.770 align:middle line:84%
+because the generic firm is not
+going to come into a market that
+
+00:30:20.770 --> 00:30:22.600 align:middle line:84%
+already has no
+patients when it's got
+
+00:30:22.600 --> 00:30:24.410 align:middle line:90%
+pharmaceutical reps pushing it.
+
+00:30:24.410 --> 00:30:28.210 align:middle line:84%
+And so our thought on the paper
+is that these entry deterrence
+
+00:30:28.210 --> 00:30:30.700 align:middle line:84%
+incentives really are
+something that exist just
+
+00:30:30.700 --> 00:30:32.560 align:middle line:84%
+in intermediate sized
+markets, and markets
+
+00:30:32.560 --> 00:30:35.850 align:middle line:84%
+that are big enough so that
+generic firms would want
+
+00:30:35.850 --> 00:30:38.970 align:middle line:84%
+to bother, but small enough that
+it's plausible that you could
+
+00:30:38.970 --> 00:30:40.710 align:middle line:84%
+keep the generic
+firms out by taking
+
+00:30:40.710 --> 00:30:42.430 align:middle line:90%
+some set of strategic actions.
+
+00:30:42.430 --> 00:30:46.530 align:middle line:84%
+And so there's this potential
+non-monotonic effect of there
+
+00:30:46.530 --> 00:30:48.130 align:middle line:90%
+will be some action.
+
+00:30:48.130 --> 00:30:50.670 align:middle line:84%
+And in small markets,
+you don't do this action.
+
+00:30:50.670 --> 00:30:52.540 align:middle line:84%
+And in big markets,
+you do this action.
+
+00:30:52.540 --> 00:30:56.470 align:middle line:84%
+And then in really big markets,
+you don't do the action again.
+
+00:30:56.470 --> 00:31:01.230 align:middle line:84%
+And then the other observation
+is that non-strategic models--
+
+00:31:01.230 --> 00:31:05.910 align:middle line:84%
+so if I'm putting here
+market size on this,
+
+00:31:05.910 --> 00:31:10.420 align:middle line:84%
+and investment on this
+axis, the other observation
+
+00:31:10.420 --> 00:31:15.070 align:middle line:84%
+is that non-strategic models
+like the model ignoring
+
+00:31:15.070 --> 00:31:17.350 align:middle line:84%
+that entry deterrence
+incentives often
+
+00:31:17.350 --> 00:31:19.660 align:middle line:84%
+predict that the relationship
+between market size
+
+00:31:19.660 --> 00:31:21.940 align:middle line:84%
+and investment is
+going to be monotone.
+
+00:31:21.940 --> 00:31:25.690 align:middle line:84%
+We talk in the paper about there
+being basically two effects that
+
+00:31:25.690 --> 00:31:29.080 align:middle line:84%
+determine whether we should
+see more or less investments
+
+00:31:29.080 --> 00:31:31.300 align:middle line:90%
+in big markets.
+
+00:31:31.300 --> 00:31:33.865 align:middle line:84%
+One is the direct
+effect, and it's just,
+
+00:31:33.865 --> 00:31:38.530 align:middle line:84%
+is a marginal investment
+return larger in a big market
+
+00:31:38.530 --> 00:31:39.980 align:middle line:90%
+than it is in a small market?
+
+00:31:39.980 --> 00:31:42.640 align:middle line:84%
+And many investments
+like TV commercials,
+
+00:31:42.640 --> 00:31:46.900 align:middle line:84%
+like you may be aware that
+there's just-- if you watch TV,
+
+00:31:46.900 --> 00:31:49.120 align:middle line:84%
+there's zillions of these
+annoying commercials that
+
+00:31:49.120 --> 00:31:51.295 align:middle line:84%
+go on for a minute talking
+about all the conditions
+
+00:31:51.295 --> 00:31:53.920 align:middle line:84%
+that someone might have, and all
+the side effects of this drug,
+
+00:31:53.920 --> 00:31:59.320 align:middle line:84%
+and buy Xeljanz or whatever
+at the end of the commercial.
+
+00:31:59.320 --> 00:32:02.477 align:middle line:84%
+Obviously, commercials
+like that are only
+
+00:32:02.477 --> 00:32:04.810 align:middle line:84%
+going to be feasible for
+conditions that a lot of people
+
+00:32:04.810 --> 00:32:05.418 align:middle line:90%
+have.
+
+00:32:05.418 --> 00:32:07.960 align:middle line:84%
+If there's some condition that's
+very rare in the population,
+
+00:32:07.960 --> 00:32:10.100 align:middle line:84%
+you can't buy a
+national TV commercial
+
+00:32:10.100 --> 00:32:11.195 align:middle line:90%
+advertising your drug.
+
+00:32:11.195 --> 00:32:13.070 align:middle line:84%
+If there's a condition
+that many people have,
+
+00:32:13.070 --> 00:32:14.420 align:middle line:90%
+you can buy the commercial.
+
+00:32:14.420 --> 00:32:18.855 align:middle line:84%
+So we'd call that the direct
+effect of investment returns.
+
+00:32:18.855 --> 00:32:20.480 align:middle line:84%
+The more people who
+have the condition,
+
+00:32:20.480 --> 00:32:25.720 align:middle line:84%
+the more you're going to invest
+in over-the-air TV advertising.
+
+00:32:25.720 --> 00:32:30.430 align:middle line:84%
+A second effect-- do I
+have second effect here?--
+
+00:32:30.430 --> 00:32:32.470 align:middle line:90%
+strategic effect.
+
+00:32:32.470 --> 00:32:35.860 align:middle line:84%
+The second strategic
+effect is, are the returns
+
+00:32:35.860 --> 00:32:38.500 align:middle line:84%
+to this investment bigger
+in a monopoly market,
+
+00:32:38.500 --> 00:32:40.240 align:middle line:90%
+or in a duopoly market?
+
+00:32:40.240 --> 00:32:45.970 align:middle line:84%
+Because the bigger is the
+market, the more likely
+
+00:32:45.970 --> 00:32:48.108 align:middle line:84%
+you are to end up
+with competition.
+
+00:32:48.108 --> 00:32:49.900 align:middle line:84%
+And so you're going to
+have to think about,
+
+00:32:49.900 --> 00:32:52.390 align:middle line:84%
+is this an investment that
+I'm making more valuable when
+
+00:32:52.390 --> 00:32:54.040 align:middle line:84%
+there's competition,
+or more value when
+
+00:32:54.040 --> 00:32:55.780 align:middle line:90%
+there's no competition?
+
+00:32:55.780 --> 00:32:58.817 align:middle line:84%
+So if those two effects
+go in the same way--
+
+00:32:58.817 --> 00:33:01.150 align:middle line:84%
+this is something you want
+to invest more in big markets
+
+00:33:01.150 --> 00:33:02.590 align:middle line:84%
+than small markets,
+and this thing
+
+00:33:02.590 --> 00:33:04.990 align:middle line:84%
+you want to invest more
+in oligopoly markets
+
+00:33:04.990 --> 00:33:06.520 align:middle line:90%
+than in monopoly markets--
+
+00:33:06.520 --> 00:33:08.800 align:middle line:84%
+then we're going to see
+a monotone relationship
+
+00:33:08.800 --> 00:33:11.170 align:middle line:84%
+between market size
+and the investment.
+
+00:33:11.170 --> 00:33:13.570 align:middle line:84%
+And so if you have
+investments like that,
+
+00:33:13.570 --> 00:33:15.500 align:middle line:84%
+we think those two effects
+go in the same way,
+
+00:33:15.500 --> 00:33:16.875 align:middle line:84%
+we would expect
+it to be monotone
+
+00:33:16.875 --> 00:33:18.808 align:middle line:84%
+if there wasn't the
+entry deterrence motive.
+
+00:33:18.808 --> 00:33:20.350 align:middle line:84%
+But with the entry
+deterrence motive,
+
+00:33:20.350 --> 00:33:24.700 align:middle line:84%
+we could look for a
+non-monotone pattern.
+
+00:33:24.700 --> 00:33:27.770 align:middle line:84%
+I think I have several
+more slides on this.
+
+00:33:27.770 --> 00:33:29.570 align:middle line:90%
+I'll see how many of them I do.
+
+00:33:29.570 --> 00:33:33.920 align:middle line:84%
+So here would be an example
+of a simple numerical model
+
+00:33:33.920 --> 00:33:40.490 align:middle line:84%
+I can solve that has this
+property, monotone effect
+
+00:33:40.490 --> 00:33:41.960 align:middle line:84%
+without entry
+deterrence motives,
+
+00:33:41.960 --> 00:33:44.460 align:middle line:84%
+and a non-monotone with the
+entry deterrence motives.
+
+00:33:44.460 --> 00:33:47.540 align:middle line:84%
+So here, think about a
+cross section of markets,
+
+00:33:47.540 --> 00:33:51.020 align:middle line:84%
+and the markets are identical
+other than the number of people,
+
+00:33:51.020 --> 00:33:52.520 align:middle line:90%
+zi, who--
+
+00:33:52.520 --> 00:33:55.220 align:middle line:84%
+you can think of this as the
+market for a particular drug,
+
+00:33:55.220 --> 00:34:00.250 align:middle line:84%
+and zi is the number of people
+who would be served by the drug.
+
+00:34:00.250 --> 00:34:03.640 align:middle line:84%
+Assume that each
+market has a continuum
+
+00:34:03.640 --> 00:34:08.199 align:middle line:84%
+of types with theta distributed
+uniformly on 0 and 1.
+
+00:34:08.199 --> 00:34:13.280 align:middle line:84%
+Assume that this advertising
+has this technology where
+
+00:34:13.280 --> 00:34:18.440 align:middle line:84%
+A is my per-consumer
+spending on the advertising.
+
+00:34:18.440 --> 00:34:22.190 align:middle line:84%
+And if I spend A per
+consumer on the advertising,
+
+00:34:22.190 --> 00:34:27.250 align:middle line:84%
+then consumers are going to
+get utility theta times root 2A
+
+00:34:27.250 --> 00:34:30.429 align:middle line:84%
+minus p1 if they buy
+the branded drug,
+
+00:34:30.429 --> 00:34:34.530 align:middle line:84%
+1/2 theta root 2A minus p if
+they buy the generic drug,
+
+00:34:34.530 --> 00:34:38.380 align:middle line:84%
+my rival, and 0 if
+they buy neither good.
+
+00:34:38.380 --> 00:34:40.150 align:middle line:84%
+So a motivation
+for this technology
+
+00:34:40.150 --> 00:34:46.060 align:middle line:84%
+would be some drugs treat
+diseases that are typically
+
+00:34:46.060 --> 00:34:48.760 align:middle line:90%
+managed by specialists.
+
+00:34:48.760 --> 00:34:51.850 align:middle line:84%
+The way you market drugs that
+are sold to specialists, rather
+
+00:34:51.850 --> 00:34:54.940 align:middle line:84%
+than putting on TV commercials,
+you just send sales reps
+
+00:34:54.940 --> 00:34:56.060 align:middle line:90%
+to the specialists.
+
+00:34:56.060 --> 00:34:58.480 align:middle line:84%
+So if this is a not
+very common disease,
+
+00:34:58.480 --> 00:35:02.050 align:middle line:84%
+you have the top 25 specialists
+in this disease in the Boston
+
+00:35:02.050 --> 00:35:02.620 align:middle line:90%
+area.
+
+00:35:02.620 --> 00:35:05.390 align:middle line:84%
+You send a sales rep to
+visit every one of them.
+
+00:35:05.390 --> 00:35:08.200 align:middle line:84%
+You tell them one on one about
+the drug and all the newest
+
+00:35:08.200 --> 00:35:10.600 align:middle line:84%
+data on its
+effectiveness, and you try
+
+00:35:10.600 --> 00:35:12.400 align:middle line:90%
+to get them to prescribe it.
+
+00:35:12.400 --> 00:35:15.970 align:middle line:84%
+So we're modeling that as the
+more you spend on advertising,
+
+00:35:15.970 --> 00:35:18.740 align:middle line:84%
+the higher utility people will
+have for buying your drug.
+
+00:35:18.740 --> 00:35:21.340 align:middle line:84%
+But because the doctors
+you're talking to
+
+00:35:21.340 --> 00:35:23.920 align:middle line:84%
+will know that the
+generic is also
+
+00:35:23.920 --> 00:35:26.350 align:middle line:84%
+much the same in
+this model, I'm going
+
+00:35:26.350 --> 00:35:28.100 align:middle line:84%
+to assume that
+people get utility--
+
+00:35:28.100 --> 00:35:29.860 align:middle line:84%
+when you raise
+people's willingness
+
+00:35:29.860 --> 00:35:32.120 align:middle line:84%
+to pay for your drug, you
+also raise their willingness
+
+00:35:32.120 --> 00:35:34.250 align:middle line:90%
+to pay for the generic drug.
+
+00:35:34.250 --> 00:35:38.104 align:middle line:90%
+What happens in this model--
+
+00:35:38.104 --> 00:35:38.812 align:middle line:90%
+give me a second.
+
+00:35:38.812 --> 00:35:39.771 align:middle line:90%
+It's right here or not.
+
+00:35:39.771 --> 00:35:40.430 align:middle line:90%
+Nope, OK.
+
+00:35:40.430 --> 00:35:42.020 align:middle line:84%
+Anyway, what happens
+in this model
+
+00:35:42.020 --> 00:35:44.000 align:middle line:84%
+I will explain it a
+little more later.
+
+00:35:44.000 --> 00:35:47.210 align:middle line:84%
+If there's no strategic
+entry deterrence motive,
+
+00:35:47.210 --> 00:35:52.390 align:middle line:84%
+this is a model where you would
+do less investing the larger is
+
+00:35:52.390 --> 00:35:52.905 align:middle line:90%
+the market.
+
+00:35:52.905 --> 00:35:55.030 align:middle line:84%
+And you're going to do less
+investing the larger is
+
+00:35:55.030 --> 00:35:58.330 align:middle line:84%
+the market because the larger
+is the market, the more likely
+
+00:35:58.330 --> 00:36:00.670 align:middle line:84%
+it is that the
+generic competitor is
+
+00:36:00.670 --> 00:36:02.180 align:middle line:90%
+going to end up entering.
+
+00:36:02.180 --> 00:36:04.360 align:middle line:84%
+If the generic competitor
+ends up entering,
+
+00:36:04.360 --> 00:36:08.230 align:middle line:84%
+it's as if the gain you're
+getting is 1/2 theta root 2A
+
+00:36:08.230 --> 00:36:10.750 align:middle line:90%
+instead of theta root 2A.
+
+00:36:10.750 --> 00:36:13.263 align:middle line:84%
+Because it's only
+the marginal way
+
+00:36:13.263 --> 00:36:15.430 align:middle line:84%
+that increases your value
+relative to the competitor
+
+00:36:15.430 --> 00:36:16.130 align:middle line:90%
+that matters.
+
+00:36:16.130 --> 00:36:19.300 align:middle line:84%
+So the bigger is the market,
+the more likely generics
+
+00:36:19.300 --> 00:36:24.260 align:middle line:90%
+are going to enter and profit.
+
+00:36:24.260 --> 00:36:26.140 align:middle line:84%
+And so therefore,
+advertising is monotone
+
+00:36:26.140 --> 00:36:29.308 align:middle line:90%
+decreasing in the market size.
+
+00:36:29.308 --> 00:36:30.850 align:middle line:84%
+In some sense, this
+is what you would
+
+00:36:30.850 --> 00:36:33.490 align:middle line:84%
+do if you knew entry was
+never going to occur,
+
+00:36:33.490 --> 00:36:35.865 align:middle line:84%
+and this is what you would do
+if you knew entry was going
+
+00:36:35.865 --> 00:36:38.420 align:middle line:90%
+to occur with probability 1.
+
+00:36:38.420 --> 00:36:41.030 align:middle line:84%
+But if you look at the
+strategic entry in this model,
+
+00:36:41.030 --> 00:36:42.620 align:middle line:84%
+the strategic entry
+will be like this.
+
+00:36:42.620 --> 00:36:45.140 align:middle line:84%
+It'll have this
+non-monotone pattern where
+
+00:36:45.140 --> 00:36:48.800 align:middle line:84%
+it departs from the
+strategic one, dips way down,
+
+00:36:48.800 --> 00:36:50.420 align:middle line:90%
+and then comes back up.
+
+00:36:50.420 --> 00:36:52.130 align:middle line:90%
+What's this dip?
+
+00:36:52.130 --> 00:36:56.690 align:middle line:84%
+The dip is I'm trying to
+keep my market small enough
+
+00:36:56.690 --> 00:36:59.520 align:middle line:84%
+so that the generics don't
+come in and compete with me.
+
+00:36:59.520 --> 00:37:02.030 align:middle line:84%
+So what I do is I
+do less advertising.
+
+00:37:02.030 --> 00:37:04.910 align:middle line:84%
+With less advertising,
+I have lower sales.
+
+00:37:04.910 --> 00:37:07.922 align:middle line:84%
+Lower sales, less likely
+there's a generic competitor.
+
+00:37:07.922 --> 00:37:09.380 align:middle line:84%
+And so what I'm
+doing in some sense
+
+00:37:09.380 --> 00:37:11.870 align:middle line:84%
+is I'm keeping the
+market small so
+
+00:37:11.870 --> 00:37:14.540 align:middle line:84%
+that I can get monopoly
+profits in the small market
+
+00:37:14.540 --> 00:37:18.370 align:middle line:84%
+instead of getting oligopoly
+profits in a bigger market.
+
+00:37:18.370 --> 00:37:21.660 align:middle line:90%
+
+
+00:37:21.660 --> 00:37:23.140 align:middle line:90%
+And at some point, I give up.
+
+00:37:23.140 --> 00:37:25.902 align:middle line:84%
+Here, I start increasing
+my advertising again
+
+00:37:25.902 --> 00:37:27.610 align:middle line:84%
+because I realize that
+generics are going
+
+00:37:27.610 --> 00:37:28.693 align:middle line:90%
+to come in no matter what.
+
+00:37:28.693 --> 00:37:31.600 align:middle line:84%
+So I might as well be splitting
+the best possible market
+
+00:37:31.600 --> 00:37:33.670 align:middle line:84%
+with the generic
+competitor rather than
+
+00:37:33.670 --> 00:37:36.340 align:middle line:84%
+trying to keep it small enough
+to keep the generics out.
+
+00:37:36.340 --> 00:37:40.930 align:middle line:84%
+Anyway, so the example above,
+I was comparing investment
+
+00:37:40.930 --> 00:37:42.500 align:middle line:90%
+in two different models.
+
+00:37:42.500 --> 00:37:45.490 align:middle line:84%
+The upper line that
+I drew for you,
+
+00:37:45.490 --> 00:37:49.330 align:middle line:84%
+that was the line for this no
+entry deterrence motive model
+
+00:37:49.330 --> 00:37:52.780 align:middle line:84%
+where the potential entrant only
+observes the advertising level
+
+00:37:52.780 --> 00:37:56.080 align:middle line:84%
+A after it's come into
+the market or not.
+
+00:37:56.080 --> 00:37:59.860 align:middle line:84%
+And then the other line was
+the standard strategic entry
+
+00:37:59.860 --> 00:38:03.145 align:middle line:84%
+deterrence model where I
+choose A, they observe A,
+
+00:38:03.145 --> 00:38:04.780 align:middle line:90%
+and they can stay out.
+
+00:38:04.780 --> 00:38:10.803 align:middle line:84%
+And so our argument was that
+the relationship between market
+
+00:38:10.803 --> 00:38:11.303 align:middle line:90%
+size--
+
+00:38:11.303 --> 00:38:15.240 align:middle line:90%
+
+
+00:38:15.240 --> 00:38:17.220 align:middle line:84%
+determining market size
+in the investment, A,
+
+00:38:17.220 --> 00:38:22.890 align:middle line:84%
+was going to be monotone on the
+bottom model and non-monotone
+
+00:38:22.890 --> 00:38:26.280 align:middle line:90%
+in the model on the top.
+
+00:38:26.280 --> 00:38:29.110 align:middle line:84%
+So anyway, the paper
+tries to explain
+
+00:38:29.110 --> 00:38:33.880 align:middle line:84%
+why is it that we're going to
+see these monotone patterns
+
+00:38:33.880 --> 00:38:36.690 align:middle line:90%
+versus non-monotone patterns?
+
+00:38:36.690 --> 00:38:39.240 align:middle line:84%
+How do we think about-- the
+strategic entry deterrence
+
+00:38:39.240 --> 00:38:43.790 align:middle line:84%
+model, you have a profit
+function pi 1 of A.
+
+00:38:43.790 --> 00:38:48.320 align:middle line:84%
+And I guess I didn't
+say here, you know,
+
+00:38:48.320 --> 00:38:51.710 align:middle line:84%
+in all of Tirole's
+models, Tirole always
+
+00:38:51.710 --> 00:38:54.710 align:middle line:84%
+has the entry cost,
+E being known.
+
+00:38:54.710 --> 00:38:56.570 align:middle line:84%
+And the entry cost,
+E, being known
+
+00:38:56.570 --> 00:38:59.030 align:middle line:84%
+means if I want to
+keep the entrant out,
+
+00:38:59.030 --> 00:39:00.450 align:middle line:90%
+I have to distort this far.
+
+00:39:00.450 --> 00:39:02.867 align:middle line:84%
+And going this far keeps them
+out, or going less than that
+
+00:39:02.867 --> 00:39:03.960 align:middle line:90%
+doesn't keep them out.
+
+00:39:03.960 --> 00:39:06.170 align:middle line:84%
+In empirical work,
+we're always going
+
+00:39:06.170 --> 00:39:08.600 align:middle line:84%
+to be making the
+entry cost, E, random
+
+00:39:08.600 --> 00:39:13.820 align:middle line:84%
+and have it unpredictable to the
+incumbent exactly what's going
+
+00:39:13.820 --> 00:39:17.020 align:middle line:90%
+to keep the entrant out or not.
+
+00:39:17.020 --> 00:39:23.570 align:middle line:84%
+So if I think about what's my
+profit if I choose investment A,
+
+00:39:23.570 --> 00:39:25.070 align:middle line:90%
+I don't know the entry cost.
+
+00:39:25.070 --> 00:39:29.630 align:middle line:84%
+So assume that the entry cost,
+E, has some distribution, F.
+
+00:39:29.630 --> 00:39:35.270 align:middle line:84%
+So F of pi 2 duopoly of A is
+the probability that my rival's
+
+00:39:35.270 --> 00:39:38.600 align:middle line:84%
+entry cost draw is low
+enough that the rival comes
+
+00:39:38.600 --> 00:39:41.120 align:middle line:84%
+in and competes with
+me, in which case
+
+00:39:41.120 --> 00:39:47.080 align:middle line:84%
+I will get the duopoly profits
+that you get after investment A.
+
+00:39:47.080 --> 00:39:50.420 align:middle line:84%
+The other case is when
+the entry cost is high.
+
+00:39:50.420 --> 00:39:53.950 align:middle line:84%
+If the entry cost is high, which
+happens with 1 minus F of pi 2D
+
+00:39:53.950 --> 00:39:58.030 align:middle line:84%
+star of A, then I'm going to get
+to be a monopolist and get this
+
+00:39:58.030 --> 00:39:59.380 align:middle line:90%
+profit level.
+
+00:39:59.380 --> 00:40:02.210 align:middle line:84%
+And then I have a cost
+of doing the advertising.
+
+00:40:02.210 --> 00:40:06.910 align:middle line:90%
+
+
+00:40:06.910 --> 00:40:11.330 align:middle line:84%
+The model on the
+bottom of my board
+
+00:40:11.330 --> 00:40:13.250 align:middle line:84%
+was different in
+that the entrant only
+
+00:40:13.250 --> 00:40:16.370 align:middle line:84%
+observed A after making
+its entry decision.
+
+00:40:16.370 --> 00:40:18.290 align:middle line:84%
+So again, this is a
+shorthand for your not
+
+00:40:18.290 --> 00:40:22.460 align:middle line:84%
+thinking about the effect
+of A on the entrant.
+
+00:40:22.460 --> 00:40:27.740 align:middle line:84%
+So if the entrant
+wasn't observing A,
+
+00:40:27.740 --> 00:40:29.750 align:middle line:90%
+what advertising would you do?
+
+00:40:29.750 --> 00:40:32.000 align:middle line:84%
+There, the entry
+decision doesn't
+
+00:40:32.000 --> 00:40:35.700 align:middle line:84%
+depend on A. The entry
+deterrent depends on A star--
+
+00:40:35.700 --> 00:40:40.500 align:middle line:84%
+what the incumbent
+expects you to-- what
+
+00:40:40.500 --> 00:40:42.783 align:middle line:84%
+the potential entrant
+expects you to invest.
+
+00:40:42.783 --> 00:40:44.700 align:middle line:84%
+So you want to think
+about writing your profit
+
+00:40:44.700 --> 00:40:46.290 align:middle line:90%
+as a function of two things--
+
+00:40:46.290 --> 00:40:48.870 align:middle line:84%
+the actual advertising
+that you do,
+
+00:40:48.870 --> 00:40:51.166 align:middle line:84%
+and the equilibrium
+level of advertising.
+
+00:40:51.166 --> 00:40:53.984 align:middle line:90%
+
+
+00:40:53.984 --> 00:40:59.120 align:middle line:84%
+And here, the firm
+enters if its entry cost
+
+00:40:59.120 --> 00:41:00.980 align:middle line:84%
+is less than what
+duopoly profits would
+
+00:41:00.980 --> 00:41:04.040 align:middle line:84%
+be at the equilibrium
+level of advertising.
+
+00:41:04.040 --> 00:41:06.020 align:middle line:84%
+But then, the actual
+profits received
+
+00:41:06.020 --> 00:41:08.490 align:middle line:84%
+depend on the true
+level of advertising.
+
+00:41:08.490 --> 00:41:10.790 align:middle line:84%
+Again, entry depends on
+the equilibrium level
+
+00:41:10.790 --> 00:41:12.180 align:middle line:90%
+of advertising.
+
+00:41:12.180 --> 00:41:15.270 align:middle line:84%
+Monopoly profit depends
+on the true advertising.
+
+00:41:15.270 --> 00:41:17.960 align:middle line:84%
+Cost of it depends on
+the true advertising.
+
+00:41:17.960 --> 00:41:21.470 align:middle line:84%
+So when I think about the first
+order conditions for this profit
+
+00:41:21.470 --> 00:41:23.600 align:middle line:84%
+maximization problem
+versus this one,
+
+00:41:23.600 --> 00:41:25.250 align:middle line:84%
+the two first order
+conditions are
+
+00:41:25.250 --> 00:41:28.130 align:middle line:84%
+going to differ
+because of the fact
+
+00:41:28.130 --> 00:41:31.800 align:middle line:84%
+that here, there's a derivative
+with respect to A in this term,
+
+00:41:31.800 --> 00:41:35.120 align:middle line:84%
+and here, changing A
+doesn't affect this term.
+
+00:41:35.120 --> 00:41:38.160 align:middle line:84%
+So that's what makes the
+two problems different.
+
+00:41:38.160 --> 00:41:40.750 align:middle line:90%
+
+
+00:41:40.750 --> 00:41:43.010 align:middle line:90%
+What is the extra term?
+
+00:41:43.010 --> 00:41:45.610 align:middle line:84%
+So they have the same
+first order conditions.
+
+00:41:45.610 --> 00:41:48.340 align:middle line:84%
+Except if you think about
+what's the effect that
+
+00:41:48.340 --> 00:41:50.710 align:middle line:84%
+comes from differentiating
+this with respect to A,
+
+00:41:50.710 --> 00:41:55.060 align:middle line:84%
+it's that it's the derivative
+of this with respect to A times
+
+00:41:55.060 --> 00:42:00.340 align:middle line:84%
+this plus the derivative of this
+with respect to A times that.
+
+00:42:00.340 --> 00:42:02.030 align:middle line:90%
+That's the new term.
+
+00:42:02.030 --> 00:42:05.830 align:middle line:84%
+So the extra entry
+deterrence term is--
+
+00:42:05.830 --> 00:42:09.360 align:middle line:90%
+and this is intuitive--
+
+00:42:09.360 --> 00:42:14.850 align:middle line:84%
+how much does A affect
+the duopoly profits
+
+00:42:14.850 --> 00:42:20.980 align:middle line:84%
+that the firm is going to
+get times the probability
+
+00:42:20.980 --> 00:42:24.130 align:middle line:84%
+that that effect
+on profits is going
+
+00:42:24.130 --> 00:42:26.560 align:middle line:90%
+to affect 2's entry decision.
+
+00:42:26.560 --> 00:42:28.990 align:middle line:84%
+And it's going to affect 2's
+entry decision if and only
+
+00:42:28.990 --> 00:42:33.610 align:middle line:84%
+if his entry cost is
+identical to the profits,
+
+00:42:33.610 --> 00:42:36.410 align:middle line:90%
+or within D pi of the profits.
+
+00:42:36.410 --> 00:42:42.617 align:middle line:84%
+And then if you do effect entry,
+the extra profit that you get
+
+00:42:42.617 --> 00:42:44.200 align:middle line:84%
+is the difference
+between the monopoly
+
+00:42:44.200 --> 00:42:45.660 align:middle line:90%
+profit and the duopoly profit.
+
+00:42:45.660 --> 00:42:49.004 align:middle line:90%
+
+
+00:42:49.004 --> 00:42:50.600 align:middle line:90%
+And this term--
+
+00:42:50.600 --> 00:42:52.570 align:middle line:90%
+[INAUDIBLE] says that?
+
+00:42:52.570 --> 00:42:53.070 align:middle line:90%
+No.
+
+00:42:53.070 --> 00:42:55.360 align:middle line:90%
+OK, yeah.
+
+00:42:55.360 --> 00:42:59.770 align:middle line:84%
+This term is where the
+non-monotonicity comes from,
+
+00:42:59.770 --> 00:43:03.190 align:middle line:84%
+because this term is
+multiplied by the likelihood
+
+00:43:03.190 --> 00:43:05.620 align:middle line:84%
+that a small decrease
+in an entrant's profits
+
+00:43:05.620 --> 00:43:08.900 align:middle line:84%
+is going to be pivotal
+to their entry decision.
+
+00:43:08.900 --> 00:43:11.092 align:middle line:84%
+And so this is what creates
+the non-monotonicity.
+
+00:43:11.092 --> 00:43:13.550 align:middle line:84%
+You know, this we think of as
+a big number between monopoly
+
+00:43:13.550 --> 00:43:15.120 align:middle line:90%
+and duopoly profits.
+
+00:43:15.120 --> 00:43:17.690 align:middle line:84%
+This is just whatever
+effect your advertising
+
+00:43:17.690 --> 00:43:18.663 align:middle line:90%
+has on the rival.
+
+00:43:18.663 --> 00:43:20.330 align:middle line:84%
+But the thing that
+makes it non-monotone
+
+00:43:20.330 --> 00:43:23.130 align:middle line:84%
+is, is that change in
+your rival's profit
+
+00:43:23.130 --> 00:43:25.310 align:middle line:84%
+is going to be pivotal to
+whether they enter or not?
+
+00:43:25.310 --> 00:43:27.180 align:middle line:84%
+And that's going
+to be non-monotone.
+
+00:43:27.180 --> 00:43:31.836 align:middle line:90%
+
+
+00:43:31.836 --> 00:43:35.740 align:middle line:84%
+And then the second effect, I
+said this earlier in the paper,
+
+00:43:35.740 --> 00:43:39.910 align:middle line:84%
+there are these two reasons
+why investment normally
+
+00:43:39.910 --> 00:43:41.770 align:middle line:90%
+changes in market size.
+
+00:43:41.770 --> 00:43:46.430 align:middle line:84%
+It changes for this direct
+effect which I define here.
+
+00:43:46.430 --> 00:43:50.650 align:middle line:84%
+So there's this direct
+effect, which is just
+
+00:43:50.650 --> 00:43:52.640 align:middle line:90%
+its direct effect on pi 2.
+
+00:43:52.640 --> 00:43:56.500 align:middle line:84%
+And then there's the
+competition effect.
+
+00:43:56.500 --> 00:43:58.390 align:middle line:84%
+So the competition
+effect is, do you
+
+00:43:58.390 --> 00:44:06.520 align:middle line:84%
+want to do more in a
+duopoly or a monopoly?
+
+00:44:06.520 --> 00:44:10.600 align:middle line:84%
+And the direct effect
+is, do you want
+
+00:44:10.600 --> 00:44:14.050 align:middle line:84%
+to do more in a big
+market, or a small market?
+
+00:44:14.050 --> 00:44:15.940 align:middle line:84%
+And so in some
+sense, the theorem
+
+00:44:15.940 --> 00:44:18.760 align:middle line:84%
+says that there are, in that
+model, exactly two reasons
+
+00:44:18.760 --> 00:44:22.630 align:middle line:84%
+why you're changing investment
+as market size increases.
+
+00:44:22.630 --> 00:44:24.130 align:middle line:84%
+One is because of
+the direct effect,
+
+00:44:24.130 --> 00:44:26.130 align:middle line:84%
+and the other is because
+the competition effect.
+
+00:44:26.130 --> 00:44:28.870 align:middle line:84%
+If those two go in
+the same direction,
+
+00:44:28.870 --> 00:44:33.415 align:middle line:84%
+then the investment
+would be monotone.
+
+00:44:33.415 --> 00:44:35.540 align:middle line:84%
+And we can think about
+whether we expect investment
+
+00:44:35.540 --> 00:44:37.290 align:middle line:84%
+to be monotone by just
+thinking about what
+
+00:44:37.290 --> 00:44:41.300 align:middle line:84%
+are direct and competition
+effects of an investment.
+
+00:44:41.300 --> 00:44:46.460 align:middle line:84%
+And what I'd done in
+this model is clearly,
+
+00:44:46.460 --> 00:44:50.300 align:middle line:84%
+the fact that the advertising
+raised the value for the generic
+
+00:44:50.300 --> 00:44:52.800 align:middle line:84%
+is what gave it a negative
+competition effect.
+
+00:44:52.800 --> 00:44:54.800 align:middle line:84%
+If my rival is going to
+be benefiting from that
+
+00:44:54.800 --> 00:44:57.200 align:middle line:90%
+and raising--
+
+00:44:57.200 --> 00:45:03.320 align:middle line:84%
+I'm getting a smaller
+value in a duopoly,
+
+00:45:03.320 --> 00:45:06.530 align:middle line:84%
+I eliminated the
+direct effect by saying
+
+00:45:06.530 --> 00:45:10.650 align:middle line:84%
+A is a per-consumer
+spending on advertising.
+
+00:45:10.650 --> 00:45:12.110 align:middle line:84%
+And so it's a
+per-consumer spending
+
+00:45:12.110 --> 00:45:14.420 align:middle line:84%
+for a per-consumer
+benefit, so there's
+
+00:45:14.420 --> 00:45:16.790 align:middle line:84%
+no direct effect,
+big versus small,
+
+00:45:16.790 --> 00:45:19.670 align:middle line:84%
+if you're thinking of this
+as per-consumer spending.
+
+00:45:19.670 --> 00:45:22.190 align:middle line:84%
+And that technology where
+you're visiting doctors,
+
+00:45:22.190 --> 00:45:24.260 align:middle line:84%
+and the number of
+doctors you have to visit
+
+00:45:24.260 --> 00:45:26.060 align:middle line:84%
+is proportional
+number of patients,
+
+00:45:26.060 --> 00:45:29.060 align:middle line:84%
+it's plausible that
+the per-consumer cost
+
+00:45:29.060 --> 00:45:31.100 align:middle line:84%
+and the per-consumer
+benefit are the same.
+
+00:45:31.100 --> 00:45:34.320 align:middle line:84%
+So I've just basically
+eliminated direct effect.
+
+00:45:34.320 --> 00:45:36.050 align:middle line:84%
+And so once you
+eliminate direct effects,
+
+00:45:36.050 --> 00:45:37.550 align:middle line:84%
+it's going to be
+monotone increasing
+
+00:45:37.550 --> 00:45:39.380 align:middle line:84%
+or monotone decreasing depending
+on whether the competition
+
+00:45:39.380 --> 00:45:41.280 align:middle line:90%
+effect is positive or negative.
+
+00:45:41.280 --> 00:45:44.300 align:middle line:90%
+
+
+00:45:44.300 --> 00:45:45.870 align:middle line:90%
+Anyway, paper does other stuff.
+
+00:45:45.870 --> 00:45:51.890 align:middle line:84%
+So let me go to empirical
+application here.
+
+00:45:51.890 --> 00:45:55.140 align:middle line:84%
+There are 63 branded
+drugs in our data sample.
+
+00:45:55.140 --> 00:45:58.340 align:middle line:84%
+All the branded drugs
+lost patent protection
+
+00:45:58.340 --> 00:46:02.060 align:middle line:84%
+at some point between
+1986 and 1992.
+
+00:46:02.060 --> 00:46:05.720 align:middle line:84%
+And so we're going
+to think about
+
+00:46:05.720 --> 00:46:07.610 align:middle line:84%
+how does the behavior
+of incumbents
+
+00:46:07.610 --> 00:46:09.663 align:middle line:84%
+compare between big
+and small markets?
+
+00:46:09.663 --> 00:46:14.000 align:middle line:90%
+
+
+00:46:14.000 --> 00:46:15.950 align:middle line:90%
+So we're going to put--
+
+00:46:15.950 --> 00:46:17.960 align:middle line:84%
+generally, you're
+going to make up
+
+00:46:17.960 --> 00:46:22.250 align:middle line:84%
+graphs where we have
+market size on the x-axis.
+
+00:46:22.250 --> 00:46:29.310 align:middle line:84%
+What market size means for us
+is revenue some number of years
+
+00:46:29.310 --> 00:46:30.655 align:middle line:90%
+prior to patent expiration.
+
+00:46:30.655 --> 00:46:33.030 align:middle line:84%
+The thought is that if you're
+going to be doing something
+
+00:46:33.030 --> 00:46:35.370 align:middle line:84%
+with your drug to
+deter entry, that
+
+00:46:35.370 --> 00:46:37.155 align:middle line:90%
+comes closer to the entry date.
+
+00:46:37.155 --> 00:46:39.780 align:middle line:84%
+And so we're going to look a few
+years back from the entry date
+
+00:46:39.780 --> 00:46:41.520 align:middle line:90%
+and say, how big was the market?
+
+00:46:41.520 --> 00:46:45.330 align:middle line:84%
+That's our possibly exogenous
+measure of market size.
+
+00:46:45.330 --> 00:46:48.750 align:middle line:84%
+And then we're going to look
+at for potential strategic
+
+00:46:48.750 --> 00:46:50.490 align:middle line:90%
+investments.
+
+00:46:50.490 --> 00:46:52.540 align:middle line:90%
+One is detail advertising.
+
+00:46:52.540 --> 00:46:54.720 align:middle line:90%
+So detail advertising is--
+
+00:46:54.720 --> 00:46:56.730 align:middle line:84%
+strangely enough,
+data on this exists--
+
+00:46:56.730 --> 00:46:59.250 align:middle line:84%
+the expenditures by
+pharmaceutical firms
+
+00:46:59.250 --> 00:47:02.010 align:middle line:84%
+sending sales representatives
+to doctors offices
+
+00:47:02.010 --> 00:47:03.880 align:middle line:90%
+to tell them about their drugs.
+
+00:47:03.880 --> 00:47:06.515 align:middle line:84%
+And we have data on
+that at the drug level.
+
+00:47:06.515 --> 00:47:09.330 align:middle line:90%
+
+
+00:47:09.330 --> 00:47:14.920 align:middle line:84%
+Second strategic investment we
+have is journal advertising.
+
+00:47:14.920 --> 00:47:18.840 align:middle line:84%
+This is-- one thing you do
+with drugs is advertise them
+
+00:47:18.840 --> 00:47:21.550 align:middle line:84%
+in medical journals that
+are sold to doctors.
+
+00:47:21.550 --> 00:47:24.240 align:middle line:84%
+And so we know, for
+each drug in our sample,
+
+00:47:24.240 --> 00:47:27.300 align:middle line:84%
+how much money they were
+spending advertising them
+
+00:47:27.300 --> 00:47:30.400 align:middle line:90%
+to physicians.
+
+00:47:30.400 --> 00:47:33.070 align:middle line:84%
+Third strategic
+investment we look at
+
+00:47:33.070 --> 00:47:35.920 align:middle line:90%
+is presentation proliferation.
+
+00:47:35.920 --> 00:47:38.410 align:middle line:84%
+Something that
+people have discussed
+
+00:47:38.410 --> 00:47:42.400 align:middle line:84%
+firms doing to deter
+entry is, if you
+
+00:47:42.400 --> 00:47:46.550 align:middle line:84%
+go into your doctor with
+a prescription for--
+
+00:47:46.550 --> 00:47:48.550 align:middle line:84%
+you go into the pharmacy
+and have a prescription
+
+00:47:48.550 --> 00:47:54.250 align:middle line:84%
+for a 50-milligram
+tablet of some medicine,
+
+00:47:54.250 --> 00:47:56.960 align:middle line:84%
+and then they don't have
+a 50 milligram tablet,
+
+00:47:56.960 --> 00:47:59.530 align:middle line:84%
+they have a 100
+milligram tablet.
+
+00:47:59.530 --> 00:48:02.255 align:middle line:84%
+Sometimes, they can give you
+the 100 milligram tablets,
+
+00:48:02.255 --> 00:48:03.880 align:middle line:84%
+and give you a little
+pill cutter thing
+
+00:48:03.880 --> 00:48:05.150 align:middle line:90%
+that cuts the pills in half.
+
+00:48:05.150 --> 00:48:06.940 align:middle line:84%
+And you can turn
+one pill into two,
+
+00:48:06.940 --> 00:48:09.850 align:middle line:84%
+and take half of the
+100 milligram pill,
+
+00:48:09.850 --> 00:48:11.570 align:middle line:90%
+but sometimes you can't.
+
+00:48:11.570 --> 00:48:13.810 align:middle line:84%
+And certainly, if
+they've given you
+
+00:48:13.810 --> 00:48:17.415 align:middle line:84%
+a prescription for an ointment
+that contains this drug,
+
+00:48:17.415 --> 00:48:18.790 align:middle line:84%
+and they don't
+have the ointment,
+
+00:48:18.790 --> 00:48:20.680 align:middle line:84%
+they only have the
+oral, the pharmacist
+
+00:48:20.680 --> 00:48:23.728 align:middle line:84%
+can't sell you the generic
+ointment when you're
+
+00:48:23.728 --> 00:48:25.020 align:middle line:90%
+supposed to be taking the pill.
+
+00:48:25.020 --> 00:48:26.250 align:middle line:84%
+They can't sell you
+the gel cap if you're
+
+00:48:26.250 --> 00:48:27.840 align:middle line:84%
+supposed to be taking
+the pill, or the liquid
+
+00:48:27.840 --> 00:48:29.740 align:middle line:84%
+if you're supposed to be
+taking the pill, or whatever.
+
+00:48:29.740 --> 00:48:32.282 align:middle line:84%
+And so something you've heard
+that pharmaceutical firms might
+
+00:48:32.282 --> 00:48:35.610 align:middle line:84%
+do to deter entry
+is start producing
+
+00:48:35.610 --> 00:48:38.940 align:middle line:84%
+the drug in a zillion different
+varieties to, in some sense,
+
+00:48:38.940 --> 00:48:42.760 align:middle line:84%
+raise the cost of the entrance
+to come in and compete with you.
+
+00:48:42.760 --> 00:48:45.660 align:middle line:84%
+So if, instead of having
+one standard pill,
+
+00:48:45.660 --> 00:48:46.590 align:middle line:90%
+I have a whole bunch--
+
+00:48:46.590 --> 00:48:48.548 align:middle line:84%
+I have a regular pill,
+and a time release pill,
+
+00:48:48.548 --> 00:48:50.340 align:middle line:84%
+and a gel cap, and a
+something or other--
+
+00:48:50.340 --> 00:48:53.565 align:middle line:90%
+I can have many different--
+
+00:48:53.565 --> 00:48:55.440 align:middle line:84%
+if the generic only came
+in and only produced
+
+00:48:55.440 --> 00:48:57.610 align:middle line:84%
+the most popular
+presentation of the drug,
+
+00:48:57.610 --> 00:49:00.027 align:middle line:84%
+it would only be competing for
+a small part of the market.
+
+00:49:00.027 --> 00:49:02.520 align:middle line:84%
+And that could make it
+more difficult to enter.
+
+00:49:02.520 --> 00:49:06.280 align:middle line:84%
+And then the final thing
+that we do is just prices.
+
+00:49:06.280 --> 00:49:11.870 align:middle line:84%
+And again, I discussed
+some of these issues
+
+00:49:11.870 --> 00:49:14.870 align:middle line:84%
+about the entry deterrence--
+the entry deterrence
+
+00:49:14.870 --> 00:49:17.660 align:middle line:84%
+through signaling costs,
+or signaling something
+
+00:49:17.660 --> 00:49:20.120 align:middle line:84%
+about demand, or something
+where you set low prices
+
+00:49:20.120 --> 00:49:21.990 align:middle line:90%
+to try to deter entry.
+
+00:49:21.990 --> 00:49:25.040 align:middle line:84%
+And so we're going to
+look at these investments
+
+00:49:25.040 --> 00:49:28.850 align:middle line:84%
+and how the investments
+look when you graph them
+
+00:49:28.850 --> 00:49:29.837 align:middle line:90%
+against market size.
+
+00:49:29.837 --> 00:49:30.920 align:middle line:90%
+And do they look monotone?
+
+00:49:30.920 --> 00:49:32.520 align:middle line:90%
+Do they look non-monotone?
+
+00:49:32.520 --> 00:49:34.250 align:middle line:84%
+And what we're going
+to particularly do
+
+00:49:34.250 --> 00:49:38.930 align:middle line:84%
+is focus on four drugs that
+are in that intermediate range
+
+00:49:38.930 --> 00:49:40.910 align:middle line:90%
+where entry is uncertain.
+
+00:49:40.910 --> 00:49:43.100 align:middle line:84%
+Is that where we see a
+distortion in the direction
+
+00:49:43.100 --> 00:49:46.430 align:middle line:84%
+that you would expect
+the distortion?
+
+00:49:46.430 --> 00:49:49.280 align:middle line:84%
+And what distortions
+would you expect?
+
+00:49:49.280 --> 00:49:51.200 align:middle line:84%
+If I'm trying to
+deter entry, I'm
+
+00:49:51.200 --> 00:49:53.480 align:middle line:84%
+going to do less detail
+advertising because I'm trying
+
+00:49:53.480 --> 00:49:55.130 align:middle line:90%
+to keep the market small.
+
+00:49:55.130 --> 00:49:57.710 align:middle line:84%
+I'm going to do less journal
+advertising because I'm trying
+
+00:49:57.710 --> 00:49:59.310 align:middle line:90%
+to keep the market small.
+
+00:49:59.310 --> 00:50:01.790 align:middle line:84%
+I'm going to do more
+presentation proliferation
+
+00:50:01.790 --> 00:50:04.910 align:middle line:84%
+and introduce more
+versions of my drug,
+
+00:50:04.910 --> 00:50:07.760 align:middle line:84%
+and I'm going to
+set lower prices.
+
+00:50:07.760 --> 00:50:09.990 align:middle line:84%
+And I'm going to
+look for are they
+
+00:50:09.990 --> 00:50:13.140 align:middle line:84%
+non-monotone with those
+deviations from monotonicity
+
+00:50:13.140 --> 00:50:15.060 align:middle line:84%
+in the range where
+it's plausible
+
+00:50:15.060 --> 00:50:18.750 align:middle line:90%
+that you could keep rivals out?
+
+00:50:18.750 --> 00:50:21.580 align:middle line:84%
+And we're going to look at
+this in two different ways.
+
+00:50:21.580 --> 00:50:24.330 align:middle line:84%
+One, just in the
+pure cross section,
+
+00:50:24.330 --> 00:50:27.180 align:middle line:84%
+advertising versus market
+size, is advertising
+
+00:50:27.180 --> 00:50:29.280 align:middle line:90%
+non-monotone in revenue?
+
+00:50:29.280 --> 00:50:32.353 align:middle line:84%
+But sometimes, these things
+are just super steeply
+
+00:50:32.353 --> 00:50:34.020 align:middle line:84%
+increasing depending
+on how you describe
+
+00:50:34.020 --> 00:50:36.187 align:middle line:84%
+the variables, because just
+bigger markets-- like TV
+
+00:50:36.187 --> 00:50:37.710 align:middle line:84%
+advertising, this
+would never work
+
+00:50:37.710 --> 00:50:39.990 align:middle line:84%
+because TV advertising,
+the bigger the market is,
+
+00:50:39.990 --> 00:50:42.090 align:middle line:90%
+the more you spend.
+
+00:50:42.090 --> 00:50:44.760 align:middle line:84%
+So the other thing
+we do is look at how
+
+00:50:44.760 --> 00:50:47.588 align:middle line:84%
+are firms changing
+advertising in the year
+
+00:50:47.588 --> 00:50:49.380 align:middle line:84%
+the patent's expiring
+relative to what they
+
+00:50:49.380 --> 00:50:51.980 align:middle line:84%
+were doing two years
+before the patent expires?
+
+00:50:51.980 --> 00:50:54.780 align:middle line:84%
+And so you can think of it as
+it's like we're using AT minus 2
+
+00:50:54.780 --> 00:50:57.510 align:middle line:84%
+as the control level
+of the investment,
+
+00:50:57.510 --> 00:51:00.360 align:middle line:84%
+and think about how are
+they changing investments?
+
+00:51:00.360 --> 00:51:05.895 align:middle line:84%
+And is the change in investment
+non-monotone in that kind
+
+00:51:05.895 --> 00:51:06.395 align:middle line:90%
+of pattern?
+
+00:51:06.395 --> 00:51:10.570 align:middle line:90%
+
+
+00:51:10.570 --> 00:51:12.420 align:middle line:84%
+And what are some
+of the findings?
+
+00:51:12.420 --> 00:51:15.940 align:middle line:84%
+And again, we're very
+conservative in this paper
+
+00:51:15.940 --> 00:51:19.450 align:middle line:84%
+in looking for general
+tests of non-monotonicity,
+
+00:51:19.450 --> 00:51:21.520 align:middle line:84%
+non-parametrically,
+rather than just putting
+
+00:51:21.520 --> 00:51:22.910 align:middle line:90%
+in quadratic functions.
+
+00:51:22.910 --> 00:51:25.160 align:middle line:84%
+And so nothing's all
+that significant.
+
+00:51:25.160 --> 00:51:27.610 align:middle line:84%
+But there are a few places
+where it looks like we
+
+00:51:27.610 --> 00:51:29.350 align:middle line:90%
+find these non-monotonicities.
+
+00:51:29.350 --> 00:51:33.770 align:middle line:84%
+The first is in the detail
+in journal advertising.
+
+00:51:33.770 --> 00:51:38.950 align:middle line:84%
+When you just graph them
+versus the market size,
+
+00:51:38.950 --> 00:51:41.440 align:middle line:84%
+it looks like the
+detail advertising--
+
+00:51:41.440 --> 00:51:42.770 align:middle line:90%
+these are just the means--
+
+00:51:42.770 --> 00:51:44.830 align:middle line:84%
+the detail advertising
+is relatively
+
+00:51:44.830 --> 00:51:47.290 align:middle line:84%
+low for the second
+quintile drugs
+
+00:51:47.290 --> 00:51:49.630 align:middle line:90%
+relative to the other drugs.
+
+00:51:49.630 --> 00:51:52.480 align:middle line:84%
+And the journal
+advertising is relatively
+
+00:51:52.480 --> 00:51:54.610 align:middle line:84%
+low for the second
+quintile drugs
+
+00:51:54.610 --> 00:51:56.720 align:middle line:90%
+relative to the other drugs.
+
+00:51:56.720 --> 00:51:59.500 align:middle line:84%
+So it looks like there's
+this cross-sectional pattern
+
+00:51:59.500 --> 00:52:01.540 align:middle line:84%
+in the detail in
+journal advertising
+
+00:52:01.540 --> 00:52:03.820 align:middle line:84%
+where in these second
+quintile drugs where
+
+00:52:03.820 --> 00:52:07.616 align:middle line:84%
+the entry is uncertain, there
+is lower levels of advertising.
+
+00:52:07.616 --> 00:52:10.600 align:middle line:90%
+
+
+00:52:10.600 --> 00:52:16.480 align:middle line:84%
+But marginally significant once
+you test it non-parametrically.
+
+00:52:16.480 --> 00:52:23.290 align:middle line:84%
+And then the other
+thing we look for is
+
+00:52:23.290 --> 00:52:28.000 align:middle line:84%
+how are things changing as
+patent expiration approaches?
+
+00:52:28.000 --> 00:52:32.620 align:middle line:84%
+And here, we get some
+marginally significant results
+
+00:52:32.620 --> 00:52:35.080 align:middle line:84%
+on the presentation
+proliferation
+
+00:52:35.080 --> 00:52:38.200 align:middle line:90%
+and on the journal advertising.
+
+00:52:38.200 --> 00:52:41.590 align:middle line:84%
+The journal advertising is
+going in the wrong direction,
+
+00:52:41.590 --> 00:52:43.660 align:middle line:84%
+but the presentation
+Herfindahl, there's
+
+00:52:43.660 --> 00:52:46.900 align:middle line:84%
+some evidence of the
+presentation proliferation
+
+00:52:46.900 --> 00:52:50.182 align:middle line:84%
+also going up for these
+second quintile drugs.
+
+00:52:50.182 --> 00:52:51.640 align:middle line:84%
+This looks like
+they're introducing
+
+00:52:51.640 --> 00:52:54.070 align:middle line:84%
+new versions of the
+second quintile drugs
+
+00:52:54.070 --> 00:52:56.890 align:middle line:84%
+as the patent is expiring that
+they hadn't introduced years
+
+00:52:56.890 --> 00:52:58.430 align:middle line:84%
+before when they
+were monopolist.
+
+00:52:58.430 --> 00:53:03.860 align:middle line:90%
+
+
+00:53:03.860 --> 00:53:06.010 align:middle line:90%
+Questions?
+
+00:53:06.010 --> 00:53:06.680 align:middle line:90%
+Comments?
+
+00:53:06.680 --> 00:53:08.840 align:middle line:90%
+No?
+
+00:53:08.840 --> 00:53:10.980 align:middle line:90%
+OK.
+
+00:53:10.980 --> 00:53:15.650 align:middle line:84%
+So the third paper, this one
+I'm going to do super quickly.
+
+00:53:15.650 --> 00:53:22.250 align:middle line:84%
+Goolsbee-Syverson is-- it's
+another reduced form prediction
+
+00:53:22.250 --> 00:53:24.680 align:middle line:84%
+paper looking at
+some prediction that
+
+00:53:24.680 --> 00:53:29.000 align:middle line:84%
+would hold for strategic models
+versus non-strategic models.
+
+00:53:29.000 --> 00:53:34.790 align:middle line:84%
+The prediction that they explore
+is, how do firms change prices
+
+00:53:34.790 --> 00:53:38.010 align:middle line:84%
+when they become threatened
+by Southwest's entry
+
+00:53:38.010 --> 00:53:42.236 align:middle line:84%
+even though Southwest
+has not entered?
+
+00:53:42.236 --> 00:53:45.860 align:middle line:84%
+And so what's really nice
+about this application is,
+
+00:53:45.860 --> 00:53:49.670 align:middle line:90%
+imagine you have a market--
+
+00:53:49.670 --> 00:53:52.550 align:middle line:84%
+so we have a market that
+Southwest is not currently
+
+00:53:52.550 --> 00:54:00.350 align:middle line:84%
+serving, like flying
+from Boston to Nashville.
+
+00:54:00.350 --> 00:54:03.990 align:middle line:84%
+And there are no
+flights on Southwest
+
+00:54:03.990 --> 00:54:05.670 align:middle line:90%
+from Boston to Nashville.
+
+00:54:05.670 --> 00:54:09.720 align:middle line:84%
+And the current carriers
+serving Boston to Nashville
+
+00:54:09.720 --> 00:54:13.680 align:middle line:84%
+are completely unscared of
+Southwest entering and competing
+
+00:54:13.680 --> 00:54:15.690 align:middle line:84%
+with them because
+Southwest doesn't have
+
+00:54:15.690 --> 00:54:16.968 align:middle line:90%
+any operations in Nashville.
+
+00:54:16.968 --> 00:54:18.010 align:middle line:90%
+They have no gates there.
+
+00:54:18.010 --> 00:54:19.177 align:middle line:90%
+They have no aircraft there.
+
+00:54:19.177 --> 00:54:20.530 align:middle line:90%
+They have no employees there.
+
+00:54:20.530 --> 00:54:22.982 align:middle line:84%
+If Southwest doesn't have
+any employees in Nashville,
+
+00:54:22.982 --> 00:54:24.690 align:middle line:84%
+it's unlikely they're
+going to just start
+
+00:54:24.690 --> 00:54:27.534 align:middle line:90%
+a Boston to Nashville flight.
+
+00:54:27.534 --> 00:54:32.680 align:middle line:84%
+But suppose Southwest does
+operate out of Boston.
+
+00:54:32.680 --> 00:54:34.710 align:middle line:84%
+Suppose Southwest
+were to announce,
+
+00:54:34.710 --> 00:54:36.870 align:middle line:84%
+we're moving into Nashville,
+and we're initially
+
+00:54:36.870 --> 00:54:40.710 align:middle line:84%
+going to fly Nashville to Miami,
+Nashville to Dallas, Nashville
+
+00:54:40.710 --> 00:54:45.390 align:middle line:90%
+to Las Vegas, Nashville to LA.
+
+00:54:45.390 --> 00:54:48.390 align:middle line:84%
+Well, then, if you're the
+carriers on the Boston
+
+00:54:48.390 --> 00:54:51.930 align:middle line:84%
+to Nashville route,
+you become scared
+
+00:54:51.930 --> 00:54:56.640 align:middle line:84%
+that Southwest, now that they
+have operations in both Boston
+
+00:54:56.640 --> 00:54:59.040 align:middle line:84%
+and Nashville, are they
+going to start serving
+
+00:54:59.040 --> 00:55:01.200 align:middle line:90%
+the Boston to Nashville market?
+
+00:55:01.200 --> 00:55:04.950 align:middle line:84%
+But the nice feature that
+Goolsbee and Syverson note
+
+00:55:04.950 --> 00:55:09.030 align:middle line:84%
+is that Southwest both
+announces that they're
+
+00:55:09.030 --> 00:55:12.810 align:middle line:84%
+coming to Nashville five months
+before they come to Nashville,
+
+00:55:12.810 --> 00:55:14.610 align:middle line:84%
+and when they
+announce we're going
+
+00:55:14.610 --> 00:55:16.420 align:middle line:84%
+to come to Nashville
+with these routes,
+
+00:55:16.420 --> 00:55:19.440 align:middle line:84%
+so you know they're not
+serving Boston to Nashville.
+
+00:55:19.440 --> 00:55:22.320 align:middle line:84%
+And so what Goolsbee
+and Syverson say is,
+
+00:55:22.320 --> 00:55:25.740 align:middle line:84%
+let's imagine that firms
+are trying to keep--
+
+00:55:25.740 --> 00:55:31.410 align:middle line:84%
+that once this happens,
+suddenly United Airlines
+
+00:55:31.410 --> 00:55:35.820 align:middle line:84%
+has an incentive to try
+to keep Southwest out
+
+00:55:35.820 --> 00:55:37.210 align:middle line:90%
+of the Boston Nashville market.
+
+00:55:37.210 --> 00:55:38.390 align:middle line:90%
+What might they do?
+
+00:55:38.390 --> 00:55:41.460 align:middle line:84%
+They're looking at, again, this
+limit pricing thought of they
+
+00:55:41.460 --> 00:55:45.940 align:middle line:84%
+could start limit pricing and
+cut their prices on the Boston
+
+00:55:45.940 --> 00:55:48.850 align:middle line:84%
+to Nashville route to signal
+to Southwest that they have
+
+00:55:48.850 --> 00:55:51.910 align:middle line:84%
+low cost and tell Southwest,
+you should stay out
+
+00:55:51.910 --> 00:55:55.510 align:middle line:90%
+of Boston Nashville.
+
+00:55:55.510 --> 00:55:58.270 align:middle line:84%
+And the nice thing about
+it is you can look at,
+
+00:55:58.270 --> 00:56:02.740 align:middle line:84%
+do they do this five months
+before Southwest is even
+
+00:56:02.740 --> 00:56:04.550 align:middle line:90%
+operating Nashville to Miami?
+
+00:56:04.550 --> 00:56:07.552 align:middle line:84%
+So you've got this long period
+before anything has actually
+
+00:56:07.552 --> 00:56:09.010 align:middle line:84%
+changed in the
+airline market where
+
+00:56:09.010 --> 00:56:11.450 align:middle line:84%
+it's just the threat
+of entry has changed.
+
+00:56:11.450 --> 00:56:16.240 align:middle line:84%
+And we look at with that
+threat of entry changing,
+
+00:56:16.240 --> 00:56:19.660 align:middle line:84%
+does United start
+changing its pricing,
+
+00:56:19.660 --> 00:56:22.270 align:middle line:84%
+and changing price in a way that
+looks like it's limit pricing
+
+00:56:22.270 --> 00:56:23.562 align:middle line:90%
+or something to keep entry out?
+
+00:56:23.562 --> 00:56:26.650 align:middle line:90%
+
+
+00:56:26.650 --> 00:56:28.690 align:middle line:84%
+Anyway, the interesting
+results in the paper
+
+00:56:28.690 --> 00:56:32.570 align:middle line:84%
+are that this does
+seem to go on.
+
+00:56:32.570 --> 00:56:35.270 align:middle line:84%
+So as they said,
+Southwest typically
+
+00:56:35.270 --> 00:56:39.830 align:middle line:84%
+announces it's coming into an
+end point airport like five
+
+00:56:39.830 --> 00:56:41.270 align:middle line:90%
+months before it does.
+
+00:56:41.270 --> 00:56:42.800 align:middle line:90%
+And if you look at--
+
+00:56:42.800 --> 00:56:44.900 align:middle line:84%
+so in this case,
+Southwest has announced
+
+00:56:44.900 --> 00:56:47.570 align:middle line:90%
+that it's coming in at time T0.
+
+00:56:47.570 --> 00:56:51.772 align:middle line:84%
+And what you find is that
+eight months before, you
+
+00:56:51.772 --> 00:56:52.730 align:middle line:90%
+don't pick up anything.
+
+00:56:52.730 --> 00:56:56.540 align:middle line:84%
+But then seven, six, five months
+before, you pick up the airlines
+
+00:56:56.540 --> 00:57:00.140 align:middle line:84%
+having lowered
+their prices by 7%.
+
+00:57:00.140 --> 00:57:01.710 align:middle line:90%
+It goes up to 10%.
+
+00:57:01.710 --> 00:57:03.680 align:middle line:84%
+And then by the
+time Southwest is
+
+00:57:03.680 --> 00:57:07.250 align:middle line:84%
+almost in Nashville,
+United's prices end up 13%
+
+00:57:07.250 --> 00:57:09.990 align:middle line:84%
+lower than they were
+before the entry occurred.
+
+00:57:09.990 --> 00:57:13.080 align:middle line:84%
+And again, this is entry not
+competing directly on the route.
+
+00:57:13.080 --> 00:57:15.660 align:middle line:84%
+This is just threat
+of entry causes
+
+00:57:15.660 --> 00:57:18.470 align:middle line:90%
+this 13% decline in prices.
+
+00:57:18.470 --> 00:57:22.880 align:middle line:84%
+And prices are then even
+lower after Southwest
+
+00:57:22.880 --> 00:57:26.090 align:middle line:84%
+gets to Nashville, and then
+lower still if Southwest
+
+00:57:26.090 --> 00:57:28.940 align:middle line:84%
+actually comes in and starts
+competing with United on Boston
+
+00:57:28.940 --> 00:57:30.530 align:middle line:90%
+to Nashville.
+
+00:57:30.530 --> 00:57:36.240 align:middle line:84%
+But what they're
+finding is that there
+
+00:57:36.240 --> 00:57:39.030 align:middle line:84%
+are these price declines well
+before anything has actually
+
+00:57:39.030 --> 00:57:43.290 align:middle line:84%
+changed in the markets
+other than the future entry
+
+00:57:43.290 --> 00:57:44.700 align:middle line:90%
+possibility.
+
+00:57:44.700 --> 00:57:47.520 align:middle line:84%
+So I think it's a
+striking finding.
+
+00:57:47.520 --> 00:57:51.330 align:middle line:84%
+It's not perfectly clean as a
+reduced form prediction of they
+
+00:57:51.330 --> 00:57:54.690 align:middle line:84%
+must be behaving
+strategically because this
+
+00:57:54.690 --> 00:57:57.630 align:middle line:84%
+is a model that would
+have a competition effect.
+
+00:57:57.630 --> 00:58:04.680 align:middle line:84%
+If United knows that Southwest
+is coming into the market,
+
+00:58:04.680 --> 00:58:08.130 align:middle line:84%
+then it knows that it's going
+to be in a duopoly instead
+
+00:58:08.130 --> 00:58:09.910 align:middle line:90%
+of a monopoly in the future.
+
+00:58:09.910 --> 00:58:11.580 align:middle line:84%
+It, therefore,
+might want to behave
+
+00:58:11.580 --> 00:58:13.500 align:middle line:84%
+in a way that's good
+for it in a duopoly
+
+00:58:13.500 --> 00:58:15.670 align:middle line:84%
+relative to what's good
+for it in a monopoly.
+
+00:58:15.670 --> 00:58:20.047 align:middle line:84%
+Now, my first thought would be,
+actually, that one could even
+
+00:58:20.047 --> 00:58:20.880 align:middle line:90%
+go in the other way.
+
+00:58:20.880 --> 00:58:22.980 align:middle line:84%
+And it could be they want to
+raise their prices because
+
+00:58:22.980 --> 00:58:24.063 align:middle line:90%
+of the competition effect.
+
+00:58:24.063 --> 00:58:26.070 align:middle line:84%
+Because if they've been
+trying to build customer
+
+00:58:26.070 --> 00:58:28.620 align:middle line:84%
+loyalty over the years, and
+build frequent flyer miles,
+
+00:58:28.620 --> 00:58:32.305 align:middle line:84%
+and get people to spend a lot
+of money, it could be that,
+
+00:58:32.305 --> 00:58:33.930 align:middle line:84%
+again, you just start
+eat your loyalty.
+
+00:58:33.930 --> 00:58:35.870 align:middle line:84%
+It's like, OK, people have
+good feelings about us.
+
+00:58:35.870 --> 00:58:37.840 align:middle line:84%
+Good feelings are going
+to be worthless to us.
+
+00:58:37.840 --> 00:58:40.007 align:middle line:84%
+Let's just go ahead and
+make all the money we want--
+
+00:58:40.007 --> 00:58:41.683 align:middle line:90%
+$2,000 to fly to Nashville.
+
+00:58:41.683 --> 00:58:42.850 align:middle line:90%
+We'll take all our goodwill.
+
+00:58:42.850 --> 00:58:44.392 align:middle line:84%
+We'll burn it in
+the next six months,
+
+00:58:44.392 --> 00:58:45.810 align:middle line:90%
+and then be done with it.
+
+00:58:45.810 --> 00:58:50.340 align:middle line:84%
+But it could also go the other
+way if, by keeping prices low,
+
+00:58:50.340 --> 00:58:51.970 align:middle line:84%
+today people are
+loyal to United,
+
+00:58:51.970 --> 00:58:53.850 align:middle line:84%
+and don't ever try
+Southwest, and find out
+
+00:58:53.850 --> 00:58:56.410 align:middle line:84%
+what it's like to fly without
+having a reserved seat.
+
+00:58:56.410 --> 00:58:58.710 align:middle line:84%
+And maybe you want to build
+up the customer loyalty
+
+00:58:58.710 --> 00:59:00.400 align:middle line:90%
+and not get them to try--
+
+00:59:00.400 --> 00:59:03.100 align:middle line:84%
+get them so they don't feel like
+they're not angry and wanting
+
+00:59:03.100 --> 00:59:04.438 align:middle line:90%
+to try Southwest.
+
+00:59:04.438 --> 00:59:05.980 align:middle line:84%
+But anyway, and then
+a second problem
+
+00:59:05.980 --> 00:59:10.220 align:middle line:84%
+is that the pre-entry stuff,
+I think, is really nice.
+
+00:59:10.220 --> 00:59:13.960 align:middle line:84%
+The post-entry estimates,
+there's always this concern that
+
+00:59:13.960 --> 00:59:19.300 align:middle line:84%
+while Southwest is
+not flying Boston to--
+
+00:59:19.300 --> 00:59:21.520 align:middle line:84%
+they eliminate markets
+where Southwest is flying--
+
+00:59:21.520 --> 00:59:24.300 align:middle line:90%
+
+
+00:59:24.300 --> 00:59:27.440 align:middle line:84%
+where Southwest announces
+Nashville to Boston,
+
+00:59:27.440 --> 00:59:30.550 align:middle line:84%
+they also would eliminate
+if Southwest announces
+
+00:59:30.550 --> 00:59:33.520 align:middle line:84%
+Nashville to Miami,
+and then they already
+
+00:59:33.520 --> 00:59:35.230 align:middle line:90%
+fly Miami to Boston.
+
+00:59:35.230 --> 00:59:37.540 align:middle line:84%
+But they don't
+eliminate it if you
+
+00:59:37.540 --> 00:59:41.650 align:middle line:84%
+can go from Nashville to
+Chicago, and from Chicago
+
+00:59:41.650 --> 00:59:43.660 align:middle line:84%
+to Washington, and
+then from Washington
+
+00:59:43.660 --> 00:59:45.340 align:middle line:90%
+to Boston on Southwest.
+
+00:59:45.340 --> 00:59:48.220 align:middle line:84%
+Those markets, they
+don't eliminate.
+
+00:59:48.220 --> 00:59:51.320 align:middle line:84%
+People who fly Southwest
+sometimes do things like that.
+
+00:59:51.320 --> 00:59:54.620 align:middle line:84%
+So it could be there is
+actually some mismeasured real
+
+00:59:54.620 --> 00:59:56.620 align:middle line:84%
+competition there that
+causes from people taking
+
+00:59:56.620 --> 00:59:59.590 align:middle line:84%
+these multi-leg Southwest
+journeys to compete
+
+00:59:59.590 --> 01:00:05.400 align:middle line:84%
+with the Boston Nashville
+flights that United has.
+
+01:00:05.400 --> 01:00:07.140 align:middle line:90%
+Any questions?
+
+01:00:07.140 --> 01:00:09.780 align:middle line:84%
+So the thing I wanted
+to finish off today
+
+01:00:09.780 --> 01:00:14.880 align:middle line:84%
+is talk about, I think, a very
+nice recent paper by Sweeting,
+
+01:00:14.880 --> 01:00:17.820 align:middle line:84%
+Roberts, and Gedge on dynamic
+limit pricing in the airline
+
+01:00:17.820 --> 01:00:18.700 align:middle line:90%
+industry.
+
+01:00:18.700 --> 01:00:22.935 align:middle line:84%
+And this is very much,
+again, I think I say over
+
+01:00:22.935 --> 01:00:25.560 align:middle line:84%
+and over again, you don't have
+to be really original to succeed
+
+01:00:25.560 --> 01:00:26.520 align:middle line:90%
+in economics.
+
+01:00:26.520 --> 01:00:30.220 align:middle line:84%
+You can just take a good
+paper and do it better.
+
+01:00:30.220 --> 01:00:32.550 align:middle line:84%
+And so what Sweeting, and
+Roberts, and Gedge are doing
+
+01:00:32.550 --> 01:00:38.570 align:middle line:84%
+is looking at pricing by
+incumbents when Southwest
+
+01:00:38.570 --> 01:00:41.750 align:middle line:84%
+is threatening entry,
+and trying to understand,
+
+01:00:41.750 --> 01:00:44.990 align:middle line:84%
+does the limit pricing
+story really hang together
+
+01:00:44.990 --> 01:00:47.270 align:middle line:84%
+to explain what we see in
+the pricing in the months
+
+01:00:47.270 --> 01:00:48.925 align:middle line:84%
+before Southwest
+enters a market?
+
+01:00:48.925 --> 01:00:52.573 align:middle line:90%
+
+
+01:00:52.573 --> 01:00:53.990 align:middle line:84%
+So what they do
+is they start out,
+
+01:00:53.990 --> 01:00:57.230 align:middle line:84%
+they discuss a theoretical model
+in which the limit pricing would
+
+01:00:57.230 --> 01:00:59.090 align:middle line:90%
+make sense.
+
+01:00:59.090 --> 01:01:01.580 align:middle line:84%
+They do a test of
+reduced form predictions
+
+01:01:01.580 --> 01:01:04.760 align:middle line:84%
+of that model versus
+a non-strategic model,
+
+01:01:04.760 --> 01:01:07.410 align:middle line:84%
+and then they do a
+structural estimation.
+
+01:01:07.410 --> 01:01:09.470 align:middle line:84%
+Are the magnitudes here
+are sufficient to explain
+
+01:01:09.470 --> 01:01:13.800 align:middle line:84%
+those 13% price drops that
+Goolsbee Syverson reported?
+
+01:01:13.800 --> 01:01:16.100 align:middle line:90%
+So anyway, what's their model?
+
+01:01:16.100 --> 01:01:21.320 align:middle line:84%
+So it's a multi-period
+Milgrom-Roberts limit pricing
+
+01:01:21.320 --> 01:01:23.310 align:middle line:84%
+through signaling
+your cost model.
+
+01:01:23.310 --> 01:01:26.570 align:middle line:84%
+So the incumbent has
+some marginal cost
+
+01:01:26.570 --> 01:01:31.130 align:middle line:84%
+of carrying passengers, CIT, and
+it follows some Markov process
+
+01:01:31.130 --> 01:01:34.190 align:middle line:84%
+on an interval, C
+lower bar, C upper bar.
+
+01:01:34.190 --> 01:01:37.190 align:middle line:84%
+And we're going to assume it's
+a highly persistent Markov
+
+01:01:37.190 --> 01:01:40.710 align:middle line:84%
+process, like an AR1 process
+with a coefficient close to 1.
+
+01:01:40.710 --> 01:01:45.120 align:middle line:84%
+So costs are following an
+AR1 process on this interval.
+
+01:01:45.120 --> 01:01:48.770 align:middle line:84%
+So at every point in
+time, you're always
+
+01:01:48.770 --> 01:01:51.950 align:middle line:84%
+uncertain about what United's
+cost is because it's always
+
+01:01:51.950 --> 01:01:54.800 align:middle line:90%
+different, and it's evolving.
+
+01:01:54.800 --> 01:01:59.910 align:middle line:84%
+Southwest has a fixed entry
+cost KT, and it's drawn i.i.d.
+
+01:01:59.910 --> 01:02:02.500 align:middle line:84%
+from some density
+in every period.
+
+01:02:02.500 --> 01:02:05.160 align:middle line:84%
+And so there can be periods
+when it's good for Southwest
+
+01:02:05.160 --> 01:02:07.120 align:middle line:84%
+to enter and bad for
+Southwest to enter.
+
+01:02:07.120 --> 01:02:08.787 align:middle line:84%
+They're going to be
+more likely to enter
+
+01:02:08.787 --> 01:02:11.280 align:middle line:90%
+when their costs are low.
+
+01:02:11.280 --> 01:02:16.740 align:middle line:84%
+And so at each time, T, the
+incumbent chooses some price.
+
+01:02:16.740 --> 01:02:19.700 align:middle line:90%
+It earns some profit.
+
+01:02:19.700 --> 01:02:22.610 align:middle line:84%
+Southwest observes a price
+they charge, but doesn't
+
+01:02:22.610 --> 01:02:24.910 align:middle line:90%
+observe the profit or the cost.
+
+01:02:24.910 --> 01:02:27.440 align:middle line:84%
+And then Southwest
+learns what its cost
+
+01:02:27.440 --> 01:02:31.230 align:middle line:84%
+draw is for entry costs, and
+then it decides to enter or not.
+
+01:02:31.230 --> 01:02:35.120 align:middle line:84%
+And if it enters, there's
+duopoly competition
+
+01:02:35.120 --> 01:02:39.380 align:middle line:84%
+with now commonly observed
+costs in all future periods.
+
+01:02:39.380 --> 01:02:41.670 align:middle line:84%
+And firms just play the
+static Nash equilibrium
+
+01:02:41.670 --> 01:02:43.200 align:middle line:90%
+of all future periods.
+
+01:02:43.200 --> 01:02:45.560 align:middle line:84%
+If Southwest doesn't
+enter, then they just wait,
+
+01:02:45.560 --> 01:02:47.060 align:middle line:84%
+and they can enter
+again next period
+
+01:02:47.060 --> 01:02:48.540 align:middle line:90%
+if they get a good cost draw.
+
+01:02:48.540 --> 01:02:51.350 align:middle line:84%
+So notice that Southwest, even
+if a market is profitable,
+
+01:02:51.350 --> 01:02:53.510 align:middle line:84%
+may want to wait some
+number of periods
+
+01:02:53.510 --> 01:02:56.125 align:middle line:84%
+to come in to wait
+for a good cost draw.
+
+01:02:56.125 --> 01:02:59.473 align:middle line:90%
+
+
+01:02:59.473 --> 01:03:00.890 align:middle line:84%
+And obviously,
+they're going to be
+
+01:03:00.890 --> 01:03:04.760 align:middle line:84%
+more likely to come in if they
+think that the incumbent's cost
+
+01:03:04.760 --> 01:03:05.340 align:middle line:90%
+is high.
+
+01:03:05.340 --> 01:03:11.810 align:middle line:84%
+This is a model where the
+incumbent's cost is bouncing
+
+01:03:11.810 --> 01:03:15.080 align:middle line:84%
+around on some interval,
+C lower bar C upper bar,
+
+01:03:15.080 --> 01:03:18.680 align:middle line:84%
+and Southwest just has some
+other different costs, which I
+
+01:03:18.680 --> 01:03:21.470 align:middle line:90%
+think we think of as down here.
+
+01:03:21.470 --> 01:03:23.780 align:middle line:84%
+So we think of Southwest
+as being a lower cost
+
+01:03:23.780 --> 01:03:24.860 align:middle line:90%
+carrier than United.
+
+01:03:24.860 --> 01:03:27.965 align:middle line:84%
+So it's such that if
+United's cost is down here,
+
+01:03:27.965 --> 01:03:29.840 align:middle line:84%
+Southwest is going to
+say, our cost advantage
+
+01:03:29.840 --> 01:03:32.465 align:middle line:84%
+isn't big enough to pay all the
+fixed costs of buying the gates
+
+01:03:32.465 --> 01:03:33.510 align:middle line:90%
+and hiring the employees.
+
+01:03:33.510 --> 01:03:35.892 align:middle line:84%
+If United's cost is
+up here, Southwest
+
+01:03:35.892 --> 01:03:37.975 align:middle line:84%
+is going to want to come
+in and compete with them.
+
+01:03:37.975 --> 01:03:41.224 align:middle line:90%
+
+
+01:03:41.224 --> 01:03:44.320 align:middle line:84%
+And this Markov process,
+like Milgrom and Roberts
+
+01:03:44.320 --> 01:03:47.830 align:middle line:84%
+was this one time, you price
+low to signal your low cost,
+
+01:03:47.830 --> 01:03:50.270 align:middle line:84%
+and then they learn your cost,
+and then they enter or not.
+
+01:03:50.270 --> 01:03:52.298 align:middle line:84%
+Here, there's just this
+perpetual incentive
+
+01:03:52.298 --> 01:03:54.340 align:middle line:84%
+to always signal your cost
+because there's always
+
+01:03:54.340 --> 01:03:56.660 align:middle line:90%
+a new innovation to your cost.
+
+01:03:56.660 --> 01:04:00.073 align:middle line:84%
+And that creates this
+incentive to continually limit
+
+01:04:00.073 --> 01:04:01.990 align:middle line:84%
+price, limit price, limit
+price to always make
+
+01:04:01.990 --> 01:04:03.240 align:middle line:90%
+them think your cost is low.
+
+01:04:03.240 --> 01:04:11.540 align:middle line:90%
+
+
+01:04:11.540 --> 01:04:14.650 align:middle line:84%
+So the first thing they
+do in the paper is--
+
+01:04:14.650 --> 01:04:17.980 align:middle line:84%
+it's a non-monotonicity
+test, and it's motivated
+
+01:04:17.980 --> 01:04:20.410 align:middle line:90%
+by the limit pricing model.
+
+01:04:20.410 --> 01:04:23.590 align:middle line:84%
+The model predicts
+that limit pricing
+
+01:04:23.590 --> 01:04:27.730 align:middle line:84%
+is going to be most
+important in markets
+
+01:04:27.730 --> 01:04:30.050 align:middle line:84%
+that have an intermediate
+entry probability.
+
+01:04:30.050 --> 01:04:33.883 align:middle line:84%
+If you have a market where there
+is a very low entry probability,
+
+01:04:33.883 --> 01:04:35.800 align:middle line:84%
+then you're not going
+to bother limit pricing.
+
+01:04:35.800 --> 01:04:37.758 align:middle line:84%
+If there's a market where
+there's a very high--
+
+01:04:37.758 --> 01:04:44.730 align:middle line:84%
+so the service from Boston
+to Billings, Montana,
+
+01:04:44.730 --> 01:04:47.570 align:middle line:84%
+there's no way Southwest is
+going to start flying Boston
+
+01:04:47.570 --> 01:04:48.800 align:middle line:90%
+to Billings, Montana.
+
+01:04:48.800 --> 01:04:51.980 align:middle line:84%
+It's just not something of
+the kind of market they serve.
+
+01:04:51.980 --> 01:04:55.280 align:middle line:84%
+There, you don't
+need to limit price.
+
+01:04:55.280 --> 01:04:57.165 align:middle line:84%
+If they've just
+entered Las Vegas
+
+01:04:57.165 --> 01:04:59.540 align:middle line:84%
+and they're not serving it
+yet, you know sooner or later,
+
+01:04:59.540 --> 01:05:02.323 align:middle line:84%
+there's going to be a Boston to
+Las Vegas flight on Southwest.
+
+01:05:02.323 --> 01:05:03.990 align:middle line:84%
+There's nothing you
+can do to stop that,
+
+01:05:03.990 --> 01:05:05.700 align:middle line:84%
+so you don't try to
+limit price there.
+
+01:05:05.700 --> 01:05:08.630 align:middle line:84%
+But maybe Boston to Nashville
+is an intermediate sized market
+
+01:05:08.630 --> 01:05:12.230 align:middle line:84%
+where you could try to
+make that one unattractive.
+
+01:05:12.230 --> 01:05:15.140 align:middle line:84%
+And so what they're going
+to say is, do incumbents
+
+01:05:15.140 --> 01:05:18.020 align:middle line:84%
+drop their prices
+most in markets
+
+01:05:18.020 --> 01:05:21.390 align:middle line:84%
+with an intermediate
+entry probability?
+
+01:05:21.390 --> 01:05:26.310 align:middle line:84%
+And so this is pretty simple,
+again, econometric exercise.
+
+01:05:26.310 --> 01:05:28.070 align:middle line:84%
+They just have a
+first stage regression
+
+01:05:28.070 --> 01:05:31.400 align:middle line:84%
+where they regress the
+probability of Southwest entry
+
+01:05:31.400 --> 01:05:38.180 align:middle line:84%
+on market size, concentration
+of whether the endpoints have
+
+01:05:38.180 --> 01:05:42.210 align:middle line:84%
+dominant carriers or not, how it
+fits with Southwest's network,
+
+01:05:42.210 --> 01:05:43.968 align:middle line:90%
+other explanatory variables.
+
+01:05:43.968 --> 01:05:45.510 align:middle line:84%
+So they have a first
+stage regression
+
+01:05:45.510 --> 01:05:48.460 align:middle line:84%
+trying to understand where
+it is that Southwest enters.
+
+01:05:48.460 --> 01:05:54.570 align:middle line:84%
+And then the second stage, so
+PM hat is the predicted entry
+
+01:05:54.570 --> 01:05:55.920 align:middle line:90%
+probability.
+
+01:05:55.920 --> 01:05:57.820 align:middle line:84%
+And so what they're
+looking for is this--
+
+01:05:57.820 --> 01:06:00.250 align:middle line:84%
+I think this sounds for
+Southwest post entry.
+
+01:06:00.250 --> 01:06:06.360 align:middle line:84%
+They're looking at is price
+being reduced after entry
+
+01:06:06.360 --> 01:06:08.782 align:middle line:84%
+in markets where there's
+an intermediate entry
+
+01:06:08.782 --> 01:06:10.740 align:middle line:84%
+probability which you
+would get from the beta 1
+
+01:06:10.740 --> 01:06:13.115 align:middle line:84%
+being negative and the
+beta 2 being positive?
+
+01:06:13.115 --> 01:06:14.490 align:middle line:84%
+It would be saying
+that dips down
+
+01:06:14.490 --> 01:06:17.610 align:middle line:84%
+and has low prices in those
+intermediate sized markets.
+
+01:06:17.610 --> 01:06:20.643 align:middle line:84%
+And so they just estimate
+this entry probability
+
+01:06:20.643 --> 01:06:22.560 align:middle line:84%
+based on market
+characteristics, and then they
+
+01:06:22.560 --> 01:06:27.040 align:middle line:84%
+look at how the prices
+change related to that.
+
+01:06:27.040 --> 01:06:34.210 align:middle line:84%
+And pretty clean results
+that those 13% price declines
+
+01:06:34.210 --> 01:06:39.760 align:middle line:84%
+are relatively larger in the
+intermediate entry probability
+
+01:06:39.760 --> 01:06:42.110 align:middle line:90%
+markets.
+
+01:06:42.110 --> 01:06:43.490 align:middle line:90%
+So what you get is--
+
+01:06:43.490 --> 01:06:46.340 align:middle line:84%
+and they give many
+different versions of this,
+
+01:06:46.340 --> 01:06:49.190 align:middle line:84%
+but the simplest one
+is just log of price.
+
+01:06:49.190 --> 01:06:53.180 align:middle line:84%
+You regress-- This is the
+change in log price after entry,
+
+01:06:53.180 --> 01:06:57.590 align:middle line:84%
+and you see that its interaction
+with the probability of entry
+
+01:06:57.590 --> 01:07:02.300 align:middle line:84%
+is a negative coefficient
+on the probability of entry,
+
+01:07:02.300 --> 01:07:05.610 align:middle line:84%
+a positive coefficient on the
+probability of entry squared.
+
+01:07:05.610 --> 01:07:07.430 align:middle line:84%
+So it's as if that
+effect is something
+
+01:07:07.430 --> 01:07:09.790 align:middle line:84%
+that goes down like that
+and then goes up like that.
+
+01:07:09.790 --> 01:07:12.630 align:middle line:90%
+
+
+01:07:12.630 --> 01:07:14.640 align:middle line:84%
+Another thing they do,
+just on the quantity side
+
+01:07:14.640 --> 01:07:16.182 align:middle line:84%
+instead of on the
+price side, is look
+
+01:07:16.182 --> 01:07:17.980 align:middle line:90%
+at how full are the airplanes.
+
+01:07:17.980 --> 01:07:20.250 align:middle line:84%
+Are they sending off
+full or empty airplanes?
+
+01:07:20.250 --> 01:07:22.350 align:middle line:84%
+And again, this one,
+as you would expect,
+
+01:07:22.350 --> 01:07:24.210 align:middle line:90%
+it goes the opposite way.
+
+01:07:24.210 --> 01:07:27.480 align:middle line:90%
+So this is the price.
+
+01:07:27.480 --> 01:07:29.460 align:middle line:84%
+If you look at how
+full the airplanes
+
+01:07:29.460 --> 01:07:32.370 align:middle line:84%
+are, that one goes
+up and then down so
+
+01:07:32.370 --> 01:07:35.790 align:middle line:84%
+that it's your more
+filling up the planes
+
+01:07:35.790 --> 01:07:37.227 align:middle line:84%
+in the intermediate
+sized markets,
+
+01:07:37.227 --> 01:07:39.935 align:middle line:84%
+which presumably you fill up the
+planes by charging lower prices.
+
+01:07:39.935 --> 01:07:42.490 align:middle line:90%
+
+
+01:07:42.490 --> 01:07:44.590 align:middle line:84%
+And all the others
+seem to go same way.
+
+01:07:44.590 --> 01:07:46.090 align:middle line:84%
+But the story seems
+to be that, yes,
+
+01:07:46.090 --> 01:07:53.140 align:middle line:84%
+it is the intermediate
+sized markets where you're
+
+01:07:53.140 --> 01:07:54.760 align:middle line:84%
+unsure if they're
+going to enter,
+
+01:07:54.760 --> 01:07:58.820 align:middle line:84%
+where the price
+declines are biggest.
+
+01:07:58.820 --> 01:08:00.920 align:middle line:84%
+And then the final
+thing they try to do
+
+01:08:00.920 --> 01:08:03.960 align:middle line:90%
+is a structural analysis.
+
+01:08:03.960 --> 01:08:06.780 align:middle line:84%
+So what they're trying to
+do is take that Markov model
+
+01:08:06.780 --> 01:08:11.030 align:middle line:84%
+they wrote down,
+calibrate that model,
+
+01:08:11.030 --> 01:08:13.615 align:middle line:84%
+and see whether that model
+explains what it has.
+
+01:08:13.615 --> 01:08:17.120 align:middle line:90%
+
+
+01:08:17.120 --> 01:08:20.090 align:middle line:84%
+So in particular, what they're
+often trying to do here
+
+01:08:20.090 --> 01:08:26.770 align:middle line:84%
+is trying to not use the
+data in the threat period,
+
+01:08:26.770 --> 01:08:31.630 align:middle line:84%
+calibrate the model using data
+from either the pre-period
+
+01:08:31.630 --> 01:08:36.910 align:middle line:84%
+before Southwest announced,
+or after the Southwest entry,
+
+01:08:36.910 --> 01:08:40.130 align:middle line:84%
+and then show that we
+can calibrate this model.
+
+01:08:40.130 --> 01:08:42.910 align:middle line:84%
+And that model actually does
+predict price declines close
+
+01:08:42.910 --> 01:08:45.170 align:middle line:90%
+to the actual price declines.
+
+01:08:45.170 --> 01:08:49.062 align:middle line:84%
+So it's an exercise of saying,
+we're going to take this model.
+
+01:08:49.062 --> 01:08:51.520 align:middle line:84%
+We're going to calibrate it
+using the data that we have not
+
+01:08:51.520 --> 01:08:53.109 align:middle line:84%
+from that strategic
+investment period,
+
+01:08:53.109 --> 01:08:54.550 align:middle line:84%
+and then say, what
+does it predict
+
+01:08:54.550 --> 01:08:56.899 align:middle line:84%
+should happen in the
+strategic investment period?
+
+01:08:56.899 --> 01:09:00.040 align:middle line:84%
+And yes, it does seem to
+predict the data pretty well.
+
+01:09:00.040 --> 01:09:01.600 align:middle line:84%
+And then once they
+have it, they also
+
+01:09:01.600 --> 01:09:04.029 align:middle line:84%
+use it to discuss
+some welfare questions
+
+01:09:04.029 --> 01:09:07.090 align:middle line:84%
+because it's going to be a
+model that you get back consumer
+
+01:09:07.090 --> 01:09:08.819 align:middle line:90%
+utility and prices out of it.
+
+01:09:08.819 --> 01:09:11.319 align:middle line:84%
+You can estimate deadweight
+losses, and see how they change,
+
+01:09:11.319 --> 01:09:13.694 align:middle line:84%
+and talk about the welfare
+effects of this limit pricing.
+
+01:09:13.694 --> 01:09:15.927 align:middle line:90%
+
+
+01:09:15.927 --> 01:09:17.130 align:middle line:90%
+So how is this done?
+
+01:09:17.130 --> 01:09:22.500 align:middle line:84%
+So they restrict
+themselves to 109 markets.
+
+01:09:22.500 --> 01:09:25.160 align:middle line:84%
+So these are 109
+city pair markets,
+
+01:09:25.160 --> 01:09:27.229 align:middle line:84%
+and they're all doing--
+to get as close as
+
+01:09:27.229 --> 01:09:28.854 align:middle line:84%
+possible to this
+monopoly case, they're
+
+01:09:28.854 --> 01:09:31.040 align:middle line:84%
+doing 109 markets where
+there's one carrier that
+
+01:09:31.040 --> 01:09:36.170 align:middle line:84%
+has a dominant share
+before Southwest comes in.
+
+01:09:36.170 --> 01:09:38.880 align:middle line:84%
+Many markets, there are
+multiple carriers serving them.
+
+01:09:38.880 --> 01:09:41.990 align:middle line:84%
+But if you pick smaller city
+pair markets, a lot of them
+
+01:09:41.990 --> 01:09:44.262 align:middle line:84%
+that have one carrier
+doing most of the traffic.
+
+01:09:44.262 --> 01:09:46.220 align:middle line:84%
+So you can think of it
+as there's a monopolist,
+
+01:09:46.220 --> 01:09:50.170 align:middle line:84%
+and then the monopolist might
+be competing with Southwest.
+
+01:09:50.170 --> 01:09:54.400 align:middle line:84%
+What they assume is that demand
+is a nested logit model where
+
+01:09:54.400 --> 01:09:57.400 align:middle line:84%
+you have the outside good
+of not flying in one nest,
+
+01:09:57.400 --> 01:10:02.260 align:middle line:84%
+and then Southwest versus
+United in the inside nest.
+
+01:10:02.260 --> 01:10:07.120 align:middle line:84%
+And then they estimate
+that model using data
+
+01:10:07.120 --> 01:10:14.890 align:middle line:84%
+from before there's any
+threat, and using data
+
+01:10:14.890 --> 01:10:16.265 align:middle line:84%
+from after Southwest
+has entered.
+
+01:10:16.265 --> 01:10:18.182 align:middle line:84%
+And then you're just
+observing the competition
+
+01:10:18.182 --> 01:10:20.030 align:middle line:84%
+between the other
+airline and Southwest.
+
+01:10:20.030 --> 01:10:24.280 align:middle line:84%
+And where do they get
+the IVs to do this?
+
+01:10:24.280 --> 01:10:27.460 align:middle line:84%
+In the pre-period,
+It's fairly easy.
+
+01:10:27.460 --> 01:10:31.120 align:middle line:84%
+In the pre-period, they're
+getting the IV for your price
+
+01:10:31.120 --> 01:10:33.200 align:middle line:90%
+from fuel prices.
+
+01:10:33.200 --> 01:10:35.320 align:middle line:84%
+When fuel prices go up,
+airlines raise prices.
+
+01:10:35.320 --> 01:10:38.120 align:middle line:84%
+When fuel prices go down,
+airlines lower prices.
+
+01:10:38.120 --> 01:10:41.020 align:middle line:84%
+Looking at how demand
+changes with fuel prices,
+
+01:10:41.020 --> 01:10:43.240 align:middle line:84%
+they estimate substitution
+between the inside good
+
+01:10:43.240 --> 01:10:44.830 align:middle line:90%
+and the outside good.
+
+01:10:44.830 --> 01:10:48.310 align:middle line:84%
+And then for the
+price competition
+
+01:10:48.310 --> 01:10:53.420 align:middle line:84%
+between Southwest and United,
+they're not as great endpoints,
+
+01:10:53.420 --> 01:10:56.593 align:middle line:84%
+but it's like, using
+United's endpoint shares,
+
+01:10:56.593 --> 01:10:58.760 align:middle line:84%
+and where United has bigger
+shares at the endpoints,
+
+01:10:58.760 --> 01:11:00.390 align:middle line:84%
+they're going to tend
+to set higher prices.
+
+01:11:00.390 --> 01:11:02.840 align:middle line:84%
+That's going to change the
+relative prices of Southwest
+
+01:11:02.840 --> 01:11:05.390 align:middle line:90%
+and United.
+
+01:11:05.390 --> 01:11:08.570 align:middle line:84%
+Then the marginal
+cost, going back
+
+01:11:08.570 --> 01:11:15.350 align:middle line:84%
+to what Tobias lectures, if
+you first estimate the demand
+
+01:11:15.350 --> 01:11:18.315 align:middle line:84%
+elasticities, and then
+you assume that firms
+
+01:11:18.315 --> 01:11:19.940 align:middle line:84%
+are pricing optimally,
+you can back out
+
+01:11:19.940 --> 01:11:21.543 align:middle line:90%
+what the marginal costs are.
+
+01:11:21.543 --> 01:11:23.960 align:middle line:84%
+So they do that kind of approach
+where they first estimate
+
+01:11:23.960 --> 01:11:25.230 align:middle line:90%
+the demand elasticities.
+
+01:11:25.230 --> 01:11:27.230 align:middle line:84%
+Then given the
+demand elasticities,
+
+01:11:27.230 --> 01:11:29.960 align:middle line:84%
+assume price firms are
+pricing at the static optimum.
+
+01:11:29.960 --> 01:11:33.190 align:middle line:84%
+They back out what
+the costs are.
+
+01:11:33.190 --> 01:11:37.010 align:middle line:84%
+And then once they get
+a cost period by period,
+
+01:11:37.010 --> 01:11:38.980 align:middle line:84%
+they just run
+regressions on them
+
+01:11:38.980 --> 01:11:40.870 align:middle line:84%
+to estimate AR1
+coefficients and find
+
+01:11:40.870 --> 01:11:43.270 align:middle line:90%
+if they're serially correlated.
+
+01:11:43.270 --> 01:11:48.370 align:middle line:84%
+And then for entry
+costs, they just
+
+01:11:48.370 --> 01:11:51.430 align:middle line:84%
+take a subset of the data
+using 20% of the markets,
+
+01:11:51.430 --> 01:11:54.460 align:middle line:84%
+and they just say what
+distribution of entry costs--
+
+01:11:54.460 --> 01:11:57.460 align:middle line:84%
+given the demand estimates that
+we have and the profit function
+
+01:11:57.460 --> 01:12:00.340 align:middle line:84%
+we've estimated for Southwest,
+what entry costs would
+
+01:12:00.340 --> 01:12:02.140 align:middle line:84%
+rationalize the
+observed level of entry
+
+01:12:02.140 --> 01:12:04.900 align:middle line:84%
+and the observed correlation
+between entry and market size?
+
+01:12:04.900 --> 01:12:07.420 align:middle line:84%
+And they estimate the
+entry cost distributions
+
+01:12:07.420 --> 01:12:08.950 align:middle line:90%
+to match that to the data.
+
+01:12:08.950 --> 01:12:11.830 align:middle line:84%
+So that's where the
+primitives come from.
+
+01:12:11.830 --> 01:12:13.450 align:middle line:90%
+What do they look like?
+
+01:12:13.450 --> 01:12:15.700 align:middle line:84%
+OK, so here's what
+they look like.
+
+01:12:15.700 --> 01:12:17.770 align:middle line:84%
+The demand estimates
+find that these goods
+
+01:12:17.770 --> 01:12:19.840 align:middle line:90%
+are close substitutes.
+
+01:12:19.840 --> 01:12:25.300 align:middle line:84%
+After entry, the average own
+price elasticity for incumbents
+
+01:12:25.300 --> 01:12:27.730 align:middle line:90%
+is minus 2.9.
+
+01:12:27.730 --> 01:12:30.980 align:middle line:84%
+So you're still going to get
+30% markups over marginal cost,
+
+01:12:30.980 --> 01:12:34.120 align:middle line:84%
+but demand is fairly
+elastic after people
+
+01:12:34.120 --> 01:12:37.300 align:middle line:90%
+start competing with Southwest.
+
+01:12:37.300 --> 01:12:39.670 align:middle line:84%
+The marginal cost
+estimates suggest
+
+01:12:39.670 --> 01:12:43.270 align:middle line:84%
+that the traditional carriers
+are much more expensive, much
+
+01:12:43.270 --> 01:12:46.300 align:middle line:84%
+higher costs of operation
+than Southwest does.
+
+01:12:46.300 --> 01:12:50.140 align:middle line:84%
+The marginal costs
+are averaging 258--
+
+01:12:50.140 --> 01:12:53.470 align:middle line:84%
+the backed out marginal cost
+average 258 for the incumbents,
+
+01:12:53.470 --> 01:12:56.330 align:middle line:90%
+and 168 for Southwest.
+
+01:12:56.330 --> 01:12:59.274 align:middle line:84%
+So it looks like Southwest has
+a big cost advantage, which
+
+01:12:59.274 --> 01:13:00.857 align:middle line:84%
+reflected comes out
+in the data of you
+
+01:13:00.857 --> 01:13:03.280 align:middle line:84%
+see Southwest just
+pricing much lower
+
+01:13:03.280 --> 01:13:06.160 align:middle line:90%
+than their traditional rivals.
+
+01:13:06.160 --> 01:13:12.010 align:middle line:84%
+And when you do the serial
+correlation of the costs,
+
+01:13:12.010 --> 01:13:14.800 align:middle line:84%
+it looks like costs are
+very highly serially
+
+01:13:14.800 --> 01:13:15.945 align:middle line:90%
+correlated over time.
+
+01:13:15.945 --> 01:13:19.490 align:middle line:90%
+
+
+01:13:19.490 --> 01:13:21.440 align:middle line:84%
+And now on the
+calibrated entry costs,
+
+01:13:21.440 --> 01:13:25.586 align:middle line:84%
+they just say that
+we can match the--
+
+01:13:25.586 --> 01:13:28.970 align:middle line:84%
+this graph here is putting
+two things in the paper.
+
+01:13:28.970 --> 01:13:32.720 align:middle line:84%
+On the x-axis
+they've gotten the--
+
+01:13:32.720 --> 01:13:36.890 align:middle line:84%
+x-axis is the predicted
+entry probability
+
+01:13:36.890 --> 01:13:41.180 align:middle line:84%
+from a regression of entry
+on market characteristics.
+
+01:13:41.180 --> 01:13:43.670 align:middle line:84%
+The y-axis is the
+predicted entry cost
+
+01:13:43.670 --> 01:13:46.730 align:middle line:84%
+that comes out of the
+theoretical model with the entry
+
+01:13:46.730 --> 01:13:49.220 align:middle line:84%
+cost they've calibrated to
+make the two curves as close
+
+01:13:49.220 --> 01:13:50.670 align:middle line:90%
+to each other as possible.
+
+01:13:50.670 --> 01:13:53.570 align:middle line:84%
+And they notice that they can
+make these two curves look
+
+01:13:53.570 --> 01:13:56.660 align:middle line:84%
+very, very close by picking
+an appropriate entry cost
+
+01:13:56.660 --> 01:13:58.850 align:middle line:90%
+distribution.
+
+01:13:58.850 --> 01:14:01.850 align:middle line:84%
+So it's both measuring
+the-- you have
+
+01:14:01.850 --> 01:14:04.490 align:middle line:84%
+to match both the level of
+entry and the correlation
+
+01:14:04.490 --> 01:14:06.710 align:middle line:84%
+between entry and market
+size, but it looks
+
+01:14:06.710 --> 01:14:07.990 align:middle line:90%
+like they're able to do that.
+
+01:14:07.990 --> 01:14:14.220 align:middle line:90%
+
+
+01:14:14.220 --> 01:14:19.240 align:middle line:84%
+So two things they then do
+with the calibrated model.
+
+01:14:19.240 --> 01:14:22.290 align:middle line:90%
+One is, does this model--
+
+01:14:22.290 --> 01:14:27.185 align:middle line:84%
+is the limit pricing
+story explaining
+
+01:14:27.185 --> 01:14:30.120 align:middle line:84%
+how much limit pricing
+is going on in the data?
+
+01:14:30.120 --> 01:14:33.690 align:middle line:90%
+So panel B here is the data.
+
+01:14:33.690 --> 01:14:36.570 align:middle line:90%
+
+
+01:14:36.570 --> 01:14:39.090 align:middle line:84%
+How much are incumbents
+reducing price
+
+01:14:39.090 --> 01:14:42.450 align:middle line:84%
+as a function of the probability
+that entry will occur
+
+01:14:42.450 --> 01:14:44.580 align:middle line:90%
+within the first four periods?
+
+01:14:44.580 --> 01:14:47.460 align:middle line:84%
+And here, I guess
+you can see the data
+
+01:14:47.460 --> 01:14:52.620 align:middle line:84%
+in theirs must apparently
+be not quite as large
+
+01:14:52.620 --> 01:14:54.030 align:middle line:90%
+a price reduction as--
+
+01:14:54.030 --> 01:14:56.400 align:middle line:84%
+maybe it's fine if
+these are things.
+
+01:14:56.400 --> 01:15:01.980 align:middle line:84%
+It's like, we're getting in
+these intermediate size markets.
+
+01:15:01.980 --> 01:15:05.700 align:middle line:84%
+We're getting 13% or
+14% price reductions.
+
+01:15:05.700 --> 01:15:08.380 align:middle line:84%
+In these markets with very
+low entry probabilities,
+
+01:15:08.380 --> 01:15:11.050 align:middle line:84%
+we're getting like
+4% price reductions.
+
+01:15:11.050 --> 01:15:12.840 align:middle line:90%
+And then in very big--
+
+01:15:12.840 --> 01:15:15.580 align:middle line:84%
+in markets where there's almost
+sure entry, although there
+
+01:15:15.580 --> 01:15:19.930 align:middle line:84%
+are very few such markets,
+they're getting price increases.
+
+01:15:19.930 --> 01:15:23.000 align:middle line:84%
+So that's what the
+data look like.
+
+01:15:23.000 --> 01:15:26.820 align:middle line:84%
+And then this is what
+the model predicts.
+
+01:15:26.820 --> 01:15:29.970 align:middle line:84%
+The model predicts that
+in very small markets
+
+01:15:29.970 --> 01:15:33.600 align:middle line:84%
+you would have very, very tiny
+price cuts-- just a couple
+
+01:15:33.600 --> 01:15:34.590 align:middle line:90%
+percent.
+
+01:15:34.590 --> 01:15:36.330 align:middle line:84%
+In the intermediate
+sized markets,
+
+01:15:36.330 --> 01:15:39.190 align:middle line:90%
+you would have 17% price cuts.
+
+01:15:39.190 --> 01:15:40.860 align:middle line:84%
+And then as we go
+to this extreme,
+
+01:15:40.860 --> 01:15:43.230 align:middle line:90%
+we're getting 9% price cuts.
+
+01:15:43.230 --> 01:15:48.620 align:middle line:84%
+So again, it's not like the
+model is exactly fitting
+
+01:15:48.620 --> 01:15:50.330 align:middle line:90%
+the data, but the model is--
+
+01:15:50.330 --> 01:15:54.080 align:middle line:84%
+it's the model that they've
+estimated not using the pricing
+
+01:15:54.080 --> 01:15:56.522 align:middle line:84%
+data from the period when
+the threat of entry occurred.
+
+01:15:56.522 --> 01:15:57.980 align:middle line:84%
+And this is what
+the model predicts
+
+01:15:57.980 --> 01:15:59.848 align:middle line:84%
+will happen in
+that threat period.
+
+01:15:59.848 --> 01:16:01.890 align:middle line:84%
+And this is what did happen
+in the threat period,
+
+01:16:01.890 --> 01:16:04.958 align:middle line:84%
+and they argue that it seems
+like quantitatively, the model
+
+01:16:04.958 --> 01:16:07.250 align:middle line:84%
+is doing a pretty good job
+of explaining how much limit
+
+01:16:07.250 --> 01:16:09.390 align:middle line:90%
+pricing there is.
+
+01:16:09.390 --> 01:16:13.530 align:middle line:84%
+And so we'll say, they think the
+limit pricing is explaining why
+
+01:16:13.530 --> 01:16:15.420 align:middle line:84%
+this is-- the signaling
+is explaining--
+
+01:16:15.420 --> 01:16:17.362 align:middle line:90%
+could be explaining--
+
+01:16:17.362 --> 01:16:19.320 align:middle line:84%
+let me say, signaling is
+of the right magnitude
+
+01:16:19.320 --> 01:16:23.271 align:middle line:84%
+to explain why
+this is happening.
+
+01:16:23.271 --> 01:16:24.660 align:middle line:84%
+And then the second
+thing they do
+
+01:16:24.660 --> 01:16:27.580 align:middle line:84%
+is talk about what are
+the welfare effects.
+
+01:16:27.580 --> 01:16:32.905 align:middle line:84%
+And I guess, not
+surprisingly, limit pricing
+
+01:16:32.905 --> 01:16:34.530 align:middle line:84%
+is really good here
+compared to a model
+
+01:16:34.530 --> 01:16:35.760 align:middle line:90%
+with known incumbent costs.
+
+01:16:35.760 --> 01:16:39.860 align:middle line:84%
+Because those limit pricing
+models are like this--
+
+01:16:39.860 --> 01:16:43.290 align:middle line:90%
+
+
+01:16:43.290 --> 01:16:46.590 align:middle line:84%
+if you think about relative
+to complete information,
+
+01:16:46.590 --> 01:16:48.660 align:middle line:84%
+firms are pricing a lot
+lower, and they're not
+
+01:16:48.660 --> 01:16:51.010 align:middle line:90%
+affecting the entry much.
+
+01:16:51.010 --> 01:17:01.050 align:middle line:84%
+And so you know
+by pricing lower,
+
+01:17:01.050 --> 01:17:03.810 align:middle line:84%
+there's a substantial
+increase in consumer surplus
+
+01:17:03.810 --> 01:17:05.440 align:middle line:90%
+from the limit pricing.
+
+01:17:05.440 --> 01:17:08.680 align:middle line:84%
+There's a loss in incumbent
+profits from the limit pricing,
+
+01:17:08.680 --> 01:17:11.290 align:middle line:84%
+but essentially, we're
+eliminating the deadweight loss.
+
+01:17:11.290 --> 01:17:13.020 align:middle line:84%
+And so by limiting
+the deadweight loss,
+
+01:17:13.020 --> 01:17:16.010 align:middle line:90%
+we're making things much better.
+
+01:17:16.010 --> 01:17:18.510 align:middle line:84%
+And the only place where they
+argue that this doesn't happen
+
+01:17:18.510 --> 01:17:22.390 align:middle line:84%
+is in the very large
+markets where there's
+
+01:17:22.390 --> 01:17:23.980 align:middle line:90%
+much limit pricing going on.
+
+01:17:23.980 --> 01:17:27.910 align:middle line:84%
+There, there's not really
+much of a welfare gain
+
+01:17:27.910 --> 01:17:30.890 align:middle line:84%
+because the incumbents don't
+really do much limit pricing.
+
+01:17:30.890 --> 01:17:33.560 align:middle line:84%
+But in general, the limit
+pricing just lowers prices.
+
+01:17:33.560 --> 01:17:35.320 align:middle line:84%
+You have these consumer
+preferences where
+
+01:17:35.320 --> 01:17:36.950 align:middle line:90%
+that reduces deadweight loss.
+
+01:17:36.950 --> 01:17:39.795 align:middle line:84%
+This limit pricing is a
+socially beneficial thing.
+
+01:17:39.795 --> 01:17:46.300 align:middle line:90%
+
+
+01:17:46.300 --> 01:17:48.130 align:middle line:90%
+OK, questions?
+
+01:17:48.130 --> 01:17:49.170 align:middle line:90%
+No?
+
+01:17:49.170 --> 01:17:49.670 align:middle line:90%
+OK.
+
+01:17:49.670 --> 01:17:55.680 align:middle line:84%
+So I just want to say,
+very nice structural paper
+
+01:17:55.680 --> 01:17:59.720 align:middle line:90%
+on entry deterrence.
+
+01:17:59.720 --> 01:18:02.160 align:middle line:84%
+Stephen Ryan has
+a very nice paper.
+
+01:18:02.160 --> 01:18:04.920 align:middle line:84%
+I'm leaving it for [14.]273
+because it uses a lot
+
+01:18:04.920 --> 01:18:07.900 align:middle line:84%
+of methodology that's
+covered in [14.]273.
+
+01:18:07.900 --> 01:18:10.470 align:middle line:84%
+But the basic thing
+of Stephen's paper
+
+01:18:10.470 --> 01:18:18.458 align:middle line:84%
+is looking at when you raise
+environmental regulations, one
+
+01:18:18.458 --> 01:18:20.250 align:middle line:84%
+of the costs the
+environmental regulations,
+
+01:18:20.250 --> 01:18:21.780 align:middle line:84%
+is they make entry
+more difficult.
+
+01:18:21.780 --> 01:18:25.440 align:middle line:84%
+But then the incumbents don't
+have to strategically deter
+
+01:18:25.440 --> 01:18:28.620 align:middle line:84%
+entry anymore, so you can
+get much higher pricing
+
+01:18:28.620 --> 01:18:33.330 align:middle line:84%
+as an additional cost of
+environmental regulation.
+
+01:18:33.330 --> 01:18:36.430 align:middle line:84%
+Anyway, that's covered
+well in [14.]273.
+
+01:18:36.430 --> 01:18:39.990 align:middle line:84%
+So next week, again,
+might shift gears.
+
+01:18:39.990 --> 01:18:43.060 align:middle line:84%
+Next week, I'm going to talk
+about bounded rationality.
+
+01:18:43.060 --> 01:18:45.960 align:middle line:84%
+Not 100% sure what I'm going
+do with those two lectures.
+
+01:18:45.960 --> 01:18:47.860 align:middle line:90%
+I may mix them up somewhat.
+
+01:18:47.860 --> 01:18:50.220 align:middle line:84%
+But anyway, next week, I'll
+be doing something talking
+
+01:18:50.220 --> 01:18:52.880 align:middle line:90%
+about bounded rationality.
+
+01:18:52.880 --> 01:19:06.000 align:middle line:90%

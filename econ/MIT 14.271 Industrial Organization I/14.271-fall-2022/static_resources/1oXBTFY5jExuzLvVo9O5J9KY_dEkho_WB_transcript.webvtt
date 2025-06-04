@@ -1,0 +1,5938 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:00.980 align:middle line:90%
+
+
+00:00:00.980 --> 00:00:02.940 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.940 --> 00:00:04.410 align:middle line:90%
+[RUSTLING]
+
+00:00:04.410 --> 00:00:07.350 align:middle line:90%
+[CLICKING]
+
+00:00:07.350 --> 00:00:17.460 align:middle line:90%
+
+
+00:00:17.460 --> 00:00:20.760 align:middle line:84%
+GLENN ELLISON: OK, let me
+go ahead and get started.
+
+00:00:20.760 --> 00:00:26.460 align:middle line:84%
+So today I'm starting my
+week on static competition.
+
+00:00:26.460 --> 00:00:29.670 align:middle line:84%
+So think about
+what's going on here.
+
+00:00:29.670 --> 00:00:33.190 align:middle line:84%
+So far, the first two weeks have
+mostly been monopoly models.
+
+00:00:33.190 --> 00:00:38.490 align:middle line:84%
+Obviously, most industries
+or most things of interest
+
+00:00:38.490 --> 00:00:39.940 align:middle line:90%
+have multiple firms in it.
+
+00:00:39.940 --> 00:00:41.850 align:middle line:84%
+So I'm going to now
+start every lecture
+
+00:00:41.850 --> 00:00:43.350 align:middle line:84%
+for the rest of the
+term, it's going
+
+00:00:43.350 --> 00:00:46.440 align:middle line:90%
+to be multiple firms competing.
+
+00:00:46.440 --> 00:00:48.640 align:middle line:84%
+When Tirole goes
+through his book,
+
+00:00:48.640 --> 00:00:51.870 align:middle line:84%
+he does this long-run
+to short-run chart
+
+00:00:51.870 --> 00:00:56.040 align:middle line:84%
+where he talks about in the
+short-run firms can basically
+
+00:00:56.040 --> 00:00:58.900 align:middle line:84%
+do nothing in competing with
+each other than setting prices.
+
+00:00:58.900 --> 00:01:01.740 align:middle line:84%
+And then you get a sequence
+of variables that take
+
+00:01:01.740 --> 00:01:03.310 align:middle line:90%
+longer and longer to adjust.
+
+00:01:03.310 --> 00:01:07.115 align:middle line:84%
+And I think the way his book
+is written is, in some sense,
+
+00:01:07.115 --> 00:01:08.490 align:middle line:84%
+the way we solve
+models is always
+
+00:01:08.490 --> 00:01:11.233 align:middle line:84%
+by backward-- like multi-stage
+games by backward induction.
+
+00:01:11.233 --> 00:01:13.900 align:middle line:84%
+You solve the last stage and the
+next to last stage and the next
+
+00:01:13.900 --> 00:01:14.860 align:middle line:90%
+to last stage.
+
+00:01:14.860 --> 00:01:17.380 align:middle line:84%
+And so his book is
+written this way, where
+
+00:01:17.380 --> 00:01:18.640 align:middle line:90%
+you go backward from here.
+
+00:01:18.640 --> 00:01:22.602 align:middle line:84%
+And that's how my
+course is written.
+
+00:01:22.602 --> 00:01:24.310 align:middle line:84%
+Although, these days
+it's really going to
+
+00:01:24.310 --> 00:01:27.790 align:middle line:84%
+be an awful lot of discussion
+of this and then other things
+
+00:01:27.790 --> 00:01:30.970 align:middle line:90%
+just as individual topics.
+
+00:01:30.970 --> 00:01:35.770 align:middle line:84%
+So the next few weeks, it's
+going to be short-run things.
+
+00:01:35.770 --> 00:01:37.840 align:middle line:84%
+When we're discussing
+short-run competition,
+
+00:01:37.840 --> 00:01:38.870 align:middle line:90%
+what do we talk about?
+
+00:01:38.870 --> 00:01:42.830 align:middle line:84%
+One of the big things we
+talk about is markups.
+
+00:01:42.830 --> 00:01:44.890 align:middle line:84%
+We talk about markups
+a lot because markups
+
+00:01:44.890 --> 00:01:46.130 align:middle line:90%
+lead to deadweight loss.
+
+00:01:46.130 --> 00:01:48.550 align:middle line:90%
+That's a major welfare concern.
+
+00:01:48.550 --> 00:01:50.825 align:middle line:84%
+But they're also
+going to be, just
+
+00:01:50.825 --> 00:01:53.200 align:middle line:84%
+like in price discrimination,
+you get that second welfare
+
+00:01:53.200 --> 00:01:57.650 align:middle line:84%
+concern of the misallocation of
+the goods that are being sold.
+
+00:01:57.650 --> 00:02:00.710 align:middle line:84%
+We'll also get
+mispurchasing of goods
+
+00:02:00.710 --> 00:02:02.910 align:middle line:84%
+that becomes another
+consideration here as well.
+
+00:02:02.910 --> 00:02:04.660 align:middle line:84%
+So what I'm going to
+do in this lecture is
+
+00:02:04.660 --> 00:02:07.420 align:middle line:84%
+I'm going to start with all
+of the classic stuff in I/O
+
+00:02:07.420 --> 00:02:09.880 align:middle line:84%
+that people don't do
+anymore but do that as,
+
+00:02:09.880 --> 00:02:11.920 align:middle line:84%
+I think, background
+for things that
+
+00:02:11.920 --> 00:02:15.880 align:middle line:84%
+is how modern studies
+of competition are done.
+
+00:02:15.880 --> 00:02:18.240 align:middle line:84%
+So anyway, I start--
+and I'm talking
+
+00:02:18.240 --> 00:02:19.480 align:middle line:90%
+about old historical stuff.
+
+00:02:19.480 --> 00:02:24.860 align:middle line:84%
+And I added some pictures
+of the old, dead white guys
+
+00:02:24.860 --> 00:02:26.100 align:middle line:90%
+who developed these things.
+
+00:02:26.100 --> 00:02:32.090 align:middle line:84%
+So there's Cournot,
+Cournot competition 1838.
+
+00:02:32.090 --> 00:02:34.073 align:middle line:84%
+So obviously,
+Cournot was thinking
+
+00:02:34.073 --> 00:02:35.990 align:middle line:84%
+about a world that's
+very different from ours,
+
+00:02:35.990 --> 00:02:38.900 align:middle line:84%
+a world in which many of the
+things that people bought
+
+00:02:38.900 --> 00:02:44.330 align:middle line:84%
+were completely undifferentiated
+goods, like wheat and corn
+
+00:02:44.330 --> 00:02:48.650 align:middle line:84%
+and wool, or whatever, where
+just a product is a product.
+
+00:02:48.650 --> 00:02:51.060 align:middle line:84%
+And there's a universal
+market for it.
+
+00:02:51.060 --> 00:02:54.217 align:middle line:84%
+So Cournot thought about a
+model where you had n firms.
+
+00:02:54.217 --> 00:02:56.300 align:middle line:84%
+There was some homogeneous
+good that they were all
+
+00:02:56.300 --> 00:02:57.950 align:middle line:84%
+producing that
+had inverse demand
+
+00:02:57.950 --> 00:03:02.900 align:middle line:84%
+P of X. The producers have
+cost functions, ci of xi that
+
+00:03:02.900 --> 00:03:09.920 align:middle line:84%
+depend on what is the
+quantity produced by Firm I.
+
+00:03:09.920 --> 00:03:12.870 align:middle line:84%
+In some sense, Cournot
+invented Nash equilibrium.
+
+00:03:12.870 --> 00:03:14.380 align:middle line:90%
+So Cournot thought of a model.
+
+00:03:14.380 --> 00:03:16.640 align:middle line:84%
+He had this timing where
+the firms are simultaneously
+
+00:03:16.640 --> 00:03:19.755 align:middle line:90%
+choosing outputs x1 through xn.
+
+00:03:19.755 --> 00:03:21.380 align:middle line:84%
+When they choose
+those outputs, they're
+
+00:03:21.380 --> 00:03:23.740 align:middle line:84%
+going to all bring their
+goods to the market.
+
+00:03:23.740 --> 00:03:26.300 align:middle line:84%
+There's going to be a
+market-determined price.
+
+00:03:26.300 --> 00:03:31.220 align:middle line:84%
+And all the firms are
+choosing their quantity,
+
+00:03:31.220 --> 00:03:33.710 align:middle line:84%
+assuming that the quantities
+chosen by the other firms
+
+00:03:33.710 --> 00:03:34.730 align:middle line:90%
+are all held fixed.
+
+00:03:34.730 --> 00:03:37.700 align:middle line:84%
+And that's going to be the
+optimality condition, OK?
+
+00:03:37.700 --> 00:03:40.790 align:middle line:90%
+
+
+00:03:40.790 --> 00:03:43.170 align:middle line:84%
+OK, what happens in
+Cournot competition?
+
+00:03:43.170 --> 00:03:46.790 align:middle line:84%
+So in Cournot
+competition, the firm
+
+00:03:46.790 --> 00:03:57.580 align:middle line:84%
+is maximizing over
+xi, xi times P of xi
+
+00:03:57.580 --> 00:04:06.400 align:middle line:84%
+plus sum over j different
+from i xj minus ci of xi.
+
+00:04:06.400 --> 00:04:09.880 align:middle line:84%
+So that's every firm's
+maximization problem,
+
+00:04:09.880 --> 00:04:14.230 align:middle line:84%
+is maximize quantity times the
+market price minus the cost.
+
+00:04:14.230 --> 00:04:18.100 align:middle line:84%
+Your quantity affects
+how much you produce.
+
+00:04:18.100 --> 00:04:20.320 align:middle line:84%
+It ends up affecting
+the market price
+
+00:04:20.320 --> 00:04:23.890 align:middle line:84%
+through its impact on
+the aggregate supply.
+
+00:04:23.890 --> 00:04:28.300 align:middle line:84%
+And it obviously affects
+your cost of production.
+
+00:04:28.300 --> 00:04:29.930 align:middle line:90%
+So what do we get?
+
+00:04:29.930 --> 00:04:32.120 align:middle line:84%
+Well, if a profile is
+a Nash equilibrium,
+
+00:04:32.120 --> 00:04:37.580 align:middle line:84%
+it's got to satisfy first-order
+condition for this for each i.
+
+00:04:37.580 --> 00:04:39.735 align:middle line:84%
+What does the first-order
+condition look like?
+
+00:04:39.735 --> 00:04:42.850 align:middle line:90%
+
+
+00:04:42.850 --> 00:04:46.180 align:middle line:84%
+So first, it's this times the
+derivative of this gives you,
+
+00:04:46.180 --> 00:04:50.200 align:middle line:84%
+you get a P of the sum of
+the xi's minus the derivative
+
+00:04:50.200 --> 00:04:52.130 align:middle line:90%
+of this is marginal cost.
+
+00:04:52.130 --> 00:04:59.150 align:middle line:84%
+The third term in the thing is
+xi times the derivative of that.
+
+00:04:59.150 --> 00:05:04.450 align:middle line:84%
+So we get Pi prime
+times xi star equals 0.
+
+00:05:04.450 --> 00:05:07.690 align:middle line:84%
+So this is what the
+classic Cournot first-order
+
+00:05:07.690 --> 00:05:08.730 align:middle line:90%
+condition looks like.
+
+00:05:08.730 --> 00:05:15.080 align:middle line:90%
+
+
+00:05:15.080 --> 00:05:16.980 align:middle line:90%
+What are some implications?
+
+00:05:16.980 --> 00:05:22.640 align:middle line:84%
+So first of all, price ends
+up greater than marginal cost.
+
+00:05:22.640 --> 00:05:26.840 align:middle line:84%
+This is price minus marginal
+cost is the first term.
+
+00:05:26.840 --> 00:05:29.940 align:middle line:84%
+If xi is a positive number,
+P prime is a negative number.
+
+00:05:29.940 --> 00:05:33.710 align:middle line:84%
+So this is price minus
+marginal cost equals minus Pi
+
+00:05:33.710 --> 00:05:37.220 align:middle line:90%
+prime xi is a positive number.
+
+00:05:37.220 --> 00:05:38.690 align:middle line:90%
+Production in a Cournot--
+
+00:05:38.690 --> 00:05:41.460 align:middle line:84%
+so we get a second welfare
+loss in a Cournot oligopoly.
+
+00:05:41.460 --> 00:05:44.610 align:middle line:84%
+So the first welfare loss
+is there's deadweight loss.
+
+00:05:44.610 --> 00:05:47.310 align:middle line:84%
+Second is production is
+inefficient in a Cournot
+
+00:05:47.310 --> 00:05:48.530 align:middle line:90%
+oligopoly.
+
+00:05:48.530 --> 00:05:52.100 align:middle line:84%
+Production is inefficient
+in an asymmetric oligopoly
+
+00:05:52.100 --> 00:05:55.910 align:middle line:84%
+because if the firms are
+asymmetric in equilibrium,
+
+00:05:55.910 --> 00:05:58.250 align:middle line:84%
+x1 is going to be
+different from x2.
+
+00:05:58.250 --> 00:06:02.420 align:middle line:84%
+If x1 is different from x2 and P
+prime is the same for everyone,
+
+00:06:02.420 --> 00:06:04.670 align:middle line:84%
+because it's evaluated
+at the aggregate demand,
+
+00:06:04.670 --> 00:06:07.290 align:middle line:84%
+then that means-- then the
+P is the same for everyone.
+
+00:06:07.290 --> 00:06:10.490 align:middle line:84%
+That means the c primes
+have to be different.
+
+00:06:10.490 --> 00:06:15.680 align:middle line:84%
+So in an asymmetric
+Cournot oligopoly,
+
+00:06:15.680 --> 00:06:18.548 align:middle line:84%
+the realized marginal
+costs are different.
+
+00:06:18.548 --> 00:06:20.090 align:middle line:84%
+So the quantity
+that's being produced
+
+00:06:20.090 --> 00:06:23.110 align:middle line:90%
+is being produced inefficiently.
+
+00:06:23.110 --> 00:06:25.750 align:middle line:84%
+OK, example to think
+about this is for--
+
+00:06:25.750 --> 00:06:29.000 align:middle line:90%
+
+
+00:06:29.000 --> 00:06:32.270 align:middle line:84%
+if you think about the model for
+producing oil in the world today
+
+00:06:32.270 --> 00:06:34.050 align:middle line:84%
+is something like a
+Cournot oligopoly.
+
+00:06:34.050 --> 00:06:35.180 align:middle line:90%
+There's a set of countries.
+
+00:06:35.180 --> 00:06:38.210 align:middle line:84%
+Every country, the ones
+we're centrally producing
+
+00:06:38.210 --> 00:06:41.380 align:middle line:84%
+are choosing how
+much to produce.
+
+00:06:41.380 --> 00:06:44.390 align:middle line:84%
+If each country is
+maximizing its production,
+
+00:06:44.390 --> 00:06:46.040 align:middle line:84%
+then you're going
+to have countries
+
+00:06:46.040 --> 00:06:48.440 align:middle line:84%
+like Saudi Arabia has oil
+that they could pump out
+
+00:06:48.440 --> 00:06:51.050 align:middle line:84%
+of the ground for $5 a
+barrel or $10 a barrel
+
+00:06:51.050 --> 00:06:53.010 align:middle line:84%
+that they're not pumping
+it out of the ground.
+
+00:06:53.010 --> 00:06:56.910 align:middle line:84%
+Canada is getting oil out of
+tar sands for $50 a barrel.
+
+00:06:56.910 --> 00:07:01.190 align:middle line:84%
+And there's an inefficiency
+there from low-cost producers
+
+00:07:01.190 --> 00:07:03.740 align:middle line:84%
+not producing, while high-cost
+producers are producing,
+
+00:07:03.740 --> 00:07:06.260 align:middle line:90%
+holding the quantity fixed.
+
+00:07:06.260 --> 00:07:10.860 align:middle line:84%
+OK, firm outputs are usually
+strategic substitutes.
+
+00:07:10.860 --> 00:07:15.380 align:middle line:84%
+So if you look at a Cournot
+model, if I put q1 on this axis
+
+00:07:15.380 --> 00:07:20.690 align:middle line:84%
+and do what's the best response
+for Firm 2 to an output of q1,
+
+00:07:20.690 --> 00:07:24.230 align:middle line:84%
+you get this
+downward-sloping line.
+
+00:07:24.230 --> 00:07:26.790 align:middle line:84%
+And the equilibrium
+looks like this.
+
+00:07:26.790 --> 00:07:33.680 align:middle line:84%
+If I put q2 on this axis
+and graph BR1 of q2,
+
+00:07:33.680 --> 00:07:37.190 align:middle line:84%
+Cournot equilibrium is
+typically this intersection
+
+00:07:37.190 --> 00:07:40.590 align:middle line:90%
+of two downward-sloping lines.
+
+00:07:40.590 --> 00:07:43.620 align:middle line:84%
+OK, that's what it
+normally looks like.
+
+00:07:43.620 --> 00:07:45.398 align:middle line:84%
+It doesn't have
+to look like that.
+
+00:07:45.398 --> 00:07:47.440 align:middle line:84%
+And the Cournot equilibrium
+is not always unique.
+
+00:07:47.440 --> 00:07:49.560 align:middle line:84%
+You could imagine
+if you could somehow
+
+00:07:49.560 --> 00:07:51.570 align:middle line:84%
+draw these things
+with wiggles in them
+
+00:07:51.570 --> 00:07:55.370 align:middle line:84%
+so that they intersect
+multiple times.
+
+00:07:55.370 --> 00:08:02.200 align:middle line:84%
+OK, fourth result of this,
+take this expression, price
+
+00:08:02.200 --> 00:08:07.330 align:middle line:84%
+minus cost is minus xi
+star P prime, and then
+
+00:08:07.330 --> 00:08:09.940 align:middle line:90%
+divide both sides by price.
+
+00:08:09.940 --> 00:08:13.960 align:middle line:84%
+I get an expression that looks
+very much like the monopoly
+
+00:08:13.960 --> 00:08:16.630 align:middle line:84%
+pricing expression,
+except it has
+
+00:08:16.630 --> 00:08:19.270 align:middle line:84%
+an xi star on the right-hand
+side instead of having
+
+00:08:19.270 --> 00:08:21.590 align:middle line:90%
+an x star on the right side.
+
+00:08:21.590 --> 00:08:24.320 align:middle line:84%
+But in some sense this is the
+monopoly first-order condition.
+
+00:08:24.320 --> 00:08:26.770 align:middle line:84%
+So because this is the
+monopoly first-order condition,
+
+00:08:26.770 --> 00:08:29.410 align:middle line:84%
+except with an xi here
+instead of a capital X
+
+00:08:29.410 --> 00:08:33.130 align:middle line:84%
+here, I get this
+expression, price
+
+00:08:33.130 --> 00:08:37.419 align:middle line:84%
+minus marginal cost over
+price is minus xi over x star
+
+00:08:37.419 --> 00:08:39.280 align:middle line:90%
+times 1 over epsilon.
+
+00:08:39.280 --> 00:08:43.390 align:middle line:84%
+So if we think about how does
+competition reduce markups
+
+00:08:43.390 --> 00:08:46.930 align:middle line:84%
+in the Cournot model,
+obviously, elasticities--
+
+00:08:46.930 --> 00:08:48.880 align:middle line:84%
+if you don't have a
+constant elasticity demand
+
+00:08:48.880 --> 00:08:51.970 align:middle line:84%
+curve, elasticities also
+change as output changes,
+
+00:08:51.970 --> 00:08:54.510 align:middle line:84%
+because the elasticity
+is nonconstant.
+
+00:08:54.510 --> 00:08:58.090 align:middle line:84%
+But if you think about the
+constant elasticity intuition,
+
+00:08:58.090 --> 00:09:00.880 align:middle line:84%
+this is going to say
+that, in N firm oligopoly,
+
+00:09:00.880 --> 00:09:04.060 align:middle line:84%
+prices are going to go
+down roughly like 1 over n.
+
+00:09:04.060 --> 00:09:05.830 align:middle line:84%
+And this is one of
+the features that
+
+00:09:05.830 --> 00:09:08.800 align:middle line:84%
+made Cournot popular is that
+people have this intuition.
+
+00:09:08.800 --> 00:09:10.910 align:middle line:90%
+With monopoly, prices are high.
+
+00:09:10.910 --> 00:09:14.140 align:middle line:84%
+As you get more competition
+in, prices ought to decline,
+
+00:09:14.140 --> 00:09:17.290 align:middle line:84%
+and they ought to decline
+in some decreasing
+
+00:09:17.290 --> 00:09:18.910 align:middle line:90%
+returns to competition way.
+
+00:09:18.910 --> 00:09:21.550 align:middle line:84%
+And they ought to asymptote
+to perfect competition
+
+00:09:21.550 --> 00:09:23.920 align:middle line:84%
+as the number of firms
+goes to infinity.
+
+00:09:23.920 --> 00:09:25.730 align:middle line:84%
+And Cournot has
+those properties,
+
+00:09:25.730 --> 00:09:27.640 align:middle line:84%
+and that's one of
+the reasons why it
+
+00:09:27.640 --> 00:09:29.220 align:middle line:90%
+became a popular model to use.
+
+00:09:29.220 --> 00:09:32.530 align:middle line:90%
+
+
+00:09:32.530 --> 00:09:36.490 align:middle line:84%
+OK, notice that,
+like marginal costs
+
+00:09:36.490 --> 00:09:38.840 align:middle line:84%
+are different with
+asymmetric firms,
+
+00:09:38.840 --> 00:09:41.500 align:middle line:84%
+Lerner indexes are different
+with asymmetric firms
+
+00:09:41.500 --> 00:09:46.060 align:middle line:84%
+because each firm's
+markup is xi over x star.
+
+00:09:46.060 --> 00:09:48.980 align:middle line:84%
+And so the xi's are not all
+1 over n at equilibrium.
+
+00:09:48.980 --> 00:09:51.040 align:middle line:90%
+The markups are different.
+
+00:09:51.040 --> 00:09:54.310 align:middle line:84%
+So we can think about
+what is the average markup
+
+00:09:54.310 --> 00:09:56.390 align:middle line:90%
+in an industry across firms?
+
+00:09:56.390 --> 00:10:00.130 align:middle line:84%
+So let's define the
+industry-wide Lerner
+
+00:10:00.130 --> 00:10:06.100 align:middle line:84%
+index to be price minus average
+marginal cost over price,
+
+00:10:06.100 --> 00:10:10.360 align:middle line:84%
+where we take a weighted
+average of the marginal costs,
+
+00:10:10.360 --> 00:10:13.580 align:middle line:90%
+giving weight xi over x star.
+
+00:10:13.580 --> 00:10:16.330 align:middle line:84%
+So we give more weight to the
+firms that are producing more.
+
+00:10:16.330 --> 00:10:21.070 align:middle line:84%
+So this is price minus average
+marginal cost over price.
+
+00:10:21.070 --> 00:10:23.890 align:middle line:84%
+Theorem is that--
+and you can just--
+
+00:10:23.890 --> 00:10:26.560 align:middle line:84%
+this is just basically taking
+a weighted average of these,
+
+00:10:26.560 --> 00:10:27.880 align:middle line:90%
+weighting them by xi.
+
+00:10:27.880 --> 00:10:34.310 align:middle line:84%
+So the theorem is that the
+industry-average Lerner index
+
+00:10:34.310 --> 00:10:39.710 align:middle line:84%
+is negative H over epsilon,
+where H is the sum of xi
+
+00:10:39.710 --> 00:10:42.590 align:middle line:90%
+over x star squared.
+
+00:10:42.590 --> 00:10:46.310 align:middle line:84%
+OK, so H is the sum of
+the squared market shares.
+
+00:10:46.310 --> 00:10:50.960 align:middle line:84%
+And so the Cournot
+model predicts that--
+
+00:10:50.960 --> 00:10:53.480 align:middle line:90%
+
+
+00:10:53.480 --> 00:10:57.800 align:middle line:84%
+the Cournot model predicts
+that the markup in an industry
+
+00:10:57.800 --> 00:11:01.700 align:middle line:84%
+depends on sum of
+squared market shares.
+
+00:11:01.700 --> 00:11:04.970 align:middle line:84%
+And sum of squared markup
+shares is a summary statistic
+
+00:11:04.970 --> 00:11:06.300 align:middle line:90%
+for how large markups are.
+
+00:11:06.300 --> 00:11:11.150 align:middle line:84%
+And this was sufficiently
+influential that if you go back
+
+00:11:11.150 --> 00:11:14.060 align:middle line:84%
+and read how US merger
+guidelines were designed
+
+00:11:14.060 --> 00:11:18.950 align:middle line:84%
+in the 1950s, they explicitly
+refer to Herfindahl indexes.
+
+00:11:18.950 --> 00:11:21.590 align:middle line:84%
+And they're explicitly
+referring to Herfindahl indexes
+
+00:11:21.590 --> 00:11:24.335 align:middle line:90%
+in the sense of like if--
+
+00:11:24.335 --> 00:11:26.960 align:middle line:84%
+I forget what the numbers are,
+but they're something like this.
+
+00:11:26.960 --> 00:11:30.740 align:middle line:84%
+If the Herfindahl index in an
+industry is less than 0.18,
+
+00:11:30.740 --> 00:11:32.790 align:middle line:90%
+then we will allow mergers.
+
+00:11:32.790 --> 00:11:38.330 align:middle line:84%
+And if the Herfindahl index
+is between 0.18 and 0.28
+
+00:11:38.330 --> 00:11:41.720 align:middle line:90%
+and the delta H--
+
+00:11:41.720 --> 00:11:43.880 align:middle line:84%
+then what we'll do is
+look at whether delta H is
+
+00:11:43.880 --> 00:11:47.120 align:middle line:90%
+less than or greater than 0.01.
+
+00:11:47.120 --> 00:11:50.525 align:middle line:84%
+And they will tend to consider
+mergers as questionable
+
+00:11:50.525 --> 00:11:53.150 align:middle line:84%
+or not, depending on whether the
+change in the Herfindahl index
+
+00:11:53.150 --> 00:11:55.247 align:middle line:90%
+is bigger or smaller than 0.01.
+
+00:11:55.247 --> 00:11:57.830 align:middle line:84%
+And then, for industries where
+the Herfindahl index is already
+
+00:11:57.830 --> 00:12:02.040 align:middle line:84%
+above 0.28, then they're
+going to be-- then
+
+00:12:02.040 --> 00:12:04.040 align:middle line:84%
+they're going to be--
+then mergers are typically
+
+00:12:04.040 --> 00:12:05.340 align:middle line:90%
+not going to be allowed.
+
+00:12:05.340 --> 00:12:09.050 align:middle line:84%
+But this is just-- because
+the Herfindahl index
+
+00:12:09.050 --> 00:12:10.640 align:middle line:84%
+had this role in
+the theorem that it
+
+00:12:10.640 --> 00:12:13.530 align:middle line:84%
+was a measure of how
+competitive an industry was,
+
+00:12:13.530 --> 00:12:16.620 align:middle line:84%
+it took this very central
+role in competition.
+
+00:12:16.620 --> 00:12:18.170 align:middle line:90%
+And if you look at the--
+
+00:12:18.170 --> 00:12:23.370 align:middle line:84%
+I discussed the industry cross
+section I/O from the 1960s,
+
+00:12:23.370 --> 00:12:26.552 align:middle line:84%
+constant regressions of
+mark-ups on Herfindahl indexes
+
+00:12:26.552 --> 00:12:29.010 align:middle line:84%
+because the Herfindahl index
+was supposed to be the correct
+
+00:12:29.010 --> 00:12:32.340 align:middle line:84%
+measure of how concentrated
+an industry was.
+
+00:12:32.340 --> 00:12:35.310 align:middle line:84%
+One thing to note,
+though, you definitely
+
+00:12:35.310 --> 00:12:38.730 align:middle line:84%
+should not be thinking of the
+Herfindahl index as a welfare
+
+00:12:38.730 --> 00:12:41.130 align:middle line:84%
+proxy because you
+think about it,
+
+00:12:41.130 --> 00:12:44.250 align:middle line:84%
+it's measuring mark-ups relative
+to the cost they're there.
+
+00:12:44.250 --> 00:12:46.020 align:middle line:84%
+So, for instance, if
+you have two firms
+
+00:12:46.020 --> 00:12:49.500 align:middle line:84%
+that are perfectly symmetric,
+the Herfindahl index is 0.5.
+
+00:12:49.500 --> 00:12:52.620 align:middle line:84%
+It's 1/2 squared plus
+1/2 squared is 0.5.
+
+00:12:52.620 --> 00:12:54.930 align:middle line:84%
+Suppose one of those
+firms gets more efficient
+
+00:12:54.930 --> 00:12:56.650 align:middle line:90%
+and lowers its cost.
+
+00:12:56.650 --> 00:13:00.990 align:middle line:84%
+When it lowers its cost,
+everyone is better off.
+
+00:13:00.990 --> 00:13:04.170 align:middle line:84%
+Social welfare goes up, but
+the Herfindahl index also
+
+00:13:04.170 --> 00:13:06.060 align:middle line:84%
+goes up because the
+firm with a lower cost
+
+00:13:06.060 --> 00:13:09.365 align:middle line:84%
+now starts producing a
+higher share of the output.
+
+00:13:09.365 --> 00:13:14.100 align:middle line:90%
+
+
+00:13:14.100 --> 00:13:17.310 align:middle line:90%
+In the old days, one could--
+
+00:13:17.310 --> 00:13:20.160 align:middle line:84%
+and let me say, I think
+big mistake students still
+
+00:13:20.160 --> 00:13:22.290 align:middle line:84%
+make today is trying
+to be too original.
+
+00:13:22.290 --> 00:13:23.790 align:middle line:84%
+I think almost
+the best way to do
+
+00:13:23.790 --> 00:13:25.707 align:middle line:84%
+research, especially
+when you're starting out,
+
+00:13:25.707 --> 00:13:28.030 align:middle line:84%
+is always to take some existing
+paper and improve on it
+
+00:13:28.030 --> 00:13:31.038 align:middle line:84%
+because if you take an existing
+paper, you improve on it.
+
+00:13:31.038 --> 00:13:33.580 align:middle line:84%
+You've got something better than
+an existing published paper.
+
+00:13:33.580 --> 00:13:36.900 align:middle line:84%
+Whereas, you start from scratch
+with some creative idea.
+
+00:13:36.900 --> 00:13:37.920 align:middle line:90%
+You spend years on it.
+
+00:13:37.920 --> 00:13:40.337 align:middle line:84%
+And then you realize two years
+later that what you've done
+
+00:13:40.337 --> 00:13:43.000 align:middle line:84%
+has created a worse version of
+something that already exists.
+
+00:13:43.000 --> 00:13:46.050 align:middle line:84%
+Whereas, if you start with
+the existing frontier paper,
+
+00:13:46.050 --> 00:13:47.560 align:middle line:90%
+you know where the frontier is.
+
+00:13:47.560 --> 00:13:48.370 align:middle line:90%
+You improve on it.
+
+00:13:48.370 --> 00:13:50.750 align:middle line:84%
+You've got a new
+frontier paper, OK?
+
+00:13:50.750 --> 00:13:55.470 align:middle line:84%
+Anyway, back in the
+day, Cournot was 1838.
+
+00:13:55.470 --> 00:13:59.220 align:middle line:84%
+Bertrand, 45 years later, picks
+up Cournot's paper and says,
+
+00:13:59.220 --> 00:14:02.040 align:middle line:84%
+I can come up with an
+interesting comment on Cournot.
+
+00:14:02.040 --> 00:14:07.410 align:middle line:84%
+So his comment on Cournot
+was that many firms
+
+00:14:07.410 --> 00:14:10.720 align:middle line:84%
+don't choose the quantity
+that they're going to produce.
+
+00:14:10.720 --> 00:14:14.020 align:middle line:84%
+What they do is instead set
+a price for their product
+
+00:14:14.020 --> 00:14:16.750 align:middle line:84%
+and then sell however
+much at that price
+
+00:14:16.750 --> 00:14:19.780 align:middle line:90%
+as people are willing to buy.
+
+00:14:19.780 --> 00:14:22.690 align:middle line:84%
+So you just flipped
+around this discussion
+
+00:14:22.690 --> 00:14:25.960 align:middle line:84%
+from firms choosing quantities,
+treating everyone's quantity
+
+00:14:25.960 --> 00:14:28.190 align:middle line:84%
+as fixed, to firms
+choosing prices.
+
+00:14:28.190 --> 00:14:31.150 align:middle line:84%
+And his comment is
+basically that predictions
+
+00:14:31.150 --> 00:14:33.440 align:middle line:84%
+of Cournot's model
+change dramatically
+
+00:14:33.440 --> 00:14:35.110 align:middle line:84%
+if you make that
+simple flip from firms
+
+00:14:35.110 --> 00:14:37.763 align:middle line:84%
+are choosing quantities,
+assuming quantities
+
+00:14:37.763 --> 00:14:39.430 align:middle line:84%
+are fixed, to firms
+are choosing prices,
+
+00:14:39.430 --> 00:14:41.320 align:middle line:90%
+assuming prices are fixed.
+
+00:14:41.320 --> 00:14:46.570 align:middle line:84%
+So anyway, Bertrand's model, let
+x be a market demand function.
+
+00:14:46.570 --> 00:14:49.450 align:middle line:84%
+Assume that x is
+weakly decreasing
+
+00:14:49.450 --> 00:14:52.810 align:middle line:84%
+and that P times
+x of P is bounded.
+
+00:14:52.810 --> 00:14:56.260 align:middle line:84%
+Assume that all firms
+have unit cost c.
+
+00:14:56.260 --> 00:14:58.280 align:middle line:84%
+Firms simultaneously
+announce prices.
+
+00:14:58.280 --> 00:15:00.760 align:middle line:84%
+All demand goes to the
+lowest price firms.
+
+00:15:00.760 --> 00:15:05.420 align:middle line:84%
+Then, we don't get this
+Cournot continuity.
+
+00:15:05.420 --> 00:15:07.270 align:middle line:84%
+We get an immediate
+discontinuity,
+
+00:15:07.270 --> 00:15:10.130 align:middle line:84%
+which is two firms is enough
+for perfect competition.
+
+00:15:10.130 --> 00:15:14.080 align:middle line:84%
+So the unique equilibrium
+of this model is P1 star
+
+00:15:14.080 --> 00:15:17.960 align:middle line:90%
+equals P2 star equals c.
+
+00:15:17.960 --> 00:15:20.630 align:middle line:84%
+And this is what Frank
+Fisher and his writing
+
+00:15:20.630 --> 00:15:23.040 align:middle line:90%
+about economic theory would say.
+
+00:15:23.040 --> 00:15:24.810 align:middle line:90%
+This is an exemplifying theory.
+
+00:15:24.810 --> 00:15:28.420 align:middle line:84%
+You make these somewhat
+extreme assumptions,
+
+00:15:28.420 --> 00:15:31.313 align:middle line:84%
+that is, firms announced
+prices, and all demand
+
+00:15:31.313 --> 00:15:33.730 align:middle line:84%
+goes to the lowest price firm,
+even if it's one penny less
+
+00:15:33.730 --> 00:15:34.610 align:middle line:90%
+than the other firm.
+
+00:15:34.610 --> 00:15:37.810 align:middle line:84%
+But what you show is that,
+with these assumptions,
+
+00:15:37.810 --> 00:15:40.150 align:middle line:84%
+you get of extreme
+outcome, which
+
+00:15:40.150 --> 00:15:42.340 align:middle line:84%
+is competition works
+differently from Cournot,
+
+00:15:42.340 --> 00:15:43.812 align:middle line:90%
+and it's a discontinuous thing.
+
+00:15:43.812 --> 00:15:45.520 align:middle line:84%
+And any number of
+firms is enough to have
+
+00:15:45.520 --> 00:15:46.660 align:middle line:90%
+perfect competition.
+
+00:15:46.660 --> 00:15:49.180 align:middle line:90%
+
+
+00:15:49.180 --> 00:15:52.630 align:middle line:84%
+One version of this model
+that still does get used
+
+00:15:52.630 --> 00:15:55.960 align:middle line:84%
+is if you think about firms
+that have asymmetric costs,
+
+00:15:55.960 --> 00:15:59.420 align:middle line:84%
+you have two firms with
+cost c1 star and c2 star.
+
+00:15:59.420 --> 00:16:01.360 align:middle line:90%
+What's the equilibrium?
+
+00:16:01.360 --> 00:16:05.380 align:middle line:84%
+The equilibrium is the firms
+end up both pricing at c2 star
+
+00:16:05.380 --> 00:16:08.760 align:middle line:84%
+with all of the demand going to
+the firm with the lower cost.
+
+00:16:08.760 --> 00:16:10.510 align:middle line:84%
+If you want, you can
+think of it as Firm 1
+
+00:16:10.510 --> 00:16:14.080 align:middle line:84%
+is charging c2 minus epsilon
+and getting all the demand.
+
+00:16:14.080 --> 00:16:17.770 align:middle line:84%
+But when you have
+asymmetric Cournot,
+
+00:16:17.770 --> 00:16:21.470 align:middle line:84%
+prices are determined by the
+second lowest cost in a market.
+
+00:16:21.470 --> 00:16:23.270 align:middle line:84%
+And I think that's the
+important intuition.
+
+00:16:23.270 --> 00:16:25.240 align:middle line:84%
+That's the second
+lowest cost determines
+
+00:16:25.240 --> 00:16:29.630 align:middle line:84%
+what happens in markets that
+are this very intense price
+
+00:16:29.630 --> 00:16:31.793 align:middle line:84%
+competition or
+undifferentiated products.
+
+00:16:31.793 --> 00:16:34.460 align:middle line:84%
+AUDIENCE: Does this change if we
+don't have complete information
+
+00:16:34.460 --> 00:16:35.365 align:middle line:90%
+on the cost?
+
+00:16:35.365 --> 00:16:38.552 align:middle line:90%
+
+
+00:16:38.552 --> 00:16:40.010 align:middle line:84%
+GLENN ELLISON:
+Yeah, so let me see.
+
+00:16:40.010 --> 00:16:42.550 align:middle line:84%
+So if you did this
+model where you had--
+
+00:16:42.550 --> 00:16:44.410 align:middle line:84%
+AUDIENCE: Like
+private info, like you
+
+00:16:44.410 --> 00:16:47.087 align:middle line:84%
+don't have any knowledge
+on their distribution.
+
+00:16:47.087 --> 00:16:48.670 align:middle line:84%
+GLENN ELLISON: Yeah,
+so in some sense,
+
+00:16:48.670 --> 00:16:52.360 align:middle line:84%
+if you have private
+information on costs,
+
+00:16:52.360 --> 00:16:54.910 align:middle line:84%
+this is some sense
+that's what we normally
+
+00:16:54.910 --> 00:16:57.130 align:middle line:90%
+refer to as an auction model.
+
+00:16:57.130 --> 00:16:57.980 align:middle line:90%
+It's an auction.
+
+00:16:57.980 --> 00:17:00.230 align:middle line:84%
+I don't know what the value
+of the painting is to you.
+
+00:17:00.230 --> 00:17:02.522 align:middle line:84%
+You don't know what the value
+of the painting is to me.
+
+00:17:02.522 --> 00:17:05.829 align:middle line:84%
+So I bid something,
+giving myself
+
+00:17:05.829 --> 00:17:09.640 align:middle line:84%
+some expected markup because
+if I bid cost, then if I win
+
+00:17:09.640 --> 00:17:12.440 align:middle line:84%
+or if I lose, I'm
+unhappy both ways.
+
+00:17:12.440 --> 00:17:14.440 align:middle line:84%
+And so I bid
+something in between.
+
+00:17:14.440 --> 00:17:16.480 align:middle line:84%
+In the buying something,
+I bid something
+
+00:17:16.480 --> 00:17:19.700 align:middle line:90%
+in between my value and 0.
+
+00:17:19.700 --> 00:17:22.480 align:middle line:84%
+And you do the same thing,
+and we get positive markups
+
+00:17:22.480 --> 00:17:23.710 align:middle line:90%
+for that reason.
+
+00:17:23.710 --> 00:17:29.500 align:middle line:84%
+Yeah, so that
+becomes like in the--
+
+00:17:29.500 --> 00:17:32.720 align:middle line:84%
+values uniform 0, 1 model, you
+bid v over 2 is the equilibrium.
+
+00:17:32.720 --> 00:17:35.450 align:middle line:84%
+So in some sense
+that is a model.
+
+00:17:35.450 --> 00:17:38.060 align:middle line:84%
+You end up reconstructing
+something like Cournot
+
+00:17:38.060 --> 00:17:39.460 align:middle line:90%
+that you get positive markups.
+
+00:17:39.460 --> 00:17:41.293 align:middle line:84%
+And as the number of
+firms goes to infinity,
+
+00:17:41.293 --> 00:17:42.150 align:middle line:90%
+the markups go to 0.
+
+00:17:42.150 --> 00:17:45.300 align:middle line:84%
+So that would be another way to
+get a Cournot-like prediction.
+
+00:17:45.300 --> 00:17:47.810 align:middle line:90%
+
+
+00:17:47.810 --> 00:17:49.670 align:middle line:90%
+Anyway, I do talk about--
+
+00:17:49.670 --> 00:17:52.100 align:middle line:84%
+I'll do auctions in like
+week eight or whatever.
+
+00:17:52.100 --> 00:17:54.268 align:middle line:90%
+But we actually get that--
+
+00:17:54.268 --> 00:17:56.060 align:middle line:84%
+the place where that
+analogy is more direct
+
+00:17:56.060 --> 00:17:57.540 align:middle line:90%
+is like procurement auctions.
+
+00:17:57.540 --> 00:18:00.590 align:middle line:84%
+You have auctions for
+contracts to pave a road
+
+00:18:00.590 --> 00:18:02.180 align:middle line:90%
+in the city of Cambridge.
+
+00:18:02.180 --> 00:18:03.970 align:middle line:84%
+And those are
+allocated by auction.
+
+00:18:03.970 --> 00:18:06.470 align:middle line:84%
+And exactly, you don't know
+what the rival's costs are going
+
+00:18:06.470 --> 00:18:08.120 align:middle line:90%
+to be for that paving job.
+
+00:18:08.120 --> 00:18:11.750 align:middle line:84%
+So both of you bid some
+markup, hoping to win, yeah.
+
+00:18:11.750 --> 00:18:14.370 align:middle line:90%
+
+
+00:18:14.370 --> 00:18:21.700 align:middle line:84%
+OK, comment on-- again, go
+forward another 46 years.
+
+00:18:21.700 --> 00:18:27.180 align:middle line:84%
+Comment on-- Cournot comment
+on Bertrand competition
+
+00:18:27.180 --> 00:18:28.740 align:middle line:90%
+by Harold Hotelling.
+
+00:18:28.740 --> 00:18:32.490 align:middle line:84%
+And I wanted to put him here
+because Harold Hotelling is
+
+00:18:32.490 --> 00:18:34.950 align:middle line:90%
+my great, great grand advisor.
+
+00:18:34.950 --> 00:18:38.240 align:middle line:84%
+So Hotelling was
+Arrow's advisor.
+
+00:18:38.240 --> 00:18:39.720 align:middle line:90%
+Arrow was Maskin's advisor.
+
+00:18:39.720 --> 00:18:42.100 align:middle line:90%
+Maskin was Fudenberg's advisor.
+
+00:18:42.100 --> 00:18:43.440 align:middle line:90%
+Drew was my advisor.
+
+00:18:43.440 --> 00:18:46.860 align:middle line:84%
+So anyway, I have some
+fondness for Harold Hotelling.
+
+00:18:46.860 --> 00:18:50.340 align:middle line:90%
+And he was actually--
+
+00:18:50.340 --> 00:18:54.360 align:middle line:84%
+so if you go look at
+my advisor family tree,
+
+00:18:54.360 --> 00:18:57.090 align:middle line:84%
+they're all mathematicians
+beyond some point.
+
+00:18:57.090 --> 00:19:00.385 align:middle line:84%
+So you get to all those French
+mathematicians, whose names you
+
+00:19:00.385 --> 00:19:02.010 align:middle line:84%
+hear in probability
+theory or whatever,
+
+00:19:02.010 --> 00:19:06.910 align:middle line:84%
+because Hotelling had his PhD in
+math rather than in economics.
+
+00:19:06.910 --> 00:19:09.665 align:middle line:84%
+So my family tree goes back
+three branches in economics.
+
+00:19:09.665 --> 00:19:11.790 align:middle line:84%
+And then everyone's a
+mathematician from that point
+
+00:19:11.790 --> 00:19:14.740 align:middle line:84%
+forward, like for
+Hotelling's advisors.
+
+00:19:14.740 --> 00:19:17.503 align:middle line:90%
+But anyway, Hotelling, through--
+
+00:19:17.503 --> 00:19:19.420 align:middle line:84%
+well, mostly through
+having advised Ken Arrow,
+
+00:19:19.420 --> 00:19:23.770 align:middle line:84%
+Hotelling does have
+over 1,000 descendants,
+
+00:19:23.770 --> 00:19:25.930 align:middle line:90%
+grand advisees or whatever.
+
+00:19:25.930 --> 00:19:28.330 align:middle line:84%
+So anyway, so Hotelling--
+and actually, I
+
+00:19:28.330 --> 00:19:29.870 align:middle line:90%
+love Hotelling's writing also.
+
+00:19:29.870 --> 00:19:34.780 align:middle line:84%
+You get him to-- he's got
+a very, in some sense,
+
+00:19:34.780 --> 00:19:38.050 align:middle line:84%
+self-confident but
+trying-to-be-understated style
+
+00:19:38.050 --> 00:19:40.400 align:middle line:90%
+of this, of--
+
+00:19:40.400 --> 00:19:42.400 align:middle line:84%
+"after the work of the
+late Professor Edgeworth,
+
+00:19:42.400 --> 00:19:43.858 align:middle line:84%
+one may doubt that
+anything further
+
+00:19:43.858 --> 00:19:45.760 align:middle line:84%
+can be said on the
+theory of competition.
+
+00:19:45.760 --> 00:19:48.980 align:middle line:84%
+However, one important feature
+seems to have escaped scrutiny.
+
+00:19:48.980 --> 00:19:53.068 align:middle line:84%
+This is the fact that of all
+the purchases of commodities,
+
+00:19:53.068 --> 00:19:54.610 align:middle line:84%
+some buy from one,
+some from another,
+
+00:19:54.610 --> 00:19:56.560 align:middle line:84%
+in spite of the moderate
+differences in price."
+
+00:19:56.560 --> 00:19:58.393 align:middle line:84%
+And that's saying that
+price reaction should
+
+00:19:58.393 --> 00:20:00.850 align:middle line:84%
+be continuous rather
+than nondifferentiable
+
+00:20:00.850 --> 00:20:03.447 align:middle line:84%
+as they are in Bertrand's
+model and then working out
+
+00:20:03.447 --> 00:20:04.280 align:middle line:90%
+the [? direction. ?]
+
+00:20:04.280 --> 00:20:08.680 align:middle line:84%
+So anyway,
+Hotelling's model is--
+
+00:20:08.680 --> 00:20:11.980 align:middle line:84%
+and in some sense, Hotelling
+has opened the path
+
+00:20:11.980 --> 00:20:13.570 align:middle line:84%
+that everyone has
+followed since,
+
+00:20:13.570 --> 00:20:16.840 align:middle line:84%
+which is thinking about
+competition in terms
+
+00:20:16.840 --> 00:20:19.840 align:middle line:84%
+of heterogeneous
+consumer populations
+
+00:20:19.840 --> 00:20:25.120 align:middle line:84%
+and some underlying type space
+of heterogeneous consumers.
+
+00:20:25.120 --> 00:20:28.360 align:middle line:84%
+So he had this sort
+of line, where he
+
+00:20:28.360 --> 00:20:34.750 align:middle line:90%
+had consumers arranged on 0, 1.
+
+00:20:34.750 --> 00:20:37.630 align:middle line:84%
+And actually, Hotelling spent
+a lot of his career at UCLA
+
+00:20:37.630 --> 00:20:40.390 align:middle line:84%
+and I think was thinking about
+this as a beach in Southern
+
+00:20:40.390 --> 00:20:42.160 align:middle line:90%
+California.
+
+00:20:42.160 --> 00:20:44.200 align:middle line:84%
+And so Hotelling
+did have this model
+
+00:20:44.200 --> 00:20:49.150 align:middle line:84%
+you can think of as
+you've got the two
+
+00:20:49.150 --> 00:20:53.980 align:middle line:84%
+stands on the beach, each one
+selling drinks and hot dogs
+
+00:20:53.980 --> 00:20:55.310 align:middle line:90%
+and ice cream or whatever.
+
+00:20:55.310 --> 00:20:57.160 align:middle line:84%
+And then you have
+all the customers,
+
+00:20:57.160 --> 00:20:59.787 align:middle line:84%
+who are lying on blankets
+somewhere along the beach.
+
+00:20:59.787 --> 00:21:01.870 align:middle line:84%
+And then when they want
+to get something to drink,
+
+00:21:01.870 --> 00:21:04.020 align:middle line:84%
+they pick up, and they
+walk to the nearest stand.
+
+00:21:04.020 --> 00:21:05.770 align:middle line:84%
+And then they buy
+something, and then they
+
+00:21:05.770 --> 00:21:08.170 align:middle line:84%
+walk back to where they
+were sitting on the beach.
+
+00:21:08.170 --> 00:21:11.470 align:middle line:84%
+So his model is we
+have these consumers,
+
+00:21:11.470 --> 00:21:14.710 align:middle line:90%
+and they have the utilities.
+
+00:21:14.710 --> 00:21:16.130 align:middle line:90%
+So I put theta on this axis.
+
+00:21:16.130 --> 00:21:18.750 align:middle line:90%
+
+
+00:21:18.750 --> 00:21:20.760 align:middle line:84%
+So then if I graph
+the utility that you
+
+00:21:20.760 --> 00:21:28.080 align:middle line:84%
+get buying consumer of type
+theta buying from Firm 1,
+
+00:21:28.080 --> 00:21:32.310 align:middle line:84%
+I get some utility that
+looks like this, v minus t
+
+00:21:32.310 --> 00:21:35.550 align:middle line:90%
+times theta minus P1.
+
+00:21:35.550 --> 00:21:40.140 align:middle line:84%
+So that would be my utility
+of buying from Firm 1.
+
+00:21:40.140 --> 00:21:46.740 align:middle line:84%
+And then, consumers also have a
+utility of buying from Firm 2.
+
+00:21:46.740 --> 00:21:50.130 align:middle line:90%
+So let me on this axis put v--
+
+00:21:50.130 --> 00:21:57.120 align:middle line:84%
+this is v minus t1
+minus theta minus P2.
+
+00:21:57.120 --> 00:22:03.450 align:middle line:84%
+So the argument is t is
+my disutility per unit
+
+00:22:03.450 --> 00:22:04.960 align:middle line:90%
+of distance walking.
+
+00:22:04.960 --> 00:22:07.410 align:middle line:84%
+And so my utility from buying
+the product from Firm 1
+
+00:22:07.410 --> 00:22:09.750 align:middle line:84%
+is v minus t times
+theta, because theta
+
+00:22:09.750 --> 00:22:12.910 align:middle line:90%
+captures my distance, minus P1.
+
+00:22:12.910 --> 00:22:16.170 align:middle line:84%
+And if I buy from Firm
+2, it's v minus t times 1
+
+00:22:16.170 --> 00:22:17.810 align:middle line:90%
+minus theta minus P2.
+
+00:22:17.810 --> 00:22:21.200 align:middle line:90%
+
+
+00:22:21.200 --> 00:22:23.660 align:middle line:84%
+And so he did this in
+a one-dimensional--
+
+00:22:23.660 --> 00:22:26.660 align:middle line:84%
+this one-dimensional type
+space captures your preference
+
+00:22:26.660 --> 00:22:28.820 align:middle line:90%
+for both goods.
+
+00:22:28.820 --> 00:22:31.580 align:middle line:84%
+And so we assume there's a
+constant marginal cost c.
+
+00:22:31.580 --> 00:22:35.510 align:middle line:84%
+He considered, again,
+the Nash equilibrium
+
+00:22:35.510 --> 00:22:38.180 align:middle line:84%
+before Nash of firms
+simultaneously announced
+
+00:22:38.180 --> 00:22:40.280 align:middle line:90%
+prices P1 and P2.
+
+00:22:40.280 --> 00:22:43.410 align:middle line:84%
+And then, firms
+announce those prices.
+
+00:22:43.410 --> 00:22:44.690 align:middle line:90%
+It's a simultaneous move game.
+
+00:22:44.690 --> 00:22:47.107 align:middle line:84%
+And then, consumers
+decide who to buy from,
+
+00:22:47.107 --> 00:22:48.690 align:middle line:84%
+and then the firms
+earn their profits.
+
+00:22:48.690 --> 00:22:53.460 align:middle line:84%
+And we just look for the
+static Nash equilibrium.
+
+00:22:53.460 --> 00:22:59.520 align:middle line:84%
+The standard case we discuss
+in this model is if v is large,
+
+00:22:59.520 --> 00:23:02.820 align:middle line:84%
+then there's some
+consumer theta hat
+
+00:23:02.820 --> 00:23:05.430 align:middle line:84%
+who's indifferent between
+buying the two products.
+
+00:23:05.430 --> 00:23:12.600 align:middle line:84%
+So this consumer theta hat has
+v minus t theta hat minus P1
+
+00:23:12.600 --> 00:23:19.650 align:middle line:84%
+equals v minus t 1 minus
+theta hat minus P2.
+
+00:23:19.650 --> 00:23:21.390 align:middle line:84%
+So at those prices,
+that consumer
+
+00:23:21.390 --> 00:23:23.880 align:middle line:84%
+is indifferent between
+the two products.
+
+00:23:23.880 --> 00:23:26.610 align:middle line:84%
+You solve that equation, and it
+tells you that the indifferent
+
+00:23:26.610 --> 00:23:36.550 align:middle line:84%
+consumer theta hat is 1/2
+plus P2 minus P1 over 2t.
+
+00:23:36.550 --> 00:23:40.332 align:middle line:90%
+
+
+00:23:40.332 --> 00:23:41.790 align:middle line:84%
+With that indifferent
+consumer-- do
+
+00:23:41.790 --> 00:23:43.900 align:middle line:84%
+I have it on the
+next slide or not?
+
+00:23:43.900 --> 00:23:49.067 align:middle line:84%
+So with that indifferent
+consumer, then you get x1 of P1,
+
+00:23:49.067 --> 00:23:55.780 align:middle line:84%
+P2 is 1/2 plus P2
+minus P1 over 2t.
+
+00:23:55.780 --> 00:24:07.090 align:middle line:84%
+And x2 of P1 P2 is 1/2 minus
+P2 minus P1 over 2t, OK?
+
+00:24:07.090 --> 00:24:13.263 align:middle line:84%
+The demands add up to 1 if-- as
+long as this consumer is willing
+
+00:24:13.263 --> 00:24:14.680 align:middle line:84%
+to-- as long as v
+is large enough,
+
+00:24:14.680 --> 00:24:16.250 align:middle line:90%
+this consumer is willing to buy.
+
+00:24:16.250 --> 00:24:18.560 align:middle line:84%
+So everyone buys from
+one firm or the other.
+
+00:24:18.560 --> 00:24:21.550 align:middle line:84%
+So there's no deadweight
+loss in this model.
+
+00:24:21.550 --> 00:24:29.910 align:middle line:84%
+Demands end up being independent
+of v. So this is if, whatever,
+
+00:24:29.910 --> 00:24:41.700 align:middle line:84%
+v minus t times 1/2 plus P2
+minus P1 over 2t minus P1
+
+00:24:41.700 --> 00:24:42.820 align:middle line:90%
+greater than equal to 0.
+
+00:24:42.820 --> 00:24:47.440 align:middle line:84%
+So as long as this indifferent
+consumer is willing to buy,
+
+00:24:47.440 --> 00:24:51.490 align:middle line:84%
+demands are completely
+independent of v. And just
+
+00:24:51.490 --> 00:24:52.960 align:middle line:90%
+are these linear--
+
+00:24:52.960 --> 00:24:55.060 align:middle line:90%
+these are linear demand curves.
+
+00:24:55.060 --> 00:24:58.090 align:middle line:84%
+So what he's done is
+he's just proposed
+
+00:24:58.090 --> 00:25:01.210 align:middle line:84%
+this model of heterogeneous
+consumer populations and said,
+
+00:25:01.210 --> 00:25:04.240 align:middle line:84%
+with that heterogeneous
+consumer population model,
+
+00:25:04.240 --> 00:25:09.730 align:middle line:84%
+we just get price competition
+with these particular linear
+
+00:25:09.730 --> 00:25:10.500 align:middle line:90%
+demand curves.
+
+00:25:10.500 --> 00:25:14.220 align:middle line:90%
+
+
+00:25:14.220 --> 00:25:16.720 align:middle line:84%
+And what happens when you have
+those linear demand curves?
+
+00:25:16.720 --> 00:25:25.290 align:middle line:84%
+Well, Firm I is just maximizing
+price minus cost times 1/2 plus
+
+00:25:25.290 --> 00:25:27.430 align:middle line:90%
+pj minus p over 2t.
+
+00:25:27.430 --> 00:25:30.000 align:middle line:84%
+So, if it sets a
+higher price, it
+
+00:25:30.000 --> 00:25:32.170 align:middle line:84%
+gets a higher
+markup per consumer.
+
+00:25:32.170 --> 00:25:34.740 align:middle line:84%
+But the number of
+consumers go down,
+
+00:25:34.740 --> 00:25:38.670 align:middle line:84%
+with 1 over 2t being the
+slope of the downward-sloping
+
+00:25:38.670 --> 00:25:42.630 align:middle line:84%
+individual demand
+curve facing it.
+
+00:25:42.630 --> 00:25:45.480 align:middle line:84%
+I take the first-order
+conditions for this.
+
+00:25:45.480 --> 00:25:46.920 align:middle line:90%
+It's just algebra.
+
+00:25:46.920 --> 00:25:49.380 align:middle line:84%
+And, given that it's
+a linear demand curve,
+
+00:25:49.380 --> 00:25:51.520 align:middle line:84%
+we get a quadratic
+objective function.
+
+00:25:51.520 --> 00:25:53.850 align:middle line:90%
+It has an interior maximum.
+
+00:25:53.850 --> 00:25:57.030 align:middle line:84%
+And what we get is the best
+response for Firm I to a price
+
+00:25:57.030 --> 00:26:03.460 align:middle line:90%
+pj is 1/2 of c plus t plus pj.
+
+00:26:03.460 --> 00:26:12.210 align:middle line:84%
+So, if I try to graph what's
+happening here, P1, P2,
+
+00:26:12.210 --> 00:26:18.570 align:middle line:84%
+so if P1 is 0, the best response
+for Firm 2 is 1/2 c plus t is
+
+00:26:18.570 --> 00:26:19.480 align:middle line:90%
+positive.
+
+00:26:19.480 --> 00:26:22.240 align:middle line:90%
+
+
+00:26:22.240 --> 00:26:25.550 align:middle line:84%
+And then, it's a line
+that's upward sloping.
+
+00:26:25.550 --> 00:26:32.060 align:middle line:84%
+So this is the best response
+for Firm 2 to a price of P1.
+
+00:26:32.060 --> 00:26:36.100 align:middle line:90%
+And this is 1/2 c plus t.
+
+00:26:36.100 --> 00:26:40.470 align:middle line:90%
+
+
+00:26:40.470 --> 00:26:42.840 align:middle line:84%
+And then similarly,
+the best response
+
+00:26:42.840 --> 00:26:51.060 align:middle line:84%
+for Firm 1 to a price of P2
+is going to look like this.
+
+00:26:51.060 --> 00:26:54.630 align:middle line:84%
+So I'm graphing Firm
+1's best response.
+
+00:26:54.630 --> 00:26:56.520 align:middle line:84%
+I'm graphing this
+thing backwards,
+
+00:26:56.520 --> 00:26:59.510 align:middle line:84%
+as you do in game theory,
+where as P2 is higher,
+
+00:26:59.510 --> 00:27:01.230 align:middle line:90%
+I'm graphing P1 is higher.
+
+00:27:01.230 --> 00:27:04.570 align:middle line:84%
+But this line has slope
+1/2 relative to this.
+
+00:27:04.570 --> 00:27:07.740 align:middle line:84%
+This one has slope 1/2 if you
+view it as a function of this
+
+00:27:07.740 --> 00:27:08.540 align:middle line:90%
+line.
+
+00:27:08.540 --> 00:27:11.380 align:middle line:84%
+So look at these two
+upward-sloping lines.
+
+00:27:11.380 --> 00:27:13.110 align:middle line:90%
+They intersect.
+
+00:27:13.110 --> 00:27:14.970 align:middle line:90%
+That's the equilibrium.
+
+00:27:14.970 --> 00:27:18.905 align:middle line:84%
+And we get P1 star equals
+P2 star equals c plus t.
+
+00:27:18.905 --> 00:27:23.540 align:middle line:90%
+
+
+00:27:23.540 --> 00:27:28.320 align:middle line:84%
+So what are the economic
+implications here?
+
+00:27:28.320 --> 00:27:32.270 align:middle line:84%
+One is that markups are
+proportional to the product
+
+00:27:32.270 --> 00:27:34.130 align:middle line:90%
+differentiation parameter t.
+
+00:27:34.130 --> 00:27:36.470 align:middle line:84%
+So it's the amount of
+product differentiation
+
+00:27:36.470 --> 00:27:41.400 align:middle line:84%
+in a market that
+ends up determining
+
+00:27:41.400 --> 00:27:42.595 align:middle line:90%
+how large are the markups?
+
+00:27:42.595 --> 00:27:45.810 align:middle line:90%
+
+
+00:27:45.810 --> 00:27:48.960 align:middle line:84%
+The hotter it is and
+the more unpleasant
+
+00:27:48.960 --> 00:27:52.230 align:middle line:84%
+it is to walk across the sand,
+the higher will be the prices.
+
+00:27:52.230 --> 00:27:56.220 align:middle line:84%
+And people today, I think,
+use this model not just
+
+00:27:56.220 --> 00:28:00.660 align:middle line:84%
+for differentiation in
+physical space driving,
+
+00:28:00.660 --> 00:28:04.175 align:middle line:84%
+but differentiation in
+taste space as well.
+
+00:28:04.175 --> 00:28:05.550 align:middle line:84%
+So if you think
+about competition
+
+00:28:05.550 --> 00:28:08.800 align:middle line:84%
+between Coke and Pepsi,
+how much do you like Coke?
+
+00:28:08.800 --> 00:28:09.970 align:middle line:90%
+How much do you like Pepsi?
+
+00:28:09.970 --> 00:28:14.342 align:middle line:84%
+There are some people who
+love Coke and dislike Pepsi.
+
+00:28:14.342 --> 00:28:16.300 align:middle line:84%
+There are some who love
+Pepsi and dislike Coke.
+
+00:28:16.300 --> 00:28:17.675 align:middle line:84%
+There are some
+who are completely
+
+00:28:17.675 --> 00:28:18.850 align:middle line:90%
+indifferent between the two.
+
+00:28:18.850 --> 00:28:22.020 align:middle line:84%
+The amount of
+taste heterogeneity
+
+00:28:22.020 --> 00:28:24.510 align:middle line:90%
+is what determines the markups.
+
+00:28:24.510 --> 00:28:26.580 align:middle line:84%
+And numerically, with
+these linear demand curves,
+
+00:28:26.580 --> 00:28:28.860 align:middle line:84%
+it's the amount by
+which people at one end
+
+00:28:28.860 --> 00:28:30.247 align:middle line:90%
+of the line versus the other--
+
+00:28:30.247 --> 00:28:31.830 align:middle line:84%
+it's the relative
+preference of people
+
+00:28:31.830 --> 00:28:33.670 align:middle line:84%
+at one end of the
+line versus the other.
+
+00:28:33.670 --> 00:28:37.060 align:middle line:84%
+This person thinks Pepsi
+is t better than Coke.
+
+00:28:37.060 --> 00:28:39.517 align:middle line:84%
+That person thinks Coke is
+t better than Pepsi. t is
+
+00:28:39.517 --> 00:28:40.475 align:middle line:90%
+the equilibrium markup.
+
+00:28:40.475 --> 00:28:43.746 align:middle line:90%
+
+
+00:28:43.746 --> 00:28:47.780 align:middle line:84%
+You can do an n firm
+circular version of this.
+
+00:28:47.780 --> 00:28:49.850 align:middle line:90%
+So imagine that you have--
+
+00:28:49.850 --> 00:28:53.560 align:middle line:84%
+obviously, there are lots of
+parts of the United States--
+
+00:28:53.560 --> 00:28:55.880 align:middle line:84%
+well, obviously, you'd
+have to go all the way down
+
+00:28:55.880 --> 00:28:56.810 align:middle line:90%
+to South America.
+
+00:28:56.810 --> 00:28:58.893 align:middle line:84%
+And some parts, no one's
+going to be on the beach.
+
+00:28:58.893 --> 00:29:01.460 align:middle line:84%
+But you could imagine
+a giant beach that's--
+
+00:29:01.460 --> 00:29:03.890 align:middle line:84%
+we have a resort island
+where the beach is just
+
+00:29:03.890 --> 00:29:06.800 align:middle line:90%
+circle around the whole thing.
+
+00:29:06.800 --> 00:29:11.240 align:middle line:84%
+If you put n firms
+around this, it's
+
+00:29:11.240 --> 00:29:14.510 align:middle line:84%
+as if the competition between
+any of these two firms
+
+00:29:14.510 --> 00:29:17.660 align:middle line:84%
+is now going to be
+like t times 1 over n
+
+00:29:17.660 --> 00:29:20.660 align:middle line:84%
+is going to be the effective
+distance between them.
+
+00:29:20.660 --> 00:29:23.450 align:middle line:84%
+And so if t times 1 over n
+becomes the effective distance
+
+00:29:23.450 --> 00:29:28.940 align:middle line:84%
+between them, you're
+going to get P star equals
+
+00:29:28.940 --> 00:29:31.730 align:middle line:90%
+c plus t times 1 over n.
+
+00:29:31.730 --> 00:29:35.492 align:middle line:84%
+So this is a model where
+it can be like Cournot.
+
+00:29:35.492 --> 00:29:36.950 align:middle line:84%
+And, as you put
+more and more firms
+
+00:29:36.950 --> 00:29:39.620 align:middle line:84%
+into the same finite
+dimensional product space,
+
+00:29:39.620 --> 00:29:41.750 align:middle line:84%
+markups decline
+and are continuous
+
+00:29:41.750 --> 00:29:44.470 align:middle line:84%
+with perfect competition
+as n goes to infinity.
+
+00:29:44.470 --> 00:29:47.895 align:middle line:90%
+
+
+00:29:47.895 --> 00:29:49.270 align:middle line:84%
+Anyway, I'll just
+say this later.
+
+00:29:49.270 --> 00:29:50.187 align:middle line:90%
+Actions are strategic.
+
+00:29:50.187 --> 00:29:53.462 align:middle line:84%
+Complements just means
+that the reaction curves
+
+00:29:53.462 --> 00:29:55.420 align:middle line:84%
+look different from how
+they looked in Cournot.
+
+00:29:55.420 --> 00:29:57.613 align:middle line:84%
+Here, it's an intersection
+of upward-sloping lines.
+
+00:29:57.613 --> 00:29:59.863 align:middle line:84%
+Cournot was an intersection
+of downward-sloping lines.
+
+00:29:59.863 --> 00:30:02.640 align:middle line:90%
+
+
+00:30:02.640 --> 00:30:05.850 align:middle line:84%
+Understanding some of the
+implications of the model,
+
+00:30:05.850 --> 00:30:10.080 align:middle line:84%
+that's going to
+matter later, OK?
+
+00:30:10.080 --> 00:30:15.380 align:middle line:84%
+OK, any questions on
+Hotelling's model?
+
+00:30:15.380 --> 00:30:19.160 align:middle line:90%
+All right, OK.
+
+00:30:19.160 --> 00:30:24.260 align:middle line:84%
+OK, so vertical differentiation,
+final thing we think of
+
+00:30:24.260 --> 00:30:28.700 align:middle line:84%
+is that there's many
+examples like Coke and Pepsi.
+
+00:30:28.700 --> 00:30:30.920 align:middle line:84%
+Clearly, one is the better
+product, and one is--
+
+00:30:30.920 --> 00:30:33.470 align:middle line:84%
+sorry, two products are
+just a matter of taste,
+
+00:30:33.470 --> 00:30:35.180 align:middle line:90%
+whether you a versus b.
+
+00:30:35.180 --> 00:30:36.710 align:middle line:84%
+There are other
+examples we think
+
+00:30:36.710 --> 00:30:39.050 align:middle line:84%
+of where differentiation
+consists of one product
+
+00:30:39.050 --> 00:30:41.630 align:middle line:90%
+is better and one is worse.
+
+00:30:41.630 --> 00:30:49.940 align:middle line:84%
+So if you think about do
+people want to buy the BMW,
+
+00:30:49.940 --> 00:30:53.120 align:middle line:84%
+or do they want the
+Toyota Yaris or something?
+
+00:30:53.120 --> 00:30:55.880 align:middle line:84%
+Everybody would
+rather have the BMW.
+
+00:30:55.880 --> 00:30:57.740 align:middle line:84%
+Everyone admits
+that this product a
+
+00:30:57.740 --> 00:30:59.258 align:middle line:90%
+is better than product b.
+
+00:30:59.258 --> 00:31:00.800 align:middle line:84%
+But the question
+is, how much are you
+
+00:31:00.800 --> 00:31:03.530 align:middle line:84%
+willing to pay for product
+a versus product b?
+
+00:31:03.530 --> 00:31:06.352 align:middle line:84%
+You could have, again,
+maybe some people
+
+00:31:06.352 --> 00:31:07.310 align:middle line:90%
+still like flip phones.
+
+00:31:07.310 --> 00:31:09.830 align:middle line:84%
+But you have the
+modern phone competing
+
+00:31:09.830 --> 00:31:12.910 align:middle line:84%
+against the old flip
+phone, with just a keypad
+
+00:31:12.910 --> 00:31:14.160 align:middle line:90%
+and a little screen like this.
+
+00:31:14.160 --> 00:31:17.730 align:middle line:84%
+Everyone agrees that the modern
+phone is the better phone.
+
+00:31:17.730 --> 00:31:19.260 align:middle line:84%
+But people just
+differ in how much
+
+00:31:19.260 --> 00:31:21.600 align:middle line:84%
+they're willing to pay
+for the better product.
+
+00:31:21.600 --> 00:31:24.813 align:middle line:84%
+So the consumer
+preferences here are going
+
+00:31:24.813 --> 00:31:25.980 align:middle line:90%
+to be vertical rather than--
+
+00:31:25.980 --> 00:31:27.855 align:middle line:84%
+what we call vertical
+rather than horizontal.
+
+00:31:27.855 --> 00:31:29.740 align:middle line:90%
+So do this example.
+
+00:31:29.740 --> 00:31:31.890 align:middle line:90%
+I've got two firms.
+
+00:31:31.890 --> 00:31:33.420 align:middle line:90%
+They have goods of quality.
+
+00:31:33.420 --> 00:31:35.290 align:middle line:90%
+SL is my flip phone.
+
+00:31:35.290 --> 00:31:37.290 align:middle line:90%
+SH is my iPhone.
+
+00:31:37.290 --> 00:31:39.683 align:middle line:84%
+And the low-quality phone,
+everyone would agree,
+
+00:31:39.683 --> 00:31:41.225 align:middle line:84%
+is worse than the
+high-quality phone.
+
+00:31:41.225 --> 00:31:43.790 align:middle line:90%
+
+
+00:31:43.790 --> 00:31:46.130 align:middle line:84%
+We have consumers
+have types, again,
+
+00:31:46.130 --> 00:31:49.230 align:middle line:84%
+distributed on a unit interval,
+or sorry, nonunit interval
+
+00:31:49.230 --> 00:31:51.800 align:middle line:84%
+now, theta lower
+bar, theta upper bar.
+
+00:31:51.800 --> 00:31:53.480 align:middle line:84%
+And the utility
+functions are going
+
+00:31:53.480 --> 00:31:56.900 align:middle line:84%
+to be the consumer-- utility of
+a consumer of type theta buying
+
+00:31:56.900 --> 00:32:00.050 align:middle line:90%
+product i is theta si minus pi.
+
+00:32:00.050 --> 00:32:04.247 align:middle line:84%
+So the theta is your marginal
+value of a unit of quality.
+
+00:32:04.247 --> 00:32:06.080 align:middle line:84%
+You could also just
+think of this as a model
+
+00:32:06.080 --> 00:32:08.300 align:middle line:84%
+where consumers are
+differentiated by income
+
+00:32:08.300 --> 00:32:13.070 align:middle line:84%
+and have a different
+marginal value of income.
+
+00:32:13.070 --> 00:32:15.860 align:middle line:84%
+And therefore, they have
+all the same utility
+
+00:32:15.860 --> 00:32:17.370 align:middle line:84%
+that they get from
+higher quality.
+
+00:32:17.370 --> 00:32:19.412 align:middle line:84%
+But just some people have
+more money than others.
+
+00:32:19.412 --> 00:32:21.980 align:middle line:84%
+They have a greater disutility
+of spending money, OK?
+
+00:32:21.980 --> 00:32:24.960 align:middle line:90%
+
+
+00:32:24.960 --> 00:32:27.010 align:middle line:84%
+OK, and so consumers
+have this utility
+
+00:32:27.010 --> 00:32:29.790 align:middle line:84%
+if they buy from Firm I.
+They get 0 utility if they
+
+00:32:29.790 --> 00:32:33.570 align:middle line:90%
+buy from neither firm at all.
+
+00:32:33.570 --> 00:32:35.850 align:middle line:84%
+I'm going to, for simplicity,
+assume a unit mass
+
+00:32:35.850 --> 00:32:40.120 align:middle line:84%
+of consumers, a unit density of
+consumers and an interval theta
+
+00:32:40.120 --> 00:32:41.315 align:middle line:90%
+lower bar, theta upper bar.
+
+00:32:41.315 --> 00:32:43.950 align:middle line:90%
+
+
+00:32:43.950 --> 00:32:47.640 align:middle line:84%
+OK, so what's going
+on here is, here, I'm
+
+00:32:47.640 --> 00:32:50.610 align:middle line:84%
+typically going to
+have my theta space--
+
+00:32:50.610 --> 00:32:55.510 align:middle line:84%
+often, we have our
+theta space start at 0.
+
+00:32:55.510 --> 00:32:58.505 align:middle line:84%
+But here, everybody in my
+model is going to like quality.
+
+00:32:58.505 --> 00:32:59.880 align:middle line:84%
+So I'm going to
+think of a model.
+
+00:32:59.880 --> 00:33:01.588 align:middle line:84%
+We have this sort of
+interval theta lower
+
+00:33:01.588 --> 00:33:05.010 align:middle line:90%
+bar, theta upper bar.
+
+00:33:05.010 --> 00:33:10.080 align:middle line:84%
+And so consumers are
+arrayed on this interval
+
+00:33:10.080 --> 00:33:11.165 align:middle line:90%
+of positive values.
+
+00:33:11.165 --> 00:33:13.710 align:middle line:90%
+
+
+00:33:13.710 --> 00:33:19.770 align:middle line:84%
+So again, consider the same
+game that Bertrand and Hotelling
+
+00:33:19.770 --> 00:33:20.610 align:middle line:90%
+considered.
+
+00:33:20.610 --> 00:33:24.060 align:middle line:84%
+Firms simultaneously
+choose prices PL and PH.
+
+00:33:24.060 --> 00:33:26.130 align:middle line:84%
+Taking the other
+firm's price is fixed,
+
+00:33:26.130 --> 00:33:28.470 align:middle line:84%
+consumers decide
+who to buy from.
+
+00:33:28.470 --> 00:33:30.850 align:middle line:90%
+And then firms earn profits.
+
+00:33:30.850 --> 00:33:33.310 align:middle line:90%
+That's the end of the game.
+
+00:33:33.310 --> 00:33:36.340 align:middle line:90%
+What do the utilities look like?
+
+00:33:36.340 --> 00:33:42.820 align:middle line:84%
+Here, let me first
+draw a line like this.
+
+00:33:42.820 --> 00:33:47.080 align:middle line:84%
+This is the line
+theta SL minus PL.
+
+00:33:47.080 --> 00:33:52.000 align:middle line:84%
+So it starts at
+negative Pl, and then it
+
+00:33:52.000 --> 00:33:54.830 align:middle line:90%
+goes up with a slope of SL.
+
+00:33:54.830 --> 00:33:56.700 align:middle line:84%
+This is the utility
+that you get--
+
+00:33:56.700 --> 00:33:59.660 align:middle line:90%
+
+
+00:33:59.660 --> 00:34:01.860 align:middle line:90%
+this is UL of theta.
+
+00:34:01.860 --> 00:34:10.698 align:middle line:84%
+That's the utility you get
+buying from Firm L. Equalas
+
+00:34:10.698 --> 00:34:13.120 align:middle line:90%
+UL of theta.
+
+00:34:13.120 --> 00:34:15.670 align:middle line:84%
+OK, then other line
+I'm going to draw
+
+00:34:15.670 --> 00:34:20.350 align:middle line:84%
+is Firm H has the
+higher quality product.
+
+00:34:20.350 --> 00:34:23.710 align:middle line:84%
+So if you had type
+0, which nobody does,
+
+00:34:23.710 --> 00:34:27.370 align:middle line:84%
+you'd get utility negative
+PH from buying that product.
+
+00:34:27.370 --> 00:34:30.670 align:middle line:84%
+But then I'm going to assume
+that's a steeper-sloping line,
+
+00:34:30.670 --> 00:34:34.750 align:middle line:90%
+like this, theta SH minus PH.
+
+00:34:34.750 --> 00:34:39.790 align:middle line:84%
+It's a steeper-sloping line
+because SH is bigger than SL,
+
+00:34:39.790 --> 00:34:43.690 align:middle line:90%
+and the slope is S, OK?
+
+00:34:43.690 --> 00:34:45.219 align:middle line:90%
+So what happens in this model?
+
+00:34:45.219 --> 00:34:48.050 align:middle line:84%
+Again, there's some--
+in equilibrium,
+
+00:34:48.050 --> 00:34:52.730 align:middle line:84%
+there's be some indifferent
+consumer of type theta hat.
+
+00:34:52.730 --> 00:34:58.010 align:middle line:84%
+Consumers with types above
+theta hat, so these guys
+
+00:34:58.010 --> 00:35:03.080 align:middle line:90%
+all buy the high-quality good.
+
+00:35:03.080 --> 00:35:05.030 align:middle line:84%
+These consumers,
+the upper envelope,
+
+00:35:05.030 --> 00:35:10.720 align:middle line:84%
+is these guys buy
+the low-quality good.
+
+00:35:10.720 --> 00:35:13.330 align:middle line:84%
+As I've drawn it, there's
+another point that's
+
+00:35:13.330 --> 00:35:15.070 align:middle line:90%
+of importance called theta--
+
+00:35:15.070 --> 00:35:15.940 align:middle line:90%
+I'll call it theta--
+
+00:35:15.940 --> 00:35:19.320 align:middle line:84%
+I named theta prime
+in the slides.
+
+00:35:19.320 --> 00:35:22.380 align:middle line:84%
+Anyone with a type
+below theta prime
+
+00:35:22.380 --> 00:35:26.280 align:middle line:84%
+is going to buy nothing
+because neither good is worth
+
+00:35:26.280 --> 00:35:27.605 align:middle line:90%
+paying what's being charged.
+
+00:35:27.605 --> 00:35:31.090 align:middle line:90%
+
+
+00:35:31.090 --> 00:35:34.780 align:middle line:84%
+I've drawn this in the case
+where theta prime is below theta
+
+00:35:34.780 --> 00:35:38.320 align:middle line:84%
+lower bar, and theta hat
+is between theta lower
+
+00:35:38.320 --> 00:35:40.270 align:middle line:90%
+bar and theta upper bar.
+
+00:35:40.270 --> 00:35:42.970 align:middle line:84%
+And in that case,
+what are the demands?
+
+00:35:42.970 --> 00:35:44.950 align:middle line:84%
+The demand for the
+high-quality product
+
+00:35:44.950 --> 00:35:48.170 align:middle line:84%
+is just theta upper
+bar minus theta hat.
+
+00:35:48.170 --> 00:35:50.150 align:middle line:84%
+And the demand for the
+low-quality product
+
+00:35:50.150 --> 00:35:53.520 align:middle line:84%
+is theta hat minus
+theta lower bar.
+
+00:35:53.520 --> 00:35:55.890 align:middle line:84%
+If theta prime were
+to the right of this,
+
+00:35:55.890 --> 00:35:57.510 align:middle line:84%
+the demand for the
+low-quality product
+
+00:35:57.510 --> 00:35:59.600 align:middle line:84%
+would be theta hat
+minus theta prime.
+
+00:35:59.600 --> 00:36:02.710 align:middle line:90%
+
+
+00:36:02.710 --> 00:36:07.510 align:middle line:84%
+But anyway, I drew it like this,
+so this becomes the equations.
+
+00:36:07.510 --> 00:36:16.780 align:middle line:84%
+And then again, this theta hat
+satisfies theta hat SH minus PH
+
+00:36:16.780 --> 00:36:20.830 align:middle line:90%
+equals theta hat SL minus PL.
+
+00:36:20.830 --> 00:36:28.420 align:middle line:84%
+So that tells you that
+theta hat times SH minus SL
+
+00:36:28.420 --> 00:36:32.200 align:middle line:90%
+equals PH minus PL.
+
+00:36:32.200 --> 00:36:37.240 align:middle line:84%
+That gives you this
+expression here for what
+
+00:36:37.240 --> 00:36:39.970 align:middle line:90%
+the demand is for product H.
+
+00:36:39.970 --> 00:36:45.430 align:middle line:84%
+So again, it's a
+story, and it's a story
+
+00:36:45.430 --> 00:36:48.160 align:middle line:84%
+that just basically what is
+done is it's just given us,
+
+00:36:48.160 --> 00:36:50.830 align:middle line:90%
+again, two linear demand curves.
+
+00:36:50.830 --> 00:36:53.740 align:middle line:84%
+These are both-- they've got
+other parameters in them,
+
+00:36:53.740 --> 00:36:54.760 align:middle line:90%
+and it's not so obvious.
+
+00:36:54.760 --> 00:36:55.570 align:middle line:90%
+But you just look at it.
+
+00:36:55.570 --> 00:36:57.070 align:middle line:84%
+It's like, yeah,
+that's just-- it's
+
+00:36:57.070 --> 00:36:59.050 align:middle line:90%
+a linear function of PL and PH.
+
+00:36:59.050 --> 00:37:00.550 align:middle line:84%
+It's a linear
+function of PL and PH.
+
+00:37:00.550 --> 00:37:03.420 align:middle line:90%
+
+
+00:37:03.420 --> 00:37:06.360 align:middle line:84%
+Hotelling was a
+symmetric linear model.
+
+00:37:06.360 --> 00:37:08.990 align:middle line:84%
+The two demand curves
+looked exactly the same.
+
+00:37:08.990 --> 00:37:11.850 align:middle line:84%
+Here, the demand
+curves look different.
+
+00:37:11.850 --> 00:37:17.598 align:middle line:84%
+In particular, if the
+prices were equal,
+
+00:37:17.598 --> 00:37:19.640 align:middle line:84%
+everyone would buy from
+Firm H. So in some sense,
+
+00:37:19.640 --> 00:37:21.680 align:middle line:84%
+Firm H's demand is
+higher than Firm L's
+
+00:37:21.680 --> 00:37:23.600 align:middle line:90%
+holding the price is fixed.
+
+00:37:23.600 --> 00:37:25.495 align:middle line:84%
+But that's what the
+equations look like.
+
+00:37:25.495 --> 00:37:32.030 align:middle line:90%
+
+
+00:37:32.030 --> 00:37:35.640 align:middle line:84%
+But it's just a shift
+of demand curves.
+
+00:37:35.640 --> 00:37:38.120 align:middle line:84%
+One demand curve is higher,
+but the demand curves
+
+00:37:38.120 --> 00:37:40.680 align:middle line:84%
+are both linear with the same
+slope and the two variables.
+
+00:37:40.680 --> 00:37:44.920 align:middle line:90%
+
+
+00:37:44.920 --> 00:37:46.920 align:middle line:84%
+Any question on that,
+getting from the equations
+
+00:37:46.920 --> 00:37:49.560 align:middle line:90%
+to the slopes?
+
+00:37:49.560 --> 00:37:51.930 align:middle line:84%
+So anyway, that's what our
+demand model looks like.
+
+00:37:51.930 --> 00:37:53.680 align:middle line:84%
+And then again, the
+question is like, what
+
+00:37:53.680 --> 00:37:55.810 align:middle line:90%
+happens in this competition?
+
+00:37:55.810 --> 00:38:02.452 align:middle line:84%
+And again, it's just
+it's solving a--
+
+00:38:02.452 --> 00:38:05.230 align:middle line:84%
+it's just solving two
+equations and two unknowns
+
+00:38:05.230 --> 00:38:07.610 align:middle line:84%
+to find what the
+demand curves are.
+
+00:38:07.610 --> 00:38:14.020 align:middle line:84%
+It really is not so different
+here from what Hotelling did.
+
+00:38:14.020 --> 00:38:28.870 align:middle line:84%
+So if I plot P1 and P2 again,
+so the best response to Firm H
+
+00:38:28.870 --> 00:38:31.090 align:middle line:84%
+of a price PL turns out
+to be-- if you remember,
+
+00:38:31.090 --> 00:38:34.270 align:middle line:84%
+the other one was
+1/2 p plus c plus t.
+
+00:38:34.270 --> 00:38:39.640 align:middle line:84%
+So it turns out to be 1/2 p
+plus c plus, instead of t,
+
+00:38:39.640 --> 00:38:43.480 align:middle line:84%
+we get theta upper
+bar minus SH minus SL,
+
+00:38:43.480 --> 00:38:46.450 align:middle line:84%
+which is like the amount of
+differentiation that there is
+
+00:38:46.450 --> 00:38:49.660 align:middle line:84%
+between the two products from
+the perspective of the theta
+
+00:38:49.660 --> 00:38:50.990 align:middle line:90%
+upper bar consumer.
+
+00:38:50.990 --> 00:38:53.650 align:middle line:84%
+So it's a lot like
+p plus c plus t
+
+00:38:53.650 --> 00:38:55.263 align:middle line:84%
+but just with the
+amount of difference
+
+00:38:55.263 --> 00:38:57.430 align:middle line:84%
+between the products here
+being from the perspective
+
+00:38:57.430 --> 00:39:00.640 align:middle line:90%
+of the high theta consumer.
+
+00:39:00.640 --> 00:39:06.670 align:middle line:84%
+And so what that looks like
+is we start again here.
+
+00:39:06.670 --> 00:39:11.200 align:middle line:90%
+So we can put PL here, PH here.
+
+00:39:11.200 --> 00:39:16.420 align:middle line:84%
+So it starts at 1/2 PL plus
+c plus something or other.
+
+00:39:16.420 --> 00:39:19.030 align:middle line:84%
+So it starts at
+some positive thing,
+
+00:39:19.030 --> 00:39:21.520 align:middle line:84%
+and it goes up with
+a slope of 1/2.
+
+00:39:21.520 --> 00:39:27.420 align:middle line:84%
+So this is the best response
+for Firm H to a price of PL.
+
+00:39:27.420 --> 00:39:37.670 align:middle line:84%
+And this is 1/2 of c plus theta
+upper bar times SH minus SL.
+
+00:39:37.670 --> 00:39:44.640 align:middle line:84%
+Now, Firm L's best response is
+1/2 of p plus c minus something.
+
+00:39:44.640 --> 00:39:46.640 align:middle line:84%
+And so the minus
+something is again
+
+00:39:46.640 --> 00:39:49.550 align:middle line:84%
+related to how much
+differentiation there is.
+
+00:39:49.550 --> 00:39:53.530 align:middle line:84%
+Notice because when PH is 0,
+this becomes 1/2 of c minus
+
+00:39:53.530 --> 00:39:54.030 align:middle line:90%
+something.
+
+00:39:54.030 --> 00:39:55.880 align:middle line:84%
+This thing could
+even be negative,
+
+00:39:55.880 --> 00:39:58.310 align:middle line:90%
+or it's certainly below c.
+
+00:39:58.310 --> 00:40:02.930 align:middle line:84%
+And it could even be a negative
+number if differentiate,
+
+00:40:02.930 --> 00:40:05.973 align:middle line:84%
+depending on how big
+differentiation is.
+
+00:40:05.973 --> 00:40:08.390 align:middle line:84%
+But anyway, I'll draw it as
+starting as a positive number,
+
+00:40:08.390 --> 00:40:10.490 align:middle line:84%
+but it starts from
+some smaller amount.
+
+00:40:10.490 --> 00:40:14.490 align:middle line:84%
+And then it also goes
+up at a slope of 1/2.
+
+00:40:14.490 --> 00:40:20.160 align:middle line:90%
+So we get BR H--
+
+00:40:20.160 --> 00:40:21.790 align:middle line:90%
+BRL of PH.
+
+00:40:21.790 --> 00:40:24.870 align:middle line:90%
+Looks like that.
+
+00:40:24.870 --> 00:40:29.070 align:middle line:84%
+And it starts from 1/2 of c
+minus theta lower bar times SH
+
+00:40:29.070 --> 00:40:31.700 align:middle line:90%
+minus SL.
+
+00:40:31.700 --> 00:40:35.630 align:middle line:84%
+And, given these things both
+have slope of 1/2, again,
+
+00:40:35.630 --> 00:40:37.250 align:middle line:90%
+there's a unique intersection.
+
+00:40:37.250 --> 00:40:38.820 align:middle line:90%
+And it's right there.
+
+00:40:38.820 --> 00:40:43.820 align:middle line:84%
+And you can think of this
+as PL star comma PH star.
+
+00:40:43.820 --> 00:40:48.200 align:middle line:84%
+And what we get is this
+asymmetric equilibrium.
+
+00:40:48.200 --> 00:40:50.720 align:middle line:84%
+The formulas look the
+same, but this one's
+
+00:40:50.720 --> 00:40:54.050 align:middle line:84%
+got twice the bigger number
+minus the smaller number.
+
+00:40:54.050 --> 00:40:55.940 align:middle line:84%
+And this one has 1
+times the bigger number
+
+00:40:55.940 --> 00:40:57.570 align:middle line:90%
+minus twice the smaller number.
+
+00:40:57.570 --> 00:41:01.310 align:middle line:84%
+So this is a bigger
+number than this one.
+
+00:41:01.310 --> 00:41:06.620 align:middle line:84%
+And so what we get is, again,
+vertical differentiation, just
+
+00:41:06.620 --> 00:41:09.110 align:middle line:84%
+like horizontal
+differentiation, it
+
+00:41:09.110 --> 00:41:12.930 align:middle line:84%
+creates finite
+demand elasticities.
+
+00:41:12.930 --> 00:41:14.470 align:middle line:90%
+It creates positive markups.
+
+00:41:14.470 --> 00:41:17.270 align:middle line:84%
+If you put uniform distributions
+on the vertical tastes,
+
+00:41:17.270 --> 00:41:19.040 align:middle line:84%
+it can be linear
+demand curves, just
+
+00:41:19.040 --> 00:41:22.460 align:middle line:90%
+like the horizontal model is.
+
+00:41:22.460 --> 00:41:26.450 align:middle line:84%
+In equilibrium, the
+differentiation, again,
+
+00:41:26.450 --> 00:41:28.660 align:middle line:90%
+leads to positive markups.
+
+00:41:28.660 --> 00:41:31.490 align:middle line:84%
+Leads to positive markups, but
+it leads to positive markups
+
+00:41:31.490 --> 00:41:34.100 align:middle line:90%
+where Firm H is favored.
+
+00:41:34.100 --> 00:41:35.436 align:middle line:90%
+Firm L is disfavored.
+
+00:41:35.436 --> 00:41:38.230 align:middle line:90%
+
+
+00:41:38.230 --> 00:41:42.340 align:middle line:84%
+Notice also that if theta
+upper bar and theta lower bar
+
+00:41:42.340 --> 00:41:45.250 align:middle line:84%
+are too close together,
+this doesn't work,
+
+00:41:45.250 --> 00:41:47.710 align:middle line:84%
+and Firm L just has to
+drop out of the market
+
+00:41:47.710 --> 00:41:51.760 align:middle line:84%
+because the equilibrium looks
+like theta upper bar minus 2
+
+00:41:51.760 --> 00:41:53.830 align:middle line:90%
+theta lower bar over 3.
+
+00:41:53.830 --> 00:41:57.220 align:middle line:84%
+As theta lower bar approaches
+1/2 of theta upper bar,
+
+00:41:57.220 --> 00:41:59.800 align:middle line:90%
+Firm 2 is just pricing at cost.
+
+00:41:59.800 --> 00:42:07.000 align:middle line:84%
+If firm theta lower bar was even
+closer to theta upper bar, what
+
+00:42:07.000 --> 00:42:09.620 align:middle line:84%
+you'd get in equilibrium is
+Firm L would just be shut out.
+
+00:42:09.620 --> 00:42:11.867 align:middle line:84%
+It would be driven
+down to pricing--
+
+00:42:11.867 --> 00:42:14.450 align:middle line:84%
+to play [INAUDIBLE], that would
+have to be pricing below cost.
+
+00:42:14.450 --> 00:42:16.075 align:middle line:84%
+It eventually doesn't
+price below cost.
+
+00:42:16.075 --> 00:42:18.750 align:middle line:84%
+It can't compete
+in the market, OK?
+
+00:42:18.750 --> 00:42:23.100 align:middle line:84%
+So vertical differentiation,
+like horizontal differentiation,
+
+00:42:23.100 --> 00:42:25.660 align:middle line:84%
+produces finite
+demand elasticities.
+
+00:42:25.660 --> 00:42:34.530 align:middle line:84%
+It can give us, again,
+standard Cournot-like markups.
+
+00:42:34.530 --> 00:42:39.130 align:middle line:84%
+It doesn't give us a
+model where Cournot is--
+
+00:42:39.130 --> 00:42:42.170 align:middle line:84%
+it's like Cournot had that
+continuity n goes to infinity.
+
+00:42:42.170 --> 00:42:43.820 align:middle line:90%
+Price heads to cost.
+
+00:42:43.820 --> 00:42:46.180 align:middle line:84%
+Here, this doesn't happen
+because there's only room
+
+00:42:46.180 --> 00:42:49.000 align:middle line:90%
+for a finite number of firms.
+
+00:42:49.000 --> 00:42:50.560 align:middle line:84%
+You start taking
+this space, and you
+
+00:42:50.560 --> 00:42:53.950 align:middle line:84%
+try to have three or four or
+five or 10 different firms
+
+00:42:53.950 --> 00:42:54.800 align:middle line:90%
+selling to this.
+
+00:42:54.800 --> 00:42:57.740 align:middle line:84%
+At some point, the firms
+get too close together.
+
+00:42:57.740 --> 00:43:00.460 align:middle line:84%
+The firms that are below just
+get shut out of the market
+
+00:43:00.460 --> 00:43:01.340 align:middle line:90%
+and can't compete.
+
+00:43:01.340 --> 00:43:02.750 align:middle line:84%
+And so it's only the
+high-quality firms
+
+00:43:02.750 --> 00:43:03.833 align:middle line:90%
+that are making any sales.
+
+00:43:03.833 --> 00:43:06.880 align:middle line:84%
+And so there's some
+minimum level of markups
+
+00:43:06.880 --> 00:43:08.560 align:middle line:84%
+you're going to
+have to get there.
+
+00:43:08.560 --> 00:43:11.800 align:middle line:84%
+Although, obviously,
+as the firms
+
+00:43:11.800 --> 00:43:14.350 align:middle line:84%
+crowd the space, the
+difference between the SH firm
+
+00:43:14.350 --> 00:43:16.142 align:middle line:84%
+and the SH minus epsilon
+firm, you're only
+
+00:43:16.142 --> 00:43:17.350 align:middle line:90%
+going to get epsilon profits.
+
+00:43:17.350 --> 00:43:23.970 align:middle line:84%
+But you're going to get it with
+just a few firms active, OK?
+
+00:43:23.970 --> 00:43:27.510 align:middle line:84%
+OK, and obviously, I think
+modern IO-- in reality,
+
+00:43:27.510 --> 00:43:29.940 align:middle line:84%
+we think that vertical
+differentiation
+
+00:43:29.940 --> 00:43:33.370 align:middle line:84%
+and horizontal differentiation
+are present in most markets.
+
+00:43:33.370 --> 00:43:37.097 align:middle line:84%
+We think most products,
+there's some extent
+
+00:43:37.097 --> 00:43:39.180 align:middle line:84%
+to which we think product
+a is better than product
+
+00:43:39.180 --> 00:43:41.520 align:middle line:84%
+b that everyone would
+agree on or almost everyone
+
+00:43:41.520 --> 00:43:42.160 align:middle line:90%
+would agree on.
+
+00:43:42.160 --> 00:43:44.463 align:middle line:84%
+And then there's other
+horizontal aspects.
+
+00:43:44.463 --> 00:43:47.130 align:middle line:84%
+Everyone wants a phone that has
+better battery life and a better
+
+00:43:47.130 --> 00:43:49.135 align:middle line:84%
+screen resolution
+and a better camera.
+
+00:43:49.135 --> 00:43:50.760 align:middle line:84%
+But then there are
+other things, people
+
+00:43:50.760 --> 00:43:53.730 align:middle line:84%
+like the look and feel of a
+versus b and are going to have--
+
+00:43:53.730 --> 00:43:55.832 align:middle line:84%
+know the operating
+system of a versus b
+
+00:43:55.832 --> 00:43:58.040 align:middle line:84%
+and are going to have
+horizontal and vertical tastes.
+
+00:43:58.040 --> 00:44:04.510 align:middle line:90%
+
+
+00:44:04.510 --> 00:44:08.210 align:middle line:84%
+So let me go back to
+horizontal differentiation now.
+
+00:44:08.210 --> 00:44:13.330 align:middle line:84%
+And this is motivated by how the
+empirical literature and IO has
+
+00:44:13.330 --> 00:44:14.180 align:middle line:90%
+developed.
+
+00:44:14.180 --> 00:44:19.920 align:middle line:90%
+So generally, the standard--
+
+00:44:19.920 --> 00:44:25.990 align:middle line:84%
+Hotelling is a very nice model
+of competition on a line.
+
+00:44:25.990 --> 00:44:29.040 align:middle line:84%
+Hotelling is not as good a
+model once you have three firms
+
+00:44:29.040 --> 00:44:30.335 align:middle line:90%
+instead of two firms.
+
+00:44:30.335 --> 00:44:31.710 align:middle line:84%
+Because you have
+three firms, you
+
+00:44:31.710 --> 00:44:35.100 align:middle line:84%
+have to think about where do we
+put the three firms and product
+
+00:44:35.100 --> 00:44:35.640 align:middle line:90%
+space.
+
+00:44:35.640 --> 00:44:38.250 align:middle line:90%
+One thing you could do is--
+
+00:44:38.250 --> 00:44:39.900 align:middle line:90%
+what did I do with my eraser?
+
+00:44:39.900 --> 00:44:42.090 align:middle line:90%
+There it is.
+
+00:44:42.090 --> 00:44:46.580 align:middle line:84%
+You could, if you're someone
+who likes high school geometry,
+
+00:44:46.580 --> 00:44:49.565 align:middle line:84%
+you could go back to your
+youth and say, OK, here's
+
+00:44:49.565 --> 00:44:50.440 align:middle line:90%
+what I'm going to do.
+
+00:44:50.440 --> 00:44:53.220 align:middle line:84%
+I'm going to have the
+three-firm Hotelling model.
+
+00:44:53.220 --> 00:44:58.560 align:middle line:84%
+And I have Firm 1 here,
+Firm 2 here, Firm 3 here.
+
+00:44:58.560 --> 00:45:01.290 align:middle line:84%
+And there's going to be
+this set of consumers
+
+00:45:01.290 --> 00:45:03.540 align:middle line:84%
+who are indifferent
+between Firm 1 and Firm 2
+
+00:45:03.540 --> 00:45:06.300 align:middle line:84%
+based on their prices
+and a set of firms
+
+00:45:06.300 --> 00:45:11.070 align:middle line:84%
+indifferent between Firm 1
+and 3 based on their prices
+
+00:45:11.070 --> 00:45:16.030 align:middle line:84%
+and a set of firms indifferent
+between Firm 1 and 2
+
+00:45:16.030 --> 00:45:19.150 align:middle line:90%
+based on their prices.
+
+00:45:19.150 --> 00:45:22.000 align:middle line:84%
+I think that has to go
+through the same point.
+
+00:45:22.000 --> 00:45:24.603 align:middle line:84%
+And so we're going to get
+these three different regions.
+
+00:45:24.603 --> 00:45:27.110 align:middle line:90%
+
+
+00:45:27.110 --> 00:45:31.940 align:middle line:84%
+So in equilibrium,
+these guys buy from 1.
+
+00:45:31.940 --> 00:45:34.730 align:middle line:90%
+These guys buy from 2.
+
+00:45:34.730 --> 00:45:37.268 align:middle line:90%
+And these guys buy from Firm 3.
+
+00:45:37.268 --> 00:45:39.560 align:middle line:84%
+I'm going to use everything
+I remember from high school
+
+00:45:39.560 --> 00:45:41.390 align:middle line:84%
+geometry to figure out
+the areas of those things
+
+00:45:41.390 --> 00:45:42.765 align:middle line:84%
+and how the areas
+of those things
+
+00:45:42.765 --> 00:45:45.150 align:middle line:84%
+are functions of
+P1 and P2 and P3.
+
+00:45:45.150 --> 00:45:48.170 align:middle line:84%
+And then, when I get to 4, I'm
+going to make it a tetrahedron.
+
+00:45:48.170 --> 00:45:50.520 align:middle line:84%
+And I'm going to draw all
+the volumes of those things.
+
+00:45:50.520 --> 00:45:54.350 align:middle line:84%
+But it quickly becomes
+just an intractable mess
+
+00:45:54.350 --> 00:45:55.590 align:middle line:90%
+with lots of corners.
+
+00:45:55.590 --> 00:45:58.680 align:middle line:84%
+And you also think, why were we
+doing this in the first place?
+
+00:45:58.680 --> 00:46:01.010 align:middle line:84%
+It wasn't like we felt that
+people were uniformly--
+
+00:46:01.010 --> 00:46:03.390 align:middle line:84%
+uniformly distributed
+on the beach seemed OK.
+
+00:46:03.390 --> 00:46:08.780 align:middle line:84%
+Once you get between competition
+between Google and Samsung
+
+00:46:08.780 --> 00:46:12.320 align:middle line:84%
+and Apple to sell
+modern phones, is it
+
+00:46:12.320 --> 00:46:14.430 align:middle line:90%
+really uniform on a triangle?
+
+00:46:14.430 --> 00:46:16.280 align:middle line:90%
+Why do we believe that anyway?
+
+00:46:16.280 --> 00:46:17.780 align:middle line:84%
+So what people do
+instead is they've
+
+00:46:17.780 --> 00:46:21.950 align:middle line:84%
+switched to this kind of
+utility spectrum, where
+
+00:46:21.950 --> 00:46:24.680 align:middle line:84%
+in some sense what
+Hotelling was trying to do
+
+00:46:24.680 --> 00:46:28.470 align:middle line:84%
+was fit two firms into
+a one-dimensional space.
+
+00:46:28.470 --> 00:46:30.840 align:middle line:84%
+And fitting two firms into
+a one-dimensional space
+
+00:46:30.840 --> 00:46:33.690 align:middle line:84%
+was a great idea to
+make it more tractable.
+
+00:46:33.690 --> 00:46:38.520 align:middle line:84%
+Fitting three firms into
+a two-dimensional space,
+
+00:46:38.520 --> 00:46:39.820 align:middle line:90%
+it just gets awkward.
+
+00:46:39.820 --> 00:46:42.720 align:middle line:84%
+And so the observation is,
+why not just stick with
+
+00:46:42.720 --> 00:46:46.290 align:middle line:84%
+an n-dimensional space for n
+firms instead of an n minus
+
+00:46:46.290 --> 00:46:48.550 align:middle line:90%
+1-dimensional space for n firms?
+
+00:46:48.550 --> 00:46:50.790 align:middle line:84%
+And so what people do is
+assume the utility that
+
+00:46:50.790 --> 00:46:52.650 align:middle line:90%
+Firm I gets from by--
+
+00:46:52.650 --> 00:46:54.750 align:middle line:84%
+utility that consumer
+I gets buying
+
+00:46:54.750 --> 00:47:00.420 align:middle line:84%
+from Firm J is vj, which is like
+the vertical quality of product
+
+00:47:00.420 --> 00:47:06.240 align:middle line:84%
+j, minus alpha times
+pj, the price of Firm J,
+
+00:47:06.240 --> 00:47:08.040 align:middle line:90%
+plus epsilon ij.
+
+00:47:08.040 --> 00:47:11.760 align:middle line:84%
+That's my uniform taste
+for how much I like iPhones
+
+00:47:11.760 --> 00:47:13.950 align:middle line:84%
+or how much I like
+Samsung phones
+
+00:47:13.950 --> 00:47:19.020 align:middle line:84%
+or how much I like
+Google Pixel phones, OK?
+
+00:47:19.020 --> 00:47:21.270 align:middle line:84%
+And then people typically
+also actually with n firms
+
+00:47:21.270 --> 00:47:24.420 align:middle line:84%
+will now typically go to n
+plus 1 dimensional uncertainty.
+
+00:47:24.420 --> 00:47:26.250 align:middle line:84%
+And they'll add
+epsilon i0, which
+
+00:47:26.250 --> 00:47:28.800 align:middle line:84%
+is how much do I like the
+outside good of not purchasing
+
+00:47:28.800 --> 00:47:29.740 align:middle line:90%
+anything?
+
+00:47:29.740 --> 00:47:32.940 align:middle line:84%
+So that could be how
+much sentimental value
+
+00:47:32.940 --> 00:47:36.007 align:middle line:84%
+do I have for my current
+phone, which is often
+
+00:47:36.007 --> 00:47:38.340 align:middle line:84%
+the outside good is just not
+buying anything and keeping
+
+00:47:38.340 --> 00:47:40.290 align:middle line:90%
+the phone that I've already got.
+
+00:47:40.290 --> 00:47:44.498 align:middle line:84%
+And people can have
+different-- so in some sense,
+
+00:47:44.498 --> 00:47:47.040 align:middle line:84%
+in that phone example, I've got
+a four-dimensional preference
+
+00:47:47.040 --> 00:47:47.410 align:middle line:90%
+space.
+
+00:47:47.410 --> 00:47:48.790 align:middle line:90%
+How much do I like new iphones?
+
+00:47:48.790 --> 00:47:50.710 align:middle line:84%
+How much do I like
+new Samsung phones?
+
+00:47:50.710 --> 00:47:52.440 align:middle line:84%
+How much do I like
+new Pixel phones?
+
+00:47:52.440 --> 00:47:54.090 align:middle line:84%
+And how much do I
+like the old phone
+
+00:47:54.090 --> 00:47:55.740 align:middle line:90%
+that's already in my pocket?
+
+00:47:55.740 --> 00:47:58.573 align:middle line:84%
+And people can have different
+views about these things,
+
+00:47:58.573 --> 00:48:00.990 align:middle line:84%
+both for taste-based reasons
+and like the one in my pocket
+
+00:48:00.990 --> 00:48:06.530 align:middle line:84%
+is broken or not broken or
+whatever condition it's in, OK?
+
+00:48:06.530 --> 00:48:08.600 align:middle line:84%
+Demand in this model
+in general case is just
+
+00:48:08.600 --> 00:48:11.510 align:middle line:84%
+an n-plus-1-dimensional
+integral to figure out.
+
+00:48:11.510 --> 00:48:14.900 align:middle line:84%
+The demand for product j,
+when these are the prices,
+
+00:48:14.900 --> 00:48:18.780 align:middle line:84%
+I just integrate over that
+n-plus-1-dimensional space.
+
+00:48:18.780 --> 00:48:23.210 align:middle line:84%
+It's just the integral over
+the subset of that space, where
+
+00:48:23.210 --> 00:48:26.090 align:middle line:84%
+product j gives higher
+utility than product
+
+00:48:26.090 --> 00:48:28.440 align:middle line:90%
+k for all k different from j.
+
+00:48:28.440 --> 00:48:30.770 align:middle line:84%
+And I'm just
+integrating the density
+
+00:48:30.770 --> 00:48:33.540 align:middle line:84%
+of the joint distribution
+of types over that region.
+
+00:48:33.540 --> 00:48:38.180 align:middle line:84%
+So it's like here I'm
+integrating the density of types
+
+00:48:38.180 --> 00:48:41.190 align:middle line:84%
+to find demand for good 1 in
+this two-dimensional space.
+
+00:48:41.190 --> 00:48:44.870 align:middle line:84%
+I just integrate the density
+over this particular region
+
+00:48:44.870 --> 00:48:45.900 align:middle line:90%
+of space.
+
+00:48:45.900 --> 00:48:49.640 align:middle line:84%
+And so I'm still integrating
+over these regions of space
+
+00:48:49.640 --> 00:48:52.610 align:middle line:90%
+that look kind of like that.
+
+00:48:52.610 --> 00:48:54.928 align:middle line:84%
+Actually, the
+two-dimensional model here--
+
+00:48:54.928 --> 00:48:56.720 align:middle line:84%
+let me do two products
+and no outside good.
+
+00:48:56.720 --> 00:49:02.900 align:middle line:84%
+It would just be like I've got
+epsilon i1 on this axis, epsilon
+
+00:49:02.900 --> 00:49:05.270 align:middle line:90%
+i2 on this axis.
+
+00:49:05.270 --> 00:49:07.890 align:middle line:90%
+And I would just be this region.
+
+00:49:07.890 --> 00:49:10.910 align:middle line:90%
+So these people buy from good 1.
+
+00:49:10.910 --> 00:49:13.110 align:middle line:90%
+These people buy good 2.
+
+00:49:13.110 --> 00:49:16.370 align:middle line:84%
+It's just entirely is epsilon
+i2 greater than epsilon i1?
+
+00:49:16.370 --> 00:49:18.500 align:middle line:84%
+So it's an easier
+integral to do, typically,
+
+00:49:18.500 --> 00:49:20.780 align:middle line:84%
+than those ones with the
+things stuck into a lower
+
+00:49:20.780 --> 00:49:25.040 align:middle line:84%
+dimensional space because you're
+just integrating over quadrants
+
+00:49:25.040 --> 00:49:25.990 align:middle line:90%
+or half spaces.
+
+00:49:25.990 --> 00:49:34.753 align:middle line:90%
+
+
+00:49:34.753 --> 00:49:37.170 align:middle line:84%
+Sometimes, in empirical papers,
+if people want to do this,
+
+00:49:37.170 --> 00:49:40.172 align:middle line:84%
+they're just simulating a bunch
+of-- drawing a bunch of epsilons
+
+00:49:40.172 --> 00:49:41.880 align:middle line:84%
+at random, figuring
+out how many of those
+
+00:49:41.880 --> 00:49:43.530 align:middle line:90%
+consumers buy each product.
+
+00:49:43.530 --> 00:49:45.965 align:middle line:84%
+That's how you do this,
+practically speaking.
+
+00:49:45.965 --> 00:49:48.480 align:middle line:90%
+
+
+00:49:48.480 --> 00:49:52.140 align:middle line:84%
+This model is tractable
+in the special case.
+
+00:49:52.140 --> 00:49:56.370 align:middle line:84%
+When there's no outside
+goods, the v's are all equal,
+
+00:49:56.370 --> 00:49:58.230 align:middle line:90%
+and the epsilons are i.i.d.
+
+00:49:58.230 --> 00:50:00.240 align:middle line:90%
+with some density f.
+
+00:50:00.240 --> 00:50:06.220 align:middle line:84%
+In general, you're trying to
+solve a game, an n player game,
+
+00:50:06.220 --> 00:50:09.510 align:middle line:84%
+you have to solve an n equations
+and n unknowns problem.
+
+00:50:09.510 --> 00:50:13.020 align:middle line:84%
+But if you have looking for
+a symmetric equilibrium,
+
+00:50:13.020 --> 00:50:15.210 align:middle line:84%
+then you're back
+to a one equation
+
+00:50:15.210 --> 00:50:16.642 align:middle line:90%
+and one unknown problem.
+
+00:50:16.642 --> 00:50:18.600 align:middle line:84%
+Because you have a one
+unknown equation and one
+
+00:50:18.600 --> 00:50:20.725 align:middle line:84%
+unknown problem, I'm just
+trying to max-- you know,
+
+00:50:20.725 --> 00:50:24.780 align:middle line:84%
+I'm solving the fact
+that when is there
+
+00:50:24.780 --> 00:50:27.000 align:middle line:84%
+an equilibrium of
+a symmetric model
+
+00:50:27.000 --> 00:50:31.410 align:middle line:84%
+where all the firms
+set price p star.
+
+00:50:31.410 --> 00:50:39.180 align:middle line:84%
+That's going to be if p star
+belongs to the arg max over p
+
+00:50:39.180 --> 00:50:49.350 align:middle line:84%
+of profit of Firm J when it sets
+price pj and the other firms
+
+00:50:49.350 --> 00:50:50.435 align:middle line:90%
+set price p star.
+
+00:50:50.435 --> 00:50:54.100 align:middle line:90%
+
+
+00:50:54.100 --> 00:50:56.120 align:middle line:84%
+So, sorry, if I
+make it symmetric
+
+00:50:56.120 --> 00:50:59.240 align:middle line:84%
+so this profit
+doesn't depend on j,
+
+00:50:59.240 --> 00:51:01.990 align:middle line:84%
+this is just one
+equation in one unknown
+
+00:51:01.990 --> 00:51:03.720 align:middle line:90%
+that lets me find p star.
+
+00:51:03.720 --> 00:51:06.910 align:middle line:84%
+It's just each firm is
+maximizing its profit,
+
+00:51:06.910 --> 00:51:09.520 align:middle line:84%
+holding everybody else's
+profits at p star.
+
+00:51:09.520 --> 00:51:15.520 align:middle line:84%
+And so, where asymmetric models
+are an n equation problem,
+
+00:51:15.520 --> 00:51:17.220 align:middle line:90%
+one equation--
+
+00:51:17.220 --> 00:51:18.790 align:middle line:84%
+symmetric equilibria
+you can often
+
+00:51:18.790 --> 00:51:21.080 align:middle line:84%
+find by just solving one
+equation and one unknown.
+
+00:51:21.080 --> 00:51:24.790 align:middle line:84%
+And so people often do
+that to give insights.
+
+00:51:24.790 --> 00:51:26.560 align:middle line:90%
+So let's look at what is the--
+
+00:51:26.560 --> 00:51:32.740 align:middle line:84%
+and obviously, the
+pi of pj comma p star
+
+00:51:32.740 --> 00:51:47.070 align:middle line:84%
+is going to be xj of pj comma
+p star times pj minus c.
+
+00:51:47.070 --> 00:51:52.460 align:middle line:84%
+So your demand is just price
+minus cost times demand,
+
+00:51:52.460 --> 00:51:54.890 align:middle line:84%
+like it was in all
+the other models.
+
+00:51:54.890 --> 00:51:57.355 align:middle line:90%
+OK, what does demand look like?
+
+00:51:57.355 --> 00:52:00.450 align:middle line:90%
+
+
+00:52:00.450 --> 00:52:04.050 align:middle line:84%
+So if I'm thinking about
+every other firm is charging
+
+00:52:04.050 --> 00:52:06.780 align:middle line:84%
+price p or p star
+and I'm considering
+
+00:52:06.780 --> 00:52:13.240 align:middle line:84%
+charging my price pj, when is
+someone going to buy from me?
+
+00:52:13.240 --> 00:52:18.200 align:middle line:84%
+They're going to buy from me
+if their preference for me--
+
+00:52:18.200 --> 00:52:23.750 align:middle line:84%
+so they're going to buy
+from me if epsilon ij is
+
+00:52:23.750 --> 00:52:32.180 align:middle line:84%
+at least the maximum k
+different from j epsilon ik
+
+00:52:32.180 --> 00:52:38.420 align:middle line:90%
+plus pj minus p star.
+
+00:52:38.420 --> 00:52:40.940 align:middle line:84%
+If everyone else
+is charging p star
+
+00:52:40.940 --> 00:52:44.300 align:middle line:84%
+and I charge pj, which
+is greater than p star,
+
+00:52:44.300 --> 00:52:46.762 align:middle line:90%
+I have to be that much--
+
+00:52:46.762 --> 00:52:49.220 align:middle line:84%
+they have to have that much
+higher idiosyncratic preference
+
+00:52:49.220 --> 00:52:52.280 align:middle line:84%
+for me than they have
+for anybody else.
+
+00:52:52.280 --> 00:52:54.050 align:middle line:84%
+And if I charge a
+lower price, they
+
+00:52:54.050 --> 00:52:55.760 align:middle line:84%
+can be this much
+lower than their best
+
+00:52:55.760 --> 00:52:58.760 align:middle line:84%
+preference for everybody
+else and still buy from me.
+
+00:52:58.760 --> 00:53:04.010 align:middle line:84%
+So what you get is the
+demand for me is this is--
+
+00:53:04.010 --> 00:53:06.440 align:middle line:90%
+let's suppose that there--
+
+00:53:06.440 --> 00:53:11.540 align:middle line:84%
+suppose that this, I'm going
+to call theta, their greatest
+
+00:53:11.540 --> 00:53:14.960 align:middle line:84%
+utility they get from buying
+from any other firm or greatest
+
+00:53:14.960 --> 00:53:17.900 align:middle line:84%
+idiosyncratic taste
+for any other firm,
+
+00:53:17.900 --> 00:53:20.810 align:middle line:84%
+then they're going
+to buy from me--
+
+00:53:20.810 --> 00:53:23.690 align:middle line:84%
+this is the probability
+that their type is bigger
+
+00:53:23.690 --> 00:53:26.840 align:middle line:90%
+than theta plus pj minus p.
+
+00:53:26.840 --> 00:53:28.430 align:middle line:90%
+So that's a probability that--
+
+00:53:28.430 --> 00:53:30.830 align:middle line:84%
+this is the probability
+that epsilon ij
+
+00:53:30.830 --> 00:53:34.220 align:middle line:90%
+is bigger than theta plus this.
+
+00:53:34.220 --> 00:53:42.060 align:middle line:84%
+And then, this is
+the density of theta.
+
+00:53:42.060 --> 00:53:43.456 align:middle line:90%
+So if you're choosing--
+
+00:53:43.456 --> 00:53:46.980 align:middle line:90%
+
+
+00:53:46.980 --> 00:53:52.360 align:middle line:84%
+there are n other draws
+or n minus 1 other draws,
+
+00:53:52.360 --> 00:53:56.110 align:middle line:84%
+there are n minus 1 draws
+from some distribution f,
+
+00:53:56.110 --> 00:53:58.900 align:middle line:84%
+what's the probability that
+the largest of n minus 1
+
+00:53:58.900 --> 00:54:05.200 align:middle line:84%
+draws from f is in some tiny
+interval theta plus d theta?
+
+00:54:05.200 --> 00:54:07.540 align:middle line:84%
+And the probability
+that this is-- it's
+
+00:54:07.540 --> 00:54:09.083 align:middle line:90%
+an order statistic calculation.
+
+00:54:09.083 --> 00:54:11.500 align:middle line:84%
+I don't know if the order
+statistics have disappeared from
+
+00:54:11.500 --> 00:54:12.550 align:middle line:90%
+[14.]380.
+
+00:54:12.550 --> 00:54:17.980 align:middle line:84%
+But so, the density of
+the highest of n draws--
+
+00:54:17.980 --> 00:54:21.580 align:middle line:84%
+so the probability that someone
+is in the highest of n minus 1
+
+00:54:21.580 --> 00:54:25.120 align:middle line:84%
+draws in that interval
+is you pick some firm
+
+00:54:25.120 --> 00:54:27.810 align:middle line:90%
+to be the highest, their value--
+
+00:54:27.810 --> 00:54:31.090 align:middle line:84%
+the epsilon for them has to
+be in this interval, which
+
+00:54:31.090 --> 00:54:33.610 align:middle line:84%
+happens with
+probability f of theta
+
+00:54:33.610 --> 00:54:37.570 align:middle line:84%
+and all other epsilons have to
+be less than that theta, which
+
+00:54:37.570 --> 00:54:40.600 align:middle line:84%
+happens with probability capital
+F of theta to the n minus 2.
+
+00:54:40.600 --> 00:54:43.060 align:middle line:84%
+So this is the density
+for the highest
+
+00:54:43.060 --> 00:54:45.650 align:middle line:90%
+of the n minus 1 rival draws.
+
+00:54:45.650 --> 00:54:53.228 align:middle line:84%
+But so anyway, that's what
+my demand looks like, OK?
+
+00:54:53.228 --> 00:54:55.270 align:middle line:84%
+If this is what my demand
+looks like, then again,
+
+00:54:55.270 --> 00:54:57.270 align:middle line:84%
+I'm just going to have
+the first-order condition
+
+00:54:57.270 --> 00:55:00.810 align:middle line:90%
+that I'm going to have to have.
+
+00:55:00.810 --> 00:55:06.850 align:middle line:84%
+p star satisfies the
+first-order condition
+
+00:55:06.850 --> 00:55:16.693 align:middle line:84%
+d pi j, dpj evaluated at
+pj equals p star equals 0.
+
+00:55:16.693 --> 00:55:18.610 align:middle line:84%
+And so I'm going to get
+first-order condition.
+
+00:55:18.610 --> 00:55:19.985 align:middle line:84%
+The first-order
+condition is just
+
+00:55:19.985 --> 00:55:25.985 align:middle line:84%
+going to look like pj minus c
+times dxj dpj plus xj equals 0.
+
+00:55:25.985 --> 00:55:29.280 align:middle line:90%
+
+
+00:55:29.280 --> 00:55:31.240 align:middle line:84%
+And so it turns
+out you can just--
+
+00:55:31.240 --> 00:55:32.910 align:middle line:90%
+maybe I should do that right.
+
+00:55:32.910 --> 00:55:35.430 align:middle line:84%
+Again, so I have this
+first-order condition.
+
+00:55:35.430 --> 00:55:41.210 align:middle line:84%
+It's going to look
+like p star minus c
+
+00:55:41.210 --> 00:55:54.310 align:middle line:84%
+times dxj dpj evaluated at p
+star plus xj of p star equals 0.
+
+00:55:54.310 --> 00:55:56.080 align:middle line:84%
+So that's what the
+first-order condition
+
+00:55:56.080 --> 00:55:59.590 align:middle line:84%
+is going to look like, as it
+has always looked in this class.
+
+00:55:59.590 --> 00:56:03.580 align:middle line:84%
+And then the xj
+of p star is going
+
+00:56:03.580 --> 00:56:08.140 align:middle line:84%
+to be 1 over n in equilibrium
+with n symmetric firms.
+
+00:56:08.140 --> 00:56:14.350 align:middle line:84%
+So you just get p star minus
+c is just equal to minus 1
+
+00:56:14.350 --> 00:56:17.710 align:middle line:90%
+over n dxj dpj.
+
+00:56:17.710 --> 00:56:21.760 align:middle line:90%
+
+
+00:56:21.760 --> 00:56:23.920 align:middle line:84%
+One other thing I
+meant to mention before
+
+00:56:23.920 --> 00:56:30.220 align:middle line:84%
+is look at this utility
+function, v minus alpha times p
+
+00:56:30.220 --> 00:56:31.640 align:middle line:90%
+plus epsilon.
+
+00:56:31.640 --> 00:56:35.980 align:middle line:84%
+Utilities are only defined up
+to an affine transformation.
+
+00:56:35.980 --> 00:56:38.860 align:middle line:84%
+I think probably hear
+that in [14.]121 a lot.
+
+00:56:38.860 --> 00:56:45.640 align:middle line:84%
+So you can also think of this as
+like v over alpha minus p plus 1
+
+00:56:45.640 --> 00:56:49.120 align:middle line:90%
+over alpha times epsilon ij.
+
+00:56:49.120 --> 00:56:53.470 align:middle line:84%
+So this model, when people put
+in a price coefficient alpha,
+
+00:56:53.470 --> 00:56:57.340 align:middle line:84%
+is a lot like the Hotelling
+model, where one puts 1
+
+00:56:57.340 --> 00:57:01.490 align:middle line:84%
+over alpha where the t used
+to be because 1 over alpha
+
+00:57:01.490 --> 00:57:06.050 align:middle line:84%
+is like the size of the
+transportation cost, size
+
+00:57:06.050 --> 00:57:08.810 align:middle line:84%
+of the heterogeneity
+relative to having a unit
+
+00:57:08.810 --> 00:57:10.610 align:middle line:90%
+coefficient on the price.
+
+00:57:10.610 --> 00:57:14.360 align:middle line:84%
+So when people do empirical IO,
+they always put an alpha here.
+
+00:57:14.360 --> 00:57:16.850 align:middle line:84%
+But you can think of
+it as fixing this as 1
+
+00:57:16.850 --> 00:57:21.140 align:middle line:84%
+and putting 1 over alpha
+in front of the epsilons.
+
+00:57:21.140 --> 00:57:25.580 align:middle line:84%
+So anyway, so what do you get
+as the markup when you do this?
+
+00:57:25.580 --> 00:57:28.590 align:middle line:84%
+What you get as a
+markup is price.
+
+00:57:28.590 --> 00:57:35.410 align:middle line:84%
+So this is price equals
+cost plus negative 1
+
+00:57:35.410 --> 00:57:37.790 align:middle line:90%
+over n 1 over dxj dpj.
+
+00:57:37.790 --> 00:57:40.540 align:middle line:90%
+
+
+00:57:40.540 --> 00:57:42.850 align:middle line:84%
+So anyway, the
+equilibrium formula
+
+00:57:42.850 --> 00:57:47.770 align:middle line:84%
+is price equals c plus
+t times something.
+
+00:57:47.770 --> 00:57:52.540 align:middle line:84%
+So it's c plus t times 1 over
+m of n, and the 1 over m of n
+
+00:57:52.540 --> 00:57:54.646 align:middle line:84%
+is just what you get
+differentiating--
+
+00:57:54.646 --> 00:57:58.790 align:middle line:90%
+
+
+00:57:58.790 --> 00:58:00.680 align:middle line:84%
+m of n is like what
+you get differentiating
+
+00:58:00.680 --> 00:58:02.480 align:middle line:90%
+this thing with respect to pj.
+
+00:58:02.480 --> 00:58:05.120 align:middle line:90%
+
+
+00:58:05.120 --> 00:58:08.210 align:middle line:84%
+And you can see it's got
+things like f to the n minus 2
+
+00:58:08.210 --> 00:58:11.340 align:middle line:90%
+and F and n's in it and stuff.
+
+00:58:11.340 --> 00:58:13.110 align:middle line:84%
+But anyway, if you
+do the calculation,
+
+00:58:13.110 --> 00:58:15.750 align:middle line:84%
+you differentiate on
+the integral sign,
+
+00:58:15.750 --> 00:58:17.170 align:middle line:90%
+this is what you get.
+
+00:58:17.170 --> 00:58:22.440 align:middle line:84%
+So price equals c plus 1 over m
+of n times 1 over alpha, where
+
+00:58:22.440 --> 00:58:28.290 align:middle line:84%
+m of n depends on the assumed
+density of the distribution
+
+00:58:28.290 --> 00:58:31.370 align:middle line:90%
+of the epsilons, OK?
+
+00:58:31.370 --> 00:58:32.766 align:middle line:90%
+So some corollaries.
+
+00:58:32.766 --> 00:58:35.650 align:middle line:90%
+
+
+00:58:35.650 --> 00:58:37.930 align:middle line:90%
+Suppose F is uniform 0, 1.
+
+00:58:37.930 --> 00:58:43.240 align:middle line:84%
+So certainly, Hotelling could
+have done, instead of the beach,
+
+00:58:43.240 --> 00:58:45.790 align:middle line:84%
+he could have done the
+people living on a square,
+
+00:58:45.790 --> 00:58:49.510 align:middle line:84%
+where this was
+utility epsilon i1.
+
+00:58:49.510 --> 00:58:52.930 align:middle line:90%
+This is epsilon i2, OK?
+
+00:58:52.930 --> 00:58:56.320 align:middle line:84%
+It turns out that if Hotelling
+had done his model on a square,
+
+00:58:56.320 --> 00:59:00.370 align:middle line:84%
+he would have found the neat
+result that price equals c plus
+
+00:59:00.370 --> 00:59:01.602 align:middle line:90%
+1/2t.
+
+00:59:01.602 --> 00:59:04.060 align:middle line:84%
+He would have gotten exactly
+the same thing except with 1/2
+
+00:59:04.060 --> 00:59:06.040 align:middle line:90%
+in it.
+
+00:59:06.040 --> 00:59:08.020 align:middle line:84%
+So with the linear
+model, you can
+
+00:59:08.020 --> 00:59:11.080 align:middle line:84%
+extend this to people living
+on a hypercube-- or cube
+
+00:59:11.080 --> 00:59:12.830 align:middle line:90%
+or a hypercube or whatever.
+
+00:59:12.830 --> 00:59:15.590 align:middle line:84%
+And the formula is
+exactly correct,
+
+00:59:15.590 --> 00:59:19.100 align:middle line:84%
+that price equals c
+plus 1 over n times t.
+
+00:59:19.100 --> 00:59:21.760 align:middle line:84%
+So the thing that everyone
+loved about Cournot
+
+00:59:21.760 --> 00:59:27.130 align:middle line:84%
+is true of this hypercube model
+of product differentiation.
+
+00:59:27.130 --> 00:59:30.850 align:middle line:84%
+Price is just c plus t,
+where t is the length
+
+00:59:30.850 --> 00:59:31.880 align:middle line:90%
+of a side of the cube.
+
+00:59:31.880 --> 00:59:33.850 align:middle line:84%
+How intense is your
+preference for Coke
+
+00:59:33.850 --> 00:59:36.450 align:middle line:90%
+versus non-Coke or whatever?
+
+00:59:36.450 --> 00:59:40.310 align:middle line:84%
+And things decline
+like 1 over n if there
+
+00:59:40.310 --> 00:59:41.440 align:middle line:90%
+are n firms in the model.
+
+00:59:41.440 --> 00:59:45.720 align:middle line:90%
+
+
+00:59:45.720 --> 00:59:47.460 align:middle line:84%
+What can we say
+more generally going
+
+00:59:47.460 --> 00:59:50.010 align:middle line:84%
+outside the uniform
+distribution?
+
+00:59:50.010 --> 00:59:53.450 align:middle line:84%
+Suppose that uniform
+distribution is bounded above.
+
+00:59:53.450 --> 00:59:55.980 align:middle line:84%
+Suppose that the
+epsilon is bounded above
+
+00:59:55.980 --> 00:59:57.960 align:middle line:90%
+or that the tails are thin.
+
+00:59:57.960 --> 01:00:00.240 align:middle line:84%
+Tails are thin like
+the normal distribution
+
+01:00:00.240 --> 01:00:02.310 align:middle line:84%
+in this sense of
+limit as epsilon
+
+01:00:02.310 --> 01:00:07.020 align:middle line:84%
+goes to infinity F prime over
+F goes to negative infinity.
+
+01:00:07.020 --> 01:00:12.350 align:middle line:84%
+Then, as the number of firms
+goes up, prices drop to cost.
+
+01:00:12.350 --> 01:00:15.420 align:middle line:84%
+So if we take
+bounded distributions
+
+01:00:15.420 --> 01:00:18.540 align:middle line:84%
+or we take distributions
+that are not bounded but have
+
+01:00:18.540 --> 01:00:21.210 align:middle line:84%
+very thin tails, then
+you do get the result
+
+01:00:21.210 --> 01:00:24.630 align:middle line:84%
+that competition
+drives prices to 0.
+
+01:00:24.630 --> 01:00:26.890 align:middle line:84%
+Does that happen for
+all distributions?
+
+01:00:26.890 --> 01:00:28.270 align:middle line:90%
+The answer is no.
+
+01:00:28.270 --> 01:00:30.900 align:middle line:84%
+Most important example
+where that doesn't happen
+
+01:00:30.900 --> 01:00:33.210 align:middle line:84%
+is the logit error
+distribution, which people
+
+01:00:33.210 --> 01:00:36.310 align:middle line:84%
+often assume because it
+makes algebra easier.
+
+01:00:36.310 --> 01:00:38.590 align:middle line:84%
+But it turns out for
+the logit model--
+
+01:00:38.590 --> 01:00:42.690 align:middle line:84%
+so this is the logit
+cdf, where gamma
+
+01:00:42.690 --> 01:00:46.520 align:middle line:84%
+is the Euler-Mascheroni
+constant, like 0.577.
+
+01:00:46.520 --> 01:00:49.600 align:middle line:84%
+So in the logit model,
+what you actually get
+
+01:00:49.600 --> 01:00:55.480 align:middle line:84%
+is price equals cost plus
+some constant times 1
+
+01:00:55.480 --> 01:00:59.050 align:middle line:84%
+plus 1 over n minus
+1 times 1 over alpha.
+
+01:00:59.050 --> 01:01:08.210 align:middle line:84%
+So as n goes to infinity, p star
+is going to c plus 1 over alpha.
+
+01:01:08.210 --> 01:01:11.085 align:middle line:90%
+So in the logit model, prices--
+
+01:01:11.085 --> 01:01:11.960 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+01:01:11.960 --> 01:01:13.642 align:middle line:90%
+GLENN ELLISON: What?
+
+01:01:13.642 --> 01:01:14.600 align:middle line:90%
+AUDIENCE: k over alpha?
+
+01:01:14.600 --> 01:01:16.142 align:middle line:84%
+GLENN ELLISON: Oh,
+yes, k over alpha.
+
+01:01:16.142 --> 01:01:21.165 align:middle line:90%
+Thank you, where k is some--
+
+01:01:21.165 --> 01:01:22.040 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+01:01:22.040 --> 01:01:22.940 align:middle line:90%
+GLENN ELLISON: k, it's--
+
+01:01:22.940 --> 01:01:23.195 align:middle line:90%
+AUDIENCE: It's some arbitrary--
+
+01:01:23.195 --> 01:01:24.612 align:middle line:84%
+GLENN ELLISON:
+It's some constant.
+
+01:01:24.612 --> 01:01:25.790 align:middle line:90%
+I forget exactly.
+
+01:01:25.790 --> 01:01:27.660 align:middle line:84%
+You can think of
+it as like 0.2378.
+
+01:01:27.660 --> 01:01:30.300 align:middle line:84%
+I forget what the number
+is, but it's just a number.
+
+01:01:30.300 --> 01:01:31.040 align:middle line:90%
+[LAUGHTER]
+
+01:01:31.040 --> 01:01:35.900 align:middle line:84%
+So in the logit model, you
+can compute what it is.
+
+01:01:35.900 --> 01:01:39.020 align:middle line:90%
+Prices are just like c plus--
+
+01:01:39.020 --> 01:01:40.740 align:middle line:84%
+as the number of firms
+goes to infinity,
+
+01:01:40.740 --> 01:01:44.210 align:middle line:84%
+competition doesn't
+eliminate markups.
+
+01:01:44.210 --> 01:01:47.240 align:middle line:90%
+And how is this plausible?
+
+01:01:47.240 --> 01:01:51.920 align:middle line:84%
+The idea is that these models
+have a somewhat unreasonable
+
+01:01:51.920 --> 01:01:57.500 align:middle line:84%
+assumption that I snuck
+over on you, which was that,
+
+01:01:57.500 --> 01:01:59.840 align:middle line:84%
+as I said, in two
+dimensions, it's
+
+01:01:59.840 --> 01:02:03.917 align:middle line:84%
+like, how much do I like iphones
+versus do I like Samsung phones?
+
+01:02:03.917 --> 01:02:05.750 align:middle line:84%
+It seems like, OK, it's
+reasonable to assume
+
+01:02:05.750 --> 01:02:07.917 align:middle line:84%
+there are people with those
+two separate differences
+
+01:02:07.917 --> 01:02:08.660 align:middle line:90%
+of preferences.
+
+01:02:08.660 --> 01:02:11.720 align:middle line:84%
+But what I snuck
+over on you is that--
+
+01:02:11.720 --> 01:02:14.870 align:middle line:84%
+here I said it-- epsilons
+are i.i.d., independent
+
+01:02:14.870 --> 01:02:16.520 align:middle line:90%
+and identically distributed.
+
+01:02:16.520 --> 01:02:20.030 align:middle line:84%
+The more products you have,
+it gets harder and harder
+
+01:02:20.030 --> 01:02:23.330 align:middle line:84%
+to say it's really plausible
+that my taste for a BMW
+
+01:02:23.330 --> 01:02:25.970 align:middle line:84%
+and a Mercedes and a
+whatever are all completely
+
+01:02:25.970 --> 01:02:27.650 align:middle line:90%
+independent of each other.
+
+01:02:27.650 --> 01:02:29.480 align:middle line:84%
+As the number of
+firms gets large,
+
+01:02:29.480 --> 01:02:31.500 align:middle line:84%
+the products get awfully
+similar to each other.
+
+01:02:31.500 --> 01:02:34.100 align:middle line:84%
+So if you're a person who
+likes Mercedes styling,
+
+01:02:34.100 --> 01:02:36.230 align:middle line:84%
+you probably also
+like BMW styling.
+
+01:02:36.230 --> 01:02:40.010 align:middle line:84%
+And if you're one who
+likes Toyota Lexus styling,
+
+01:02:40.010 --> 01:02:43.800 align:middle line:84%
+maybe you also like Acura
+styling, or whatever.
+
+01:02:43.800 --> 01:02:46.640 align:middle line:84%
+So, in some sense, what the
+logit model is assuming,
+
+01:02:46.640 --> 01:02:49.250 align:middle line:84%
+if you assume we keep having
+this-- every new product has
+
+01:02:49.250 --> 01:02:53.810 align:middle line:84%
+this completely new
+idiosyncratic reaction to it,
+
+01:02:53.810 --> 01:02:55.800 align:middle line:84%
+suppose there are a
+million products out there
+
+01:02:55.800 --> 01:02:57.330 align:middle line:84%
+and you tell me,
+OK, yeah, you're
+
+01:02:57.330 --> 01:02:59.400 align:middle line:84%
+one of a million
+products in the market.
+
+01:02:59.400 --> 01:03:01.680 align:middle line:84%
+But this person likes
+your product better
+
+01:03:01.680 --> 01:03:03.850 align:middle line:90%
+than every other product.
+
+01:03:03.850 --> 01:03:05.620 align:middle line:90%
+Well, to think about--
+
+01:03:05.620 --> 01:03:08.470 align:middle line:84%
+the markups depend
+on what this dxj dpj.
+
+01:03:08.470 --> 01:03:12.112 align:middle line:84%
+What do I conclude
+when I've just
+
+01:03:12.112 --> 01:03:13.570 align:middle line:84%
+been told they like
+my product more
+
+01:03:13.570 --> 01:03:15.200 align:middle line:90%
+than everybody else's product?
+
+01:03:15.200 --> 01:03:16.040 align:middle line:90%
+I'm like, wow.
+
+01:03:16.040 --> 01:03:18.190 align:middle line:90%
+They like my product a lot, OK?
+
+01:03:18.190 --> 01:03:24.850 align:middle line:84%
+Now, in the hypercube
+model, if the epsilon ij
+
+01:03:24.850 --> 01:03:29.940 align:middle line:84%
+is distributed uniform
+0, 1, I'm like,
+
+01:03:29.940 --> 01:03:31.690 align:middle line:84%
+they like me best out
+of a million things.
+
+01:03:31.690 --> 01:03:32.800 align:middle line:90%
+It must be my--
+
+01:03:32.800 --> 01:03:37.480 align:middle line:84%
+utility for me is like
+0.999999 something or other,
+
+01:03:37.480 --> 01:03:39.280 align:middle line:84%
+or they wouldn't have
+been buying from me.
+
+01:03:39.280 --> 01:03:41.020 align:middle line:84%
+But while they
+like me this much,
+
+01:03:41.020 --> 01:03:46.400 align:middle line:84%
+there's also somebody else who
+they like 0.999998 or something.
+
+01:03:46.400 --> 01:03:48.340 align:middle line:84%
+And so I think the
+amount by which
+
+01:03:48.340 --> 01:03:51.530 align:middle line:84%
+they like my product over
+anybody else's product is tiny.
+
+01:03:51.530 --> 01:03:54.550 align:middle line:84%
+Therefore, my demand is
+very price sensitive.
+
+01:03:54.550 --> 01:03:57.760 align:middle line:84%
+And if I don't price really
+low, they're going to switch.
+
+01:03:57.760 --> 01:04:00.440 align:middle line:84%
+So I have this incredibly
+price-sensitive demand.
+
+01:04:00.440 --> 01:04:02.357 align:middle line:90%
+But if you have a--
+
+01:04:02.357 --> 01:04:03.190 align:middle line:90%
+maybe you know this.
+
+01:04:03.190 --> 01:04:06.190 align:middle line:84%
+If you have an
+exponential distribution
+
+01:04:06.190 --> 01:04:09.470 align:middle line:84%
+and you're told that you're
+the largest of n exponentials,
+
+01:04:09.470 --> 01:04:12.400 align:middle line:84%
+how far are you above
+the next highest draw?
+
+01:04:12.400 --> 01:04:13.600 align:middle line:90%
+The answer is 1.
+
+01:04:13.600 --> 01:04:15.940 align:middle line:84%
+That's a property of the
+exponential distribution,
+
+01:04:15.940 --> 01:04:18.370 align:middle line:84%
+that if you're the
+highest of n draws
+
+01:04:18.370 --> 01:04:23.350 align:middle line:84%
+from a standard exponential,
+your posterior for their value
+
+01:04:23.350 --> 01:04:24.280 align:middle line:90%
+for you is n.
+
+01:04:24.280 --> 01:04:25.780 align:middle line:84%
+And your posterior
+for the product--
+
+01:04:25.780 --> 01:04:27.280 align:middle line:84%
+their value for the
+next highest one
+
+01:04:27.280 --> 01:04:29.550 align:middle line:90%
+has high expectation n minus 1.
+
+01:04:29.550 --> 01:04:33.670 align:middle line:84%
+So you think you
+have one of space
+
+01:04:33.670 --> 01:04:35.950 align:middle line:90%
+to price relative to your rival.
+
+01:04:35.950 --> 01:04:38.200 align:middle line:84%
+And so with an exponential
+distribution, we actually--
+
+01:04:38.200 --> 01:04:39.640 align:middle line:90%
+you get--
+
+01:04:39.640 --> 01:04:42.490 align:middle line:84%
+exponential distribution,
+you're going to get like p star
+
+01:04:42.490 --> 01:04:45.430 align:middle line:84%
+equals c plus t doesn't
+depend on n at all.
+
+01:04:45.430 --> 01:04:47.800 align:middle line:84%
+The more exponential
+draws that are out there,
+
+01:04:47.800 --> 01:04:49.180 align:middle line:84%
+they're just,
+yeah, they probably
+
+01:04:49.180 --> 01:04:51.460 align:middle line:84%
+like me a lot more
+than somebody else.
+
+01:04:51.460 --> 01:04:52.610 align:middle line:90%
+They like me a million.
+
+01:04:52.610 --> 01:04:55.810 align:middle line:90%
+They like the next guy 999,999.
+
+01:04:55.810 --> 01:04:58.060 align:middle line:84%
+Logit isn't quite
+like the exponential,
+
+01:04:58.060 --> 01:05:01.150 align:middle line:84%
+but it turns out to be just
+very similar to the exponential
+
+01:05:01.150 --> 01:05:03.910 align:middle line:90%
+and that approximately--
+
+01:05:03.910 --> 01:05:08.400 align:middle line:84%
+it ends up with an
+approximately constant markup.
+
+01:05:08.400 --> 01:05:10.590 align:middle line:84%
+And then markup
+depends on what weight
+
+01:05:10.590 --> 01:05:12.810 align:middle line:84%
+you stick in front
+of the epsilon ij
+
+01:05:12.810 --> 01:05:14.960 align:middle line:84%
+in the logit model,
+the 1 over alpha.
+
+01:05:14.960 --> 01:05:17.640 align:middle line:90%
+
+
+01:05:17.640 --> 01:05:19.597 align:middle line:84%
+And there are
+distributions for which--
+
+01:05:19.597 --> 01:05:21.930 align:middle line:84%
+if you take a really fat-tailed
+distribution, one that's
+
+01:05:21.930 --> 01:05:23.850 align:middle line:84%
+fatter tailed than
+the exponential,
+
+01:05:23.850 --> 01:05:26.950 align:middle line:84%
+prices can go up as
+n goes to infinity.
+
+01:05:26.950 --> 01:05:31.270 align:middle line:84%
+And I don't know that we
+think that's often realistic.
+
+01:05:31.270 --> 01:05:34.000 align:middle line:84%
+Where do these-- you keep
+getting these independent tastes
+
+01:05:34.000 --> 01:05:34.900 align:middle line:90%
+from?
+
+01:05:34.900 --> 01:05:38.410 align:middle line:84%
+But in these models,
+it's there, and you
+
+01:05:38.410 --> 01:05:40.690 align:middle line:90%
+should be aware of it, OK?
+
+01:05:40.690 --> 01:05:43.340 align:middle line:90%
+
+
+01:05:43.340 --> 01:05:45.060 align:middle line:90%
+Questions on that?
+
+01:05:45.060 --> 01:05:47.800 align:middle line:84%
+So, OK, I think that's
+what I had to say.
+
+01:05:47.800 --> 01:05:51.890 align:middle line:84%
+Yeah, so I think I'm
+going to skip this slide.
+
+01:05:51.890 --> 01:05:54.230 align:middle line:84%
+One thing I wanted to
+say in this slide is
+
+01:05:54.230 --> 01:05:56.330 align:middle line:84%
+suppose a student
+comes to me and says,
+
+01:05:56.330 --> 01:05:58.430 align:middle line:84%
+I want to write a
+paper about mergers
+
+01:05:58.430 --> 01:06:03.650 align:middle line:84%
+and the effect mergers are
+having on markups in industry x.
+
+01:06:03.650 --> 01:06:07.350 align:middle line:84%
+This is a know-your-theory
+cautionary tale.
+
+01:06:07.350 --> 01:06:10.070 align:middle line:84%
+If a student says, OK, I'm
+going to estimate logit demand
+
+01:06:10.070 --> 01:06:12.560 align:middle line:84%
+in this model and see what's
+happened when you merge
+
+01:06:12.560 --> 01:06:14.550 align:middle line:84%
+from five firms
+down to four firms
+
+01:06:14.550 --> 01:06:18.025 align:middle line:84%
+if phone maker A buys
+phone maker B, or whatever.
+
+01:06:18.025 --> 01:06:20.345 align:middle line:90%
+
+
+01:06:20.345 --> 01:06:22.220 align:middle line:84%
+So you can estimate your
+logit model and say,
+
+01:06:22.220 --> 01:06:23.887 align:middle line:84%
+I'm going to allow
+the price sensitivity
+
+01:06:23.887 --> 01:06:30.092 align:middle line:84%
+to vary and have it be v minus
+alpha p plus epsilon ij utility.
+
+01:06:30.092 --> 01:06:31.550 align:middle line:84%
+And I'm going to
+estimate the alpha
+
+01:06:31.550 --> 01:06:33.720 align:middle line:84%
+and see how price
+sensitive things are.
+
+01:06:33.720 --> 01:06:35.150 align:middle line:84%
+And then when I find out how
+price sensitive things are,
+
+01:06:35.150 --> 01:06:36.608 align:middle line:84%
+see what the merger
+is going to do.
+
+01:06:36.608 --> 01:06:39.510 align:middle line:90%
+
+
+01:06:39.510 --> 01:06:40.920 align:middle line:84%
+If you then use
+that model to say
+
+01:06:40.920 --> 01:06:44.010 align:middle line:84%
+when you go from five to four
+firms, how do markups go up?
+
+01:06:44.010 --> 01:06:46.980 align:middle line:84%
+The answer is markups
+go up by 1.067.
+
+01:06:46.980 --> 01:06:51.990 align:middle line:84%
+With five symmetric firms, the
+markup is c plus k over thing
+
+01:06:51.990 --> 01:06:53.230 align:middle line:90%
+times 5/4.
+
+01:06:53.230 --> 01:06:58.300 align:middle line:84%
+When you go to four firms, it's
+c plus k over alpha times 4/3.
+
+01:06:58.300 --> 01:07:01.410 align:middle line:84%
+So on the question of how
+do markups change when
+
+01:07:01.410 --> 01:07:03.510 align:middle line:84%
+you go from four
+firms to three firms--
+
+01:07:03.510 --> 01:07:07.200 align:middle line:84%
+five firms to four
+firms, the answer
+
+01:07:07.200 --> 01:07:09.873 align:middle line:84%
+is-- that question
+has an answer that's
+
+01:07:09.873 --> 01:07:11.790 align:middle line:84%
+independent of all the
+parameters you estimate
+
+01:07:11.790 --> 01:07:12.760 align:middle line:90%
+in the model.
+
+01:07:12.760 --> 01:07:14.650 align:middle line:90%
+And the answer is just this.
+
+01:07:14.650 --> 01:07:20.160 align:middle line:84%
+And so if you do want to
+estimate how mergers would
+
+01:07:20.160 --> 01:07:24.420 align:middle line:84%
+affect markups in models with
+horizontal differentiation,
+
+01:07:24.420 --> 01:07:30.340 align:middle line:84%
+you have to make sure you're
+correctly estimating this object
+
+01:07:30.340 --> 01:07:34.470 align:middle line:90%
+dxj dpi versus dxi dpi.
+
+01:07:34.470 --> 01:07:38.400 align:middle line:84%
+And the models, like
+the logit model,
+
+01:07:38.400 --> 01:07:40.900 align:middle line:84%
+can have built-in assumptions
+about what those things are.
+
+01:07:40.900 --> 01:07:42.960 align:middle line:84%
+And if these things
+both just have
+
+01:07:42.960 --> 01:07:45.690 align:middle line:84%
+an alpha in them and
+those alphas cancel,
+
+01:07:45.690 --> 01:07:47.790 align:middle line:84%
+you're not actually
+estimating what
+
+01:07:47.790 --> 01:07:51.035 align:middle line:90%
+you think you're estimating.
+
+01:07:51.035 --> 01:07:52.660 align:middle line:84%
+But I didn't want to
+take time on that.
+
+01:07:52.660 --> 01:07:58.210 align:middle line:84%
+So going to more
+modern pictures,
+
+01:07:58.210 --> 01:08:00.580 align:middle line:84%
+I stuck Jidong's
+picture on this slide.
+
+01:08:00.580 --> 01:08:07.200 align:middle line:84%
+So discuss a recent paper
+discussing the effects
+
+01:08:07.200 --> 01:08:10.080 align:middle line:90%
+of bundling on competition.
+
+01:08:10.080 --> 01:08:16.890 align:middle line:84%
+So the motivation
+for this paper is
+
+01:08:16.890 --> 01:08:21.569 align:middle line:84%
+there are many firms where
+there is this antitrust concern
+
+01:08:21.569 --> 01:08:25.590 align:middle line:84%
+about firms bundling and selling
+their products together instead
+
+01:08:25.590 --> 01:08:27.870 align:middle line:84%
+of selling their
+products separately.
+
+01:08:27.870 --> 01:08:30.912 align:middle line:84%
+So firms, for
+instance, if you're--
+
+01:08:30.912 --> 01:08:32.620 align:middle line:84%
+maybe you think they
+don't really matter.
+
+01:08:32.620 --> 01:08:37.590 align:middle line:84%
+But Apple is selling phones
+and they're selling earbuds.
+
+01:08:37.590 --> 01:08:39.282 align:middle line:84%
+And you can think
+of, I can design
+
+01:08:39.282 --> 01:08:41.490 align:middle line:84%
+the phones and the earbuds
+so they only work together
+
+01:08:41.490 --> 01:08:43.120 align:middle line:84%
+and have to be
+bought as a bundle.
+
+01:08:43.120 --> 01:08:46.540 align:middle line:84%
+Or I can design the phones and
+earbuds so they work separately.
+
+01:08:46.540 --> 01:08:49.080 align:middle line:84%
+And I can be competing
+with Samsung separately
+
+01:08:49.080 --> 01:08:52.200 align:middle line:84%
+in the phone market and
+separately in the earbud market.
+
+01:08:52.200 --> 01:08:53.819 align:middle line:84%
+With operating
+systems, this often
+
+01:08:53.819 --> 01:08:57.450 align:middle line:84%
+comes up as what features do I
+build into an operating system
+
+01:08:57.450 --> 01:09:00.060 align:middle line:84%
+so that people have to buy
+the bundle of the operating
+
+01:09:00.060 --> 01:09:02.460 align:middle line:84%
+system containing these 37
+different components, all
+
+01:09:02.460 --> 01:09:03.240 align:middle line:90%
+from me?
+
+01:09:03.240 --> 01:09:05.490 align:middle line:84%
+Or do I allow
+plug-and-play compatibility
+
+01:09:05.490 --> 01:09:09.200 align:middle line:84%
+so we have separate
+competition product by product?
+
+01:09:09.200 --> 01:09:10.439 align:middle line:90%
+OK?
+
+01:09:10.439 --> 01:09:14.490 align:middle line:84%
+OK, and so this is a
+potential antitrust remedy
+
+01:09:14.490 --> 01:09:16.500 align:middle line:84%
+and industries with
+large market power
+
+01:09:16.500 --> 01:09:20.100 align:middle line:84%
+is forcing them to
+be compatible and not
+
+01:09:20.100 --> 01:09:23.580 align:middle line:84%
+use proprietary
+connectors or whatever
+
+01:09:23.580 --> 01:09:25.090 align:middle line:90%
+to extend their monopolies.
+
+01:09:25.090 --> 01:09:31.010 align:middle line:84%
+And so Joe's paper is about this
+question of, when will markups--
+
+01:09:31.010 --> 01:09:33.899 align:middle line:84%
+will bundling products
+together make markups higher?
+
+01:09:33.899 --> 01:09:35.160 align:middle line:90%
+Will it make markups lower?
+
+01:09:35.160 --> 01:09:37.790 align:middle line:84%
+How will it affect
+consumer utility?
+
+01:09:37.790 --> 01:09:43.460 align:middle line:84%
+So in his model, you
+have these n firms,
+
+01:09:43.460 --> 01:09:47.810 align:middle line:84%
+and the n firms all sell
+m distinct products.
+
+01:09:47.810 --> 01:09:50.529 align:middle line:84%
+And he looks at utilities
+of the following form.
+
+01:09:50.529 --> 01:09:56.120 align:middle line:84%
+You get utility v minus
+pjm plus epsilon ijm
+
+01:09:56.120 --> 01:10:00.740 align:middle line:90%
+if you buy product j--
+
+01:10:00.740 --> 01:10:05.050 align:middle line:84%
+if you buy-- sorry--
+product m from Firm J.
+
+01:10:05.050 --> 01:10:08.910 align:middle line:84%
+And he compares two
+separate models.
+
+01:10:08.910 --> 01:10:13.580 align:middle line:84%
+One model is where the
+firms compete separately
+
+01:10:13.580 --> 01:10:15.810 align:middle line:90%
+in this whole matrix of prices.
+
+01:10:15.810 --> 01:10:22.610 align:middle line:84%
+So Firm 1 sets prices
+p11, p12, up to p1m.
+
+01:10:22.610 --> 01:10:27.200 align:middle line:84%
+And then Firm 2 sets
+prices p21 up to p2m.
+
+01:10:27.200 --> 01:10:28.760 align:middle line:90%
+And then Firm 3--
+
+01:10:28.760 --> 01:10:32.330 align:middle line:84%
+I'll just have three firms--
+post its bundle of prices p3m.
+
+01:10:32.330 --> 01:10:36.680 align:middle line:84%
+He compares that to a bundled
+system where the firms just
+
+01:10:36.680 --> 01:10:39.570 align:middle line:84%
+design their products to be
+all mutually incompatible.
+
+01:10:39.570 --> 01:10:46.050 align:middle line:84%
+So Firm 1 just sets
+a price capital p1.
+
+01:10:46.050 --> 01:10:48.390 align:middle line:84%
+Firm 2 sets of
+price, capital P2.
+
+01:10:48.390 --> 01:10:51.580 align:middle line:84%
+And Firm 3 sets of price
+capital P3 for the bundle.
+
+01:10:51.580 --> 01:10:54.537 align:middle line:84%
+So this is the bundle of getting
+all of these goods from me.
+
+01:10:54.537 --> 01:10:57.120 align:middle line:84%
+This is the bundle of getting
+all of these things from Firm 2.
+
+01:10:57.120 --> 01:10:58.620 align:middle line:84%
+And this is the bundle of
+getting all of these things
+
+01:10:58.620 --> 01:10:59.770 align:middle line:90%
+from Firm 3.
+
+01:10:59.770 --> 01:11:03.060 align:middle line:84%
+And he thinks about which
+results in greater consumer
+
+01:11:03.060 --> 01:11:07.620 align:middle line:84%
+welfare and greater profits,
+having unbundled pricing
+
+01:11:07.620 --> 01:11:09.125 align:middle line:90%
+or having bundled pricing?
+
+01:11:09.125 --> 01:11:12.210 align:middle line:90%
+
+
+01:11:12.210 --> 01:11:19.770 align:middle line:84%
+OK, first observation is when do
+consumers prefer buying bundle 1
+
+01:11:19.770 --> 01:11:21.300 align:middle line:90%
+from bundle 2?
+
+01:11:21.300 --> 01:11:25.960 align:middle line:84%
+Well, that's if m
+times v minus the price
+
+01:11:25.960 --> 01:11:28.750 align:middle line:84%
+of the bundle plus the
+sum across all products
+
+01:11:28.750 --> 01:11:31.600 align:middle line:84%
+within the bundle
+of epsilon ijm is
+
+01:11:31.600 --> 01:11:35.980 align:middle line:84%
+better than buying mv minus
+the price of bundle k times
+
+01:11:35.980 --> 01:11:39.940 align:middle line:84%
+the sum over all things in
+the bundle of epsilon ikm.
+
+01:11:39.940 --> 01:11:42.850 align:middle line:84%
+And again, normalizing
+this by dividing
+
+01:11:42.850 --> 01:11:44.560 align:middle line:90%
+by the number of firms--
+
+01:11:44.560 --> 01:11:46.900 align:middle line:90%
+so if I convert this to--
+
+01:11:46.900 --> 01:11:48.700 align:middle line:90%
+this is m products.
+
+01:11:48.700 --> 01:11:52.515 align:middle line:84%
+So p1 over m I'm going to think
+of as the per product price.
+
+01:11:52.515 --> 01:11:55.810 align:middle line:90%
+
+
+01:11:55.810 --> 01:11:59.770 align:middle line:84%
+This is what's going to be
+equivalent to p11 or something.
+
+01:11:59.770 --> 01:12:02.650 align:middle line:84%
+How much are we charging
+per product in the bundle?
+
+01:12:02.650 --> 01:12:11.700 align:middle line:84%
+So I like this one better if
+and only if v minus 1 over mpj
+
+01:12:11.700 --> 01:12:16.870 align:middle line:84%
+plus 1 over m the sum of
+epsilon ijm is bigger than this.
+
+01:12:16.870 --> 01:12:20.890 align:middle line:84%
+So basically, bundling is like
+converting the model where
+
+01:12:20.890 --> 01:12:29.960 align:middle line:84%
+you have utilities epsilon
+i1 up to epsilon n1
+
+01:12:29.960 --> 01:12:35.950 align:middle line:84%
+into a model where you have
+1 over m sum of epsilon i1
+
+01:12:35.950 --> 01:12:40.250 align:middle line:84%
+and 1 over m sum of
+epsilon im, right?
+
+01:12:40.250 --> 01:12:42.700 align:middle line:84%
+You're just basically
+comparing the model
+
+01:12:42.700 --> 01:12:45.610 align:middle line:84%
+with utilities
+from the original--
+
+01:12:45.610 --> 01:12:47.890 align:middle line:84%
+random draws from the
+original distribution
+
+01:12:47.890 --> 01:12:50.290 align:middle line:84%
+to the model with
+utilities that are random
+
+01:12:50.290 --> 01:12:52.563 align:middle line:90%
+draws from this distribution.
+
+01:12:52.563 --> 01:12:53.980 align:middle line:84%
+So that's what I
+do when I bundle,
+
+01:12:53.980 --> 01:12:55.360 align:middle line:84%
+is I just change
+the distribution
+
+01:12:55.360 --> 01:12:57.490 align:middle line:84%
+of idiosyncratic
+consumer preferences
+
+01:12:57.490 --> 01:13:00.300 align:middle line:90%
+and make it an average of these.
+
+01:13:00.300 --> 01:13:04.620 align:middle line:84%
+And obviously, the
+central limit theorem
+
+01:13:04.620 --> 01:13:06.930 align:middle line:84%
+is going to tell us that
+as m goes to infinity,
+
+01:13:06.930 --> 01:13:09.328 align:middle line:84%
+these things are going
+to have smaller--
+
+01:13:09.328 --> 01:13:11.370 align:middle line:84%
+this is going to have
+smaller variance than that.
+
+01:13:11.370 --> 01:13:13.920 align:middle line:84%
+And it's going to look
+approximately normal as m goes
+
+01:13:13.920 --> 01:13:16.830 align:middle line:84%
+to infinity, but normal
+with a smaller variance
+
+01:13:16.830 --> 01:13:17.810 align:middle line:90%
+than the first one had.
+
+01:13:17.810 --> 01:13:21.430 align:middle line:90%
+
+
+01:13:21.430 --> 01:13:24.610 align:middle line:84%
+OK, so let's think about
+whether prices are higher.
+
+01:13:24.610 --> 01:13:27.880 align:middle line:84%
+Again, same price,
+first-order condition I've
+
+01:13:27.880 --> 01:13:29.330 align:middle line:90%
+done over and over again.
+
+01:13:29.330 --> 01:13:32.500 align:middle line:84%
+So the first-order condition
+for price competition
+
+01:13:32.500 --> 01:13:38.530 align:middle line:84%
+is pj minus c times
+minus dxj dpj equals xj.
+
+01:13:38.530 --> 01:13:41.140 align:middle line:84%
+And again, if I'm looking
+for a symmetric equilibrium
+
+01:13:41.140 --> 01:13:43.090 align:middle line:84%
+of this model,
+this is going to be
+
+01:13:43.090 --> 01:13:48.825 align:middle line:84%
+p star minus c times minus
+dxj dpj equals 1 over n.
+
+01:13:48.825 --> 01:13:51.860 align:middle line:90%
+
+
+01:13:51.860 --> 01:13:55.970 align:middle line:90%
+And what is dxj dpj going to be?
+
+01:13:55.970 --> 01:13:59.960 align:middle line:84%
+dxj dpj is just the
+density of consumers
+
+01:13:59.960 --> 01:14:04.160 align:middle line:84%
+who have utility for
+me equal to the maximum
+
+01:14:04.160 --> 01:14:07.243 align:middle line:84%
+of their idiosyncratic
+reaction to me
+
+01:14:07.243 --> 01:14:09.410 align:middle line:84%
+equal to the maximum of
+their idiosyncratic reaction
+
+01:14:09.410 --> 01:14:11.740 align:middle line:90%
+to everybody else.
+
+01:14:11.740 --> 01:14:21.680 align:middle line:84%
+And so, fixing n, this
+first-order condition-- where--
+
+01:14:21.680 --> 01:14:23.900 align:middle line:84%
+I don't have it
+written down anymore.
+
+01:14:23.900 --> 01:14:29.090 align:middle line:84%
+So my first-order
+condition was p star
+
+01:14:29.090 --> 01:14:36.000 align:middle line:84%
+equals c minus 1 over
+n times 1 over dxj dpj.
+
+01:14:36.000 --> 01:14:39.650 align:middle line:90%
+All right, let me do this, OK?
+
+01:14:39.650 --> 01:14:41.510 align:middle line:84%
+That's what my first-order
+conditions always
+
+01:14:41.510 --> 01:14:42.750 align:middle line:90%
+keep looking like.
+
+01:14:42.750 --> 01:14:47.870 align:middle line:84%
+So equilibrium prices are
+low if this density is high.
+
+01:14:47.870 --> 01:14:51.290 align:middle line:84%
+And equilibrium prices are
+high, if this density is low.
+
+01:14:51.290 --> 01:14:54.260 align:middle line:84%
+So in this dxj
+dpj is the density
+
+01:14:54.260 --> 01:14:58.930 align:middle line:84%
+of the set of consumers
+who have my epsilon just
+
+01:14:58.930 --> 01:15:01.990 align:middle line:90%
+about everybody else's epsilon.
+
+01:15:01.990 --> 01:15:05.710 align:middle line:84%
+Notice that the distribution
+of sum of the epsilons,
+
+01:15:05.710 --> 01:15:07.390 align:middle line:84%
+it's more concentrated
+about its mean.
+
+01:15:07.390 --> 01:15:08.550 align:middle line:90%
+It's thinner in the tails.
+
+01:15:08.550 --> 01:15:15.150 align:middle line:90%
+
+
+01:15:15.150 --> 01:15:17.580 align:middle line:84%
+OK, so consumer
+surplus in this model
+
+01:15:17.580 --> 01:15:20.920 align:middle line:84%
+depends on two main welfare
+effects for consumers.
+
+01:15:20.920 --> 01:15:22.510 align:middle line:90%
+One is price levels.
+
+01:15:22.510 --> 01:15:25.680 align:middle line:90%
+Consumers like low prices.
+
+01:15:25.680 --> 01:15:28.980 align:middle line:84%
+And there's less deadweight
+loss when prices are low.
+
+01:15:28.980 --> 01:15:32.500 align:middle line:84%
+The other thing that welfare
+depends on is match quality.
+
+01:15:32.500 --> 01:15:35.340 align:middle line:84%
+Consumers are better if they're
+getting their favorite phone
+
+01:15:35.340 --> 01:15:38.190 align:middle line:84%
+and their favorite earbuds
+and their favorite charger
+
+01:15:38.190 --> 01:15:41.437 align:middle line:84%
+than if they're getting
+their favorite of one
+
+01:15:41.437 --> 01:15:43.020 align:middle line:84%
+and their second
+favorite of the other
+
+01:15:43.020 --> 01:15:44.970 align:middle line:84%
+and their third
+favorite of another.
+
+01:15:44.970 --> 01:15:47.040 align:middle line:84%
+So the match quality
+is are consumers
+
+01:15:47.040 --> 01:15:51.540 align:middle line:84%
+getting what's the best product
+for them on every subcomponent?
+
+01:15:51.540 --> 01:15:55.610 align:middle line:84%
+And then there's the price level
+thing that they care about.
+
+01:15:55.610 --> 01:15:57.180 align:middle line:90%
+OK, so what's the result?
+
+01:15:57.180 --> 01:16:00.620 align:middle line:84%
+So first result in the
+paper is that bundling
+
+01:16:00.620 --> 01:16:04.130 align:middle line:84%
+reduces per good
+prices when n equals 2.
+
+01:16:04.130 --> 01:16:08.810 align:middle line:84%
+So if you have two firms
+and they bundle their goods
+
+01:16:08.810 --> 01:16:12.565 align:middle line:84%
+together, equilibrium per
+product prices go down.
+
+01:16:12.565 --> 01:16:16.300 align:middle line:90%
+
+
+01:16:16.300 --> 01:16:21.360 align:middle line:84%
+Noting prices go down, meaning
+that the firms make less profit.
+
+01:16:21.360 --> 01:16:24.680 align:middle line:90%
+And why is that?
+
+01:16:24.680 --> 01:16:31.000 align:middle line:84%
+The answer is that density
+of 1 over m epsilon im
+
+01:16:31.000 --> 01:16:33.130 align:middle line:90%
+becomes more concentrated.
+
+01:16:33.130 --> 01:16:36.040 align:middle line:84%
+When n equals 2,
+what we have is just
+
+01:16:36.040 --> 01:16:40.040 align:middle line:84%
+what's the probability that ui1
+minus ui2 is less than delta?
+
+01:16:40.040 --> 01:16:42.940 align:middle line:84%
+And that's just the
+probability that we're close
+
+01:16:42.940 --> 01:16:44.760 align:middle line:90%
+to the 45-degree line.
+
+01:16:44.760 --> 01:16:50.400 align:middle line:84%
+That is that my epsilon for
+Firm 1 is within epsilon of my--
+
+01:16:50.400 --> 01:16:53.420 align:middle line:84%
+I'm sorry, within, let's
+say, this small delta.
+
+01:16:53.420 --> 01:16:55.810 align:middle line:84%
+What's the probability that
+my preference for Firm 1
+
+01:16:55.810 --> 01:16:58.070 align:middle line:84%
+and my preference for
+Firm 2 are within delta?
+
+01:16:58.070 --> 01:17:00.610 align:middle line:84%
+Well, if you take the
+distribution of tastes that used
+
+01:17:00.610 --> 01:17:04.210 align:middle line:90%
+to be uniform and you sort of--
+
+01:17:04.210 --> 01:17:05.710 align:middle line:84%
+like in the uniform
+distribution,
+
+01:17:05.710 --> 01:17:07.100 align:middle line:90%
+this thing is not all that big.
+
+01:17:07.100 --> 01:17:08.770 align:middle line:84%
+But then you add
+n goods, and you
+
+01:17:08.770 --> 01:17:11.880 align:middle line:84%
+make this distribution
+look like this.
+
+01:17:11.880 --> 01:17:14.110 align:middle line:84%
+Almost everybody has a
+preference of exactly 1/2
+
+01:17:14.110 --> 01:17:15.480 align:middle line:90%
+for both products.
+
+01:17:15.480 --> 01:17:17.800 align:middle line:84%
+Then, once they have a utility
+of exactly 1/2 for both
+
+01:17:17.800 --> 01:17:20.770 align:middle line:84%
+products, they have a huge
+probability they're within some
+
+01:17:20.770 --> 01:17:22.310 align:middle line:90%
+tiny delta of each other.
+
+01:17:22.310 --> 01:17:25.060 align:middle line:84%
+Therefore, price competition
+becomes very intense.
+
+01:17:25.060 --> 01:17:31.360 align:middle line:84%
+So when n equals two, it
+turns out that whatever m is,
+
+01:17:31.360 --> 01:17:35.220 align:middle line:84%
+bundling just always
+makes the prices lower.
+
+01:17:35.220 --> 01:17:37.350 align:middle line:84%
+So, in some sense,
+firms should not
+
+01:17:37.350 --> 01:17:40.550 align:middle line:84%
+want to bundle in
+a two-firm model.
+
+01:17:40.550 --> 01:17:43.680 align:middle line:90%
+
+
+01:17:43.680 --> 01:17:45.960 align:middle line:84%
+What's noteworthy, though,
+is while the firms don't
+
+01:17:45.960 --> 01:17:47.970 align:middle line:84%
+want to bundle,
+the consumers also
+
+01:17:47.970 --> 01:17:49.410 align:middle line:90%
+don't want the firms to bundle.
+
+01:17:49.410 --> 01:17:53.320 align:middle line:84%
+So the prices go down, but
+the consumers are worse off.
+
+01:17:53.320 --> 01:17:57.060 align:middle line:84%
+And that's because the
+worst match quality
+
+01:17:57.060 --> 01:17:58.750 align:middle line:90%
+overwhelms the price drop.
+
+01:17:58.750 --> 01:18:01.483 align:middle line:84%
+So there's a price
+drop, but it also
+
+01:18:01.483 --> 01:18:03.900 align:middle line:84%
+makes the consumers worse off
+because they get worse match
+
+01:18:03.900 --> 01:18:04.400 align:middle line:90%
+quality.
+
+01:18:04.400 --> 01:18:06.317 align:middle line:84%
+And it doesn't compensate--
+and the price drop
+
+01:18:06.317 --> 01:18:07.775 align:middle line:84%
+isn't big enough
+to compensate them
+
+01:18:07.775 --> 01:18:09.050 align:middle line:90%
+for the drop in match quality.
+
+01:18:09.050 --> 01:18:11.750 align:middle line:90%
+
+
+01:18:11.750 --> 01:18:14.680 align:middle line:90%
+Now, when n equals 2, That's.
+
+01:18:14.680 --> 01:18:15.180 align:middle line:90%
+True.
+
+01:18:15.180 --> 01:18:19.010 align:middle line:84%
+When n is large, when n
+is above some threshold,
+
+01:18:19.010 --> 01:18:22.100 align:middle line:84%
+bundling starts to
+increase profits.
+
+01:18:22.100 --> 01:18:23.640 align:middle line:90%
+And why is that?
+
+01:18:23.640 --> 01:18:26.030 align:middle line:90%
+Well, again, the value--
+
+01:18:26.030 --> 01:18:28.850 align:middle line:84%
+this sum of epsilon
+ijm starts getting
+
+01:18:28.850 --> 01:18:32.630 align:middle line:90%
+to be a very tight distribution.
+
+01:18:32.630 --> 01:18:36.260 align:middle line:84%
+And so, what's the
+density of consumers
+
+01:18:36.260 --> 01:18:41.840 align:middle line:84%
+who have very close values for
+the best and second best thing?
+
+01:18:41.840 --> 01:18:45.560 align:middle line:84%
+That's a density
+measured out here.
+
+01:18:45.560 --> 01:18:47.360 align:middle line:84%
+If you like me best,
+what's the probability
+
+01:18:47.360 --> 01:18:48.277 align:middle line:90%
+you like someone else?
+
+01:18:48.277 --> 01:18:51.335 align:middle line:84%
+What's the probability the
+other person is close to you?
+
+01:18:51.335 --> 01:18:55.740 align:middle line:90%
+
+
+01:18:55.740 --> 01:19:01.232 align:middle line:84%
+When n gets large, holding
+m fixed, letting n go large,
+
+01:19:01.232 --> 01:19:02.940 align:middle line:84%
+looking further out
+in that distribution,
+
+01:19:02.940 --> 01:19:04.620 align:middle line:90%
+it gets thinner tailed.
+
+01:19:04.620 --> 01:19:08.100 align:middle line:90%
+And the dxj dpj is small.
+
+01:19:08.100 --> 01:19:10.260 align:middle line:84%
+And therefore, the
+p star is high.
+
+01:19:10.260 --> 01:19:15.120 align:middle line:84%
+So bundling is good when the
+number of firms is large.
+
+01:19:15.120 --> 01:19:17.550 align:middle line:84%
+And a third result is when
+you fix the number of firms
+
+01:19:17.550 --> 01:19:22.140 align:middle line:84%
+and the number of
+goods goes to infinity,
+
+01:19:22.140 --> 01:19:25.560 align:middle line:84%
+then eventually bundling
+drives prices to 0
+
+01:19:25.560 --> 01:19:27.160 align:middle line:90%
+as m is going to infinity.
+
+01:19:27.160 --> 01:19:31.180 align:middle line:90%
+
+
+01:19:31.180 --> 01:19:35.470 align:middle line:84%
+So I think in some ways I
+wanted to do it because I wanted
+
+01:19:35.470 --> 01:19:36.600 align:middle line:90%
+to cover some recent paper.
+
+01:19:36.600 --> 01:19:40.850 align:middle line:84%
+And it's a nice example of
+how that basic Perloff-Salop
+
+01:19:40.850 --> 01:19:43.550 align:middle line:84%
+intuition of price is
+about differentiation.
+
+01:19:43.550 --> 01:19:49.122 align:middle line:84%
+And it's about dxj dpj is a very
+good way to think about a lot--
+
+01:19:49.122 --> 01:19:51.080 align:middle line:84%
+it's a good way to think
+about a lot of issues,
+
+01:19:51.080 --> 01:19:52.225 align:middle line:90%
+bundling included.
+
+01:19:52.225 --> 01:19:55.880 align:middle line:90%
+
+
+01:19:55.880 --> 01:20:03.750 align:middle line:84%
+AUDIENCE: I don't understand
+why 4 is a result.
+
+01:20:03.750 --> 01:20:05.490 align:middle line:90%
+GLENN ELLISON: So--
+
+01:20:05.490 --> 01:20:09.030 align:middle line:84%
+AUDIENCE: Because we're
+just putting infinity
+
+01:20:09.030 --> 01:20:11.370 align:middle line:90%
+in the denominator.
+
+01:20:11.370 --> 01:20:13.700 align:middle line:84%
+Would they ever charge
+an infinite price?
+
+01:20:13.700 --> 01:20:16.060 align:middle line:84%
+GLENN ELLISON: Sorry, I
+should have said-- sorry,
+
+01:20:16.060 --> 01:20:19.860 align:middle line:90%
+I should have said this is--
+
+01:20:19.860 --> 01:20:22.360 align:middle line:90%
+that's with c equals 0.
+
+01:20:22.360 --> 01:20:24.060 align:middle line:90%
+So it's going to be that--
+
+01:20:24.060 --> 01:20:26.440 align:middle line:84%
+I think I had a c
+equals 0 assumption.
+
+01:20:26.440 --> 01:20:29.370 align:middle line:84%
+So it's the limit
+as-- it probably
+
+01:20:29.370 --> 01:20:36.450 align:middle line:84%
+should have written the limit
+as n goes to infinity pb over
+
+01:20:36.450 --> 01:20:39.185 align:middle line:90%
+m minus c goes to 0.
+
+01:20:39.185 --> 01:20:42.780 align:middle line:90%
+
+
+01:20:42.780 --> 01:20:47.762 align:middle line:84%
+I think maybe I had c equals
+0 throughout the paper.
+
+01:20:47.762 --> 01:20:50.540 align:middle line:90%
+Yeah.
+
+01:20:50.540 --> 01:20:51.940 align:middle line:90%
+OK?
+
+01:20:51.940 --> 01:20:54.860 align:middle line:90%
+OK, let me end there then.
+
+01:20:54.860 --> 01:20:57.400 align:middle line:84%
+I didn't think I would get
+to these last slides, but--
+
+01:20:57.400 --> 01:20:58.900 align:middle line:84%
+so anyway, on Monday,
+what I'm going
+
+01:20:58.900 --> 01:21:04.600 align:middle line:84%
+to do is discuss oligopoly price
+discrimination, where you have
+
+01:21:04.600 --> 01:21:07.210 align:middle line:84%
+oligopolies who are competing
+to sell multiple products,
+
+01:21:07.210 --> 01:21:08.920 align:middle line:84%
+and therefore, are going
+to be price discriminating
+
+01:21:08.920 --> 01:21:10.003 align:middle line:90%
+selling multiple products.
+
+01:21:10.003 --> 01:21:12.670 align:middle line:84%
+And then I'm going to do two
+empirical papers, Bresnahan
+
+01:21:12.670 --> 01:21:14.320 align:middle line:90%
+and Miller-Weinberg.
+
+01:21:14.320 --> 01:21:19.090 align:middle line:84%
+Bresnahan, I took the star off
+it this year because Bresnahan,
+
+01:21:19.090 --> 01:21:20.270 align:middle line:90%
+it's original.
+
+01:21:20.270 --> 01:21:22.480 align:middle line:90%
+It's a real classic.
+
+01:21:22.480 --> 01:21:25.120 align:middle line:84%
+It really looks 40 years
+old when you read it.
+
+01:21:25.120 --> 01:21:28.180 align:middle line:84%
+And you're like, wow, I can't
+believe you do things that way.
+
+01:21:28.180 --> 01:21:30.460 align:middle line:84%
+So I'll discuss the
+ideas in Bresnahan
+
+01:21:30.460 --> 01:21:33.580 align:middle line:84%
+not going into the details,
+which now look very old
+
+01:21:33.580 --> 01:21:34.120 align:middle line:90%
+fashioned.
+
+01:21:34.120 --> 01:21:36.040 align:middle line:84%
+And then I'll discuss
+Miller-Weinberg.
+
+01:21:36.040 --> 01:21:38.410 align:middle line:84%
+And I'm doing less
+empirical work
+
+01:21:38.410 --> 01:21:41.488 align:middle line:84%
+here because Tobias is talking
+about demand estimation here.
+
+01:21:41.488 --> 01:21:43.030 align:middle line:84%
+And an awful lot of
+demand estimation
+
+01:21:43.030 --> 01:21:45.850 align:middle line:84%
+is really about estimating
+static models of product
+
+01:21:45.850 --> 01:21:48.880 align:middle line:84%
+competition with those
+epsilon ij kinds of models
+
+01:21:48.880 --> 01:21:51.780 align:middle line:90%
+that I talked about.
+
+01:21:51.780 --> 01:22:11.000 align:middle line:90%

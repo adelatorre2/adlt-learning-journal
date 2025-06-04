@@ -1,0 +1,6861 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.944 align:middle line:90%
+[SQUEAKING]
+
+00:00:01.944 --> 00:00:03.402 align:middle line:90%
+[RUSTLING]
+
+00:00:03.402 --> 00:00:04.860 align:middle line:90%
+[CLICKING]
+
+00:00:04.860 --> 00:00:17.030 align:middle line:90%
+
+
+00:00:17.030 --> 00:00:20.750 align:middle line:84%
+GLENN ELLISON: Today, I am
+picking back up with a gap
+
+00:00:20.750 --> 00:00:22.800 align:middle line:90%
+in between on advertising.
+
+00:00:22.800 --> 00:00:24.410 align:middle line:84%
+And so the plan is
+today, I'm going
+
+00:00:24.410 --> 00:00:28.040 align:middle line:84%
+to talk about empirical
+work on advertising.
+
+00:00:28.040 --> 00:00:30.690 align:middle line:84%
+And then talking about
+empirical advertising,
+
+00:00:30.690 --> 00:00:33.230 align:middle line:84%
+it's a big challenge
+for a class like this
+
+00:00:33.230 --> 00:00:37.363 align:middle line:84%
+because marketing is
+a field unto itself.
+
+00:00:37.363 --> 00:00:39.530 align:middle line:84%
+And I don't know if there
+are half as many marketing
+
+00:00:39.530 --> 00:00:41.720 align:middle line:84%
+economists as there
+are economists
+
+00:00:41.720 --> 00:00:46.850 align:middle line:84%
+of all-- you know, economists
+of all fields together.
+
+00:00:46.850 --> 00:00:51.320 align:middle line:84%
+You know, much of marketing
+is an overwhelmingly empirical
+
+00:00:51.320 --> 00:00:51.900 align:middle line:90%
+field.
+
+00:00:51.900 --> 00:00:55.670 align:middle line:84%
+If you look at what
+marketing faculty do,
+
+00:00:55.670 --> 00:00:57.680 align:middle line:84%
+you know, there's
+multiple motivations.
+
+00:00:57.680 --> 00:01:01.850 align:middle line:84%
+One is there is tremendous
+demand from practitioners
+
+00:01:01.850 --> 00:01:03.990 align:middle line:84%
+to understand the
+value of advertising.
+
+00:01:03.990 --> 00:01:06.170 align:middle line:84%
+You know, this is
+what advertisers
+
+00:01:06.170 --> 00:01:09.140 align:middle line:84%
+want to do is know how valuable
+the advertising they're buying
+
+00:01:09.140 --> 00:01:09.990 align:middle line:90%
+is.
+
+00:01:09.990 --> 00:01:11.540 align:middle line:84%
+There are many
+consulting firms who
+
+00:01:11.540 --> 00:01:14.730 align:middle line:84%
+try to help them figure out
+how valuable the marketing is,
+
+00:01:14.730 --> 00:01:19.380 align:middle line:84%
+and there are many academics who
+try to help the consultants try
+
+00:01:19.380 --> 00:01:21.630 align:middle line:84%
+to help develop new
+cutting-edge techniques for how
+
+00:01:21.630 --> 00:01:24.420 align:middle line:84%
+you would measure the
+effectiveness of advertising.
+
+00:01:24.420 --> 00:01:26.910 align:middle line:84%
+But then there's also a
+substantial marketing literature
+
+00:01:26.910 --> 00:01:30.000 align:middle line:84%
+that is about basic
+economic questions.
+
+00:01:30.000 --> 00:01:33.000 align:middle line:84%
+You know, as I said, we have
+these different ways in which
+
+00:01:33.000 --> 00:01:35.970 align:middle line:84%
+advertising could be effective,
+whether it's changing tastes
+
+00:01:35.970 --> 00:01:38.790 align:middle line:84%
+or whether it's
+providing information
+
+00:01:38.790 --> 00:01:40.930 align:middle line:84%
+or whether it's
+signaling something.
+
+00:01:40.930 --> 00:01:44.882 align:middle line:84%
+And you know, I think we
+want to know why the--
+
+00:01:44.882 --> 00:01:47.340 align:middle line:84%
+sometimes those effects, the
+welfare effects were different
+
+00:01:47.340 --> 00:01:49.180 align:middle line:84%
+depending on what
+advertising was doing,
+
+00:01:49.180 --> 00:01:51.210 align:middle line:84%
+so I think there's also
+academic interest in,
+
+00:01:51.210 --> 00:01:54.060 align:middle line:84%
+what is marketing-- what
+is advertising doing?
+
+00:01:54.060 --> 00:01:56.760 align:middle line:84%
+And what are its general
+equilibrium effects
+
+00:01:56.760 --> 00:02:00.180 align:middle line:90%
+on the markets involved?
+
+00:02:00.180 --> 00:02:05.212 align:middle line:84%
+So you see many different
+methodologies going on.
+
+00:02:05.212 --> 00:02:09.870 align:middle line:84%
+Marketing faculty at places,
+top places like Sloan,
+
+00:02:09.870 --> 00:02:12.690 align:middle line:84%
+a number of them have
+relationships with advertisers
+
+00:02:12.690 --> 00:02:14.310 align:middle line:84%
+or with advertising
+firms that let
+
+00:02:14.310 --> 00:02:17.100 align:middle line:84%
+them do sophisticated
+experimental work
+
+00:02:17.100 --> 00:02:21.780 align:middle line:84%
+to evaluate advertising
+with that advantage.
+
+00:02:21.780 --> 00:02:25.920 align:middle line:84%
+There's also-- you
+know, if you look at IO,
+
+00:02:25.920 --> 00:02:28.260 align:middle line:84%
+it's not like IO is
+really ahead of marketing
+
+00:02:28.260 --> 00:02:32.220 align:middle line:84%
+in structural demand models
+for understanding consumer
+
+00:02:32.220 --> 00:02:36.340 align:middle line:84%
+preferences and how A,
+affects consumer utility.
+
+00:02:36.340 --> 00:02:38.770 align:middle line:84%
+So there's a lot of
+complicated structural stuff.
+
+00:02:38.770 --> 00:02:42.780 align:middle line:84%
+What's actually sort of funny
+is the more recent trend
+
+00:02:42.780 --> 00:02:47.070 align:middle line:84%
+in marketing is there's actually
+been this recent rise in just
+
+00:02:47.070 --> 00:02:49.650 align:middle line:84%
+plain vanilla causal
+inference techniques
+
+00:02:49.650 --> 00:02:52.260 align:middle line:84%
+and using plain vanilla
+causal inference techniques
+
+00:02:52.260 --> 00:02:54.100 align:middle line:90%
+to try to evaluate advertising.
+
+00:02:54.100 --> 00:02:58.560 align:middle line:84%
+And in some ways, when
+you're trying to talk about,
+
+00:02:58.560 --> 00:03:01.470 align:middle line:84%
+what's the general equilibrium
+effects of advertising,
+
+00:03:01.470 --> 00:03:04.020 align:middle line:84%
+like, if you allow
+advertising in a market,
+
+00:03:04.020 --> 00:03:07.380 align:middle line:84%
+how does it affect
+market prices, you know,
+
+00:03:07.380 --> 00:03:09.870 align:middle line:84%
+you can't do that
+experimentally because it's
+
+00:03:09.870 --> 00:03:11.170 align:middle line:90%
+a market-wide question.
+
+00:03:11.170 --> 00:03:13.050 align:middle line:84%
+And so for those
+market wide questions,
+
+00:03:13.050 --> 00:03:17.520 align:middle line:84%
+we're seeing more people do just
+simple difference-in-difference
+
+00:03:17.520 --> 00:03:20.670 align:middle line:84%
+and other causal techniques
+to try to figure out,
+
+00:03:20.670 --> 00:03:22.866 align:middle line:84%
+what are market-level
+effects of advertising?
+
+00:03:22.866 --> 00:03:26.998 align:middle line:90%
+
+
+00:03:26.998 --> 00:03:27.540 align:middle line:90%
+I don't know.
+
+00:03:27.540 --> 00:03:31.270 align:middle line:84%
+Catherine Tucker in Sloan, she
+has a recent survey article
+
+00:03:31.270 --> 00:03:33.730 align:middle line:84%
+discussing a number of recent
+papers that have done this.
+
+00:03:33.730 --> 00:03:35.850 align:middle line:84%
+So I'm going to
+start with, first,
+
+00:03:35.850 --> 00:03:39.180 align:middle line:84%
+one of the earlier of these
+difference-in-difference papers.
+
+00:03:39.180 --> 00:03:43.200 align:middle line:90%
+This is Milyo and Waldfogel.
+
+00:03:43.200 --> 00:03:47.550 align:middle line:84%
+So you know, the paper title
+is "Effect of Price Advertising
+
+00:03:47.550 --> 00:03:50.670 align:middle line:84%
+on Prices, Evidence in the
+Wake of 44 Liquormart."
+
+00:03:50.670 --> 00:03:53.370 align:middle line:84%
+44 Liquormart, I think, is the
+name of a Rhode Island liquor
+
+00:03:53.370 --> 00:03:54.480 align:middle line:90%
+store.
+
+00:03:54.480 --> 00:03:59.570 align:middle line:84%
+And the backstory of this
+is from 1956 to 1996,
+
+00:03:59.570 --> 00:04:03.550 align:middle line:84%
+Rhode Island banned all
+advertising of alcohol prices.
+
+00:04:03.550 --> 00:04:05.460 align:middle line:84%
+So these kinds of
+circulars you'd
+
+00:04:05.460 --> 00:04:09.780 align:middle line:84%
+get in the mail of liquor
+warehouse mix and match.
+
+00:04:09.780 --> 00:04:13.810 align:middle line:84%
+Buy this many bottles, you know,
+Sam Adams, $7.99 a six-pack,
+
+00:04:13.810 --> 00:04:16.635 align:middle line:84%
+this was all illegal
+in Rhode Island.
+
+00:04:16.635 --> 00:04:18.740 align:middle line:84%
+This was also illegal
+in Rhode Island.
+
+00:04:18.740 --> 00:04:20.490 align:middle line:84%
+You could not in the
+state of Rhode Island
+
+00:04:20.490 --> 00:04:24.000 align:middle line:84%
+have a sign in your
+liquor store window
+
+00:04:24.000 --> 00:04:27.760 align:middle line:84%
+visible from the street showing
+how expensive the beer was.
+
+00:04:27.760 --> 00:04:30.010 align:middle line:84%
+So it was a just
+complete, total ban
+
+00:04:30.010 --> 00:04:33.250 align:middle line:84%
+on any advertising
+of alcohol prices.
+
+00:04:33.250 --> 00:04:37.570 align:middle line:84%
+And a liquor store, I
+think called 44 Liquormart,
+
+00:04:37.570 --> 00:04:40.270 align:middle line:84%
+sued the state of
+Rhode Island, saying
+
+00:04:40.270 --> 00:04:44.080 align:middle line:84%
+that this was a
+ban-- an infringement
+
+00:04:44.080 --> 00:04:45.470 align:middle line:90%
+on their freedom of speech.
+
+00:04:45.470 --> 00:04:48.535 align:middle line:84%
+And in 1996, the Supreme
+Court overturned the law
+
+00:04:48.535 --> 00:04:50.660 align:middle line:84%
+as an unwarranted restriction
+on freedom of speech.
+
+00:04:50.660 --> 00:04:54.550 align:middle line:84%
+And so starting on that
+one date, May 13, 1996,
+
+00:04:54.550 --> 00:04:58.420 align:middle line:84%
+advertising alcohol was legal
+in the state of Rhode Island.
+
+00:04:58.420 --> 00:04:59.920 align:middle line:84%
+And so what Milyo
+and Waldfogel were
+
+00:04:59.920 --> 00:05:02.350 align:middle line:84%
+trying to do is do a
+difference-in-difference
+
+00:05:02.350 --> 00:05:04.690 align:middle line:84%
+approach to see,
+how does that affect
+
+00:05:04.690 --> 00:05:07.690 align:middle line:90%
+alcohol pricing in the state?
+
+00:05:07.690 --> 00:05:09.280 align:middle line:90%
+And I can say there's actually--
+
+00:05:09.280 --> 00:05:11.800 align:middle line:84%
+in some sense,
+they're building--
+
+00:05:11.800 --> 00:05:13.780 align:middle line:90%
+there's an earlier paper--
+
+00:05:13.780 --> 00:05:18.340 align:middle line:84%
+there's a classic paper from the
+1970s by Benham on advertising
+
+00:05:18.340 --> 00:05:19.160 align:middle line:90%
+eyeglasses.
+
+00:05:19.160 --> 00:05:22.060 align:middle line:84%
+So some states allow you to
+advertise eyeglass prices,
+
+00:05:22.060 --> 00:05:23.750 align:middle line:90%
+and some states do not.
+
+00:05:23.750 --> 00:05:25.960 align:middle line:84%
+And Benham has this
+classic paper from 1970s,
+
+00:05:25.960 --> 00:05:30.640 align:middle line:84%
+basically just a cross-sectional
+regression showing that glasses
+
+00:05:30.640 --> 00:05:33.070 align:middle line:84%
+cost 20% less in states where
+you're allowed to advertise
+
+00:05:33.070 --> 00:05:35.630 align:middle line:84%
+eyeglass prices than
+ones that you don't.
+
+00:05:35.630 --> 00:05:37.840 align:middle line:84%
+And so I think that was--
+part of the background is,
+
+00:05:37.840 --> 00:05:40.298 align:middle line:84%
+is there really a big-- going
+to be a big effect on alcohol
+
+00:05:40.298 --> 00:05:42.370 align:middle line:90%
+prices of allowing advertising?
+
+00:05:42.370 --> 00:05:44.905 align:middle line:84%
+Which, if your
+view of advertising
+
+00:05:44.905 --> 00:05:47.137 align:middle line:84%
+is this is reducing
+consumer search costs
+
+00:05:47.137 --> 00:05:49.220 align:middle line:84%
+and consumer search costs
+are big part of markups,
+
+00:05:49.220 --> 00:05:52.060 align:middle line:84%
+you could think advertising
+would have a big effect there.
+
+00:05:52.060 --> 00:05:56.680 align:middle line:84%
+Anyway, I think the ambitious
+thing that Milyo and Waldfogel
+
+00:05:56.680 --> 00:05:59.680 align:middle line:84%
+did on this paper
+was they gambled
+
+00:05:59.680 --> 00:06:02.180 align:middle line:84%
+on the result of the
+Supreme Court case.
+
+00:06:02.180 --> 00:06:03.880 align:middle line:84%
+And basically, they
+just-- you know,
+
+00:06:03.880 --> 00:06:06.800 align:middle line:84%
+it was Rhode Island
+in the 1990s,
+
+00:06:06.800 --> 00:06:09.460 align:middle line:84%
+it wasn't like every liquor
+store was big and had
+
+00:06:09.460 --> 00:06:11.830 align:middle line:84%
+supermarket scanners and you
+could make contracts with
+
+00:06:11.830 --> 00:06:13.790 align:middle line:84%
+a scanner company to
+get all the prices.
+
+00:06:13.790 --> 00:06:17.260 align:middle line:84%
+So what they started doing
+is just manually collecting
+
+00:06:17.260 --> 00:06:20.860 align:middle line:84%
+prices for 33 different
+alcoholic beverages at 115
+
+00:06:20.860 --> 00:06:24.440 align:middle line:90%
+liquor stores in June 1995.
+
+00:06:24.440 --> 00:06:26.230 align:middle line:84%
+So this was basically--
+the Supreme Court
+
+00:06:26.230 --> 00:06:29.890 align:middle line:84%
+announced that it would
+take the case in June.
+
+00:06:29.890 --> 00:06:32.110 align:middle line:84%
+They had no idea when
+the case would get taken,
+
+00:06:32.110 --> 00:06:33.280 align:middle line:90%
+what the decision would be.
+
+00:06:33.280 --> 00:06:35.560 align:middle line:84%
+If the law was
+upheld, they would
+
+00:06:35.560 --> 00:06:37.267 align:middle line:90%
+have had no paper whatsoever.
+
+00:06:37.267 --> 00:06:39.100 align:middle line:84%
+But anyway, they just
+started gathering data
+
+00:06:39.100 --> 00:06:43.725 align:middle line:84%
+on liquor store prices
+in anticipation of--
+
+00:06:43.725 --> 00:06:46.378 align:middle line:84%
+in anticipation of the
+law being overturned.
+
+00:06:46.378 --> 00:06:48.170 align:middle line:84%
+And to do a
+difference-in-difference thing,
+
+00:06:48.170 --> 00:06:50.450 align:middle line:84%
+they did a control group
+of Massachusetts stores.
+
+00:06:50.450 --> 00:06:53.290 align:middle line:84%
+They picked Rhode Island stores
+and then Massachusetts stores,
+
+00:06:53.290 --> 00:06:55.240 align:middle line:84%
+some of which are near the Rhode
+Island border and some of which
+
+00:06:55.240 --> 00:06:56.180 align:middle line:90%
+are not.
+
+00:06:56.180 --> 00:06:58.360 align:middle line:84%
+And then they can do a
+difference-in-difference
+
+00:06:58.360 --> 00:07:04.030 align:middle line:84%
+and compare, how do prices in
+Massachusetts and Rhode Island
+
+00:07:04.030 --> 00:07:05.500 align:middle line:90%
+change when the liquor store--
+
+00:07:05.500 --> 00:07:08.200 align:middle line:84%
+when the advertising
+ban's overturned?
+
+00:07:08.200 --> 00:07:10.156 align:middle line:90%
+In addition to these--
+
+00:07:10.156 --> 00:07:15.850 align:middle line:84%
+and let me say, the price data
+collection is pretty impressive.
+
+00:07:15.850 --> 00:07:19.700 align:middle line:84%
+It's like they just went to
+the liquor stores personally.
+
+00:07:19.700 --> 00:07:22.510 align:middle line:84%
+And this is something
+I think also mentioned
+
+00:07:22.510 --> 00:07:23.980 align:middle line:90%
+in Alan Sorensen's paper.
+
+00:07:23.980 --> 00:07:26.282 align:middle line:84%
+You can't take a clipboard
+into a liquor store
+
+00:07:26.282 --> 00:07:28.240 align:middle line:84%
+and start writing down
+the prices of everything
+
+00:07:28.240 --> 00:07:30.357 align:middle line:84%
+that they sell and walk
+around for 15 minutes,
+
+00:07:30.357 --> 00:07:31.940 align:middle line:84%
+writing down all the
+prices they sell.
+
+00:07:31.940 --> 00:07:33.670 align:middle line:90%
+They kick you out of the store.
+
+00:07:33.670 --> 00:07:36.520 align:middle line:84%
+So what they actually did
+is they would go in there,
+
+00:07:36.520 --> 00:07:39.255 align:middle line:84%
+and sometimes they would
+have a set of prices.
+
+00:07:39.255 --> 00:07:41.380 align:middle line:84%
+They'd then try to memorize
+them, and go-- walk in,
+
+00:07:41.380 --> 00:07:43.005 align:middle line:90%
+memorize them, and walk out.
+
+00:07:43.005 --> 00:07:44.380 align:middle line:84%
+Joel also has
+these stories of he
+
+00:07:44.380 --> 00:07:46.180 align:middle line:90%
+would bring his child with him.
+
+00:07:46.180 --> 00:07:48.870 align:middle line:84%
+And you can spend
+longer if you've
+
+00:07:48.870 --> 00:07:51.370 align:middle line:84%
+got a four-year-old wandering
+around the aisles than you can
+
+00:07:51.370 --> 00:07:54.130 align:middle line:84%
+as a person and put a voice
+recorder in his pocket
+
+00:07:54.130 --> 00:07:56.710 align:middle line:84%
+and just read out
+to himself, like,
+
+00:07:56.710 --> 00:08:01.930 align:middle line:84%
+the Bacardi's $8.99 or whatever
+until he collected the prices.
+
+00:08:01.930 --> 00:08:03.913 align:middle line:84%
+Anyway, they did this
+for a year beforehand.
+
+00:08:03.913 --> 00:08:05.330 align:middle line:84%
+They did it for a
+year afterwards.
+
+00:08:05.330 --> 00:08:06.830 align:middle line:90%
+That's the main data set.
+
+00:08:06.830 --> 00:08:08.752 align:middle line:84%
+But then they also have
+several other things
+
+00:08:08.752 --> 00:08:09.710 align:middle line:90%
+they were able to find.
+
+00:08:09.710 --> 00:08:11.793 align:middle line:84%
+They have Massachusetts
+and Rhode Island both have
+
+00:08:11.793 --> 00:08:13.610 align:middle line:90%
+regulated wholesale prices.
+
+00:08:13.610 --> 00:08:16.393 align:middle line:84%
+They got the wholesale
+prices in the stores.
+
+00:08:16.393 --> 00:08:18.310 align:middle line:84%
+They gathered data on
+whether the Rhode Island
+
+00:08:18.310 --> 00:08:20.680 align:middle line:84%
+stores used print
+advertising, whether they
+
+00:08:20.680 --> 00:08:22.640 align:middle line:90%
+used window advertisements.
+
+00:08:22.640 --> 00:08:26.220 align:middle line:84%
+And they also got
+lottery ticket sales.
+
+00:08:26.220 --> 00:08:28.740 align:middle line:84%
+And the idea was that
+they didn't have any way
+
+00:08:28.740 --> 00:08:31.290 align:middle line:84%
+to gather quantity that the
+liquor stores were selling,
+
+00:08:31.290 --> 00:08:33.240 align:middle line:84%
+but they could get
+data from the state
+
+00:08:33.240 --> 00:08:36.419 align:middle line:84%
+on how many lottery tickets
+were sold at each liquor store.
+
+00:08:36.419 --> 00:08:37.919 align:middle line:84%
+And they're going
+to use the lottery
+
+00:08:37.919 --> 00:08:39.330 align:middle line:90%
+tickets as another prox--
+
+00:08:39.330 --> 00:08:41.070 align:middle line:84%
+a rough proxy for
+quantity, figuring
+
+00:08:41.070 --> 00:08:43.848 align:middle line:84%
+that if more people come into
+the store to buy alcohol,
+
+00:08:43.848 --> 00:08:45.390 align:middle line:84%
+more people are
+going to buy liquor--
+
+00:08:45.390 --> 00:08:47.228 align:middle line:84%
+buy lottery tickets
+at the stores.
+
+00:08:47.228 --> 00:08:49.020 align:middle line:84%
+And that they could
+get for all stores that
+
+00:08:49.020 --> 00:08:50.895 align:middle line:84%
+sold lottery tickets,
+which is a lot of them.
+
+00:08:50.895 --> 00:08:53.310 align:middle line:90%
+
+
+00:08:53.310 --> 00:09:00.340 align:middle line:84%
+So here's a rough schematic
+of what they were doing.
+
+00:09:00.340 --> 00:09:06.330 align:middle line:84%
+So their early data
+collections, they're
+
+00:09:06.330 --> 00:09:08.147 align:middle line:90%
+visiting 20 stores in June.
+
+00:09:08.147 --> 00:09:10.230 align:middle line:84%
+Then they do a bigger data
+collection in September
+
+00:09:10.230 --> 00:09:12.152 align:middle line:90%
+and visit 30 or 40 stores.
+
+00:09:12.152 --> 00:09:14.610 align:middle line:84%
+They get tired waiting around
+for the law to be overturned.
+
+00:09:14.610 --> 00:09:17.610 align:middle line:84%
+They only visit 10
+or 15 in February.
+
+00:09:17.610 --> 00:09:19.740 align:middle line:84%
+And then once the
+law is overturned,
+
+00:09:19.740 --> 00:09:21.330 align:middle line:84%
+then they ramp up
+the data collection.
+
+00:09:21.330 --> 00:09:27.430 align:middle line:84%
+They're collecting from 40
+or 50 stores in each wave.
+
+00:09:27.430 --> 00:09:29.180 align:middle line:90%
+Advertising.
+
+00:09:29.180 --> 00:09:31.180 align:middle line:84%
+You can see that
+advertising didn't actually
+
+00:09:31.180 --> 00:09:32.750 align:middle line:90%
+get all that big.
+
+00:09:32.750 --> 00:09:40.090 align:middle line:84%
+So there are-- you know,
+in their sample stores,
+
+00:09:40.090 --> 00:09:42.680 align:middle line:90%
+it's like three, one, five, six.
+
+00:09:42.680 --> 00:09:44.200 align:middle line:84%
+So it's less than
+10% of the stores
+
+00:09:44.200 --> 00:09:46.965 align:middle line:84%
+are choosing to advertise
+once advertising is allowed.
+
+00:09:46.965 --> 00:09:49.810 align:middle line:90%
+
+
+00:09:49.810 --> 00:09:50.590 align:middle line:90%
+Anyway.
+
+00:09:50.590 --> 00:09:53.110 align:middle line:84%
+So then they collected by
+hand whether the stores were
+
+00:09:53.110 --> 00:09:55.330 align:middle line:90%
+advertising, but it was not--
+
+00:09:55.330 --> 00:09:57.640 align:middle line:84%
+you know, many stores
+which obviously had not
+
+00:09:57.640 --> 00:09:59.170 align:middle line:84%
+been advertising
+for 40 years just
+
+00:09:59.170 --> 00:10:01.710 align:middle line:84%
+went along happily not
+advertising once the law ended.
+
+00:10:01.710 --> 00:10:04.620 align:middle line:90%
+
+
+00:10:04.620 --> 00:10:07.350 align:middle line:90%
+Here's an example of--
+
+00:10:07.350 --> 00:10:11.370 align:middle line:84%
+these are the products
+that were in their study.
+
+00:10:11.370 --> 00:10:16.990 align:middle line:84%
+So they have a bunch of
+different standard liquor items.
+
+00:10:16.990 --> 00:10:18.610 align:middle line:84%
+They have several
+different beers.
+
+00:10:18.610 --> 00:10:22.380 align:middle line:84%
+They have a bunch of
+relatively-- a bunch
+
+00:10:22.380 --> 00:10:23.950 align:middle line:90%
+of relatively cheap wine.
+
+00:10:23.950 --> 00:10:28.711 align:middle line:84%
+They have a few champagnes
+and sparkling wines.
+
+00:10:28.711 --> 00:10:31.200 align:middle line:84%
+And again, the goal
+of the data collection
+
+00:10:31.200 --> 00:10:33.450 align:middle line:84%
+was to walk around the store
+and get all these prices.
+
+00:10:33.450 --> 00:10:34.610 align:middle line:84%
+If they couldn't get
+all these prices,
+
+00:10:34.610 --> 00:10:36.510 align:middle line:84%
+they just got some
+subset of these prices.
+
+00:10:36.510 --> 00:10:39.530 align:middle line:84%
+And that's why you can see
+the number of observations
+
+00:10:39.530 --> 00:10:41.215 align:middle line:90%
+differ a lot across product.
+
+00:10:41.215 --> 00:10:46.310 align:middle line:90%
+
+
+00:10:46.310 --> 00:10:46.810 align:middle line:90%
+OK.
+
+00:10:46.810 --> 00:10:51.320 align:middle line:84%
+So what does-- what
+does advertising do?
+
+00:10:51.320 --> 00:10:54.820 align:middle line:84%
+So result 1, you
+know, they're going
+
+00:10:54.820 --> 00:10:56.590 align:middle line:84%
+to estimate the
+effect of alcohol--
+
+00:10:56.590 --> 00:10:57.942 align:middle line:90%
+the end of the alcohol ban.
+
+00:10:57.942 --> 00:10:59.650 align:middle line:84%
+Simple difference-in-difference
+estimate.
+
+00:10:59.650 --> 00:11:01.900 align:middle line:84%
+You just do prices
+in Rhode Island
+
+00:11:01.900 --> 00:11:03.910 align:middle line:84%
+after minus price
+in Rhode Island
+
+00:11:03.910 --> 00:11:06.080 align:middle line:84%
+before minus price
+in Massachusetts
+
+00:11:06.080 --> 00:11:07.870 align:middle line:84%
+after price in
+Massachusetts before.
+
+00:11:07.870 --> 00:11:11.200 align:middle line:84%
+It's a regression with time
+fixed effects and state fixed
+
+00:11:11.200 --> 00:11:13.700 align:middle line:84%
+effects and then a Rhode
+Island times post dummy,
+
+00:11:13.700 --> 00:11:15.370 align:middle line:84%
+and that's the thing
+you're estimating.
+
+00:11:15.370 --> 00:11:18.940 align:middle line:84%
+And what they find
+is that, you know,
+
+00:11:18.940 --> 00:11:24.200 align:middle line:84%
+the price was very low-- the
+difference was very, very low.
+
+00:11:24.200 --> 00:11:27.385 align:middle line:84%
+So you put in the state product
+and the store fixed effect,
+
+00:11:27.385 --> 00:11:29.860 align:middle line:84%
+and the prices on
+average in their sample
+
+00:11:29.860 --> 00:11:33.220 align:middle line:84%
+are going down by, like,
+half a percent to 1%
+
+00:11:33.220 --> 00:11:36.430 align:middle line:84%
+after the advertising
+ban comes into effect.
+
+00:11:36.430 --> 00:11:42.100 align:middle line:84%
+So it's just advertising
+leads to very,
+
+00:11:42.100 --> 00:11:44.120 align:middle line:84%
+very slightly-- allowing
+advertising leads
+
+00:11:44.120 --> 00:11:45.620 align:middle line:84%
+to very, very
+slightly lower prices.
+
+00:11:45.620 --> 00:11:47.320 align:middle line:84%
+And this is-- you know, they're
+tracking it for one year
+
+00:11:47.320 --> 00:11:48.368 align:middle line:90%
+afterwards.
+
+00:11:48.368 --> 00:11:50.410 align:middle line:84%
+So you get one year
+afterwards, and within a year
+
+00:11:50.410 --> 00:11:53.895 align:middle line:84%
+this effectively had very
+little impact on retail prices.
+
+00:11:53.895 --> 00:11:59.590 align:middle line:90%
+
+
+00:11:59.590 --> 00:12:01.580 align:middle line:84%
+Breaking it down
+product by product,
+
+00:12:01.580 --> 00:12:04.285 align:middle line:90%
+how do advertisements work?
+
+00:12:04.285 --> 00:12:06.850 align:middle line:84%
+When stores choose
+to advertise, they
+
+00:12:06.850 --> 00:12:08.740 align:middle line:90%
+advertise much lower prices.
+
+00:12:08.740 --> 00:12:13.120 align:middle line:84%
+So the advertised items
+at an advertising store
+
+00:12:13.120 --> 00:12:17.500 align:middle line:84%
+are roughly 20% lower than
+the prices of those items
+
+00:12:17.500 --> 00:12:20.470 align:middle line:84%
+at the Massachusetts stores or
+the non-advertising Rhode Island
+
+00:12:20.470 --> 00:12:21.350 align:middle line:90%
+stores.
+
+00:12:21.350 --> 00:12:26.860 align:middle line:84%
+So stores that advertise
+do set very low prices.
+
+00:12:26.860 --> 00:12:28.720 align:middle line:84%
+And then your question
+might be, what's
+
+00:12:28.720 --> 00:12:32.200 align:middle line:84%
+the aggregate effect
+of the advertising?
+
+00:12:32.200 --> 00:12:34.720 align:middle line:84%
+You know, as I said, I did
+a loss leader model saying,
+
+00:12:34.720 --> 00:12:36.400 align:middle line:84%
+like, you know, you're going
+to advertise very low prices
+
+00:12:36.400 --> 00:12:37.780 align:middle line:84%
+for turkeys at
+Thanksgiving, and that
+
+00:12:37.780 --> 00:12:40.450 align:middle line:84%
+doesn't mean that Thanksgiving
+isn't the single most expensive
+
+00:12:40.450 --> 00:12:43.125 align:middle line:84%
+day of the year to shop because
+you can just use that as a loss
+
+00:12:43.125 --> 00:12:44.500 align:middle line:84%
+leader, bring
+people in, and then
+
+00:12:44.500 --> 00:12:47.185 align:middle line:84%
+advertise-- raise the
+price of everything else.
+
+00:12:47.185 --> 00:12:49.010 align:middle line:90%
+That's not what's happening.
+
+00:12:49.010 --> 00:12:52.750 align:middle line:84%
+So the non-advertised
+prices at advertising stores
+
+00:12:52.750 --> 00:12:58.900 align:middle line:84%
+are within a fraction of a
+percent of the prices elsewhere.
+
+00:12:58.900 --> 00:13:00.920 align:middle line:84%
+And if anything,
+they're slightly lower.
+
+00:13:00.920 --> 00:13:03.250 align:middle line:84%
+So it's not like the stores
+advertise and jack up
+
+00:13:03.250 --> 00:13:04.500 align:middle line:90%
+the prices of everything else.
+
+00:13:04.500 --> 00:13:07.030 align:middle line:84%
+What they do is they
+advertise low prices
+
+00:13:07.030 --> 00:13:10.360 align:middle line:84%
+and basically leave the prices
+of everything else unchanged,
+
+00:13:10.360 --> 00:13:12.180 align:middle line:84%
+or if anything,
+slightly decrease them.
+
+00:13:12.180 --> 00:13:15.440 align:middle line:90%
+
+
+00:13:15.440 --> 00:13:20.980 align:middle line:84%
+And the non-advertising stores
+in Rhode Island, their prices
+
+00:13:20.980 --> 00:13:23.300 align:middle line:84%
+are now going down
+by, like, 0.2%.
+
+00:13:23.300 --> 00:13:26.590 align:middle line:84%
+So whatever the
+competitive effect is,
+
+00:13:26.590 --> 00:13:29.870 align:middle line:84%
+the non-advertising stores
+are just not reacting--
+
+00:13:29.870 --> 00:13:32.950 align:middle line:84%
+they're not reacting to the
+advertising of their rivals
+
+00:13:32.950 --> 00:13:37.180 align:middle line:84%
+other than this-- you know,
+just very, very tiny cut
+
+00:13:37.180 --> 00:13:39.710 align:middle line:90%
+in average prices.
+
+00:13:39.710 --> 00:13:41.010 align:middle line:90%
+Other things in the paper.
+
+00:13:41.010 --> 00:13:42.680 align:middle line:90%
+So it wasn't in the table.
+
+00:13:42.680 --> 00:13:45.060 align:middle line:84%
+Rivals don't respond
+to advertised prices.
+
+00:13:45.060 --> 00:13:51.410 align:middle line:84%
+So you advertise, I've got
+Bud Light, 20% off this week.
+
+00:13:51.410 --> 00:13:54.250 align:middle line:84%
+Your rival stores don't
+have Bud Light at 20% off.
+
+00:13:54.250 --> 00:13:58.490 align:middle line:84%
+They basically just don't react
+at all to the advertising.
+
+00:13:58.490 --> 00:14:06.340 align:middle line:84%
+On the quantity effects,
+advertising stores' share
+
+00:14:06.340 --> 00:14:10.840 align:middle line:84%
+of lottery ticket sales
+went from 16.4% to 18.4%
+
+00:14:10.840 --> 00:14:12.520 align:middle line:90%
+after the ban ends.
+
+00:14:12.520 --> 00:14:16.300 align:middle line:84%
+So if you remember, it looked
+like the advertising levels
+
+00:14:16.300 --> 00:14:17.480 align:middle line:90%
+were about 10%.
+
+00:14:17.480 --> 00:14:21.970 align:middle line:84%
+So the advertising stores
+were bigger stores.
+
+00:14:21.970 --> 00:14:25.270 align:middle line:84%
+They were selling more than
+10% of the lottery tickets,
+
+00:14:25.270 --> 00:14:27.220 align:middle line:84%
+but they go from
+16% to 18%, so that
+
+00:14:27.220 --> 00:14:31.180 align:middle line:84%
+suggests that their
+quantities are going up.
+
+00:14:31.180 --> 00:14:33.610 align:middle line:90%
+But again, if you think about--
+
+00:14:33.610 --> 00:14:37.420 align:middle line:84%
+so the fraction-- the half
+a percent or the 0.7%,
+
+00:14:37.420 --> 00:14:41.620 align:middle line:84%
+that was the price on a
+just item-weighted basis.
+
+00:14:41.620 --> 00:14:43.660 align:middle line:84%
+You could-- your question
+would be, well, OK,
+
+00:14:43.660 --> 00:14:46.480 align:middle line:84%
+on a sale-weighted
+basis, could the drops
+
+00:14:46.480 --> 00:14:49.720 align:middle line:84%
+in prices that consumers
+pay be much larger?
+
+00:14:49.720 --> 00:14:53.620 align:middle line:84%
+You know, this is
+suggesting that it's only 2%
+
+00:14:53.620 --> 00:14:55.100 align:middle line:84%
+of the demand that
+may be moving.
+
+00:14:55.100 --> 00:14:57.610 align:middle line:84%
+And so if only 2% of the
+demand may be moving,
+
+00:14:57.610 --> 00:15:00.580 align:middle line:84%
+the aggregate effect on
+consumers is probably small.
+
+00:15:00.580 --> 00:15:04.520 align:middle line:84%
+Now, if that 2% were all
+getting stuff that was 20% off,
+
+00:15:04.520 --> 00:15:06.560 align:middle line:84%
+you know, still, 2%
+of the people buying
+
+00:15:06.560 --> 00:15:08.960 align:middle line:84%
+stuff that's 20% off,
+that's, like-- what is that?
+
+00:15:08.960 --> 00:15:10.080 align:middle line:90%
+0.4%?
+
+00:15:10.080 --> 00:15:13.280 align:middle line:90%
+So it's not a very big effect.
+
+00:15:13.280 --> 00:15:16.730 align:middle line:84%
+A second thing that they note is
+that the stores that eventually
+
+00:15:16.730 --> 00:15:23.450 align:middle line:84%
+advertise were charging 7%
+less before the advertising
+
+00:15:23.450 --> 00:15:24.750 align:middle line:90%
+ban was eliminated.
+
+00:15:24.750 --> 00:15:27.380 align:middle line:84%
+So these larger stores were
+the larger, cheaper stores
+
+00:15:27.380 --> 00:15:29.090 align:middle line:90%
+to begin with.
+
+00:15:29.090 --> 00:15:32.990 align:middle line:84%
+So again, if 2% of the
+people are moving and buying
+
+00:15:32.990 --> 00:15:36.255 align:middle line:84%
+stuff that's on average
+7% less, that's,
+
+00:15:36.255 --> 00:15:37.880 align:middle line:84%
+again, adding a few
+tenths of a percent
+
+00:15:37.880 --> 00:15:39.890 align:middle line:90%
+to what consumers are saving.
+
+00:15:39.890 --> 00:15:45.585 align:middle line:84%
+So I think in aggregate, it
+looks like this shift-- consumer
+
+00:15:45.585 --> 00:15:47.210 align:middle line:84%
+shift to lower priced
+stores presumably
+
+00:15:47.210 --> 00:15:49.710 align:middle line:84%
+within the advertising stores,
+consumers buy the things that
+
+00:15:49.710 --> 00:15:51.930 align:middle line:90%
+are the 20% off price levels.
+
+00:15:51.930 --> 00:15:57.410 align:middle line:84%
+But on aggregate, average
+prices in an unweighted sense
+
+00:15:57.410 --> 00:15:58.140 align:middle line:90%
+don't change.
+
+00:15:58.140 --> 00:16:01.220 align:middle line:84%
+And on a-- whatever, consumers
+are better off sense,
+
+00:16:01.220 --> 00:16:03.745 align:middle line:84%
+consumers are making a
+couple percent off this.
+
+00:16:03.745 --> 00:16:06.620 align:middle line:90%
+
+
+00:16:06.620 --> 00:16:07.370 align:middle line:90%
+So I don't know.
+
+00:16:07.370 --> 00:16:10.580 align:middle line:84%
+I don't know if this makes us
+think that all of these search
+
+00:16:10.580 --> 00:16:13.940 align:middle line:84%
+costs for consumers, at least
+for buying beer and wine
+
+00:16:13.940 --> 00:16:17.330 align:middle line:84%
+and liquor, are not such a big
+deal or such a big determinant
+
+00:16:17.330 --> 00:16:20.270 align:middle line:84%
+of markups, or at
+least the advertising
+
+00:16:20.270 --> 00:16:23.405 align:middle line:84%
+is limited effectiveness in
+changing those consumer search
+
+00:16:23.405 --> 00:16:23.905 align:middle line:90%
+costs.
+
+00:16:23.905 --> 00:16:28.840 align:middle line:90%
+
+
+00:16:28.840 --> 00:16:30.700 align:middle line:90%
+Questions?
+
+00:16:30.700 --> 00:16:31.210 align:middle line:90%
+Nope?
+
+00:16:31.210 --> 00:16:33.500 align:middle line:90%
+OK.
+
+00:16:33.500 --> 00:16:36.230 align:middle line:84%
+So I thought next
+thing I would do
+
+00:16:36.230 --> 00:16:38.690 align:middle line:84%
+is go to the other
+extreme in data
+
+00:16:38.690 --> 00:16:40.610 align:middle line:84%
+and just give you a
+sense of, you know,
+
+00:16:40.610 --> 00:16:42.650 align:middle line:84%
+what are the kinds of
+papers that people are
+
+00:16:42.650 --> 00:16:44.645 align:middle line:90%
+writing with good access to--
+
+00:16:44.645 --> 00:16:47.360 align:middle line:90%
+
+
+00:16:47.360 --> 00:16:53.510 align:middle line:84%
+good access to firms that allow
+them to do experimental work?
+
+00:16:53.510 --> 00:16:56.387 align:middle line:84%
+So this is a paper by Randall
+Lewis and David Reiley,
+
+00:16:56.387 --> 00:16:58.970 align:middle line:84%
+"Online Ads and Offline Sales,
+Measuring the Effects of Retail
+
+00:16:58.970 --> 00:17:01.910 align:middle line:84%
+Advertising via
+Controlled Experiment."
+
+00:17:01.910 --> 00:17:05.119 align:middle line:84%
+So at the time that they
+started working on this paper,
+
+00:17:05.119 --> 00:17:08.450 align:middle line:84%
+Randall and David were both
+employees of Yahoo or working
+
+00:17:08.450 --> 00:17:10.661 align:middle line:90%
+at Yahoo research.
+
+00:17:10.661 --> 00:17:11.869 align:middle line:90%
+I think-- well, I don't know.
+
+00:17:11.869 --> 00:17:16.121 align:middle line:84%
+This is-- I guess it's
+funny to be lecturing
+
+00:17:16.121 --> 00:17:18.329 align:middle line:84%
+a class of people so young
+they probably don't really
+
+00:17:18.329 --> 00:17:19.329 align:middle line:90%
+remember Yahoo.
+
+00:17:19.329 --> 00:17:25.770 align:middle line:84%
+But in the year 2000, Yahoo
+had 25% of all page views
+
+00:17:25.770 --> 00:17:26.838 align:middle line:90%
+on the internet.
+
+00:17:26.838 --> 00:17:28.380 align:middle line:84%
+So if you think
+about, what do people
+
+00:17:28.380 --> 00:17:29.713 align:middle line:90%
+do when they're on the internet?
+
+00:17:29.713 --> 00:17:32.170 align:middle line:84%
+And the year 2000 was
+people were on Yahoo.
+
+00:17:32.170 --> 00:17:35.910 align:middle line:84%
+And it was like, you know,
+Yahoo was just like--
+
+00:17:35.910 --> 00:17:41.830 align:middle line:84%
+Yahoo was what Facebook and
+Google and Amazon-- whatever.
+
+00:17:41.830 --> 00:17:44.790 align:middle line:84%
+Like, at the time in 2000, Yahoo
+was the dominant online firm
+
+00:17:44.790 --> 00:17:46.312 align:middle line:90%
+and people are like--
+
+00:17:46.312 --> 00:17:48.520 align:middle line:84%
+Yahoo was their home page,
+and they go through Yahoo,
+
+00:17:48.520 --> 00:17:51.810 align:middle line:84%
+and they would look through
+Yahoo shopping Yahoo
+
+00:17:51.810 --> 00:17:54.810 align:middle line:90%
+mail, Yahoo whatever.
+
+00:17:54.810 --> 00:17:59.730 align:middle line:84%
+This is what the Yahoo
+front page looked like.
+
+00:17:59.730 --> 00:18:03.240 align:middle line:84%
+Yahoo front page, it was
+kind of like a news site,
+
+00:18:03.240 --> 00:18:04.330 align:middle line:90%
+your starting page.
+
+00:18:04.330 --> 00:18:06.930 align:middle line:84%
+You can see over here,
+you had other things
+
+00:18:06.930 --> 00:18:11.610 align:middle line:84%
+you could do on Yahoo like Yahoo
+Autos, Answers, Jobs, Groups,
+
+00:18:11.610 --> 00:18:15.400 align:middle line:84%
+Mobile Web, Movies,
+TV, whatever.
+
+00:18:15.400 --> 00:18:18.920 align:middle line:84%
+But it was mostly
+like a news page.
+
+00:18:18.920 --> 00:18:22.660 align:middle line:84%
+And then they would have these
+display ads like this one.
+
+00:18:22.660 --> 00:18:24.940 align:middle line:84%
+This is what they
+call an LREC ad, which
+
+00:18:24.940 --> 00:18:27.490 align:middle line:90%
+stands for Large Rectangle.
+
+00:18:27.490 --> 00:18:30.190 align:middle line:84%
+You'd have this large rectangle
+on the front page with some ad.
+
+00:18:30.190 --> 00:18:33.890 align:middle line:84%
+You then have other smaller
+ads here on the front page.
+
+00:18:33.890 --> 00:18:37.180 align:middle line:84%
+And as you went through, if you
+read the news pages or whatever,
+
+00:18:37.180 --> 00:18:38.980 align:middle line:84%
+there would be
+more ads like this
+
+00:18:38.980 --> 00:18:40.880 align:middle line:90%
+appearing on subsequent pages.
+
+00:18:40.880 --> 00:18:44.370 align:middle line:84%
+And Yahoo made its
+money by selling these.
+
+00:18:44.370 --> 00:18:47.080 align:middle line:90%
+
+
+00:18:47.080 --> 00:18:49.690 align:middle line:90%
+How did those get sold?
+
+00:18:49.690 --> 00:18:54.110 align:middle line:84%
+Yahoo sold those ads in
+multiple different ways.
+
+00:18:54.110 --> 00:18:59.600 align:middle line:84%
+The front page ad there was
+actually sold by the day.
+
+00:18:59.600 --> 00:19:02.200 align:middle line:84%
+So every day, there
+would be a new advertiser
+
+00:19:02.200 --> 00:19:03.710 align:middle line:90%
+on the Yahoo front page.
+
+00:19:03.710 --> 00:19:06.020 align:middle line:84%
+Some days it would
+be a 50/50 split.
+
+00:19:06.020 --> 00:19:09.490 align:middle line:84%
+50% of page views would
+be ad A. 50% of the pages
+
+00:19:09.490 --> 00:19:11.998 align:middle line:84%
+would be ad B. Other days,
+it would be everybody.
+
+00:19:11.998 --> 00:19:14.290 align:middle line:84%
+But basically, you could just
+run a one-day ad campaign
+
+00:19:14.290 --> 00:19:18.070 align:middle line:84%
+on Yahoo and they'd sell you
+that LREC on the front page.
+
+00:19:18.070 --> 00:19:21.470 align:middle line:84%
+When you got to the
+inside pages on Yahoo,
+
+00:19:21.470 --> 00:19:25.010 align:middle line:84%
+there were many, many, many
+different ways to bid for ads.
+
+00:19:25.010 --> 00:19:29.170 align:middle line:84%
+Like, you could buy
+an ad that would--
+
+00:19:29.170 --> 00:19:31.570 align:middle line:84%
+if I'm Netflix or
+whatever, I could
+
+00:19:31.570 --> 00:19:35.080 align:middle line:84%
+buy an ad that appears on pages
+that mention a movie title.
+
+00:19:35.080 --> 00:19:37.220 align:middle line:84%
+And like, I want
+to buy movie title.
+
+00:19:37.220 --> 00:19:39.950 align:middle line:84%
+Or you could buy ads
+targeted to consumers.
+
+00:19:39.950 --> 00:19:42.920 align:middle line:90%
+I want women 18 to 39.
+
+00:19:42.920 --> 00:19:47.440 align:middle line:84%
+I want men 25 to 54, and I'm
+willing to bid this much if it's
+
+00:19:47.440 --> 00:19:48.760 align:middle line:90%
+someone in that category.
+
+00:19:48.760 --> 00:19:51.990 align:middle line:84%
+You could bid
+re-targeting kinds of ads.
+
+00:19:51.990 --> 00:19:53.740 align:middle line:84%
+Like, I don't know if
+you've ever noticed.
+
+00:19:53.740 --> 00:19:56.590 align:middle line:84%
+You look at a pair of shoes
+on Zappos or something,
+
+00:19:56.590 --> 00:19:59.530 align:middle line:84%
+and then those shoes follow
+you around the internet.
+
+00:19:59.530 --> 00:20:02.350 align:middle line:84%
+You can bid, I'm
+paying $5 per 1,000.
+
+00:20:02.350 --> 00:20:04.740 align:middle line:84%
+Anytime someone who's
+visited my site and puts
+
+00:20:04.740 --> 00:20:06.490 align:middle line:84%
+something in their
+cart and not bought it,
+
+00:20:06.490 --> 00:20:09.050 align:middle line:84%
+I'm going to buy an ad
+and target it there.
+
+00:20:09.050 --> 00:20:11.608 align:middle line:84%
+So you can target by the
+individual characteristics.
+
+00:20:11.608 --> 00:20:13.400 align:middle line:84%
+You can target by the
+content of the pages.
+
+00:20:13.400 --> 00:20:16.110 align:middle line:84%
+You can target on the person's
+past behavior using cookies,
+
+00:20:16.110 --> 00:20:21.270 align:middle line:84%
+but they would sell
+all those things.
+
+00:20:21.270 --> 00:20:22.740 align:middle line:84%
+This particular
+experiment they do,
+
+00:20:22.740 --> 00:20:28.238 align:middle line:84%
+they're trying to assess the
+effectiveness of Yahoo ads--
+
+00:20:28.238 --> 00:20:30.405 align:middle line:84%
+ambitious project trying
+to assess the effectiveness
+
+00:20:30.405 --> 00:20:35.220 align:middle line:84%
+on Yahoo ads on both online
+purchases and offline purchases,
+
+00:20:35.220 --> 00:20:38.070 align:middle line:84%
+which is something that's
+usually much harder to get at.
+
+00:20:38.070 --> 00:20:39.713 align:middle line:90%
+So how did this experiment work?
+
+00:20:39.713 --> 00:20:43.420 align:middle line:90%
+
+
+00:20:43.420 --> 00:20:46.340 align:middle line:84%
+So they run a randomized
+controlled trial.
+
+00:20:46.340 --> 00:20:50.080 align:middle line:84%
+So they have some
+large offline firm
+
+00:20:50.080 --> 00:20:52.692 align:middle line:84%
+that's interested in running
+a big ad campaign on Yahoo.
+
+00:20:52.692 --> 00:20:54.400 align:middle line:84%
+And they propose to
+the firm that they're
+
+00:20:54.400 --> 00:20:55.870 align:middle line:84%
+going to evaluate
+the ad campaign
+
+00:20:55.870 --> 00:20:58.150 align:middle line:84%
+as well as running the
+ad campaign for them.
+
+00:20:58.150 --> 00:21:02.770 align:middle line:84%
+So the retailer-- so
+think of this as a firm
+
+00:21:02.770 --> 00:21:06.100 align:middle line:84%
+like Macy's or Bloomingdale's,
+some very large department
+
+00:21:06.100 --> 00:21:08.800 align:middle line:90%
+store, probably.
+
+00:21:08.800 --> 00:21:11.590 align:middle line:84%
+This large retailer
+had a data-- had
+
+00:21:11.590 --> 00:21:14.830 align:middle line:84%
+a data set of 1.5
+million customers
+
+00:21:14.830 --> 00:21:16.770 align:middle line:84%
+that they wanted
+to advertise to.
+
+00:21:16.770 --> 00:21:19.120 align:middle line:84%
+So they're going to display
+the advertising only
+
+00:21:19.120 --> 00:21:20.710 align:middle line:90%
+to those people.
+
+00:21:20.710 --> 00:21:22.930 align:middle line:84%
+And then what they
+did is they matched it
+
+00:21:22.930 --> 00:21:26.560 align:middle line:90%
+to the Yahoo database.
+
+00:21:26.560 --> 00:21:30.370 align:middle line:84%
+So you know, like today, Google
+and Facebook and whomever
+
+00:21:30.370 --> 00:21:32.460 align:middle line:84%
+know who you are when
+you're searching.
+
+00:21:32.460 --> 00:21:34.300 align:middle line:90%
+People had Yahoo Mail accounts.
+
+00:21:34.300 --> 00:21:36.890 align:middle line:84%
+They were permanently
+logged into Yahoo.
+
+00:21:36.890 --> 00:21:39.880 align:middle line:84%
+So they got someone
+to match this database
+
+00:21:39.880 --> 00:21:42.500 align:middle line:84%
+that the firm had of people
+and their credit card
+
+00:21:42.500 --> 00:21:47.210 align:middle line:84%
+numbers and their home addresses
+to Yahoo's membership database.
+
+00:21:47.210 --> 00:21:51.740 align:middle line:84%
+And so they were able to jointly
+identify 1.5 million people who
+
+00:21:51.740 --> 00:21:55.383 align:middle line:84%
+both existed in the retailer
+database and had Yahoo accounts
+
+00:21:55.383 --> 00:21:57.050 align:middle line:84%
+that they may have
+been logged into when
+
+00:21:57.050 --> 00:21:59.540 align:middle line:90%
+they were web browsing.
+
+00:21:59.540 --> 00:22:03.600 align:middle line:84%
+They used an 80/20 split
+of treatment and control.
+
+00:22:03.600 --> 00:22:06.950 align:middle line:84%
+So 80% of the people, they
+tried to advertise to them
+
+00:22:06.950 --> 00:22:08.030 align:middle line:90%
+when they saw them.
+
+00:22:08.030 --> 00:22:10.310 align:middle line:84%
+20% of the people they
+held out as controls
+
+00:22:10.310 --> 00:22:11.935 align:middle line:84%
+and they never
+advertised to them.
+
+00:22:11.935 --> 00:22:14.990 align:middle line:90%
+
+
+00:22:14.990 --> 00:22:18.050 align:middle line:84%
+One thing about the treatment
+control design like this is,
+
+00:22:18.050 --> 00:22:21.740 align:middle line:84%
+again, the retailer
+had a bid that it
+
+00:22:21.740 --> 00:22:24.620 align:middle line:84%
+was willing to pay to
+reach those people.
+
+00:22:24.620 --> 00:22:28.640 align:middle line:84%
+And so I would guess, early
+2000s advertising prices,
+
+00:22:28.640 --> 00:22:32.690 align:middle line:84%
+it may have been, like, $1 per
+1,000 or something like that
+
+00:22:32.690 --> 00:22:34.470 align:middle line:90%
+for impression ads.
+
+00:22:34.470 --> 00:22:36.305 align:middle line:90%
+So that every time--
+
+00:22:36.305 --> 00:22:39.620 align:middle line:84%
+every time one of these ads
+was displayed to a consumer,
+
+00:22:39.620 --> 00:22:42.890 align:middle line:90%
+they owed Yahoo 1/10 of $0.01.
+
+00:22:42.890 --> 00:22:46.820 align:middle line:84%
+Whether those ads actually got
+displayed depended on what else
+
+00:22:46.820 --> 00:22:47.570 align:middle line:90%
+that person--
+
+00:22:47.570 --> 00:22:50.153 align:middle line:84%
+whether that person was actually
+on the internet and what else
+
+00:22:50.153 --> 00:22:50.850 align:middle line:90%
+they were doing.
+
+00:22:50.850 --> 00:22:53.060 align:middle line:84%
+So if that person was
+on the internet, only
+
+00:22:53.060 --> 00:22:55.063 align:middle line:90%
+rarely they might not see an ad.
+
+00:22:55.063 --> 00:22:56.480 align:middle line:84%
+If that person was
+on the internet
+
+00:22:56.480 --> 00:22:59.270 align:middle line:84%
+but they'd recently looked at
+shoes or something like that
+
+00:22:59.270 --> 00:23:01.950 align:middle line:84%
+and had a re-targeting ad that
+wanted to follow them around,
+
+00:23:01.950 --> 00:23:04.790 align:middle line:84%
+that re-targeting ad
+would outbid the Macy's ad
+
+00:23:04.790 --> 00:23:06.475 align:middle line:84%
+and they would never
+see the Macy's ad.
+
+00:23:06.475 --> 00:23:07.850 align:middle line:84%
+Or it could be if
+that person was
+
+00:23:07.850 --> 00:23:09.840 align:middle line:84%
+in a very valuable
+demographic group,
+
+00:23:09.840 --> 00:23:13.290 align:middle line:84%
+somebody wanted young people,
+the young people price
+
+00:23:13.290 --> 00:23:16.210 align:middle line:84%
+would be higher than
+Macy's bid also.
+
+00:23:16.210 --> 00:23:20.080 align:middle line:84%
+So whether or not you
+see an ad, you know, it's
+
+00:23:20.080 --> 00:23:21.330 align:middle line:90%
+like an intent to treat thing.
+
+00:23:21.330 --> 00:23:23.730 align:middle line:84%
+Like, being in the
+treatment group
+
+00:23:23.730 --> 00:23:27.990 align:middle line:84%
+means Macy's is bidding to get
+your their ad shown to you,
+
+00:23:27.990 --> 00:23:32.235 align:middle line:84%
+but they may not actually
+get their ad shown to you.
+
+00:23:32.235 --> 00:23:36.840 align:middle line:84%
+And then the impressive part
+of this campaign was they're
+
+00:23:36.840 --> 00:23:39.630 align:middle line:84%
+able to monitor the
+purchases by these people
+
+00:23:39.630 --> 00:23:41.100 align:middle line:90%
+through the online--
+
+00:23:41.100 --> 00:23:45.030 align:middle line:84%
+so this store is a store
+that has an online presence,
+
+00:23:45.030 --> 00:23:47.580 align:middle line:84%
+but they have much
+bigger offline sales.
+
+00:23:47.580 --> 00:23:52.440 align:middle line:84%
+And they will monitor purchases
+both online and offline
+
+00:23:52.440 --> 00:23:53.740 align:middle line:90%
+by those consumers.
+
+00:23:53.740 --> 00:23:56.250 align:middle line:84%
+So if somebody who
+saw one of these--
+
+00:23:56.250 --> 00:23:59.310 align:middle line:84%
+a Macy's ad, walks
+into the Macy's store,
+
+00:23:59.310 --> 00:24:00.163 align:middle line:90%
+they buy something.
+
+00:24:00.163 --> 00:24:01.830 align:middle line:84%
+If they use their
+credit card, Macy's is
+
+00:24:01.830 --> 00:24:03.010 align:middle line:90%
+going to know who they are.
+
+00:24:03.010 --> 00:24:04.350 align:middle line:84%
+They're going to
+record all those sales,
+
+00:24:04.350 --> 00:24:05.940 align:middle line:84%
+and they match
+those sales back up
+
+00:24:05.940 --> 00:24:09.215 align:middle line:84%
+to what you saw on the
+internet five days earlier.
+
+00:24:09.215 --> 00:24:17.730 align:middle line:90%
+
+
+00:24:17.730 --> 00:24:22.320 align:middle line:84%
+So what if things-- campaigns
+looked through like this?
+
+00:24:22.320 --> 00:24:25.830 align:middle line:84%
+You know, again, you're putting
+those relatively large ads
+
+00:24:25.830 --> 00:24:26.720 align:middle line:90%
+on there.
+
+00:24:26.720 --> 00:24:28.560 align:middle line:90%
+I don't know what the ads said.
+
+00:24:28.560 --> 00:24:33.180 align:middle line:84%
+The ads could have said,
+Macy's sale, 15% off all
+
+00:24:33.180 --> 00:24:36.360 align:middle line:84%
+purchases with this code,
+something like that.
+
+00:24:36.360 --> 00:24:39.900 align:middle line:84%
+The ad got a 0.28%
+click-through rate.
+
+00:24:39.900 --> 00:24:43.580 align:middle line:84%
+So when people were displayed
+an ad, there was a probability--
+
+00:24:43.580 --> 00:24:46.350 align:middle line:90%
+you know, 28 per thousand--
+
+00:24:46.350 --> 00:24:49.530 align:middle line:84%
+28 per 10,000 that
+they would click on it.
+
+00:24:49.530 --> 00:24:56.730 align:middle line:84%
+7.2% of those who saw at
+least one ad clicked on an ad
+
+00:24:56.730 --> 00:24:58.650 align:middle line:84%
+during the course
+of the campaign.
+
+00:24:58.650 --> 00:25:01.120 align:middle line:84%
+So they were advertising
+people many, many times.
+
+00:25:01.120 --> 00:25:03.130 align:middle line:84%
+So you can get a sense
+of the scale here.
+
+00:25:03.130 --> 00:25:05.590 align:middle line:84%
+So there were two
+waves of the campaign.
+
+00:25:05.590 --> 00:25:07.170 align:middle line:84%
+There was an early
+fall campaign.
+
+00:25:07.170 --> 00:25:09.280 align:middle line:84%
+Then there was a
+late fall campaign.
+
+00:25:09.280 --> 00:25:12.360 align:middle line:84%
+The early fall campaign
+was the main one.
+
+00:25:12.360 --> 00:25:19.280 align:middle line:84%
+So they displayed 32 million
+ads to 814,000 people.
+
+00:25:19.280 --> 00:25:23.240 align:middle line:84%
+So if you remember, the intent
+to treat was 1.2 million.
+
+00:25:23.240 --> 00:25:26.710 align:middle line:90%
+So 2/3 of the people--
+
+00:25:26.710 --> 00:25:30.580 align:middle line:84%
+1/3 of the people either never
+got on the internet or got
+
+00:25:30.580 --> 00:25:34.360 align:middle line:84%
+on the internet only rarely and
+Macy's never made it to the top
+
+00:25:34.360 --> 00:25:37.430 align:middle line:84%
+of their bid queue to
+display an ad to them.
+
+00:25:37.430 --> 00:25:40.360 align:middle line:84%
+But the people who
+were on the internet,
+
+00:25:40.360 --> 00:25:43.030 align:middle line:84%
+they saw an average-- if you
+conditional on seeing at least
+
+00:25:43.030 --> 00:25:46.900 align:middle line:84%
+one ad, you saw an
+average of 39.6 ads.
+
+00:25:46.900 --> 00:25:52.180 align:middle line:84%
+And then conditional on
+seeing at least one ad, 7%
+
+00:25:52.180 --> 00:25:54.790 align:middle line:84%
+chance that you clicked
+on an ad at some point
+
+00:25:54.790 --> 00:25:57.960 align:middle line:90%
+during the campaign.
+
+00:25:57.960 --> 00:26:00.210 align:middle line:84%
+And then the second
+campaign was a bit smaller.
+
+00:26:00.210 --> 00:26:02.610 align:middle line:84%
+You can see it's about
+1/3 ads per viewer.
+
+00:26:02.610 --> 00:26:03.980 align:middle line:90%
+13%.
+
+00:26:03.980 --> 00:26:08.510 align:middle line:84%
+Reach was only slightly
+less, 56 versus 63.
+
+00:26:08.510 --> 00:26:13.250 align:middle line:84%
+And you'll notice the
+mean ad views per viewer
+
+00:26:13.250 --> 00:26:14.690 align:middle line:90%
+isn't 39 plus 13.
+
+00:26:14.690 --> 00:26:16.190 align:middle line:84%
+It's a little bit
+less because there
+
+00:26:16.190 --> 00:26:18.440 align:middle line:84%
+are some people who only saw
+an ad in the first campaign
+
+00:26:18.440 --> 00:26:20.857 align:middle line:84%
+and some people who only saw
+an ad in the second campaign.
+
+00:26:20.857 --> 00:26:25.290 align:middle line:90%
+
+
+00:26:25.290 --> 00:26:27.840 align:middle line:90%
+OK, so what are my observations?
+
+00:26:27.840 --> 00:26:30.270 align:middle line:90%
+The first one is actually--
+
+00:26:30.270 --> 00:26:33.180 align:middle line:84%
+sometimes you'd write a paper,
+and the paper kind of fails.
+
+00:26:33.180 --> 00:26:35.220 align:middle line:84%
+And then in some sense
+they resurrect the paper.
+
+00:26:35.220 --> 00:26:37.590 align:middle line:84%
+It's like, the
+failure of this paper
+
+00:26:37.590 --> 00:26:40.840 align:middle line:84%
+is notable that, like, we
+get very imprecise estimates.
+
+00:26:40.840 --> 00:26:42.870 align:middle line:84%
+And part of their
+thing was that us
+
+00:26:42.870 --> 00:26:44.490 align:middle line:84%
+going into this maybe
+as naive people,
+
+00:26:44.490 --> 00:26:48.000 align:middle line:84%
+we thought, we have
+this massive experiment,
+
+00:26:48.000 --> 00:26:50.250 align:middle line:84%
+and we're going to
+target a million people
+
+00:26:50.250 --> 00:26:51.878 align:middle line:90%
+and send 30 million ads at them.
+
+00:26:51.878 --> 00:26:53.670 align:middle line:84%
+We will be able to get
+very precise returns
+
+00:26:53.670 --> 00:26:54.820 align:middle line:90%
+of the [INAUDIBLE] advertising.
+
+00:26:54.820 --> 00:26:56.195 align:middle line:84%
+And one of the
+first observations
+
+00:26:56.195 --> 00:26:58.740 align:middle line:84%
+is that estimating
+return on advertising
+
+00:26:58.740 --> 00:27:02.130 align:middle line:84%
+is really, really hard,
+and it's really hard even
+
+00:27:02.130 --> 00:27:05.415 align:middle line:84%
+with advertising-- with
+campaigns of this scale.
+
+00:27:05.415 --> 00:27:06.260 align:middle line:90%
+And so why is that?
+
+00:27:06.260 --> 00:27:07.750 align:middle line:90%
+Here's a simple calculation.
+
+00:27:07.750 --> 00:27:10.230 align:middle line:84%
+So first thing
+about the sales data
+
+00:27:10.230 --> 00:27:12.790 align:middle line:84%
+is that sales are
+very, very noisy.
+
+00:27:12.790 --> 00:27:15.640 align:middle line:84%
+If you think about-- like,
+what does Macy's care about?
+
+00:27:15.640 --> 00:27:18.150 align:middle line:84%
+I don't know that the store is
+Macy's, but just a store like
+
+00:27:18.150 --> 00:27:18.703 align:middle line:90%
+Macy's.
+
+00:27:18.703 --> 00:27:19.870 align:middle line:90%
+What does Macy's care about?
+
+00:27:19.870 --> 00:27:21.820 align:middle line:84%
+It's how much people
+buy from them,
+
+00:27:21.820 --> 00:27:24.970 align:middle line:84%
+and so they care about the
+dollar value of purchases.
+
+00:27:24.970 --> 00:27:28.690 align:middle line:84%
+What do purchases from
+Macy's look like in the data?
+
+00:27:28.690 --> 00:27:33.570 align:middle line:84%
+It's an awful lot of zeros
+and then a few $100 and $200
+
+00:27:33.570 --> 00:27:36.070 align:middle line:90%
+and $500 and $1,000 things.
+
+00:27:36.070 --> 00:27:39.030 align:middle line:84%
+So you get this enormous
+variance in how much
+
+00:27:39.030 --> 00:27:43.950 align:middle line:84%
+purchases people make from
+Macy's in a given week.
+
+00:27:43.950 --> 00:27:48.640 align:middle line:84%
+So their sales and
+the treatment period
+
+00:27:48.640 --> 00:27:53.890 align:middle line:84%
+average $1.89, although
+this is a fake currency
+
+00:27:53.890 --> 00:27:56.680 align:middle line:84%
+to not reveal exactly how
+much money was involved.
+
+00:27:56.680 --> 00:27:59.650 align:middle line:84%
+But they average
+$1.89 and they have
+
+00:27:59.650 --> 00:28:02.360 align:middle line:90%
+a standard deviation of $19.
+
+00:28:02.360 --> 00:28:06.820 align:middle line:84%
+So the standard deviation of
+sales to a customer in a week
+
+00:28:06.820 --> 00:28:08.950 align:middle line:90%
+or whatever is--
+
+00:28:08.950 --> 00:28:13.180 align:middle line:84%
+actually, in a two-week
+period is 10 times--
+
+00:28:13.180 --> 00:28:15.400 align:middle line:84%
+standard deviation
+is 10 times the mean
+
+00:28:15.400 --> 00:28:17.030 align:middle line:84%
+because you just
+have a lot of zeros
+
+00:28:17.030 --> 00:28:20.530 align:middle line:90%
+and then this fat upper tail.
+
+00:28:20.530 --> 00:28:22.630 align:middle line:84%
+A percent of return
+on investment
+
+00:28:22.630 --> 00:28:25.010 align:middle line:84%
+is a very small
+fraction of sales.
+
+00:28:25.010 --> 00:28:30.550 align:middle line:84%
+So this campaign cost
+about 1% of sales
+
+00:28:30.550 --> 00:28:31.956 align:middle line:90%
+to the targeted customers.
+
+00:28:31.956 --> 00:28:34.570 align:middle line:90%
+
+
+00:28:34.570 --> 00:28:38.800 align:middle line:84%
+So that says that
+they were paying--
+
+00:28:38.800 --> 00:28:40.510 align:middle line:90%
+if they were averaging--
+
+00:28:40.510 --> 00:28:44.950 align:middle line:84%
+if they were averaging $2
+worth of sales per person,
+
+00:28:44.950 --> 00:28:55.150 align:middle line:84%
+they were only averaging
+spending $0.02 on this campaign.
+
+00:28:55.150 --> 00:28:57.540 align:middle line:90%
+So if you think about the way--
+
+00:28:57.540 --> 00:28:58.680 align:middle line:90%
+like, if you're selling--
+
+00:28:58.680 --> 00:29:00.180 align:middle line:84%
+if you have a
+campaign, the campaign
+
+00:29:00.180 --> 00:29:02.850 align:middle line:84%
+is costing you 1% of
+your sales, suppose
+
+00:29:02.850 --> 00:29:10.050 align:middle line:84%
+your profit margins are 50%
+Then if your sales go up by 2%--
+
+00:29:10.050 --> 00:29:13.450 align:middle line:84%
+if your sales go up by 2%,
+then your profit goes up by 1%.
+
+00:29:13.450 --> 00:29:16.300 align:middle line:84%
+That offsets the cost of
+the advertising campaign.
+
+00:29:16.300 --> 00:29:19.990 align:middle line:84%
+So if sales go up by
+2%, they're break-even.
+
+00:29:19.990 --> 00:29:24.460 align:middle line:84%
+If sales go up by 2.2%, that's
+a 10% return on the investment.
+
+00:29:24.460 --> 00:29:29.550 align:middle line:84%
+If sales go up by 1.8%,
+that's a negative 10% return
+
+00:29:29.550 --> 00:29:30.760 align:middle line:90%
+on the investment.
+
+00:29:30.760 --> 00:29:34.680 align:middle line:84%
+So the return on the
+investment, what you need to do
+
+00:29:34.680 --> 00:29:38.820 align:middle line:84%
+is be able to estimate
+whether, did sales go up by--
+
+00:29:38.820 --> 00:29:44.730 align:middle line:84%
+you need a-- did sales-- you
+need a standard error of 0.1%
+
+00:29:44.730 --> 00:29:47.970 align:middle line:84%
+on your estimate of the effect
+on sales to be able to tell--
+
+00:29:47.970 --> 00:29:52.260 align:middle line:84%
+if you're trying to tell
+2% apart from 2.2% to 1.8%,
+
+00:29:52.260 --> 00:29:55.930 align:middle line:84%
+you want a standard
+error of 0.1%.
+
+00:29:55.930 --> 00:30:01.493 align:middle line:84%
+So you need a standard error of
+your estimate of 1/1000 of mean
+
+00:30:01.493 --> 00:30:01.993 align:middle line:90%
+sales.
+
+00:30:01.993 --> 00:30:06.260 align:middle line:90%
+
+
+00:30:06.260 --> 00:30:10.310 align:middle line:84%
+So then since the standard
+deviation is 10 times the mean,
+
+00:30:10.310 --> 00:30:13.150 align:middle line:84%
+that's 1/10,000 of a
+standard deviation.
+
+00:30:13.150 --> 00:30:15.050 align:middle line:84%
+If you think of
+variances going down
+
+00:30:15.050 --> 00:30:19.790 align:middle line:84%
+like root n, that's
+like 1 over 100 million
+
+00:30:19.790 --> 00:30:22.280 align:middle line:84%
+to get the standard
+error you want.
+
+00:30:22.280 --> 00:30:26.390 align:middle line:84%
+And so even though this campaign
+seems like this campaign had--
+
+00:30:26.390 --> 00:30:30.440 align:middle line:84%
+whether you think of it as a
+million observations of people
+
+00:30:30.440 --> 00:30:34.753 align:middle line:84%
+or you think of it as 30 million
+observations of ads, orders
+
+00:30:34.753 --> 00:30:36.170 align:middle line:84%
+of magnitude,
+you're going to need
+
+00:30:36.170 --> 00:30:38.540 align:middle line:84%
+tens of millions or
+hundreds of millions
+
+00:30:38.540 --> 00:30:41.090 align:middle line:84%
+to do something like this
+and get statistically
+
+00:30:41.090 --> 00:30:42.500 align:middle line:90%
+significant estimates.
+
+00:30:42.500 --> 00:30:45.650 align:middle line:84%
+So it's a cautionary
+tale that we
+
+00:30:45.650 --> 00:30:50.330 align:middle line:84%
+should think of estimating
+returns to advertising for goods
+
+00:30:50.330 --> 00:30:53.660 align:middle line:84%
+like this where there's an upper
+tail of sales as a very, very
+
+00:30:53.660 --> 00:30:54.685 align:middle line:90%
+difficult thing to do.
+
+00:30:54.685 --> 00:31:00.630 align:middle line:90%
+
+
+00:31:00.630 --> 00:31:01.410 align:middle line:90%
+OK.
+
+00:31:01.410 --> 00:31:05.700 align:middle line:84%
+Second observation they
+make is that this is really
+
+00:31:05.700 --> 00:31:08.220 align:middle line:84%
+another cautionary
+tale for many papers
+
+00:31:08.220 --> 00:31:13.260 align:middle line:84%
+you see that are estimating
+advertising, that--
+
+00:31:13.260 --> 00:31:17.230 align:middle line:84%
+you know, viewing advertising
+is not an exogenous treatment.
+
+00:31:17.230 --> 00:31:22.745 align:middle line:84%
+You can't just regress purchases
+on whether someone saw an ad.
+
+00:31:22.745 --> 00:31:24.370 align:middle line:84%
+Here, they have
+experimental variation.
+
+00:31:24.370 --> 00:31:26.745 align:middle line:84%
+Let's suppose you didn't have
+the experimental variation.
+
+00:31:26.745 --> 00:31:30.105 align:middle line:84%
+You try to regress purchases
+on whether people saw an ad.
+
+00:31:30.105 --> 00:31:32.580 align:middle line:84%
+That's not going to be
+a very good estimate.
+
+00:31:32.580 --> 00:31:34.775 align:middle line:84%
+So there's this--
+many firms like--
+
+00:31:34.775 --> 00:31:36.900 align:middle line:84%
+I don't know if you've ever
+thought it seems weird.
+
+00:31:36.900 --> 00:31:38.545 align:middle line:84%
+Like, you do a
+Google search and you
+
+00:31:38.545 --> 00:31:40.170 align:middle line:84%
+know you want to rent
+a car from Hertz.
+
+00:31:40.170 --> 00:31:42.030 align:middle line:84%
+And you type in
+Hertz, and then you
+
+00:31:42.030 --> 00:31:44.680 align:middle line:84%
+get-- the first thing
+is an ad for hertz.com,
+
+00:31:44.680 --> 00:31:47.020 align:middle line:84%
+and the second thing
+is just hertz.com.
+
+00:31:47.020 --> 00:31:50.093 align:middle line:84%
+And you know, Hertz is paying
+$0.50 per click for that top ad.
+
+00:31:50.093 --> 00:31:51.510 align:middle line:84%
+And you click on
+that first click,
+
+00:31:51.510 --> 00:31:55.440 align:middle line:84%
+and you're wondering, like, why
+does Hertz buy that top ad that
+
+00:31:55.440 --> 00:31:56.500 align:middle line:90%
+says hertz.com?
+
+00:31:56.500 --> 00:31:58.665 align:middle line:84%
+You know, it does make--
+it does bump Avis down
+
+00:31:58.665 --> 00:32:00.790 align:middle line:84%
+to third on the page instead
+of second on the page,
+
+00:32:00.790 --> 00:32:01.748 align:middle line:90%
+or something like that.
+
+00:32:01.748 --> 00:32:05.080 align:middle line:84%
+But you know, again, if you
+do a naive study to Hertz
+
+00:32:05.080 --> 00:32:07.600 align:middle line:84%
+and say, oh, you bought
+this ad campaign on Hertz,
+
+00:32:07.600 --> 00:32:10.660 align:middle line:84%
+and of the people who clicked
+on your ad for hertz.com,
+
+00:32:10.660 --> 00:32:13.280 align:middle line:84%
+you know, 30% of them went
+and rented a car from you.
+
+00:32:13.280 --> 00:32:17.000 align:middle line:84%
+You did fabulously well on your
+$0.50 that you paid in the fee.
+
+00:32:17.000 --> 00:32:19.510 align:middle line:84%
+Well, obviously, those people
+were clicking on the Hertz ad
+
+00:32:19.510 --> 00:32:21.010 align:middle line:84%
+because they'd
+already done a search
+
+00:32:21.010 --> 00:32:22.520 align:middle line:90%
+and typed in the word hertz.com.
+
+00:32:22.520 --> 00:32:24.590 align:middle line:84%
+They were going to
+buy from you anyway.
+
+00:32:24.590 --> 00:32:27.970 align:middle line:84%
+And so the fact that someone
+sees your ad, in that case
+
+00:32:27.970 --> 00:32:30.985 align:middle line:84%
+it's obvious, or clicks
+on your ad, that tells you
+
+00:32:30.985 --> 00:32:32.610 align:middle line:84%
+an awful lot about
+the person's intent,
+
+00:32:32.610 --> 00:32:34.780 align:middle line:84%
+and you can't view
+that ad as exogenous.
+
+00:32:34.780 --> 00:32:39.250 align:middle line:84%
+Here, they're arguing
+that this is true.
+
+00:32:39.250 --> 00:32:43.900 align:middle line:84%
+You know, even in an environment
+like their experiment where--
+
+00:32:43.900 --> 00:32:49.600 align:middle line:84%
+you know, whether someone sees
+the ad for Macy's is different--
+
+00:32:49.600 --> 00:32:52.840 align:middle line:84%
+is determined by whether they're
+on the internet to begin with,
+
+00:32:52.840 --> 00:32:54.890 align:middle line:84%
+whether by their
+browsing behavior.
+
+00:32:54.890 --> 00:32:57.205 align:middle line:84%
+If you had just done a
+naive estimate of someone--
+
+00:32:57.205 --> 00:32:59.080 align:middle line:84%
+like, you think about
+it, you do an estimate.
+
+00:32:59.080 --> 00:33:01.863 align:middle line:84%
+Even if you don't have this data
+set, you do an estimate of--
+
+00:33:01.863 --> 00:33:02.780 align:middle line:90%
+not the Hertz example.
+
+00:33:02.780 --> 00:33:06.160 align:middle line:84%
+Just when someone sees
+an ad for Hertz cars,
+
+00:33:06.160 --> 00:33:09.008 align:middle line:84%
+are they more likely to
+rent a Hertz car than not?
+
+00:33:09.008 --> 00:33:11.050 align:middle line:84%
+Yes, they're more likely
+to rent a Hertz car when
+
+00:33:11.050 --> 00:33:13.900 align:middle line:84%
+they see a Hertz rectangle ad
+just pop up on their screen
+
+00:33:13.900 --> 00:33:16.220 align:middle line:90%
+because they're on the internet.
+
+00:33:16.220 --> 00:33:18.370 align:middle line:84%
+And if they're out
+hiking with their friends
+
+00:33:18.370 --> 00:33:20.770 align:middle line:84%
+or if they're in a movie
+theater or they're in a bar,
+
+00:33:20.770 --> 00:33:22.390 align:middle line:84%
+they're never going
+to rent a Hertz
+
+00:33:22.390 --> 00:33:26.900 align:middle line:84%
+car because they're not on their
+computer or on their phone.
+
+00:33:26.900 --> 00:33:30.070 align:middle line:90%
+And so browsing isn't random.
+
+00:33:30.070 --> 00:33:33.203 align:middle line:84%
+And you can't think of, I
+put individual fixed effects
+
+00:33:33.203 --> 00:33:34.370 align:middle line:90%
+and that solves the problem.
+
+00:33:34.370 --> 00:33:37.400 align:middle line:84%
+People are different people
+at different points in time.
+
+00:33:37.400 --> 00:33:39.850 align:middle line:84%
+And there's you who's
+the browsing internet you
+
+00:33:39.850 --> 00:33:42.190 align:middle line:84%
+and there's you who's
+doing something else you.
+
+00:33:42.190 --> 00:33:43.400 align:middle line:90%
+Those are different people.
+
+00:33:43.400 --> 00:33:45.775 align:middle line:84%
+They have different preferences
+and different likelihoods
+
+00:33:45.775 --> 00:33:46.840 align:middle line:90%
+to purchase.
+
+00:33:46.840 --> 00:33:49.990 align:middle line:84%
+And then there's also
+these ad-serving engines
+
+00:33:49.990 --> 00:33:51.580 align:middle line:90%
+have all these ads available.
+
+00:33:51.580 --> 00:33:54.460 align:middle line:84%
+The untargeted ones, the content
+ones, the demographic ones,
+
+00:33:54.460 --> 00:33:55.970 align:middle line:90%
+the re-targeting ones.
+
+00:33:55.970 --> 00:33:58.310 align:middle line:84%
+All of those things can
+affect your ad views.
+
+00:33:58.310 --> 00:34:01.717 align:middle line:84%
+So whether you see an ad or
+not depends on who you are,
+
+00:34:01.717 --> 00:34:04.300 align:middle line:84%
+and it's going to be correlated
+with your likelihood of buying
+
+00:34:04.300 --> 00:34:08.199 align:middle line:84%
+something from Macy's because
+people who buy from Macy's just
+
+00:34:08.199 --> 00:34:10.120 align:middle line:90%
+are different than other people.
+
+00:34:10.120 --> 00:34:13.060 align:middle line:84%
+Usually, this makes us
+overestimate ad effectiveness.
+
+00:34:13.060 --> 00:34:14.860 align:middle line:84%
+Here, what's funny
+is that this is
+
+00:34:14.860 --> 00:34:16.690 align:middle line:84%
+an example where this
+was a campaign where
+
+00:34:16.690 --> 00:34:18.530 align:middle line:90%
+the opposite effect was true.
+
+00:34:18.530 --> 00:34:21.320 align:middle line:84%
+That effect would make you
+underestimate ad effectiveness.
+
+00:34:21.320 --> 00:34:24.980 align:middle line:84%
+And so that's why I use Macy's
+or Bloomingdale's as examples.
+
+00:34:24.980 --> 00:34:29.260 align:middle line:84%
+My model for what's going on
+here is you have a store that
+
+00:34:29.260 --> 00:34:33.639 align:middle line:84%
+sells to people who are in
+their 60s or 70s who are not
+
+00:34:33.639 --> 00:34:35.060 align:middle line:90%
+on the internet much.
+
+00:34:35.060 --> 00:34:37.540 align:middle line:84%
+And then if you
+learn that someone
+
+00:34:37.540 --> 00:34:39.760 align:middle line:84%
+is on the internet
+for hours a day,
+
+00:34:39.760 --> 00:34:42.639 align:middle line:84%
+you learn that they're not
+the typical customer of--
+
+00:34:42.639 --> 00:34:44.350 align:middle line:84%
+they're not the
+high-spending customers
+
+00:34:44.350 --> 00:34:45.590 align:middle line:90%
+of that department store.
+
+00:34:45.590 --> 00:34:47.590 align:middle line:84%
+They're people who
+are younger people who
+
+00:34:47.590 --> 00:34:51.219 align:middle line:84%
+may have one time bought
+something at Macy's, but rarely
+
+00:34:51.219 --> 00:34:54.250 align:middle line:84%
+shop at large, fancy
+department stores.
+
+00:34:54.250 --> 00:34:58.120 align:middle line:84%
+So anyway, the fact that
+you saw an ad-- like,
+
+00:34:58.120 --> 00:35:01.510 align:middle line:84%
+seeing an ad in
+the-- because they
+
+00:35:01.510 --> 00:35:04.630 align:middle line:84%
+have sales in the pre-period
+before the campaign started.
+
+00:35:04.630 --> 00:35:07.720 align:middle line:84%
+And so what they find is
+that the people who saw ads
+
+00:35:07.720 --> 00:35:09.970 align:middle line:84%
+were buying less in the
+pre-period than the people who
+
+00:35:09.970 --> 00:35:12.370 align:middle line:90%
+didn't see ads.
+
+00:35:12.370 --> 00:35:14.740 align:middle line:84%
+So here, there's a
+negative correlation.
+
+00:35:14.740 --> 00:35:20.950 align:middle line:84%
+So I guess the difference was,
+you know, $2 versus $1.81.
+
+00:35:20.950 --> 00:35:24.480 align:middle line:84%
+And it's just-- the
+viewers of the ads
+
+00:35:24.480 --> 00:35:28.200 align:middle line:84%
+are just a worse clientele than
+the nonviewers of the ads based
+
+00:35:28.200 --> 00:35:30.630 align:middle line:84%
+on probably the demographics
+of who are viewers
+
+00:35:30.630 --> 00:35:31.670 align:middle line:90%
+and who are nonviewers.
+
+00:35:31.670 --> 00:35:36.190 align:middle line:90%
+
+
+00:35:36.190 --> 00:35:38.140 align:middle line:84%
+And this is a
+retailer where I think
+
+00:35:38.140 --> 00:35:42.550 align:middle line:84%
+it was 85% of the sales in this
+campaign were in-store rather
+
+00:35:42.550 --> 00:35:43.720 align:middle line:90%
+than online.
+
+00:35:43.720 --> 00:35:46.150 align:middle line:84%
+So some people buy
+from macys.com,
+
+00:35:46.150 --> 00:35:48.325 align:middle line:90%
+but probably most people--
+
+00:35:48.325 --> 00:35:50.220 align:middle line:84%
+store sales dominate
+their online sales.
+
+00:35:50.220 --> 00:35:53.410 align:middle line:90%
+
+
+00:35:53.410 --> 00:35:54.691 align:middle line:90%
+OK.
+
+00:35:54.691 --> 00:35:59.330 align:middle line:84%
+As I said, intent to treat
+estimates are inconclusive.
+
+00:35:59.330 --> 00:36:05.290 align:middle line:84%
+So you do have this sort of
+very classic, high-quality IV
+
+00:36:05.290 --> 00:36:09.550 align:middle line:84%
+thing where you just instrument
+for seeing an ad with being
+
+00:36:09.550 --> 00:36:10.940 align:middle line:90%
+in the treatment group.
+
+00:36:10.940 --> 00:36:14.940 align:middle line:84%
+And then you look at,
+how do the sales compare?
+
+00:36:14.940 --> 00:36:17.380 align:middle line:84%
+That gives you a valid estimate
+that's not contaminated
+
+00:36:17.380 --> 00:36:18.850 align:middle line:90%
+by any of these things.
+
+00:36:18.850 --> 00:36:23.230 align:middle line:84%
+And what you find, in
+the treatment group--
+
+00:36:23.230 --> 00:36:27.063 align:middle line:84%
+in the treatment
+group, sales are--
+
+00:36:27.063 --> 00:36:28.480 align:middle line:84%
+during the treatment
+period, sales
+
+00:36:28.480 --> 00:36:30.880 align:middle line:84%
+are $1.89 in the
+treatment group,
+
+00:36:30.880 --> 00:36:33.770 align:middle line:90%
+$1.84 in the control group.
+
+00:36:33.770 --> 00:36:39.610 align:middle line:84%
+So the difference is 5.3 cents,
+standard error of 3.8 cents.
+
+00:36:39.610 --> 00:36:42.432 align:middle line:84%
+In terms of estimating
+the ROI of this campaign,
+
+00:36:42.432 --> 00:36:44.140 align:middle line:84%
+they're estimating
+that this campaign has
+
+00:36:44.140 --> 00:36:47.095 align:middle line:90%
+a return on investment of 40%.
+
+00:36:47.095 --> 00:36:49.640 align:middle line:84%
+So Macy's should be very
+happy to run this campaign.
+
+00:36:49.640 --> 00:36:53.910 align:middle line:84%
+However, it's got a return
+of 40% plus or minus 100%.
+
+00:36:53.910 --> 00:36:57.140 align:middle line:84%
+So we get this very, very
+noisy estimate of the return
+
+00:36:57.140 --> 00:36:59.640 align:middle line:84%
+to the campaign, suggesting
+that this campaign is effective,
+
+00:36:59.640 --> 00:37:03.500 align:middle line:90%
+but we really don't know.
+
+00:37:03.500 --> 00:37:06.140 align:middle line:84%
+They then also do a
+differences-in-differences
+
+00:37:06.140 --> 00:37:10.460 align:middle line:84%
+equation, taking into account
+that the pre-period treatment
+
+00:37:10.460 --> 00:37:14.510 align:middle line:84%
+control group purchases
+were not exactly identical.
+
+00:37:14.510 --> 00:37:17.870 align:middle line:84%
+You were randomizing
+1.5 million people,
+
+00:37:17.870 --> 00:37:20.660 align:middle line:84%
+but when you randomize
+1.5 million people,
+
+00:37:20.660 --> 00:37:24.530 align:middle line:84%
+they're not always exactly
+the same representative.
+
+00:37:24.530 --> 00:37:28.165 align:middle line:84%
+And they didn't randomize
+based on pre-period purchases
+
+00:37:28.165 --> 00:37:29.540 align:middle line:84%
+because they didn't
+have the data
+
+00:37:29.540 --> 00:37:30.500 align:middle line:84%
+on pre-period purchase
+at the time they
+
+00:37:30.500 --> 00:37:32.270 align:middle line:90%
+were doing the randomization.
+
+00:37:32.270 --> 00:37:34.850 align:middle line:84%
+So anyway,
+differences-in-differences
+
+00:37:34.850 --> 00:37:39.540 align:middle line:84%
+account estimate that it's
+8.3 cents plus or minus 5.9.
+
+00:37:39.540 --> 00:37:44.390 align:middle line:84%
+So even bigger return on
+investment, even noisier
+
+00:37:44.390 --> 00:37:45.240 align:middle line:90%
+estimate.
+
+00:37:45.240 --> 00:37:49.760 align:middle line:90%
+
+
+00:37:49.760 --> 00:37:51.380 align:middle line:84%
+Difference-in-difference
+estimates
+
+00:37:51.380 --> 00:37:53.900 align:middle line:84%
+also suggest that there
+may be long-run benefits
+
+00:37:53.900 --> 00:37:55.460 align:middle line:90%
+after the campaign ends.
+
+00:37:55.460 --> 00:37:59.190 align:middle line:84%
+The point estimates are you're
+making 5-point-something cents
+
+00:37:59.190 --> 00:37:59.690 align:middle line:90%
+during--
+
+00:37:59.690 --> 00:38:02.870 align:middle line:84%
+5-point-something cents
+during the treatment period.
+
+00:38:02.870 --> 00:38:07.130 align:middle line:84%
+You're making another $0.06 in
+the week after and then $0.07
+
+00:38:07.130 --> 00:38:09.740 align:middle line:90%
+total for the three weeks after.
+
+00:38:09.740 --> 00:38:11.420 align:middle line:84%
+You can certainly
+imagine that if this
+
+00:38:11.420 --> 00:38:13.400 align:middle line:84%
+is-- you're showing ads
+for a department store,
+
+00:38:13.400 --> 00:38:15.442 align:middle line:84%
+some people see the ads
+for the department store.
+
+00:38:15.442 --> 00:38:16.940 align:middle line:84%
+They decide-- that
+makes them think
+
+00:38:16.940 --> 00:38:18.440 align:middle line:84%
+about going to the
+department store,
+
+00:38:18.440 --> 00:38:21.320 align:middle line:84%
+and then they go the week after
+they've seen the ad online
+
+00:38:21.320 --> 00:38:27.470 align:middle line:84%
+or they've seen 30 ads online,
+or something like that.
+
+00:38:27.470 --> 00:38:32.023 align:middle line:84%
+The paper referred
+to the sort of
+
+00:38:32.023 --> 00:38:33.440 align:middle line:84%
+difference-in-difference
+estimates
+
+00:38:33.440 --> 00:38:36.110 align:middle line:90%
+as their preferred estimates.
+
+00:38:36.110 --> 00:38:38.412 align:middle line:84%
+I mean, my view is I think
+the difference-in-difference
+
+00:38:38.412 --> 00:38:39.870 align:middle line:84%
+estimates are
+somewhat problematic.
+
+00:38:39.870 --> 00:38:41.537 align:middle line:84%
+Again, if you take
+this view that people
+
+00:38:41.537 --> 00:38:44.240 align:middle line:84%
+are different people
+on different days,
+
+00:38:44.240 --> 00:38:47.210 align:middle line:84%
+do we really want to trust
+putting in individual fixed
+
+00:38:47.210 --> 00:38:47.710 align:middle line:90%
+effects?
+
+00:38:47.710 --> 00:38:52.830 align:middle line:84%
+Because maybe the-- maybe the
+reason that people spent less
+
+00:38:52.830 --> 00:38:55.200 align:middle line:84%
+in the pre-period in
+one group than the other
+
+00:38:55.200 --> 00:38:57.330 align:middle line:84%
+was because during
+the pre-period
+
+00:38:57.330 --> 00:39:00.240 align:middle line:84%
+they were doing things other
+than shopping and postponing
+
+00:39:00.240 --> 00:39:00.880 align:middle line:90%
+their shopping.
+
+00:39:00.880 --> 00:39:03.390 align:middle line:84%
+And then during the next period,
+they may be doing, like--
+
+00:39:03.390 --> 00:39:05.500 align:middle line:84%
+you know, there must be
+something different about them.
+
+00:39:05.500 --> 00:39:07.500 align:middle line:84%
+And the fact that they were
+doing less shopping in one
+
+00:39:07.500 --> 00:39:08.790 align:middle line:84%
+doesn't mean that they're
+going to be doing less
+
+00:39:08.790 --> 00:39:11.250 align:middle line:84%
+shopping in another or they're
+spending more time online,
+
+00:39:11.250 --> 00:39:12.840 align:middle line:90%
+one versus the other.
+
+00:39:12.840 --> 00:39:16.397 align:middle line:84%
+I find that in some sense
+the paper is very skeptical
+
+00:39:16.397 --> 00:39:18.480 align:middle line:84%
+that individual fixed
+effects are a way to control
+
+00:39:18.480 --> 00:39:19.445 align:middle line:90%
+for things like this.
+
+00:39:19.445 --> 00:39:24.800 align:middle line:90%
+
+
+00:39:24.800 --> 00:39:26.580 align:middle line:90%
+Any questions on that?
+
+00:39:26.580 --> 00:39:28.280 align:middle line:90%
+And let me say, if you--
+
+00:39:28.280 --> 00:39:30.740 align:middle line:84%
+are there other ad effectiveness
+studies that give more
+
+00:39:30.740 --> 00:39:31.940 align:middle line:90%
+significant estimates?
+
+00:39:31.940 --> 00:39:33.440 align:middle line:90%
+Yes, there are.
+
+00:39:33.440 --> 00:39:38.500 align:middle line:84%
+You know, one thing that's
+difficult here is this--
+
+00:39:38.500 --> 00:39:40.250 align:middle line:84%
+you get that factor
+of 10 that the mean is
+
+00:39:40.250 --> 00:39:44.090 align:middle line:84%
+$1.89 and the standard
+deviation is $19.
+
+00:39:44.090 --> 00:39:46.940 align:middle line:84%
+If you're doing a zero-one
+treatment where you're trying
+
+00:39:46.940 --> 00:39:49.640 align:middle line:84%
+to get people to sign up
+to buy cell phone service,
+
+00:39:49.640 --> 00:39:52.280 align:middle line:84%
+you show them an ad, they can
+click on it and buy the cell
+
+00:39:52.280 --> 00:39:55.952 align:middle line:84%
+phone service right there, at
+least that's one thing that--
+
+00:39:55.952 --> 00:39:57.410 align:middle line:84%
+you've eliminated
+at least that one
+
+00:39:57.410 --> 00:40:01.040 align:middle line:84%
+source of the standard deviation
+being 10 times the mean.
+
+00:40:01.040 --> 00:40:04.190 align:middle line:90%
+And so you can--
+
+00:40:04.190 --> 00:40:07.688 align:middle line:84%
+at least some part
+of it you can--
+
+00:40:07.688 --> 00:40:09.230 align:middle line:84%
+some part of it you
+can overcome when
+
+00:40:09.230 --> 00:40:13.187 align:middle line:84%
+you have the low variance
+in the individual-level data
+
+00:40:13.187 --> 00:40:15.770 align:middle line:84%
+rather than the high variance
+in the individual-level purchase
+
+00:40:15.770 --> 00:40:16.270 align:middle line:90%
+data.
+
+00:40:16.270 --> 00:40:19.140 align:middle line:90%
+
+
+00:40:19.140 --> 00:40:19.640 align:middle line:90%
+Yeah.
+
+00:40:19.640 --> 00:40:21.432 align:middle line:84%
+Obviously, you can also
+estimate ROI better
+
+00:40:21.432 --> 00:40:23.630 align:middle line:84%
+if the campaign
+is more expensive.
+
+00:40:23.630 --> 00:40:28.386 align:middle line:84%
+If you have someone who's
+basically spending all of it--
+
+00:40:28.386 --> 00:40:30.080 align:middle line:84%
+you know, this
+advertising campaign
+
+00:40:30.080 --> 00:40:33.118 align:middle line:84%
+is scaled to be a small fraction
+of the revenue of this store.
+
+00:40:33.118 --> 00:40:35.660 align:middle line:84%
+If you have a campaign that's
+a large fraction of the revenue
+
+00:40:35.660 --> 00:40:37.940 align:middle line:84%
+of some online
+business, that, again,
+
+00:40:37.940 --> 00:40:40.523 align:middle line:84%
+makes it easier to
+estimate the return.
+
+00:40:40.523 --> 00:40:55.050 align:middle line:90%
+
+
+00:40:55.050 --> 00:40:55.860 align:middle line:90%
+OK.
+
+00:40:55.860 --> 00:40:57.510 align:middle line:90%
+So question?
+
+00:40:57.510 --> 00:41:01.260 align:middle line:84%
+I'll go on-- I'm going to do
+another difference-in-difference
+
+00:41:01.260 --> 00:41:02.130 align:middle line:90%
+paper.
+
+00:41:02.130 --> 00:41:06.480 align:middle line:84%
+And I wanted to include
+Tobias's paper, both
+
+00:41:06.480 --> 00:41:08.970 align:middle line:84%
+because it's been great
+to have him in the course,
+
+00:41:08.970 --> 00:41:12.906 align:middle line:84%
+and because I think it's
+a really nice paper.
+
+00:41:12.906 --> 00:41:17.040 align:middle line:84%
+And I think actually,
+this is evidence
+
+00:41:17.040 --> 00:41:20.490 align:middle line:84%
+on what I think of as a very,
+very timely and important
+
+00:41:20.490 --> 00:41:23.970 align:middle line:90%
+question in online advertising.
+
+00:41:23.970 --> 00:41:29.040 align:middle line:84%
+You know, in online
+advertising, targeting is just
+
+00:41:29.040 --> 00:41:31.560 align:middle line:90%
+playing a tremendous role now.
+
+00:41:31.560 --> 00:41:33.300 align:middle line:84%
+Most ads that you
+see on the internet
+
+00:41:33.300 --> 00:41:36.210 align:middle line:90%
+are targeted somehow to you.
+
+00:41:36.210 --> 00:41:40.200 align:middle line:84%
+Targeted ads sell
+for much higher rates
+
+00:41:40.200 --> 00:41:42.210 align:middle line:90%
+than untargeted ads.
+
+00:41:42.210 --> 00:41:45.640 align:middle line:90%
+You know, it can be a--
+
+00:41:45.640 --> 00:41:48.480 align:middle line:84%
+you know, order of magnitude
+or two orders of magnitude
+
+00:41:48.480 --> 00:41:49.890 align:middle line:90%
+difference in prices.
+
+00:41:49.890 --> 00:41:54.700 align:middle line:84%
+Just if you have just a random
+web page and someone's using
+
+00:41:54.700 --> 00:41:57.080 align:middle line:84%
+privacy blocking software,
+you know nothing about them,
+
+00:41:57.080 --> 00:41:59.830 align:middle line:84%
+you're just trying to show
+them a display ad for Coca-Cola
+
+00:41:59.830 --> 00:42:02.740 align:middle line:84%
+or whatever, those ads
+cost very, very little.
+
+00:42:02.740 --> 00:42:05.140 align:middle line:84%
+Those ads following you
+around of the things that
+
+00:42:05.140 --> 00:42:06.640 align:middle line:84%
+are in your shopping
+cart somewhere,
+
+00:42:06.640 --> 00:42:09.820 align:middle line:84%
+those ads just cost, you
+know, two orders of magnitude
+
+00:42:09.820 --> 00:42:14.020 align:middle line:84%
+more than the ad that's just
+a random banner ad displayed
+
+00:42:14.020 --> 00:42:19.210 align:middle line:84%
+to anyone on the-- every
+single person on the internet.
+
+00:42:19.210 --> 00:42:22.720 align:middle line:84%
+You know, there's been
+increasing interest in privacy,
+
+00:42:22.720 --> 00:42:24.160 align:middle line:90%
+I think driven by two things.
+
+00:42:24.160 --> 00:42:27.460 align:middle line:84%
+One is there's a set of
+consumers who we know care
+
+00:42:27.460 --> 00:42:30.250 align:middle line:84%
+very much about
+privacy, or at least
+
+00:42:30.250 --> 00:42:32.450 align:middle line:84%
+say they care very
+much about privacy.
+
+00:42:32.450 --> 00:42:35.000 align:middle line:84%
+It's always one of these
+puzzles that people
+
+00:42:35.000 --> 00:42:37.000 align:middle line:84%
+say they care a tremendous
+amount about privacy,
+
+00:42:37.000 --> 00:42:39.940 align:middle line:84%
+but then they do things
+to give away their privacy
+
+00:42:39.940 --> 00:42:42.210 align:middle line:90%
+for almost nothing.
+
+00:42:42.210 --> 00:42:44.237 align:middle line:90%
+So there are many--
+
+00:42:44.237 --> 00:42:45.820 align:middle line:84%
+you probably know,
+on your phone there
+
+00:42:45.820 --> 00:42:49.255 align:middle line:84%
+are many apps that track you and
+will report back to the mother
+
+00:42:49.255 --> 00:42:50.590 align:middle line:90%
+ship everything about you.
+
+00:42:50.590 --> 00:42:54.310 align:middle line:84%
+Like, you install-- you have
+a weather app on your phone
+
+00:42:54.310 --> 00:42:57.860 align:middle line:84%
+that you look at once every
+month to look at the weather,
+
+00:42:57.860 --> 00:43:00.890 align:middle line:84%
+and that weather thing is
+actually reporting your location
+
+00:43:00.890 --> 00:43:05.800 align:middle line:84%
+back to the owner of the
+weather app every half hour
+
+00:43:05.800 --> 00:43:08.770 align:middle line:84%
+when your phone is active,
+and sending that information
+
+00:43:08.770 --> 00:43:11.138 align:middle line:84%
+to all kinds of advertisers
+who are targeting you
+
+00:43:11.138 --> 00:43:12.430 align:middle line:90%
+based on knowing where you are.
+
+00:43:12.430 --> 00:43:16.145 align:middle line:84%
+And you gave up all that
+privacy just to install some app
+
+00:43:16.145 --> 00:43:18.520 align:middle line:84%
+and then not bother to figure
+out in its privacy settings
+
+00:43:18.520 --> 00:43:20.950 align:middle line:84%
+whether it's allowed to
+send your location to people
+
+00:43:20.950 --> 00:43:24.010 align:middle line:90%
+or not when you're not using it.
+
+00:43:24.010 --> 00:43:25.390 align:middle line:90%
+People are often also--
+
+00:43:25.390 --> 00:43:28.990 align:middle line:84%
+you'll get some click on
+here for enhanced displays,
+
+00:43:28.990 --> 00:43:32.810 align:middle line:84%
+or something like that,
+and you get better service.
+
+00:43:32.810 --> 00:43:35.230 align:middle line:84%
+But anyway, people
+say they don't want
+
+00:43:35.230 --> 00:43:36.650 align:middle line:90%
+to be tracked on the internet.
+
+00:43:36.650 --> 00:43:40.480 align:middle line:84%
+And then also, there's a battle
+between different internet
+
+00:43:40.480 --> 00:43:41.710 align:middle line:90%
+firms.
+
+00:43:41.710 --> 00:43:47.770 align:middle line:84%
+So you know, Apple in particular
+probably prefers for Google
+
+00:43:47.770 --> 00:43:49.698 align:middle line:84%
+to make less money
+rather than more,
+
+00:43:49.698 --> 00:43:52.240 align:middle line:84%
+and Apple prefers for Facebook
+to make less money rather than
+
+00:43:52.240 --> 00:43:55.270 align:middle line:84%
+more, and Apple would like
+Apple to make all the money.
+
+00:43:55.270 --> 00:43:59.110 align:middle line:84%
+Apple knows that these
+other firms that may--
+
+00:43:59.110 --> 00:44:03.490 align:middle line:84%
+like, Google may be able to
+sell Android phones really cheap
+
+00:44:03.490 --> 00:44:06.080 align:middle line:84%
+because Google makes all
+the advertising revenue.
+
+00:44:06.080 --> 00:44:09.010 align:middle line:84%
+If Apple can get Google to
+make less advertising revenue,
+
+00:44:09.010 --> 00:44:11.470 align:middle line:84%
+Google may be less able to
+compete with Apple in the phone
+
+00:44:11.470 --> 00:44:12.430 align:middle line:90%
+space.
+
+00:44:12.430 --> 00:44:14.980 align:middle line:84%
+So Apple's been
+a big proponent--
+
+00:44:14.980 --> 00:44:16.580 align:middle line:84%
+maybe for the goodness
+of their heart,
+
+00:44:16.580 --> 00:44:19.120 align:middle line:84%
+they've been a big
+proponent of online privacy
+
+00:44:19.120 --> 00:44:21.310 align:middle line:84%
+and of settings
+in the iPhone that
+
+00:44:21.310 --> 00:44:24.520 align:middle line:84%
+make it harder for
+firms to track you using
+
+00:44:24.520 --> 00:44:26.560 align:middle line:90%
+data that's on your iPhone.
+
+00:44:26.560 --> 00:44:29.260 align:middle line:84%
+So there's both
+sort of Apple trying
+
+00:44:29.260 --> 00:44:32.560 align:middle line:84%
+to be the protector of privacy
+and governments, especially
+
+00:44:32.560 --> 00:44:35.170 align:middle line:84%
+in Europe, trying to be the
+protector of people's privacy
+
+00:44:35.170 --> 00:44:37.635 align:middle line:84%
+and make it harder
+to track people.
+
+00:44:37.635 --> 00:44:40.315 align:middle line:84%
+And you know, it's
+a big question of,
+
+00:44:40.315 --> 00:44:44.530 align:middle line:84%
+what is going to happen if
+it does get harder and harder
+
+00:44:44.530 --> 00:44:47.110 align:middle line:84%
+to track consumers
+on the internet?
+
+00:44:47.110 --> 00:44:50.540 align:middle line:84%
+One is you could have a real
+decline in ad-supported content.
+
+00:44:50.540 --> 00:44:53.110 align:middle line:84%
+It may be that websites-- you
+know, obviously, The New York
+
+00:44:53.110 --> 00:44:54.550 align:middle line:90%
+Times does have a paywall.
+
+00:44:54.550 --> 00:44:58.000 align:middle line:84%
+But it could be that many online
+newspapers that relied largely
+
+00:44:58.000 --> 00:44:59.770 align:middle line:84%
+on advertising, if
+they can't track
+
+00:44:59.770 --> 00:45:01.938 align:middle line:84%
+the consumers and
+their advertisements,
+
+00:45:01.938 --> 00:45:03.730 align:middle line:84%
+instead of being able
+to show you the shoes
+
+00:45:03.730 --> 00:45:06.400 align:middle line:84%
+that you put in your shopping
+cart, all they can do
+
+00:45:06.400 --> 00:45:08.300 align:middle line:90%
+is show you an ad for Coca-Cola.
+
+00:45:08.300 --> 00:45:11.560 align:middle line:84%
+It may be they don't make enough
+money to continue to survive,
+
+00:45:11.560 --> 00:45:14.710 align:middle line:84%
+and we may have a big decline
+in ad-supported content
+
+00:45:14.710 --> 00:45:17.890 align:middle line:84%
+relative to
+non-ad-supported content.
+
+00:45:17.890 --> 00:45:20.050 align:middle line:84%
+There could be
+twisting of what's
+
+00:45:20.050 --> 00:45:21.290 align:middle line:90%
+available on the internet.
+
+00:45:21.290 --> 00:45:24.790 align:middle line:84%
+Like, you don't-- if
+you know exactly--
+
+00:45:24.790 --> 00:45:27.640 align:middle line:84%
+like, if you know that
+someone is reading a,
+
+00:45:27.640 --> 00:45:32.350 align:middle line:84%
+you know, vintage
+sneaker website well,
+
+00:45:32.350 --> 00:45:34.885 align:middle line:84%
+you know what to advertise
+to them if they're browsing
+
+00:45:34.885 --> 00:45:36.250 align:middle line:90%
+a vintage sneaker website.
+
+00:45:36.250 --> 00:45:40.060 align:middle line:84%
+Whereas if they're just browsing
+a news page or boston.com,
+
+00:45:40.060 --> 00:45:42.020 align:middle line:84%
+you have no idea what
+to advertise to them.
+
+00:45:42.020 --> 00:45:45.760 align:middle line:84%
+So it could be that we get
+this twisting of content
+
+00:45:45.760 --> 00:45:48.632 align:middle line:84%
+away from places that
+need targeting ad
+
+00:45:48.632 --> 00:45:50.590 align:middle line:84%
+based on exogenous
+information and the ones who
+
+00:45:50.590 --> 00:45:54.110 align:middle line:84%
+can target based on the
+content of their page.
+
+00:45:54.110 --> 00:45:55.790 align:middle line:84%
+You could also
+imagine this is going
+
+00:45:55.790 --> 00:45:58.520 align:middle line:84%
+to increase the power of
+large versus small firms
+
+00:45:58.520 --> 00:46:02.270 align:middle line:84%
+because people are often
+logged into Facebook
+
+00:46:02.270 --> 00:46:05.340 align:middle line:84%
+or logged into
+Google all the time.
+
+00:46:05.340 --> 00:46:09.500 align:middle line:84%
+Therefore, Google can advertise
+to you in a targeted way,
+
+00:46:09.500 --> 00:46:11.300 align:middle line:84%
+even if you're turning
+off your cookies
+
+00:46:11.300 --> 00:46:14.010 align:middle line:84%
+for many other things because
+you're still logged into Google.
+
+00:46:14.010 --> 00:46:18.950 align:middle line:84%
+And so it could be that blocking
+other people from tracking then
+
+00:46:18.950 --> 00:46:21.530 align:middle line:84%
+just makes Google and
+Facebook all the more dominant
+
+00:46:21.530 --> 00:46:23.613 align:middle line:84%
+because they're the ones
+that you're always logged
+
+00:46:23.613 --> 00:46:26.360 align:middle line:84%
+into and they can target
+you when others can't.
+
+00:46:26.360 --> 00:46:29.120 align:middle line:84%
+Anyway, so most important
+regulation on this thing
+
+00:46:29.120 --> 00:46:34.290 align:middle line:84%
+is EU's General Data
+Protection Regulation, GDPR.
+
+00:46:34.290 --> 00:46:36.960 align:middle line:90%
+It was adopted in April 2016.
+
+00:46:36.960 --> 00:46:39.565 align:middle line:90%
+It went into effect May 2018.
+
+00:46:39.565 --> 00:46:43.850 align:middle line:84%
+And GDPR says that websites
+cannot track European consumers
+
+00:46:43.850 --> 00:46:48.110 align:middle line:90%
+without explicit opt-in consent.
+
+00:46:48.110 --> 00:46:50.160 align:middle line:84%
+So I guess we don't have
+many Europeans here.
+
+00:46:50.160 --> 00:46:52.880 align:middle line:90%
+So if you've--
+
+00:46:52.880 --> 00:46:56.250 align:middle line:84%
+I mean, for me, I know it was a
+shock going to Europe in 2018,
+
+00:46:56.250 --> 00:46:59.040 align:middle line:84%
+and just every single
+website you went to--
+
+00:46:59.040 --> 00:47:01.650 align:middle line:84%
+and when you had a slow home
+internet connection, which
+
+00:47:01.650 --> 00:47:03.693 align:middle line:84%
+I did, every website
+you come, you're just
+
+00:47:03.693 --> 00:47:04.860 align:middle line:90%
+trying to look at a website.
+
+00:47:04.860 --> 00:47:06.420 align:middle line:84%
+And immediately
+pops up this sort
+
+00:47:06.420 --> 00:47:09.810 align:middle line:84%
+of informed consent thing where
+you have to give your consent
+
+00:47:09.810 --> 00:47:13.710 align:middle line:84%
+and click either yes, I
+consent, or click on the show
+
+00:47:13.710 --> 00:47:16.170 align:middle line:84%
+me the privacy settings,
+and then click on--
+
+00:47:16.170 --> 00:47:18.960 align:middle line:84%
+if you show the privacy settings
+and then click on the minimal,
+
+00:47:18.960 --> 00:47:21.130 align:middle line:84%
+automatically the default
+is you get the minimal--
+
+00:47:21.130 --> 00:47:24.190 align:middle line:84%
+only the strictly necessary
+cookies are enabled.
+
+00:47:24.190 --> 00:47:27.210 align:middle line:84%
+But every European website
+has this pop-up thing
+
+00:47:27.210 --> 00:47:30.657 align:middle line:84%
+that you have to answer the
+very first time you visit it.
+
+00:47:30.657 --> 00:47:31.740 align:middle line:90%
+Maybe you're used to this.
+
+00:47:31.740 --> 00:47:33.930 align:middle line:84%
+Like, if you go to
+look at any World Cup
+
+00:47:33.930 --> 00:47:36.690 align:middle line:84%
+website or the guardian.com,
+you always get this pop-up thing
+
+00:47:36.690 --> 00:47:37.860 align:middle line:90%
+that you have to get rid of.
+
+00:47:37.860 --> 00:47:40.180 align:middle line:90%
+Anyway, that's GDPR.
+
+00:47:40.180 --> 00:47:44.430 align:middle line:84%
+It went into effect
+on one date, and not
+
+00:47:44.430 --> 00:47:46.570 align:middle line:84%
+everybody complied
+on the first date.
+
+00:47:46.570 --> 00:47:48.690 align:middle line:84%
+But you know, there
+were very large fines
+
+00:47:48.690 --> 00:47:51.360 align:middle line:84%
+for not complying with GDPR,
+so many, many firms did
+
+00:47:51.360 --> 00:47:53.760 align:middle line:90%
+comply pretty much right away.
+
+00:47:53.760 --> 00:47:57.950 align:middle line:84%
+And then what Aridor, Che,
+and Salz are trying to do
+
+00:47:57.950 --> 00:48:00.950 align:middle line:84%
+is use a
+difference-in-difference design
+
+00:48:00.950 --> 00:48:04.890 align:middle line:84%
+to explore a number
+of things about GDPR.
+
+00:48:04.890 --> 00:48:08.480 align:middle line:84%
+The first basic question
+is, how are consumers
+
+00:48:08.480 --> 00:48:11.512 align:middle line:84%
+going to react to these
+pop-up, opt-out things?
+
+00:48:11.512 --> 00:48:13.970 align:middle line:84%
+How many consumers are going
+to opt out of data collection,
+
+00:48:13.970 --> 00:48:15.512 align:middle line:84%
+and how many consumers
+are just going
+
+00:48:15.512 --> 00:48:18.900 align:middle line:84%
+to get used to clicking
+yes, yes, yes, yes, yes?
+
+00:48:18.900 --> 00:48:20.930 align:middle line:84%
+Because it is the
+single quickest way
+
+00:48:20.930 --> 00:48:27.230 align:middle line:84%
+to get rid of the thing is
+an accept all cookies box.
+
+00:48:27.230 --> 00:48:29.540 align:middle line:84%
+Second question is
+then, how does GDPR
+
+00:48:29.540 --> 00:48:33.030 align:middle line:84%
+change the composition of
+consumers who are observed?
+
+00:48:33.030 --> 00:48:35.370 align:middle line:84%
+You know, the consumers are
+not opting out at random.
+
+00:48:35.370 --> 00:48:38.330 align:middle line:84%
+It's not like you're losing
+x percent of consumers chosen
+
+00:48:38.330 --> 00:48:40.950 align:middle line:84%
+equally likely, You're losing
+people who want to opt out,
+
+00:48:40.950 --> 00:48:42.408 align:middle line:84%
+and so the people
+who opt out could
+
+00:48:42.408 --> 00:48:45.320 align:middle line:84%
+be different from the
+firms that opt in.
+
+00:48:45.320 --> 00:48:48.140 align:middle line:84%
+And then in some sense,
+it's one and two together
+
+00:48:48.140 --> 00:48:50.360 align:middle line:84%
+that are determining
+how GDPR is going
+
+00:48:50.360 --> 00:48:53.690 align:middle line:84%
+to impact firms that do rely on
+consumer data for their business
+
+00:48:53.690 --> 00:48:54.450 align:middle line:90%
+model.
+
+00:48:54.450 --> 00:48:56.100 align:middle line:84%
+And they have this
+interesting idea
+
+00:48:56.100 --> 00:49:01.440 align:middle line:84%
+that it's possible that
+GDPR could even help firms
+
+00:49:01.440 --> 00:49:04.170 align:middle line:84%
+because you're getting
+rid of customers
+
+00:49:04.170 --> 00:49:05.980 align:middle line:90%
+who don't want to be tracked.
+
+00:49:05.980 --> 00:49:08.880 align:middle line:84%
+It may be that customers who
+don't want to be tracked just
+
+00:49:08.880 --> 00:49:10.298 align:middle line:84%
+naturally buy less,
+or it could be
+
+00:49:10.298 --> 00:49:12.090 align:middle line:84%
+that consumers who
+don't want to be tracked
+
+00:49:12.090 --> 00:49:13.980 align:middle line:84%
+are going to be
+screwing with your data
+
+00:49:13.980 --> 00:49:16.920 align:middle line:84%
+by eliminating their cookies
+or using pop-up blockers
+
+00:49:16.920 --> 00:49:18.250 align:middle line:90%
+and using other things.
+
+00:49:18.250 --> 00:49:19.980 align:middle line:84%
+And once you get
+those people who
+
+00:49:19.980 --> 00:49:24.690 align:middle line:84%
+are obfuscating their presence
+and screwing up your statistics,
+
+00:49:24.690 --> 00:49:26.310 align:middle line:84%
+the statistics on
+the remaining people
+
+00:49:26.310 --> 00:49:28.540 align:middle line:84%
+are cleaner and
+easier to analyze.
+
+00:49:28.540 --> 00:49:29.730 align:middle line:90%
+And it could be that--
+
+00:49:29.730 --> 00:49:31.380 align:middle line:84%
+at least that could
+offset part of what
+
+00:49:31.380 --> 00:49:35.310 align:middle line:84%
+you lose by not being able
+to track people anymore.
+
+00:49:35.310 --> 00:49:36.570 align:middle line:90%
+So they have this--
+
+00:49:36.570 --> 00:49:39.255 align:middle line:84%
+again, it's a simple
+difference-in-difference
+
+00:49:39.255 --> 00:49:41.130 align:middle line:84%
+estimate, but it's a
+difference-in-difference
+
+00:49:41.130 --> 00:49:45.570 align:middle line:84%
+estimate exploiting, again, a
+very detailed relationship with
+
+00:49:45.570 --> 00:49:46.770 align:middle line:90%
+some firm that does--
+
+00:49:46.770 --> 00:49:48.670 align:middle line:90%
+that operates online.
+
+00:49:48.670 --> 00:49:51.240 align:middle line:84%
+I had not been aware
+that such a firm existed,
+
+00:49:51.240 --> 00:49:55.950 align:middle line:84%
+but here's my attempt to infer,
+like, what does this firm do?
+
+00:49:55.950 --> 00:50:00.240 align:middle line:84%
+So this is an intermediary
+that contracts, they say,
+
+00:50:00.240 --> 00:50:04.660 align:middle line:84%
+with almost all top EU
+and US travel sites.
+
+00:50:04.660 --> 00:50:08.130 align:middle line:84%
+So that means it's a very large
+behind-the-scenes firm that
+
+00:50:08.130 --> 00:50:11.370 align:middle line:84%
+has contracts with pretty much
+everybody, which I would not
+
+00:50:11.370 --> 00:50:12.700 align:middle line:90%
+have guessed existed.
+
+00:50:12.700 --> 00:50:14.100 align:middle line:90%
+And what does it do?
+
+00:50:14.100 --> 00:50:16.560 align:middle line:84%
+When you enter a query on
+one of the sites-- like,
+
+00:50:16.560 --> 00:50:19.013 align:middle line:84%
+I just went yesterday
+to kayak.com
+
+00:50:19.013 --> 00:50:20.430 align:middle line:84%
+and typed in a
+search for a flight
+
+00:50:20.430 --> 00:50:22.213 align:middle line:90%
+from Boston to Orange County.
+
+00:50:22.213 --> 00:50:24.630 align:middle line:84%
+And to try to look like somebody
+who wasn't actually going
+
+00:50:24.630 --> 00:50:27.460 align:middle line:84%
+to buy the flight, I didn't
+change the default dates.
+
+00:50:27.460 --> 00:50:30.750 align:middle line:84%
+I just clicked Boston to
+Orange County, click Search,
+
+00:50:30.750 --> 00:50:33.518 align:middle line:84%
+because I was trying to signal
+to Kayak that I wasn't actually
+
+00:50:33.518 --> 00:50:34.810 align:middle line:90%
+going to buy this plane ticket.
+
+00:50:34.810 --> 00:50:36.935 align:middle line:84%
+And I figured that if
+you ask, how is someone
+
+00:50:36.935 --> 00:50:38.310 align:middle line:84%
+going to not buy
+the plane ticket
+
+00:50:38.310 --> 00:50:41.250 align:middle line:84%
+they just searched for, the
+fact that they left the default
+
+00:50:41.250 --> 00:50:43.620 align:middle line:84%
+dates on there of
+January 3 to January 10
+
+00:50:43.620 --> 00:50:45.750 align:middle line:84%
+is probably a good sign
+that they're not buying.
+
+00:50:45.750 --> 00:50:48.340 align:middle line:90%
+Anyway, so what did Kayak do?
+
+00:50:48.340 --> 00:50:49.980 align:middle line:90%
+It popped up as--
+
+00:50:49.980 --> 00:50:51.780 align:middle line:84%
+it did give me
+the flight prices,
+
+00:50:51.780 --> 00:50:56.500 align:middle line:84%
+but it popped up as
+the very first ad here
+
+00:50:56.500 --> 00:50:58.083 align:middle line:90%
+above all the flight prices.
+
+00:50:58.083 --> 00:50:59.500 align:middle line:84%
+I don't know if
+you can read this.
+
+00:50:59.500 --> 00:51:01.630 align:middle line:90%
+It says aa.com ad.
+
+00:51:01.630 --> 00:51:07.120 align:middle line:84%
+And this says, you know, Your
+next adventure's a flight away,
+
+00:51:07.120 --> 00:51:10.430 align:middle line:84%
+$371 American Airlines,
+quote, "View Deal."
+
+00:51:10.430 --> 00:51:12.430 align:middle line:84%
+And this is going to take
+me away from the Kayak
+
+00:51:12.430 --> 00:51:14.950 align:middle line:84%
+website to the American
+Airlines website
+
+00:51:14.950 --> 00:51:17.320 align:middle line:84%
+because the description
+in the paper of what
+
+00:51:17.320 --> 00:51:19.660 align:middle line:84%
+this intermediary
+does is any time
+
+00:51:19.660 --> 00:51:24.970 align:middle line:84%
+anyone visits a travel website,
+it has cookies on them.
+
+00:51:24.970 --> 00:51:26.260 align:middle line:90%
+It analyzes their behavior.
+
+00:51:26.260 --> 00:51:27.760 align:middle line:84%
+It does a machine
+learning algorithm
+
+00:51:27.760 --> 00:51:29.218 align:middle line:84%
+to figure out
+whether they're going
+
+00:51:29.218 --> 00:51:31.993 align:middle line:84%
+to buy from the website
+they're currently searching on.
+
+00:51:31.993 --> 00:51:33.910 align:middle line:84%
+If it thinks there's a
+low probability they're
+
+00:51:33.910 --> 00:51:36.370 align:middle line:84%
+going to buy in the website
+they're currently searching on,
+
+00:51:36.370 --> 00:51:39.490 align:middle line:84%
+it runs an auction and
+auctions off the ability
+
+00:51:39.490 --> 00:51:43.270 align:middle line:84%
+to show a display ad to them,
+to all the other firms that it
+
+00:51:43.270 --> 00:51:44.150 align:middle line:90%
+serves.
+
+00:51:44.150 --> 00:51:45.730 align:middle line:84%
+And then those
+other firms can bid
+
+00:51:45.730 --> 00:51:48.160 align:middle line:84%
+for this consumer who
+is probably not going
+
+00:51:48.160 --> 00:51:49.960 align:middle line:90%
+to buy where they are now.
+
+00:51:49.960 --> 00:51:52.000 align:middle line:84%
+And so in this case-- so
+what I think it did was
+
+00:51:52.000 --> 00:51:54.380 align:middle line:84%
+it said, Glenn is
+not actually going
+
+00:51:54.380 --> 00:51:56.960 align:middle line:84%
+to purchase a ticket on
+Kayak, so let's show him
+
+00:51:56.960 --> 00:51:59.000 align:middle line:84%
+an ad for something
+he might want
+
+00:51:59.000 --> 00:52:02.370 align:middle line:84%
+to buy if he goes to the
+American Airlines website.
+
+00:52:02.370 --> 00:52:04.130 align:middle line:84%
+American is the biggest
+carrier, I think,
+
+00:52:04.130 --> 00:52:05.760 align:middle line:90%
+in Orange County airport.
+
+00:52:05.760 --> 00:52:07.520 align:middle line:90%
+He may be trying to buy--
+
+00:52:07.520 --> 00:52:09.740 align:middle line:84%
+it may be that
+American Airlines is
+
+00:52:09.740 --> 00:52:12.350 align:middle line:84%
+willing to pay $0.09 to
+have me visit their website
+
+00:52:12.350 --> 00:52:15.530 align:middle line:90%
+or something like that, OK?
+
+00:52:15.530 --> 00:52:17.660 align:middle line:84%
+Anyway, so what
+they have is they
+
+00:52:17.660 --> 00:52:21.180 align:middle line:90%
+have access to clickstream data.
+
+00:52:21.180 --> 00:52:24.920 align:middle line:84%
+So they have, in some
+sense, access to every--
+
+00:52:24.920 --> 00:52:33.250 align:middle line:84%
+you know, Glenn Ellison typed
+in at 10:13 PM last night,
+
+00:52:33.250 --> 00:52:35.760 align:middle line:90%
+search Boston-Santa Ana.
+
+00:52:35.760 --> 00:52:37.530 align:middle line:90%
+We conducted this auction.
+
+00:52:37.530 --> 00:52:39.100 align:middle line:84%
+American Airlines
+won the auction.
+
+00:52:39.100 --> 00:52:39.958 align:middle line:90%
+They bid $0.09.
+
+00:52:39.958 --> 00:52:42.250 align:middle line:84%
+He either clicked on the
+American website or he didn't.
+
+00:52:42.250 --> 00:52:43.833 align:middle line:84%
+If he clicked on the
+American website,
+
+00:52:43.833 --> 00:52:46.380 align:middle line:84%
+did he buy from
+American Airlines?
+
+00:52:46.380 --> 00:52:49.470 align:middle line:84%
+So they have the whole
+clickstream of everything
+
+00:52:49.470 --> 00:52:50.770 align:middle line:90%
+that I was doing.
+
+00:52:50.770 --> 00:52:55.180 align:middle line:84%
+They mostly aggregated to the
+website country week level,
+
+00:52:55.180 --> 00:52:58.710 align:middle line:84%
+so it's mostly going to be
+comparing customers in France
+
+00:52:58.710 --> 00:53:05.745 align:middle line:84%
+on the first week of GDPR
+on kayak.com to customers,
+
+00:53:05.745 --> 00:53:08.940 align:middle line:84%
+week before GDPR,
+kayak.com, first customers.
+
+00:53:08.940 --> 00:53:12.700 align:middle line:90%
+
+
+00:53:12.700 --> 00:53:15.250 align:middle line:84%
+Difference-in-difference is
+it's a treatment control design.
+
+00:53:15.250 --> 00:53:17.130 align:middle line:84%
+They have five
+treatment countries.
+
+00:53:17.130 --> 00:53:19.530 align:middle line:84%
+UK, France, Germany,
+Italy, Spain.
+
+00:53:19.530 --> 00:53:21.780 align:middle line:84%
+And then they have
+three control countries.
+
+00:53:21.780 --> 00:53:23.340 align:middle line:90%
+US, Canada, Russia.
+
+00:53:23.340 --> 00:53:26.100 align:middle line:84%
+And depending on which website
+it is, some of the websites
+
+00:53:26.100 --> 00:53:30.240 align:middle line:84%
+are active in different
+subsets of these countries,
+
+00:53:30.240 --> 00:53:31.980 align:middle line:84%
+but enough of them
+have activities
+
+00:53:31.980 --> 00:53:37.890 align:middle line:84%
+both in treatment countries and
+either Russia or North America
+
+00:53:37.890 --> 00:53:40.770 align:middle line:84%
+that they can then
+do regressions
+
+00:53:40.770 --> 00:53:43.890 align:middle line:84%
+that have website fixed
+effects and country fixed
+
+00:53:43.890 --> 00:53:46.110 align:middle line:84%
+effects and time
+fixed effects and try
+
+00:53:46.110 --> 00:53:48.960 align:middle line:90%
+to analyze the effects of GDPR.
+
+00:53:48.960 --> 00:53:51.900 align:middle line:84%
+They have some nice
+simple pictures here,
+
+00:53:51.900 --> 00:53:57.600 align:middle line:84%
+showing you that GDPR
+is having an effect.
+
+00:53:57.600 --> 00:54:00.900 align:middle line:84%
+So this is an example
+graphing the number of--
+
+00:54:00.900 --> 00:54:06.180 align:middle line:84%
+and the way GDPR works, if the
+GDPR pop-up shows up and then
+
+00:54:06.180 --> 00:54:11.790 align:middle line:84%
+you click Don't Track Me,
+this company never saw you
+
+00:54:11.790 --> 00:54:13.750 align:middle line:90%
+because it's like Kayak--
+
+00:54:13.750 --> 00:54:17.340 align:middle line:90%
+someone did the search on Kayak.
+
+00:54:17.340 --> 00:54:20.950 align:middle line:84%
+Kayak popped up the
+track me or not box.
+
+00:54:20.950 --> 00:54:22.660 align:middle line:90%
+They click Do Not Track Me.
+
+00:54:22.660 --> 00:54:25.620 align:middle line:84%
+And then once they
+click Do Not Track Me,
+
+00:54:25.620 --> 00:54:28.960 align:middle line:84%
+they can't send the
+query to whatever
+
+00:54:28.960 --> 00:54:30.860 align:middle line:84%
+this behind-the-scenes
+intermediary is.
+
+00:54:30.860 --> 00:54:34.540 align:middle line:84%
+The behind [INAUDIBLE] never
+get any message whatsoever.
+
+00:54:34.540 --> 00:54:37.990 align:middle line:84%
+And they specify that if the
+behind-the-scenes intermediary
+
+00:54:37.990 --> 00:54:40.710 align:middle line:84%
+never gets a message, it's
+basically this box isn't here,
+
+00:54:40.710 --> 00:54:43.210 align:middle line:84%
+and just the lowest price flight
+would have been in this box
+
+00:54:43.210 --> 00:54:45.670 align:middle line:90%
+instead.
+
+00:54:45.670 --> 00:54:48.850 align:middle line:84%
+Anyway, so what they
+track is they recognize
+
+00:54:48.850 --> 00:54:54.940 align:middle line:84%
+that GDPR is in effect by the
+number of cookies that they--
+
+00:54:54.940 --> 00:54:59.470 align:middle line:84%
+the number of requests that
+they get from Kayak drops.
+
+00:54:59.470 --> 00:55:03.070 align:middle line:84%
+And what they show here
+this is like the raw data
+
+00:55:03.070 --> 00:55:05.295 align:middle line:84%
+behind the
+differences-in-differences.
+
+00:55:05.295 --> 00:55:10.550 align:middle line:84%
+This is the-- this
+is the searches
+
+00:55:10.550 --> 00:55:14.443 align:middle line:84%
+that this intermediary's being
+told about in the US and Canada,
+
+00:55:14.443 --> 00:55:15.860 align:middle line:84%
+and this is the
+number of searches
+
+00:55:15.860 --> 00:55:18.500 align:middle line:84%
+that they're being told about
+in each of the EU countries.
+
+00:55:18.500 --> 00:55:22.040 align:middle line:84%
+And you can see that immediately
+or perhaps even starting
+
+00:55:22.040 --> 00:55:26.930 align:middle line:84%
+the week before, there's
+this big drop-off in searches
+
+00:55:26.930 --> 00:55:31.650 align:middle line:84%
+that they're being told about
+in all the EU countries,
+
+00:55:31.650 --> 00:55:34.040 align:middle line:84%
+and then there's not a
+corresponding drop-off
+
+00:55:34.040 --> 00:55:35.420 align:middle line:90%
+in the US and Canada.
+
+00:55:35.420 --> 00:55:37.860 align:middle line:84%
+So that indicates that
+GDPR is having an effect.
+
+00:55:37.860 --> 00:55:41.450 align:middle line:84%
+They also note in the data that
+there are other firms who you
+
+00:55:41.450 --> 00:55:43.760 align:middle line:84%
+suspect-- and in this case,
+they were able to verify--
+
+00:55:43.760 --> 00:55:46.620 align:middle line:84%
+did not actually comply
+with GDPR right away.
+
+00:55:46.620 --> 00:55:49.070 align:middle line:84%
+And so in this
+case, the searches
+
+00:55:49.070 --> 00:55:52.100 align:middle line:84%
+in one EU country and
+the one non-EU country
+
+00:55:52.100 --> 00:55:54.650 align:middle line:84%
+that this website
+served pretty much just
+
+00:55:54.650 --> 00:55:56.810 align:middle line:84%
+continued on the same
+path across the line
+
+00:55:56.810 --> 00:55:59.220 align:middle line:90%
+and didn't have a big drop-off.
+
+00:55:59.220 --> 00:56:01.040 align:middle line:84%
+So somehow this
+website, they were
+
+00:56:01.040 --> 00:56:03.740 align:middle line:84%
+able to then go back and
+verify that website was not
+
+00:56:03.740 --> 00:56:05.620 align:middle line:90%
+GDPR-compliant right away.
+
+00:56:05.620 --> 00:56:07.370 align:middle line:84%
+And it took later to
+come into compliance,
+
+00:56:07.370 --> 00:56:10.530 align:middle line:90%
+whereas this one did.
+
+00:56:10.530 --> 00:56:14.760 align:middle line:84%
+But when they do, it's
+immediately apparent
+
+00:56:14.760 --> 00:56:16.620 align:middle line:84%
+that the regulations
+are having an effect,
+
+00:56:16.620 --> 00:56:20.310 align:middle line:84%
+and they're seeing fewer
+customers from those websites.
+
+00:56:20.310 --> 00:56:23.460 align:middle line:84%
+And obviously, it could be
+that consumers go to Kayak
+
+00:56:23.460 --> 00:56:25.162 align:middle line:84%
+and do get annoyed
+by the pop-up boxes
+
+00:56:25.162 --> 00:56:26.620 align:middle line:84%
+and never actually
+do their search,
+
+00:56:26.620 --> 00:56:30.795 align:middle line:84%
+but this is-- fewer
+people are doing a search
+
+00:56:30.795 --> 00:56:33.420 align:middle line:84%
+and then having the intermediary
+being told about their search,
+
+00:56:33.420 --> 00:56:34.920 align:middle line:84%
+whether it's they're
+never doing the search
+
+00:56:34.920 --> 00:56:36.570 align:middle line:84%
+or they do the search,
+but they do the search
+
+00:56:36.570 --> 00:56:37.820 align:middle line:90%
+and they're not being tracked.
+
+00:56:37.820 --> 00:56:40.970 align:middle line:90%
+
+
+00:56:40.970 --> 00:56:43.130 align:middle line:90%
+So what are the magnitudes?
+
+00:56:43.130 --> 00:56:47.270 align:middle line:84%
+First one is that while people
+talk a lot about privacy,
+
+00:56:47.270 --> 00:56:49.370 align:middle line:84%
+it seems like most
+consumers just
+
+00:56:49.370 --> 00:56:51.920 align:middle line:84%
+go with the-- just get
+that thing off my screen
+
+00:56:51.920 --> 00:56:55.010 align:middle line:84%
+by just saying, yeah,
+fine, I accept all cookies.
+
+00:56:55.010 --> 00:56:57.350 align:middle line:84%
+And I know I accept all
+cookies all the time
+
+00:56:57.350 --> 00:56:59.090 align:middle line:90%
+on European websites.
+
+00:56:59.090 --> 00:57:05.210 align:middle line:84%
+And what they find is that
+the log of unique cookies
+
+00:57:05.210 --> 00:57:06.710 align:middle line:90%
+goes down by 12%.
+
+00:57:06.710 --> 00:57:10.550 align:middle line:84%
+Log of recorded searches
+goes down by 11%.
+
+00:57:10.550 --> 00:57:15.380 align:middle line:84%
+So there is this big drop-off
+right at the same time that
+
+00:57:15.380 --> 00:57:15.980 align:middle line:90%
+people--
+
+00:57:15.980 --> 00:57:17.755 align:middle line:84%
+appears to be people
+not giving consent.
+
+00:57:17.755 --> 00:57:20.360 align:middle line:90%
+
+
+00:57:20.360 --> 00:57:22.930 align:middle line:90%
+Also, interesting here is the--
+
+00:57:22.930 --> 00:57:25.670 align:middle line:90%
+
+
+00:57:25.670 --> 00:57:28.790 align:middle line:84%
+they sort of--
+every consumer who
+
+00:57:28.790 --> 00:57:31.760 align:middle line:84%
+they are allowed to track,
+every consumer they are allowed
+
+00:57:31.760 --> 00:57:33.230 align:middle line:84%
+to track, they
+know how many times
+
+00:57:33.230 --> 00:57:35.820 align:middle line:84%
+they've seen that consumer
+search in the past
+
+00:57:35.820 --> 00:57:37.820 align:middle line:84%
+and how many searches are
+recorded on the cookie
+
+00:57:37.820 --> 00:57:41.000 align:middle line:84%
+that they're putting
+on that machine.
+
+00:57:41.000 --> 00:57:44.712 align:middle line:84%
+And so what they show
+is a change in the--
+
+00:57:44.712 --> 00:57:46.670 align:middle line:84%
+so there's this distribution
+of, how many times
+
+00:57:46.670 --> 00:57:48.810 align:middle line:90%
+have you seen a consumer?
+
+00:57:48.810 --> 00:57:51.170 align:middle line:84%
+And it's a histogram that's
+like a lot of the consumers
+
+00:57:51.170 --> 00:57:53.990 align:middle line:84%
+you've seen exactly once,
+and then some consumers
+
+00:57:53.990 --> 00:57:56.660 align:middle line:84%
+you've seen twice, and then many
+consumers you've seen three,
+
+00:57:56.660 --> 00:57:59.400 align:middle line:90%
+four, or five times, whatever.
+
+00:57:59.400 --> 00:58:01.760 align:middle line:84%
+So you have this histogram
+of how many times
+
+00:58:01.760 --> 00:58:05.190 align:middle line:84%
+you have seen this
+consumer before.
+
+00:58:05.190 --> 00:58:08.250 align:middle line:84%
+What they note is that
+immediately after GDPR
+
+00:58:08.250 --> 00:58:10.860 align:middle line:84%
+goes into effect, the
+number of consumers
+
+00:58:10.860 --> 00:58:16.800 align:middle line:84%
+that you've seen exactly one
+time, this bar, goes way down.
+
+00:58:16.800 --> 00:58:19.590 align:middle line:84%
+And the number of consumers
+you've seen two, three, four,
+
+00:58:19.590 --> 00:58:21.090 align:middle line:84%
+five, six, seven,
+eight times seem
+
+00:58:21.090 --> 00:58:25.640 align:middle line:84%
+to just increase proportionally
+and be very, very slightly.
+
+00:58:25.640 --> 00:58:27.810 align:middle line:84%
+So what they note
+is that it seems
+
+00:58:27.810 --> 00:58:31.320 align:middle line:84%
+that when these
+consumers now opt out,
+
+00:58:31.320 --> 00:58:33.330 align:middle line:84%
+you're seeing many fewer
+consumers who you're
+
+00:58:33.330 --> 00:58:35.520 align:middle line:84%
+seeing exactly once, which
+would be consumers who
+
+00:58:35.520 --> 00:58:37.770 align:middle line:84%
+may have something
+already installed
+
+00:58:37.770 --> 00:58:40.410 align:middle line:84%
+to delete their
+cookies or to block
+
+00:58:40.410 --> 00:58:42.780 align:middle line:84%
+the cookies from
+identifying them
+
+00:58:42.780 --> 00:58:45.422 align:middle line:84%
+and make them look like a new
+person every time they show up,
+
+00:58:45.422 --> 00:58:47.880 align:middle line:84%
+even though they're actually
+someone who you're seeing over
+
+00:58:47.880 --> 00:58:49.300 align:middle line:90%
+and over and over again.
+
+00:58:49.300 --> 00:58:50.910 align:middle line:84%
+And so what they
+note is that it seems
+
+00:58:50.910 --> 00:58:54.030 align:middle line:84%
+like this drop in the number
+of people seen exactly once
+
+00:58:54.030 --> 00:58:57.180 align:middle line:84%
+makes you think that of
+those 13% of the people
+
+00:58:57.180 --> 00:58:59.820 align:middle line:84%
+who dropped out or whatever
+it is, many of them
+
+00:58:59.820 --> 00:59:05.520 align:middle line:84%
+also were cookie deleters or
+had some blocking technology
+
+00:59:05.520 --> 00:59:06.860 align:middle line:90%
+they were already using.
+
+00:59:06.860 --> 00:59:10.090 align:middle line:90%
+
+
+00:59:10.090 --> 00:59:12.325 align:middle line:90%
+So advertising revenue.
+
+00:59:12.325 --> 00:59:14.680 align:middle line:84%
+There's an immediate
+drop in the number
+
+00:59:14.680 --> 00:59:20.110 align:middle line:84%
+of clicks that are recorded
+on the compliant websites.
+
+00:59:20.110 --> 00:59:22.870 align:middle line:90%
+Number of clicks drop--
+
+00:59:22.870 --> 00:59:24.700 align:middle line:90%
+I guess it's 13%.
+
+00:59:24.700 --> 00:59:27.640 align:middle line:84%
+Revenue goes down
+16%, like, on the day
+
+00:59:27.640 --> 00:59:29.330 align:middle line:90%
+the thing takes into effect.
+
+00:59:29.330 --> 00:59:31.080 align:middle line:90%
+So this is certainly--
+
+00:59:31.080 --> 00:59:33.667 align:middle line:84%
+this is bad news for this
+advertising intermediary
+
+00:59:33.667 --> 00:59:35.000 align:middle line:90%
+who we're getting the data from.
+
+00:59:35.000 --> 00:59:36.500 align:middle line:90%
+It's like they just--
+
+00:59:36.500 --> 00:59:42.220 align:middle line:84%
+13% fewer-- 13% fewer
+clicks referred to them
+
+00:59:42.220 --> 00:59:45.590 align:middle line:84%
+to try to find an extra
+potential to assess.
+
+00:59:45.590 --> 00:59:47.710 align:middle line:84%
+You know, you
+presume they get paid
+
+00:59:47.710 --> 00:59:50.530 align:middle line:84%
+based on a per click basis
+for how much revenue they
+
+00:59:50.530 --> 00:59:52.030 align:middle line:90%
+can produce for Kayak.
+
+00:59:52.030 --> 00:59:54.190 align:middle line:84%
+13% of the searches
+disappear for them.
+
+00:59:54.190 --> 00:59:56.590 align:middle line:90%
+16% of the revenue disappears.
+
+00:59:56.590 --> 00:59:59.170 align:middle line:84%
+But then this interesting
+effect they find
+
+00:59:59.170 --> 01:00:06.680 align:middle line:84%
+is that, you know, the bids
+drop off or appear to be
+
+01:00:06.680 --> 01:00:08.940 align:middle line:90%
+slightly low on first week.
+
+01:00:08.940 --> 01:00:10.880 align:middle line:84%
+And then over the
+next seven weeks,
+
+01:00:10.880 --> 01:00:13.400 align:middle line:84%
+there's just this
+steady climb in what
+
+01:00:13.400 --> 01:00:16.130 align:middle line:90%
+people are bidding for the ads.
+
+01:00:16.130 --> 01:00:17.810 align:middle line:84%
+So again, the
+bidding for the ads
+
+01:00:17.810 --> 01:00:21.530 align:middle line:84%
+is like bidding to what
+American Airlines paid
+
+01:00:21.530 --> 01:00:24.170 align:middle line:84%
+to show that ad to me because
+I'd done the Orange County
+
+01:00:24.170 --> 01:00:25.200 align:middle line:90%
+search.
+
+01:00:25.200 --> 01:00:27.530 align:middle line:84%
+And what they show is that
+there's nothing going on
+
+01:00:27.530 --> 01:00:33.470 align:middle line:84%
+in the first two weeks, but
+then it's as if bids go up
+
+01:00:33.470 --> 01:00:34.230 align:middle line:90%
+and up and up.
+
+01:00:34.230 --> 01:00:35.780 align:middle line:90%
+So why would that happen?
+
+01:00:35.780 --> 01:00:37.970 align:middle line:90%
+Two potential explanations.
+
+01:00:37.970 --> 01:00:40.945 align:middle line:84%
+The people who are left
+behind are just more valuable
+
+01:00:40.945 --> 01:00:42.320 align:middle line:84%
+because they're
+different people.
+
+01:00:42.320 --> 01:00:43.905 align:middle line:84%
+And those more
+valuable people, they
+
+01:00:43.905 --> 01:00:45.530 align:middle line:84%
+didn't know that the
+people left behind
+
+01:00:45.530 --> 01:00:47.280 align:middle line:84%
+would be more valuable
+people, but they're
+
+01:00:47.280 --> 01:00:50.070 align:middle line:84%
+learning that those people left
+behind are more valuable people,
+
+01:00:50.070 --> 01:00:51.840 align:middle line:90%
+and so the bids go up.
+
+01:00:51.840 --> 01:00:57.080 align:middle line:84%
+Or two, the intermediary is
+better able to figure out
+
+01:00:57.080 --> 01:00:59.100 align:middle line:90%
+what those people want to buy.
+
+01:00:59.100 --> 01:01:03.720 align:middle line:84%
+So the intermediary may also
+be providing American Airlines
+
+01:01:03.720 --> 01:01:07.410 align:middle line:84%
+and hotels.com predictions
+of the probability
+
+01:01:07.410 --> 01:01:09.390 align:middle line:84%
+that I will buy
+an American flight
+
+01:01:09.390 --> 01:01:13.230 align:middle line:84%
+or that I will rent a
+hotel through hotels.com.
+
+01:01:13.230 --> 01:01:15.450 align:middle line:90%
+The fact that they can tell--
+
+01:01:15.450 --> 01:01:19.140 align:middle line:84%
+provide better information
+about me may get their bids
+
+01:01:19.140 --> 01:01:20.830 align:middle line:90%
+to go up in these auctions.
+
+01:01:20.830 --> 01:01:23.640 align:middle line:84%
+And so if the
+intermediary is better
+
+01:01:23.640 --> 01:01:26.370 align:middle line:84%
+able to decide who is going to
+purchase from Kayak versus who
+
+01:01:26.370 --> 01:01:28.545 align:middle line:84%
+would purchase
+from another firm,
+
+01:01:28.545 --> 01:01:30.420 align:middle line:84%
+if they can do a better
+job of data analysis,
+
+01:01:30.420 --> 01:01:32.440 align:middle line:90%
+that also makes prices go up.
+
+01:01:32.440 --> 01:01:35.155 align:middle line:84%
+So either people are better
+or you're better figuring out
+
+01:01:35.155 --> 01:01:36.780 align:middle line:84%
+which of-- who are
+the valuable people?
+
+01:01:36.780 --> 01:01:41.885 align:middle line:84%
+And that causes the average
+prices to go up, OK?
+
+01:01:41.885 --> 01:01:44.530 align:middle line:90%
+And so this effect, it's not--
+
+01:01:44.530 --> 01:01:47.470 align:middle line:90%
+
+
+01:01:47.470 --> 01:01:51.305 align:middle line:84%
+it's not like it's good news
+for all the firms involved.
+
+01:01:51.305 --> 01:01:52.430 align:middle line:90%
+They can't track consumers.
+
+01:01:52.430 --> 01:01:55.810 align:middle line:84%
+But at least what's happened
+here in the first seven weeks,
+
+01:01:55.810 --> 01:01:57.790 align:middle line:84%
+that's offsetting about
+half of the decline
+
+01:01:57.790 --> 01:01:59.030 align:middle line:90%
+that you would have gotten.
+
+01:01:59.030 --> 01:02:03.698 align:middle line:84%
+So if you've gotten an initial
+16% decline, it may be actually,
+
+01:02:03.698 --> 01:02:05.740 align:middle line:84%
+you're only going to get
+an 8% decline in revenue
+
+01:02:05.740 --> 01:02:09.035 align:middle line:84%
+because the bids are going to go
+up over time once people realize
+
+01:02:09.035 --> 01:02:10.660 align:middle line:84%
+who the consumers
+are who are left over
+
+01:02:10.660 --> 01:02:11.993 align:middle line:90%
+and how well you can track them.
+
+01:02:11.993 --> 01:02:14.960 align:middle line:90%
+
+
+01:02:14.960 --> 01:02:15.460 align:middle line:90%
+OK.
+
+01:02:15.460 --> 01:02:18.190 align:middle line:84%
+And then the third thing
+is they did have access--
+
+01:02:18.190 --> 01:02:20.680 align:middle line:84%
+this firm is doing a
+machine learning algorithm
+
+01:02:20.680 --> 01:02:23.110 align:middle line:84%
+to predict whether you're going
+to buy from kayak.com when
+
+01:02:23.110 --> 01:02:25.225 align:middle line:90%
+you search on kayak.com.
+
+01:02:25.225 --> 01:02:29.830 align:middle line:84%
+And so they have access
+both to the predictions
+
+01:02:29.830 --> 01:02:32.230 align:middle line:84%
+that the intermediary made
+at the time that the click--
+
+01:02:32.230 --> 01:02:34.030 align:middle line:84%
+at the time that
+the search occurred
+
+01:02:34.030 --> 01:02:38.200 align:middle line:84%
+and whether the person actually
+then bought from kayak.com
+
+01:02:38.200 --> 01:02:40.090 align:middle line:90%
+at the end of their session.
+
+01:02:40.090 --> 01:02:46.405 align:middle line:84%
+And what they find is that true
+purchase frequencies increase.
+
+01:02:46.405 --> 01:02:49.864 align:middle line:90%
+And obviously, they can't--
+
+01:02:49.864 --> 01:02:52.300 align:middle line:84%
+they can't do-- this is not
+a difference-in-difference
+
+01:02:52.300 --> 01:02:54.490 align:middle line:84%
+estimate because they don't
+know whose purchases would have
+
+01:02:54.490 --> 01:02:56.740 align:middle line:84%
+been observed-- they're
+observing this selected sample
+
+01:02:56.740 --> 01:02:57.670 align:middle line:90%
+afterwards.
+
+01:02:57.670 --> 01:02:59.710 align:middle line:84%
+But the selected
+sample afterwards
+
+01:02:59.710 --> 01:03:03.760 align:middle line:84%
+is purchasing more often than
+the unselected sample was
+
+01:03:03.760 --> 01:03:05.050 align:middle line:90%
+in the pre-period.
+
+01:03:05.050 --> 01:03:09.300 align:middle line:84%
+So these people are more
+frequent purchasers.
+
+01:03:09.300 --> 01:03:14.350 align:middle line:84%
+And you know, when they look
+at, how well is the intermediary
+
+01:03:14.350 --> 01:03:17.030 align:middle line:84%
+predicting purchases,
+the mean squared error
+
+01:03:17.030 --> 01:03:19.790 align:middle line:90%
+goes up after the--
+
+01:03:19.790 --> 01:03:21.480 align:middle line:84%
+after the regulation
+goes into effect,
+
+01:03:21.480 --> 01:03:23.120 align:middle line:90%
+so they're predicting worse.
+
+01:03:23.120 --> 01:03:24.980 align:middle line:84%
+But you know, mean
+squared error is
+
+01:03:24.980 --> 01:03:27.260 align:middle line:84%
+sort of a problematic
+measure of prediction
+
+01:03:27.260 --> 01:03:31.490 align:middle line:84%
+because the probability of
+purchase is a very small number.
+
+01:03:31.490 --> 01:03:34.620 align:middle line:90%
+Like, it may be 10% or whatever.
+
+01:03:34.620 --> 01:03:37.250 align:middle line:84%
+And so if the mean
+goes up, like if you're
+
+01:03:37.250 --> 01:03:39.248 align:middle line:84%
+trying to predict a
+zero-one random variable,
+
+01:03:39.248 --> 01:03:40.790 align:middle line:84%
+zero-one random
+variables are hardest
+
+01:03:40.790 --> 01:03:42.390 align:middle line:84%
+to predict when
+their mean is 0.5.
+
+01:03:42.390 --> 01:03:45.350 align:middle line:84%
+If their mean is 0.001,
+they're very easy to predict.
+
+01:03:45.350 --> 01:03:48.380 align:middle line:84%
+And so in mean squared error
+sense, when the average purchase
+
+01:03:48.380 --> 01:03:51.290 align:middle line:84%
+frequency goes up, their
+mean squared error goes up.
+
+01:03:51.290 --> 01:03:53.040 align:middle line:84%
+What they show is
+that there's a graph--
+
+01:03:53.040 --> 01:03:55.450 align:middle line:84%
+I don't think I have
+it here-- that the mean
+
+01:03:55.450 --> 01:03:56.700 align:middle line:90%
+squared error looks like this.
+
+01:03:56.700 --> 01:03:58.460 align:middle line:84%
+The mean squared error goes up,
+and then the mean squared error
+
+01:03:58.460 --> 01:03:59.520 align:middle line:90%
+comes back down.
+
+01:03:59.520 --> 01:04:02.300 align:middle line:84%
+So by the end of the sample,
+even though the mean is higher,
+
+01:04:02.300 --> 01:04:04.790 align:middle line:84%
+the mean squared
+error is not higher.
+
+01:04:04.790 --> 01:04:08.630 align:middle line:84%
+And so it seems that when the
+firm is updating its machine
+
+01:04:08.630 --> 01:04:12.530 align:middle line:84%
+learning algorithms using
+the new, better quality data,
+
+01:04:12.530 --> 01:04:14.150 align:middle line:84%
+it actually looks
+like, if anything,
+
+01:04:14.150 --> 01:04:16.260 align:middle line:84%
+it's predicting better
+what consumers are doing.
+
+01:04:16.260 --> 01:04:18.422 align:middle line:84%
+So it initially
+suffers because it's
+
+01:04:18.422 --> 01:04:19.880 align:middle line:84%
+predicting in the
+wrong environment
+
+01:04:19.880 --> 01:04:22.070 align:middle line:84%
+or for a selected
+sample of people
+
+01:04:22.070 --> 01:04:23.760 align:middle line:90%
+using its unselected data.
+
+01:04:23.760 --> 01:04:25.580 align:middle line:84%
+But then once it does
+it, it looks like--
+
+01:04:25.580 --> 01:04:28.310 align:middle line:84%
+the intermediary looks like it's
+improving its predictive ability
+
+01:04:28.310 --> 01:04:29.600 align:middle line:90%
+in this new cleaner--
+
+01:04:29.600 --> 01:04:32.450 align:middle line:84%
+in some sense, the GDPR
+has cleaned the data
+
+01:04:32.450 --> 01:04:35.700 align:middle line:84%
+for them a little bit and
+made their job easier.
+
+01:04:35.700 --> 01:04:36.200 align:middle line:90%
+OK?
+
+01:04:36.200 --> 01:04:38.890 align:middle line:84%
+At least it's not so
+significantly easier,
+
+01:04:38.890 --> 01:04:41.390 align:middle line:84%
+but at least it's clear that
+it didn't make their job harder
+
+01:04:41.390 --> 01:04:42.390 align:middle line:90%
+on the remaining people.
+
+01:04:42.390 --> 01:04:47.650 align:middle line:90%
+
+
+01:04:47.650 --> 01:04:48.150 align:middle line:90%
+OK.
+
+01:04:48.150 --> 01:04:50.650 align:middle line:90%
+
+
+01:04:50.650 --> 01:04:51.150 align:middle line:90%
+OK.
+
+01:04:51.150 --> 01:04:54.550 align:middle line:84%
+I think that's what I
+had on Tobias's paper.
+
+01:04:54.550 --> 01:04:56.945 align:middle line:90%
+No.
+
+01:04:56.945 --> 01:04:57.445 align:middle line:90%
+OK.
+
+01:04:57.445 --> 01:05:00.820 align:middle line:90%
+So I wanted to go to one other--
+
+01:05:00.820 --> 01:05:02.710 align:middle line:90%
+one other causal paper.
+
+01:05:02.710 --> 01:05:06.010 align:middle line:90%
+So this is an example of--
+
+01:05:06.010 --> 01:05:12.280 align:middle line:84%
+as I said, there's been a big
+increase just in the last five
+
+01:05:12.280 --> 01:05:17.335 align:middle line:84%
+years or whatever of people
+interested in just using
+
+01:05:17.335 --> 01:05:20.200 align:middle line:84%
+same kinds of
+quasi-experimental methods
+
+01:05:20.200 --> 01:05:22.660 align:middle line:84%
+you see in many other
+applied micro fields
+
+01:05:22.660 --> 01:05:25.030 align:middle line:84%
+to do advertising
+studies and think about,
+
+01:05:25.030 --> 01:05:27.280 align:middle line:84%
+how do we estimate the
+effect of advertising
+
+01:05:27.280 --> 01:05:29.630 align:middle line:84%
+using quasi-experimental
+designs?
+
+01:05:29.630 --> 01:05:32.320 align:middle line:84%
+There are lots of
+neat effects here.
+
+01:05:32.320 --> 01:05:34.990 align:middle line:84%
+There are lots of things
+that do just sort of, again,
+
+01:05:34.990 --> 01:05:36.910 align:middle line:84%
+straight
+difference-in-differences using
+
+01:05:36.910 --> 01:05:39.730 align:middle line:84%
+some kind of regulation goes
+into effect banning advertising
+
+01:05:39.730 --> 01:05:43.975 align:middle line:84%
+or allowing
+advertising, or someone
+
+01:05:43.975 --> 01:05:46.390 align:middle line:84%
+runs an advertising campaign
+that lasts for four months.
+
+01:05:46.390 --> 01:05:50.380 align:middle line:84%
+And then it stops on one day,
+and you use it before and after.
+
+01:05:50.380 --> 01:05:52.480 align:middle line:84%
+Spillovers from
+political advertising
+
+01:05:52.480 --> 01:05:55.450 align:middle line:84%
+are a really neat
+general purpose idea.
+
+01:05:55.450 --> 01:05:58.150 align:middle line:84%
+I guess-- maybe you
+guys don't watch TV,
+
+01:05:58.150 --> 01:06:00.795 align:middle line:84%
+but if you're watching
+TV in Massachusetts
+
+01:06:00.795 --> 01:06:02.170 align:middle line:84%
+right before an
+election, you may
+
+01:06:02.170 --> 01:06:05.230 align:middle line:84%
+have noticed tons
+and tons of campaigns
+
+01:06:05.230 --> 01:06:08.350 align:middle line:84%
+for Maggie Hassan versus
+Don Bolduc in New Hampshire,
+
+01:06:08.350 --> 01:06:11.260 align:middle line:84%
+you know, buying up all the
+ads on Massachusetts TV.
+
+01:06:11.260 --> 01:06:15.820 align:middle line:84%
+If you live in New Hampshire,
+your entire TV for a month
+
+01:06:15.820 --> 01:06:20.140 align:middle line:84%
+before the election is
+nothing but advertising--
+
+01:06:20.140 --> 01:06:21.860 align:middle line:90%
+political campaign ads.
+
+01:06:21.860 --> 01:06:25.310 align:middle line:84%
+The political campaign ads
+shift other ads off the TV.
+
+01:06:25.310 --> 01:06:27.970 align:middle line:84%
+And you can do these
+designs taking into effect
+
+01:06:27.970 --> 01:06:30.190 align:middle line:84%
+that New Hampshire
+versus Vermont, no one
+
+01:06:30.190 --> 01:06:33.923 align:middle line:84%
+advertises on Vermont TV because
+the democrats always win.
+
+01:06:33.923 --> 01:06:35.590 align:middle line:84%
+New Hampshire has a
+ton of political ads
+
+01:06:35.590 --> 01:06:37.130 align:middle line:90%
+because it's a toss-up state.
+
+01:06:37.130 --> 01:06:38.980 align:middle line:84%
+You can do new
+Hampshire versus Vermont
+
+01:06:38.980 --> 01:06:42.460 align:middle line:84%
+before and after an election and
+see all these other advertisers
+
+01:06:42.460 --> 01:06:44.350 align:middle line:84%
+were getting blocked
+out of New Hampshire,
+
+01:06:44.350 --> 01:06:46.360 align:middle line:84%
+but still advertising
+in Vermont and Maine,
+
+01:06:46.360 --> 01:06:50.230 align:middle line:84%
+and use that as an
+instrument for advertising.
+
+01:06:50.230 --> 01:06:52.400 align:middle line:84%
+There are papers
+using sporting events.
+
+01:06:52.400 --> 01:06:54.580 align:middle line:84%
+If your team gets
+to the Super Bowl,
+
+01:06:54.580 --> 01:06:57.210 align:middle line:84%
+you therefore see all--
+everyone watches the Super Bowl.
+
+01:06:57.210 --> 01:07:00.150 align:middle line:84%
+They see many more Budweiser ads
+than they would see otherwise.
+
+01:07:00.150 --> 01:07:02.000 align:middle line:90%
+How does that affect purchasing?
+
+01:07:02.000 --> 01:07:08.570 align:middle line:84%
+In some ways, I talked about
+the Bronnenberg, Dubé, Gentzkow
+
+01:07:08.570 --> 01:07:11.970 align:middle line:84%
+paper about people moving
+from one city to another.
+
+01:07:11.970 --> 01:07:13.640 align:middle line:84%
+If you move from
+one city to another,
+
+01:07:13.640 --> 01:07:15.860 align:middle line:84%
+you're seeing different
+ads when you've moved there
+
+01:07:15.860 --> 01:07:17.660 align:middle line:84%
+that could be an exogenous
+difference in the ads
+
+01:07:17.660 --> 01:07:18.450 align:middle line:90%
+that you've seen.
+
+01:07:18.450 --> 01:07:22.370 align:middle line:90%
+We can use ideas like that.
+
+01:07:22.370 --> 01:07:27.500 align:middle line:84%
+Brad Shapiro's paper is
+using what we call a border
+
+01:07:27.500 --> 01:07:30.290 align:middle line:90%
+design in media markets.
+
+01:07:30.290 --> 01:07:35.580 align:middle line:84%
+So the application here is
+to antidepressant drugs.
+
+01:07:35.580 --> 01:07:38.870 align:middle line:84%
+So there was a class of
+antidepressant drugs called
+
+01:07:38.870 --> 01:07:39.680 align:middle line:90%
+SSRIs.
+
+01:07:39.680 --> 01:07:41.300 align:middle line:90%
+I forget what that stands for.
+
+01:07:41.300 --> 01:07:44.090 align:middle line:84%
+Introduced in the
+late '80s and '90s.
+
+01:07:44.090 --> 01:07:47.667 align:middle line:84%
+These drugs were under patent
+protection and earned billions
+
+01:07:47.667 --> 01:07:50.000 align:middle line:84%
+and billions of dollars a
+year in revenues in the period
+
+01:07:50.000 --> 01:07:54.350 align:middle line:84%
+he's studying, which is
+late '90s to early 2000s.
+
+01:07:54.350 --> 01:07:57.520 align:middle line:90%
+And you know, these are--
+
+01:07:57.520 --> 01:08:00.580 align:middle line:84%
+this is just a picture of--
+that's what a Zoloft ad on TV
+
+01:08:00.580 --> 01:08:01.600 align:middle line:90%
+would look like.
+
+01:08:01.600 --> 01:08:03.070 align:middle line:90%
+You'd see this ad.
+
+01:08:03.070 --> 01:08:06.200 align:middle line:84%
+This is the guy who's depressed
+and he's under a cloud,
+
+01:08:06.200 --> 01:08:08.960 align:middle line:84%
+and symptoms persist every
+day for at least two weeks.
+
+01:08:08.960 --> 01:08:11.020 align:middle line:84%
+And then later in
+the commercial,
+
+01:08:11.020 --> 01:08:12.070 align:middle line:90%
+somehow he takes Zoloft.
+
+01:08:12.070 --> 01:08:14.980 align:middle line:84%
+And the clouds part, and the
+sun comes out, and he's happy.
+
+01:08:14.980 --> 01:08:17.770 align:middle line:84%
+And then you have this
+woman talking about
+
+01:08:17.770 --> 01:08:21.260 align:middle line:90%
+how, I couldn't do anything.
+
+01:08:21.260 --> 01:08:23.300 align:middle line:84%
+My life now-- my life
+is so much better.
+
+01:08:23.300 --> 01:08:27.310 align:middle line:84%
+And then obviously, then that
+10-second comment from her,
+
+01:08:27.310 --> 01:08:31.600 align:middle line:84%
+followed by this long litany
+of, may cause suicidal thoughts,
+
+01:08:31.600 --> 01:08:34.090 align:middle line:84%
+may cause
+gastrointestinal symptoms,
+
+01:08:34.090 --> 01:08:38.260 align:middle line:84%
+may cause loss of appetite, may
+cause cancer of various kinds.
+
+01:08:38.260 --> 01:08:40.584 align:middle line:90%
+Anyway, it was sort of--
+
+01:08:40.584 --> 01:08:42.368 align:middle line:90%
+[SIGH]
+
+01:08:42.368 --> 01:08:44.740 align:middle line:90%
+It was-- I don't know.
+
+01:08:44.740 --> 01:08:48.939 align:middle line:84%
+Again, prior to 1997, TV
+commercials were not--
+
+01:08:48.939 --> 01:08:50.677 align:middle line:84%
+were not-- there were
+not TV commercials
+
+01:08:50.677 --> 01:08:52.510 align:middle line:84%
+for prescription drugs
+in the United States.
+
+01:08:52.510 --> 01:08:55.540 align:middle line:84%
+Prior to 1997,
+there was no TV ad--
+
+01:08:55.540 --> 01:08:58.040 align:middle line:84%
+the United States was like every
+other country in the world.
+
+01:08:58.040 --> 01:09:02.134 align:middle line:84%
+There was no
+advertising for drugs.
+
+01:09:02.134 --> 01:09:04.580 align:middle line:84%
+Rules were changed for
+how many of those warnings
+
+01:09:04.580 --> 01:09:07.260 align:middle line:84%
+you had to put in
+an ad around 1997.
+
+01:09:07.260 --> 01:09:10.729 align:middle line:84%
+And so 1999, it became
+feasible to have
+
+01:09:10.729 --> 01:09:13.399 align:middle line:84%
+only 20 seconds of your ad
+with all the side effects
+
+01:09:13.399 --> 01:09:16.460 align:middle line:84%
+and to still have an ad that
+survived with all the side
+
+01:09:16.460 --> 01:09:17.600 align:middle line:90%
+effect stuff.
+
+01:09:17.600 --> 01:09:21.689 align:middle line:84%
+So anyway, first depression
+ads appeared in 1999.
+
+01:09:21.689 --> 01:09:24.694 align:middle line:84%
+What does Brad
+have in this paper?
+
+01:09:24.694 --> 01:09:26.300 align:middle line:90%
+He's got prescription data.
+
+01:09:26.300 --> 01:09:30.170 align:middle line:84%
+So the prescription data is a
+5% random sample of physicians
+
+01:09:30.170 --> 01:09:32.850 align:middle line:90%
+who prescribe antidepressants.
+
+01:09:32.850 --> 01:09:35.370 align:middle line:84%
+The data set also includes
+physician characteristics,
+
+01:09:35.370 --> 01:09:37.380 align:middle line:84%
+including the exact
+office address.
+
+01:09:37.380 --> 01:09:39.450 align:middle line:84%
+Using the exact office
+address, he can then
+
+01:09:39.450 --> 01:09:41.439 align:middle line:90%
+map each physician to a county.
+
+01:09:41.439 --> 01:09:44.354 align:middle line:84%
+Now obviously, not
+all patients visit
+
+01:09:44.354 --> 01:09:46.229 align:middle line:84%
+a physician in the county
+in which they live,
+
+01:09:46.229 --> 01:09:48.460 align:middle line:84%
+but these are relatively
+rural counties,
+
+01:09:48.460 --> 01:09:50.560 align:middle line:84%
+so we hope that's not
+such a bad assumption.
+
+01:09:50.560 --> 01:09:53.550 align:middle line:84%
+And then he takes the
+physician-level data,
+
+01:09:53.550 --> 01:09:55.628 align:middle line:84%
+aggregates that to the
+county month level.
+
+01:09:55.628 --> 01:09:58.170 align:middle line:84%
+And most the analysis is going
+to be done at the county month
+
+01:09:58.170 --> 01:09:59.268 align:middle line:90%
+level.
+
+01:09:59.268 --> 01:10:01.560 align:middle line:84%
+And I guess, continuing the
+theme on many of the papers
+
+01:10:01.560 --> 01:10:04.560 align:middle line:84%
+we look at, it is using
+an impressive data set.
+
+01:10:04.560 --> 01:10:08.170 align:middle line:84%
+And you need detailed data sets
+to write good papers these days.
+
+01:10:08.170 --> 01:10:10.720 align:middle line:84%
+So what does he
+have on advertising?
+
+01:10:10.720 --> 01:10:12.900 align:middle line:84%
+He has TV advertising
+expenditures
+
+01:10:12.900 --> 01:10:19.320 align:middle line:84%
+by brand in each of 101 markets
+in the US from September 1999
+
+01:10:19.320 --> 01:10:21.210 align:middle line:90%
+to December 2003.
+
+01:10:21.210 --> 01:10:23.640 align:middle line:84%
+So the basic
+advertising data set
+
+01:10:23.640 --> 01:10:27.690 align:middle line:84%
+is at the DMA, which is like--
+you can think of as roughly
+
+01:10:27.690 --> 01:10:32.210 align:middle line:84%
+as a city, the DMA
+times month level.
+
+01:10:32.210 --> 01:10:36.630 align:middle line:84%
+Now, much of the advertising
+of pharmaceuticals is national,
+
+01:10:36.630 --> 01:10:39.550 align:middle line:84%
+but there is substantial
+local advertising also.
+
+01:10:39.550 --> 01:10:42.570 align:middle line:84%
+So what he does is he creates
+a measure of local advertising
+
+01:10:42.570 --> 01:10:45.270 align:middle line:84%
+in each market by
+basically apportioning
+
+01:10:45.270 --> 01:10:48.150 align:middle line:84%
+the national spending
+according to each DMA's
+
+01:10:48.150 --> 01:10:50.160 align:middle line:84%
+share of the
+national population,
+
+01:10:50.160 --> 01:10:52.860 align:middle line:84%
+and then adding on top of
+that the advertising that's
+
+01:10:52.860 --> 01:10:57.700 align:middle line:90%
+purely local to that DMA.
+
+01:10:57.700 --> 01:10:59.470 align:middle line:84%
+Shapiro's strategy
+for identification
+
+01:10:59.470 --> 01:11:02.380 align:middle line:84%
+is to limit the
+analysis to DMA borders
+
+01:11:02.380 --> 01:11:05.320 align:middle line:84%
+and to treat monthly advertising
+as exogenous once you include
+
+01:11:05.320 --> 01:11:07.960 align:middle line:84%
+the product-border-quarter
+and product-border-DMA fixed
+
+01:11:07.960 --> 01:11:08.713 align:middle line:90%
+effects.
+
+01:11:08.713 --> 01:11:09.880 align:middle line:90%
+So why does that make sense?
+
+01:11:09.880 --> 01:11:12.640 align:middle line:84%
+So imagine that you didn't
+have just the borders here,
+
+01:11:12.640 --> 01:11:15.940 align:middle line:84%
+and you were going to try
+to compare advertising
+
+01:11:15.940 --> 01:11:18.970 align:middle line:84%
+and sales in the Columbus area
+with advertising and sales
+
+01:11:18.970 --> 01:11:20.410 align:middle line:90%
+in the Cleveland area.
+
+01:11:20.410 --> 01:11:23.980 align:middle line:84%
+You know, there, you'd really
+worry that inherent demand is
+
+01:11:23.980 --> 01:11:26.140 align:middle line:84%
+different in Columbus
+than it is from Cleveland
+
+01:11:26.140 --> 01:11:27.760 align:middle line:84%
+and that the firms
+who are advertising
+
+01:11:27.760 --> 01:11:30.177 align:middle line:84%
+know that demand is different
+from Columbus and Cleveland.
+
+01:11:30.177 --> 01:11:32.485 align:middle line:84%
+And therefore, the
+advertising in Columbus
+
+01:11:32.485 --> 01:11:35.530 align:middle line:84%
+is correlated with the
+demand in Columbus.
+
+01:11:35.530 --> 01:11:37.450 align:middle line:84%
+The idea of the border
+effect is to say
+
+01:11:37.450 --> 01:11:39.430 align:middle line:84%
+that it's kind of like
+the same thing you would
+
+01:11:39.430 --> 01:11:42.800 align:middle line:84%
+do in a regression discontinuity
+design, but in a spatial sense.
+
+01:11:42.800 --> 01:11:50.920 align:middle line:84%
+So you know, if you look at
+Columbus versus Cleveland DMA,
+
+01:11:50.920 --> 01:11:56.320 align:middle line:84%
+you see one, two, three, four,
+five counties along the Columbus
+
+01:11:56.320 --> 01:11:57.540 align:middle line:90%
+side of the border.
+
+01:11:57.540 --> 01:12:01.760 align:middle line:84%
+And then you see one,
+two, three, four counties
+
+01:12:01.760 --> 01:12:04.250 align:middle line:84%
+along the Cleveland
+side of the border.
+
+01:12:04.250 --> 01:12:05.690 align:middle line:84%
+You know, these
+counties are going
+
+01:12:05.690 --> 01:12:07.700 align:middle line:90%
+to be relatively rural counties.
+
+01:12:07.700 --> 01:12:09.980 align:middle line:84%
+They're going to be fairly
+far from the center--
+
+01:12:09.980 --> 01:12:13.010 align:middle line:84%
+the cities that are the
+center of these DMAs.
+
+01:12:13.010 --> 01:12:16.580 align:middle line:84%
+So the idea is supposed to be
+that the people on the Columbus
+
+01:12:16.580 --> 01:12:20.840 align:middle line:84%
+side, the people at the
+Cleveland side are very similar.
+
+01:12:20.840 --> 01:12:25.970 align:middle line:84%
+The advertising that
+the Columbus people see
+
+01:12:25.970 --> 01:12:30.110 align:middle line:84%
+is not going to be driven by the
+characteristics of the people
+
+01:12:30.110 --> 01:12:31.970 align:middle line:84%
+on the Columbus
+side of the border
+
+01:12:31.970 --> 01:12:34.220 align:middle line:84%
+because the people on the
+Columbus side of the border
+
+01:12:34.220 --> 01:12:38.090 align:middle line:84%
+buy perhaps, you know, one
+or 5% of the prescriptions
+
+01:12:38.090 --> 01:12:41.278 align:middle line:84%
+of antidepressants in the
+Columbus DMA prescriptions
+
+01:12:41.278 --> 01:12:43.070 align:middle line:84%
+are going to be-- you
+know, the advertising
+
+01:12:43.070 --> 01:12:45.612 align:middle line:84%
+will be driven by something--
+a factor affecting the Columbus
+
+01:12:45.612 --> 01:12:47.540 align:middle line:90%
+DMA or the Cleveland DMA.
+
+01:12:47.540 --> 01:12:51.710 align:middle line:84%
+And so you can treat the
+advertising choices as exogenous
+
+01:12:51.710 --> 01:12:54.650 align:middle line:84%
+once you put in these
+product-border-quarter
+
+01:12:54.650 --> 01:12:57.180 align:middle line:84%
+and product-border
+by DMA fixed effects.
+
+01:12:57.180 --> 01:12:59.678 align:middle line:84%
+And again, the
+product-border-DMA fixed
+
+01:12:59.678 --> 01:13:01.220 align:middle line:84%
+effects, those are
+going to capture--
+
+01:13:01.220 --> 01:13:03.220 align:middle line:84%
+if the people in the
+Columbus side of the border
+
+01:13:03.220 --> 01:13:05.553 align:middle line:84%
+are slightly more depressed
+than people on the Cleveland
+
+01:13:05.553 --> 01:13:06.980 align:middle line:84%
+side of the border,
+that would get
+
+01:13:06.980 --> 01:13:10.730 align:middle line:84%
+captured by that nontime-varying
+fixed effect for the Columbus
+
+01:13:10.730 --> 01:13:13.160 align:middle line:90%
+side of the border, OK?
+
+01:13:13.160 --> 01:13:15.710 align:middle line:84%
+So the basic exercise
+here is to just
+
+01:13:15.710 --> 01:13:17.780 align:middle line:84%
+put in all those fixed
+effects and regress
+
+01:13:17.780 --> 01:13:20.660 align:middle line:90%
+the log of sales in each--
+
+01:13:20.660 --> 01:13:24.350 align:middle line:84%
+on each side of the border
+in a month on the advertising
+
+01:13:24.350 --> 01:13:27.660 align:middle line:84%
+on each side of the border in a
+month, plus these fixed effects.
+
+01:13:27.660 --> 01:13:28.970 align:middle line:90%
+And what do you find?
+
+01:13:28.970 --> 01:13:31.490 align:middle line:84%
+So first thing that he
+finds is that advertising
+
+01:13:31.490 --> 01:13:33.230 align:middle line:90%
+has large effects.
+
+01:13:33.230 --> 01:13:36.470 align:middle line:84%
+So look at the first number
+that I put in the box there.
+
+01:13:36.470 --> 01:13:38.480 align:middle line:90%
+The DTC has a--
+
+01:13:38.480 --> 01:13:40.520 align:middle line:84%
+direct to consumer
+advertising in this market
+
+01:13:40.520 --> 01:13:42.800 align:middle line:90%
+has a coefficient of 0.024.
+
+01:13:42.800 --> 01:13:44.990 align:middle line:84%
+I believe the right-hand
+side variable's
+
+01:13:44.990 --> 01:13:47.820 align:middle line:84%
+in the scale of
+pennies per person.
+
+01:13:47.820 --> 01:13:50.930 align:middle line:84%
+So this is if you conduct an
+advertising campaign that costs
+
+01:13:50.930 --> 01:13:57.320 align:middle line:84%
+$0.01 per person in that area,
+in the DMA you would get direct
+
+01:13:57.320 --> 01:13:58.670 align:middle line:90%
+to consumer-- you would get--
+
+01:13:58.670 --> 01:14:01.620 align:middle line:90%
+sales go up by 2.4%.
+
+01:14:01.620 --> 01:14:02.120 align:middle line:90%
+OK.
+
+01:14:02.120 --> 01:14:04.070 align:middle line:84%
+Second significant
+effect you see here
+
+01:14:04.070 --> 01:14:06.300 align:middle line:84%
+is the spillover of
+rival advertising.
+
+01:14:06.300 --> 01:14:09.350 align:middle line:84%
+So spillover rival advertising
+is a coefficient of 0.016,
+
+01:14:09.350 --> 01:14:14.490 align:middle line:84%
+which is roughly 2/3 of the size
+of the own advertising effect.
+
+01:14:14.490 --> 01:14:16.880 align:middle line:84%
+So that is, you know, it's
+better to advertise yourself,
+
+01:14:16.880 --> 01:14:19.910 align:middle line:84%
+but having a rival advertise
+gives you almost 2/3
+
+01:14:19.910 --> 01:14:21.140 align:middle line:90%
+of the sales boost.
+
+01:14:21.140 --> 01:14:24.860 align:middle line:84%
+And obviously, you don't have to
+pay for the rival advertising.
+
+01:14:24.860 --> 01:14:29.210 align:middle line:84%
+Second result here, if you look
+at the quadratic terms, this one
+
+01:14:29.210 --> 01:14:33.350 align:middle line:84%
+and this one, quadratic terms
+have negative coefficients
+
+01:14:33.350 --> 01:14:36.320 align:middle line:84%
+on them, which means that
+there is decreasing returns
+
+01:14:36.320 --> 01:14:37.880 align:middle line:90%
+to advertising.
+
+01:14:37.880 --> 01:14:41.900 align:middle line:84%
+If you look at the shape
+of those quadratic things,
+
+01:14:41.900 --> 01:14:46.370 align:middle line:84%
+functions, it would be
+that advertising maxes out
+
+01:14:46.370 --> 01:14:49.520 align:middle line:84%
+at about five and a half on
+the own advertising, nine
+
+01:14:49.520 --> 01:14:51.090 align:middle line:90%
+on the rival advertising.
+
+01:14:51.090 --> 01:14:53.780 align:middle line:84%
+Those levels are well above the
+levels of actual advertising
+
+01:14:53.780 --> 01:14:56.090 align:middle line:84%
+the data, so it's just
+capturing the curvature
+
+01:14:56.090 --> 01:14:59.750 align:middle line:84%
+that there are decreasing
+returns as you advertise more.
+
+01:14:59.750 --> 01:15:03.790 align:middle line:84%
+And then the third important
+effect in this regression
+
+01:15:03.790 --> 01:15:07.250 align:middle line:84%
+is the DTC times DTT
+rival coefficient.
+
+01:15:07.250 --> 01:15:10.240 align:middle line:84%
+What that says is that
+the marginal return
+
+01:15:10.240 --> 01:15:15.548 align:middle line:84%
+to my advertising goes down when
+my rival is advertising more.
+
+01:15:15.548 --> 01:15:17.090 align:middle line:84%
+You know, that fits
+with the general.
+
+01:15:17.090 --> 01:15:19.900 align:middle line:84%
+If there's decreasing returns
+to aggregate advertising,
+
+01:15:19.900 --> 01:15:20.800 align:middle line:90%
+that would be true.
+
+01:15:20.800 --> 01:15:23.020 align:middle line:84%
+As my rival
+advertises more, we're
+
+01:15:23.020 --> 01:15:25.750 align:middle line:84%
+already getting further out
+on the decreasing return side
+
+01:15:25.750 --> 01:15:28.810 align:middle line:84%
+and that's going to
+cause a reduced benefit
+
+01:15:28.810 --> 01:15:30.020 align:middle line:90%
+from advertising.
+
+01:15:30.020 --> 01:15:32.600 align:middle line:90%
+
+
+01:15:32.600 --> 01:15:36.680 align:middle line:84%
+And it's fairly simple
+estimation strategy,
+
+01:15:36.680 --> 01:15:40.190 align:middle line:84%
+but I think-- you know, fairly
+simple estimation strategy,
+
+01:15:40.190 --> 01:15:42.532 align:middle line:84%
+you just have to buy these
+regression discontinuity-type
+
+01:15:42.532 --> 01:15:44.240 align:middle line:84%
+assumptions that the
+people along the two
+
+01:15:44.240 --> 01:15:47.000 align:middle line:84%
+sides of the border are similar
+other than a fixed effect that's
+
+01:15:47.000 --> 01:15:50.060 align:middle line:84%
+not time varying and that
+the advertising is not
+
+01:15:50.060 --> 01:15:52.895 align:middle line:84%
+being driven by something
+that's border-specific.
+
+01:15:52.895 --> 01:15:54.770 align:middle line:84%
+It would be something
+that if it's anything--
+
+01:15:54.770 --> 01:15:56.330 align:middle line:84%
+if it's not just
+purely random, it's
+
+01:15:56.330 --> 01:15:58.865 align:middle line:84%
+driven by something
+related to the cities,
+
+01:15:58.865 --> 01:16:00.740 align:middle line:84%
+and therefore wouldn't
+have different effects
+
+01:16:00.740 --> 01:16:02.282 align:middle line:84%
+on the different
+sides of the border.
+
+01:16:02.282 --> 01:16:04.880 align:middle line:90%
+
+
+01:16:04.880 --> 01:16:07.700 align:middle line:84%
+The next thing Shapiro does,
+though, this is-- you know,
+
+01:16:07.700 --> 01:16:09.800 align:middle line:84%
+like many papers,
+it both combines
+
+01:16:09.800 --> 01:16:13.850 align:middle line:84%
+a standard, modern
+causal inference approach
+
+01:16:13.850 --> 01:16:15.970 align:middle line:90%
+with a structural estimation.
+
+01:16:15.970 --> 01:16:18.770 align:middle line:84%
+So his structural
+estimation is basically
+
+01:16:18.770 --> 01:16:21.320 align:middle line:90%
+driven off the same levels of--
+
+01:16:21.320 --> 01:16:23.930 align:middle line:84%
+the same exogenous variation
+that's driving the reduced form
+
+01:16:23.930 --> 01:16:24.930 align:middle line:90%
+estimates.
+
+01:16:24.930 --> 01:16:28.860 align:middle line:84%
+But here, he does this
+nested logit model of demand.
+
+01:16:28.860 --> 01:16:31.520 align:middle line:84%
+The nested logit model
+has three levels.
+
+01:16:31.520 --> 01:16:34.440 align:middle line:84%
+At the top level, there's a
+choice between an inside good
+
+01:16:34.440 --> 01:16:35.890 align:middle line:90%
+and the outside good.
+
+01:16:35.890 --> 01:16:40.380 align:middle line:84%
+That choice is driven in part by
+total advertising in the market.
+
+01:16:40.380 --> 01:16:42.770 align:middle line:84%
+The second level is a
+choice between categories.
+
+01:16:42.770 --> 01:16:45.660 align:middle line:84%
+I think I mentioned there
+are six different categories
+
+01:16:45.660 --> 01:16:48.940 align:middle line:84%
+of antidepressant drugs
+being sold at the time.
+
+01:16:48.940 --> 01:16:50.640 align:middle line:90%
+One of them is "other."
+
+01:16:50.640 --> 01:16:55.110 align:middle line:84%
+And so that choice is driven by
+his right-hand side variables,
+
+01:16:55.110 --> 01:16:58.470 align:middle line:84%
+which is advertising within
+that particular category
+
+01:16:58.470 --> 01:16:59.650 align:middle line:90%
+of antidepressant.
+
+01:16:59.650 --> 01:17:01.380 align:middle line:84%
+And then the bottom
+level, which is
+
+01:17:01.380 --> 01:17:04.320 align:middle line:84%
+going to be the most purely
+business dealing level,
+
+01:17:04.320 --> 01:17:07.770 align:middle line:90%
+is competition between--
+
+01:17:07.770 --> 01:17:11.130 align:middle line:84%
+people make a choice of
+which drug within a class
+
+01:17:11.130 --> 01:17:13.463 align:middle line:90%
+of antidepressants they buy.
+
+01:17:13.463 --> 01:17:15.880 align:middle line:84%
+Again, that's going to have
+advertising on the right side.
+
+01:17:15.880 --> 01:17:18.720 align:middle line:84%
+That's advertising of
+the particular molecule.
+
+01:17:18.720 --> 01:17:21.540 align:middle line:84%
+At least early in his data,
+there are actually only two
+
+01:17:21.540 --> 01:17:23.860 align:middle line:90%
+of the firms doing advertising.
+
+01:17:23.860 --> 01:17:26.820 align:middle line:84%
+There's GlaxoSmithKline
+advertising Paxil
+
+01:17:26.820 --> 01:17:31.320 align:middle line:84%
+and there's Eli Lilly
+advertising Prozac, OK?
+
+01:17:31.320 --> 01:17:33.242 align:middle line:84%
+What do the advertising
+variables look like?
+
+01:17:33.242 --> 01:17:34.950 align:middle line:84%
+You know, the advertising
+variable that's
+
+01:17:34.950 --> 01:17:36.390 align:middle line:90%
+on the right side of this--
+
+01:17:36.390 --> 01:17:44.250 align:middle line:84%
+so advertising for Product
+J, Order Level B, Time T
+
+01:17:44.250 --> 01:17:49.440 align:middle line:84%
+is going to be a sum
+of delta to the s times
+
+01:17:49.440 --> 01:17:59.100 align:middle line:84%
+advertising by that firm in the
+same region at time t minus s.
+
+01:17:59.100 --> 01:18:02.700 align:middle line:84%
+So he estimates these discount
+factors, delta to the s,
+
+01:18:02.700 --> 01:18:06.870 align:middle line:84%
+to estimate, how quickly
+does advertising die out?
+
+01:18:06.870 --> 01:18:09.550 align:middle line:84%
+Again, there are three separate
+deltas being estimated.
+
+01:18:09.550 --> 01:18:13.740 align:middle line:84%
+There's a delta being estimated
+for the aggregate demand
+
+01:18:13.740 --> 01:18:15.580 align:middle line:84%
+for the inside good
+versus the outside good.
+
+01:18:15.580 --> 01:18:19.090 align:middle line:84%
+There's a delta being estimated
+for the within category effect.
+
+01:18:19.090 --> 01:18:22.980 align:middle line:84%
+There's a delta being estimated
+for the product effect.
+
+01:18:22.980 --> 01:18:24.930 align:middle line:84%
+Biggest results he has
+there on those deltas
+
+01:18:24.930 --> 01:18:27.420 align:middle line:84%
+is that the deltas
+are fairly large,
+
+01:18:27.420 --> 01:18:30.160 align:middle line:84%
+but the delta is-- or
+sorry, fairly small.
+
+01:18:30.160 --> 01:18:32.760 align:middle line:84%
+Advertising dries
+out fairly quickly,
+
+01:18:32.760 --> 01:18:35.400 align:middle line:84%
+and it dries out at
+different-- it dies out
+
+01:18:35.400 --> 01:18:37.840 align:middle line:84%
+at different speeds at
+the different levels.
+
+01:18:37.840 --> 01:18:44.860 align:middle line:84%
+So it dies out most quickly
+at the within category level.
+
+01:18:44.860 --> 01:18:47.370 align:middle line:84%
+There, he finds that
+within three months,
+
+01:18:47.370 --> 01:18:49.140 align:middle line:84%
+90% of the benefit
+of advertising
+
+01:18:49.140 --> 01:18:51.810 align:middle line:84%
+has died out in terms of getting
+share to you versus other firms
+
+01:18:51.810 --> 01:18:53.320 align:middle line:90%
+selling similar drugs.
+
+01:18:53.320 --> 01:18:57.250 align:middle line:84%
+And then it dries out more
+slowly but still fairly quickly
+
+01:18:57.250 --> 01:18:58.440 align:middle line:90%
+at the aggregate level.
+
+01:18:58.440 --> 01:19:02.290 align:middle line:84%
+There, it takes six months for
+90% of the demand to die out.
+
+01:19:02.290 --> 01:19:04.740 align:middle line:84%
+So in the graph I put
+on here at the right,
+
+01:19:04.740 --> 01:19:05.770 align:middle line:90%
+I graphed these effects.
+
+01:19:05.770 --> 01:19:08.350 align:middle line:84%
+So this is looking at what
+the marginal effect would
+
+01:19:08.350 --> 01:19:10.810 align:middle line:84%
+be if Zoloft started
+an advertising
+
+01:19:10.810 --> 01:19:15.700 align:middle line:84%
+campaign of some size at
+the beginning of 2002.
+
+01:19:15.700 --> 01:19:17.920 align:middle line:84%
+The red line at the
+bottom of that graph
+
+01:19:17.920 --> 01:19:21.910 align:middle line:84%
+shows how many extra
+prescriptions per month Zoloft
+
+01:19:21.910 --> 01:19:23.930 align:middle line:90%
+gets in thousands.
+
+01:19:23.930 --> 01:19:28.990 align:middle line:84%
+And so what they're getting
+is 20,000 extra prescriptions
+
+01:19:28.990 --> 01:19:30.470 align:middle line:90%
+in the first month.
+
+01:19:30.470 --> 01:19:33.710 align:middle line:84%
+But then as I said,
+much of that dies out.
+
+01:19:33.710 --> 01:19:38.498 align:middle line:84%
+And so you can see by
+three months later,
+
+01:19:38.498 --> 01:19:40.040 align:middle line:84%
+many of those
+prescriptions are lost,
+
+01:19:40.040 --> 01:19:42.920 align:middle line:84%
+and then the effect
+continues to die out.
+
+01:19:42.920 --> 01:19:46.050 align:middle line:84%
+The black line-- or
+is it dark blue?--
+
+01:19:46.050 --> 01:19:49.560 align:middle line:84%
+in contrast, is this is the
+gains in total prescriptions.
+
+01:19:49.560 --> 01:19:52.580 align:middle line:84%
+So while Zoloft prescriptions
+go up by 20,000,
+
+01:19:52.580 --> 01:19:54.750 align:middle line:84%
+total prescriptions
+go up by 70,000.
+
+01:19:54.750 --> 01:19:58.700 align:middle line:84%
+So that's saying 50,000 extra
+prescriptions are being gained
+
+01:19:58.700 --> 01:20:03.605 align:middle line:84%
+by other firms, not the
+manufacturer of Zoloft.
+
+01:20:03.605 --> 01:20:05.070 align:middle line:90%
+Those also die out.
+
+01:20:05.070 --> 01:20:08.270 align:middle line:84%
+And here, we see those
+dying out more slowly.
+
+01:20:08.270 --> 01:20:11.400 align:middle line:84%
+So at the beginning,
+it's 20,000 and 50,000.
+
+01:20:11.400 --> 01:20:13.400 align:middle line:84%
+The other firms are getting
+two and a half times
+
+01:20:13.400 --> 01:20:14.807 align:middle line:90%
+what Zoloft is getting.
+
+01:20:14.807 --> 01:20:17.390 align:middle line:84%
+The dashed line here is showing
+that by the end of the sample,
+
+01:20:17.390 --> 01:20:19.432 align:middle line:84%
+the other firms are getting
+five and a half times
+
+01:20:19.432 --> 01:20:21.410 align:middle line:84%
+what Zoloft manufacturers
+are getting.
+
+01:20:21.410 --> 01:20:24.620 align:middle line:84%
+So this is showing that there
+is really substantial spillovers
+
+01:20:24.620 --> 01:20:25.570 align:middle line:90%
+to the rival firms.
+
+01:20:25.570 --> 01:20:28.430 align:middle line:90%
+
+
+01:20:28.430 --> 01:20:30.920 align:middle line:84%
+Next topic he does in
+the structural model
+
+01:20:30.920 --> 01:20:33.933 align:middle line:84%
+is asking how much
+advertising the firms do
+
+01:20:33.933 --> 01:20:36.350 align:middle line:84%
+relative to what the model
+says would be the optimal level
+
+01:20:36.350 --> 01:20:37.570 align:middle line:90%
+of advertising.
+
+01:20:37.570 --> 01:20:39.980 align:middle line:84%
+You know, many, many
+structural papers
+
+01:20:39.980 --> 01:20:43.130 align:middle line:84%
+impose the supply side
+first order conditions,
+
+01:20:43.130 --> 01:20:46.790 align:middle line:84%
+imposing that firms
+are behaving optimally.
+
+01:20:46.790 --> 01:20:48.410 align:middle line:84%
+Shapiro does not
+want to do that.
+
+01:20:48.410 --> 01:20:51.800 align:middle line:84%
+His argument for why he does not
+want to do that is advertising
+
+01:20:51.800 --> 01:20:52.670 align:middle line:90%
+is brand new.
+
+01:20:52.670 --> 01:20:55.970 align:middle line:84%
+It's being done for the first
+time in the United States.
+
+01:20:55.970 --> 01:20:57.918 align:middle line:84%
+Doesn't really happen
+elsewhere in the world.
+
+01:20:57.918 --> 01:20:59.960 align:middle line:84%
+Why would the firms know
+what the marginal return
+
+01:20:59.960 --> 01:21:02.210 align:middle line:84%
+to advertising is until
+they've been doing advertising
+
+01:21:02.210 --> 01:21:04.460 align:middle line:90%
+for some period of time?
+
+01:21:04.460 --> 01:21:06.770 align:middle line:84%
+What he finds in
+his simulation is
+
+01:21:06.770 --> 01:21:09.320 align:middle line:84%
+that it looks like the
+advertising-- given
+
+01:21:09.320 --> 01:21:11.330 align:middle line:84%
+the advertising is
+effective, firms
+
+01:21:11.330 --> 01:21:14.420 align:middle line:84%
+should be doing much more
+advertising than they do.
+
+01:21:14.420 --> 01:21:18.020 align:middle line:84%
+In particular, in the early part
+of the sample when it is just
+
+01:21:18.020 --> 01:21:20.480 align:middle line:84%
+Paxil and Prozac
+being advertised,
+
+01:21:20.480 --> 01:21:23.870 align:middle line:84%
+the firm should be
+advertising four times more
+
+01:21:23.870 --> 01:21:25.550 align:middle line:84%
+than they do if they
+did the equilibrium
+
+01:21:25.550 --> 01:21:31.130 align:middle line:84%
+level of advertising, even
+given the free rider problem.
+
+01:21:31.130 --> 01:21:32.910 align:middle line:90%
+It's different across the firms.
+
+01:21:32.910 --> 01:21:35.870 align:middle line:84%
+You know, Paxil, which doesn't
+have a big market share,
+
+01:21:35.870 --> 01:21:37.700 align:middle line:84%
+or doesn't have a
+very big market share,
+
+01:21:37.700 --> 01:21:40.530 align:middle line:84%
+is doing about as much
+advertising as it should.
+
+01:21:40.530 --> 01:21:44.600 align:middle line:84%
+And it's Eli Lilly who's doing
+much less advertising than it
+
+01:21:44.600 --> 01:21:47.395 align:middle line:84%
+should, although Eli
+Lilly does come in notably
+
+01:21:47.395 --> 01:21:48.770 align:middle line:84%
+and do a lot of
+advertising right
+
+01:21:48.770 --> 01:21:50.730 align:middle line:84%
+in the very final
+month of that sample.
+
+01:21:50.730 --> 01:21:52.790 align:middle line:84%
+So what he finds is
+that firms should
+
+01:21:52.790 --> 01:21:54.770 align:middle line:84%
+be doing four times
+as much advertising
+
+01:21:54.770 --> 01:21:56.187 align:middle line:84%
+as they could if
+they were playing
+
+01:21:56.187 --> 01:21:58.220 align:middle line:90%
+the equilibrium of this game.
+
+01:21:58.220 --> 01:22:00.050 align:middle line:84%
+Second counterfactual
+said, well,
+
+01:22:00.050 --> 01:22:03.560 align:middle line:84%
+what if they had an
+advertising cooperative?
+
+01:22:03.560 --> 01:22:05.570 align:middle line:84%
+As he said, advertising
+can be much less
+
+01:22:05.570 --> 01:22:08.600 align:middle line:84%
+than is optimal for the
+firms, given that there are so
+
+01:22:08.600 --> 01:22:11.960 align:middle line:84%
+many spillovers and that
+advertising by one firm
+
+01:22:11.960 --> 01:22:14.660 align:middle line:84%
+decreases the incentives of
+the other firms to advertise.
+
+01:22:14.660 --> 01:22:17.120 align:middle line:84%
+And what he finds is that an
+advertising cooperative would
+
+01:22:17.120 --> 01:22:20.600 align:middle line:84%
+then do yet two and a half
+times more advertising than
+
+01:22:20.600 --> 01:22:22.260 align:middle line:90%
+would happen in equilibrium.
+
+01:22:22.260 --> 01:22:25.490 align:middle line:84%
+So that's 10 times the
+current level of advertising
+
+01:22:25.490 --> 01:22:27.885 align:middle line:84%
+is what an advertising
+cooperative would do.
+
+01:22:27.885 --> 01:22:31.108 align:middle line:84%
+What would be the
+profit impact of that?
+
+01:22:31.108 --> 01:22:33.150 align:middle line:84%
+Raising advertising by a
+factor of 10-- you know,
+
+01:22:33.150 --> 01:22:35.560 align:middle line:84%
+the advertising
+does cost money--
+
+01:22:35.560 --> 01:22:38.855 align:middle line:84%
+ends up raising profits by
+about 15% for the firms.
+
+01:22:38.855 --> 01:22:41.860 align:middle line:90%
+
+
+01:22:41.860 --> 01:22:45.790 align:middle line:84%
+So I guess that's roughly
+a summary of the paper
+
+01:22:45.790 --> 01:22:47.810 align:middle line:90%
+is that he has these two parts.
+
+01:22:47.810 --> 01:22:52.720 align:middle line:84%
+He's got the nice, simple causal
+analysis part using this DMA
+
+01:22:52.720 --> 01:22:54.660 align:middle line:90%
+border variation.
+
+01:22:54.660 --> 01:22:58.510 align:middle line:84%
+DMA border variation tells us
+that advertising is effective
+
+01:22:58.510 --> 01:23:01.250 align:middle line:84%
+and advertising crowds
+out-rival advertising.
+
+01:23:01.250 --> 01:23:03.320 align:middle line:84%
+He then builds that
+structural model.
+
+01:23:03.320 --> 01:23:08.350 align:middle line:84%
+The structural model
+lets us put more detail
+
+01:23:08.350 --> 01:23:09.943 align:middle line:90%
+on what these curves look like.
+
+01:23:09.943 --> 01:23:11.860 align:middle line:84%
+Obviously, more detail
+on what they look like,
+
+01:23:11.860 --> 01:23:13.760 align:middle line:84%
+given assumptions on
+what they look like.
+
+01:23:13.760 --> 01:23:16.240 align:middle line:84%
+But the advantage of
+putting that second part in
+
+01:23:16.240 --> 01:23:18.910 align:middle line:84%
+is that the second part, we
+can't talk about optimality.
+
+01:23:18.910 --> 01:23:20.500 align:middle line:84%
+And the optimality,
+what he finds
+
+01:23:20.500 --> 01:23:22.420 align:middle line:84%
+is that in equilibrium,
+once the firms learn
+
+01:23:22.420 --> 01:23:25.120 align:middle line:84%
+how effective
+advertising is, you
+
+01:23:25.120 --> 01:23:27.740 align:middle line:84%
+would expect them to advertise
+much more than they do.
+
+01:23:27.740 --> 01:23:29.200 align:middle line:84%
+That seems like
+that could explain
+
+01:23:29.200 --> 01:23:30.700 align:middle line:84%
+what's happened in
+American TV where
+
+01:23:30.700 --> 01:23:32.308 align:middle line:90%
+we do see a lot of advertising.
+
+01:23:32.308 --> 01:23:34.600 align:middle line:84%
+And then he talks about the
+magnitude of the free rider
+
+01:23:34.600 --> 01:23:35.120 align:middle line:90%
+effects.
+
+01:23:35.120 --> 01:23:37.510 align:middle line:84%
+And again, the free rider
+effects are very large here,
+
+01:23:37.510 --> 01:23:40.450 align:middle line:84%
+and firms are greatly
+advertising relative
+
+01:23:40.450 --> 01:23:42.168 align:middle line:84%
+to the firms'
+collective interest.
+
+01:23:42.168 --> 01:23:44.460 align:middle line:84%
+Whether you think it's social
+interest or not obviously
+
+01:23:44.460 --> 01:23:46.280 align:middle line:84%
+depends on whether
+you think depression
+
+01:23:46.280 --> 01:23:49.430 align:middle line:84%
+is being undertreated or
+overtreated with medications.
+
+01:23:49.430 --> 01:23:52.970 align:middle line:84%
+And what are the benefits
+of that to people?
+
+01:23:52.970 --> 01:23:53.780 align:middle line:90%
+OK.
+
+01:23:53.780 --> 01:23:56.130 align:middle line:84%
+So guess that's about
+all I had for today.
+
+01:23:56.130 --> 01:24:00.200 align:middle line:84%
+So I'm going to then just
+finish up saying next class,
+
+01:24:00.200 --> 01:24:03.270 align:middle line:84%
+we're going to be back in the
+theory empirical rotation.
+
+01:24:03.270 --> 01:24:05.570 align:middle line:84%
+I'll go back to talking
+about theory work.
+
+01:24:05.570 --> 01:24:08.330 align:middle line:84%
+And I'll do three
+theoretical papers
+
+01:24:08.330 --> 01:24:09.650 align:middle line:90%
+that are on search engines.
+
+01:24:09.650 --> 01:24:11.330 align:middle line:84%
+The Edelman,
+Ostrovsky, Schwartz,
+
+01:24:11.330 --> 01:24:15.510 align:middle line:84%
+my paper with Susan Athey, and
+Anderson and Renault's paper.
+
+01:24:15.510 --> 01:24:18.770 align:middle line:84%
+And then I will do one paper
+by Armstrong and Zhou, which
+
+01:24:18.770 --> 01:24:22.640 align:middle line:84%
+is about retail platforms
+and thinking about design
+
+01:24:22.640 --> 01:24:26.170 align:middle line:84%
+of a retail platform, how much
+information to give consumers.
+
+01:24:26.170 --> 01:24:43.000 align:middle line:90%

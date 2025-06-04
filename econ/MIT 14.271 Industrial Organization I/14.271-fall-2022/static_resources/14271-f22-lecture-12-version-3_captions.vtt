@@ -1,0 +1,5069 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.420 align:middle line:90%
+[SQUEAKING]
+
+00:00:01.420 --> 00:00:01.920 align:middle line:90%
+
+
+00:00:01.920 --> 00:00:03.820 align:middle line:90%
+[RUSTLING]
+
+00:00:03.820 --> 00:00:04.320 align:middle line:90%
+
+
+00:00:04.320 --> 00:00:07.680 align:middle line:90%
+[CLICKING]
+
+00:00:07.680 --> 00:00:10.560 align:middle line:90%
+
+
+00:00:10.560 --> 00:00:12.740 align:middle line:84%
+GIAN PAOLO BERETTA:
+OK, good morning.
+
+00:00:12.740 --> 00:00:16.390 align:middle line:90%
+
+
+00:00:16.390 --> 00:00:23.673 align:middle line:84%
+So we started talking about
+multi-component systems,
+
+00:00:23.673 --> 00:00:24.173 align:middle line:90%
+mixtures.
+
+00:00:24.173 --> 00:00:27.570 align:middle line:90%
+
+
+00:00:27.570 --> 00:00:32.009 align:middle line:84%
+And our program is
+that at the beginning,
+
+00:00:32.009 --> 00:00:35.100 align:middle line:84%
+we try to see when
+it is possible
+
+00:00:35.100 --> 00:00:42.690 align:middle line:84%
+to infer the properties of a
+mixture as much as possible
+
+00:00:42.690 --> 00:00:47.430 align:middle line:84%
+from the properties of
+the pure components.
+
+00:00:47.430 --> 00:00:52.530 align:middle line:84%
+And so we are in the process of
+defining some ideal situations
+
+00:00:52.530 --> 00:00:57.250 align:middle line:84%
+in which this is possible,
+which as we said,
+
+00:00:57.250 --> 00:01:02.640 align:middle line:84%
+is a good start in
+our modeling efforts.
+
+00:01:02.640 --> 00:01:06.540 align:middle line:84%
+It's like a reference
+sample situation
+
+00:01:06.540 --> 00:01:17.370 align:middle line:84%
+in which we do not need to
+add experimental data to model
+
+00:01:17.370 --> 00:01:18.900 align:middle line:90%
+our mixtures.
+
+00:01:18.900 --> 00:01:24.480 align:middle line:84%
+But then we will find that in
+practice, the ideal situation
+
+00:01:24.480 --> 00:01:28.830 align:middle line:84%
+is really only a
+limiting situation, which
+
+00:01:28.830 --> 00:01:35.720 align:middle line:84%
+is not fulfilled by any real
+mixture, except in some limits.
+
+00:01:35.720 --> 00:01:39.450 align:middle line:90%
+
+
+00:01:39.450 --> 00:01:45.120 align:middle line:84%
+Nevertheless, we gain
+a lot of information
+
+00:01:45.120 --> 00:01:47.380 align:middle line:84%
+by just looking at
+ideal situations.
+
+00:01:47.380 --> 00:01:56.820 align:middle line:84%
+So we have defined
+these partial properties
+
+00:01:56.820 --> 00:02:02.520 align:middle line:84%
+that are derivatives or
+functions of the chemical
+
+00:02:02.520 --> 00:02:05.460 align:middle line:90%
+potentials.
+
+00:02:05.460 --> 00:02:11.880 align:middle line:84%
+For example, the partial
+entropy of the constituent
+
+00:02:11.880 --> 00:02:16.390 align:middle line:84%
+in the mixture, which is
+a function of t, p, and y.
+
+00:02:16.390 --> 00:02:24.150 align:middle line:84%
+We will have to be careful
+in distinguishing well
+
+00:02:24.150 --> 00:02:28.530 align:middle line:84%
+between the partial entropy of
+the constituent in the mixture
+
+00:02:28.530 --> 00:02:33.360 align:middle line:84%
+and the s double i
+tp, which is going
+
+00:02:33.360 --> 00:02:39.790 align:middle line:84%
+to be-- which is the specific
+property, the specific entropy,
+
+00:02:39.790 --> 00:02:42.970 align:middle line:84%
+of pure component i when
+at the same temperature
+
+00:02:42.970 --> 00:02:45.370 align:middle line:90%
+and pressure of the mixture.
+
+00:02:45.370 --> 00:02:49.450 align:middle line:84%
+We will see that they
+are somehow related
+
+00:02:49.450 --> 00:02:54.280 align:middle line:84%
+and the difference
+is measurable.
+
+00:02:54.280 --> 00:02:58.850 align:middle line:84%
+So we have to pay a lot of
+attention to the subscripts.
+
+00:02:58.850 --> 00:03:02.170 align:middle line:84%
+Like, so a single subscript
+is a partial property
+
+00:03:02.170 --> 00:03:03.530 align:middle line:90%
+for the mixture.
+
+00:03:03.530 --> 00:03:11.200 align:middle line:84%
+Double subscript is specific
+property of the pure component.
+
+00:03:11.200 --> 00:03:13.460 align:middle line:84%
+And then we define
+the partial volume,
+
+00:03:13.460 --> 00:03:16.580 align:middle line:84%
+which is another derivative
+of the chemical potential
+
+00:03:16.580 --> 00:03:18.550 align:middle line:84%
+once we know the
+chemical potentials
+
+00:03:18.550 --> 00:03:22.540 align:middle line:84%
+as a function of temperature,
+pressure, and composition.
+
+00:03:22.540 --> 00:03:24.670 align:middle line:90%
+We define the partial energy.
+
+00:03:24.670 --> 00:03:27.140 align:middle line:84%
+And also, we define
+the partial enthalpy.
+
+00:03:27.140 --> 00:03:32.350 align:middle line:90%
+And let me just stress this one.
+
+00:03:32.350 --> 00:03:36.340 align:middle line:84%
+If you have the expression
+for the chemical potential
+
+00:03:36.340 --> 00:03:39.150 align:middle line:84%
+and you divide it
+by the temperature,
+
+00:03:39.150 --> 00:03:41.970 align:middle line:84%
+and take the derivative not with
+respect to t, but with respect
+
+00:03:41.970 --> 00:03:44.640 align:middle line:84%
+to the inverse of
+the temperature,
+
+00:03:44.640 --> 00:03:48.060 align:middle line:84%
+then you get the
+partial enthalpy.
+
+00:03:48.060 --> 00:03:53.590 align:middle line:84%
+This formula will come
+out a while often.
+
+00:03:53.590 --> 00:04:04.140 align:middle line:84%
+And also, this one, which I
+better write here on the board,
+
+00:04:04.140 --> 00:04:06.110 align:middle line:90%
+we can write it this way.
+
+00:04:06.110 --> 00:04:09.090 align:middle line:90%
+
+
+00:04:09.090 --> 00:04:15.260 align:middle line:90%
+OK, so we can say that--
+
+00:04:15.260 --> 00:04:18.000 align:middle line:84%
+we can see that from
+this relation here,
+
+00:04:18.000 --> 00:04:21.410 align:middle line:84%
+we can see that the
+chemical potential can be--
+
+00:04:21.410 --> 00:04:24.230 align:middle line:84%
+of the component
+in the mixture can
+
+00:04:24.230 --> 00:04:29.330 align:middle line:84%
+be written as this linear
+combination, enthalpy
+
+00:04:29.330 --> 00:04:31.670 align:middle line:84%
+minus ts, which
+essentially is also
+
+00:04:31.670 --> 00:04:33.660 align:middle line:90%
+equal to the Gibbs free energy.
+
+00:04:33.660 --> 00:04:39.965 align:middle line:84%
+So this is also equal to the
+partial Gibbs free energy.
+
+00:04:39.965 --> 00:04:44.750 align:middle line:90%
+
+
+00:04:44.750 --> 00:04:51.560 align:middle line:84%
+And in fact, the derivative of g
+with respect to ni, with respect
+
+00:04:51.560 --> 00:04:54.390 align:middle line:84%
+fixed t and p, and the
+other constituents,
+
+00:04:54.390 --> 00:04:59.930 align:middle line:84%
+that's the definition of the
+chemical potential in terms
+
+00:04:59.930 --> 00:05:01.050 align:middle line:90%
+of the Gibbs free energy.
+
+00:05:01.050 --> 00:05:04.910 align:middle line:84%
+But it's also-- you could
+also call it by analogy
+
+00:05:04.910 --> 00:05:07.490 align:middle line:84%
+with these definitions,
+the partial Gibbs
+
+00:05:07.490 --> 00:05:09.510 align:middle line:84%
+free energy of the
+constituent in the mixture.
+
+00:05:09.510 --> 00:05:14.190 align:middle line:84%
+So in other words, we're saying
+that the chemical potential
+
+00:05:14.190 --> 00:05:17.170 align:middle line:84%
+can be interpreted itself
+as a partial property.
+
+00:05:17.170 --> 00:05:18.660 align:middle line:84%
+It's the partial
+Gibbs free energy
+
+00:05:18.660 --> 00:05:20.077 align:middle line:84%
+of the constituent
+in the mixture.
+
+00:05:20.077 --> 00:05:25.750 align:middle line:90%
+
+
+00:05:25.750 --> 00:05:31.870 align:middle line:84%
+And the reason why we call
+these properties partial
+
+00:05:31.870 --> 00:05:40.810 align:middle line:84%
+is because they
+contribute to building up
+
+00:05:40.810 --> 00:05:46.990 align:middle line:84%
+the property of the mixture
+by simple multiplication
+
+00:05:46.990 --> 00:05:47.910 align:middle line:90%
+with their amounts.
+
+00:05:47.910 --> 00:05:50.540 align:middle line:90%
+
+
+00:05:50.540 --> 00:05:55.130 align:middle line:84%
+And each-- and you can do this
+for entropy, volume, energy,
+
+00:05:55.130 --> 00:05:58.010 align:middle line:90%
+the free energies, the enthalpy.
+
+00:05:58.010 --> 00:06:02.010 align:middle line:84%
+They are all-- they all
+have the same structure.
+
+00:06:02.010 --> 00:06:05.590 align:middle line:90%
+
+
+00:06:05.590 --> 00:06:10.150 align:middle line:84%
+Of course, now, we are-- we
+forget the small systems,
+
+00:06:10.150 --> 00:06:11.990 align:middle line:90%
+and we focus on large systems.
+
+00:06:11.990 --> 00:06:17.270 align:middle line:84%
+So this is the right-hand
+side, the highlighted formulas,
+
+00:06:17.270 --> 00:06:19.990 align:middle line:84%
+because for small
+systems, we will
+
+00:06:19.990 --> 00:06:23.110 align:middle line:84%
+have also to some
+contributions that
+
+00:06:23.110 --> 00:06:29.730 align:middle line:84%
+correct this expression in
+terms of the Euler free energy.
+
+00:06:29.730 --> 00:06:33.220 align:middle line:90%
+
+
+00:06:33.220 --> 00:06:44.840 align:middle line:84%
+OK, so how do we measure
+these partial properties?
+
+00:06:44.840 --> 00:06:45.850 align:middle line:90%
+And here's the setup.
+
+00:06:45.850 --> 00:06:49.730 align:middle line:90%
+
+
+00:06:49.730 --> 00:06:56.750 align:middle line:84%
+We take a mixture with
+a given composition,
+
+00:06:56.750 --> 00:06:59.490 align:middle line:90%
+in stable equilibrium of course.
+
+00:06:59.490 --> 00:07:03.660 align:middle line:84%
+I know I'm not repeating
+it often enough,
+
+00:07:03.660 --> 00:07:07.640 align:middle line:84%
+but we are concentrating
+our attention now
+
+00:07:07.640 --> 00:07:09.275 align:middle line:90%
+on the stable equilibrium state.
+
+00:07:09.275 --> 00:07:11.810 align:middle line:90%
+
+
+00:07:11.810 --> 00:07:16.520 align:middle line:84%
+And so we take a mixture
+with some given composition
+
+00:07:16.520 --> 00:07:19.380 align:middle line:84%
+at a stable equilibrium state,
+the temperature and pressure p.
+
+00:07:19.380 --> 00:07:21.990 align:middle line:90%
+
+
+00:07:21.990 --> 00:07:28.560 align:middle line:84%
+And we put it in
+mutual equilibrium
+
+00:07:28.560 --> 00:07:32.280 align:middle line:84%
+with a thermal reservoir
+of the kind that
+
+00:07:32.280 --> 00:07:35.560 align:middle line:90%
+can exchange also volume.
+
+00:07:35.560 --> 00:07:38.670 align:middle line:84%
+So you have also the
+pressure equality
+
+00:07:38.670 --> 00:07:41.700 align:middle line:84%
+as a condition for mutual
+equilibrium between your mixture
+
+00:07:41.700 --> 00:07:42.790 align:middle line:90%
+and the reservoir.
+
+00:07:42.790 --> 00:07:45.930 align:middle line:90%
+
+
+00:07:45.930 --> 00:07:54.526 align:middle line:84%
+Then we take a little
+bit of pure component i,
+
+00:07:54.526 --> 00:07:57.820 align:middle line:90%
+and we add it to the mixture.
+
+00:07:57.820 --> 00:08:03.190 align:middle line:84%
+And we wait until the
+mixture goes again
+
+00:08:03.190 --> 00:08:06.880 align:middle line:84%
+to mutual equilibrium with
+that thermal reservoir.
+
+00:08:06.880 --> 00:08:12.490 align:middle line:84%
+OK, so this is a
+mixing process in which
+
+00:08:12.490 --> 00:08:16.220 align:middle line:84%
+we add a small amount of
+one of the components.
+
+00:08:16.220 --> 00:08:18.740 align:middle line:90%
+
+
+00:08:18.740 --> 00:08:24.810 align:middle line:84%
+And then since we can measure
+properties of systems,
+
+00:08:24.810 --> 00:08:28.170 align:middle line:84%
+for example, let me
+take the enthalpy.
+
+00:08:28.170 --> 00:08:34.110 align:middle line:84%
+And so let me measure the
+difference between the enthalpy
+
+00:08:34.110 --> 00:08:41.230 align:middle line:84%
+of the mixture in
+this final state
+
+00:08:41.230 --> 00:08:45.610 align:middle line:84%
+and the enthalpy of the
+composite system of the mixture
+
+00:08:45.610 --> 00:08:51.160 align:middle line:84%
+plus the pure component
+in the initial state.
+
+00:08:51.160 --> 00:08:55.040 align:middle line:84%
+OK, so this is for the
+mixture in the final state.
+
+00:08:55.040 --> 00:08:59.590 align:middle line:84%
+The amounts are the same, but
+the amount for the constituent i
+
+00:08:59.590 --> 00:09:02.440 align:middle line:90%
+is n plus dn.
+
+00:09:02.440 --> 00:09:08.260 align:middle line:84%
+This is the initial where in
+the mixture, I just have ni
+
+00:09:08.260 --> 00:09:11.360 align:middle line:84%
+and the dni is separate
+from the mixture.
+
+00:09:11.360 --> 00:09:15.700 align:middle line:90%
+So it contributes with its own--
+
+00:09:15.700 --> 00:09:19.690 align:middle line:84%
+to the enthalpy of
+the pure constituent
+
+00:09:19.690 --> 00:09:24.760 align:middle line:84%
+through its specific property
+of the pure component.
+
+00:09:24.760 --> 00:09:31.300 align:middle line:84%
+And notice that usually, as I
+said several times, enthalpy
+
+00:09:31.300 --> 00:09:33.050 align:middle line:90%
+is not an additive property.
+
+00:09:33.050 --> 00:09:40.060 align:middle line:84%
+But if you're looking at systems
+that are at the same temp--
+
+00:09:40.060 --> 00:09:43.280 align:middle line:84%
+pressure, then
+enthalpy is additive.
+
+00:09:43.280 --> 00:09:48.580 align:middle line:84%
+And therefore, the enthalpy
+of the composite of these two
+
+00:09:48.580 --> 00:09:52.250 align:middle line:84%
+subsystems is equal to the
+sum of the two enthalpies,
+
+00:09:52.250 --> 00:09:55.680 align:middle line:84%
+like we do here, the sum of
+the enthalpy of the mixture,
+
+00:09:55.680 --> 00:09:58.520 align:middle line:84%
+plus the enthalpy of
+the pure component.
+
+00:09:58.520 --> 00:10:03.480 align:middle line:84%
+OK, now if we take
+this and divide it
+
+00:10:03.480 --> 00:10:06.720 align:middle line:84%
+by the amount of
+constituent i that we
+
+00:10:06.720 --> 00:10:13.500 align:middle line:84%
+have added to the mixture,
+that defines the change
+
+00:10:13.500 --> 00:10:21.900 align:middle line:84%
+in the enthalpy due to
+the addition of that
+
+00:10:21.900 --> 00:10:25.320 align:middle line:84%
+amount of a small amount
+of that component.
+
+00:10:25.320 --> 00:10:29.170 align:middle line:84%
+And of course, the n is
+supposed to be small.
+
+00:10:29.170 --> 00:10:32.356 align:middle line:84%
+So we're taking the
+limit of this, which is--
+
+00:10:32.356 --> 00:10:35.940 align:middle line:84%
+which can be viewed as an
+incremental product, at least
+
+00:10:35.940 --> 00:10:39.690 align:middle line:84%
+the part with the
+capital H. It's
+
+00:10:39.690 --> 00:10:43.590 align:middle line:84%
+a partial derivative of
+capital H with respect to ni.
+
+00:10:43.590 --> 00:10:45.780 align:middle line:84%
+And then there is this
+additional contribution
+
+00:10:45.780 --> 00:10:48.850 align:middle line:84%
+of the separate pure
+component that we have added,
+
+00:10:48.850 --> 00:10:50.710 align:middle line:90%
+which since I divided--
+
+00:10:50.710 --> 00:10:55.560 align:middle line:84%
+I'm dividing by dni
+adds, but with the minus
+
+00:10:55.560 --> 00:10:58.890 align:middle line:90%
+sign, a contribution here.
+
+00:10:58.890 --> 00:11:01.570 align:middle line:84%
+Now, we recognize
+that this derivative
+
+00:11:01.570 --> 00:11:06.010 align:middle line:84%
+is exactly what we defined
+as the partial enthalpy
+
+00:11:06.010 --> 00:11:09.460 align:middle line:84%
+of the constituent in the
+mixture in the previous slide.
+
+00:11:09.460 --> 00:11:15.320 align:middle line:84%
+So here, we have the difference
+between the partial enthalpy
+
+00:11:15.320 --> 00:11:18.800 align:middle line:84%
+and the specific enthalpy
+of pure component
+
+00:11:18.800 --> 00:11:22.310 align:middle line:84%
+at the same [INAUDIBLE]
+of the mixture.
+
+00:11:22.310 --> 00:11:24.650 align:middle line:84%
+This is what we
+call the enthalpy
+
+00:11:24.650 --> 00:11:28.460 align:middle line:90%
+of isothermobaric mixing.
+
+00:11:28.460 --> 00:11:33.020 align:middle line:84%
+Tp stands for
+isothermal and isobaric
+
+00:11:33.020 --> 00:11:37.610 align:middle line:84%
+because we are doing
+this in a fixed T
+
+00:11:37.610 --> 00:11:40.020 align:middle line:90%
+and p imposed by the reservoir.
+
+00:11:40.020 --> 00:11:44.350 align:middle line:90%
+
+
+00:11:44.350 --> 00:11:47.680 align:middle line:90%
+This can be measured.
+
+00:11:47.680 --> 00:11:54.010 align:middle line:84%
+Enthalpy in a process
+like this is essentially,
+
+00:11:54.010 --> 00:11:56.590 align:middle line:84%
+if you make the
+energy balance, this
+
+00:11:56.590 --> 00:11:59.470 align:middle line:84%
+is essentially
+the heat exchanged
+
+00:11:59.470 --> 00:12:03.850 align:middle line:90%
+with the thermal reservoir.
+
+00:12:03.850 --> 00:12:06.350 align:middle line:84%
+So you measure it
+with a calorimeter.
+
+00:12:06.350 --> 00:12:09.140 align:middle line:90%
+
+
+00:12:09.140 --> 00:12:14.940 align:middle line:84%
+So that means that since you can
+measure this with a calorimeter
+
+00:12:14.940 --> 00:12:17.920 align:middle line:84%
+and you know the properties
+of pure substances,
+
+00:12:17.920 --> 00:12:20.400 align:middle line:84%
+then you have measured
+the partial enthalpy
+
+00:12:20.400 --> 00:12:22.230 align:middle line:90%
+of the component in the mixture.
+
+00:12:22.230 --> 00:12:27.570 align:middle line:84%
+And this doesn't require
+any particular assumptions
+
+00:12:27.570 --> 00:12:31.640 align:middle line:84%
+about the mixture being
+ideal or non-ideal.
+
+00:12:31.640 --> 00:12:36.640 align:middle line:84%
+We actually haven't even
+defined yet what ideal means.
+
+00:12:36.640 --> 00:12:40.000 align:middle line:84%
+It's simply a tool, a
+method, with which people
+
+00:12:40.000 --> 00:12:44.920 align:middle line:90%
+measure properties of mixtures.
+
+00:12:44.920 --> 00:12:48.400 align:middle line:84%
+And what we have done
+here for the enthalpy
+
+00:12:48.400 --> 00:12:51.710 align:middle line:90%
+can be repeated the same way.
+
+00:12:51.710 --> 00:13:00.250 align:middle line:84%
+So I'm not repeating
+it here, but to define
+
+00:13:00.250 --> 00:13:03.880 align:middle line:84%
+the volume of mixing,
+so it's the difference
+
+00:13:03.880 --> 00:13:07.390 align:middle line:84%
+between the partial volume
+and the specific volume
+
+00:13:07.390 --> 00:13:10.180 align:middle line:84%
+at the same t and p,
+the energy of mixing
+
+00:13:10.180 --> 00:13:12.060 align:middle line:90%
+and the entropy of mixing.
+
+00:13:12.060 --> 00:13:16.180 align:middle line:90%
+
+
+00:13:16.180 --> 00:13:18.520 align:middle line:84%
+And these are all things
+that you can measure
+
+00:13:18.520 --> 00:13:20.430 align:middle line:90%
+by energy and entropy balances.
+
+00:13:20.430 --> 00:13:25.040 align:middle line:90%
+
+
+00:13:25.040 --> 00:13:28.460 align:middle line:84%
+So these are ways in which
+you can characterize.
+
+00:13:28.460 --> 00:13:30.230 align:middle line:90%
+OK, this is a--
+
+00:13:30.230 --> 00:13:31.970 align:middle line:90%
+oops, sorry.
+
+00:13:31.970 --> 00:13:38.460 align:middle line:84%
+Yeah, there is an
+extra character there.
+
+00:13:38.460 --> 00:13:41.210 align:middle line:90%
+OK.
+
+00:13:41.210 --> 00:13:41.730 align:middle line:90%
+All right.
+
+00:13:41.730 --> 00:13:45.350 align:middle line:84%
+So now, let's use
+that equation, which
+
+00:13:45.350 --> 00:13:48.920 align:middle line:84%
+I've written up
+there on the board
+
+00:13:48.920 --> 00:14:02.770 align:middle line:84%
+and substitute the expression of
+the partial enthalpy as a hii.
+
+00:14:02.770 --> 00:14:05.040 align:middle line:84%
+So the specific enthalpy
+of the pure component
+
+00:14:05.040 --> 00:14:07.680 align:middle line:90%
+times the enthalpy of mixing.
+
+00:14:07.680 --> 00:14:11.350 align:middle line:84%
+And the same for the
+entropy, s partial.
+
+00:14:11.350 --> 00:14:17.610 align:middle line:84%
+We can write it as s specific
+of the pure component
+
+00:14:17.610 --> 00:14:21.080 align:middle line:84%
+times the entropy of
+isothermobaric mixing.
+
+00:14:21.080 --> 00:14:23.930 align:middle line:90%
+
+
+00:14:23.930 --> 00:14:27.860 align:middle line:84%
+All right, so then,
+we recognize that also
+
+00:14:27.860 --> 00:14:36.410 align:middle line:84%
+for the pure substance, h minus
+ts is the chemical potential.
+
+00:14:36.410 --> 00:14:42.890 align:middle line:84%
+So this gives us a relation
+for the chemical potential,
+
+00:14:42.890 --> 00:14:44.660 align:middle line:84%
+the component in
+the mixture in terms
+
+00:14:44.660 --> 00:14:46.850 align:middle line:84%
+of the chemical potential
+of the pure component
+
+00:14:46.850 --> 00:14:49.940 align:middle line:84%
+at the same temperature and
+pressure of the mixture,
+
+00:14:49.940 --> 00:14:54.890 align:middle line:84%
+plus the enthalpy of
+mixing minus t times
+
+00:14:54.890 --> 00:14:58.310 align:middle line:90%
+the entropy of mixing.
+
+00:14:58.310 --> 00:15:00.650 align:middle line:84%
+And at this stage, we
+should also remember that
+
+00:15:00.650 --> 00:15:04.460 align:middle line:84%
+by the definition of partial
+pressures of components
+
+00:15:04.460 --> 00:15:06.230 align:middle line:90%
+in a mixture.
+
+00:15:06.230 --> 00:15:12.410 align:middle line:84%
+You recall that that is
+defined by the condition
+
+00:15:12.410 --> 00:15:17.720 align:middle line:84%
+of mutual equilibrium across
+a membrane, permeable only,
+
+00:15:17.720 --> 00:15:19.460 align:middle line:90%
+to constituent i.
+
+00:15:19.460 --> 00:15:24.450 align:middle line:84%
+So at that mutual equilibrium
+across the membrane,
+
+00:15:24.450 --> 00:15:27.950 align:middle line:84%
+you have equality of
+chemical potentials.
+
+00:15:27.950 --> 00:15:31.370 align:middle line:84%
+So the chemical potential of
+a constituent in the mixture
+
+00:15:31.370 --> 00:15:34.433 align:middle line:84%
+is also equal to the
+chemical potential.
+
+00:15:34.433 --> 00:15:36.100 align:middle line:84%
+And here, there is
+also another mistake.
+
+00:15:36.100 --> 00:15:38.810 align:middle line:90%
+This should be a double i.
+
+00:15:38.810 --> 00:15:42.200 align:middle line:84%
+This is the chemical
+potential of a pure component
+
+00:15:42.200 --> 00:15:50.060 align:middle line:84%
+on the other side of the
+semi-permeable membrane.
+
+00:15:50.060 --> 00:15:51.870 align:middle line:90%
+And therefore, yes.
+
+00:15:51.870 --> 00:15:53.970 align:middle line:84%
+At the same temperature
+of the mixture,
+
+00:15:53.970 --> 00:15:58.595 align:middle line:84%
+but at a pressure which is what
+we call the partial pressure.
+
+00:15:58.595 --> 00:16:02.820 align:middle line:90%
+
+
+00:16:02.820 --> 00:16:12.720 align:middle line:84%
+So again, here, I cut and
+paste, makes errors propagate.
+
+00:16:12.720 --> 00:16:17.130 align:middle line:84%
+So this should be
+double i and double i.
+
+00:16:17.130 --> 00:16:25.080 align:middle line:84%
+OK, so the-- we are now
+taking this last equality
+
+00:16:25.080 --> 00:16:28.210 align:middle line:84%
+and putting in evidence
+the difference.
+
+00:16:28.210 --> 00:16:34.080 align:middle line:84%
+And so taking essentially this
+term to the right-hand side.
+
+00:16:34.080 --> 00:16:38.400 align:middle line:84%
+So I have the chemical
+potential difference
+
+00:16:38.400 --> 00:16:41.370 align:middle line:84%
+evaluated between the
+pressure-- the partial pressure
+
+00:16:41.370 --> 00:16:46.930 align:middle line:84%
+and the pressure of the
+mixture, pii minus p.
+
+00:16:46.930 --> 00:16:50.330 align:middle line:90%
+
+
+00:16:50.330 --> 00:17:02.330 align:middle line:84%
+Now here, we have already
+proved in a previous slide,
+
+00:17:02.330 --> 00:17:05.240 align:middle line:84%
+maybe we can just
+remind ourselves
+
+00:17:05.240 --> 00:17:10.670 align:middle line:90%
+of how they got here, that--
+
+00:17:10.670 --> 00:17:16.339 align:middle line:84%
+so we are having that
+new double i pii--
+
+00:17:16.339 --> 00:17:25.270 align:middle line:84%
+I'm sorry, at t and pii minus
+[INAUDIBLE] double i tp.
+
+00:17:25.270 --> 00:17:28.130 align:middle line:90%
+
+
+00:17:28.130 --> 00:17:32.115 align:middle line:90%
+OK, you see, I'm--
+
+00:17:32.115 --> 00:17:42.400 align:middle line:84%
+if I have a function of x, And
+the difference of a function
+
+00:17:42.400 --> 00:17:44.620 align:middle line:84%
+evaluated at two
+different points,
+
+00:17:44.620 --> 00:17:50.560 align:middle line:84%
+I can always write by the
+integral calculus equation
+
+00:17:50.560 --> 00:17:55.120 align:middle line:84%
+that this is equal to
+the integral from x2
+
+00:17:55.120 --> 00:18:01.030 align:middle line:84%
+to x1 of the derivative
+of that function.
+
+00:18:01.030 --> 00:18:01.815 align:middle line:90%
+Let's call it--
+
+00:18:01.815 --> 00:18:04.920 align:middle line:90%
+
+
+00:18:04.920 --> 00:18:11.810 align:middle line:84%
+And this x double prime is a
+dummy variable of integration.
+
+00:18:11.810 --> 00:18:15.480 align:middle line:84%
+OK, so these, you can
+write for any function.
+
+00:18:15.480 --> 00:18:20.120 align:middle line:90%
+So here, we apply this theorem.
+
+00:18:20.120 --> 00:18:30.330 align:middle line:84%
+So this x2 is p, x1 is
+p1ii, and the derivative
+
+00:18:30.330 --> 00:18:33.650 align:middle line:84%
+we have to put here is the
+partial derivative with respect
+
+00:18:33.650 --> 00:18:38.771 align:middle line:90%
+to p of what?
+
+00:18:38.771 --> 00:18:42.820 align:middle line:84%
+Of the chemical potential
+of the pure component
+
+00:18:42.820 --> 00:18:46.450 align:middle line:84%
+while the other
+variables are tp--
+
+00:18:46.450 --> 00:18:47.110 align:middle line:90%
+I'm sorry, t.
+
+00:18:47.110 --> 00:18:50.110 align:middle line:90%
+
+
+00:18:50.110 --> 00:19:00.380 align:middle line:84%
+And this is to be evaluated at
+the value of the dummy variable,
+
+00:19:00.380 --> 00:19:04.870 align:middle line:84%
+so at p double
+prime, and integrated
+
+00:19:04.870 --> 00:19:07.720 align:middle line:90%
+over the dummy variable.
+
+00:19:07.720 --> 00:19:14.050 align:middle line:84%
+But if you look up
+the many equations
+
+00:19:14.050 --> 00:19:17.980 align:middle line:84%
+that we have derived also
+for the pure substance,
+
+00:19:17.980 --> 00:19:23.025 align:middle line:84%
+this derivative is
+the specific volume.
+
+00:19:23.025 --> 00:19:26.260 align:middle line:90%
+
+
+00:19:26.260 --> 00:19:33.410 align:middle line:84%
+So this becomes the specific
+volume of the pure component
+
+00:19:33.410 --> 00:19:37.790 align:middle line:84%
+evaluated at temperature t
+and at the dummy pressure p
+
+00:19:37.790 --> 00:19:41.430 align:middle line:90%
+of integration p double prime.
+
+00:19:41.430 --> 00:19:44.070 align:middle line:90%
+OK, all right.
+
+00:19:44.070 --> 00:19:49.235 align:middle line:84%
+So that explains
+this integral here.
+
+00:19:49.235 --> 00:19:52.210 align:middle line:90%
+
+
+00:19:52.210 --> 00:19:55.810 align:middle line:84%
+But above, we've seen that
+this difference in chemical
+
+00:19:55.810 --> 00:20:04.480 align:middle line:84%
+potentials is equal to the delta
+h mix minus ts delta s mix.
+
+00:20:04.480 --> 00:20:12.970 align:middle line:90%
+OK, now look at this volume.
+
+00:20:12.970 --> 00:20:15.875 align:middle line:90%
+
+
+00:20:15.875 --> 00:20:22.030 align:middle line:84%
+If I have an ideal
+gas, and if I can--
+
+00:20:22.030 --> 00:20:27.970 align:middle line:84%
+my substance i behaves according
+to the ideal gas relation,
+
+00:20:27.970 --> 00:20:35.230 align:middle line:84%
+the specific volume can
+be written as rt over p.
+
+00:20:35.230 --> 00:20:39.980 align:middle line:84%
+And the pressure that we should
+evaluate is p that is here.
+
+00:20:39.980 --> 00:20:43.480 align:middle line:90%
+So it's p double prime.
+
+00:20:43.480 --> 00:20:50.710 align:middle line:84%
+And so when I do this
+integral, rt goes outside
+
+00:20:50.710 --> 00:20:53.890 align:middle line:84%
+because I'm integrating
+over p, p double prime.
+
+00:20:53.890 --> 00:20:59.440 align:middle line:84%
+And the integral of 1
+over p is the logarithm.
+
+00:20:59.440 --> 00:21:10.330 align:middle line:84%
+So that gives me the formula
+rt log of pii over p.
+
+00:21:10.330 --> 00:21:12.340 align:middle line:90%
+And that's for the gas.
+
+00:21:12.340 --> 00:21:15.250 align:middle line:90%
+
+
+00:21:15.250 --> 00:21:20.860 align:middle line:84%
+If instead I have
+a liquid and I can
+
+00:21:20.860 --> 00:21:26.020 align:middle line:84%
+use the incompressible
+liquid model for which
+
+00:21:26.020 --> 00:21:33.860 align:middle line:84%
+the specific volume vii
+is approximately constant,
+
+00:21:33.860 --> 00:21:38.590 align:middle line:84%
+meaning independent of
+temperature and pressure,
+
+00:21:38.590 --> 00:21:41.810 align:middle line:84%
+well, if it is a constant,
+it goes out of the integral.
+
+00:21:41.810 --> 00:21:48.820 align:middle line:84%
+And then this becomes
+the specific volume times
+
+00:21:48.820 --> 00:21:53.830 align:middle line:90%
+pii minus p.
+
+00:21:53.830 --> 00:21:59.380 align:middle line:84%
+And here in the
+slide, I just switch
+
+00:21:59.380 --> 00:22:03.100 align:middle line:84%
+because the pressure
+is usually greater
+
+00:22:03.100 --> 00:22:04.250 align:middle line:90%
+than the partial pressure.
+
+00:22:04.250 --> 00:22:07.660 align:middle line:84%
+So I put this difference
+in parentheses
+
+00:22:07.660 --> 00:22:11.290 align:middle line:84%
+and then I pick up a minus
+sign on the other side.
+
+00:22:11.290 --> 00:22:18.105 align:middle line:84%
+OK, so this formula will
+be useful in a moment.
+
+00:22:18.105 --> 00:22:23.220 align:middle line:90%
+
+
+00:22:23.220 --> 00:22:27.210 align:middle line:84%
+And again, we see that
+there is a relation
+
+00:22:27.210 --> 00:22:37.745 align:middle line:84%
+between the partial pressures,
+very explicit relations in terms
+
+00:22:37.745 --> 00:22:42.530 align:middle line:84%
+of the enthalpy and the entropy
+of isothermobaric mixing.
+
+00:22:42.530 --> 00:22:48.250 align:middle line:84%
+So this is a way in which you
+can measure partial pressures
+
+00:22:48.250 --> 00:22:50.770 align:middle line:84%
+because you can
+measure the properties
+
+00:22:50.770 --> 00:22:52.095 align:middle line:90%
+of isothermobaric mixing.
+
+00:22:52.095 --> 00:23:01.230 align:middle line:90%
+
+
+00:23:01.230 --> 00:23:12.000 align:middle line:84%
+For example, here, I want to
+sort of point you to a couple
+
+00:23:12.000 --> 00:23:20.300 align:middle line:84%
+of references, which if you go
+and take a look, and they'll--
+
+00:23:20.300 --> 00:23:23.275 align:middle line:90%
+
+
+00:23:23.275 --> 00:23:30.840 align:middle line:84%
+a huge literature,
+so a huge community
+
+00:23:30.840 --> 00:23:36.840 align:middle line:84%
+that over many
+decades, or perhaps
+
+00:23:36.840 --> 00:23:41.010 align:middle line:84%
+over more than a
+century, have been
+
+00:23:41.010 --> 00:23:44.310 align:middle line:90%
+measuring properties this way.
+
+00:23:44.310 --> 00:23:47.640 align:middle line:84%
+And they're still doing it
+because the applications
+
+00:23:47.640 --> 00:23:49.123 align:middle line:90%
+are growing.
+
+00:23:49.123 --> 00:23:52.820 align:middle line:90%
+
+
+00:23:52.820 --> 00:23:58.250 align:middle line:84%
+For example, this is
+an experimental paper
+
+00:23:58.250 --> 00:24:01.370 align:middle line:90%
+where they collect--
+
+00:24:01.370 --> 00:24:05.570 align:middle line:84%
+they measure the enthalpy
+of isothermobaric mixing
+
+00:24:05.570 --> 00:24:07.970 align:middle line:90%
+of liquids.
+
+00:24:07.970 --> 00:24:16.330 align:middle line:84%
+And these liquids are molten
+salts that, as you may know,
+
+00:24:16.330 --> 00:24:20.150 align:middle line:84%
+are used in various
+applications,
+
+00:24:20.150 --> 00:24:30.170 align:middle line:84%
+including solar thermal
+applications in those collectors
+
+00:24:30.170 --> 00:24:37.350 align:middle line:84%
+with mirrors that want to
+achieve high temperatures.
+
+00:24:37.350 --> 00:24:43.440 align:middle line:84%
+The molten salts allow stable
+also at very high temperatures.
+
+00:24:43.440 --> 00:24:52.910 align:middle line:84%
+And therefore,
+using these fluids,
+
+00:24:52.910 --> 00:24:58.400 align:middle line:84%
+you can collect solar
+energy at high temperatures
+
+00:24:58.400 --> 00:25:00.730 align:middle line:90%
+up to maybe 600 Celsius.
+
+00:25:00.730 --> 00:25:05.450 align:middle line:90%
+
+
+00:25:05.450 --> 00:25:11.360 align:middle line:84%
+But of course, molten salts are
+used also in nuclear engineering
+
+00:25:11.360 --> 00:25:21.170 align:middle line:84%
+and in processing industries
+for producing materials
+
+00:25:21.170 --> 00:25:25.100 align:middle line:84%
+that are useful for all
+sorts of applications,
+
+00:25:25.100 --> 00:25:32.240 align:middle line:90%
+from electronics to magnets.
+
+00:25:32.240 --> 00:25:35.402 align:middle line:90%
+OK, so this is for--
+
+00:25:35.402 --> 00:25:36.860 align:middle line:84%
+so this is a
+reference in which you
+
+00:25:36.860 --> 00:25:42.560 align:middle line:84%
+can see how people measure
+and then try to correlate.
+
+00:25:42.560 --> 00:25:46.430 align:middle line:84%
+So there is also a
+number of correlations,
+
+00:25:46.430 --> 00:25:52.910 align:middle line:84%
+which go under the names of the
+inventors of the correlations,
+
+00:25:52.910 --> 00:26:01.670 align:middle line:84%
+that do good jobs in
+determining these effects.
+
+00:26:01.670 --> 00:26:09.980 align:middle line:84%
+You see, here, the gray
+molecule, cesium ion,
+
+00:26:09.980 --> 00:26:14.030 align:middle line:90%
+is sort of the solvent.
+
+00:26:14.030 --> 00:26:20.900 align:middle line:84%
+It's like the prevailing,
+or the common substance
+
+00:26:20.900 --> 00:26:23.190 align:middle line:90%
+of these mixtures.
+
+00:26:23.190 --> 00:26:27.450 align:middle line:84%
+And then they keep changing
+the other substance.
+
+00:26:27.450 --> 00:26:31.710 align:middle line:90%
+
+
+00:26:31.710 --> 00:26:40.380 align:middle line:84%
+So it's actually
+not only for dilute,
+
+00:26:40.380 --> 00:26:45.690 align:middle line:84%
+it's for over the full range
+of compositions from 0 to 1.
+
+00:26:45.690 --> 00:26:52.220 align:middle line:84%
+And you can see that you have a
+behavior in which the enthalpy
+
+00:26:52.220 --> 00:26:55.076 align:middle line:90%
+of mixing is negative.
+
+00:26:55.076 --> 00:27:00.090 align:middle line:90%
+
+
+00:27:00.090 --> 00:27:06.210 align:middle line:84%
+OK, so meaning
+that the substance
+
+00:27:06.210 --> 00:27:12.430 align:middle line:84%
+that when you mix the substance,
+you have an exothermic reaction.
+
+00:27:12.430 --> 00:27:17.590 align:middle line:84%
+It's not really a reaction, but
+it's a physical chemical effect,
+
+00:27:17.590 --> 00:27:19.780 align:middle line:90%
+which releases heat.
+
+00:27:19.780 --> 00:27:21.390 align:middle line:90%
+So in other words, you have to--
+
+00:27:21.390 --> 00:27:24.670 align:middle line:84%
+if you want to return to mutual
+equilibrium with the reservoir,
+
+00:27:24.670 --> 00:27:27.870 align:middle line:84%
+you have to cool down
+after the mixing.
+
+00:27:27.870 --> 00:27:30.410 align:middle line:84%
+You have to cool
+down by this amount.
+
+00:27:30.410 --> 00:27:34.410 align:middle line:90%
+
+
+00:27:34.410 --> 00:27:38.070 align:middle line:84%
+And that cooling
+measures is exactly--
+
+00:27:38.070 --> 00:27:40.620 align:middle line:84%
+so we-- that's how
+with the calorimeter,
+
+00:27:40.620 --> 00:27:49.470 align:middle line:84%
+you can measure that cooling,
+and therefore this delta H.
+
+00:27:49.470 --> 00:27:54.410 align:middle line:84%
+You can also do
+similar measurements
+
+00:27:54.410 --> 00:27:58.800 align:middle line:90%
+for the volume of mixing.
+
+00:27:58.800 --> 00:28:07.320 align:middle line:90%
+And here, I sketched the--
+
+00:28:07.320 --> 00:28:11.070 align:middle line:84%
+yeah, I think this line
+should be long a little lower
+
+00:28:11.070 --> 00:28:14.250 align:middle line:90%
+here to the 0 level.
+
+00:28:14.250 --> 00:28:18.870 align:middle line:84%
+And I sketched--
+this is just to show
+
+00:28:18.870 --> 00:28:24.280 align:middle line:84%
+that it's the volume of
+mixing is not always positive.
+
+00:28:24.280 --> 00:28:27.750 align:middle line:84%
+It can be positive,
+it can be negative,
+
+00:28:27.750 --> 00:28:32.670 align:middle line:84%
+it can be positive in one
+range and become negative
+
+00:28:32.670 --> 00:28:38.300 align:middle line:84%
+in the other range,
+depending on the composition.
+
+00:28:38.300 --> 00:28:41.870 align:middle line:84%
+And it all depends on what
+kind of molecules you have,
+
+00:28:41.870 --> 00:28:48.680 align:middle line:84%
+and how the molecules
+interact with each other.
+
+00:28:48.680 --> 00:28:52.640 align:middle line:84%
+And as you can see,
+these two references
+
+00:28:52.640 --> 00:28:57.920 align:middle line:84%
+where you may want to take a
+look to see experimental data,
+
+00:28:57.920 --> 00:29:03.655 align:middle line:84%
+and how they're treated, date
+back to at least 40 years ago.
+
+00:29:03.655 --> 00:29:11.130 align:middle line:90%
+
+
+00:29:11.130 --> 00:29:19.600 align:middle line:84%
+OK, now, this slide is
+also just a parenthetical.
+
+00:29:19.600 --> 00:29:22.475 align:middle line:90%
+It just says, all right.
+
+00:29:22.475 --> 00:29:25.230 align:middle line:90%
+
+
+00:29:25.230 --> 00:29:27.480 align:middle line:84%
+So we have seen
+that in practice,
+
+00:29:27.480 --> 00:29:33.660 align:middle line:84%
+with those measurements, we can
+infer the values of the chemical
+
+00:29:33.660 --> 00:29:37.245 align:middle line:84%
+potentials, and therefore
+the partial properties.
+
+00:29:37.245 --> 00:29:45.750 align:middle line:84%
+So the question that we address
+in this slide is, can we--
+
+00:29:45.750 --> 00:29:48.360 align:middle line:84%
+is the meaning of
+partial that we
+
+00:29:48.360 --> 00:29:54.570 align:middle line:84%
+use in partial properties the
+same as the meaning of partial
+
+00:29:54.570 --> 00:29:57.330 align:middle line:90%
+as we use in partial pressures?
+
+00:29:57.330 --> 00:30:00.550 align:middle line:84%
+And the answer is no because
+the definition is different.
+
+00:30:00.550 --> 00:30:05.100 align:middle line:84%
+However, you can somehow
+relate partial properties
+
+00:30:05.100 --> 00:30:07.290 align:middle line:90%
+in terms of partial pressures.
+
+00:30:07.290 --> 00:30:14.850 align:middle line:84%
+And here, here is
+the way of doing it.
+
+00:30:14.850 --> 00:30:18.520 align:middle line:90%
+
+
+00:30:18.520 --> 00:30:22.160 align:middle line:84%
+It's just a matter of writing
+the chemical potential,
+
+00:30:22.160 --> 00:30:24.520 align:middle line:90%
+as we see here.
+
+00:30:24.520 --> 00:30:28.130 align:middle line:84%
+Again, as a function, as it
+is of the partial pressure.
+
+00:30:28.130 --> 00:30:33.310 align:middle line:84%
+So if you take the
+differential of this relation
+
+00:30:33.310 --> 00:30:36.760 align:middle line:84%
+here, which defines
+the partial pressure,
+
+00:30:36.760 --> 00:30:40.540 align:middle line:84%
+and then remember that the
+derivatives of the partial--
+
+00:30:40.540 --> 00:30:43.130 align:middle line:84%
+of the chemical potential
+are the partial properties,
+
+00:30:43.130 --> 00:30:47.273 align:middle line:84%
+then that is where that
+relation comes about.
+
+00:30:47.273 --> 00:30:50.670 align:middle line:90%
+
+
+00:30:50.670 --> 00:30:52.000 align:middle line:90%
+And here are the details.
+
+00:30:52.000 --> 00:30:54.900 align:middle line:84%
+So if you like to
+take derivatives,
+
+00:30:54.900 --> 00:30:58.800 align:middle line:90%
+this is how you can practice it.
+
+00:30:58.800 --> 00:31:05.330 align:middle line:84%
+So I'm not going to
+explain the details here.
+
+00:31:05.330 --> 00:31:13.459 align:middle line:90%
+
+
+00:31:13.459 --> 00:31:19.100 align:middle line:84%
+At this stage, we need
+to recall something
+
+00:31:19.100 --> 00:31:25.220 align:middle line:84%
+about what happens
+when molecules
+
+00:31:25.220 --> 00:31:27.595 align:middle line:90%
+come close to one another.
+
+00:31:27.595 --> 00:31:31.090 align:middle line:90%
+
+
+00:31:31.090 --> 00:31:40.730 align:middle line:84%
+And the Lennard-Jones
+model gives you
+
+00:31:40.730 --> 00:31:44.360 align:middle line:84%
+the potential energy
+of the interaction
+
+00:31:44.360 --> 00:31:45.630 align:middle line:90%
+between two molecules.
+
+00:31:45.630 --> 00:31:49.850 align:middle line:84%
+So suppose I have one
+molecule and I stay in--
+
+00:31:49.850 --> 00:31:52.580 align:middle line:84%
+and I sit on that molecule
+on the reference frame that
+
+00:31:52.580 --> 00:31:55.850 align:middle line:84%
+moves with that
+molecule, and I see
+
+00:31:55.850 --> 00:31:57.980 align:middle line:90%
+another molecule approaching.
+
+00:31:57.980 --> 00:32:04.560 align:middle line:84%
+The Lennard-Jones model is a
+pair-interaction kind of model.
+
+00:32:04.560 --> 00:32:08.540 align:middle line:84%
+It looks just what happens
+between one molecule
+
+00:32:08.540 --> 00:32:11.910 align:middle line:90%
+and the other, not the fact--
+
+00:32:11.910 --> 00:32:16.490 align:middle line:84%
+it doesn't apply well if you
+have to consider also the fact
+
+00:32:16.490 --> 00:32:19.070 align:middle line:84%
+that this molecule may
+also, at the same time,
+
+00:32:19.070 --> 00:32:27.005 align:middle line:84%
+be interacting with a third
+and maybe a fourth molecule,
+
+00:32:27.005 --> 00:32:30.240 align:middle line:84%
+which of course, is
+important in liquids.
+
+00:32:30.240 --> 00:32:32.850 align:middle line:90%
+But OK, so here's the idea.
+
+00:32:32.850 --> 00:32:34.580 align:middle line:84%
+I'm sitting on that
+molecule, and I see
+
+00:32:34.580 --> 00:32:39.290 align:middle line:90%
+another molecule approaching.
+
+00:32:39.290 --> 00:32:43.760 align:middle line:84%
+Now, because of the
+electronic structure
+
+00:32:43.760 --> 00:32:48.170 align:middle line:84%
+of atoms and molecules,
+the electrons
+
+00:32:48.170 --> 00:32:51.570 align:middle line:84%
+that are negatively
+charged, yes,
+
+00:32:51.570 --> 00:32:55.940 align:middle line:84%
+are attracted by the nucleus
+or the nuclei of the molecule,
+
+00:32:55.940 --> 00:32:58.310 align:middle line:90%
+or the atom.
+
+00:32:58.310 --> 00:33:01.560 align:middle line:84%
+But as they approach
+other molecules,
+
+00:33:01.560 --> 00:33:08.270 align:middle line:84%
+they are also a bit attracted by
+the nucleus of the other atom.
+
+00:33:08.270 --> 00:33:14.630 align:middle line:84%
+And that produces
+these so-called van
+
+00:33:14.630 --> 00:33:16.800 align:middle line:90%
+der Waals attractive forces.
+
+00:33:16.800 --> 00:33:20.760 align:middle line:84%
+So the potential
+going negative--
+
+00:33:20.760 --> 00:33:23.120 align:middle line:84%
+so if this is the
+potential, remember
+
+00:33:23.120 --> 00:33:28.040 align:middle line:84%
+that I can calculate
+the force by taking
+
+00:33:28.040 --> 00:33:30.260 align:middle line:84%
+the derivative of the
+potential with respect
+
+00:33:30.260 --> 00:33:33.560 align:middle line:90%
+to distance minus sine.
+
+00:33:33.560 --> 00:33:36.140 align:middle line:90%
+So this force is a vector.
+
+00:33:36.140 --> 00:33:44.100 align:middle line:84%
+And ir is the vector that
+points in the direction outward,
+
+00:33:44.100 --> 00:33:48.770 align:middle line:84%
+so further from the
+molecule I am sitting on.
+
+00:33:48.770 --> 00:33:53.570 align:middle line:84%
+So it's like on
+this axis, isobar
+
+00:33:53.570 --> 00:33:56.030 align:middle line:84%
+is the unit vector
+in the r direction,
+
+00:33:56.030 --> 00:33:58.170 align:middle line:90%
+in the right direction.
+
+00:33:58.170 --> 00:34:01.158 align:middle line:90%
+
+
+00:34:01.158 --> 00:34:01.660 align:middle line:90%
+All right.
+
+00:34:01.660 --> 00:34:03.910 align:middle line:84%
+So the usefulness of
+having a potential
+
+00:34:03.910 --> 00:34:05.980 align:middle line:84%
+is that then, you
+can calculate forces
+
+00:34:05.980 --> 00:34:08.270 align:middle line:84%
+by taking the derivative
+of the potential.
+
+00:34:08.270 --> 00:34:10.360 align:middle line:84%
+And as you see,
+here is the force--
+
+00:34:10.360 --> 00:34:12.896 align:middle line:90%
+if the force is negative.
+
+00:34:12.896 --> 00:34:16.860 align:middle line:90%
+
+
+00:34:16.860 --> 00:34:20.219 align:middle line:84%
+it means that
+the-- its direction
+
+00:34:20.219 --> 00:34:26.050 align:middle line:84%
+is in the opposite sign of the
+unit vector in the r direction.
+
+00:34:26.050 --> 00:34:27.780 align:middle line:90%
+So it points left.
+
+00:34:27.780 --> 00:34:30.510 align:middle line:90%
+So it's attractive.
+
+00:34:30.510 --> 00:34:41.510 align:middle line:84%
+So and up to this point,
+which is about here,
+
+00:34:41.510 --> 00:34:43.595 align:middle line:90%
+the derivative is--
+
+00:34:43.595 --> 00:34:46.429 align:middle line:90%
+
+
+00:34:46.429 --> 00:34:48.739 align:middle line:90%
+the derivative of v is positive.
+
+00:34:48.739 --> 00:34:50.750 align:middle line:90%
+So the force is negative.
+
+00:34:50.750 --> 00:34:57.850 align:middle line:90%
+And yeah.
+
+00:34:57.850 --> 00:35:01.620 align:middle line:84%
+Yeah, OK, up to this
+point, where it is 0,
+
+00:35:01.620 --> 00:35:07.100 align:middle line:84%
+we get to the minimum,
+it's attractive.
+
+00:35:07.100 --> 00:35:10.850 align:middle line:84%
+And from this point on,
+it becomes repulsive.
+
+00:35:10.850 --> 00:35:13.230 align:middle line:90%
+The force becomes positive.
+
+00:35:13.230 --> 00:35:16.280 align:middle line:90%
+
+
+00:35:16.280 --> 00:35:18.890 align:middle line:84%
+That repulsion is
+due to the fact
+
+00:35:18.890 --> 00:35:24.410 align:middle line:84%
+that now, the nuclei, which
+are positively charged,
+
+00:35:24.410 --> 00:35:28.330 align:middle line:84%
+begin to fill the positive
+charge of the nuclei
+
+00:35:28.330 --> 00:35:29.990 align:middle line:90%
+of the particle I'm sitting on.
+
+00:35:29.990 --> 00:35:31.493 align:middle line:90%
+And therefore, that repels.
+
+00:35:31.493 --> 00:35:38.140 align:middle line:90%
+
+
+00:35:38.140 --> 00:35:48.530 align:middle line:84%
+OK, so most of the
+times, molecules
+
+00:35:48.530 --> 00:35:55.160 align:middle line:84%
+are running around in
+their Brownian motion.
+
+00:35:55.160 --> 00:36:01.440 align:middle line:84%
+So in which they have
+some kinetic energy
+
+00:36:01.440 --> 00:36:04.050 align:middle line:90%
+due to the velocity they have.
+
+00:36:04.050 --> 00:36:06.520 align:middle line:84%
+And they have also
+this potential energy.
+
+00:36:06.520 --> 00:36:12.480 align:middle line:84%
+Some of that kinetic energy gets
+transformed in potential energy.
+
+00:36:12.480 --> 00:36:15.990 align:middle line:84%
+Or actually when the
+molecule approaches and gets
+
+00:36:15.990 --> 00:36:21.520 align:middle line:84%
+an attractive force, it
+gains kinetic energy.
+
+00:36:21.520 --> 00:36:25.330 align:middle line:84%
+So it's accelerated
+towards the particles.
+
+00:36:25.330 --> 00:36:28.800 align:middle line:84%
+So if the molecule is
+coming from the right
+
+00:36:28.800 --> 00:36:34.860 align:middle line:84%
+and it's approaching,
+it's accelerated
+
+00:36:34.860 --> 00:36:38.950 align:middle line:84%
+towards the molecules
+I'm sitting in.
+
+00:36:38.950 --> 00:36:44.620 align:middle line:84%
+But then, all of a sudden, it
+finds also a repulsive force.
+
+00:36:44.620 --> 00:36:47.710 align:middle line:90%
+So that's decelerating.
+
+00:36:47.710 --> 00:36:50.530 align:middle line:90%
+Of course, if the kinetic--
+
+00:36:50.530 --> 00:36:58.310 align:middle line:84%
+if the kinetic energy is enough,
+this molecule can go and hit.
+
+00:36:58.310 --> 00:37:00.910 align:middle line:90%
+So make a collision.
+
+00:37:00.910 --> 00:37:03.710 align:middle line:84%
+Eventually, it will
+make a collision
+
+00:37:03.710 --> 00:37:06.740 align:middle line:84%
+because the force is going
+to become very large.
+
+00:37:06.740 --> 00:37:09.170 align:middle line:84%
+And the repulsive force
+becomes very large.
+
+00:37:09.170 --> 00:37:13.350 align:middle line:84%
+And therefore, the particle
+is pushed away back.
+
+00:37:13.350 --> 00:37:14.970 align:middle line:90%
+That's a collision.
+
+00:37:14.970 --> 00:37:17.730 align:middle line:84%
+It's like a soft collision,
+but it's a collision.
+
+00:37:17.730 --> 00:37:22.880 align:middle line:90%
+
+
+00:37:22.880 --> 00:37:30.370 align:middle line:84%
+An even simpler model of this
+would be the so-called hard
+
+00:37:30.370 --> 00:37:37.840 align:middle line:84%
+sphere model, in which the
+potential is-- would be like--
+
+00:37:37.840 --> 00:37:43.205 align:middle line:90%
+
+
+00:37:43.205 --> 00:37:43.705 align:middle line:90%
+OK.
+
+00:37:43.705 --> 00:37:49.330 align:middle line:90%
+
+
+00:37:49.330 --> 00:37:52.510 align:middle line:90%
+OK, will be like this.
+
+00:37:52.510 --> 00:37:56.260 align:middle line:84%
+A function, so v,
+is a function which
+
+00:37:56.260 --> 00:38:00.400 align:middle line:84%
+goes to infinite,
+to its infinite
+
+00:38:00.400 --> 00:38:03.760 align:middle line:90%
+at this point, which is 1.
+
+00:38:03.760 --> 00:38:08.650 align:middle line:84%
+It's the distance-- 1 is
+because we're normalizing these
+
+00:38:08.650 --> 00:38:17.050 align:middle line:84%
+to the diameter of these
+molecules, of these spheres,
+
+00:38:17.050 --> 00:38:19.480 align:middle line:90%
+assuming they're equal.
+
+00:38:19.480 --> 00:38:22.330 align:middle line:84%
+Otherwise, it would be like
+the-- have to normalize
+
+00:38:22.330 --> 00:38:23.666 align:middle line:90%
+to the average--
+
+00:38:23.666 --> 00:38:26.930 align:middle line:90%
+
+
+00:38:26.930 --> 00:38:30.740 align:middle line:84%
+it's the sum of the radii
+of the two molecules.
+
+00:38:30.740 --> 00:38:32.670 align:middle line:90%
+And it's 0 here.
+
+00:38:32.670 --> 00:38:37.940 align:middle line:84%
+So the hard sphere model
+assumes no attractive force
+
+00:38:37.940 --> 00:38:47.330 align:middle line:84%
+until the sphere hits like
+in a billiard ball situation.
+
+00:38:47.330 --> 00:38:49.490 align:middle line:84%
+It hits the other
+molecule and it
+
+00:38:49.490 --> 00:38:56.146 align:middle line:84%
+gets repelled by some elastic
+condition-- elastic collision.
+
+00:38:56.146 --> 00:38:59.940 align:middle line:90%
+
+
+00:38:59.940 --> 00:39:09.250 align:middle line:84%
+OK, let's return to this
+case here and now consider
+
+00:39:09.250 --> 00:39:10.955 align:middle line:90%
+two important regimes.
+
+00:39:10.955 --> 00:39:13.480 align:middle line:90%
+
+
+00:39:13.480 --> 00:39:20.980 align:middle line:84%
+One regime is the ideal
+gas, the gas regime.
+
+00:39:20.980 --> 00:39:27.100 align:middle line:84%
+So it's true that the
+molecules of the gas
+
+00:39:27.100 --> 00:39:40.200 align:middle line:84%
+very often, billions of
+collisions per second, we--
+
+00:39:40.200 --> 00:39:47.580 align:middle line:84%
+maybe we'll have a slide later
+on that does that calculation,
+
+00:39:47.580 --> 00:39:50.130 align:middle line:90%
+do have experienced collisions.
+
+00:39:50.130 --> 00:39:58.290 align:middle line:84%
+So these molecules do get
+to feel this potential when
+
+00:39:58.290 --> 00:40:03.210 align:middle line:84%
+they approach the other
+molecules and have a collision.
+
+00:40:03.210 --> 00:40:05.550 align:middle line:90%
+That happens very often.
+
+00:40:05.550 --> 00:40:09.090 align:middle line:84%
+But if you look up, if
+you make an average,
+
+00:40:09.090 --> 00:40:17.580 align:middle line:84%
+a time average, of how much
+time this molecule spends
+
+00:40:17.580 --> 00:40:23.970 align:middle line:84%
+in this area, where the
+Lennard-Jones potential is
+
+00:40:23.970 --> 00:40:28.440 align:middle line:90%
+negative, is very small.
+
+00:40:28.440 --> 00:40:35.710 align:middle line:84%
+Most of the times, on average,
+the particles are far apart.
+
+00:40:35.710 --> 00:40:45.241 align:middle line:84%
+And therefore, on average,
+they feel zero potential.
+
+00:40:45.241 --> 00:40:50.960 align:middle line:84%
+See, this is why when you try
+to measure the properties,
+
+00:40:50.960 --> 00:40:55.730 align:middle line:84%
+you're actually measuring
+the properties on average,
+
+00:40:55.730 --> 00:40:59.460 align:middle line:84%
+because remember that somehow,
+the state of your system
+
+00:40:59.460 --> 00:41:04.820 align:middle line:84%
+is the probability
+distribution of things.
+
+00:41:04.820 --> 00:41:08.690 align:middle line:84%
+For example, here is the
+probability distribution
+
+00:41:08.690 --> 00:41:13.160 align:middle line:84%
+of finding the particle at
+these various distances.
+
+00:41:13.160 --> 00:41:20.130 align:middle line:84%
+And that probability
+for a gas is--
+
+00:41:20.130 --> 00:41:25.620 align:middle line:84%
+has this very small tail
+here, and it peaks away.
+
+00:41:25.620 --> 00:41:28.920 align:middle line:84%
+So most of the
+times, the particles
+
+00:41:28.920 --> 00:41:32.220 align:middle line:84%
+are far away from each
+other even though they
+
+00:41:32.220 --> 00:41:34.090 align:middle line:90%
+experience a lot of collisions.
+
+00:41:34.090 --> 00:41:39.260 align:middle line:90%
+
+
+00:41:39.260 --> 00:41:41.660 align:middle line:84%
+But that means that
+when you're calculating
+
+00:41:41.660 --> 00:41:43.530 align:middle line:84%
+the stable equilibrium
+properties,
+
+00:41:43.530 --> 00:41:49.420 align:middle line:84%
+therefore, the average
+time average properties,
+
+00:41:49.420 --> 00:41:52.690 align:middle line:90%
+this potential is irrelevant.
+
+00:41:52.690 --> 00:41:59.930 align:middle line:84%
+And that is what allows
+you to, for example,
+
+00:41:59.930 --> 00:42:03.400 align:middle line:84%
+use the hard sphere
+model because that's
+
+00:42:03.400 --> 00:42:06.340 align:middle line:84%
+totally equivalent if
+the particles live far
+
+00:42:06.340 --> 00:42:13.193 align:middle line:84%
+away on average and the
+details of the potential
+
+00:42:13.193 --> 00:42:14.860 align:middle line:84%
+of their interaction
+when they are close
+
+00:42:14.860 --> 00:42:20.890 align:middle line:84%
+is not important, well, those
+details, you can forget.
+
+00:42:20.890 --> 00:42:22.420 align:middle line:84%
+They don't enter
+into determining
+
+00:42:22.420 --> 00:42:25.300 align:middle line:90%
+the properties of the mixtures.
+
+00:42:25.300 --> 00:42:29.860 align:middle line:84%
+So much that in the
+ideal gas, and also,
+
+00:42:29.860 --> 00:42:40.500 align:middle line:84%
+we will hopefully have a slide
+also on this, the ideal gas,
+
+00:42:40.500 --> 00:42:46.050 align:middle line:84%
+this relation here that
+the volume is rt over p,
+
+00:42:46.050 --> 00:42:51.210 align:middle line:84%
+you can derive for a
+particle, a single particle,
+
+00:42:51.210 --> 00:42:58.970 align:middle line:84%
+in a box, which is a
+nice illustration also
+
+00:42:58.970 --> 00:43:02.050 align:middle line:84%
+of that's why I will
+have a slide on this.
+
+00:43:02.050 --> 00:43:05.330 align:middle line:90%
+
+
+00:43:05.330 --> 00:43:08.750 align:middle line:84%
+But in other words, this--
+here in this context
+
+00:43:08.750 --> 00:43:17.015 align:middle line:84%
+is just to say that the
+properties of an ideal gas, so
+
+00:43:17.015 --> 00:43:23.465 align:middle line:84%
+the origin of this ideal
+gas equation of state
+
+00:43:23.465 --> 00:43:27.230 align:middle line:84%
+comes from the single particle
+because the properties
+
+00:43:27.230 --> 00:43:31.331 align:middle line:84%
+of stable equilibrium
+in this regime
+
+00:43:31.331 --> 00:43:35.900 align:middle line:84%
+are those of particles that
+leave on average by themselves.
+
+00:43:35.900 --> 00:43:40.080 align:middle line:84%
+They don't feel the effects
+of the other particles.
+
+00:43:40.080 --> 00:43:44.590 align:middle line:90%
+
+
+00:43:44.590 --> 00:43:49.340 align:middle line:84%
+There is another case also,
+which is the liquid case.
+
+00:43:49.340 --> 00:43:54.940 align:middle line:84%
+We will return to the liquid
+in a while, maybe today.
+
+00:43:54.940 --> 00:44:01.870 align:middle line:84%
+But what's important is that
+instead, the liquid particles
+
+00:44:01.870 --> 00:44:03.890 align:middle line:90%
+live very close to one another.
+
+00:44:03.890 --> 00:44:05.670 align:middle line:90%
+They live near this minimum.
+
+00:44:05.670 --> 00:44:08.220 align:middle line:90%
+
+
+00:44:08.220 --> 00:44:14.470 align:middle line:84%
+So for them, this potential
+is more important.
+
+00:44:14.470 --> 00:44:31.760 align:middle line:90%
+
+
+00:44:31.760 --> 00:44:40.610 align:middle line:84%
+This-- the Lennard-Jones
+potential formula can be
+
+00:44:40.610 --> 00:44:41.150 align:middle line:90%
+written--
+
+00:44:41.150 --> 00:44:44.010 align:middle line:84%
+is written in two
+different ways here.
+
+00:44:44.010 --> 00:44:48.920 align:middle line:84%
+One is in terms of
+the actual distance,
+
+00:44:48.920 --> 00:44:53.030 align:middle line:84%
+and one is in terms of
+the distance normalized
+
+00:44:53.030 --> 00:45:00.590 align:middle line:84%
+to this minimum to the distance
+at which the minimum occurs.
+
+00:45:00.590 --> 00:45:05.450 align:middle line:90%
+Sigma, as I already said, is--
+
+00:45:05.450 --> 00:45:07.650 align:middle line:90%
+r is normalized here to sigma.
+
+00:45:07.650 --> 00:45:14.720 align:middle line:84%
+So it's 1 at the
+distance where it
+
+00:45:14.720 --> 00:45:17.070 align:middle line:84%
+is equal to the diameter
+of the two particles.
+
+00:45:17.070 --> 00:45:21.530 align:middle line:84%
+So where the particles
+are colliding.
+
+00:45:21.530 --> 00:45:27.650 align:middle line:84%
+And here, we also in the
+plot normalized the potential
+
+00:45:27.650 --> 00:45:28.700 align:middle line:90%
+to epsilon.
+
+00:45:28.700 --> 00:45:36.450 align:middle line:84%
+And epsilon is the
+depth of this well here.
+
+00:45:36.450 --> 00:45:38.110 align:middle line:90%
+So it goes to minus 1.
+
+00:45:38.110 --> 00:45:41.480 align:middle line:90%
+
+
+00:45:41.480 --> 00:45:46.730 align:middle line:84%
+So stronger
+interactions will have--
+
+00:45:46.730 --> 00:45:50.455 align:middle line:84%
+would be characterized by
+stronger values of this epsilon.
+
+00:45:50.455 --> 00:45:55.630 align:middle line:90%
+
+
+00:45:55.630 --> 00:46:03.430 align:middle line:84%
+OK, so with this
+introduction, let's
+
+00:46:03.430 --> 00:46:10.660 align:middle line:84%
+consider a first
+ideal behavior, which
+
+00:46:10.660 --> 00:46:14.950 align:middle line:84%
+we will call Gibbs-Dalton
+ideal behavior,
+
+00:46:14.950 --> 00:46:21.580 align:middle line:84%
+and which will be a very
+good approximation for gases
+
+00:46:21.580 --> 00:46:28.540 align:middle line:84%
+in the gas phase,
+because in practice, we
+
+00:46:28.540 --> 00:46:33.820 align:middle line:84%
+will assume that not only
+particles of the same kind
+
+00:46:33.820 --> 00:46:36.830 align:middle line:84%
+like you would have
+in a pure substance,
+
+00:46:36.830 --> 00:46:43.450 align:middle line:84%
+but also particles of different
+kind like we have in a mixture,
+
+00:46:43.450 --> 00:46:48.200 align:middle line:84%
+they also live on average
+far away from one another.
+
+00:46:48.200 --> 00:46:51.430 align:middle line:84%
+And therefore, we can
+neglect the effect
+
+00:46:51.430 --> 00:46:54.680 align:middle line:84%
+of their intermolecular
+interactions.
+
+00:46:54.680 --> 00:46:57.440 align:middle line:90%
+
+
+00:46:57.440 --> 00:47:03.550 align:middle line:90%
+OK, all right.
+
+00:47:03.550 --> 00:47:08.800 align:middle line:84%
+Formally, this is
+how the story goes.
+
+00:47:08.800 --> 00:47:12.330 align:middle line:84%
+We will first define
+ideal behavior.
+
+00:47:12.330 --> 00:47:16.950 align:middle line:84%
+And just so this will
+be our-- this will be
+
+00:47:16.950 --> 00:47:18.830 align:middle line:90%
+the final result of this slide.
+
+00:47:18.830 --> 00:47:21.930 align:middle line:90%
+
+
+00:47:21.930 --> 00:47:26.730 align:middle line:84%
+And the motivation is
+that of this definition
+
+00:47:26.730 --> 00:47:32.670 align:middle line:84%
+that we are going to
+do here is that we
+
+00:47:32.670 --> 00:47:35.610 align:middle line:84%
+will find that under
+this approximation,
+
+00:47:35.610 --> 00:47:37.530 align:middle line:90%
+or in this limit on this--
+
+00:47:37.530 --> 00:47:43.650 align:middle line:84%
+when these
+assumptions are valid,
+
+00:47:43.650 --> 00:47:46.800 align:middle line:84%
+then we obtain a
+famous result, which
+
+00:47:46.800 --> 00:47:50.610 align:middle line:84%
+is the Dalton law of
+additive partial pressures.
+
+00:47:50.610 --> 00:47:54.870 align:middle line:84%
+So the pressure
+of the mixture is
+
+00:47:54.870 --> 00:47:57.420 align:middle line:84%
+going to be equal to the
+sum of the partial pressures
+
+00:47:57.420 --> 00:48:02.320 align:middle line:84%
+of the constituents
+of the mixture.
+
+00:48:02.320 --> 00:48:04.310 align:middle line:84%
+But in general,
+that is not true.
+
+00:48:04.310 --> 00:48:07.770 align:middle line:84%
+Not-- I mean, this is not
+true for a non-ideal mixture.
+
+00:48:07.770 --> 00:48:12.810 align:middle line:90%
+
+
+00:48:12.810 --> 00:48:14.680 align:middle line:84%
+So the derivation
+goes as follows.
+
+00:48:14.680 --> 00:48:19.940 align:middle line:84%
+We start from the Euler relation
+written for the mixture.
+
+00:48:19.940 --> 00:48:22.880 align:middle line:90%
+
+
+00:48:22.880 --> 00:48:28.816 align:middle line:84%
+We write also the Euler relation
+for the pure components.
+
+00:48:28.816 --> 00:48:32.070 align:middle line:90%
+
+
+00:48:32.070 --> 00:48:35.130 align:middle line:84%
+And when-- and here,
+I'm going to write it
+
+00:48:35.130 --> 00:48:39.570 align:middle line:84%
+for the pure components
+at just on the other side
+
+00:48:39.570 --> 00:48:44.370 align:middle line:84%
+of the semi-permeable
+membrane so they
+
+00:48:44.370 --> 00:48:46.990 align:middle line:84%
+are in at the same
+temperature of the mixture,
+
+00:48:46.990 --> 00:48:49.240 align:middle line:90%
+but at the partial pressure.
+
+00:48:49.240 --> 00:48:56.860 align:middle line:84%
+OK, so this uii here, I'm not
+writing the explicit dependence,
+
+00:48:56.860 --> 00:49:02.790 align:middle line:84%
+but I'm doing it here,
+are to be evaluated
+
+00:49:02.790 --> 00:49:08.070 align:middle line:90%
+at t and partial pressure.
+
+00:49:08.070 --> 00:49:16.050 align:middle line:84%
+Then I take these
+individual pure constituent
+
+00:49:16.050 --> 00:49:18.220 align:middle line:90%
+Euler relations, we multiply--
+
+00:49:18.220 --> 00:49:24.660 align:middle line:84%
+I multiply them by the amount ni
+with which that constituent is
+
+00:49:24.660 --> 00:49:29.010 align:middle line:84%
+present in the mixture and
+sum over all components.
+
+00:49:29.010 --> 00:49:32.230 align:middle line:84%
+And then I take this
+summation, subtract it
+
+00:49:32.230 --> 00:49:39.190 align:middle line:84%
+from the Euler relation for the
+mixture, and here is the result.
+
+00:49:39.190 --> 00:49:43.030 align:middle line:84%
+So you can still identify
+here the Euler relation
+
+00:49:43.030 --> 00:49:45.340 align:middle line:84%
+for the mixture is
+given by this term.
+
+00:49:45.340 --> 00:49:52.210 align:middle line:90%
+This ts minus pv plus mu i ni.
+
+00:49:52.210 --> 00:49:58.285 align:middle line:84%
+And what I subtracted is the
+summation of the ni's with which
+
+00:49:58.285 --> 00:50:01.150 align:middle line:84%
+that are the amounts
+in the mixture
+
+00:50:01.150 --> 00:50:08.080 align:middle line:84%
+times the single component,
+pure component, Euler relation.
+
+00:50:08.080 --> 00:50:20.850 align:middle line:84%
+uii minus tsii plus pii
+vii and plus the mus.
+
+00:50:20.850 --> 00:50:29.170 align:middle line:90%
+
+
+00:50:29.170 --> 00:50:34.400 align:middle line:84%
+Actually, there's a
+mistake here because there
+
+00:50:34.400 --> 00:50:35.730 align:middle line:90%
+shouldn't be a summation here.
+
+00:50:35.730 --> 00:50:37.430 align:middle line:84%
+This is, again, a
+cut-and-paste problem.
+
+00:50:37.430 --> 00:50:41.450 align:middle line:84%
+This should be-- I hope I'll
+remember all these things
+
+00:50:41.450 --> 00:50:44.210 align:middle line:90%
+to correct in the view graphs.
+
+00:50:44.210 --> 00:50:48.330 align:middle line:84%
+Yeah, so for the pure
+component, there's only one.
+
+00:50:48.330 --> 00:50:49.650 align:middle line:90%
+And so there is no summation.
+
+00:50:49.650 --> 00:50:53.620 align:middle line:90%
+
+
+00:50:53.620 --> 00:51:02.590 align:middle line:84%
+OK, now, look at these
+elements of the last summation.
+
+00:51:02.590 --> 00:51:05.410 align:middle line:84%
+They are identically 0
+because of the condition
+
+00:51:05.410 --> 00:51:08.620 align:middle line:84%
+for mutual equilibrium
+that the chemical potential
+
+00:51:08.620 --> 00:51:12.550 align:middle line:84%
+of component i in the mixture is
+equal to the chemical potential
+
+00:51:12.550 --> 00:51:14.830 align:middle line:84%
+of the pure component
+when evaluated
+
+00:51:14.830 --> 00:51:16.370 align:middle line:90%
+at the partial pressure.
+
+00:51:16.370 --> 00:51:19.270 align:middle line:90%
+So these are 0.
+
+00:51:19.270 --> 00:51:23.080 align:middle line:84%
+And then I get a relation here,
+which contains the pressure
+
+00:51:23.080 --> 00:51:25.030 align:middle line:84%
+and contains the
+partial pressures,
+
+00:51:25.030 --> 00:51:27.910 align:middle line:84%
+because after all, what
+we wanted to see here is,
+
+00:51:27.910 --> 00:51:31.880 align:middle line:84%
+is there a relation between
+pressure and partial pressures?
+
+00:51:31.880 --> 00:51:34.520 align:middle line:84%
+And here is the result.
+So I put in evidence,
+
+00:51:34.520 --> 00:51:38.630 align:middle line:84%
+I solve this expression
+for the total pressure,
+
+00:51:38.630 --> 00:51:42.670 align:middle line:84%
+and here is how it depends
+on the partial pressures.
+
+00:51:42.670 --> 00:51:45.490 align:middle line:90%
+That's all over.
+
+00:51:45.490 --> 00:51:57.470 align:middle line:84%
+However, if I make these three
+assumptions, you see this?
+
+00:51:57.470 --> 00:52:03.380 align:middle line:84%
+The first assumption kills
+these terms in parentheses.
+
+00:52:03.380 --> 00:52:07.580 align:middle line:84%
+The second assumption
+kills this other term.
+
+00:52:07.580 --> 00:52:13.970 align:middle line:84%
+The third assumption, and note
+here that this is not a mistake,
+
+00:52:13.970 --> 00:52:16.300 align:middle line:84%
+here, there is no
+summation sign.
+
+00:52:16.300 --> 00:52:20.730 align:middle line:90%
+
+
+00:52:20.730 --> 00:52:25.210 align:middle line:84%
+So if this holds, then
+we'll discuss what it means.
+
+00:52:25.210 --> 00:52:30.810 align:middle line:84%
+But if this holds, it means
+that inside this summation,
+
+00:52:30.810 --> 00:52:39.490 align:middle line:84%
+every time I see ni times
+vii, I can put capital V,
+
+00:52:39.490 --> 00:52:41.960 align:middle line:90%
+which doesn't depend on i.
+
+00:52:41.960 --> 00:52:43.390 align:middle line:90%
+It doesn't have a subscript.
+
+00:52:43.390 --> 00:52:46.270 align:middle line:84%
+So it goes outside
+of the summation
+
+00:52:46.270 --> 00:52:49.720 align:middle line:84%
+and it cancels with the
+V in the denominator.
+
+00:52:49.720 --> 00:52:52.540 align:middle line:84%
+And then what I'm left
+with in the summation
+
+00:52:52.540 --> 00:52:54.670 align:middle line:90%
+is just the partial pressure.
+
+00:52:54.670 --> 00:52:59.680 align:middle line:84%
+So I finally get that the
+pressure, if these three
+
+00:52:59.680 --> 00:53:06.670 align:middle line:84%
+assumptions are together,
+all holding, the pressure
+
+00:53:06.670 --> 00:53:08.660 align:middle line:84%
+is equal to the sum of
+the partial pressures.
+
+00:53:08.660 --> 00:53:10.310 align:middle line:90%
+And this is Dalton's law.
+
+00:53:10.310 --> 00:53:17.430 align:middle line:90%
+
+
+00:53:17.430 --> 00:53:27.950 align:middle line:84%
+Let's see how we could
+interpret those conditions that
+
+00:53:27.950 --> 00:53:29.935 align:middle line:84%
+define the ideal
+Gibbs-Dalton behavior.
+
+00:53:29.935 --> 00:53:32.570 align:middle line:90%
+
+
+00:53:32.570 --> 00:53:36.420 align:middle line:84%
+Essentially, it says that
+I can see the mixture,
+
+00:53:36.420 --> 00:53:40.880 align:middle line:84%
+or at least I can model the
+properties of the mixture,
+
+00:53:40.880 --> 00:53:47.540 align:middle line:84%
+as the model, as the properties
+of a composite system in which I
+
+00:53:47.540 --> 00:53:54.950 align:middle line:84%
+have the pure components leaving
+each one in the same volume
+
+00:53:54.950 --> 00:53:59.570 align:middle line:84%
+of the mixture, so
+boxes of the same size,
+
+00:53:59.570 --> 00:54:05.755 align:middle line:84%
+at the same temperature and
+at the partial pressure.
+
+00:54:05.755 --> 00:54:08.890 align:middle line:90%
+
+
+00:54:08.890 --> 00:54:18.020 align:middle line:84%
+OK, then in these conditions,
+this is the specific--
+
+00:54:18.020 --> 00:54:20.480 align:middle line:84%
+they have a specific
+energy since they are pure.
+
+00:54:20.480 --> 00:54:21.980 align:middle line:84%
+For example, this
+is component, say,
+
+00:54:21.980 --> 00:54:25.790 align:middle line:84%
+component i as a
+specific energy, which
+
+00:54:25.790 --> 00:54:28.850 align:middle line:84%
+is u double i evaluated
+at the t and p
+
+00:54:28.850 --> 00:54:33.230 align:middle line:84%
+because here it is at
+the partial pressure.
+
+00:54:33.230 --> 00:54:35.750 align:middle line:90%
+The same for the entropy.
+
+00:54:35.750 --> 00:54:49.400 align:middle line:84%
+And now, if I use the fact
+that energy and entropy are
+
+00:54:49.400 --> 00:55:00.553 align:middle line:84%
+additive properties, the energy
+of this one is n1 times u11.
+
+00:55:00.553 --> 00:55:03.770 align:middle line:90%
+
+
+00:55:03.770 --> 00:55:08.270 align:middle line:90%
+And so I sum up ni times uii.
+
+00:55:08.270 --> 00:55:13.940 align:middle line:84%
+And that gives me
+the properties,
+
+00:55:13.940 --> 00:55:15.300 align:middle line:90%
+the property of the mixture.
+
+00:55:15.300 --> 00:55:19.400 align:middle line:90%
+So sum of ni times uii.
+
+00:55:19.400 --> 00:55:26.570 align:middle line:84%
+So that's-- this last equation
+is the defining equation
+
+00:55:26.570 --> 00:55:29.900 align:middle line:90%
+for ideal Gibbs-Dalton behavior.
+
+00:55:29.900 --> 00:55:32.510 align:middle line:84%
+The first one here
+I have added also
+
+00:55:32.510 --> 00:55:36.780 align:middle line:84%
+the general expression,
+which is valid always,
+
+00:55:36.780 --> 00:55:43.880 align:middle line:84%
+which gives the property in
+terms of the partial properties.
+
+00:55:43.880 --> 00:55:45.220 align:middle line:90%
+It's the same for the entropy.
+
+00:55:45.220 --> 00:55:46.450 align:middle line:90%
+So it's additive.
+
+00:55:46.450 --> 00:55:48.750 align:middle line:90%
+So I can view this.
+
+00:55:48.750 --> 00:55:52.575 align:middle line:84%
+And instead-- and here, I've
+used the fact that each--
+
+00:55:52.575 --> 00:55:55.320 align:middle line:90%
+
+
+00:55:55.320 --> 00:55:58.440 align:middle line:84%
+you see here, I could also
+write the specific volume
+
+00:55:58.440 --> 00:56:03.780 align:middle line:84%
+of the constituent,
+the partial pressure.
+
+00:56:03.780 --> 00:56:06.430 align:middle line:90%
+And the fact that it--
+
+00:56:06.430 --> 00:56:09.130 align:middle line:84%
+that in the same amount of
+the mixture, it occupies,
+
+00:56:09.130 --> 00:56:15.480 align:middle line:84%
+the same volume of the mixture
+is the sort of interpretation
+
+00:56:15.480 --> 00:56:16.520 align:middle line:90%
+of this formula here.
+
+00:56:16.520 --> 00:56:20.080 align:middle line:90%
+
+
+00:56:20.080 --> 00:56:29.080 align:middle line:84%
+It also goes together
+with the idea
+
+00:56:29.080 --> 00:56:33.130 align:middle line:84%
+that in the gas limit,
+when molecules live
+
+00:56:33.130 --> 00:56:39.700 align:middle line:84%
+far apart from one another in
+either this or the Lennard-Jones
+
+00:56:39.700 --> 00:56:43.783 align:middle line:84%
+kind of potential, if they're
+on average, they live here.
+
+00:56:43.783 --> 00:56:50.080 align:middle line:90%
+
+
+00:56:50.080 --> 00:56:55.330 align:middle line:84%
+Essentially, they stay and they
+occupy the volume of the mixture
+
+00:56:55.330 --> 00:56:56.320 align:middle line:90%
+if--
+
+00:56:56.320 --> 00:57:00.060 align:middle line:84%
+as if they were by themselves,
+each molecule by itself.
+
+00:57:00.060 --> 00:57:04.360 align:middle line:90%
+
+
+00:57:04.360 --> 00:57:08.350 align:middle line:90%
+And that's why we have--
+
+00:57:08.350 --> 00:57:10.990 align:middle line:84%
+they obey the ideal
+gas law, which
+
+00:57:10.990 --> 00:57:16.380 align:middle line:84%
+is valid for the single
+molecule in a box
+
+00:57:16.380 --> 00:57:18.430 align:middle line:90%
+even if I have many box--
+
+00:57:18.430 --> 00:57:20.260 align:middle line:90%
+many particles In that box.
+
+00:57:20.260 --> 00:57:25.060 align:middle line:84%
+But it is as if each one
+uses the box by itself.
+
+00:57:25.060 --> 00:57:27.970 align:middle line:84%
+It doesn't recognize on average,
+the presence of the other,
+
+00:57:27.970 --> 00:57:33.210 align:middle line:84%
+even though it does continuously
+collide with the other.
+
+00:57:33.210 --> 00:57:38.130 align:middle line:90%
+But the time that it takes--
+
+00:57:38.130 --> 00:57:43.050 align:middle line:84%
+that the collision--
+and so that--
+
+00:57:43.050 --> 00:57:44.550 align:middle line:90%
+it lasts.
+
+00:57:44.550 --> 00:57:46.680 align:middle line:84%
+The time that the
+collision lasts
+
+00:57:46.680 --> 00:57:49.740 align:middle line:84%
+is very short with respect
+to the rest of the time
+
+00:57:49.740 --> 00:57:53.940 align:middle line:84%
+that the particle
+moves freely in space
+
+00:57:53.940 --> 00:57:58.600 align:middle line:84%
+before encountering the other
+molecule for the next collision.
+
+00:57:58.600 --> 00:58:01.330 align:middle line:90%
+
+
+00:58:01.330 --> 00:58:07.780 align:middle line:84%
+So that's the ideal
+Gibbs-Dalton behavior.
+
+00:58:07.780 --> 00:58:10.510 align:middle line:84%
+And if we apply
+it now, we haven't
+
+00:58:10.510 --> 00:58:11.970 align:middle line:90%
+assumed yet the ideal gas.
+
+00:58:11.970 --> 00:58:14.670 align:middle line:90%
+
+
+00:58:14.670 --> 00:58:16.990 align:middle line:84%
+So now, if we in
+addition to those,
+
+00:58:16.990 --> 00:58:26.090 align:middle line:84%
+we also assume that each
+pure substance behaves
+
+00:58:26.090 --> 00:58:29.630 align:middle line:84%
+as an ideal gas, so
+it obeys the equation
+
+00:58:29.630 --> 00:58:34.640 align:middle line:84%
+of state of an ideal gas in
+the full range of pressures
+
+00:58:34.640 --> 00:58:39.740 align:middle line:84%
+from the partial pressure to the
+total pressure of the mixture,
+
+00:58:39.740 --> 00:58:42.670 align:middle line:84%
+I shouldn't call it total, to
+the pressure of the mixture.
+
+00:58:42.670 --> 00:58:45.440 align:middle line:90%
+
+
+00:58:45.440 --> 00:58:48.590 align:middle line:84%
+So I can write the
+equation of state
+
+00:58:48.590 --> 00:58:54.650 align:middle line:84%
+for the gas pv equals rt
+both at partial pressure
+
+00:58:54.650 --> 00:58:56.380 align:middle line:84%
+and at the pressure
+of the mixture.
+
+00:58:56.380 --> 00:59:00.910 align:middle line:90%
+
+
+00:59:00.910 --> 00:59:09.035 align:middle line:84%
+Then you see from assumption
+three, which is this,
+
+00:59:09.035 --> 00:59:17.180 align:middle line:84%
+I substitute this,
+obtain this result.
+
+00:59:17.180 --> 00:59:20.005 align:middle line:84%
+So I obtain the partial
+pressure written this way.
+
+00:59:20.005 --> 00:59:23.440 align:middle line:90%
+
+
+00:59:23.440 --> 00:59:29.890 align:middle line:84%
+Now, I'm using what we proved
+in the Gibbs-Dalton theorem,
+
+00:59:29.890 --> 00:59:36.460 align:middle line:84%
+about the Dalton law that
+the pressure of the mixture
+
+00:59:36.460 --> 00:59:38.720 align:middle line:84%
+is the sum of the
+partial pressures.
+
+00:59:38.720 --> 00:59:43.720 align:middle line:84%
+So take the sum of
+these ones, see rt and v
+
+00:59:43.720 --> 00:59:47.270 align:middle line:84%
+do not have subscripts, so
+they go out of the summation.
+
+00:59:47.270 --> 00:59:49.390 align:middle line:84%
+I'm left with the
+sum of the n's,
+
+00:59:49.390 --> 00:59:55.450 align:middle line:84%
+which is just the total n of
+the particles in the mixture.
+
+00:59:55.450 --> 00:59:57.530 align:middle line:90%
+So here, what do I got?
+
+00:59:57.530 --> 00:59:58.600 align:middle line:90%
+What do I get?
+
+00:59:58.600 --> 01:00:01.700 align:middle line:90%
+That pv equals nrt.
+
+01:00:01.700 --> 01:00:09.640 align:middle line:84%
+So it means that also, the
+mixture behaves as an ideal gas.
+
+01:00:09.640 --> 01:00:14.630 align:middle line:84%
+So what this proves is that
+an ideal Gibbs-Dalton mixture
+
+01:00:14.630 --> 01:00:19.490 align:middle line:84%
+of ideal gases
+obeys the equation
+
+01:00:19.490 --> 01:00:21.380 align:middle line:90%
+of state of an ideal gas.
+
+01:00:21.380 --> 01:00:23.065 align:middle line:90%
+So it is an ideal gas itself.
+
+01:00:23.065 --> 01:00:25.910 align:middle line:90%
+
+
+01:00:25.910 --> 01:00:32.090 align:middle line:84%
+And the other
+important result is
+
+01:00:32.090 --> 01:00:38.520 align:middle line:84%
+that if you extract
+rt over v from here,
+
+01:00:38.520 --> 01:00:42.170 align:middle line:84%
+you see that you can write
+it as partial pressure
+
+01:00:42.170 --> 01:00:43.760 align:middle line:90%
+over the amount.
+
+01:00:43.760 --> 01:00:47.810 align:middle line:84%
+And rt over v from
+here, it's the pressure
+
+01:00:47.810 --> 01:00:49.970 align:middle line:90%
+over the total amount.
+
+01:00:49.970 --> 01:00:54.680 align:middle line:84%
+So that's essentially
+you combine these two
+
+01:00:54.680 --> 01:00:59.960 align:middle line:84%
+and you obtain that the
+ratio of the partial pressure
+
+01:00:59.960 --> 01:01:02.300 align:middle line:84%
+to the total pressure
+is equal to the ratio
+
+01:01:02.300 --> 01:01:07.250 align:middle line:84%
+of the individual amount
+with the total amount, which
+
+01:01:07.250 --> 01:01:10.300 align:middle line:90%
+is the mole fraction.
+
+01:01:10.300 --> 01:01:13.300 align:middle line:84%
+In other words, the
+partial pressure
+
+01:01:13.300 --> 01:01:17.860 align:middle line:84%
+is given by the mole
+fraction of that constituents
+
+01:01:17.860 --> 01:01:22.325 align:middle line:84%
+times the pressure
+of the mixture.
+
+01:01:22.325 --> 01:01:26.720 align:middle line:90%
+
+
+01:01:26.720 --> 01:01:37.160 align:middle line:84%
+And this relation, if we
+put it in this relation
+
+01:01:37.160 --> 01:01:42.560 align:middle line:84%
+that we have derived
+before, so pii over p
+
+01:01:42.560 --> 01:01:51.320 align:middle line:84%
+becomes in the limit of
+a Gibbs-Dalton mixture.
+
+01:01:51.320 --> 01:01:54.450 align:middle line:90%
+That is the mole fraction.
+
+01:01:54.450 --> 01:01:59.050 align:middle line:84%
+So this is rt, the logarithm
+of the mole fraction.
+
+01:01:59.050 --> 01:02:06.210 align:middle line:90%
+
+
+01:02:06.210 --> 01:02:08.150 align:middle line:84%
+And this is a very
+important relation.
+
+01:02:08.150 --> 01:02:12.230 align:middle line:90%
+
+
+01:02:12.230 --> 01:02:15.185 align:middle line:84%
+It gives the chemical
+potential of one constituent
+
+01:02:15.185 --> 01:02:16.640 align:middle line:90%
+in the mixture.
+
+01:02:16.640 --> 01:02:21.690 align:middle line:84%
+In terms of the chemical
+potential that it has,
+
+01:02:21.690 --> 01:02:24.920 align:middle line:84%
+when it is a pure substance,
+at the same temperature
+
+01:02:24.920 --> 01:02:27.530 align:middle line:90%
+and pressure of the mixture.
+
+01:02:27.530 --> 01:02:32.660 align:middle line:84%
+Plus rt, the log of
+its mole fraction,
+
+01:02:32.660 --> 01:02:36.565 align:middle line:84%
+of the mole fraction with which
+it appears in the mixture.
+
+01:02:36.565 --> 01:02:41.330 align:middle line:90%
+
+
+01:02:41.330 --> 01:02:46.200 align:middle line:84%
+So it doesn't depend on
+other things of the mixture.
+
+01:02:46.200 --> 01:02:54.070 align:middle line:84%
+For example, what are the other
+components, or how many they
+
+01:02:54.070 --> 01:03:00.070 align:middle line:84%
+are except that all we need
+is to know what fraction
+
+01:03:00.070 --> 01:03:03.650 align:middle line:84%
+our component is
+occupies in the mixture.
+
+01:03:03.650 --> 01:03:11.300 align:middle line:90%
+
+
+01:03:11.300 --> 01:03:28.250 align:middle line:84%
+OK, the first few
+lines of this slide
+
+01:03:28.250 --> 01:03:34.970 align:middle line:84%
+are just a cut and
+paste from the previous.
+
+01:03:34.970 --> 01:03:38.930 align:middle line:84%
+But here, we add
+some other items.
+
+01:03:38.930 --> 01:03:42.330 align:middle line:84%
+For example, we
+compute the entropy--
+
+01:03:42.330 --> 01:03:48.770 align:middle line:84%
+the partial entropy of the
+component in the mixture,
+
+01:03:48.770 --> 01:03:53.000 align:middle line:84%
+which as you remember,
+is this derivative.
+
+01:03:53.000 --> 01:04:04.330 align:middle line:84%
+It is equal to the
+pure component entropy
+
+01:04:04.330 --> 01:04:09.130 align:middle line:90%
+plus a term that in--
+
+01:04:09.130 --> 01:04:13.300 align:middle line:84%
+when we define the entropy of
+mixing at the beginning today,
+
+01:04:13.300 --> 01:04:18.250 align:middle line:90%
+this is delta si mix.
+
+01:04:18.250 --> 01:04:24.070 align:middle line:84%
+But if we-- since now,
+for this ideal gas
+
+01:04:24.070 --> 01:04:26.230 align:middle line:84%
+mixture of ideal gases,
+we have the expression
+
+01:04:26.230 --> 01:04:30.250 align:middle line:84%
+for the chemical potential
+in terms of explicitly
+
+01:04:30.250 --> 01:04:34.060 align:middle line:84%
+here, taking the derivative
+with respect to t,
+
+01:04:34.060 --> 01:04:39.640 align:middle line:84%
+we see leaves just r
+times the log of y.
+
+01:04:39.640 --> 01:04:43.900 align:middle line:84%
+And since there is a minus sign
+here, this is minus r log of y.
+
+01:04:43.900 --> 01:04:47.720 align:middle line:84%
+So essentially, these and we'll
+return to this in a later,
+
+01:04:47.720 --> 01:04:55.240 align:middle line:84%
+but this says that the
+entropy of isothermal--
+
+01:04:55.240 --> 01:04:58.240 align:middle line:84%
+isothermobaric mixing
+of that molecule is--
+
+01:04:58.240 --> 01:05:03.740 align:middle line:84%
+of that molecule is equal
+to minus r log of y.
+
+01:05:03.740 --> 01:05:12.610 align:middle line:90%
+
+
+01:05:12.610 --> 01:05:24.320 align:middle line:84%
+And this is also equal to the
+pure component entropy evaluated
+
+01:05:24.320 --> 01:05:27.230 align:middle line:90%
+at pii.
+
+01:05:27.230 --> 01:05:45.360 align:middle line:84%
+This is because you
+remember for a gas,
+
+01:05:45.360 --> 01:05:54.540 align:middle line:84%
+for an ideal gas, if I evaluate
+the difference in the entropy
+
+01:05:54.540 --> 01:06:02.150 align:middle line:84%
+a different temperature and
+pressure, OK, this is equal to--
+
+01:06:02.150 --> 01:06:04.700 align:middle line:90%
+
+
+01:06:04.700 --> 01:06:05.900 align:middle line:90%
+and this is the perfect--
+
+01:06:05.900 --> 01:06:08.540 align:middle line:84%
+let's suppose it's
+a perfect gas.
+
+01:06:08.540 --> 01:06:16.790 align:middle line:84%
+It's t2 over t1 minus
+r log p2 over p1.
+
+01:06:16.790 --> 01:06:27.490 align:middle line:84%
+So in this relation here,
+we have s evaluated at p.
+
+01:06:27.490 --> 01:06:37.950 align:middle line:90%
+
+
+01:06:37.950 --> 01:06:39.670 align:middle line:90%
+p, all right, let's say p.
+
+01:06:39.670 --> 01:06:43.820 align:middle line:90%
+
+
+01:06:43.820 --> 01:06:48.920 align:middle line:90%
+pii minus s evaluated at p.
+
+01:06:48.920 --> 01:06:50.190 align:middle line:90%
+Same temperature.
+
+01:06:50.190 --> 01:06:53.190 align:middle line:84%
+So this doesn't give
+any contribution.
+
+01:06:53.190 --> 01:06:59.000 align:middle line:84%
+So I'm left with minus
+r log of pii over p.
+
+01:06:59.000 --> 01:07:06.490 align:middle line:84%
+But that's in our limit of ideal
+mixture is the mole fraction.
+
+01:07:06.490 --> 01:07:09.320 align:middle line:90%
+
+
+01:07:09.320 --> 01:07:14.000 align:middle line:84%
+So hopefully, what I've
+written on the board
+
+01:07:14.000 --> 01:07:16.340 align:middle line:90%
+is this relation here.
+
+01:07:16.340 --> 01:07:19.195 align:middle line:84%
+That's to justify
+this equal sign.
+
+01:07:19.195 --> 01:07:23.090 align:middle line:90%
+
+
+01:07:23.090 --> 01:07:28.400 align:middle line:84%
+We can also compute
+the partial volume,
+
+01:07:28.400 --> 01:07:33.515 align:middle line:84%
+taking the derivative of
+this with respect to p
+
+01:07:33.515 --> 01:07:36.920 align:middle line:84%
+and you see that since this
+last term doesn't have pressure,
+
+01:07:36.920 --> 01:07:40.880 align:middle line:84%
+I just pick up something
+from the derivative
+
+01:07:40.880 --> 01:07:42.920 align:middle line:84%
+of the chemical potential
+of the pure component.
+
+01:07:42.920 --> 01:07:46.240 align:middle line:90%
+And that's the specific volume.
+
+01:07:46.240 --> 01:07:49.440 align:middle line:90%
+
+
+01:07:49.440 --> 01:07:53.400 align:middle line:84%
+So here, we see that there
+is no volume of mixing.
+
+01:07:53.400 --> 01:07:55.290 align:middle line:90%
+There is no iso--
+
+01:07:55.290 --> 01:08:04.230 align:middle line:84%
+the delta-- essentially, we
+are proving that delta vi mix
+
+01:08:04.230 --> 01:08:07.080 align:middle line:84%
+for a Gibbs-Dalton
+mixture of ideal gases
+
+01:08:07.080 --> 01:08:10.810 align:middle line:90%
+and so on is equal to 0.
+
+01:08:10.810 --> 01:08:16.180 align:middle line:84%
+Up here, we prove that
+this is equal to delta si
+
+01:08:16.180 --> 01:08:20.400 align:middle line:84%
+mix for a Gibbs-Dalton
+mixture of ideal gases.
+
+01:08:20.400 --> 01:08:23.390 align:middle line:90%
+
+
+01:08:23.390 --> 01:08:25.606 align:middle line:84%
+I should write it
+because otherwise--
+
+01:08:25.606 --> 01:08:34.740 align:middle line:90%
+
+
+01:08:34.740 --> 01:08:43.160 align:middle line:90%
+OK, the same for the enthalpy.
+
+01:08:43.160 --> 01:08:50.210 align:middle line:84%
+Remember that derivative that I
+emphasized this morning earlier,
+
+01:08:50.210 --> 01:08:53.960 align:middle line:84%
+if I take the expression for the
+chemical potential divided by t
+
+01:08:53.960 --> 01:08:59.790 align:middle line:84%
+and take the derivative with
+respect to t to 1 over t,
+
+01:08:59.790 --> 01:09:02.910 align:middle line:84%
+OK, well, if I
+divide this by t, it
+
+01:09:02.910 --> 01:09:04.899 align:middle line:84%
+becomes independent
+of temperature.
+
+01:09:04.899 --> 01:09:06.899 align:middle line:84%
+So when I take the
+derivative with respect
+
+01:09:06.899 --> 01:09:10.170 align:middle line:84%
+to any function of temperature,
+it doesn't contribute anything.
+
+01:09:10.170 --> 01:09:14.319 align:middle line:84%
+So that means that
+the enthalpy--
+
+01:09:14.319 --> 01:09:17.910 align:middle line:84%
+the partial enthalpy
+is related just
+
+01:09:17.910 --> 01:09:26.270 align:middle line:84%
+to the specific enthalpy of
+the gas, which here also, I
+
+01:09:26.270 --> 01:09:27.950 align:middle line:84%
+removed the temperature,
+the pressure
+
+01:09:27.950 --> 01:09:30.740 align:middle line:84%
+dependence, because
+for an ideal gas,
+
+01:09:30.740 --> 01:09:35.250 align:middle line:84%
+the enthalpy depends
+only on temperature.
+
+01:09:35.250 --> 01:09:38.410 align:middle line:90%
+And similarly for the--
+
+01:09:38.410 --> 01:09:47.020 align:middle line:84%
+so that also proves that
+also delta h mix equals 0.
+
+01:09:47.020 --> 01:09:53.100 align:middle line:90%
+
+
+01:09:53.100 --> 01:09:56.290 align:middle line:84%
+And remember what
+these properties are.
+
+01:09:56.290 --> 01:09:57.870 align:middle line:84%
+These are the things
+that I measure
+
+01:09:57.870 --> 01:10:01.430 align:middle line:84%
+when I add a little bit of
+a substance to my mixture.
+
+01:10:01.430 --> 01:10:08.795 align:middle line:84%
+If I do it with an ideal mixture
+of ideal gases, those are 0.
+
+01:10:08.795 --> 01:10:13.810 align:middle line:90%
+
+
+01:10:13.810 --> 01:10:21.640 align:middle line:84%
+We can also prove for a gas
+for this kind of mixture,
+
+01:10:21.640 --> 01:10:31.440 align:middle line:84%
+the so-called Amagat law
+of additive volumes, which
+
+01:10:31.440 --> 01:10:34.830 align:middle line:90%
+can be interpreted this way.
+
+01:10:34.830 --> 01:10:46.532 align:middle line:84%
+Suppose I take my
+pure components
+
+01:10:46.532 --> 01:10:51.860 align:middle line:84%
+that you remember from when we
+interpreted the mixture before,
+
+01:10:51.860 --> 01:10:55.420 align:middle line:84%
+if they are at the
+partial pressure,
+
+01:10:55.420 --> 01:10:59.200 align:middle line:84%
+they occupy the entire
+volume of the mixture.
+
+01:10:59.200 --> 01:11:05.950 align:middle line:84%
+But if I squeeze them from the
+partial pressure to the pressure
+
+01:11:05.950 --> 01:11:09.880 align:middle line:84%
+of the mixture, they are going
+to occupy a volume, which
+
+01:11:09.880 --> 01:11:17.290 align:middle line:84%
+is called the proper volume, v
+prime, which see, this is not--
+
+01:11:17.290 --> 01:11:20.630 align:middle line:84%
+So this is the
+volume they occupy
+
+01:11:20.630 --> 01:11:23.540 align:middle line:84%
+at the same temperature
+and pressure of the mixture
+
+01:11:23.540 --> 01:11:24.475 align:middle line:90%
+when pure.
+
+01:11:24.475 --> 01:11:28.581 align:middle line:90%
+
+
+01:11:28.581 --> 01:11:31.070 align:middle line:84%
+And I do the same
+for all of them.
+
+01:11:31.070 --> 01:11:34.900 align:middle line:84%
+So they are all squeezed at the
+same pressure of the mixture.
+
+01:11:34.900 --> 01:11:38.860 align:middle line:84%
+Well, it turns out that
+the sum of these volumes
+
+01:11:38.860 --> 01:11:42.195 align:middle line:84%
+is equal to the
+volume of the mixture.
+
+01:11:42.195 --> 01:11:47.860 align:middle line:90%
+
+
+01:11:47.860 --> 01:11:52.785 align:middle line:84%
+OK, and that is Amagat's
+law of additive volumes.
+
+01:11:52.785 --> 01:12:05.680 align:middle line:90%
+
+
+01:12:05.680 --> 01:12:11.990 align:middle line:84%
+OK, so now, let's
+apply for example,
+
+01:12:11.990 --> 01:12:17.060 align:middle line:84%
+for an important example,
+what we have seen.
+
+01:12:17.060 --> 01:12:21.790 align:middle line:84%
+So we want to compute
+the so-called--
+
+01:12:21.790 --> 01:12:24.490 align:middle line:84%
+this bottom line
+here is the formula
+
+01:12:24.490 --> 01:12:31.580 align:middle line:84%
+that we call the entropy of
+spontaneous mixing, which
+
+01:12:31.580 --> 01:12:36.380 align:middle line:84%
+is actually going to be
+an isothermobaric mix.
+
+01:12:36.380 --> 01:12:38.930 align:middle line:84%
+So the idea here
+is that we start
+
+01:12:38.930 --> 01:12:44.720 align:middle line:84%
+with a container,
+which is isolated
+
+01:12:44.720 --> 01:12:46.585 align:middle line:90%
+so it doesn't experience any--
+
+01:12:46.585 --> 01:12:49.250 align:middle line:90%
+
+
+01:12:49.250 --> 01:12:54.500 align:middle line:84%
+there is no heat bath, no
+thermal reservoir, no contact
+
+01:12:54.500 --> 01:12:56.010 align:middle line:90%
+with thermal reservoirs.
+
+01:12:56.010 --> 01:12:58.280 align:middle line:90%
+It's just isolated.
+
+01:12:58.280 --> 01:13:04.250 align:middle line:84%
+And I have my r constituents
+all in mutual equilibrium
+
+01:13:04.250 --> 01:13:05.960 align:middle line:84%
+at the same temperature
+and pressure
+
+01:13:05.960 --> 01:13:10.970 align:middle line:84%
+because these partitions that
+separate them are movable,
+
+01:13:10.970 --> 01:13:15.770 align:middle line:84%
+and therefore allow exchanges
+of volume and energy.
+
+01:13:15.770 --> 01:13:17.810 align:middle line:84%
+So the conditions for
+mutual equilibrium
+
+01:13:17.810 --> 01:13:23.960 align:middle line:84%
+is equality of temperature
+and equality of pressure.
+
+01:13:23.960 --> 01:13:32.420 align:middle line:84%
+Then, I make those partitions,
+those moving partitions,
+
+01:13:32.420 --> 01:13:33.166 align:middle line:90%
+disappear.
+
+01:13:33.166 --> 01:13:38.700 align:middle line:90%
+
+
+01:13:38.700 --> 01:13:44.340 align:middle line:84%
+As you know, since we are
+within the simple system model,
+
+01:13:44.340 --> 01:13:53.100 align:middle line:84%
+taking the partition away
+doesn't change the properties
+
+01:13:53.100 --> 01:13:56.850 align:middle line:90%
+of any of the properties.
+
+01:13:56.850 --> 01:14:00.360 align:middle line:84%
+And the moment I
+do that removal,
+
+01:14:00.360 --> 01:14:03.986 align:middle line:84%
+the particles are
+still separated.
+
+01:14:03.986 --> 01:14:07.040 align:middle line:90%
+
+
+01:14:07.040 --> 01:14:24.330 align:middle line:84%
+So the particles, it's
+which start from here.
+
+01:14:24.330 --> 01:14:27.166 align:middle line:84%
+And my system is the
+system with the partitions.
+
+01:14:27.166 --> 01:14:30.560 align:middle line:90%
+
+
+01:14:30.560 --> 01:14:38.320 align:middle line:84%
+When I remove the partitions,
+the stable equilibrium state,
+
+01:14:38.320 --> 01:14:43.890 align:middle line:84%
+and the new system because I've
+changed the internal structure,
+
+01:14:43.890 --> 01:14:50.060 align:middle line:84%
+it has a new curve for the
+stable equilibrium states.
+
+01:14:50.060 --> 01:14:57.590 align:middle line:90%
+
+
+01:14:57.590 --> 01:15:01.670 align:middle line:84%
+And the moment I have
+removed the partitions
+
+01:15:01.670 --> 01:15:06.200 align:middle line:84%
+and the properties haven't
+changed, this state here,
+
+01:15:06.200 --> 01:15:07.976 align:middle line:90%
+which is--
+
+01:15:07.976 --> 01:15:10.920 align:middle line:84%
+which was a stable equilibrium
+state with the partitions,
+
+01:15:10.920 --> 01:15:14.300 align:middle line:84%
+becomes a non-equilibrium state
+with respect to the system
+
+01:15:14.300 --> 01:15:16.190 align:middle line:90%
+without partitions.
+
+01:15:16.190 --> 01:15:22.070 align:middle line:84%
+And the system will tend
+to evolve spontaneously
+
+01:15:22.070 --> 01:15:26.140 align:middle line:84%
+towards a new equilibrium, which
+is going to be the mixture.
+
+01:15:26.140 --> 01:15:29.860 align:middle line:90%
+
+
+01:15:29.860 --> 01:15:31.750 align:middle line:90%
+The particles will mix.
+
+01:15:31.750 --> 01:15:36.610 align:middle line:84%
+And each one of
+them, if you think
+
+01:15:36.610 --> 01:15:39.320 align:middle line:84%
+in terms of the single
+particle contribution,
+
+01:15:39.320 --> 01:15:47.190 align:middle line:84%
+each particle here was
+squeezed to a small volume.
+
+01:15:47.190 --> 01:15:50.860 align:middle line:84%
+And now, it sees the
+entire volume available.
+
+01:15:50.860 --> 01:15:53.340 align:middle line:90%
+So it expands.
+
+01:15:53.340 --> 01:15:55.780 align:middle line:84%
+And the same for the particles
+here, and the same for
+
+01:15:55.780 --> 01:15:56.710 align:middle line:90%
+particles there.
+
+01:15:56.710 --> 01:16:00.690 align:middle line:84%
+So each one experiences
+a spontaneous expansion.
+
+01:16:00.690 --> 01:16:07.620 align:middle line:84%
+It's like if you take
+the single particle view,
+
+01:16:07.620 --> 01:16:16.150 align:middle line:84%
+so say particle one,
+and here, I have vacuum,
+
+01:16:16.150 --> 01:16:21.730 align:middle line:84%
+OK, I remove the
+partition and the particle
+
+01:16:21.730 --> 01:16:25.410 align:middle line:84%
+now fills the entire volume
+and fills the entire volume.
+
+01:16:25.410 --> 01:16:28.530 align:middle line:84%
+There is no more vacuum,
+because at the beginning,
+
+01:16:28.530 --> 01:16:33.810 align:middle line:84%
+I had zero probability of
+finding my particles here,
+
+01:16:33.810 --> 01:16:38.460 align:middle line:84%
+and probability 1
+of finding it there.
+
+01:16:38.460 --> 01:16:43.050 align:middle line:84%
+When I remove the partition,
+the particle is still one.
+
+01:16:43.050 --> 01:16:45.540 align:middle line:84%
+But now, I have an
+even probability
+
+01:16:45.540 --> 01:16:47.020 align:middle line:90%
+of finding it everywhere.
+
+01:16:47.020 --> 01:16:50.670 align:middle line:90%
+
+
+01:16:50.670 --> 01:17:00.360 align:middle line:84%
+OK, so for the moment,
+we want to describe
+
+01:17:00.360 --> 01:17:04.110 align:middle line:90%
+that spontaneous process.
+
+01:17:04.110 --> 01:17:08.590 align:middle line:84%
+And so we want to
+analyze our process here.
+
+01:17:08.590 --> 01:17:11.290 align:middle line:84%
+We have a final state
+and an initial state.
+
+01:17:11.290 --> 01:17:13.890 align:middle line:84%
+And the tools are, as
+usual, the energy balance
+
+01:17:13.890 --> 01:17:15.310 align:middle line:90%
+and the entropy balance.
+
+01:17:15.310 --> 01:17:20.460 align:middle line:84%
+Plus the auxiliary
+balances that are
+
+01:17:20.460 --> 01:17:23.370 align:middle line:84%
+balanced for the volume
+balance for the amounts
+
+01:17:23.370 --> 01:17:24.760 align:middle line:90%
+of the constituents.
+
+01:17:24.760 --> 01:17:28.140 align:middle line:90%
+
+
+01:17:28.140 --> 01:17:32.310 align:middle line:84%
+So I need to write the various
+ingredients of those balance
+
+01:17:32.310 --> 01:17:36.580 align:middle line:84%
+equations, which are the
+expressions for the energy,
+
+01:17:36.580 --> 01:17:40.590 align:middle line:84%
+the volume, and the entropy
+in the initial state,
+
+01:17:40.590 --> 01:17:42.730 align:middle line:90%
+and in the final state.
+
+01:17:42.730 --> 01:17:47.880 align:middle line:84%
+I've called this
+final state b prime.
+
+01:17:47.880 --> 01:17:51.360 align:middle line:84%
+And I call that final
+temperature t prime and pressure
+
+01:17:51.360 --> 01:17:51.860 align:middle line:90%
+p prime.
+
+01:17:51.860 --> 01:17:55.670 align:middle line:90%
+
+
+01:17:55.670 --> 01:17:58.430 align:middle line:84%
+For the initial
+state, things are
+
+01:17:58.430 --> 01:18:03.480 align:middle line:84%
+easy because the
+components are separate.
+
+01:18:03.480 --> 01:18:08.930 align:middle line:84%
+So these are-- this
+is just a composite
+
+01:18:08.930 --> 01:18:13.670 align:middle line:90%
+of separate substances.
+
+01:18:13.670 --> 01:18:16.850 align:middle line:84%
+We know how to compute
+properties of pure substances.
+
+01:18:16.850 --> 01:18:23.690 align:middle line:84%
+And here in particular, they
+are ideal gases, even simpler.
+
+01:18:23.690 --> 01:18:27.440 align:middle line:84%
+And so we simply have
+to use additivity
+
+01:18:27.440 --> 01:18:35.050 align:middle line:84%
+for energy, for
+volume, and for entropy
+
+01:18:35.050 --> 01:18:39.610 align:middle line:84%
+and sum up the energy
+of each one of them.
+
+01:18:39.610 --> 01:18:44.590 align:middle line:84%
+Since u is the specific energy,
+the energy of this system
+
+01:18:44.590 --> 01:18:48.190 align:middle line:84%
+is obtained by the specific
+energy times the amount.
+
+01:18:48.190 --> 01:18:51.588 align:middle line:84%
+And then I sum, and
+that's the additivity.
+
+01:18:51.588 --> 01:18:53.505 align:middle line:84%
+And the same for volume,
+the same for entropy.
+
+01:18:53.505 --> 01:18:57.180 align:middle line:90%
+
+
+01:18:57.180 --> 01:19:09.150 align:middle line:84%
+In the final state,
+in the final state,
+
+01:19:09.150 --> 01:19:12.770 align:middle line:84%
+things are not as simple
+because it's a mixture.
+
+01:19:12.770 --> 01:19:15.300 align:middle line:90%
+
+
+01:19:15.300 --> 01:19:19.710 align:middle line:84%
+So we have to take a model
+for mixture behavior.
+
+01:19:19.710 --> 01:19:23.850 align:middle line:84%
+So here, we are going to
+adopt the Gibbs-Dalton--
+
+01:19:23.850 --> 01:19:27.190 align:middle line:84%
+ideal Gibbs-Dalton mixture
+model for this state.
+
+01:19:27.190 --> 01:19:31.970 align:middle line:90%
+
+
+01:19:31.970 --> 01:19:35.330 align:middle line:84%
+Therefore, the energy
+for the mixture
+
+01:19:35.330 --> 01:19:41.660 align:middle line:84%
+is equal to the sum
+weighted by the amounts
+
+01:19:41.660 --> 01:19:51.050 align:middle line:84%
+of the specific properties of
+the pure components evaluated
+
+01:19:51.050 --> 01:19:55.280 align:middle line:84%
+at the temperature and
+the partial pressure.
+
+01:19:55.280 --> 01:20:00.410 align:middle line:84%
+So here in principle, I
+should have written comma pii.
+
+01:20:00.410 --> 01:20:06.600 align:middle line:84%
+But I didn't because I
+remember that for an ideal gas,
+
+01:20:06.600 --> 01:20:09.750 align:middle line:84%
+the energy is a function
+only of temperature.
+
+01:20:09.750 --> 01:20:15.860 align:middle line:84%
+So that dependence isn't
+there because if you remember,
+
+01:20:15.860 --> 01:20:20.270 align:middle line:90%
+the u is equal to cvdt.
+
+01:20:20.270 --> 01:20:25.650 align:middle line:84%
+And for an ideal gas, there is
+nothing, no pressure dependence.
+
+01:20:25.650 --> 01:20:28.580 align:middle line:84%
+And here, we are
+talking about something
+
+01:20:28.580 --> 01:20:31.150 align:middle line:84%
+that holds for each of
+the pure substances.
+
+01:20:31.150 --> 01:20:38.950 align:middle line:90%
+
+
+01:20:38.950 --> 01:20:46.230 align:middle line:84%
+Then, we can use
+the relation for--
+
+01:20:46.230 --> 01:20:50.410 align:middle line:84%
+this is Amagat's
+relation, or you
+
+01:20:50.410 --> 01:20:52.935 align:middle line:84%
+can use, in any case,
+the equation of state.
+
+01:20:52.935 --> 01:20:57.290 align:middle line:90%
+
+
+01:20:57.290 --> 01:21:03.470 align:middle line:84%
+And we already proved that v
+is equal to that the mixture
+
+01:21:03.470 --> 01:21:07.940 align:middle line:84%
+of ideal gases under
+the Gibbs-Dalton model
+
+01:21:07.940 --> 01:21:09.780 align:middle line:90%
+behaves itself as an ideal gas.
+
+01:21:09.780 --> 01:21:15.050 align:middle line:84%
+So there is the relation,
+equation of state pv
+
+01:21:15.050 --> 01:21:19.680 align:middle line:84%
+equals nrt for the
+entire mixture here.
+
+01:21:19.680 --> 01:21:22.220 align:middle line:90%
+And that's what we use here.
+
+01:21:22.220 --> 01:21:26.780 align:middle line:84%
+And then for the
+entropy, the entropy
+
+01:21:26.780 --> 01:21:31.130 align:middle line:84%
+is the sum of the entropies of
+the specific entropies evaluated
+
+01:21:31.130 --> 01:21:34.460 align:middle line:90%
+at the partial pressures.
+
+01:21:34.460 --> 01:21:40.410 align:middle line:84%
+Now, the entropy does
+depend on pressure.
+
+01:21:40.410 --> 01:21:46.330 align:middle line:84%
+So I did leave the
+partial pressure
+
+01:21:46.330 --> 01:21:52.210 align:middle line:84%
+that the components
+have in the final state.
+
+01:21:52.210 --> 01:21:53.650 align:middle line:84%
+So these are just
+the ingredients
+
+01:21:53.650 --> 01:21:54.820 align:middle line:90%
+of the balance equations.
+
+01:21:54.820 --> 01:21:56.690 align:middle line:84%
+Now, I make the
+balanced equation.
+
+01:21:56.690 --> 01:22:00.610 align:middle line:84%
+So the balanced
+equation, when the system
+
+01:22:00.610 --> 01:22:05.590 align:middle line:84%
+is completely isolated is
+that the energy is conserved.
+
+01:22:05.590 --> 01:22:11.720 align:middle line:84%
+So u final minus u
+initial is equal to 0.
+
+01:22:11.720 --> 01:22:17.630 align:middle line:84%
+So I have u final, I have
+u initial, I subtract them.
+
+01:22:17.630 --> 01:22:22.800 align:middle line:84%
+I can put this under
+the same summation.
+
+01:22:22.800 --> 01:22:25.970 align:middle line:84%
+Then, I remember
+this equation here.
+
+01:22:25.970 --> 01:22:28.950 align:middle line:90%
+
+
+01:22:28.950 --> 01:22:40.350 align:middle line:84%
+And so for each of
+the constituents,
+
+01:22:40.350 --> 01:22:45.920 align:middle line:84%
+I can write that
+the integrate from t
+
+01:22:45.920 --> 01:22:51.110 align:middle line:84%
+to t prime, this difference, so
+this is the integral from t to t
+
+01:22:51.110 --> 01:22:52.040 align:middle line:90%
+prime of cv.
+
+01:22:52.040 --> 01:22:53.735 align:middle line:84%
+And here, there
+should be a cvii.
+
+01:22:53.735 --> 01:22:59.100 align:middle line:90%
+
+
+01:22:59.100 --> 01:23:00.900 align:middle line:90%
+OK, OK.
+
+01:23:00.900 --> 01:23:05.020 align:middle line:84%
+So this integral has
+to be equal to 0.
+
+01:23:05.020 --> 01:23:08.530 align:middle line:84%
+Now, when can that
+be equal to 0?
+
+01:23:08.530 --> 01:23:11.020 align:middle line:84%
+Now, here, we have to
+remember a few things,
+
+01:23:11.020 --> 01:23:19.860 align:middle line:84%
+that for each pure substance,
+the specific heats are
+
+01:23:19.860 --> 01:23:23.430 align:middle line:84%
+non-negative, are
+greater than 0.
+
+01:23:23.430 --> 01:23:26.910 align:middle line:84%
+We proved it because they are
+related to the second derivative
+
+01:23:26.910 --> 01:23:28.330 align:middle line:90%
+of the fundamental relations.
+
+01:23:28.330 --> 01:23:32.180 align:middle line:84%
+They are related to
+this concavity here.
+
+01:23:32.180 --> 01:23:35.830 align:middle line:90%
+
+
+01:23:35.830 --> 01:23:41.050 align:middle line:84%
+So we have an integral
+of positive quantities,
+
+01:23:41.050 --> 01:23:44.710 align:middle line:84%
+of a positive function,
+weighted and then
+
+01:23:44.710 --> 01:23:47.620 align:middle line:84%
+multiplied by positive numbers
+because the amounts can only
+
+01:23:47.620 --> 01:23:48.710 align:middle line:90%
+be positive, of course.
+
+01:23:48.710 --> 01:23:52.750 align:middle line:90%
+It cannot be a negative amount.
+
+01:23:52.750 --> 01:23:55.270 align:middle line:84%
+So you can view
+this as an integral
+
+01:23:55.270 --> 01:24:00.430 align:middle line:84%
+of a function, an
+integral from, say,
+
+01:24:00.430 --> 01:24:09.220 align:middle line:84%
+x1 to x2 of a function
+that has to be equal to 0,
+
+01:24:09.220 --> 01:24:15.660 align:middle line:90%
+while this function is positive.
+
+01:24:15.660 --> 01:24:21.780 align:middle line:84%
+So here is a function,
+positive, and the integral
+
+01:24:21.780 --> 01:24:27.570 align:middle line:84%
+is equal to this
+area from x1 to x2.
+
+01:24:27.570 --> 01:24:31.240 align:middle line:84%
+So if the function is positive
+and I want the integral to be 0,
+
+01:24:31.240 --> 01:24:35.790 align:middle line:84%
+the only way is that the
+interval of integration
+
+01:24:35.790 --> 01:24:37.620 align:middle line:90%
+must be 0.
+
+01:24:37.620 --> 01:24:42.630 align:middle line:84%
+So that implies that this
+integral is equal to 0 only
+
+01:24:42.630 --> 01:24:46.170 align:middle line:90%
+when x2 is equal to x1.
+
+01:24:46.170 --> 01:24:50.490 align:middle line:84%
+So that proves that
+the final temperature
+
+01:24:50.490 --> 01:24:52.600 align:middle line:84%
+must be equal to the
+initial temperature.
+
+01:24:52.600 --> 01:24:55.500 align:middle line:90%
+
+
+01:24:55.500 --> 01:24:59.610 align:middle line:84%
+We've no need to make
+any assumptions of what
+
+01:24:59.610 --> 01:25:02.070 align:middle line:84%
+these functions
+are, whether they
+
+01:25:02.070 --> 01:25:05.950 align:middle line:84%
+are functions of whether
+they are constant or not.
+
+01:25:05.950 --> 01:25:09.970 align:middle line:84%
+They can be functions, arbitrary
+functions of temperature,
+
+01:25:09.970 --> 01:25:17.200 align:middle line:90%
+still get the same result.
+
+01:25:17.200 --> 01:25:24.220 align:middle line:84%
+Then, if I make the volume
+balance equation, here
+
+01:25:24.220 --> 01:25:27.150 align:middle line:84%
+is another mistake,
+this is a v, not a u.
+
+01:25:27.150 --> 01:25:30.820 align:middle line:90%
+
+
+01:25:30.820 --> 01:25:35.900 align:middle line:84%
+So the final volume, since we
+are in the same overall box,
+
+01:25:35.900 --> 01:25:38.180 align:middle line:84%
+final volume is equal
+to initial volume.
+
+01:25:38.180 --> 01:25:40.810 align:middle line:90%
+So v-- these two are equal.
+
+01:25:40.810 --> 01:25:43.960 align:middle line:84%
+If I look at this
+relation here, it
+
+01:25:43.960 --> 01:25:48.430 align:middle line:84%
+says that if I put them
+equal, it says that t over p
+
+01:25:48.430 --> 01:25:51.610 align:middle line:84%
+is equal to t
+prime over p prime.
+
+01:25:51.610 --> 01:25:53.620 align:middle line:84%
+So that means that
+if we just prove
+
+01:25:53.620 --> 01:25:56.200 align:middle line:84%
+that t prime is equal to t,
+so the final temperature is
+
+01:25:56.200 --> 01:25:59.050 align:middle line:84%
+equal to the initial,
+the volume balance
+
+01:25:59.050 --> 01:26:02.020 align:middle line:84%
+implies that also
+the final pressure is
+
+01:26:02.020 --> 01:26:02.910 align:middle line:90%
+equal to the initial.
+
+01:26:02.910 --> 01:26:08.250 align:middle line:90%
+
+
+01:26:08.250 --> 01:26:14.180 align:middle line:84%
+So spontaneous mixing with these
+conditions is isothermobaric.
+
+01:26:14.180 --> 01:26:19.910 align:middle line:90%
+
+
+01:26:19.910 --> 01:26:22.435 align:middle line:84%
+Different story is for
+the entropy balance.
+
+01:26:22.435 --> 01:26:27.510 align:middle line:90%
+
+
+01:26:27.510 --> 01:26:33.000 align:middle line:84%
+The entropy balance is written
+here with another little mistake
+
+01:26:33.000 --> 01:26:37.170 align:middle line:84%
+because this should be a
+capital S. So the final entropy
+
+01:26:37.170 --> 01:26:39.023 align:middle line:90%
+minus the initial entropy.
+
+01:26:39.023 --> 01:26:42.630 align:middle line:90%
+
+
+01:26:42.630 --> 01:26:44.390 align:middle line:90%
+There are no interactions.
+
+01:26:44.390 --> 01:26:47.250 align:middle line:90%
+So there is no entropy transfer.
+
+01:26:47.250 --> 01:26:49.860 align:middle line:90%
+There are no heat interactions.
+
+01:26:49.860 --> 01:26:54.370 align:middle line:84%
+But there can be entropy
+produced by irreversibility.
+
+01:26:54.370 --> 01:27:01.160 align:middle line:90%
+
+
+01:27:01.160 --> 01:27:03.230 align:middle line:90%
+So we rewrite this.
+
+01:27:03.230 --> 01:27:06.995 align:middle line:84%
+So S here is equal
+to SB minus SA.
+
+01:27:06.995 --> 01:27:10.900 align:middle line:90%
+And I have the terms here.
+
+01:27:10.900 --> 01:27:14.290 align:middle line:90%
+So I substitute.
+
+01:27:14.290 --> 01:27:20.290 align:middle line:84%
+Now, I realize that
+this we can also write--
+
+01:27:20.290 --> 01:27:24.310 align:middle line:84%
+well, actually, it's
+this expression here.
+
+01:27:24.310 --> 01:27:26.320 align:middle line:90%
+I have to--
+
+01:27:26.320 --> 01:27:28.580 align:middle line:90%
+I don't have to re-prove it.
+
+01:27:28.580 --> 01:27:30.550 align:middle line:90%
+It's written here.
+
+01:27:30.550 --> 01:27:33.280 align:middle line:84%
+This difference is
+equal to minus r log
+
+01:27:33.280 --> 01:27:37.810 align:middle line:84%
+y, which is also is
+interpreted as the entropy
+
+01:27:37.810 --> 01:27:41.290 align:middle line:90%
+of isothermobaric mixing.
+
+01:27:41.290 --> 01:27:48.190 align:middle line:84%
+And therefore, the-- if I take
+r, the minus sign, outside
+
+01:27:48.190 --> 01:27:51.070 align:middle line:84%
+of the summation, I take
+also the total amount
+
+01:27:51.070 --> 01:27:52.630 align:middle line:90%
+out of the summation.
+
+01:27:52.630 --> 01:27:57.880 align:middle line:84%
+Then, I'm left inside with the
+mole fraction times the log
+
+01:27:57.880 --> 01:27:58.755 align:middle line:90%
+of the mole fraction.
+
+01:27:58.755 --> 01:28:03.040 align:middle line:90%
+
+
+01:28:03.040 --> 01:28:10.480 align:middle line:84%
+Now, at first, at first sight,
+one would be worried about
+
+01:28:10.480 --> 01:28:18.160 align:middle line:84%
+the minus sign because we
+know that the entropy produced
+
+01:28:18.160 --> 01:28:21.570 align:middle line:84%
+by irreversibility cannot be
+negative, must be positive.
+
+01:28:21.570 --> 01:28:25.240 align:middle line:84%
+But if you look at
+this function y log
+
+01:28:25.240 --> 01:28:33.880 align:middle line:84%
+y, the function in the
+interval between 0 and 1,
+
+01:28:33.880 --> 01:28:37.840 align:middle line:84%
+the function y log y
+does something like that.
+
+01:28:37.840 --> 01:28:43.186 align:middle line:90%
+
+
+01:28:43.186 --> 01:28:45.620 align:middle line:90%
+Versus y.
+
+01:28:45.620 --> 01:28:47.690 align:middle line:90%
+So it's negative.
+
+01:28:47.690 --> 01:28:52.250 align:middle line:90%
+So minus y log y is positive.
+
+01:28:52.250 --> 01:28:53.380 align:middle line:90%
+And we are safe.
+
+01:28:53.380 --> 01:29:02.210 align:middle line:84%
+That means for any reasonable,
+in other words, possible values
+
+01:29:02.210 --> 01:29:05.870 align:middle line:84%
+of the mole fractions,
+which of course can go only
+
+01:29:05.870 --> 01:29:12.210 align:middle line:84%
+between 0 and 1, that
+function is non-negative.
+
+01:29:12.210 --> 01:29:17.710 align:middle line:84%
+But it also says that there
+is entropy production.
+
+01:29:17.710 --> 01:29:20.730 align:middle line:84%
+So the process is
+irreversible as we
+
+01:29:20.730 --> 01:29:25.140 align:middle line:84%
+have anticipated by
+looking at the energy
+
+01:29:25.140 --> 01:29:26.783 align:middle line:90%
+versus entropy graphs.
+
+01:29:26.783 --> 01:29:34.790 align:middle line:90%
+
+
+01:29:34.790 --> 01:29:36.985 align:middle line:84%
+And this is called
+the entropy of mixing.
+
+01:29:36.985 --> 01:29:44.220 align:middle line:90%
+
+
+01:29:44.220 --> 01:29:51.610 align:middle line:84%
+Now, so if I look at that
+graph, immediately, I also
+
+01:29:51.610 --> 01:29:56.400 align:middle line:90%
+realize that I have--
+
+01:29:56.400 --> 01:29:58.480 align:middle line:90%
+that I could have done better.
+
+01:29:58.480 --> 01:30:03.300 align:middle line:84%
+In other words, we could have
+done the mixing reversibly
+
+01:30:03.300 --> 01:30:15.300 align:middle line:84%
+because if I-- if instead of
+going this way, I go this way,
+
+01:30:15.300 --> 01:30:19.270 align:middle line:90%
+I do not generate entropy.
+
+01:30:19.270 --> 01:30:20.870 align:middle line:90%
+And I extract some work.
+
+01:30:20.870 --> 01:30:23.390 align:middle line:90%
+
+
+01:30:23.390 --> 01:30:26.470 align:middle line:84%
+So this is what we call
+the adiabatic availability
+
+01:30:26.470 --> 01:30:29.470 align:middle line:84%
+of the state that is
+achieved the moment I
+
+01:30:29.470 --> 01:30:30.760 align:middle line:90%
+remove the partition.
+
+01:30:30.760 --> 01:30:33.730 align:middle line:84%
+That non-equilibrium state
+has adiabatic availability
+
+01:30:33.730 --> 01:30:36.220 align:middle line:84%
+if I am quick enough,
+or smart enough,
+
+01:30:36.220 --> 01:30:39.830 align:middle line:90%
+to do whatever needs to be done.
+
+01:30:39.830 --> 01:30:44.590 align:middle line:84%
+And we'll see how we
+could do it in a moment.
+
+01:30:44.590 --> 01:30:46.065 align:middle line:90%
+We could extract some work.
+
+01:30:46.065 --> 01:30:52.400 align:middle line:90%
+
+
+01:30:52.400 --> 01:30:56.700 align:middle line:84%
+So here is the
+calculation of that,
+
+01:30:56.700 --> 01:30:58.170 align:middle line:90%
+the adiabatic availability.
+
+01:30:58.170 --> 01:31:03.650 align:middle line:90%
+
+
+01:31:03.650 --> 01:31:13.460 align:middle line:84%
+So now, the final state,
+OK, what we just derived
+
+01:31:13.460 --> 01:31:16.620 align:middle line:84%
+is that if you--
+if we mix this way,
+
+01:31:16.620 --> 01:31:22.760 align:middle line:84%
+the final state is the same
+temperature and pressure.
+
+01:31:22.760 --> 01:31:27.740 align:middle line:84%
+Clearly, if we go down and we
+have extracted some energy,
+
+01:31:27.740 --> 01:31:33.530 align:middle line:84%
+the final state here will have
+a smaller temperature, which
+
+01:31:33.530 --> 01:31:34.945 align:middle line:90%
+we call it t double prime.
+
+01:31:34.945 --> 01:31:42.000 align:middle line:90%
+
+
+01:31:42.000 --> 01:31:43.360 align:middle line:90%
+And how do we measure it?
+
+01:31:43.360 --> 01:31:46.830 align:middle line:90%
+How do we do the computation?
+
+01:31:46.830 --> 01:31:50.650 align:middle line:84%
+Well, we start-- the
+previous computation,
+
+01:31:50.650 --> 01:31:52.290 align:middle line:84%
+we started from
+the energy balance
+
+01:31:52.290 --> 01:31:55.890 align:middle line:84%
+setting that final energy
+is equal to initial energy.
+
+01:31:55.890 --> 01:31:58.080 align:middle line:90%
+That determines the temperature.
+
+01:31:58.080 --> 01:32:01.080 align:middle line:84%
+Now, we start from
+the entropy balance
+
+01:32:01.080 --> 01:32:03.720 align:middle line:84%
+because for a reversible
+process because we
+
+01:32:03.720 --> 01:32:05.980 align:middle line:84%
+want to extract the
+adiabatic availability,
+
+01:32:05.980 --> 01:32:08.140 align:middle line:84%
+so that's a reversible
+weight process.
+
+01:32:08.140 --> 01:32:10.800 align:middle line:90%
+The entropy stays constant.
+
+01:32:10.800 --> 01:32:14.380 align:middle line:84%
+We apply equality of
+final and initial entropy.
+
+01:32:14.380 --> 01:32:16.295 align:middle line:84%
+And so we start from
+the entropy balance.
+
+01:32:16.295 --> 01:32:31.170 align:middle line:90%
+
+
+01:32:31.170 --> 01:32:33.820 align:middle line:84%
+Yeah, here is the
+entropy balance.
+
+01:32:33.820 --> 01:32:36.815 align:middle line:84%
+S final minus S
+initial equals 0.
+
+01:32:36.815 --> 01:32:39.420 align:middle line:90%
+
+
+01:32:39.420 --> 01:32:44.300 align:middle line:84%
+So we write it this way
+with the double primes.
+
+01:32:44.300 --> 01:32:47.670 align:middle line:90%
+
+
+01:32:47.670 --> 01:32:55.725 align:middle line:84%
+And then this difference
+here, we can--
+
+01:32:55.725 --> 01:32:59.980 align:middle line:90%
+
+
+01:32:59.980 --> 01:33:01.730 align:middle line:90%
+yeah, it's evaluated.
+
+01:33:01.730 --> 01:33:08.920 align:middle line:84%
+It's evaluated in this line
+because, OK, t double prime
+
+01:33:08.920 --> 01:33:12.610 align:middle line:84%
+is the final temperature
+that we have.
+
+01:33:12.610 --> 01:33:16.840 align:middle line:84%
+p double prime double I
+is the partial pressure
+
+01:33:16.840 --> 01:33:20.890 align:middle line:84%
+that the components will
+have in that new final state.
+
+01:33:20.890 --> 01:33:23.650 align:middle line:84%
+So that partial
+pressure is going
+
+01:33:23.650 --> 01:33:28.090 align:middle line:84%
+to be equal to
+the mole fraction.
+
+01:33:28.090 --> 01:33:31.660 align:middle line:84%
+So that partial pressure will
+be equal to the mole fraction
+
+01:33:31.660 --> 01:33:35.670 align:middle line:84%
+times the final
+pressure p double prime.
+
+01:33:35.670 --> 01:33:38.180 align:middle line:90%
+
+
+01:33:38.180 --> 01:33:48.970 align:middle line:84%
+But if we remember, if
+we remember the question
+
+01:33:48.970 --> 01:33:56.380 align:middle line:84%
+of if we look at the volume
+balance, which is written here,
+
+01:33:56.380 --> 01:34:02.035 align:middle line:84%
+p double prime over t double
+prime is equal to p over t.
+
+01:34:02.035 --> 01:34:10.490 align:middle line:84%
+So I can think of p double
+prime, p double prime,
+
+01:34:10.490 --> 01:34:14.840 align:middle line:90%
+as what is it?
+
+01:34:14.840 --> 01:34:17.500 align:middle line:90%
+p over t.
+
+01:34:17.500 --> 01:34:22.960 align:middle line:84%
+As p times t double
+prime over t.
+
+01:34:22.960 --> 01:34:27.416 align:middle line:90%
+
+
+01:34:27.416 --> 01:34:35.710 align:middle line:84%
+And that's why I am
+writing this here.
+
+01:34:35.710 --> 01:34:44.660 align:middle line:84%
+Then I apply the relation
+for how the entropy depends
+
+01:34:44.660 --> 01:34:47.770 align:middle line:90%
+on temperature and pressure.
+
+01:34:47.770 --> 01:34:50.360 align:middle line:84%
+Here, we also have a
+temperature dependence.
+
+01:34:50.360 --> 01:34:53.470 align:middle line:84%
+So we also have the
+cp log contribution
+
+01:34:53.470 --> 01:34:57.760 align:middle line:84%
+of the ratio of temperatures
+minus r, the log
+
+01:34:57.760 --> 01:34:59.960 align:middle line:90%
+of the ratio of the pressures.
+
+01:34:59.960 --> 01:35:02.600 align:middle line:90%
+
+
+01:35:02.600 --> 01:35:07.160 align:middle line:84%
+OK, then I can
+split this logarithm
+
+01:35:07.160 --> 01:35:09.050 align:middle line:84%
+as being the logarithm
+of the product
+
+01:35:09.050 --> 01:35:11.790 align:middle line:84%
+is going to be the
+sum of the logarithms.
+
+01:35:11.790 --> 01:35:15.570 align:middle line:84%
+So I take the
+minus r log y here.
+
+01:35:15.570 --> 01:35:18.740 align:middle line:84%
+And then I combine the
+log of t double prime
+
+01:35:18.740 --> 01:35:22.940 align:middle line:84%
+that appears from this
+part and with that part.
+
+01:35:22.940 --> 01:35:26.370 align:middle line:84%
+It gets multiplied
+by cv minus r,
+
+01:35:26.370 --> 01:35:28.675 align:middle line:84%
+but by the Moire
+relation that's cv.
+
+01:35:28.675 --> 01:35:34.680 align:middle line:90%
+
+
+01:35:34.680 --> 01:35:37.870 align:middle line:84%
+OK, so we finally
+have this expression.
+
+01:35:37.870 --> 01:35:39.995 align:middle line:84%
+We can put it in
+the entropy balance.
+
+01:35:39.995 --> 01:35:46.760 align:middle line:90%
+
+
+01:35:46.760 --> 01:35:57.560 align:middle line:84%
+Now, I see here that I could
+define an average-specific heat
+
+01:35:57.560 --> 01:36:06.200 align:middle line:84%
+at constant volume of the
+mixture as being the weighted
+
+01:36:06.200 --> 01:36:08.815 align:middle line:90%
+as being this summation here.
+
+01:36:08.815 --> 01:36:12.462 align:middle line:90%
+
+
+01:36:12.462 --> 01:36:18.990 align:middle line:84%
+And then I recognize this final
+term, which is very close.
+
+01:36:18.990 --> 01:36:23.790 align:middle line:84%
+I mean, it's exactly what we
+call the entropy of mixing.
+
+01:36:23.790 --> 01:36:25.980 align:middle line:90%
+But in any case, by setting--
+
+01:36:25.980 --> 01:36:30.090 align:middle line:84%
+since this has to be equal
+to 0 by the entropy balance,
+
+01:36:30.090 --> 01:36:34.950 align:middle line:84%
+this gives me an expression way
+to calculate t double prime,
+
+01:36:34.950 --> 01:36:38.660 align:middle line:90%
+the final temperature.
+
+01:36:38.660 --> 01:36:46.940 align:middle line:84%
+And this is the result. Now, the
+fact that these functions are
+
+01:36:46.940 --> 01:36:54.000 align:middle line:84%
+negative, so e to a negative
+number is less than 1,
+
+01:36:54.000 --> 01:36:57.600 align:middle line:84%
+shows that, of course,
+as we expected,
+
+01:36:57.600 --> 01:36:59.550 align:middle line:84%
+the final temperature
+will be less
+
+01:36:59.550 --> 01:37:01.210 align:middle line:90%
+than the initial temperature.
+
+01:37:01.210 --> 01:37:03.910 align:middle line:90%
+
+
+01:37:03.910 --> 01:37:07.190 align:middle line:84%
+And now that we have
+the final temperature,
+
+01:37:07.190 --> 01:37:10.100 align:middle line:84%
+we can perform the
+energy balance.
+
+01:37:10.100 --> 01:37:13.600 align:middle line:84%
+Now, the energy balance here,
+since the system is not isolated
+
+01:37:13.600 --> 01:37:17.980 align:middle line:84%
+anymore, because we have lifted
+the weight in a weight process,
+
+01:37:17.980 --> 01:37:21.280 align:middle line:84%
+we have extracted the
+adiabatic availability.
+
+01:37:21.280 --> 01:37:25.450 align:middle line:84%
+So the energy
+given to the weight
+
+01:37:25.450 --> 01:37:27.580 align:middle line:84%
+is equal to the difference
+between the initial
+
+01:37:27.580 --> 01:37:30.045 align:middle line:90%
+and the final energy.
+
+01:37:30.045 --> 01:37:33.110 align:middle line:90%
+
+
+01:37:33.110 --> 01:37:36.650 align:middle line:84%
+So by substituting these
+ingredients that we calculated
+
+01:37:36.650 --> 01:37:43.490 align:middle line:84%
+up there and using the
+same-- the specific heat
+
+01:37:43.490 --> 01:37:46.280 align:middle line:84%
+at constant volume, and then
+the fact that the summation
+
+01:37:46.280 --> 01:37:56.180 align:middle line:84%
+we defined as sort of an average
+mixing mixture, specific heat
+
+01:37:56.180 --> 01:37:57.055 align:middle line:90%
+at constant volume.
+
+01:37:57.055 --> 01:37:59.640 align:middle line:90%
+
+
+01:37:59.640 --> 01:38:01.500 align:middle line:84%
+And we substitute
+t double prime.
+
+01:38:01.500 --> 01:38:05.100 align:middle line:84%
+And you compute the value for
+the adiabatic availability.
+
+01:38:05.100 --> 01:38:11.150 align:middle line:84%
+So we see that this
+represents this work.
+
+01:38:11.150 --> 01:38:16.230 align:middle line:90%
+
+
+01:38:16.230 --> 01:38:21.910 align:middle line:84%
+Just to show you how we could
+actually do it with a picture,
+
+01:38:21.910 --> 01:38:23.590 align:middle line:84%
+so we conclude, we
+have one minute.
+
+01:38:23.590 --> 01:38:26.340 align:middle line:90%
+
+
+01:38:26.340 --> 01:38:27.790 align:middle line:90%
+How can we do that?
+
+01:38:27.790 --> 01:38:30.200 align:middle line:84%
+Can we actually
+separate a mixture?
+
+01:38:30.200 --> 01:38:35.080 align:middle line:90%
+
+
+01:38:35.080 --> 01:38:42.910 align:middle line:84%
+Remember, the problem here
+with the single particle,
+
+01:38:42.910 --> 01:38:47.840 align:middle line:84%
+if I have a single particle
+there, and I have vacuum,
+
+01:38:47.840 --> 01:38:51.100 align:middle line:84%
+and I have this-- and instead
+of removing the piston,
+
+01:38:51.100 --> 01:39:03.250 align:middle line:84%
+I can just have it move
+rightward while connected
+
+01:39:03.250 --> 01:39:05.740 align:middle line:90%
+through a pulley to a weight.
+
+01:39:05.740 --> 01:39:10.080 align:middle line:84%
+And the pressure of the particle
+will push it to the right.
+
+01:39:10.080 --> 01:39:13.350 align:middle line:84%
+Therefore, the particle
+will do work and lift.
+
+01:39:13.350 --> 01:39:16.550 align:middle line:90%
+
+
+01:39:16.550 --> 01:39:19.850 align:middle line:84%
+And similarly, if I
+have this other particle
+
+01:39:19.850 --> 01:39:23.540 align:middle line:84%
+on the other different
+particle on the other side,
+
+01:39:23.540 --> 01:39:28.640 align:middle line:84%
+say, suppose I have a
+particle of different kind
+
+01:39:28.640 --> 01:39:31.500 align:middle line:84%
+that is confined,
+that's separated,
+
+01:39:31.500 --> 01:39:33.590 align:middle line:90%
+and it's on the other side.
+
+01:39:33.590 --> 01:39:38.240 align:middle line:84%
+Also here, I can do
+the same and have
+
+01:39:38.240 --> 01:39:41.840 align:middle line:84%
+the pressure of the
+particle, or the particles.
+
+01:39:41.840 --> 01:39:46.160 align:middle line:84%
+Doesn't really matter because
+each one acts by itself.
+
+01:39:46.160 --> 01:39:50.120 align:middle line:90%
+So that pulls this this way.
+
+01:39:50.120 --> 01:39:53.880 align:middle line:84%
+And when you have the
+presence of both particles,
+
+01:39:53.880 --> 01:39:55.290 align:middle line:84%
+you have to do it
+more carefully.
+
+01:39:55.290 --> 01:40:00.120 align:middle line:84%
+Instead of having an
+impermeable piston,
+
+01:40:00.120 --> 01:40:05.270 align:middle line:84%
+you have to use semi-permeable
+membranes so that when this one
+
+01:40:05.270 --> 01:40:09.145 align:middle line:90%
+moves to the right, it will--
+
+01:40:09.145 --> 01:40:12.230 align:middle line:90%
+
+
+01:40:12.230 --> 01:40:17.870 align:middle line:84%
+so this one allows
+the black particles
+
+01:40:17.870 --> 01:40:21.290 align:middle line:90%
+to freely move in and out.
+
+01:40:21.290 --> 01:40:26.480 align:middle line:84%
+And then it fills only the
+pressure of the gray particles
+
+01:40:26.480 --> 01:40:28.260 align:middle line:90%
+until you move to the right.
+
+01:40:28.260 --> 01:40:32.450 align:middle line:84%
+And this other
+membrane, instead, is--
+
+01:40:32.450 --> 01:40:36.200 align:middle line:84%
+allows the gray particles
+through, and instead,
+
+01:40:36.200 --> 01:40:39.110 align:middle line:84%
+fills the pressure of
+the black particles.
+
+01:40:39.110 --> 01:40:44.430 align:middle line:84%
+OK, so when you're done, and
+if you've done it reversibly,
+
+01:40:44.430 --> 01:40:49.680 align:middle line:84%
+you have extracted this
+adiabatic availability.
+
+01:40:49.680 --> 01:40:53.020 align:middle line:84%
+So I think we have
+to stop here today.
+
+01:40:53.020 --> 01:40:58.000 align:middle line:90%

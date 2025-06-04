@@ -1,0 +1,5610 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.960 align:middle line:90%
+[SQUEAKING]
+
+00:00:01.960 --> 00:00:03.920 align:middle line:90%
+[RUSTLING]
+
+00:00:03.920 --> 00:00:06.860 align:middle line:90%
+[CLICKING]
+
+00:00:06.860 --> 00:00:18.150 align:middle line:90%
+
+
+00:00:18.150 --> 00:00:20.160 align:middle line:90%
+PROFESSOR: Welcome back.
+
+00:00:20.160 --> 00:00:24.870 align:middle line:84%
+This is the second lecture on
+empirical models of demand.
+
+00:00:24.870 --> 00:00:29.460 align:middle line:84%
+So let me give you a little
+bit of a roadmap for today.
+
+00:00:29.460 --> 00:00:34.560 align:middle line:84%
+So I'm going to first talk a
+little bit about the supply
+
+00:00:34.560 --> 00:00:37.050 align:middle line:84%
+side of these static
+models of competition
+
+00:00:37.050 --> 00:00:40.410 align:middle line:84%
+that we have been
+discussing, and that's
+
+00:00:40.410 --> 00:00:44.750 align:middle line:84%
+actually quite useful even
+for informing the demand side.
+
+00:00:44.750 --> 00:00:50.620 align:middle line:84%
+So I hope that this will become
+clear once I go through this.
+
+00:00:50.620 --> 00:00:54.990 align:middle line:84%
+Then, I'll show you the
+empirical results in BLP--
+
+00:00:54.990 --> 00:00:57.300 align:middle line:84%
+Barry, Levinson, Pakes,
+the seminal paper
+
+00:00:57.300 --> 00:01:02.790 align:middle line:84%
+that popularized the
+random coefficient model.
+
+00:01:02.790 --> 00:01:05.069 align:middle line:84%
+And the results
+are actually quite
+
+00:01:05.069 --> 00:01:08.100 align:middle line:84%
+nice to understand
+how these models work
+
+00:01:08.100 --> 00:01:10.710 align:middle line:84%
+and what the case
+for these models is.
+
+00:01:10.710 --> 00:01:14.970 align:middle line:84%
+And then I asked you
+to read Nevo's paper
+
+00:01:14.970 --> 00:01:16.310 align:middle line:90%
+on the cereal market.
+
+00:01:16.310 --> 00:01:18.370 align:middle line:84%
+So we'll discuss
+that, and then we'll
+
+00:01:18.370 --> 00:01:20.080 align:middle line:90%
+actually stay in this industry.
+
+00:01:20.080 --> 00:01:23.980 align:middle line:84%
+And we'll talk a little
+bit about the debate that
+
+00:01:23.980 --> 00:01:27.550 align:middle line:84%
+has captivated
+many people in IO,
+
+00:01:27.550 --> 00:01:32.140 align:middle line:84%
+which is the common
+ownership hypothesis.
+
+00:01:32.140 --> 00:01:33.450 align:middle line:90%
+So let's jump in.
+
+00:01:33.450 --> 00:01:36.550 align:middle line:90%
+
+
+00:01:36.550 --> 00:01:38.740 align:middle line:90%
+So the supply side.
+
+00:01:38.740 --> 00:01:42.640 align:middle line:84%
+So here is the
+objective function
+
+00:01:42.640 --> 00:01:49.180 align:middle line:84%
+of a firm that owns
+potentially different products.
+
+00:01:49.180 --> 00:01:53.140 align:middle line:84%
+This set of products
+here is calligraphic I,
+
+00:01:53.140 --> 00:02:00.100 align:middle line:84%
+and it maximizes a sum of these
+individual level products.
+
+00:02:00.100 --> 00:02:01.580 align:middle line:90%
+So this here is the margin.
+
+00:02:01.580 --> 00:02:04.210 align:middle line:84%
+This is a quantity
+for product J,
+
+00:02:04.210 --> 00:02:06.850 align:middle line:84%
+and this is a function
+of the vector of all
+
+00:02:06.850 --> 00:02:08.150 align:middle line:90%
+the prices in the market.
+
+00:02:08.150 --> 00:02:13.970 align:middle line:84%
+So think of this q here as
+coming out of your demand model.
+
+00:02:13.970 --> 00:02:16.870 align:middle line:84%
+So it's the vector
+of market shares
+
+00:02:16.870 --> 00:02:18.850 align:middle line:84%
+that you get out of
+your demand model times
+
+00:02:18.850 --> 00:02:22.130 align:middle line:84%
+the number of consumers
+that are in the market.
+
+00:02:22.130 --> 00:02:24.050 align:middle line:84%
+And so then there's
+some fixed cost.
+
+00:02:24.050 --> 00:02:27.730 align:middle line:84%
+The fixed cost is not going
+to be relevant for what
+
+00:02:27.730 --> 00:02:30.020 align:middle line:90%
+we're going to do today.
+
+00:02:30.020 --> 00:02:32.690 align:middle line:84%
+And later on, you'll
+learn about models
+
+00:02:32.690 --> 00:02:35.440 align:middle line:84%
+that actually allow you to get
+at those fixed costs, as well.
+
+00:02:35.440 --> 00:02:38.025 align:middle line:90%
+
+
+00:02:38.025 --> 00:02:42.690 align:middle line:84%
+So now, it's going to be
+very useful to define what
+
+00:02:42.690 --> 00:02:44.730 align:middle line:90%
+is called an ownership matrix.
+
+00:02:44.730 --> 00:02:49.080 align:middle line:84%
+So again, this is potentially
+a multi-product firm.
+
+00:02:49.080 --> 00:02:53.220 align:middle line:84%
+The firm owns, let's
+say, several brands
+
+00:02:53.220 --> 00:02:56.430 align:middle line:84%
+of cereals in the market,
+and so each row here
+
+00:02:56.430 --> 00:03:00.270 align:middle line:84%
+tells us for that firm that
+indicates that row, which
+
+00:03:00.270 --> 00:03:02.280 align:middle line:90%
+products does it own.
+
+00:03:02.280 --> 00:03:06.920 align:middle line:84%
+So this is simply a
+matrix of binary entries.
+
+00:03:06.920 --> 00:03:08.310 align:middle line:84%
+And now you can
+do the following.
+
+00:03:08.310 --> 00:03:13.550 align:middle line:84%
+You can define a
+new matrix, omega,
+
+00:03:13.550 --> 00:03:17.540 align:middle line:84%
+that multiplies this
+ownership matrix
+
+00:03:17.540 --> 00:03:21.270 align:middle line:84%
+by the derivatives
+of each product
+
+00:03:21.270 --> 00:03:24.155 align:middle line:84%
+with regard to all
+prices in the market.
+
+00:03:24.155 --> 00:03:29.080 align:middle line:90%
+
+
+00:03:29.080 --> 00:03:31.750 align:middle line:84%
+This comes out of
+the demand model.
+
+00:03:31.750 --> 00:03:34.390 align:middle line:84%
+You can only construct
+those derivatives
+
+00:03:34.390 --> 00:03:37.450 align:middle line:90%
+once you have the demand model.
+
+00:03:37.450 --> 00:03:41.200 align:middle line:84%
+And so you get this
+new matrix, omega.
+
+00:03:41.200 --> 00:03:43.360 align:middle line:84%
+And with this matrix
+omega, you can
+
+00:03:43.360 --> 00:03:46.060 align:middle line:84%
+write the sets of
+first order conditions
+
+00:03:46.060 --> 00:03:52.090 align:middle line:84%
+of all the firms in the market
+as this vector of quantities
+
+00:03:52.090 --> 00:03:56.980 align:middle line:84%
+minus this omega matrix times
+prices minus marginal costs.
+
+00:03:56.980 --> 00:03:59.500 align:middle line:84%
+These are all vectors, and
+this omega is this matrix
+
+00:03:59.500 --> 00:04:01.502 align:middle line:90%
+that we defined here.
+
+00:04:01.502 --> 00:04:05.980 align:middle line:84%
+And this allows us to invert
+those first order conditions
+
+00:04:05.980 --> 00:04:09.360 align:middle line:90%
+to back out marginal cost.
+
+00:04:09.360 --> 00:04:14.590 align:middle line:84%
+So this is simply
+a matrix operation.
+
+00:04:14.590 --> 00:04:21.190 align:middle line:84%
+So what this shows us is
+that with demand estimates
+
+00:04:21.190 --> 00:04:24.700 align:middle line:84%
+and a conduct model that
+actually allows us to construct
+
+00:04:24.700 --> 00:04:28.060 align:middle line:84%
+these first order
+conditions, I need
+
+00:04:28.060 --> 00:04:30.290 align:middle line:84%
+to know how firms are
+actually competing.
+
+00:04:30.290 --> 00:04:32.900 align:middle line:90%
+
+
+00:04:32.900 --> 00:04:36.440 align:middle line:84%
+As well as observed
+prices, we can recover
+
+00:04:36.440 --> 00:04:37.810 align:middle line:90%
+a vector of marginal cost.
+
+00:04:37.810 --> 00:04:40.850 align:middle line:90%
+
+
+00:04:40.850 --> 00:04:45.470 align:middle line:84%
+What this also means
+is that the model
+
+00:04:45.470 --> 00:04:47.750 align:middle line:84%
+is going to be
+always rationalized
+
+00:04:47.750 --> 00:04:49.370 align:middle line:84%
+by a vector of
+marginal costs and is,
+
+00:04:49.370 --> 00:04:53.270 align:middle line:84%
+therefore, not testable if
+we allow the marginal cost
+
+00:04:53.270 --> 00:04:56.810 align:middle line:84%
+to be completely flexible
+and have no other way
+
+00:04:56.810 --> 00:05:00.320 align:middle line:84%
+to discern whether the marginal
+costs that we back out are
+
+00:05:00.320 --> 00:05:02.180 align:middle line:90%
+good marginal cost.
+
+00:05:02.180 --> 00:05:05.185 align:middle line:84%
+So this comes back to the
+exercise that Nevo is doing.
+
+00:05:05.185 --> 00:05:08.070 align:middle line:90%
+
+
+00:05:08.070 --> 00:05:12.270 align:middle line:84%
+So we're always able to
+rationalize the model,
+
+00:05:12.270 --> 00:05:17.535 align:middle line:84%
+but we cannot, without further
+assumptions, test the model.
+
+00:05:17.535 --> 00:05:21.910 align:middle line:84%
+So again, just to
+reiterate the point,
+
+00:05:21.910 --> 00:05:27.060 align:middle line:84%
+depending on what the true
+ownership structure looks like,
+
+00:05:27.060 --> 00:05:31.710 align:middle line:84%
+or to what extent firms
+internalize profits
+
+00:05:31.710 --> 00:05:35.130 align:middle line:84%
+of competitors, which
+we'll come to later today,
+
+00:05:35.130 --> 00:05:37.590 align:middle line:84%
+will depend on how
+they want to price.
+
+00:05:37.590 --> 00:05:41.400 align:middle line:84%
+And for any such
+conduct assumption,
+
+00:05:41.400 --> 00:05:46.870 align:middle line:84%
+we can back out a
+vector of marginal cost.
+
+00:05:46.870 --> 00:05:49.360 align:middle line:84%
+Now, what you can
+alternatively do,
+
+00:05:49.360 --> 00:05:54.700 align:middle line:84%
+instead of allowing marginal
+cost to be completely flexible--
+
+00:05:54.700 --> 00:05:57.140 align:middle line:84%
+I mean, we would call
+this non-parametric
+
+00:05:57.140 --> 00:06:00.710 align:middle line:84%
+because we're not
+imposing any assumptions
+
+00:06:00.710 --> 00:06:02.320 align:middle line:90%
+on those marginal costs.
+
+00:06:02.320 --> 00:06:10.332 align:middle line:84%
+We can specify some functional
+form for the marginal cost.
+
+00:06:10.332 --> 00:06:12.040 align:middle line:84%
+So, for instance, in
+the case of cereals,
+
+00:06:12.040 --> 00:06:15.670 align:middle line:84%
+we might know that this varies
+with the market price of sugar,
+
+00:06:15.670 --> 00:06:21.160 align:middle line:84%
+wheat, corn, and so on, or
+advertising prices, shelf
+
+00:06:21.160 --> 00:06:23.140 align:middle line:90%
+prices, and so on.
+
+00:06:23.140 --> 00:06:26.290 align:middle line:84%
+And so if I'm pretty
+confident that I
+
+00:06:26.290 --> 00:06:30.070 align:middle line:84%
+can write my marginal cost as
+a function of these things,
+
+00:06:30.070 --> 00:06:33.235 align:middle line:84%
+I might be willing
+to impose this.
+
+00:06:33.235 --> 00:06:36.990 align:middle line:90%
+
+
+00:06:36.990 --> 00:06:40.410 align:middle line:84%
+So what this means now is that
+I can come from both sides,
+
+00:06:40.410 --> 00:06:41.280 align:middle line:90%
+so to say.
+
+00:06:41.280 --> 00:06:47.570 align:middle line:84%
+I can estimate my demand model
+with a conduct assumption,
+
+00:06:47.570 --> 00:06:50.425 align:middle line:84%
+back out the vector
+of marginal cost.
+
+00:06:50.425 --> 00:06:51.770 align:middle line:90%
+This is now data.
+
+00:06:51.770 --> 00:06:55.250 align:middle line:84%
+For any given conduct assumption
+prices and market shares,
+
+00:06:55.250 --> 00:06:57.750 align:middle line:90%
+this here is simply data.
+
+00:06:57.750 --> 00:07:02.320 align:middle line:84%
+And this here is some linear
+function that I propose.
+
+00:07:02.320 --> 00:07:06.910 align:middle line:90%
+
+
+00:07:06.910 --> 00:07:10.045 align:middle line:90%
+Now, why might this be helpful?
+
+00:07:10.045 --> 00:07:13.390 align:middle line:84%
+So you have read
+Nevo's paper today
+
+00:07:13.390 --> 00:07:18.370 align:middle line:84%
+where he first estimated
+demand, and then tested
+
+00:07:18.370 --> 00:07:22.700 align:middle line:84%
+the recovered markups
+against observed markups.
+
+00:07:22.700 --> 00:07:25.850 align:middle line:84%
+What you can alternatively
+do, if you're fairly confident
+
+00:07:25.850 --> 00:07:29.720 align:middle line:84%
+in your conduct assumption--
+you believe that these firms are
+
+00:07:29.720 --> 00:07:33.440 align:middle line:84%
+maximizing their own profits,
+potentially accounting for these
+
+00:07:33.440 --> 00:07:35.750 align:middle line:90%
+multi-product effects--
+
+00:07:35.750 --> 00:07:40.520 align:middle line:84%
+you can estimate the demand
+and the supply side jointly.
+
+00:07:40.520 --> 00:07:42.470 align:middle line:84%
+So you can-- from
+this equation here,
+
+00:07:42.470 --> 00:07:44.815 align:middle line:84%
+which again, think of this
+here as data for a moment.
+
+00:07:44.815 --> 00:07:47.630 align:middle line:90%
+
+
+00:07:47.630 --> 00:07:49.280 align:middle line:84%
+For any given demand
+parameters, you
+
+00:07:49.280 --> 00:07:54.370 align:middle line:84%
+can think of a vector of
+marginal cost that you back out.
+
+00:07:54.370 --> 00:07:58.740 align:middle line:84%
+You could, from this,
+construct additional moments.
+
+00:07:58.740 --> 00:08:00.510 align:middle line:84%
+Remember last time,
+we constructed
+
+00:08:00.510 --> 00:08:06.030 align:middle line:84%
+moments interacting C with
+instruments on the demand side.
+
+00:08:06.030 --> 00:08:08.100 align:middle line:84%
+We can construct a
+similar set of moments
+
+00:08:08.100 --> 00:08:10.950 align:middle line:84%
+on the supply side,
+typically denoted omega,
+
+00:08:10.950 --> 00:08:13.920 align:middle line:84%
+that we, again, interact with
+some instruments of things
+
+00:08:13.920 --> 00:08:16.770 align:middle line:90%
+that are either exogenous, or--
+
+00:08:16.770 --> 00:08:21.230 align:middle line:84%
+included or excluded
+instruments on the supply side.
+
+00:08:21.230 --> 00:08:25.480 align:middle line:84%
+Now, If I estimate
+everything jointly,
+
+00:08:25.480 --> 00:08:28.180 align:middle line:84%
+the supply side will actually
+also impose restrictions
+
+00:08:28.180 --> 00:08:31.380 align:middle line:90%
+on the demand side parameters.
+
+00:08:31.380 --> 00:08:37.080 align:middle line:84%
+So just to give an
+example, so what happens,
+
+00:08:37.080 --> 00:08:41.034 align:middle line:84%
+for instance, if you
+find that firms price
+
+00:08:41.034 --> 00:08:42.909 align:middle line:84%
+on the inelastic portion
+of the demand curve?
+
+00:08:42.909 --> 00:08:45.300 align:middle line:84%
+You may recover
+negative marginal cost.
+
+00:08:45.300 --> 00:08:47.490 align:middle line:84%
+I mean, for many
+strategic models,
+
+00:08:47.490 --> 00:08:49.510 align:middle line:84%
+you will be recovering
+negative marginal costs.
+
+00:08:49.510 --> 00:08:53.800 align:middle line:84%
+You have to somehow rationalize
+why firms priced it low,
+
+00:08:53.800 --> 00:08:56.520 align:middle line:84%
+and then it says, if
+they need some transfers
+
+00:08:56.520 --> 00:08:59.680 align:middle line:84%
+from somewhere else to
+rationalize what's happening.
+
+00:08:59.680 --> 00:09:03.960 align:middle line:90%
+
+
+00:09:03.960 --> 00:09:10.930 align:middle line:84%
+I can, alternatively, impose
+that marginal costs are positive
+
+00:09:10.930 --> 00:09:13.845 align:middle line:84%
+and use the supply
+side restrictions.
+
+00:09:13.845 --> 00:09:17.800 align:middle line:84%
+And that means that when I guess
+a set of demand side parameters
+
+00:09:17.800 --> 00:09:20.590 align:middle line:84%
+that tell me that the
+marginal costs are negative,
+
+00:09:20.590 --> 00:09:22.960 align:middle line:84%
+but I force the
+marginal cost to be
+
+00:09:22.960 --> 00:09:26.170 align:middle line:84%
+positive through a
+reasonable restriction,
+
+00:09:26.170 --> 00:09:29.350 align:middle line:84%
+that this will lead to a
+violation of these moment
+
+00:09:29.350 --> 00:09:31.410 align:middle line:90%
+conditions here.
+
+00:09:31.410 --> 00:09:36.840 align:middle line:84%
+So it leads to larger deviations
+on the supply side moment
+
+00:09:36.840 --> 00:09:39.480 align:middle line:84%
+conditions, and the supply
+side moments will, therefore,
+
+00:09:39.480 --> 00:09:42.150 align:middle line:84%
+tell your minimization
+routine, hey,
+
+00:09:42.150 --> 00:09:44.220 align:middle line:84%
+the demand side
+parameters might be such
+
+00:09:44.220 --> 00:09:49.120 align:middle line:84%
+that I can't recover a
+good set of marginal cost.
+
+00:09:49.120 --> 00:09:55.210 align:middle line:84%
+So this can be very helpful
+to estimate both jointly.
+
+00:09:55.210 --> 00:09:57.940 align:middle line:84%
+Now in practice, there are
+not all that many papers
+
+00:09:57.940 --> 00:09:59.320 align:middle line:90%
+that actually do that.
+
+00:09:59.320 --> 00:10:02.860 align:middle line:84%
+So I would say the
+majority of papers
+
+00:10:02.860 --> 00:10:05.360 align:middle line:84%
+just estimates the
+demand side separately,
+
+00:10:05.360 --> 00:10:08.020 align:middle line:90%
+but BLP have done this.
+
+00:10:08.020 --> 00:10:12.610 align:middle line:84%
+And in part, we credit
+their good estimates
+
+00:10:12.610 --> 00:10:16.150 align:middle line:84%
+for the random coefficient
+parameters to imposing
+
+00:10:16.150 --> 00:10:18.780 align:middle line:90%
+these supply side restrictions.
+
+00:10:18.780 --> 00:10:19.690 align:middle line:90%
+Yes?
+
+00:10:19.690 --> 00:10:21.690 align:middle line:84%
+AUDIENCE: Is this
+also informative
+
+00:10:21.690 --> 00:10:25.020 align:middle line:84%
+to the extent to which you're
+making way too restrictive
+
+00:10:25.020 --> 00:10:27.310 align:middle line:90%
+assumptions on your model?
+
+00:10:27.310 --> 00:10:30.920 align:middle line:84%
+Like say you're trying to
+impose positive marginal costs,
+
+00:10:30.920 --> 00:10:32.650 align:middle line:84%
+and then in your
+minimization of nu
+
+00:10:32.650 --> 00:10:35.040 align:middle line:84%
+you're not getting the
+results you're expecting.
+
+00:10:35.040 --> 00:10:39.290 align:middle line:84%
+Is that a sign that your results
+may be guided by your model
+
+00:10:39.290 --> 00:10:40.780 align:middle line:90%
+extensions?
+
+00:10:40.780 --> 00:10:43.430 align:middle line:84%
+PROFESSOR: So that's
+a great question.
+
+00:10:43.430 --> 00:10:46.450 align:middle line:84%
+So, in fact, at the
+very end of the lecture
+
+00:10:46.450 --> 00:10:49.180 align:middle line:84%
+today, we'll
+discuss a case where
+
+00:10:49.180 --> 00:10:53.140 align:middle line:84%
+you can use supply side
+restrictions as overidentifying
+
+00:10:53.140 --> 00:10:54.940 align:middle line:90%
+restrictions on the model.
+
+00:10:54.940 --> 00:10:59.590 align:middle line:84%
+So instead of, let's say, only
+estimating the demand side
+
+00:10:59.590 --> 00:11:02.170 align:middle line:84%
+and being just
+identified, you typically
+
+00:11:02.170 --> 00:11:06.068 align:middle line:84%
+get a lot of additional
+moments out of the supply side
+
+00:11:06.068 --> 00:11:08.360 align:middle line:84%
+because you've not introduced
+all that many parameters.
+
+00:11:08.360 --> 00:11:11.110 align:middle line:84%
+But maybe you have the price of
+wheat, and the price of corn,
+
+00:11:11.110 --> 00:11:14.860 align:middle line:84%
+and the price of advertising,
+and all those things vary.
+
+00:11:14.860 --> 00:11:18.170 align:middle line:84%
+So that leads to
+overidentifying restrictions.
+
+00:11:18.170 --> 00:11:20.950 align:middle line:84%
+And indeed, with those
+overidentifying restrictions,
+
+00:11:20.950 --> 00:11:24.430 align:middle line:84%
+you can test different
+conduct models directly.
+
+00:11:24.430 --> 00:11:27.695 align:middle line:90%
+Yeah, that's right.
+
+00:11:27.695 --> 00:11:29.795 align:middle line:90%
+And this is somewhat--
+
+00:11:29.795 --> 00:11:31.170 align:middle line:84%
+I will comment on
+this later on--
+
+00:11:31.170 --> 00:11:34.670 align:middle line:84%
+it's somewhat different from
+the exercise that Nevo does.
+
+00:11:34.670 --> 00:11:36.235 align:middle line:90%
+He directly compares to data.
+
+00:11:36.235 --> 00:11:41.460 align:middle line:90%
+
+
+00:11:41.460 --> 00:11:45.420 align:middle line:84%
+So my comments on using the
+supply side, as I just said,
+
+00:11:45.420 --> 00:11:50.940 align:middle line:84%
+this oftentimes introduces
+many new moment conditions.
+
+00:11:50.940 --> 00:11:57.060 align:middle line:84%
+It's received wisdom that it
+improves the precision of demand
+
+00:11:57.060 --> 00:12:00.870 align:middle line:84%
+estimates, and especially
+the random coefficients,
+
+00:12:00.870 --> 00:12:04.260 align:middle line:84%
+again, through the logic
+that I walked you through.
+
+00:12:04.260 --> 00:12:07.410 align:middle line:84%
+It's econometrically efficient
+to estimate the demand
+
+00:12:07.410 --> 00:12:10.170 align:middle line:84%
+and supply side
+jointly if you're
+
+00:12:10.170 --> 00:12:12.810 align:middle line:84%
+fairly confident that your
+conduct assumption is right.
+
+00:12:12.810 --> 00:12:16.410 align:middle line:84%
+Of course, you may
+not feel comfortable
+
+00:12:16.410 --> 00:12:20.370 align:middle line:84%
+making the assumptions that
+firms maximize their own profits
+
+00:12:20.370 --> 00:12:22.170 align:middle line:90%
+or collude directly.
+
+00:12:22.170 --> 00:12:25.488 align:middle line:84%
+So that seems a less innocuous
+assumption than saying,
+
+00:12:25.488 --> 00:12:27.905 align:middle line:84%
+well, consumers just pick the
+best product that they like.
+
+00:12:27.905 --> 00:12:33.160 align:middle line:90%
+
+
+00:12:33.160 --> 00:12:36.340 align:middle line:84%
+And again, you can use
+overidentifying restrictions
+
+00:12:36.340 --> 00:12:40.090 align:middle line:84%
+to test models of
+conduct, and we'll
+
+00:12:40.090 --> 00:12:44.080 align:middle line:84%
+have an example of this
+at the end of class today.
+
+00:12:44.080 --> 00:12:50.020 align:middle line:84%
+So let me talk a little bit
+about the results of the BLP
+
+00:12:50.020 --> 00:12:51.190 align:middle line:90%
+paper.
+
+00:12:51.190 --> 00:12:54.790 align:middle line:84%
+I think they show nicely
+why you would want to favor
+
+00:12:54.790 --> 00:12:56.530 align:middle line:90%
+random coefficients model.
+
+00:12:56.530 --> 00:13:00.920 align:middle line:84%
+So they have data
+from 1971 to 1990.
+
+00:13:00.920 --> 00:13:04.420 align:middle line:84%
+The market here
+is the entire US.
+
+00:13:04.420 --> 00:13:09.120 align:middle line:84%
+They use list prices, so
+not transaction prices.
+
+00:13:09.120 --> 00:13:11.200 align:middle line:90%
+You could bicker about this.
+
+00:13:11.200 --> 00:13:14.770 align:middle line:84%
+And an observation
+here is a model year,
+
+00:13:14.770 --> 00:13:18.245 align:middle line:90%
+and they have 2,217 of those.
+
+00:13:18.245 --> 00:13:19.870 align:middle line:84%
+As characteristics,
+they use the number
+
+00:13:19.870 --> 00:13:24.040 align:middle line:84%
+of cylinders, doors, horsepower,
+length, width, weight,
+
+00:13:24.040 --> 00:13:28.210 align:middle line:84%
+wheelbase, and measures
+of fuel efficiency,
+
+00:13:28.210 --> 00:13:29.920 align:middle line:84%
+dummies for air
+conditioning, and so on.
+
+00:13:29.920 --> 00:13:32.450 align:middle line:90%
+
+
+00:13:32.450 --> 00:13:34.880 align:middle line:84%
+So here are some interesting
+summary statistics
+
+00:13:34.880 --> 00:13:36.460 align:middle line:90%
+on the market.
+
+00:13:36.460 --> 00:13:38.500 align:middle line:84%
+So first, something
+that's striking
+
+00:13:38.500 --> 00:13:44.560 align:middle line:84%
+is that the number of products
+just increased a lot over time.
+
+00:13:44.560 --> 00:13:50.890 align:middle line:84%
+In fact, there's a recent paper
+by Grieco, Murry, and Yurukoglu
+
+00:13:50.890 --> 00:13:54.190 align:middle line:84%
+who estimate
+mark-ups for the car
+
+00:13:54.190 --> 00:13:56.110 align:middle line:90%
+market over many, many years.
+
+00:13:56.110 --> 00:13:59.710 align:middle line:84%
+And the number of products,
+as you would not be surprised,
+
+00:13:59.710 --> 00:14:01.210 align:middle line:84%
+goes up even more,
+and they actually
+
+00:14:01.210 --> 00:14:04.060 align:middle line:84%
+find that consumer
+surplus in the car market
+
+00:14:04.060 --> 00:14:08.070 align:middle line:84%
+has gone up over
+several decades.
+
+00:14:08.070 --> 00:14:11.460 align:middle line:90%
+
+
+00:14:11.460 --> 00:14:15.570 align:middle line:84%
+Prices here go from
+$8,000 to about $10,000,
+
+00:14:15.570 --> 00:14:18.933 align:middle line:90%
+they're denoted in 1983 prices.
+
+00:14:18.933 --> 00:14:20.850 align:middle line:84%
+Something that's interesting
+is that the share
+
+00:14:20.850 --> 00:14:23.470 align:middle line:84%
+of domestic brands
+goes down over time.
+
+00:14:23.470 --> 00:14:27.610 align:middle line:84%
+This is mostly driven by
+increasing imports from Japan.
+
+00:14:27.610 --> 00:14:31.830 align:middle line:84%
+Another interesting observation
+here is that the size of cars
+
+00:14:31.830 --> 00:14:34.860 align:middle line:84%
+is going down, very contrary
+to what we see today,
+
+00:14:34.860 --> 00:14:37.300 align:middle line:84%
+where cars seem to
+get bigger and bigger.
+
+00:14:37.300 --> 00:14:40.200 align:middle line:84%
+And the authors here speculate
+that this might actually
+
+00:14:40.200 --> 00:14:49.480 align:middle line:84%
+be driven by the first
+oil price shock in 1970.
+
+00:14:49.480 --> 00:14:51.270 align:middle line:90%
+So these are the summary stats.
+
+00:14:51.270 --> 00:14:54.280 align:middle line:84%
+This is the miles per
+gallon and miles per dollar.
+
+00:14:54.280 --> 00:14:56.930 align:middle line:84%
+They use miles per dollar
+on the demand side.
+
+00:14:56.930 --> 00:15:00.030 align:middle line:84%
+Consumers will care about how
+fuel efficient their car is
+
+00:15:00.030 --> 00:15:06.120 align:middle line:84%
+in terms of the dollar expenses,
+but producers might not directly
+
+00:15:06.120 --> 00:15:07.410 align:middle line:90%
+care about that.
+
+00:15:07.410 --> 00:15:10.380 align:middle line:84%
+They will only care about
+how much more costly
+
+00:15:10.380 --> 00:15:12.090 align:middle line:84%
+is it to produce a
+fuel efficient car,
+
+00:15:12.090 --> 00:15:16.565 align:middle line:84%
+so they don't care how much
+the price of gasoline varies.
+
+00:15:16.565 --> 00:15:19.410 align:middle line:90%
+
+
+00:15:19.410 --> 00:15:22.890 align:middle line:84%
+Here are some summary
+statistics where
+
+00:15:22.890 --> 00:15:25.590 align:middle line:84%
+they denote different
+percentiles of their variables
+
+00:15:25.590 --> 00:15:27.410 align:middle line:90%
+with actual models.
+
+00:15:27.410 --> 00:15:34.710 align:middle line:84%
+So you see prices go from this
+famously crappy Yugo from $3,000
+
+00:15:34.710 --> 00:15:39.480 align:middle line:84%
+to almost $70,000,
+so a factor of 20.
+
+00:15:39.480 --> 00:15:44.530 align:middle line:84%
+Horsepower is also
+varying widely.
+
+00:15:44.530 --> 00:15:47.220 align:middle line:84%
+Somewhat ironically,
+the Gran Fury
+
+00:15:47.220 --> 00:15:49.800 align:middle line:84%
+comes in at the lower end
+of the spectrum in terms
+
+00:15:49.800 --> 00:15:51.510 align:middle line:90%
+of horsepower per weight.
+
+00:15:51.510 --> 00:15:54.540 align:middle line:84%
+And you see here different
+summary statistics-- a lot
+
+00:15:54.540 --> 00:15:55.670 align:middle line:90%
+of information on cars.
+
+00:15:55.670 --> 00:15:58.250 align:middle line:90%
+
+
+00:15:58.250 --> 00:16:01.280 align:middle line:84%
+So here is the
+first table that I
+
+00:16:01.280 --> 00:16:06.520 align:middle line:84%
+think is going to be useful
+to dissect a bit more.
+
+00:16:06.520 --> 00:16:08.830 align:middle line:84%
+And in part, I want
+to make a point here
+
+00:16:08.830 --> 00:16:12.580 align:middle line:84%
+that might be relevant for you
+practically for those of you who
+
+00:16:12.580 --> 00:16:14.830 align:middle line:84%
+want to estimate
+these kinds of models.
+
+00:16:14.830 --> 00:16:21.990 align:middle line:84%
+So you'll notice that it takes
+a while to code these models up,
+
+00:16:21.990 --> 00:16:24.030 align:middle line:90%
+and debug them, and so on.
+
+00:16:24.030 --> 00:16:27.780 align:middle line:84%
+So it is typically useful to
+do what these authors are doing
+
+00:16:27.780 --> 00:16:34.380 align:middle line:84%
+here is before you estimate
+the big structural model to use
+
+00:16:34.380 --> 00:16:37.043 align:middle line:84%
+this simple inversion that
+you get from the logit model
+
+00:16:37.043 --> 00:16:38.210 align:middle line:90%
+without random coefficients.
+
+00:16:38.210 --> 00:16:41.850 align:middle line:84%
+And remember, we can write this
+as a linear estimating equation
+
+00:16:41.850 --> 00:16:44.850 align:middle line:84%
+and estimate it via OLS or
+two stage least squares--
+
+00:16:44.850 --> 00:16:48.545 align:middle line:84%
+things that you should be well
+familiar with at this point.
+
+00:16:48.545 --> 00:16:53.730 align:middle line:84%
+And you can actually see how
+sensitive your coefficient
+
+00:16:53.730 --> 00:16:55.560 align:middle line:84%
+estimates are, let's
+say, to the inclusion
+
+00:16:55.560 --> 00:16:57.500 align:middle line:84%
+of different
+instruments and so on.
+
+00:16:57.500 --> 00:16:59.520 align:middle line:84%
+So I think that's
+practically something
+
+00:16:59.520 --> 00:17:04.650 align:middle line:84%
+you should keep in mind that
+before you code up the big model
+
+00:17:04.650 --> 00:17:08.952 align:middle line:84%
+and try to probe
+different specifications
+
+00:17:08.952 --> 00:17:10.410 align:middle line:84%
+and different kinds
+of instruments,
+
+00:17:10.410 --> 00:17:14.190 align:middle line:84%
+you probably want to
+do this Stata, whatever
+
+00:17:14.190 --> 00:17:17.980 align:middle line:84%
+your preferred way of
+doing this is, and just run
+
+00:17:17.980 --> 00:17:19.130 align:middle line:90%
+simple regressions.
+
+00:17:19.130 --> 00:17:20.869 align:middle line:84%
+So I found this
+to be very useful.
+
+00:17:20.869 --> 00:17:24.295 align:middle line:84%
+And then usually, when you
+go to the random coefficients
+
+00:17:24.295 --> 00:17:26.920 align:middle line:84%
+model, of course, you get very
+different substitution patterns.
+
+00:17:26.920 --> 00:17:28.720 align:middle line:84%
+But you already have
+a pretty good idea
+
+00:17:28.720 --> 00:17:30.810 align:middle line:84%
+what the average coefficient
+should look like.
+
+00:17:30.810 --> 00:17:34.810 align:middle line:90%
+
+
+00:17:34.810 --> 00:17:38.600 align:middle line:90%
+Any questions?
+
+00:17:38.600 --> 00:17:40.610 align:middle line:84%
+So let me tell you a
+little bit about what's
+
+00:17:40.610 --> 00:17:41.695 align:middle line:90%
+going on on this table.
+
+00:17:41.695 --> 00:17:44.230 align:middle line:90%
+
+
+00:17:44.230 --> 00:17:48.670 align:middle line:84%
+So here, they have an OLS
+specification of demand--
+
+00:17:48.670 --> 00:17:51.670 align:middle line:84%
+again, based on the simple logit
+model inversion-- and here,
+
+00:17:51.670 --> 00:17:53.410 align:middle line:90%
+an IV specification.
+
+00:17:53.410 --> 00:17:56.110 align:middle line:84%
+What you can see
+here is something
+
+00:17:56.110 --> 00:18:01.840 align:middle line:84%
+that you would expect if firms
+systematically price unobserved
+
+00:18:01.840 --> 00:18:03.670 align:middle line:90%
+product attributes.
+
+00:18:03.670 --> 00:18:07.620 align:middle line:84%
+Higher unobserved product
+quality leads to higher prices.
+
+00:18:07.620 --> 00:18:10.270 align:middle line:84%
+So you would expect
+the price coefficient
+
+00:18:10.270 --> 00:18:12.260 align:middle line:90%
+to be biased towards 0.
+
+00:18:12.260 --> 00:18:15.730 align:middle line:84%
+And indeed, once we
+start using instruments,
+
+00:18:15.730 --> 00:18:17.720 align:middle line:84%
+the price coefficient
+becomes more negative.
+
+00:18:17.720 --> 00:18:21.200 align:middle line:90%
+
+
+00:18:21.200 --> 00:18:24.260 align:middle line:84%
+The other thing that you
+see, and this is actually
+
+00:18:24.260 --> 00:18:28.917 align:middle line:84%
+of practical relevance again,
+that once you have a larger
+
+00:18:28.917 --> 00:18:31.250 align:middle line:84%
+price coefficient, or a more
+negative price coefficient,
+
+00:18:31.250 --> 00:18:34.633 align:middle line:84%
+you have a lot
+fewer elasticities
+
+00:18:34.633 --> 00:18:36.050 align:middle line:84%
+that you get out
+of the model that
+
+00:18:36.050 --> 00:18:38.360 align:middle line:84%
+are on the inelastic
+portion of demand,
+
+00:18:38.360 --> 00:18:41.820 align:middle line:84%
+which would not be consistent
+with static profit maximization.
+
+00:18:41.820 --> 00:18:46.130 align:middle line:90%
+
+
+00:18:46.130 --> 00:18:48.930 align:middle line:84%
+In fact, oftentimes the problem
+can be even worse than that.
+
+00:18:48.930 --> 00:18:51.380 align:middle line:84%
+And speaking from
+my own experience,
+
+00:18:51.380 --> 00:18:55.520 align:middle line:84%
+you'll oftentimes find that
+elasticities are positive.
+
+00:18:55.520 --> 00:18:57.560 align:middle line:90%
+And then you have a problem.
+
+00:18:57.560 --> 00:18:59.387 align:middle line:90%
+You know you have a problem.
+
+00:18:59.387 --> 00:19:01.970 align:middle line:84%
+In the other case, you might not
+know that you have a problem.
+
+00:19:01.970 --> 00:19:03.887 align:middle line:84%
+But in that case, you
+know you have a problem.
+
+00:19:03.887 --> 00:19:08.800 align:middle line:90%
+
+
+00:19:08.800 --> 00:19:11.140 align:middle line:84%
+And so the last thing
+that they do here
+
+00:19:11.140 --> 00:19:13.630 align:middle line:84%
+is they estimate a
+very simple supply side
+
+00:19:13.630 --> 00:19:17.380 align:middle line:84%
+model of marginal cost pricing
+where they simply regress prices
+
+00:19:17.380 --> 00:19:18.530 align:middle line:90%
+on a bunch of attributes.
+
+00:19:18.530 --> 00:19:21.820 align:middle line:84%
+This is oftentimes called
+a hedonic regression.
+
+00:19:21.820 --> 00:19:26.380 align:middle line:84%
+And to see these here
+can be interpreted
+
+00:19:26.380 --> 00:19:32.480 align:middle line:84%
+as elasticities, how cost vary
+with different attributes.
+
+00:19:32.480 --> 00:19:34.090 align:middle line:84%
+And so what is
+surprising here is
+
+00:19:34.090 --> 00:19:37.870 align:middle line:84%
+that they can explain a large
+fraction of the variation
+
+00:19:37.870 --> 00:19:40.760 align:middle line:84%
+with a simple model in
+terms of these attributes.
+
+00:19:40.760 --> 00:19:43.900 align:middle line:90%
+
+
+00:19:43.900 --> 00:19:49.640 align:middle line:84%
+So this here is
+their main table.
+
+00:19:49.640 --> 00:19:51.630 align:middle line:84%
+So I just want to
+point out a few things.
+
+00:19:51.630 --> 00:19:56.210 align:middle line:84%
+So they have here the
+coefficient estimates,
+
+00:19:56.210 --> 00:19:58.940 align:middle line:84%
+here the standard deviations
+of those coefficients.
+
+00:19:58.940 --> 00:20:00.920 align:middle line:84%
+So this tells us how
+heterogeneous taste
+
+00:20:00.920 --> 00:20:03.140 align:middle line:90%
+is for different attributes.
+
+00:20:03.140 --> 00:20:05.420 align:middle line:84%
+And they estimate
+two different models
+
+00:20:05.420 --> 00:20:07.940 align:middle line:84%
+which change something
+on the supply side
+
+00:20:07.940 --> 00:20:12.821 align:middle line:84%
+whether or not there are
+scale economies in production.
+
+00:20:12.821 --> 00:20:17.690 align:middle line:84%
+And so a few things
+to point out here.
+
+00:20:17.690 --> 00:20:20.130 align:middle line:84%
+They find that--
+so first, they have
+
+00:20:20.130 --> 00:20:24.150 align:middle line:84%
+significant estimates for all
+their standard deviations.
+
+00:20:24.150 --> 00:20:27.880 align:middle line:84%
+So this is typically,
+again, not easy to achieve.
+
+00:20:27.880 --> 00:20:32.310 align:middle line:84%
+And in part, this is because
+of the supply side restrictions
+
+00:20:32.310 --> 00:20:36.180 align:middle line:84%
+that lead to more
+precise estimates
+
+00:20:36.180 --> 00:20:37.710 align:middle line:90%
+even on the demand side.
+
+00:20:37.710 --> 00:20:39.990 align:middle line:84%
+The other thing that's
+interesting here,
+
+00:20:39.990 --> 00:20:43.120 align:middle line:84%
+if you look at
+this, so it's here,
+
+00:20:43.120 --> 00:20:45.540 align:middle line:84%
+this attribute,
+miles per dollar,
+
+00:20:45.540 --> 00:20:49.680 align:middle line:90%
+is valued negative on average.
+
+00:20:49.680 --> 00:20:55.200 align:middle line:84%
+So the average
+consumer doesn't seem
+
+00:20:55.200 --> 00:20:57.070 align:middle line:90%
+to like fuel efficient cars.
+
+00:20:57.070 --> 00:21:01.860 align:middle line:84%
+However, notice that the
+standard deviation on this
+
+00:21:01.860 --> 00:21:04.990 align:middle line:90%
+is also very large.
+
+00:21:04.990 --> 00:21:09.430 align:middle line:84%
+And so there will certainly
+be some consumers that value
+
+00:21:09.430 --> 00:21:11.620 align:middle line:90%
+miles per dollar positively.
+
+00:21:11.620 --> 00:21:15.430 align:middle line:84%
+So what this model
+allows us to rationalize,
+
+00:21:15.430 --> 00:21:17.200 align:middle line:84%
+for instance, is that
+if you, let's say,
+
+00:21:17.200 --> 00:21:21.550 align:middle line:84%
+do this for the entire US, as
+they do, in much of the US,
+
+00:21:21.550 --> 00:21:22.540 align:middle line:90%
+you see big cars.
+
+00:21:22.540 --> 00:21:26.100 align:middle line:84%
+People seemingly don't care
+much about fuel efficiency.
+
+00:21:26.100 --> 00:21:29.640 align:middle line:84%
+But then in, let's say,
+other parts of the country,
+
+00:21:29.640 --> 00:21:33.730 align:middle line:84%
+you see a lot of Toyota
+Priuses, and Teslas, and so on.
+
+00:21:33.730 --> 00:21:37.380 align:middle line:84%
+And a model that doesn't
+account for these heterogeneous
+
+00:21:37.380 --> 00:21:40.350 align:middle line:84%
+substitution patterns
+with aggregate data
+
+00:21:40.350 --> 00:21:42.680 align:middle line:84%
+wouldn't be able to get
+at this heterogeneity--
+
+00:21:42.680 --> 00:21:45.360 align:middle line:84%
+that different people
+have very different tastes
+
+00:21:45.360 --> 00:21:48.270 align:middle line:84%
+for these attributes,
+and as a result of that,
+
+00:21:48.270 --> 00:21:49.540 align:middle line:90%
+substitute differently.
+
+00:21:49.540 --> 00:21:58.982 align:middle line:90%
+
+
+00:21:58.982 --> 00:22:04.580 align:middle line:84%
+So a few more
+tables that showcase
+
+00:22:04.580 --> 00:22:07.820 align:middle line:84%
+that they pick up pretty
+good substitution patterns.
+
+00:22:07.820 --> 00:22:11.990 align:middle line:84%
+Here, you see a bunch
+of different models
+
+00:22:11.990 --> 00:22:16.250 align:middle line:84%
+that have in their estimation,
+and you can roughly
+
+00:22:16.250 --> 00:22:17.870 align:middle line:84%
+think of this table
+as being ordered
+
+00:22:17.870 --> 00:22:20.990 align:middle line:90%
+by how fancy the cars are.
+
+00:22:20.990 --> 00:22:23.300 align:middle line:84%
+So this is, of course, not
+a purely vertical model,
+
+00:22:23.300 --> 00:22:26.060 align:middle line:84%
+as we discussed
+last week, but think
+
+00:22:26.060 --> 00:22:29.720 align:middle line:84%
+of this as these are more
+expensive, more fancy cars.
+
+00:22:29.720 --> 00:22:33.230 align:middle line:84%
+And if you pick,
+let's say, a high end
+
+00:22:33.230 --> 00:22:36.890 align:middle line:84%
+car like the Lexus,
+BMW, or Cadillac,
+
+00:22:36.890 --> 00:22:39.350 align:middle line:84%
+you'll see that if
+you change the price,
+
+00:22:39.350 --> 00:22:40.710 align:middle line:90%
+these are semi-elasticities.
+
+00:22:40.710 --> 00:22:43.340 align:middle line:84%
+That means that how much do
+market shares change when I
+
+00:22:43.340 --> 00:22:47.690 align:middle line:90%
+increase my price by $1,000.
+
+00:22:47.690 --> 00:22:51.680 align:middle line:84%
+You see that if you
+do this for the BMW,
+
+00:22:51.680 --> 00:22:53.970 align:middle line:84%
+you increase the
+price by $1,000,
+
+00:22:53.970 --> 00:22:58.770 align:middle line:84%
+there's almost no dent in the
+market share of lower end cars.
+
+00:22:58.770 --> 00:23:02.495 align:middle line:84%
+And most of the action is
+here at the higher end models.
+
+00:23:02.495 --> 00:23:06.114 align:middle line:90%
+
+
+00:23:06.114 --> 00:23:10.260 align:middle line:84%
+And so similarly for Lexus,
+and Cadillac, and so on.
+
+00:23:10.260 --> 00:23:13.050 align:middle line:84%
+The other thing that
+validates the model
+
+00:23:13.050 --> 00:23:16.620 align:middle line:84%
+is that since we are
+looking at the same price
+
+00:23:16.620 --> 00:23:18.750 align:middle line:84%
+increase for our low
+end and high end models,
+
+00:23:18.750 --> 00:23:21.570 align:middle line:84%
+you'll find that the
+response for low end models
+
+00:23:21.570 --> 00:23:23.950 align:middle line:84%
+is much, much stronger
+than for high models,
+
+00:23:23.950 --> 00:23:24.840 align:middle line:90%
+as you would expect.
+
+00:23:24.840 --> 00:23:29.220 align:middle line:84%
+If you're buying a $70,000
+car, then an extra $1,000
+
+00:23:29.220 --> 00:23:34.815 align:middle line:84%
+shouldn't be as painful to you
+as if you're buying the $3,300
+
+00:23:34.815 --> 00:23:35.315 align:middle line:90%
+Yugo.
+
+00:23:35.315 --> 00:23:44.620 align:middle line:90%
+
+
+00:23:44.620 --> 00:23:48.030 align:middle line:84%
+So this here is actually
+a quite striking table.
+
+00:23:48.030 --> 00:23:55.440 align:middle line:84%
+This here shows how people
+substitute to the outside option
+
+00:23:55.440 --> 00:24:00.660 align:middle line:84%
+if we base these diversion
+ratios on the logit model
+
+00:24:00.660 --> 00:24:05.125 align:middle line:84%
+and compare that
+to the BLP model.
+
+00:24:05.125 --> 00:24:06.900 align:middle line:84%
+So I'll let you stare
+at this for a second
+
+00:24:06.900 --> 00:24:13.650 align:middle line:84%
+and think a little bit about
+what this comparison tells us,
+
+00:24:13.650 --> 00:24:18.050 align:middle line:84%
+and in what sense
+the BLP model might
+
+00:24:18.050 --> 00:24:19.380 align:middle line:90%
+be doing a better job here.
+
+00:24:19.380 --> 00:24:21.890 align:middle line:90%
+
+
+00:24:21.890 --> 00:24:26.450 align:middle line:84%
+So I may just say something
+which is relevant here.
+
+00:24:26.450 --> 00:24:32.450 align:middle line:84%
+Again, think of these as ordered
+in terms of how fancy they are.
+
+00:24:32.450 --> 00:24:35.430 align:middle line:84%
+These are more expensive
+cars down here than up here.
+
+00:24:35.430 --> 00:24:37.520 align:middle line:84%
+AUDIENCE: The BLP is
+more capturing the fact
+
+00:24:37.520 --> 00:24:39.620 align:middle line:84%
+that if you're going
+for an expensive car,
+
+00:24:39.620 --> 00:24:42.020 align:middle line:84%
+increasing price won't
+induce you to move away
+
+00:24:42.020 --> 00:24:45.620 align:middle line:84%
+from buying a car in general,
+but logit doesn't really
+
+00:24:45.620 --> 00:24:47.618 align:middle line:90%
+get after that kind of aspect.
+
+00:24:47.618 --> 00:24:48.660 align:middle line:90%
+PROFESSOR: Exactly right.
+
+00:24:48.660 --> 00:24:52.525 align:middle line:84%
+So we think that, again,
+cars are durable goods.
+
+00:24:52.525 --> 00:24:56.240 align:middle line:90%
+
+
+00:24:56.240 --> 00:24:59.490 align:middle line:84%
+If I already have a car and I'm
+considering buying a cheap car,
+
+00:24:59.490 --> 00:25:01.670 align:middle line:84%
+I might be much
+closer to the margin
+
+00:25:01.670 --> 00:25:04.700 align:middle line:84%
+where I drive my car
+for another year.
+
+00:25:04.700 --> 00:25:08.360 align:middle line:84%
+Whereas somebody who is
+buying a $90,000 car,
+
+00:25:08.360 --> 00:25:12.560 align:middle line:84%
+they'll probably not switch to
+the outside option if we raise
+
+00:25:12.560 --> 00:25:14.160 align:middle line:84%
+the price of that
+car a little bit.
+
+00:25:14.160 --> 00:25:17.420 align:middle line:84%
+They might instead opt
+for somewhat cheaper car.
+
+00:25:17.420 --> 00:25:23.170 align:middle line:84%
+And you see that the logit model
+cannot rationalize this at all.
+
+00:25:23.170 --> 00:25:28.330 align:middle line:90%
+So it's quite striking.
+
+00:25:28.330 --> 00:25:30.460 align:middle line:84%
+And so in the BLP
+model, you find
+
+00:25:30.460 --> 00:25:32.680 align:middle line:84%
+that lower end
+consumers are much more
+
+00:25:32.680 --> 00:25:34.990 align:middle line:84%
+likely to move towards
+the outset option.
+
+00:25:34.990 --> 00:25:40.540 align:middle line:90%
+
+
+00:25:40.540 --> 00:25:45.790 align:middle line:84%
+So I think this is all I wanted
+to say about those results.
+
+00:25:45.790 --> 00:25:49.030 align:middle line:84%
+Let me comment on the BLP
+paper, and also just give you
+
+00:25:49.030 --> 00:25:52.330 align:middle line:84%
+some practical leads here
+on where you can find
+
+00:25:52.330 --> 00:25:53.810 align:middle line:90%
+additional information on this.
+
+00:25:53.810 --> 00:25:56.650 align:middle line:84%
+So, you know, as I'm sure
+you may have noticed,
+
+00:25:56.650 --> 00:25:58.340 align:middle line:84%
+we spent almost two
+lectures on this.
+
+00:25:58.340 --> 00:26:00.490 align:middle line:84%
+This has been a very
+influential paper,
+
+00:26:00.490 --> 00:26:02.680 align:middle line:84%
+led to countless
+empirical studies,
+
+00:26:02.680 --> 00:26:04.640 align:middle line:84%
+a large methodological
+literature.
+
+00:26:04.640 --> 00:26:08.890 align:middle line:84%
+It's one of the bread
+and butter pieces
+
+00:26:08.890 --> 00:26:11.870 align:middle line:84%
+of what you do in empirical
+IO estimating demand,
+
+00:26:11.870 --> 00:26:16.150 align:middle line:84%
+and this is the standard
+model to do that.
+
+00:26:16.150 --> 00:26:18.850 align:middle line:84%
+The empirical results,
+the papers, of course,
+
+00:26:18.850 --> 00:26:21.140 align:middle line:84%
+mostly known for its
+methodological contribution,
+
+00:26:21.140 --> 00:26:26.290 align:middle line:84%
+but the empirical results make
+a nice case for this model.
+
+00:26:26.290 --> 00:26:29.260 align:middle line:84%
+There were many things at the
+time when this paper came out
+
+00:26:29.260 --> 00:26:31.810 align:middle line:84%
+that people didn't
+really know about.
+
+00:26:31.810 --> 00:26:34.810 align:middle line:84%
+So, for instance,
+nonparametric identification,
+
+00:26:34.810 --> 00:26:36.730 align:middle line:84%
+to what extent are
+random coefficient models
+
+00:26:36.730 --> 00:26:42.290 align:middle line:84%
+identified if we do not impose a
+type 1 extreme value assumption?
+
+00:26:42.290 --> 00:26:44.450 align:middle line:84%
+So people have
+thought about that,
+
+00:26:44.450 --> 00:26:47.420 align:middle line:84%
+and they are very general
+identification results
+
+00:26:47.420 --> 00:26:54.260 align:middle line:90%
+for general models of this sort.
+
+00:26:54.260 --> 00:26:57.740 align:middle line:84%
+People have learned a lot
+about how to estimate this
+
+00:26:57.740 --> 00:26:59.630 align:middle line:90%
+those things efficiently.
+
+00:26:59.630 --> 00:27:03.320 align:middle line:84%
+And Aviv Nevo, whose paper
+we discuss after this,
+
+00:27:03.320 --> 00:27:07.610 align:middle line:84%
+he has contributed
+to telling people
+
+00:27:07.610 --> 00:27:09.590 align:middle line:90%
+how to estimate these models.
+
+00:27:09.590 --> 00:27:15.140 align:middle line:84%
+There are now many good sources
+to dive deeper into all of this.
+
+00:27:15.140 --> 00:27:20.150 align:middle line:84%
+So the new IO handbook
+chapter just came out in 2021.
+
+00:27:20.150 --> 00:27:23.060 align:middle line:84%
+If you want to learn about
+demand, chapter 1 and chapter 2
+
+00:27:23.060 --> 00:27:26.750 align:middle line:90%
+are good sources.
+
+00:27:26.750 --> 00:27:30.020 align:middle line:84%
+If you're really interested
+into identification,
+
+00:27:30.020 --> 00:27:33.290 align:middle line:84%
+somebody wrote me a question
+about the type 1 extreme value
+
+00:27:33.290 --> 00:27:35.845 align:middle line:84%
+error and how
+restrictive this is,
+
+00:27:35.845 --> 00:27:37.650 align:middle line:90%
+this would be the place to look.
+
+00:27:37.650 --> 00:27:40.310 align:middle line:84%
+These are papers that show
+you how these models are
+
+00:27:40.310 --> 00:27:42.480 align:middle line:90%
+non-parametrically identified.
+
+00:27:42.480 --> 00:27:45.380 align:middle line:84%
+And I would probably start
+with the annual reviews
+
+00:27:45.380 --> 00:27:48.355 align:middle line:84%
+article, which gives an overview
+of this econometrica paper.
+
+00:27:48.355 --> 00:27:50.980 align:middle line:90%
+
+
+00:27:50.980 --> 00:27:58.580 align:middle line:84%
+There is also now out
+out-of-the-box estimation with
+
+00:27:58.580 --> 00:28:01.430 align:middle line:90%
+Python that you can use.
+
+00:28:01.430 --> 00:28:03.710 align:middle line:84%
+My view on this is
+this is super useful,
+
+00:28:03.710 --> 00:28:07.200 align:middle line:84%
+and you may want to check
+your results with that.
+
+00:28:07.200 --> 00:28:09.140 align:middle line:84%
+But I also believe
+that you should
+
+00:28:09.140 --> 00:28:10.610 align:middle line:84%
+learn how to
+estimate those models
+
+00:28:10.610 --> 00:28:13.970 align:middle line:84%
+and do it yourself because
+that's the real skill.
+
+00:28:13.970 --> 00:28:17.540 align:middle line:84%
+And especially if
+you stay in IO,
+
+00:28:17.540 --> 00:28:19.580 align:middle line:84%
+part of writing an
+IO job market paper
+
+00:28:19.580 --> 00:28:23.180 align:middle line:84%
+is to somehow push what you
+can do with these models,
+
+00:28:23.180 --> 00:28:25.730 align:middle line:84%
+and show that you understand
+them deeply as opposed
+
+00:28:25.730 --> 00:28:26.960 align:middle line:90%
+to just apply them.
+
+00:28:26.960 --> 00:28:29.040 align:middle line:90%
+So this is a great resource.
+
+00:28:29.040 --> 00:28:32.840 align:middle line:84%
+But, I hope that once
+you come to [14.]273,
+
+00:28:32.840 --> 00:28:35.080 align:middle line:84%
+we teach you how to
+actually do those things.
+
+00:28:35.080 --> 00:28:39.000 align:middle line:90%
+
+
+00:28:39.000 --> 00:28:41.280 align:middle line:84%
+So let me then also
+just say a few things
+
+00:28:41.280 --> 00:28:43.985 align:middle line:90%
+empirically on this paper.
+
+00:28:43.985 --> 00:28:45.580 align:middle line:90%
+We had already discussed this.
+
+00:28:45.580 --> 00:28:49.200 align:middle line:84%
+The paper ignores the
+durable good aspect here--
+
+00:28:49.200 --> 00:28:52.398 align:middle line:84%
+that people hold cars,
+and that substitution
+
+00:28:52.398 --> 00:28:54.690 align:middle line:84%
+to the offset option is,
+therefore, very heterogeneous,
+
+00:28:54.690 --> 00:28:59.530 align:middle line:84%
+and potentially endogenous to
+the counterfactual that you run.
+
+00:28:59.530 --> 00:29:01.950 align:middle line:84%
+Because if you change
+prices in a new car market,
+
+00:29:01.950 --> 00:29:04.690 align:middle line:84%
+prices in the used car
+market might respond to that.
+
+00:29:04.690 --> 00:29:07.350 align:middle line:84%
+And so your counterfactual
+might be misspecified
+
+00:29:07.350 --> 00:29:08.340 align:middle line:90%
+as a result of that.
+
+00:29:08.340 --> 00:29:11.640 align:middle line:84%
+But at least, because they
+have the random coefficient
+
+00:29:11.640 --> 00:29:14.520 align:middle line:84%
+on the intercept, you get much
+more heterogeneous substitution
+
+00:29:14.520 --> 00:29:16.860 align:middle line:84%
+patterns to the
+outside option than you
+
+00:29:16.860 --> 00:29:18.790 align:middle line:90%
+get from a simple logit model.
+
+00:29:18.790 --> 00:29:21.680 align:middle line:84%
+So it captures that
+to some extent.
+
+00:29:21.680 --> 00:29:24.520 align:middle line:84%
+Again, there's some great
+papers to look at this further.
+
+00:29:24.520 --> 00:29:27.500 align:middle line:84%
+There's a paper by
+Gowrisankaran and Rysman
+
+00:29:27.500 --> 00:29:31.920 align:middle line:84%
+that looks at people
+purchasing durable goods.
+
+00:29:31.920 --> 00:29:34.460 align:middle line:84%
+This is, I think,
+for camcorders.
+
+00:29:34.460 --> 00:29:36.440 align:middle line:84%
+And so they
+endogenize, basically,
+
+00:29:36.440 --> 00:29:40.050 align:middle line:84%
+how people update across
+different generations
+
+00:29:40.050 --> 00:29:42.470 align:middle line:90%
+of camcorders.
+
+00:29:42.470 --> 00:29:48.620 align:middle line:84%
+There is a paper on the used car
+market by Gavazza and Lizzeri
+
+00:29:48.620 --> 00:29:53.290 align:middle line:84%
+which ignores the product
+differentiation aspect of cars.
+
+00:29:53.290 --> 00:29:57.515 align:middle line:84%
+So cars here just basically
+described by their vintage.
+
+00:29:57.515 --> 00:30:01.480 align:middle line:90%
+
+
+00:30:01.480 --> 00:30:05.155 align:middle line:84%
+So thinks about the welfare
+effects of the used car market.
+
+00:30:05.155 --> 00:30:07.780 align:middle line:84%
+And then there's a more recent
+paper that actually puts the two
+
+00:30:07.780 --> 00:30:09.220 align:middle line:90%
+things together again--
+
+00:30:09.220 --> 00:30:14.500 align:middle line:84%
+so the differentiation part, and
+the fact that cars are aging,
+
+00:30:14.500 --> 00:30:20.410 align:middle line:84%
+and that different consumers
+might hold different vintages.
+
+00:30:20.410 --> 00:30:22.790 align:middle line:84%
+This is a paper that
+abstracts from dealerships.
+
+00:30:22.790 --> 00:30:25.570 align:middle line:84%
+This is actually
+quite problematic
+
+00:30:25.570 --> 00:30:28.660 align:middle line:84%
+if you think about the
+US because the US has
+
+00:30:28.660 --> 00:30:34.300 align:middle line:84%
+state franchise laws that
+prohibit manufacturers
+
+00:30:34.300 --> 00:30:36.670 align:middle line:90%
+to sell directly to consumers.
+
+00:30:36.670 --> 00:30:38.530 align:middle line:84%
+And so you might
+have heard about this
+
+00:30:38.530 --> 00:30:39.980 align:middle line:90%
+in the context of Tesla.
+
+00:30:39.980 --> 00:30:43.480 align:middle line:84%
+They have been
+rallying against this
+
+00:30:43.480 --> 00:30:45.940 align:middle line:84%
+because they want to sell
+directly to consumers,
+
+00:30:45.940 --> 00:30:48.440 align:middle line:84%
+and do not have large
+dealership networks.
+
+00:30:48.440 --> 00:30:52.990 align:middle line:84%
+So that might be important for
+local availability of brands
+
+00:30:52.990 --> 00:30:55.060 align:middle line:84%
+and substitution
+patterns, and could also
+
+00:30:55.060 --> 00:31:00.600 align:middle line:84%
+lead to other problems such
+as double marginalization.
+
+00:31:00.600 --> 00:31:04.470 align:middle line:84%
+The model ignores that car
+prices are often negotiated.
+
+00:31:04.470 --> 00:31:08.170 align:middle line:84%
+I think for what they're doing,
+that's not too problematic.
+
+00:31:08.170 --> 00:31:11.070 align:middle line:84%
+But we know that in reality,
+the transaction price
+
+00:31:11.070 --> 00:31:14.190 align:middle line:84%
+might be very different
+from the list price.
+
+00:31:14.190 --> 00:31:18.030 align:middle line:84%
+And I think Glenn has
+taught you a paper where
+
+00:31:18.030 --> 00:31:20.640 align:middle line:84%
+that has very different
+implications for different kinds
+
+00:31:20.640 --> 00:31:21.310 align:middle line:90%
+of consumers.
+
+00:31:21.310 --> 00:31:24.090 align:middle line:84%
+So to the extent that you care
+about these distributional
+
+00:31:24.090 --> 00:31:26.080 align:middle line:90%
+effects, that might be an issue.
+
+00:31:26.080 --> 00:31:28.560 align:middle line:84%
+And lastly, it
+ignores something that
+
+00:31:28.560 --> 00:31:30.960 align:middle line:84%
+is very important,
+and increasingly so,
+
+00:31:30.960 --> 00:31:33.380 align:middle line:84%
+which is the financial
+transaction that is involved
+
+00:31:33.380 --> 00:31:34.380 align:middle line:90%
+when you purchase a car.
+
+00:31:34.380 --> 00:31:38.040 align:middle line:84%
+Because you're typically getting
+a loan, and maybe insurance,
+
+00:31:38.040 --> 00:31:40.734 align:middle line:90%
+and other kinds of add-ons.
+
+00:31:40.734 --> 00:31:44.790 align:middle line:84%
+So obviously, this
+is an older paper.
+
+00:31:44.790 --> 00:31:49.120 align:middle line:84%
+There are many papers that now
+address all of these issues,
+
+00:31:49.120 --> 00:31:53.190 align:middle line:84%
+so that's a good paper to write
+if there are many gaps to fill
+
+00:31:53.190 --> 00:31:56.060 align:middle line:84%
+and people are
+willing to do that.
+
+00:31:56.060 --> 00:31:57.390 align:middle line:90%
+Any any questions?
+
+00:31:57.390 --> 00:31:58.991 align:middle line:90%
+Otherwise, I move on to Nevo.
+
+00:31:58.991 --> 00:32:05.165 align:middle line:90%
+
+
+00:32:05.165 --> 00:32:05.665 align:middle line:90%
+OK.
+
+00:32:05.665 --> 00:32:09.110 align:middle line:90%
+
+
+00:32:09.110 --> 00:32:12.010 align:middle line:84%
+So the next two papers
+are in the spirit
+
+00:32:12.010 --> 00:32:16.750 align:middle line:84%
+of what Glenn has already
+started talking about--
+
+00:32:16.750 --> 00:32:19.510 align:middle line:84%
+Bresnahan in 1987 and
+Miller and Weinberg
+
+00:32:19.510 --> 00:32:23.150 align:middle line:84%
+testing different models of
+conduct against each other.
+
+00:32:23.150 --> 00:32:26.560 align:middle line:84%
+So the idea is
+using our estimates
+
+00:32:26.560 --> 00:32:29.570 align:middle line:84%
+to figure out what game is it
+that firms are actually playing?
+
+00:32:29.570 --> 00:32:37.180 align:middle line:84%
+And I think that's a very nice
+way to use this machinery.
+
+00:32:37.180 --> 00:32:41.150 align:middle line:84%
+We will look at the ready
+to eat cereal market.
+
+00:32:41.150 --> 00:32:42.910 align:middle line:84%
+You have read Nevo's
+paper, and then we'll
+
+00:32:42.910 --> 00:32:44.590 align:middle line:84%
+look at Backus,
+Conlon, and Sinkinson,
+
+00:32:44.590 --> 00:32:47.000 align:middle line:84%
+which talks about the
+common ownership hypothesis.
+
+00:32:47.000 --> 00:32:50.180 align:middle line:90%
+
+
+00:32:50.180 --> 00:32:55.680 align:middle line:84%
+So the question in
+Nevo's paper is,
+
+00:32:55.680 --> 00:33:01.050 align:middle line:84%
+why does the cereal industry
+sustain such high gross margins
+
+00:33:01.050 --> 00:33:05.222 align:middle line:84%
+as measured from accounting data
+and the census of manufacturing?
+
+00:33:05.222 --> 00:33:09.990 align:middle line:84%
+So they seem to be these
+very large margins.
+
+00:33:09.990 --> 00:33:12.780 align:middle line:84%
+There are two
+competing explanations.
+
+00:33:12.780 --> 00:33:15.630 align:middle line:84%
+One is that the
+firms are somehow--
+
+00:33:15.630 --> 00:33:19.110 align:middle line:84%
+of which there are few-- are
+colluding with each other.
+
+00:33:19.110 --> 00:33:20.640 align:middle line:90%
+And the other one--
+
+00:33:20.640 --> 00:33:22.260 align:middle line:84%
+and I'm sure you've
+noticed this--
+
+00:33:22.260 --> 00:33:25.560 align:middle line:84%
+this is a market in which there
+are a lot of different products.
+
+00:33:25.560 --> 00:33:28.710 align:middle line:84%
+And it could be that consumers
+have very heterogeneous tastes
+
+00:33:28.710 --> 00:33:31.710 align:middle line:84%
+for those products,
+and somehow, firms
+
+00:33:31.710 --> 00:33:34.770 align:middle line:84%
+are catering to these
+very idiosyncratic tastes,
+
+00:33:34.770 --> 00:33:37.110 align:middle line:84%
+and therefore, are
+able to sustain
+
+00:33:37.110 --> 00:33:40.920 align:middle line:84%
+high margins in conjunction
+with internalizing
+
+00:33:40.920 --> 00:33:43.620 align:middle line:84%
+their multi-product incentives--
+the fact that they do not
+
+00:33:43.620 --> 00:33:48.000 align:middle line:84%
+want to cannibalize
+their own products.
+
+00:33:48.000 --> 00:33:55.560 align:middle line:84%
+The approach is to use demand
+estimates to recover markups.
+
+00:33:55.560 --> 00:33:58.630 align:middle line:84%
+A different alternative conduct
+assumptions, it should say here.
+
+00:33:58.630 --> 00:34:04.260 align:middle line:84%
+So you're using only
+your demand estimates,
+
+00:34:04.260 --> 00:34:06.060 align:middle line:84%
+imposing certain
+models of conduct,
+
+00:34:06.060 --> 00:34:10.110 align:middle line:84%
+and then see whether those
+models of conduct with which you
+
+00:34:10.110 --> 00:34:13.560 align:middle line:84%
+can recover marginal costs,
+and therefore compute markups,
+
+00:34:13.560 --> 00:34:15.360 align:middle line:84%
+line up with the markups
+that you actually
+
+00:34:15.360 --> 00:34:16.279 align:middle line:90%
+observe in the data.
+
+00:34:16.279 --> 00:34:22.489 align:middle line:90%
+
+
+00:34:22.489 --> 00:34:26.840 align:middle line:84%
+And he uses panel data
+on demand for cereals
+
+00:34:26.840 --> 00:34:30.110 align:middle line:84%
+across different
+geographic markets.
+
+00:34:30.110 --> 00:34:33.080 align:middle line:84%
+So I thought I'd use
+this as an opportunity
+
+00:34:33.080 --> 00:34:36.139 align:middle line:84%
+to tell you about
+the surprisingly
+
+00:34:36.139 --> 00:34:38.980 align:middle line:84%
+entertaining origins of the
+breakfast cereal market.
+
+00:34:38.980 --> 00:34:42.380 align:middle line:90%
+
+
+00:34:42.380 --> 00:34:46.350 align:middle line:84%
+So this here is
+James Caleb Jackson.
+
+00:34:46.350 --> 00:34:50.010 align:middle line:90%
+He lived in western New York.
+
+00:34:50.010 --> 00:34:53.610 align:middle line:84%
+He was a very
+religious vegetarian,
+
+00:34:53.610 --> 00:34:58.230 align:middle line:84%
+and he stumbled into something
+that resembled maybe not too
+
+00:34:58.230 --> 00:35:00.220 align:middle line:84%
+much the modern
+breakfast cereals.
+
+00:35:00.220 --> 00:35:02.820 align:middle line:84%
+So it was kind of a
+hard thing to eat.
+
+00:35:02.820 --> 00:35:03.940 align:middle line:90%
+Not much fun.
+
+00:35:03.940 --> 00:35:07.890 align:middle line:84%
+You had to soak it overnight in
+milk to make it edible at all.
+
+00:35:07.890 --> 00:35:08.900 align:middle line:90%
+He called it granula.
+
+00:35:08.900 --> 00:35:14.250 align:middle line:90%
+
+
+00:35:14.250 --> 00:35:17.760 align:middle line:84%
+Not much later,
+there's somebody else.
+
+00:35:17.760 --> 00:35:21.120 align:middle line:84%
+And I should have, said
+James Caleb Jackson ran
+
+00:35:21.120 --> 00:35:22.740 align:middle line:90%
+a sanatorium in New York.
+
+00:35:22.740 --> 00:35:26.790 align:middle line:84%
+So that John Harvey Kellogg
+in Michigan, his family's
+
+00:35:26.790 --> 00:35:29.250 align:middle line:90%
+originally from Massachusetts.
+
+00:35:29.250 --> 00:35:33.210 align:middle line:84%
+He was a surgeon, and he
+invented something very similar
+
+00:35:33.210 --> 00:35:36.120 align:middle line:84%
+that he first wanted
+to call granula.
+
+00:35:36.120 --> 00:35:37.680 align:middle line:84%
+Then he got into
+some legal trouble
+
+00:35:37.680 --> 00:35:38.960 align:middle line:90%
+and he said, call it granola.
+
+00:35:38.960 --> 00:35:43.280 align:middle line:90%
+
+
+00:35:43.280 --> 00:35:45.800 align:middle line:84%
+So you compare James
+Caleb Jackson, Kellogg,
+
+00:35:45.800 --> 00:35:48.080 align:middle line:84%
+and you compare
+granula, granola.
+
+00:35:48.080 --> 00:35:52.315 align:middle line:84%
+So you may already guess whose
+legacy was more enduring.
+
+00:35:52.315 --> 00:35:55.072 align:middle line:90%
+
+
+00:35:55.072 --> 00:35:58.980 align:middle line:84%
+So John Harvey Kellogg
+had a younger brother,
+
+00:35:58.980 --> 00:36:02.550 align:middle line:84%
+and he was really
+onto something.
+
+00:36:02.550 --> 00:36:06.140 align:middle line:84%
+Because for 10 years,
+they worked together
+
+00:36:06.140 --> 00:36:09.860 align:middle line:84%
+and ran a company
+together until they
+
+00:36:09.860 --> 00:36:14.930 align:middle line:84%
+had some differences about
+including sugar into cereals.
+
+00:36:14.930 --> 00:36:17.090 align:middle line:84%
+So, again, you have to
+think of the old cereals
+
+00:36:17.090 --> 00:36:20.178 align:middle line:84%
+as there was a
+religious impetus,
+
+00:36:20.178 --> 00:36:22.470 align:middle line:84%
+and there was a whole philosophy
+around eating healthy.
+
+00:36:22.470 --> 00:36:25.600 align:middle line:84%
+And then we'll suggest, no,
+let's put some sugar in it.
+
+00:36:25.600 --> 00:36:26.850 align:middle line:90%
+We'll make it more successful.
+
+00:36:26.850 --> 00:36:28.565 align:middle line:90%
+And it did.
+
+00:36:28.565 --> 00:36:31.980 align:middle line:90%
+
+
+00:36:31.980 --> 00:36:35.880 align:middle line:84%
+John Harvey Kellogg also had
+a patient, Charles William,
+
+00:36:35.880 --> 00:36:38.040 align:middle line:90%
+or CW Post.
+
+00:36:38.040 --> 00:36:40.020 align:middle line:84%
+So the brothers also
+had disagreements
+
+00:36:40.020 --> 00:36:43.080 align:middle line:84%
+about the importance
+of trade secrets,
+
+00:36:43.080 --> 00:36:45.990 align:middle line:84%
+and John Harvey Kellogg
+said, our patients should
+
+00:36:45.990 --> 00:36:47.560 align:middle line:90%
+learn how to do those things.
+
+00:36:47.560 --> 00:36:50.460 align:middle line:84%
+And that's what Charles
+William Post did.
+
+00:36:50.460 --> 00:36:52.890 align:middle line:84%
+He basically copied the
+recipe, called it Grape Nuts,
+
+00:36:52.890 --> 00:36:55.985 align:middle line:84%
+and became a competitor
+of the Kellogg company.
+
+00:36:55.985 --> 00:36:59.270 align:middle line:90%
+
+
+00:36:59.270 --> 00:37:03.540 align:middle line:84%
+So little did they know, so this
+is what happened to the market.
+
+00:37:03.540 --> 00:37:07.160 align:middle line:84%
+Now you have hundreds
+of different products.
+
+00:37:07.160 --> 00:37:09.980 align:middle line:84%
+It's also known that there's
+a lot of churn in the market,
+
+00:37:09.980 --> 00:37:13.310 align:middle line:84%
+and that the market is sustained
+with very high advertising
+
+00:37:13.310 --> 00:37:14.390 align:middle line:90%
+expenditures.
+
+00:37:14.390 --> 00:37:18.318 align:middle line:84%
+And it's just funny
+to look at those,
+
+00:37:18.318 --> 00:37:20.360 align:middle line:84%
+but it also illustrates
+a point that there's just
+
+00:37:20.360 --> 00:37:23.300 align:middle line:90%
+this massive variety.
+
+00:37:23.300 --> 00:37:26.390 align:middle line:84%
+You could be, let's say,
+interested in C-3PO cereals,
+
+00:37:26.390 --> 00:37:30.080 align:middle line:84%
+or maybe Donkey Kong, or
+maybe Donkey Kong Junior
+
+00:37:30.080 --> 00:37:34.960 align:middle line:84%
+if that's not catering
+precisely enough to your taste.
+
+00:37:34.960 --> 00:37:38.620 align:middle line:90%
+
+
+00:37:38.620 --> 00:37:43.180 align:middle line:84%
+And I should say in
+1970, there was actually
+
+00:37:43.180 --> 00:37:48.700 align:middle line:84%
+a complaint by the FTC that
+the companies in this market
+
+00:37:48.700 --> 00:37:52.480 align:middle line:84%
+are colluding with each other
+and proliferating brands
+
+00:37:52.480 --> 00:37:55.000 align:middle line:90%
+to deter entry from rivals.
+
+00:37:55.000 --> 00:37:59.950 align:middle line:84%
+And so Schmalensee, who
+teaches at the Sloan school,
+
+00:37:59.950 --> 00:38:07.160 align:middle line:84%
+has a paper on this in the
+Bell Journal of Economics.
+
+00:38:07.160 --> 00:38:10.180 align:middle line:90%
+
+
+00:38:10.180 --> 00:38:13.840 align:middle line:84%
+And so what is striking is
+you see the number of products
+
+00:38:13.840 --> 00:38:17.258 align:middle line:84%
+in the market, and then
+you look at how many firms
+
+00:38:17.258 --> 00:38:18.550 align:middle line:90%
+are controlling those products.
+
+00:38:18.550 --> 00:38:20.180 align:middle line:90%
+And it's very, very few.
+
+00:38:20.180 --> 00:38:25.150 align:middle line:84%
+So with the C3 concentration
+ratio, so the market
+
+00:38:25.150 --> 00:38:30.970 align:middle line:84%
+share of the top three firms,
+you get up to more than 70%
+
+00:38:30.970 --> 00:38:33.712 align:middle line:90%
+of the market.
+
+00:38:33.712 --> 00:38:38.950 align:middle line:84%
+So what this tells you is this
+is a market where you want
+
+00:38:38.950 --> 00:38:43.270 align:middle line:84%
+to take into account these
+multi-product effects--
+
+00:38:43.270 --> 00:38:46.120 align:middle line:84%
+the fact that firms
+will internalize
+
+00:38:46.120 --> 00:38:49.450 align:middle line:84%
+how much they will rival their
+own products when they introduce
+
+00:38:49.450 --> 00:38:52.830 align:middle line:90%
+new products or price those.
+
+00:38:52.830 --> 00:38:55.350 align:middle line:84%
+It would not make
+much sense to not
+
+00:38:55.350 --> 00:38:58.030 align:middle line:84%
+have such a model when you
+have four firms and hundreds
+
+00:38:58.030 --> 00:38:59.240 align:middle line:90%
+of different products.
+
+00:38:59.240 --> 00:39:07.550 align:middle line:90%
+
+
+00:39:07.550 --> 00:39:11.390 align:middle line:84%
+So again, to remind you, the
+exercise that Nevo engages in
+
+00:39:11.390 --> 00:39:17.910 align:middle line:90%
+is he tries to--
+
+00:39:17.910 --> 00:39:22.070 align:middle line:84%
+so he first measures
+markups directly
+
+00:39:22.070 --> 00:39:27.714 align:middle line:84%
+in the data based off
+of accounting estimates.
+
+00:39:27.714 --> 00:39:33.755 align:middle line:84%
+And the relevant estimate here
+is the retail margin of 46%.
+
+00:39:33.755 --> 00:39:35.630 align:middle line:84%
+And then he does some
+bounding whether or not
+
+00:39:35.630 --> 00:39:38.600 align:middle line:90%
+you include advertising as a--
+
+00:39:38.600 --> 00:39:43.040 align:middle line:84%
+whether advertising is a
+marginal or variable cost, and--
+
+00:39:43.040 --> 00:39:46.820 align:middle line:84%
+sorry, a marginal
+or a fixed cost.
+
+00:39:46.820 --> 00:39:51.410 align:middle line:84%
+And in the end uses
+model estimated markups
+
+00:39:51.410 --> 00:39:55.310 align:middle line:84%
+to compare it to those directly
+observed markups in the data.
+
+00:39:55.310 --> 00:39:57.810 align:middle line:84%
+So this comes from
+this report here.
+
+00:39:57.810 --> 00:40:00.570 align:middle line:84%
+But he also has some data from
+the census of manufacturing.
+
+00:40:00.570 --> 00:40:09.416 align:middle line:90%
+
+
+00:40:09.416 --> 00:40:15.170 align:middle line:84%
+So the specification
+that he uses
+
+00:40:15.170 --> 00:40:19.730 align:middle line:84%
+is very, very similar to what
+we have discussed last week.
+
+00:40:19.730 --> 00:40:24.360 align:middle line:84%
+So I just want to point
+out a few things here.
+
+00:40:24.360 --> 00:40:28.950 align:middle line:84%
+So again, you have an
+indirect utility function
+
+00:40:28.950 --> 00:40:32.170 align:middle line:84%
+that's linear in terms
+of product attributes--
+
+00:40:32.170 --> 00:40:34.590 align:middle line:84%
+these random
+coefficients for product
+
+00:40:34.590 --> 00:40:38.700 align:middle line:84%
+attributes, prices for
+product J and firm T,
+
+00:40:38.700 --> 00:40:41.580 align:middle line:84%
+and the random
+coefficient for prices.
+
+00:40:41.580 --> 00:40:45.510 align:middle line:84%
+Now, the one difference
+here is that he decomposes
+
+00:40:45.510 --> 00:40:48.930 align:middle line:84%
+the unobserved product
+attributes into a fixed effect
+
+00:40:48.930 --> 00:40:50.345 align:middle line:90%
+and a deviation from that.
+
+00:40:50.345 --> 00:40:53.860 align:middle line:90%
+
+
+00:40:53.860 --> 00:40:56.490 align:middle line:84%
+So I got some questions
+about this fixed effect.
+
+00:40:56.490 --> 00:41:00.740 align:middle line:84%
+So why haven't people
+done this before,
+
+00:41:00.740 --> 00:41:07.210 align:middle line:90%
+and what is the difficulty here?
+
+00:41:07.210 --> 00:41:13.610 align:middle line:84%
+So first of all, of course,
+this came not too much later
+
+00:41:13.610 --> 00:41:15.090 align:middle line:90%
+after the introduction of BLP.
+
+00:41:15.090 --> 00:41:17.060 align:middle line:84%
+So there were not
+that many people
+
+00:41:17.060 --> 00:41:19.710 align:middle line:84%
+that actually learned how
+to estimate those models.
+
+00:41:19.710 --> 00:41:24.360 align:middle line:84%
+That's kind of a perhaps
+somewhat disappointing answer.
+
+00:41:24.360 --> 00:41:28.010 align:middle line:84%
+But I think there's one
+important point here--
+
+00:41:28.010 --> 00:41:29.760 align:middle line:90%
+or maybe two points, actually.
+
+00:41:29.760 --> 00:41:34.370 align:middle line:84%
+The first one is that if you
+want to include these fixed
+
+00:41:34.370 --> 00:41:37.280 align:middle line:84%
+effects, you're introducing
+a lot of new parameters
+
+00:41:37.280 --> 00:41:38.310 align:middle line:90%
+into your model.
+
+00:41:38.310 --> 00:41:42.950 align:middle line:84%
+And I walked you last
+week through the steps
+
+00:41:42.950 --> 00:41:45.950 align:middle line:84%
+of model estimation, where
+you had the outer loop
+
+00:41:45.950 --> 00:41:47.990 align:middle line:90%
+and the inner loop.
+
+00:41:47.990 --> 00:41:52.160 align:middle line:84%
+Now, what is important
+here is that if you include
+
+00:41:52.160 --> 00:41:55.010 align:middle line:84%
+fixed effects, you
+really want to make sure
+
+00:41:55.010 --> 00:41:59.120 align:middle line:84%
+that in the inner loop, you're
+running a regression to back out
+
+00:41:59.120 --> 00:42:00.770 align:middle line:90%
+those fixed effects.
+
+00:42:00.770 --> 00:42:03.470 align:middle line:84%
+And you separate the
+linear parameters
+
+00:42:03.470 --> 00:42:05.330 align:middle line:90%
+from the nonlinear parameters.
+
+00:42:05.330 --> 00:42:07.670 align:middle line:84%
+To remind you, the
+linear parameters
+
+00:42:07.670 --> 00:42:13.370 align:middle line:84%
+are all the things on
+observed or unobserved product
+
+00:42:13.370 --> 00:42:15.290 align:middle line:84%
+attributes, in this
+case, with fixed effects
+
+00:42:15.290 --> 00:42:18.460 align:middle line:84%
+that are only J specific and
+do not depend on the consumer.
+
+00:42:18.460 --> 00:42:21.866 align:middle line:90%
+
+
+00:42:21.866 --> 00:42:25.300 align:middle line:84%
+And so, again, fixed effects
+introduce a lot of parameters.
+
+00:42:25.300 --> 00:42:28.360 align:middle line:84%
+If you can just optimize over
+your nonlinear parameters
+
+00:42:28.360 --> 00:42:30.040 align:middle line:84%
+and then back out
+the fixed effects
+
+00:42:30.040 --> 00:42:32.650 align:middle line:84%
+through a regression for any
+given guess of those nonlinear
+
+00:42:32.650 --> 00:42:37.310 align:middle line:84%
+parameters, that's
+going to help you a lot.
+
+00:42:37.310 --> 00:42:39.210 align:middle line:90%
+So that's one comment on this.
+
+00:42:39.210 --> 00:42:47.410 align:middle line:84%
+The second comment is that it's
+a little bit against the spirit
+
+00:42:47.410 --> 00:42:50.230 align:middle line:84%
+of these characteristic
+space models
+
+00:42:50.230 --> 00:42:52.370 align:middle line:90%
+to estimate fixed effects.
+
+00:42:52.370 --> 00:42:53.860 align:middle line:84%
+Not to say you
+shouldn't do this,
+
+00:42:53.860 --> 00:42:55.280 align:middle line:90%
+or that this is not a good idea.
+
+00:42:55.280 --> 00:42:58.010 align:middle line:84%
+This can be very useful
+for identification,
+
+00:42:58.010 --> 00:43:00.430 align:middle line:84%
+but you are introducing
+new parameters
+
+00:43:00.430 --> 00:43:04.140 align:middle line:84%
+for each new product, which is
+something that we try to avoid.
+
+00:43:04.140 --> 00:43:10.530 align:middle line:90%
+
+
+00:43:10.530 --> 00:43:13.950 align:middle line:84%
+So one thing that we
+had discussed last week,
+
+00:43:13.950 --> 00:43:16.890 align:middle line:84%
+but that's new relative to BLP
+that I want to point out here,
+
+00:43:16.890 --> 00:43:20.400 align:middle line:84%
+is that the random
+coefficients are now not just--
+
+00:43:20.400 --> 00:43:22.980 align:middle line:84%
+there's not just the
+standard deviation
+
+00:43:22.980 --> 00:43:25.390 align:middle line:84%
+of some mysterious
+unobserved distribution.
+
+00:43:25.390 --> 00:43:28.590 align:middle line:84%
+They're now written in terms
+of demographic variables
+
+00:43:28.590 --> 00:43:30.120 align:middle line:84%
+of distributions
+that you actually
+
+00:43:30.120 --> 00:43:32.200 align:middle line:90%
+observe for each market--
+
+00:43:32.200 --> 00:43:35.470 align:middle line:84%
+so the distribution of
+income, distribution of family
+
+00:43:35.470 --> 00:43:37.230 align:middle line:90%
+size, and so on.
+
+00:43:37.230 --> 00:43:39.580 align:middle line:84%
+So I'll come back to
+this once more when we
+
+00:43:39.580 --> 00:43:44.660 align:middle line:90%
+discuss the estimates later on.
+
+00:43:44.660 --> 00:43:48.630 align:middle line:84%
+The market here is defined as
+a city quarter combination.
+
+00:43:48.630 --> 00:43:52.370 align:middle line:84%
+I had some questions
+about market definitions.
+
+00:43:52.370 --> 00:43:55.920 align:middle line:84%
+Vat, you asked
+about this, right?
+
+00:43:55.920 --> 00:43:58.620 align:middle line:90%
+That's a good question.
+
+00:43:58.620 --> 00:44:04.180 align:middle line:84%
+So the question was, why
+do we define it this way?
+
+00:44:04.180 --> 00:44:09.900 align:middle line:84%
+Why don't we take commuting
+zones, or, let's say,
+
+00:44:09.900 --> 00:44:13.080 align:middle line:84%
+a quarter, or a
+half a year, a year?
+
+00:44:13.080 --> 00:44:17.580 align:middle line:84%
+That's typically a
+difficult choice to make.
+
+00:44:17.580 --> 00:44:22.740 align:middle line:84%
+What could happen is that if you
+don't draw the right boundaries,
+
+00:44:22.740 --> 00:44:25.560 align:middle line:84%
+that firms at the
+edge of your market
+
+00:44:25.560 --> 00:44:28.780 align:middle line:84%
+are actually competing with
+firms in other markets.
+
+00:44:28.780 --> 00:44:31.710 align:middle line:84%
+And you mis-specify the
+number of competitors
+
+00:44:31.710 --> 00:44:33.660 align:middle line:90%
+that they're responding to.
+
+00:44:33.660 --> 00:44:39.020 align:middle line:84%
+And so there's some papers
+that use clustering procedures
+
+00:44:39.020 --> 00:44:42.540 align:middle line:84%
+to figure out how
+to separate markets,
+
+00:44:42.540 --> 00:44:45.710 align:middle line:84%
+but in general,
+this is a bit more
+
+00:44:45.710 --> 00:44:48.770 align:middle line:84%
+an art than a science to think
+about how you how you designate
+
+00:44:48.770 --> 00:44:50.540 align:middle line:90%
+markets.
+
+00:44:50.540 --> 00:44:52.825 align:middle line:84%
+But yes, that's an
+important question.
+
+00:44:52.825 --> 00:45:00.840 align:middle line:90%
+
+
+00:45:00.840 --> 00:45:04.200 align:middle line:84%
+So one more issue that comes
+up with including those fixed
+
+00:45:04.200 --> 00:45:09.330 align:middle line:90%
+effects is that brands are not--
+
+00:45:09.330 --> 00:45:13.170 align:middle line:84%
+or products are not changing
+their attributes much over time.
+
+00:45:13.170 --> 00:45:15.600 align:middle line:84%
+Which means that those
+instruments are completely
+
+00:45:15.600 --> 00:45:18.990 align:middle line:84%
+absorbing the variation
+that you would be using when
+
+00:45:18.990 --> 00:45:22.950 align:middle line:90%
+you build the BLP instruments.
+
+00:45:22.950 --> 00:45:25.410 align:middle line:84%
+So remember, the
+BLP instruments, it
+
+00:45:25.410 --> 00:45:30.145 align:middle line:84%
+was this idea that if I'm
+offering a very sugary product,
+
+00:45:30.145 --> 00:45:32.520 align:middle line:84%
+and I'm in a market where all
+the other products are also
+
+00:45:32.520 --> 00:45:35.500 align:middle line:84%
+very sugary, then I
+face more competition.
+
+00:45:35.500 --> 00:45:37.625 align:middle line:84%
+I'm probably going to
+respond to that in my prices.
+
+00:45:37.625 --> 00:45:41.750 align:middle line:90%
+
+
+00:45:41.750 --> 00:45:43.520 align:middle line:84%
+So what he does
+to get around this
+
+00:45:43.520 --> 00:45:46.520 align:middle line:84%
+is to introduce two
+other instruments.
+
+00:45:46.520 --> 00:45:48.110 align:middle line:84%
+First, the Hausman
+instruments, which
+
+00:45:48.110 --> 00:45:50.990 align:middle line:84%
+we had discussed
+last week, which
+
+00:45:50.990 --> 00:45:56.360 align:middle line:84%
+is basically the idea
+of using average prices
+
+00:45:56.360 --> 00:46:02.530 align:middle line:84%
+in other markets for the same
+firm as proxies for costs.
+
+00:46:02.530 --> 00:46:06.280 align:middle line:84%
+So I've got some questions about
+this, so I just want to ask,
+
+00:46:06.280 --> 00:46:09.430 align:middle line:84%
+does somebody want
+to explain again
+
+00:46:09.430 --> 00:46:12.040 align:middle line:84%
+what the idea behind those
+instruments exactly is,
+
+00:46:12.040 --> 00:46:15.310 align:middle line:84%
+and what are some of the
+issues that could come up here?
+
+00:46:15.310 --> 00:46:22.310 align:middle line:84%
+So again, the problem
+is that in many cases,
+
+00:46:22.310 --> 00:46:23.750 align:middle line:84%
+typically, costs
+are not observed,
+
+00:46:23.750 --> 00:46:27.020 align:middle line:90%
+or it's hard to get at those.
+
+00:46:27.020 --> 00:46:29.360 align:middle line:84%
+Remember also
+that-- just picture
+
+00:46:29.360 --> 00:46:32.390 align:middle line:84%
+a very simple linear
+supply and demand
+
+00:46:32.390 --> 00:46:34.250 align:middle line:84%
+picture, and the
+identification problem
+
+00:46:34.250 --> 00:46:36.080 align:middle line:84%
+that we had discussed
+at the very beginning
+
+00:46:36.080 --> 00:46:39.230 align:middle line:84%
+of the last lecture,
+that you ideally
+
+00:46:39.230 --> 00:46:42.710 align:middle line:84%
+want some cost shifters
+that shift around the supply
+
+00:46:42.710 --> 00:46:45.830 align:middle line:84%
+function to identify
+your demand function.
+
+00:46:45.830 --> 00:46:48.892 align:middle line:84%
+Again, cost side
+instruments that you
+
+00:46:48.892 --> 00:46:50.600 align:middle line:84%
+believe are excluded
+from the demand side
+
+00:46:50.600 --> 00:46:54.610 align:middle line:84%
+are typically the most
+convincing types of instruments.
+
+00:46:54.610 --> 00:46:58.408 align:middle line:90%
+
+
+00:46:58.408 --> 00:47:02.200 align:middle line:84%
+So instead of using
+directly observed costs,
+
+00:47:02.200 --> 00:47:04.480 align:middle line:84%
+the idea, again, behind
+these Hausman instruments
+
+00:47:04.480 --> 00:47:08.590 align:middle line:84%
+is to proxy for those costs with
+average prices of the same firm
+
+00:47:08.590 --> 00:47:10.750 align:middle line:90%
+in other markets.
+
+00:47:10.750 --> 00:47:15.460 align:middle line:84%
+And the idea is, if I'm,
+let's say, the only cereal
+
+00:47:15.460 --> 00:47:18.440 align:middle line:84%
+producer that uses
+rice as an ingredient,
+
+00:47:18.440 --> 00:47:20.260 align:middle line:84%
+and the price of
+rice goes up, then
+
+00:47:20.260 --> 00:47:23.180 align:middle line:84%
+that's going to shift
+my average price.
+
+00:47:23.180 --> 00:47:28.510 align:middle line:84%
+And to the extent that the
+shock to the cost of rice
+
+00:47:28.510 --> 00:47:33.220 align:middle line:84%
+is uncorrelated to demand shocks
+across different geographic
+
+00:47:33.220 --> 00:47:39.200 align:middle line:84%
+regions, I can use this as
+a proxy for a cost shifter.
+
+00:47:39.200 --> 00:47:43.420 align:middle line:84%
+Now, this already leads
+to where the error where
+
+00:47:43.420 --> 00:47:47.710 align:middle line:84%
+this might go wrong
+is if you have things
+
+00:47:47.710 --> 00:47:51.640 align:middle line:84%
+in those prices that
+are actually correlated
+
+00:47:51.640 --> 00:47:53.530 align:middle line:90%
+across different markets.
+
+00:47:53.530 --> 00:47:56.630 align:middle line:84%
+So think about
+advertising campaigns.
+
+00:47:56.630 --> 00:47:58.970 align:middle line:84%
+If I'm running a big
+advertising campaign
+
+00:47:58.970 --> 00:48:02.480 align:middle line:84%
+that leads to more
+demand for my brands,
+
+00:48:02.480 --> 00:48:05.360 align:middle line:84%
+and that's going to be
+potentially reflected
+
+00:48:05.360 --> 00:48:06.950 align:middle line:84%
+in the prices, I
+mean, to the extent
+
+00:48:06.950 --> 00:48:08.750 align:middle line:84%
+that we think that it
+is a marginal cost.
+
+00:48:08.750 --> 00:48:14.120 align:middle line:84%
+And then it's as if I'm
+instrumenting my endogenous--
+
+00:48:14.120 --> 00:48:16.760 align:middle line:90%
+
+
+00:48:16.760 --> 00:48:20.660 align:middle line:84%
+as if I'm instrumenting
+prices with demand.
+
+00:48:20.660 --> 00:48:22.520 align:middle line:90%
+That's not a good idea.
+
+00:48:22.520 --> 00:48:28.490 align:middle line:84%
+So the other
+instrument that he uses
+
+00:48:28.490 --> 00:48:30.930 align:middle line:84%
+are what he calls
+cost side instruments.
+
+00:48:30.930 --> 00:48:33.320 align:middle line:84%
+They have a somewhat
+similar logic.
+
+00:48:33.320 --> 00:48:36.320 align:middle line:84%
+So he uses region
+dummies to pick up
+
+00:48:36.320 --> 00:48:39.660 align:middle line:84%
+things like transportation
+costs, city density.
+
+00:48:39.660 --> 00:48:43.040 align:middle line:84%
+Again, this is an
+issue to the extent
+
+00:48:43.040 --> 00:48:46.940 align:middle line:84%
+that these things might also be
+picking up systematic variation
+
+00:48:46.940 --> 00:48:50.095 align:middle line:90%
+in preferences across regions.
+
+00:48:50.095 --> 00:48:53.260 align:middle line:90%
+
+
+00:48:53.260 --> 00:48:55.550 align:middle line:90%
+Any other questions on this?
+
+00:48:55.550 --> 00:48:58.290 align:middle line:84%
+You have read the paper,
+so you're curious.
+
+00:48:58.290 --> 00:48:58.790 align:middle line:90%
+Yes?
+
+00:48:58.790 --> 00:49:00.950 align:middle line:84%
+AUDIENCE: So one of the
+things that sort of--
+
+00:49:00.950 --> 00:49:05.660 align:middle line:84%
+that utility formulation is
+that the price sensitivity
+
+00:49:05.660 --> 00:49:09.530 align:middle line:84%
+varies across consumers, but it
+doesn't vary by type of good.
+
+00:49:09.530 --> 00:49:14.810 align:middle line:84%
+And so when they present the
+table with price elasticities
+
+00:49:14.810 --> 00:49:15.590 align:middle line:90%
+between--
+
+00:49:15.590 --> 00:49:17.420 align:middle line:84%
+cross-price elasticity
+between types
+
+00:49:17.420 --> 00:49:21.740 align:middle line:84%
+of goods, that's only driven
+by the type of consumer that's
+
+00:49:21.740 --> 00:49:23.070 align:middle line:90%
+buying that good, right?
+
+00:49:23.070 --> 00:49:24.890 align:middle line:90%
+PROFESSOR: OK.
+
+00:49:24.890 --> 00:49:26.960 align:middle line:84%
+AUDIENCE: So I guess
+my question is,
+
+00:49:26.960 --> 00:49:28.670 align:middle line:84%
+how reasonable of
+an assumption is it
+
+00:49:28.670 --> 00:49:33.140 align:middle line:84%
+that all of the prices, cross
+elasticities that we estimate
+
+00:49:33.140 --> 00:49:35.420 align:middle line:84%
+are only driven by
+differences in consumers,
+
+00:49:35.420 --> 00:49:38.840 align:middle line:84%
+and not in types of
+goods that we're buying?
+
+00:49:38.840 --> 00:49:41.160 align:middle line:84%
+PROFESSOR: OK that's an
+interesting question.
+
+00:49:41.160 --> 00:49:44.070 align:middle line:84%
+So let me try and
+say a few things.
+
+00:49:44.070 --> 00:49:45.830 align:middle line:84%
+So first of all, I
+mean, think first
+
+00:49:45.830 --> 00:49:50.880 align:middle line:84%
+about the idea behind the
+characteristic space approach
+
+00:49:50.880 --> 00:49:54.690 align:middle line:84%
+is that people value
+characteristics.
+
+00:49:54.690 --> 00:49:56.970 align:middle line:84%
+And so if you really
+believe that that's
+
+00:49:56.970 --> 00:49:58.710 align:middle line:84%
+the way you construct
+your models,
+
+00:49:58.710 --> 00:50:03.510 align:middle line:84%
+then you shouldn't actually
+have random coefficients
+
+00:50:03.510 --> 00:50:05.920 align:middle line:90%
+be product specific.
+
+00:50:05.920 --> 00:50:09.140 align:middle line:90%
+So that's one answer to that.
+
+00:50:09.140 --> 00:50:15.880 align:middle line:84%
+Now, it might be that they're a
+more flexible, functional form
+
+00:50:15.880 --> 00:50:20.740 align:middle line:84%
+where, let's say, your arrow is
+not additively separable leads
+
+00:50:20.740 --> 00:50:23.570 align:middle line:84%
+you to a specification like this
+where your random coefficient is
+
+00:50:23.570 --> 00:50:28.060 align:middle line:84%
+essentially J specific because
+you're multiplying either alpha
+
+00:50:28.060 --> 00:50:32.040 align:middle line:84%
+or beta with this
+unobserved term.
+
+00:50:32.040 --> 00:50:34.976 align:middle line:90%
+
+
+00:50:34.976 --> 00:50:39.832 align:middle line:84%
+So I think you would
+probably need--
+
+00:50:39.832 --> 00:50:41.790 align:middle line:84%
+I would have to think
+about, you would probably
+
+00:50:41.790 --> 00:50:45.360 align:middle line:84%
+need some, again,
+variation over time
+
+00:50:45.360 --> 00:50:48.690 align:middle line:84%
+to estimate such a model
+because you would supposedly
+
+00:50:48.690 --> 00:50:53.970 align:middle line:84%
+want to see how does the
+same consumer vary attributes
+
+00:50:53.970 --> 00:50:55.150 align:middle line:90%
+across different products.
+
+00:50:55.150 --> 00:51:00.379 align:middle line:84%
+And you might need microdata for
+that, but I'm not exactly sure.
+
+00:51:00.379 --> 00:51:01.212 align:middle line:90%
+AUDIENCE: Thank you.
+
+00:51:01.212 --> 00:51:04.830 align:middle line:90%
+
+
+00:51:04.830 --> 00:51:07.420 align:middle line:84%
+PROFESSOR: OK, any
+other questions?
+
+00:51:07.420 --> 00:51:16.626 align:middle line:90%
+
+
+00:51:16.626 --> 00:51:22.710 align:middle line:84%
+So let me briefly
+talk about his table
+
+00:51:22.710 --> 00:51:28.118 align:middle line:84%
+where he estimates, again, as
+a logit model, as I explained
+
+00:51:28.118 --> 00:51:29.410 align:middle line:90%
+before, and that's a good idea.
+
+00:51:29.410 --> 00:51:31.800 align:middle line:84%
+And he has a lot of
+different specifications.
+
+00:51:31.800 --> 00:51:36.040 align:middle line:84%
+The first three here are
+without any use of instruments.
+
+00:51:36.040 --> 00:51:39.100 align:middle line:84%
+These are all instrumental
+variable specifications.
+
+00:51:39.100 --> 00:51:42.190 align:middle line:84%
+And I think these two
+here are including
+
+00:51:42.190 --> 00:51:44.500 align:middle line:84%
+fixed effects as controls--
+so product fixed effects,
+
+00:51:44.500 --> 00:51:46.540 align:middle line:90%
+whereas the first one does not.
+
+00:51:46.540 --> 00:51:48.400 align:middle line:84%
+So what you can see
+is with fixed effects,
+
+00:51:48.400 --> 00:51:50.920 align:middle line:84%
+you explain a lot
+more of the variation.
+
+00:51:50.920 --> 00:51:54.490 align:middle line:84%
+And the price coefficients
+get more negative.
+
+00:51:54.490 --> 00:51:58.270 align:middle line:84%
+And even more so when you
+include consumer demographics.
+
+00:51:58.270 --> 00:52:02.800 align:middle line:84%
+So this here is an
+interesting instrumental
+
+00:52:02.800 --> 00:52:06.370 align:middle line:84%
+variable specification
+that some of you
+
+00:52:06.370 --> 00:52:09.140 align:middle line:84%
+pick this up what
+this is doing--
+
+00:52:09.140 --> 00:52:13.110 align:middle line:84%
+the inclusion of brand
+dummies as instruments.
+
+00:52:13.110 --> 00:52:17.058 align:middle line:90%
+What is this close to in spirit?
+
+00:52:17.058 --> 00:52:17.993 align:middle line:90%
+AUDIENCE: BLP.
+
+00:52:17.993 --> 00:52:19.410 align:middle line:84%
+PROFESSOR: BLP
+instruments, right?
+
+00:52:19.410 --> 00:52:22.170 align:middle line:90%
+
+
+00:52:22.170 --> 00:52:27.420 align:middle line:84%
+Could you think of a story
+where this is preferable to,
+
+00:52:27.420 --> 00:52:30.650 align:middle line:84%
+let's say, the simple
+BLP instruments?
+
+00:52:30.650 --> 00:52:32.750 align:middle line:84%
+Or why would you
+want to do this?
+
+00:52:32.750 --> 00:52:34.030 align:middle line:90%
+OK, so--
+
+00:52:34.030 --> 00:52:38.390 align:middle line:84%
+AUDIENCE: Is this what's
+captured on, like, advertising
+
+00:52:38.390 --> 00:52:40.460 align:middle line:90%
+effects with a brand?
+
+00:52:40.460 --> 00:52:43.340 align:middle line:90%
+PROFESSOR: Exactly.
+
+00:52:43.340 --> 00:52:46.040 align:middle line:84%
+OK, so let me answer
+this in two ways.
+
+00:52:46.040 --> 00:52:48.920 align:middle line:84%
+This is exactly
+right to the extent
+
+00:52:48.920 --> 00:52:51.740 align:middle line:84%
+that advertising is not captured
+in the utility specification,
+
+00:52:51.740 --> 00:52:53.910 align:middle line:90%
+which it isn't here.
+
+00:52:53.910 --> 00:52:59.450 align:middle line:84%
+You may be worried that
+the BLP instruments are--
+
+00:52:59.450 --> 00:53:01.550 align:middle line:84%
+they're picking up that
+I'm responding to the fact
+
+00:53:01.550 --> 00:53:06.080 align:middle line:84%
+that the average sugar that's
+in my competitor's brands
+
+00:53:06.080 --> 00:53:08.900 align:middle line:84%
+is very high-- that I'm
+responding to that in some form,
+
+00:53:08.900 --> 00:53:11.450 align:middle line:90%
+or the mushiness.
+
+00:53:11.450 --> 00:53:16.430 align:middle line:84%
+But it might be that I offer
+the Donkey Kong cereals,
+
+00:53:16.430 --> 00:53:20.940 align:middle line:84%
+and my competitor offers the
+Donkey Kong Junior cereals.
+
+00:53:20.940 --> 00:53:24.870 align:middle line:84%
+And advertising,
+kids see the ads.
+
+00:53:24.870 --> 00:53:26.870 align:middle line:84%
+And, of course,
+in all the markets
+
+00:53:26.870 --> 00:53:29.510 align:middle line:84%
+where I'm competing
+with Donkey Kong Junior,
+
+00:53:29.510 --> 00:53:31.350 align:middle line:90%
+I have to compete much harder.
+
+00:53:31.350 --> 00:53:33.320 align:middle line:84%
+And those brand dummies
+would pick that up.
+
+00:53:33.320 --> 00:53:39.240 align:middle line:84%
+So they capture not just the
+way that firms are responding
+
+00:53:39.240 --> 00:53:41.340 align:middle line:90%
+to observed product attributes.
+
+00:53:41.340 --> 00:53:44.070 align:middle line:84%
+They could potentially
+also capture other things
+
+00:53:44.070 --> 00:53:46.450 align:middle line:84%
+that the researcher does
+not directly observe.
+
+00:53:46.450 --> 00:53:49.870 align:middle line:90%
+So that can be useful.
+
+00:53:49.870 --> 00:53:53.560 align:middle line:84%
+But of course, you cannot
+include those and also directly
+
+00:53:53.560 --> 00:53:54.650 align:middle line:90%
+control for them.
+
+00:53:54.650 --> 00:53:57.310 align:middle line:84%
+So that's why he
+uses here, these
+
+00:53:57.310 --> 00:53:59.630 align:middle line:84%
+are indicating the
+Hausman instruments.
+
+00:53:59.630 --> 00:54:02.170 align:middle line:84%
+So average prices
+in other markets,
+
+00:54:02.170 --> 00:54:04.190 align:middle line:84%
+as well as these cost
+side instruments.
+
+00:54:04.190 --> 00:54:06.820 align:middle line:84%
+And so if you look at
+these specifications here,
+
+00:54:06.820 --> 00:54:08.790 align:middle line:84%
+you get even more negative
+price coefficient.
+
+00:54:08.790 --> 00:54:11.140 align:middle line:84%
+I think starting
+somewhere here, he
+
+00:54:11.140 --> 00:54:14.200 align:middle line:84%
+finds no longer that
+there are any elasticities
+
+00:54:14.200 --> 00:54:17.471 align:middle line:84%
+on the inelastic
+portion of demand.
+
+00:54:17.471 --> 00:54:20.840 align:middle line:84%
+So I think, again, this
+is something useful.
+
+00:54:20.840 --> 00:54:25.240 align:middle line:84%
+It gives the reader a sense of
+what is driving your estimates,
+
+00:54:25.240 --> 00:54:28.270 align:middle line:84%
+and it gives you a sense of
+what is driving your estimates.
+
+00:54:28.270 --> 00:54:34.560 align:middle line:84%
+And that's producing these
+tables can be very useful.
+
+00:54:34.560 --> 00:54:38.240 align:middle line:90%
+
+
+00:54:38.240 --> 00:54:43.440 align:middle line:84%
+So let me say something
+briefly about domains table
+
+00:54:43.440 --> 00:54:46.290 align:middle line:90%
+of the main specification.
+
+00:54:46.290 --> 00:54:49.530 align:middle line:84%
+Now, these are the estimates
+from the BLP model,
+
+00:54:49.530 --> 00:54:52.320 align:middle line:90%
+what he calls the full model.
+
+00:54:52.320 --> 00:54:56.370 align:middle line:84%
+So here is a similar
+observation as before.
+
+00:54:56.370 --> 00:54:59.340 align:middle line:84%
+Somebody was disappointed that
+people didn't like mushiness
+
+00:54:59.340 --> 00:55:00.930 align:middle line:90%
+on average.
+
+00:55:00.930 --> 00:55:02.850 align:middle line:84%
+I was also a bit
+disappointed by that
+
+00:55:02.850 --> 00:55:04.650 align:middle line:84%
+because I also
+like mushy cereals,
+
+00:55:04.650 --> 00:55:08.860 align:middle line:84%
+but it seems like the top 15%
+in the distribution of that.
+
+00:55:08.860 --> 00:55:12.870 align:middle line:84%
+So that's actually somewhat
+interesting story here
+
+00:55:12.870 --> 00:55:15.460 align:middle line:84%
+that he had to
+actually measure that.
+
+00:55:15.460 --> 00:55:18.600 align:middle line:84%
+And it was one of his
+classmates, Sandy Black,
+
+00:55:18.600 --> 00:55:24.600 align:middle line:84%
+who suggested including
+this as a characteristic.
+
+00:55:24.600 --> 00:55:29.340 align:middle line:84%
+But again, the point here--
+the point that is important--
+
+00:55:29.340 --> 00:55:34.050 align:middle line:84%
+is that you see here the
+demographic effects on this
+
+00:55:34.050 --> 00:55:35.020 align:middle line:90%
+are large.
+
+00:55:35.020 --> 00:55:38.220 align:middle line:84%
+And depending in which
+demographic you are,
+
+00:55:38.220 --> 00:55:39.870 align:middle line:90%
+you actually value--
+
+00:55:39.870 --> 00:55:42.510 align:middle line:84%
+the sign on this
+attribute flips.
+
+00:55:42.510 --> 00:55:50.840 align:middle line:84%
+And again, shows that people
+can value different attributes
+
+00:55:50.840 --> 00:55:51.710 align:middle line:90%
+differently.
+
+00:55:51.710 --> 00:55:55.460 align:middle line:84%
+The one substantive point
+that I want to make here
+
+00:55:55.460 --> 00:56:00.570 align:middle line:84%
+is that if you look at what
+drives the random coefficients,
+
+00:56:00.570 --> 00:56:04.380 align:middle line:84%
+you see that many of the
+demographic interaction effects
+
+00:56:04.380 --> 00:56:07.690 align:middle line:90%
+are significant.
+
+00:56:07.690 --> 00:56:10.730 align:middle line:84%
+But many of the standard
+deviations which capture this
+
+00:56:10.730 --> 00:56:15.590 align:middle line:84%
+unobserved term in the
+random coefficient-- which,
+
+00:56:15.590 --> 00:56:18.440 align:middle line:84%
+in the BLP random coefficients,
+that was the only source that
+
+00:56:18.440 --> 00:56:19.770 align:middle line:90%
+led to variation--
+
+00:56:19.770 --> 00:56:22.740 align:middle line:90%
+are insignificant.
+
+00:56:22.740 --> 00:56:27.960 align:middle line:84%
+And so this suggests that
+much of this variation,
+
+00:56:27.960 --> 00:56:31.080 align:middle line:84%
+which was completely
+unobserved variation in BLP,
+
+00:56:31.080 --> 00:56:35.280 align:middle line:84%
+is, in fact, in this market,
+driven by demographics.
+
+00:56:35.280 --> 00:56:37.170 align:middle line:84%
+Now, I'll let you be
+the judge whether you
+
+00:56:37.170 --> 00:56:40.260 align:middle line:84%
+find these interaction
+effects convincing.
+
+00:56:40.260 --> 00:56:45.480 align:middle line:84%
+It seems like higher income
+people like mushy cereals more.
+
+00:56:45.480 --> 00:56:47.770 align:middle line:84%
+I don't have very
+strong priors on that.
+
+00:56:47.770 --> 00:56:52.840 align:middle line:90%
+
+
+00:56:52.840 --> 00:56:59.530 align:middle line:84%
+So what does he get out of
+this at the end of the day?
+
+00:56:59.530 --> 00:57:05.500 align:middle line:84%
+So let's focus here on his
+preferred BLP specification.
+
+00:57:05.500 --> 00:57:08.920 align:middle line:84%
+So to remind you, the
+exercise that he engages in
+
+00:57:08.920 --> 00:57:14.830 align:middle line:84%
+is I see some mark ups in
+accounting data from the census
+
+00:57:14.830 --> 00:57:16.245 align:middle line:90%
+of manufacturing.
+
+00:57:16.245 --> 00:57:19.180 align:middle line:84%
+And for a second, let's say
+these are the true markups
+
+00:57:19.180 --> 00:57:21.250 align:middle line:84%
+and they do not have
+the kinds of issues
+
+00:57:21.250 --> 00:57:25.570 align:middle line:84%
+that we talked about
+last week that they
+
+00:57:25.570 --> 00:57:29.500 align:middle line:84%
+don't account for things like
+opportunity cost and so on.
+
+00:57:29.500 --> 00:57:32.740 align:middle line:84%
+So these are not necessarily
+the correct economic costs
+
+00:57:32.740 --> 00:57:35.560 align:middle line:84%
+that are measured in
+this accounting data.
+
+00:57:35.560 --> 00:57:38.450 align:middle line:84%
+But let's say for a moment
+these are the true markups.
+
+00:57:38.450 --> 00:57:42.850 align:middle line:84%
+So the idea is I
+estimate my demand model,
+
+00:57:42.850 --> 00:57:44.290 align:middle line:84%
+use different
+conduct assumptions,
+
+00:57:44.290 --> 00:57:47.830 align:middle line:84%
+and then see which conduct
+assumption replicates
+
+00:57:47.830 --> 00:57:49.720 align:middle line:90%
+the true markups in the data.
+
+00:57:49.720 --> 00:57:53.670 align:middle line:84%
+That's the essence
+of this exercise.
+
+00:57:53.670 --> 00:57:57.820 align:middle line:84%
+And so what he finds, so he has
+this range of markup estimates
+
+00:57:57.820 --> 00:58:00.220 align:middle line:84%
+depending on whether or
+not you include advertising
+
+00:58:00.220 --> 00:58:05.090 align:middle line:84%
+in marginal cost, which
+ranges from 31% to 46%,
+
+00:58:05.090 --> 00:58:10.930 align:middle line:84%
+he finds that you can soundly
+reject this collusive model
+
+00:58:10.930 --> 00:58:15.160 align:middle line:84%
+where, for the 25 brands that
+he includes in his estimation,
+
+00:58:15.160 --> 00:58:16.920 align:middle line:90%
+firms jointly maximize profits.
+
+00:58:16.920 --> 00:58:19.988 align:middle line:90%
+
+
+00:58:19.988 --> 00:58:23.810 align:middle line:84%
+And he cannot reject any
+of the alternative models,
+
+00:58:23.810 --> 00:58:25.790 align:middle line:90%
+which is either firms--
+
+00:58:25.790 --> 00:58:29.870 align:middle line:84%
+or that each brand
+competes separately.
+
+00:58:29.870 --> 00:58:32.480 align:middle line:84%
+Prices are set at
+the brand level
+
+00:58:32.480 --> 00:58:39.330 align:middle line:84%
+without internalizing these
+cannibalization effects as well
+
+00:58:39.330 --> 00:58:41.830 align:middle line:84%
+as the current ownership, where
+he uses the actual ownership
+
+00:58:41.830 --> 00:58:42.830 align:middle line:90%
+matrix that he observes.
+
+00:58:42.830 --> 00:58:46.710 align:middle line:90%
+
+
+00:58:46.710 --> 00:58:50.160 align:middle line:84%
+One interesting thing here
+is that with the logit model,
+
+00:58:50.160 --> 00:58:52.770 align:middle line:84%
+you get, in general,
+much, much lower markups.
+
+00:58:52.770 --> 00:58:55.780 align:middle line:84%
+And you would reach a
+very different conclusion.
+
+00:58:55.780 --> 00:58:58.990 align:middle line:84%
+You wouldn't reject
+the collusive model.
+
+00:58:58.990 --> 00:59:02.370 align:middle line:84%
+So this, again, shows you that
+for this substantive question,
+
+00:59:02.370 --> 00:59:05.040 align:middle line:84%
+which is, are firms in
+this market colluding?
+
+00:59:05.040 --> 00:59:09.600 align:middle line:84%
+It seems to be important to
+account for these more realistic
+
+00:59:09.600 --> 00:59:11.790 align:middle line:84%
+substitution patterns where
+different people value
+
+00:59:11.790 --> 00:59:13.240 align:middle line:90%
+product attributes differently.
+
+00:59:13.240 --> 00:59:21.220 align:middle line:90%
+
+
+00:59:21.220 --> 00:59:25.170 align:middle line:84%
+So I think this is a well
+written and explained paper.
+
+00:59:25.170 --> 00:59:28.980 align:middle line:84%
+In part, I asked you to
+read it because it provides
+
+00:59:28.980 --> 00:59:32.490 align:middle line:84%
+a good explanation
+of the BLP model
+
+00:59:32.490 --> 00:59:34.170 align:middle line:84%
+without many of the
+technical aspects
+
+00:59:34.170 --> 00:59:37.800 align:middle line:84%
+that we will discuss
+down the line,
+
+00:59:37.800 --> 00:59:45.530 align:middle line:84%
+and you know, in part, Aviv Nevo
+is also known in the profession
+
+00:59:45.530 --> 00:59:47.392 align:middle line:84%
+because he has written
+this practitioner's
+
+00:59:47.392 --> 00:59:49.100 align:middle line:84%
+guide at the very
+beginning that actually
+
+00:59:49.100 --> 00:59:51.900 align:middle line:84%
+taught graduate students how
+to estimate these models.
+
+00:59:51.900 --> 00:59:57.170 align:middle line:84%
+And he put his code out there,
+so it was very useful for people
+
+00:59:57.170 --> 00:59:58.780 align:middle line:90%
+to understand what is going on.
+
+00:59:58.780 --> 01:00:01.430 align:middle line:90%
+
+
+01:00:01.430 --> 01:00:05.420 align:middle line:84%
+This is, in terms of thinking
+about picking an industry
+
+01:00:05.420 --> 01:00:07.850 align:middle line:84%
+and the right model for
+this industry, what I really
+
+01:00:07.850 --> 01:00:12.050 align:middle line:84%
+like about the paper is it
+would be a bit crazy to estimate
+
+01:00:12.050 --> 01:00:14.030 align:middle line:84%
+a model for this industry
+without accounting
+
+01:00:14.030 --> 01:00:16.220 align:middle line:84%
+for these multi-product
+considerations.
+
+01:00:16.220 --> 01:00:21.830 align:middle line:84%
+At least as a prior, you'd think
+that it would matter a lot.
+
+01:00:21.830 --> 01:00:23.870 align:middle line:84%
+You have four large
+firms that account
+
+01:00:23.870 --> 01:00:25.820 align:middle line:84%
+for almost the entire
+market, and, there are
+
+01:00:25.820 --> 01:00:27.920 align:middle line:90%
+hundreds of different products.
+
+01:00:27.920 --> 01:00:33.260 align:middle line:84%
+So you have to do
+something about that.
+
+01:00:33.260 --> 01:00:37.670 align:middle line:84%
+Collusion is, obviously, one
+of the important topics in IO.
+
+01:00:37.670 --> 01:00:41.240 align:middle line:84%
+So it might not speak to
+your preferred industry,
+
+01:00:41.240 --> 01:00:44.570 align:middle line:84%
+but it speaks to a
+substantive economic question.
+
+01:00:44.570 --> 01:00:47.030 align:middle line:84%
+You could bicker that
+advertising is not
+
+01:00:47.030 --> 01:00:48.030 align:middle line:90%
+a strategic variable.
+
+01:00:48.030 --> 01:00:50.390 align:middle line:84%
+We know, actually, from
+the paper that advertising
+
+01:00:50.390 --> 01:00:52.760 align:middle line:84%
+is very important
+in this market,
+
+01:00:52.760 --> 01:00:55.050 align:middle line:84%
+and I imagine it's
+particularly important
+
+01:00:55.050 --> 01:00:56.300 align:middle line:90%
+when you introduce new brands.
+
+01:00:56.300 --> 01:00:58.550 align:middle line:84%
+You want to make
+them known to kids
+
+01:00:58.550 --> 01:01:01.640 align:middle line:90%
+that there's a new Donkey Kong--
+
+01:01:01.640 --> 01:01:03.170 align:middle line:90%
+the new Donkey Kong cereal.
+
+01:01:03.170 --> 01:01:10.200 align:middle line:84%
+So I guess another potential
+criticism is would firms
+
+01:01:10.200 --> 01:01:13.740 align:middle line:84%
+actually be able to implement
+this, from their point,
+
+01:01:13.740 --> 01:01:16.170 align:middle line:84%
+first best solution
+of full collusion
+
+01:01:16.170 --> 01:01:18.360 align:middle line:84%
+across all the
+different products?
+
+01:01:18.360 --> 01:01:21.368 align:middle line:84%
+And so is that the
+right comparison point?
+
+01:01:21.368 --> 01:01:23.410 align:middle line:84%
+And then, as I already
+said, the testing approach
+
+01:01:23.410 --> 01:01:26.000 align:middle line:84%
+is predicated on observing
+the right accounting cost.
+
+01:01:26.000 --> 01:01:28.810 align:middle line:90%
+And that's not something that--
+
+01:01:28.810 --> 01:01:31.360 align:middle line:84%
+you know, once you use
+that as a benchmark,
+
+01:01:31.360 --> 01:01:34.700 align:middle line:84%
+you can obviously no longer
+say anything about that.
+
+01:01:34.700 --> 01:01:38.180 align:middle line:90%
+
+
+01:01:38.180 --> 01:01:40.770 align:middle line:90%
+Any other comments on the paper?
+
+01:01:40.770 --> 01:01:41.280 align:middle line:90%
+Yeah?
+
+01:01:41.280 --> 01:01:42.905 align:middle line:84%
+AUDIENCE: So in some
+part of the paper,
+
+01:01:42.905 --> 01:01:46.950 align:middle line:84%
+he argues that one shortcoming
+of the BLP literature
+
+01:01:46.950 --> 01:01:51.750 align:middle line:84%
+is that you take observed
+product characteristics as given
+
+01:01:51.750 --> 01:01:54.570 align:middle line:84%
+or as exogenous, and then
+you should internalize those
+
+01:01:54.570 --> 01:01:58.590 align:middle line:84%
+because firms actually
+choose which characteristics
+
+01:01:58.590 --> 01:02:00.335 align:middle line:90%
+will [INAUDIBLE] target.
+
+01:02:00.335 --> 01:02:02.235 align:middle line:90%
+[INAUDIBLE]
+
+01:02:02.235 --> 01:02:03.660 align:middle line:90%
+
+
+01:02:03.660 --> 01:02:07.680 align:middle line:84%
+So in his model,
+is he implicitly
+
+01:02:07.680 --> 01:02:12.270 align:middle line:84%
+allowing for firms to choose
+certain product characteristics?
+
+01:02:12.270 --> 01:02:14.640 align:middle line:84%
+Because I don't think
+he's improving it.
+
+01:02:14.640 --> 01:02:17.850 align:middle line:84%
+PROFESSOR: No, he's
+not doing that.
+
+01:02:17.850 --> 01:02:19.530 align:middle line:84%
+The only endogenous
+characteristic
+
+01:02:19.530 --> 01:02:21.040 align:middle line:90%
+is price in this case.
+
+01:02:21.040 --> 01:02:23.520 align:middle line:84%
+And again, advertising would
+be a very good candidate
+
+01:02:23.520 --> 01:02:26.580 align:middle line:84%
+for that because that's
+something that we potentially
+
+01:02:26.580 --> 01:02:29.220 align:middle line:84%
+think varies from, let's
+say, quarter to quarter,
+
+01:02:29.220 --> 01:02:30.963 align:middle line:90%
+city to city.
+
+01:02:30.963 --> 01:02:34.680 align:middle line:84%
+And there are papers that
+look at advertising effects,
+
+01:02:34.680 --> 01:02:39.100 align:middle line:84%
+and do use advertising as
+an endogenous variable.
+
+01:02:39.100 --> 01:02:40.750 align:middle line:84%
+Then, of course,
+you have to think
+
+01:02:40.750 --> 01:02:42.610 align:middle line:90%
+about additional instruments.
+
+01:02:42.610 --> 01:02:47.460 align:middle line:90%
+
+
+01:02:47.460 --> 01:02:51.310 align:middle line:84%
+But yeah, that's not something
+that he tackles in this paper.
+
+01:02:51.310 --> 01:02:56.960 align:middle line:90%
+
+
+01:02:56.960 --> 01:03:03.690 align:middle line:84%
+So let me use the last 20
+minutes to talk about something
+
+01:03:03.690 --> 01:03:04.190 align:middle line:90%
+that--
+
+01:03:04.190 --> 01:03:09.080 align:middle line:84%
+we're staying in this industry,
+but moving to a new topic.
+
+01:03:09.080 --> 01:03:12.410 align:middle line:84%
+Which it's a fairly
+recent debate that
+
+01:03:12.410 --> 01:03:16.200 align:middle line:84%
+came up in IO, which is called
+the common ownership hypothesis.
+
+01:03:16.200 --> 01:03:20.840 align:middle line:84%
+It's something that's fairly
+controversial and hotly debated
+
+01:03:20.840 --> 01:03:27.320 align:middle line:84%
+with strong proponents on
+either side of the argument.
+
+01:03:27.320 --> 01:03:29.540 align:middle line:90%
+So what's the idea?
+
+01:03:29.540 --> 01:03:32.630 align:middle line:84%
+The idea is that we
+have seen this big trend
+
+01:03:32.630 --> 01:03:35.900 align:middle line:84%
+towards diversified
+investments where people
+
+01:03:35.900 --> 01:03:39.800 align:middle line:84%
+hold large portfolios of
+the entire, let's say, S&P
+
+01:03:39.800 --> 01:03:43.920 align:middle line:90%
+500, or stock indices.
+
+01:03:43.920 --> 01:03:46.380 align:middle line:84%
+And typically,
+they purchase those
+
+01:03:46.380 --> 01:03:48.870 align:middle line:84%
+through large institutional
+investors like Vanguard,
+
+01:03:48.870 --> 01:03:51.690 align:middle line:90%
+BlackRock, and Fidelity.
+
+01:03:51.690 --> 01:03:55.770 align:middle line:84%
+And so a lot of people
+use those to save
+
+01:03:55.770 --> 01:03:59.300 align:middle line:90%
+for retirement and so on.
+
+01:03:59.300 --> 01:04:04.885 align:middle line:84%
+And the idea is that these
+owners, they might hold--
+
+01:04:04.885 --> 01:04:06.260 align:middle line:84%
+or these institutional
+investors,
+
+01:04:06.260 --> 01:04:08.240 align:middle line:84%
+they might hold
+significant shares
+
+01:04:08.240 --> 01:04:10.160 align:middle line:84%
+in a number of
+different companies
+
+01:04:10.160 --> 01:04:13.170 align:middle line:84%
+that are actually
+competing with each other.
+
+01:04:13.170 --> 01:04:16.650 align:middle line:84%
+So here is an example of
+the US airline market.
+
+01:04:16.650 --> 01:04:20.340 align:middle line:84%
+You have American Airlines,
+Delta, Southwest and United,
+
+01:04:20.340 --> 01:04:22.260 align:middle line:90%
+the major airlines.
+
+01:04:22.260 --> 01:04:24.450 align:middle line:84%
+And you look, who are
+the biggest shareholders
+
+01:04:24.450 --> 01:04:27.610 align:middle line:90%
+of these companies?
+
+01:04:27.610 --> 01:04:30.450 align:middle line:84%
+Vanguard holds 6% of
+American Airlines.
+
+01:04:30.450 --> 01:04:32.370 align:middle line:90%
+It holds 6% of Delta Airlines.
+
+01:04:32.370 --> 01:04:38.070 align:middle line:84%
+It holds 6% of Southwest,
+and 7% of United Airlines.
+
+01:04:38.070 --> 01:04:40.560 align:middle line:84%
+And so the idea here,
+this hypothesis,
+
+01:04:40.560 --> 01:04:45.900 align:middle line:84%
+is that if I'm holding stocks
+in a bunch of companies
+
+01:04:45.900 --> 01:04:49.500 align:middle line:84%
+that should be competing with
+each other, who says that.
+
+01:04:49.500 --> 01:04:51.440 align:middle line:84%
+I wouldn't be very
+interested in making
+
+01:04:51.440 --> 01:04:55.520 align:middle line:84%
+these companies compete a little
+less hard and raise my profits?
+
+01:04:55.520 --> 01:05:02.580 align:middle line:84%
+Moving the incentives closer
+to monopoly incentives.
+
+01:05:02.580 --> 01:05:05.820 align:middle line:84%
+So this is something
+that people had
+
+01:05:05.820 --> 01:05:08.640 align:middle line:84%
+thought about in literature
+at the intersection
+
+01:05:08.640 --> 01:05:10.170 align:middle line:90%
+of corporate finance and IO.
+
+01:05:10.170 --> 01:05:12.180 align:middle line:84%
+There are some theory
+papers that I'll
+
+01:05:12.180 --> 01:05:15.930 align:middle line:84%
+talk briefly about just to
+clarify what this hypothesis is
+
+01:05:15.930 --> 01:05:18.990 align:middle line:84%
+about, but it wasn't
+really until very recently
+
+01:05:18.990 --> 01:05:21.850 align:middle line:84%
+that this was-- that people
+paid a lot of attention to this.
+
+01:05:21.850 --> 01:05:24.840 align:middle line:84%
+And of course, in part, this
+attention is driven by the fact
+
+01:05:24.840 --> 01:05:28.380 align:middle line:84%
+that we have, now, these large
+diversified investments that
+
+01:05:28.380 --> 01:05:30.220 align:middle line:90%
+have been trending up.
+
+01:05:30.220 --> 01:05:34.870 align:middle line:84%
+So there was a series
+of papers in 2016, 2018,
+
+01:05:34.870 --> 01:05:37.050 align:middle line:84%
+now there are many
+more, that document
+
+01:05:37.050 --> 01:05:42.030 align:middle line:84%
+that the growth of large,
+diversified common owners
+
+01:05:42.030 --> 01:05:44.760 align:middle line:84%
+led to increase in prices
+in various industries,
+
+01:05:44.760 --> 01:05:48.510 align:middle line:84%
+for instance, for banking
+services or for airlines.
+
+01:05:48.510 --> 01:05:52.680 align:middle line:84%
+So these were
+actually people that--
+
+01:05:52.680 --> 01:05:54.840 align:middle line:84%
+this was first
+researched in finance.
+
+01:05:54.840 --> 01:05:58.500 align:middle line:84%
+And so it was a little
+bit awkward for IO people.
+
+01:05:58.500 --> 01:06:00.150 align:middle line:84%
+Could we have
+possibly missed this,
+
+01:06:00.150 --> 01:06:04.990 align:middle line:84%
+that this big structural force
+that led the whole economy
+
+01:06:04.990 --> 01:06:08.800 align:middle line:90%
+to become less competitive?
+
+01:06:08.800 --> 01:06:12.157 align:middle line:84%
+And do we really think
+that the price that we
+
+01:06:12.157 --> 01:06:13.990 align:middle line:84%
+pay for these cheap,
+diversified investments
+
+01:06:13.990 --> 01:06:16.360 align:middle line:84%
+is that monopoly
+power as a whole
+
+01:06:16.360 --> 01:06:20.560 align:middle line:90%
+has increased in the US economy?
+
+01:06:20.560 --> 01:06:23.420 align:middle line:84%
+So these papers
+suggest that it did.
+
+01:06:23.420 --> 01:06:27.868 align:middle line:84%
+Now, they use an approach which
+I think Glenn has talked about,
+
+01:06:27.868 --> 01:06:30.160 align:middle line:84%
+which is a structure conduct
+performance approach where
+
+01:06:30.160 --> 01:06:33.800 align:middle line:84%
+you essentially regress prices
+on measures of concentration.
+
+01:06:33.800 --> 01:06:38.950 align:middle line:84%
+And we know that this
+has well-known issues,
+
+01:06:38.950 --> 01:06:42.550 align:middle line:84%
+in part because these
+concentration measures are
+
+01:06:42.550 --> 01:06:46.350 align:middle line:84%
+themselves driven by quantities
+which are endogenous.
+
+01:06:46.350 --> 01:06:51.670 align:middle line:84%
+So today, we're going to
+talk about one paper that
+
+01:06:51.670 --> 01:06:53.950 align:middle line:84%
+tries to do this in
+a structural way,
+
+01:06:53.950 --> 01:06:56.440 align:middle line:84%
+and a companion paper
+to that that documents
+
+01:06:56.440 --> 01:07:00.400 align:middle line:84%
+a little bit to what extent this
+is an actual issue in the US
+
+01:07:00.400 --> 01:07:01.820 align:middle line:90%
+economy.
+
+01:07:01.820 --> 01:07:07.250 align:middle line:84%
+So just very briefly,
+what is this idea here?
+
+01:07:07.250 --> 01:07:09.860 align:middle line:84%
+Formally, the common
+ownership hypothesis,
+
+01:07:09.860 --> 01:07:13.190 align:middle line:84%
+according to this paper
+by Rotemberg-- and here,
+
+01:07:13.190 --> 01:07:16.430 align:middle line:84%
+I'm using the notation
+of O'Brien and Salop--
+
+01:07:16.430 --> 01:07:20.420 align:middle line:84%
+is the idea that we
+have an investor, S,
+
+01:07:20.420 --> 01:07:25.550 align:middle line:84%
+or different investors,
+that own a portfolio
+
+01:07:25.550 --> 01:07:28.592 align:middle line:84%
+of shares in
+different companies.
+
+01:07:28.592 --> 01:07:30.800 align:middle line:84%
+And according to the amount
+of shares that they hold,
+
+01:07:30.800 --> 01:07:33.350 align:middle line:84%
+they are entitled to some
+fraction of the profits of each
+
+01:07:33.350 --> 01:07:35.080 align:middle line:90%
+of the firms that they hold.
+
+01:07:35.080 --> 01:07:38.360 align:middle line:90%
+
+
+01:07:38.360 --> 01:07:45.870 align:middle line:84%
+And you have firms
+that, in this model,
+
+01:07:45.870 --> 01:07:49.220 align:middle line:84%
+maximizing the value
+of the shareholders.
+
+01:07:49.220 --> 01:07:52.150 align:middle line:90%
+So how do they do that?
+
+01:07:52.150 --> 01:07:54.045 align:middle line:84%
+By virtue of having
+different portfolios,
+
+01:07:54.045 --> 01:07:55.420 align:middle line:84%
+different shareholders
+might have
+
+01:07:55.420 --> 01:07:56.628 align:middle line:90%
+slightly different interests.
+
+01:07:56.628 --> 01:07:58.600 align:middle line:84%
+Their interests might
+not be fully aligned.
+
+01:07:58.600 --> 01:08:00.790 align:middle line:84%
+So in this model, the
+way this is handled
+
+01:08:00.790 --> 01:08:04.193 align:middle line:84%
+is that we're saying the firm
+places different weights on what
+
+01:08:04.193 --> 01:08:05.360 align:middle line:90%
+different shareholders want.
+
+01:08:05.360 --> 01:08:07.540 align:middle line:90%
+So these are pareto weights.
+
+01:08:07.540 --> 01:08:11.110 align:middle line:84%
+So you can write the
+firm's objective function,
+
+01:08:11.110 --> 01:08:12.850 align:middle line:84%
+which is a function
+of its own prices
+
+01:08:12.850 --> 01:08:18.692 align:middle line:84%
+and other prices in the market,
+as a weighted sum over what
+
+01:08:18.692 --> 01:08:20.025 align:middle line:90%
+its different shareholders want.
+
+01:08:20.025 --> 01:08:23.330 align:middle line:90%
+
+
+01:08:23.330 --> 01:08:29.830 align:middle line:84%
+Now, if you plug this in here
+using this formula from above,
+
+01:08:29.830 --> 01:08:35.380 align:middle line:84%
+the shareholder objective
+function, the portfolio,
+
+01:08:35.380 --> 01:08:38.590 align:middle line:84%
+you find that you're
+suddenly in a situation
+
+01:08:38.590 --> 01:08:42.040 align:middle line:84%
+where this firm,
+F, might be caring
+
+01:08:42.040 --> 01:08:46.000 align:middle line:84%
+about the profits of some
+firm, G, in the market
+
+01:08:46.000 --> 01:08:48.800 align:middle line:84%
+through the incentives
+of its shareholders.
+
+01:08:48.800 --> 01:08:51.670 align:middle line:90%
+
+
+01:08:51.670 --> 01:08:53.330 align:middle line:90%
+So these are the pareto weights.
+
+01:08:53.330 --> 01:08:58.500 align:middle line:84%
+These are these cash flow
+shares that the investor, S,
+
+01:08:58.500 --> 01:09:03.270 align:middle line:90%
+is entitled to terms of firm G.
+
+01:09:03.270 --> 01:09:05.240 align:middle line:90%
+So you can rewrite this.
+
+01:09:05.240 --> 01:09:11.660 align:middle line:84%
+You can do some algebra and
+normalize the share of firm F
+
+01:09:11.660 --> 01:09:14.300 align:middle line:84%
+to 1, and can write
+the objective function
+
+01:09:14.300 --> 01:09:19.910 align:middle line:84%
+of firm F as its own
+profits plus a weighted sum
+
+01:09:19.910 --> 01:09:23.675 align:middle line:90%
+of other firms in the market.
+
+01:09:23.675 --> 01:09:27.260 align:middle line:90%
+
+
+01:09:27.260 --> 01:09:30.109 align:middle line:84%
+And so we call these
+profit weights here kappa.
+
+01:09:30.109 --> 01:09:34.970 align:middle line:84%
+They're a function of these
+pareto weights and these betas.
+
+01:09:34.970 --> 01:09:37.100 align:middle line:84%
+So just to link
+this back to what
+
+01:09:37.100 --> 01:09:40.450 align:middle line:84%
+I discussed at the very
+beginning of class today,
+
+01:09:40.450 --> 01:09:44.770 align:middle line:84%
+this should remind
+you of something
+
+01:09:44.770 --> 01:09:46.840 align:middle line:84%
+that we have seen
+on the first slide.
+
+01:09:46.840 --> 01:09:49.390 align:middle line:84%
+So here, we have a
+firm that's maximizing
+
+01:09:49.390 --> 01:09:52.779 align:middle line:84%
+its own profits plus some
+weighted sum of other firm's
+
+01:09:52.779 --> 01:09:54.200 align:middle line:90%
+profits.
+
+01:09:54.200 --> 01:09:58.040 align:middle line:84%
+This is very similar to this
+idea of a multi-product firm
+
+01:09:58.040 --> 01:10:03.110 align:middle line:84%
+that owns different brands, and
+will take into account that if I
+
+01:10:03.110 --> 01:10:04.850 align:middle line:84%
+lower my price on
+one of my brands,
+
+01:10:04.850 --> 01:10:06.290 align:middle line:84%
+that might potentially
+cannibalize
+
+01:10:06.290 --> 01:10:14.110 align:middle line:84%
+one of my other brands and
+divert some market share.
+
+01:10:14.110 --> 01:10:22.110 align:middle line:84%
+So here, you get a very similar
+first order condition for firm J
+
+01:10:22.110 --> 01:10:26.340 align:middle line:84%
+that places these profit
+rates that come, again,
+
+01:10:26.340 --> 01:10:32.430 align:middle line:84%
+through that are a function
+of the shareholder holdings
+
+01:10:32.430 --> 01:10:36.450 align:middle line:90%
+on other firms' profits.
+
+01:10:36.450 --> 01:10:40.130 align:middle line:84%
+So I hope this
+connection is clear.
+
+01:10:40.130 --> 01:10:42.860 align:middle line:90%
+
+
+01:10:42.860 --> 01:10:48.350 align:middle line:84%
+So what can we actually say
+about those profit weights?
+
+01:10:48.350 --> 01:10:52.940 align:middle line:84%
+So this is what this companion
+paper by Backus, Conlon,
+
+01:10:52.940 --> 01:10:54.530 align:middle line:90%
+and Sinkinson does.
+
+01:10:54.530 --> 01:10:56.210 align:middle line:84%
+The first document,
+is it, indeed,
+
+01:10:56.210 --> 01:11:00.290 align:middle line:84%
+true that, just as a pure
+matter of accounting,
+
+01:11:00.290 --> 01:11:03.230 align:middle line:84%
+that firms are placing,
+or have these incentives
+
+01:11:03.230 --> 01:11:08.750 align:middle line:84%
+to place more weight on what
+their competitors are doing,
+
+01:11:08.750 --> 01:11:12.526 align:middle line:84%
+or any other random
+firm in the market?
+
+01:11:12.526 --> 01:11:16.700 align:middle line:84%
+So first, if you look at
+the time series of what
+
+01:11:16.700 --> 01:11:18.883 align:middle line:84%
+fraction of the typical
+firm is actually
+
+01:11:18.883 --> 01:11:21.050 align:middle line:84%
+held by one of these large
+institutional investors--
+
+01:11:21.050 --> 01:11:23.360 align:middle line:84%
+BlackRock, Vanguard,
+and State Street--
+
+01:11:23.360 --> 01:11:28.364 align:middle line:84%
+we find that this did,
+indeed, go up a lot.
+
+01:11:28.364 --> 01:11:32.642 align:middle line:84%
+And, I mean, this is
+actually not just--
+
+01:11:32.642 --> 01:11:34.350 align:middle line:84%
+this trend towards
+diversified investment
+
+01:11:34.350 --> 01:11:36.880 align:middle line:84%
+is not just driven by these
+institutional investors.
+
+01:11:36.880 --> 01:11:40.590 align:middle line:84%
+This was another result in the
+paper was already going on even
+
+01:11:40.590 --> 01:11:41.930 align:middle line:90%
+before that.
+
+01:11:41.930 --> 01:11:45.930 align:middle line:84%
+So they use some
+data from SEC filings
+
+01:11:45.930 --> 01:11:52.490 align:middle line:84%
+that large investment managers
+have to submit to document this.
+
+01:11:52.490 --> 01:11:55.310 align:middle line:84%
+So then, they compute
+these profit weights
+
+01:11:55.310 --> 01:11:59.900 align:middle line:84%
+that I've just shown you that
+you can derive from the firm's
+
+01:11:59.900 --> 01:12:01.880 align:middle line:84%
+profit maximization
+problem, taking
+
+01:12:01.880 --> 01:12:05.075 align:middle line:84%
+into account the incentives
+of the shareholders.
+
+01:12:05.075 --> 01:12:07.057 align:middle line:84%
+So the one issue that
+they have here is they
+
+01:12:07.057 --> 01:12:08.640 align:middle line:84%
+don't actually see
+this pareto weight.
+
+01:12:08.640 --> 01:12:11.057 align:middle line:84%
+So they make some assumption
+that these pareto weights are
+
+01:12:11.057 --> 01:12:14.860 align:middle line:84%
+a function of these
+shareholder weights beta,
+
+01:12:14.860 --> 01:12:19.400 align:middle line:84%
+and so they show how
+this time series look
+
+01:12:19.400 --> 01:12:22.410 align:middle line:90%
+for different functional forms.
+
+01:12:22.410 --> 01:12:23.930 align:middle line:90%
+But the general message is--
+
+01:12:23.930 --> 01:12:25.910 align:middle line:84%
+and you can also break
+this down by industry--
+
+01:12:25.910 --> 01:12:29.810 align:middle line:84%
+that if you take
+a firm in the US,
+
+01:12:29.810 --> 01:12:32.450 align:middle line:84%
+it's a publicly traded
+firm in the US economy,
+
+01:12:32.450 --> 01:12:35.330 align:middle line:84%
+and ask how much weight does
+that firm place on the profits
+
+01:12:35.330 --> 01:12:38.660 align:middle line:84%
+according to these
+diversified investments
+
+01:12:38.660 --> 01:12:41.470 align:middle line:84%
+on any other random firm, that
+this has gone up over time.
+
+01:12:41.470 --> 01:12:45.162 align:middle line:90%
+
+
+01:12:45.162 --> 01:12:49.160 align:middle line:84%
+So this suggests that in
+principle, these kinds
+
+01:12:49.160 --> 01:12:52.330 align:middle line:90%
+of incentives could be at play.
+
+01:12:52.330 --> 01:12:56.050 align:middle line:90%
+
+
+01:12:56.050 --> 01:12:57.165 align:middle line:90%
+Any questions here?
+
+01:12:57.165 --> 01:12:59.653 align:middle line:90%
+
+
+01:12:59.653 --> 01:13:02.320 align:middle line:84%
+AUDIENCE: Is there any sense of
+how sensitive these measurements
+
+01:13:02.320 --> 01:13:03.403 align:middle line:90%
+are to the pareto weights?
+
+01:13:03.403 --> 01:13:06.940 align:middle line:84%
+Like were there different
+specifications tested,
+
+01:13:06.940 --> 01:13:08.140 align:middle line:90%
+or [INAUDIBLE]?
+
+01:13:08.140 --> 01:13:10.820 align:middle line:84%
+PROFESSOR: This trend is
+not very sensitive to that.
+
+01:13:10.820 --> 01:13:13.840 align:middle line:84%
+The levels are-- I mean, in
+the paper, they show you,
+
+01:13:13.840 --> 01:13:15.880 align:middle line:84%
+I think, three different
+types of weights.
+
+01:13:15.880 --> 01:13:19.360 align:middle line:84%
+But the general message is
+that this has been upwards
+
+01:13:19.360 --> 01:13:21.070 align:middle line:90%
+trending regardless of--
+
+01:13:21.070 --> 01:13:22.930 align:middle line:84%
+I mean, you can then,
+of course, argue,
+
+01:13:22.930 --> 01:13:26.800 align:middle line:84%
+is that an exhaustive search
+over the potential specification
+
+01:13:26.800 --> 01:13:27.598 align:middle line:90%
+that you could use?
+
+01:13:27.598 --> 01:13:28.098 align:middle line:90%
+Yeah.
+
+01:13:28.098 --> 01:13:34.740 align:middle line:90%
+
+
+01:13:34.740 --> 01:13:37.450 align:middle line:84%
+So coming back to
+the cereals market.
+
+01:13:37.450 --> 01:13:39.180 align:middle line:84%
+So again, what
+I've just shown you
+
+01:13:39.180 --> 01:13:43.320 align:middle line:84%
+is from this descriptive
+paper is that they document
+
+01:13:43.320 --> 01:13:49.757 align:middle line:84%
+that these incentives, the
+fact that firms may internalize
+
+01:13:49.757 --> 01:13:51.840 align:middle line:84%
+profits of other firms
+that they're competing with
+
+01:13:51.840 --> 01:13:54.990 align:middle line:84%
+could potentially be an issue
+based on the time series
+
+01:13:54.990 --> 01:13:58.800 align:middle line:84%
+that we observe because
+of this trend towards more
+
+01:13:58.800 --> 01:14:00.120 align:middle line:90%
+diversified investment.
+
+01:14:00.120 --> 01:14:03.660 align:middle line:84%
+If you look at the
+breakfast cereal
+
+01:14:03.660 --> 01:14:05.730 align:middle line:84%
+market and the different
+producers here,
+
+01:14:05.730 --> 01:14:11.880 align:middle line:84%
+you'll find that, indeed,
+BlackRock also, in 2016, held
+
+01:14:11.880 --> 01:14:17.670 align:middle line:84%
+a large share of General Mills,
+of Kellogg, of Quaker Oats,
+
+01:14:17.670 --> 01:14:21.960 align:middle line:84%
+and Post brands-- so
+all the big producers.
+
+01:14:21.960 --> 01:14:24.300 align:middle line:84%
+So in principle, this could
+be an issue in this market,
+
+01:14:24.300 --> 01:14:24.800 align:middle line:90%
+as well.
+
+01:14:24.800 --> 01:14:30.850 align:middle line:90%
+
+
+01:14:30.850 --> 01:14:32.780 align:middle line:84%
+OK, so what is it
+that they're doing?
+
+01:14:32.780 --> 01:14:35.080 align:middle line:84%
+So I'm going to be--
+you know, I'll give you
+
+01:14:35.080 --> 01:14:36.560 align:middle line:90%
+the main economic idea here.
+
+01:14:36.560 --> 01:14:41.680 align:middle line:84%
+This paper, big part
+of the contribution
+
+01:14:41.680 --> 01:14:46.240 align:middle line:84%
+is develop a new and efficient
+testing procedure for this
+
+01:14:46.240 --> 01:14:50.420 align:middle line:84%
+and allowing for
+flexible cost function.
+
+01:14:50.420 --> 01:14:53.260 align:middle line:84%
+So I'm not going to talk
+about the econometric details,
+
+01:14:53.260 --> 01:14:59.650 align:middle line:84%
+but this is very much in the
+same spirit as the other papers
+
+01:14:59.650 --> 01:15:01.030 align:middle line:90%
+that we have been discussing--
+
+01:15:01.030 --> 01:15:03.370 align:middle line:90%
+Nevo's paper on conduct testing.
+
+01:15:03.370 --> 01:15:09.730 align:middle line:84%
+So the idea is that with my
+demand model in hand and conduct
+
+01:15:09.730 --> 01:15:14.200 align:middle line:84%
+assumption, I can invert
+my first order conditions
+
+01:15:14.200 --> 01:15:17.170 align:middle line:84%
+as a function of the observed
+market shares, prices,
+
+01:15:17.170 --> 01:15:18.550 align:middle line:90%
+and the demand model.
+
+01:15:18.550 --> 01:15:20.740 align:middle line:84%
+Again, the demand
+model, of course,
+
+01:15:20.740 --> 01:15:23.500 align:middle line:84%
+has some demand parameters,
+and can back out
+
+01:15:23.500 --> 01:15:26.445 align:middle line:90%
+my effective marginal cost.
+
+01:15:26.445 --> 01:15:29.120 align:middle line:90%
+
+
+01:15:29.120 --> 01:15:34.700 align:middle line:84%
+At the same time, I may
+be willing to also assume
+
+01:15:34.700 --> 01:15:38.480 align:middle line:84%
+a functional form for the
+marginal cost directly.
+
+01:15:38.480 --> 01:15:42.590 align:middle line:84%
+Again, because I know that
+the cost of producing cereals
+
+01:15:42.590 --> 01:15:46.200 align:middle line:84%
+are driven by the cost of
+sugar, wheat, flour, and so on.
+
+01:15:46.200 --> 01:15:49.665 align:middle line:90%
+
+
+01:15:49.665 --> 01:15:56.670 align:middle line:84%
+So what they do is they
+basically specify this equation
+
+01:15:56.670 --> 01:16:01.830 align:middle line:84%
+here by allowing for a flexible
+supply function or marginal cost
+
+01:16:01.830 --> 01:16:02.680 align:middle line:90%
+function.
+
+01:16:02.680 --> 01:16:06.270 align:middle line:84%
+And based off this, get
+additional moment restrictions
+
+01:16:06.270 --> 01:16:09.360 align:middle line:84%
+that they use for the
+construction of a GMM objective
+
+01:16:09.360 --> 01:16:13.582 align:middle line:84%
+function under different
+conduct models, M.
+
+01:16:13.582 --> 01:16:15.290 align:middle line:84%
+And of course, in
+particular, the conduct
+
+01:16:15.290 --> 01:16:17.060 align:middle line:84%
+model that they
+are interested in
+
+01:16:17.060 --> 01:16:20.900 align:middle line:84%
+is the common
+ownership hypothesis.
+
+01:16:20.900 --> 01:16:23.870 align:middle line:84%
+And that is, again, very
+similar to this idea
+
+01:16:23.870 --> 01:16:27.590 align:middle line:84%
+that I might be
+internalizing the profits not
+
+01:16:27.590 --> 01:16:32.540 align:middle line:84%
+of other products that I
+hold, but of other firms
+
+01:16:32.540 --> 01:16:35.070 align:middle line:84%
+through the incentives of
+my diversified investors.
+
+01:16:35.070 --> 01:16:39.020 align:middle line:90%
+
+
+01:16:39.020 --> 01:16:44.660 align:middle line:84%
+So the idea here is to
+construct this equation
+
+01:16:44.660 --> 01:16:46.290 align:middle line:90%
+for different conduct models.
+
+01:16:46.290 --> 01:16:49.220 align:middle line:84%
+You get some GMM objective
+function out of that.
+
+01:16:49.220 --> 01:16:51.170 align:middle line:84%
+And with this GMM
+objective function,
+
+01:16:51.170 --> 01:16:53.880 align:middle line:84%
+you can construct
+a test statistic.
+
+01:16:53.880 --> 01:16:56.450 align:middle line:90%
+This here is a test that's--
+
+01:16:56.450 --> 01:16:59.120 align:middle line:84%
+it's a non-nested test
+by Rivers and Vuong.
+
+01:16:59.120 --> 01:17:02.420 align:middle line:84%
+The idea of this test is that
+there are two different models
+
+01:17:02.420 --> 01:17:06.350 align:middle line:84%
+of conduct, and the null
+hypothesis is that both of them
+
+01:17:06.350 --> 01:17:09.940 align:middle line:84%
+are equally far
+from the true model.
+
+01:17:09.940 --> 01:17:12.750 align:middle line:84%
+But you're always testing the
+two models against each other.
+
+01:17:12.750 --> 01:17:14.860 align:middle line:84%
+So what, at the end of
+the day, you can say is,
+
+01:17:14.860 --> 01:17:17.350 align:middle line:84%
+is this model better
+describing the data
+
+01:17:17.350 --> 01:17:20.320 align:middle line:84%
+that I observed in
+some other model?
+
+01:17:20.320 --> 01:17:23.020 align:middle line:84%
+And so, for instance,
+here, based on,
+
+01:17:23.020 --> 01:17:27.940 align:middle line:84%
+let's say, common ownership
+or own profit maximization,
+
+01:17:27.940 --> 01:17:30.940 align:middle line:84%
+if this test statistic
+here becomes very large,
+
+01:17:30.940 --> 01:17:35.540 align:middle line:84%
+then I'm rejecting model
+1 in favor of model 2.
+
+01:17:35.540 --> 01:17:38.180 align:middle line:84%
+Because the violation
+of the moment
+
+01:17:38.180 --> 01:17:40.590 align:middle line:84%
+conditions is much
+larger under model 1.
+
+01:17:40.590 --> 01:17:42.300 align:middle line:90%
+This is larger.
+
+01:17:42.300 --> 01:17:48.510 align:middle line:84%
+So it's shown that this
+is asymptotically normal.
+
+01:17:48.510 --> 01:17:53.510 align:middle line:84%
+So you can use just
+standard criteria
+
+01:17:53.510 --> 01:17:58.610 align:middle line:84%
+for the normal distribution to
+test with this test statistic.
+
+01:17:58.610 --> 01:18:01.880 align:middle line:84%
+So just, again, to link this
+back to what we have already
+
+01:18:01.880 --> 01:18:05.120 align:middle line:84%
+discussed today, so like Nevo,
+they estimated the demand model
+
+01:18:05.120 --> 01:18:06.890 align:middle line:90%
+for cereals.
+
+01:18:06.890 --> 01:18:10.160 align:middle line:84%
+Do this first order
+condition inversion.
+
+01:18:10.160 --> 01:18:15.020 align:middle line:84%
+And like Nevo, they test for
+different models of conduct
+
+01:18:15.020 --> 01:18:17.060 align:middle line:84%
+with a focus on
+common ownership.
+
+01:18:17.060 --> 01:18:21.290 align:middle line:84%
+But unlike Nevo, what they
+do is instead of comparing
+
+01:18:21.290 --> 01:18:23.510 align:middle line:84%
+the markups that I get
+from this inversion here
+
+01:18:23.510 --> 01:18:26.720 align:middle line:84%
+of the first order conditions
+directly to observed markups,
+
+01:18:26.720 --> 01:18:29.750 align:middle line:84%
+they're seeing whether
+the marginal costs
+
+01:18:29.750 --> 01:18:32.420 align:middle line:84%
+that they back
+out are consistent
+
+01:18:32.420 --> 01:18:37.850 align:middle line:84%
+with the functional form that
+I imposed on marginal cost.
+
+01:18:37.850 --> 01:18:41.220 align:middle line:84%
+And they basically now used
+demand side variation--
+
+01:18:41.220 --> 01:18:44.150 align:middle line:84%
+so things that move around the
+demand side but I exclude it
+
+01:18:44.150 --> 01:18:45.680 align:middle line:90%
+from the supply side--
+
+01:18:45.680 --> 01:18:49.820 align:middle line:84%
+as overidentifying
+restrictions to test this model
+
+01:18:49.820 --> 01:18:52.490 align:middle line:84%
+and construct this
+test statistic.
+
+01:18:52.490 --> 01:18:56.180 align:middle line:84%
+And this allows them
+to compare, let's say,
+
+01:18:56.180 --> 01:19:01.380 align:middle line:84%
+the common ownership model
+against other types of models.
+
+01:19:01.380 --> 01:19:04.800 align:middle line:84%
+So let me tell you what
+they find from this.
+
+01:19:04.800 --> 01:19:07.050 align:middle line:84%
+Again, there's some details
+that I haven't touched on,
+
+01:19:07.050 --> 01:19:09.840 align:middle line:84%
+which is how do you specify
+the supply function,
+
+01:19:09.840 --> 01:19:12.150 align:middle line:84%
+and what are the
+best instruments?
+
+01:19:12.150 --> 01:19:15.300 align:middle line:84%
+Their preferred instrument
+are these optimal demand side
+
+01:19:15.300 --> 01:19:15.850 align:middle line:90%
+instruments.
+
+01:19:15.850 --> 01:19:18.180 align:middle line:84%
+Again, now you want
+to say something
+
+01:19:18.180 --> 01:19:21.600 align:middle line:84%
+about this flexible supply side,
+so you use demand side variation
+
+01:19:21.600 --> 01:19:23.670 align:middle line:90%
+which moves around the markup.
+
+01:19:23.670 --> 01:19:27.720 align:middle line:84%
+And under the right
+model, these are
+
+01:19:27.720 --> 01:19:29.250 align:middle line:84%
+excluded instruments--
+instruments
+
+01:19:29.250 --> 01:19:30.875 align:middle line:84%
+that are excluded
+from the supply side.
+
+01:19:30.875 --> 01:19:36.160 align:middle line:90%
+
+
+01:19:36.160 --> 01:19:39.080 align:middle line:84%
+These should be orthogonal
+to the variation in omega.
+
+01:19:39.080 --> 01:19:43.390 align:middle line:84%
+And so what you find
+here is that using
+
+01:19:43.390 --> 01:19:45.250 align:middle line:84%
+these optimal
+instruments, they soundly
+
+01:19:45.250 --> 01:19:49.210 align:middle line:84%
+reject your different
+models of common ownership
+
+01:19:49.210 --> 01:19:52.237 align:middle line:90%
+against own profit maximization.
+
+01:19:52.237 --> 01:19:54.570 align:middle line:84%
+And so there are different
+specifications whether or not
+
+01:19:54.570 --> 01:19:59.130 align:middle line:84%
+you allow for firms responding
+to a lack of these profit rates.
+
+01:19:59.130 --> 01:20:03.150 align:middle line:84%
+They also reject
+perfect competition
+
+01:20:03.150 --> 01:20:07.670 align:middle line:84%
+using these optimal instruments
+as well as a full monopoly
+
+01:20:07.670 --> 01:20:09.630 align:middle line:90%
+model.
+
+01:20:09.630 --> 01:20:15.810 align:middle line:84%
+So it seems that, against what
+these time trends suggest,
+
+01:20:15.810 --> 01:20:19.350 align:middle line:84%
+that firms do not seem
+to be internalizing
+
+01:20:19.350 --> 01:20:21.100 align:middle line:90%
+these common ownership effects.
+
+01:20:21.100 --> 01:20:23.550 align:middle line:84%
+And instead, the data
+is much more consistent
+
+01:20:23.550 --> 01:20:27.320 align:middle line:90%
+with own profit maximization.
+
+01:20:27.320 --> 01:20:34.070 align:middle line:84%
+So this is, of course,
+just a case study.
+
+01:20:34.070 --> 01:20:41.090 align:middle line:84%
+So this doesn't speak to the
+US economy in its entirety.
+
+01:20:41.090 --> 01:20:45.950 align:middle line:84%
+So again, to wrap up, this is
+a very interesting hypothesis
+
+01:20:45.950 --> 01:20:48.740 align:middle line:84%
+that has been very
+hotly debated in IO,
+
+01:20:48.740 --> 01:20:52.480 align:middle line:84%
+and people feel very
+strongly about it.
+
+01:20:52.480 --> 01:20:56.080 align:middle line:90%
+
+
+01:20:56.080 --> 01:20:59.680 align:middle line:84%
+You could plausibly
+conjecture that firms
+
+01:20:59.680 --> 01:21:01.743 align:middle line:84%
+behave in this way based
+on these time trends
+
+01:21:01.743 --> 01:21:02.660 align:middle line:90%
+that we have observed.
+
+01:21:02.660 --> 01:21:08.970 align:middle line:84%
+It's not crazy to think that
+they somehow internalize this.
+
+01:21:08.970 --> 01:21:11.550 align:middle line:90%
+This case study rejects this.
+
+01:21:11.550 --> 01:21:13.170 align:middle line:84%
+And more generally,
+people have been
+
+01:21:13.170 --> 01:21:15.570 align:middle line:84%
+highly skeptical
+of this hypothesis,
+
+01:21:15.570 --> 01:21:19.740 align:middle line:84%
+in part due to a lack of a
+plausible mechanism of how
+
+01:21:19.740 --> 01:21:21.630 align:middle line:90%
+these firms would actually--
+
+01:21:21.630 --> 01:21:24.030 align:middle line:84%
+how these institutional
+investors would actually
+
+01:21:24.030 --> 01:21:29.610 align:middle line:84%
+bring the firms to, let's say,
+soften competition, or engage
+
+01:21:29.610 --> 01:21:31.560 align:middle line:90%
+in less price competition.
+
+01:21:31.560 --> 01:21:37.740 align:middle line:84%
+So the mechanism is
+still a bit elusive,
+
+01:21:37.740 --> 01:21:40.820 align:middle line:84%
+and, to the best
+of my knowledge,
+
+01:21:40.820 --> 01:21:42.860 align:middle line:84%
+there has been no smoking
+gun-- like a story
+
+01:21:42.860 --> 01:21:46.280 align:middle line:84%
+where it's clear that
+they have done this.
+
+01:21:46.280 --> 01:21:48.920 align:middle line:84%
+Some people argue that
+managerial incentives
+
+01:21:48.920 --> 01:21:51.880 align:middle line:84%
+could be a potential
+explanation for this.
+
+01:21:51.880 --> 01:21:55.640 align:middle line:84%
+I think this is an exciting
+topic that you should make up
+
+01:21:55.640 --> 01:21:57.680 align:middle line:90%
+your own mind on.
+
+01:21:57.680 --> 01:22:01.690 align:middle line:90%
+And that's all I have for today.
+
+01:22:01.690 --> 01:22:21.000 align:middle line:90%

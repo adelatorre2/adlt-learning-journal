@@ -1,0 +1,6554 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.960 align:middle line:90%
+[SQUEAKING]
+
+00:00:01.960 --> 00:00:03.430 align:middle line:90%
+[RUSTLING]
+
+00:00:03.430 --> 00:00:04.900 align:middle line:90%
+[CLICKING]
+
+00:00:04.900 --> 00:00:18.160 align:middle line:90%
+
+
+00:00:18.160 --> 00:00:18.930 align:middle line:90%
+GLENN ELLISON: OK.
+
+00:00:18.930 --> 00:00:21.200 align:middle line:90%
+Let me go ahead and get started.
+
+00:00:21.200 --> 00:00:23.060 align:middle line:84%
+So if you remember,
+last class, I
+
+00:00:23.060 --> 00:00:27.020 align:middle line:84%
+talked about theory of price
+discrimination under monopoly
+
+00:00:27.020 --> 00:00:29.930 align:middle line:84%
+and did first, second, and
+third degree discrimination.
+
+00:00:29.930 --> 00:00:32.240 align:middle line:84%
+Today, I'm going to talk
+about empirical work on price
+
+00:00:32.240 --> 00:00:33.420 align:middle line:90%
+discrimination.
+
+00:00:33.420 --> 00:00:37.280 align:middle line:84%
+And just as a reminder,
+as I said previously,
+
+00:00:37.280 --> 00:00:39.920 align:middle line:84%
+all the models I talked
+about in last class
+
+00:00:39.920 --> 00:00:42.330 align:middle line:90%
+are 100% mathematically correct.
+
+00:00:42.330 --> 00:00:45.240 align:middle line:84%
+There's nothing we need to
+test about the theory itself.
+
+00:00:45.240 --> 00:00:48.950 align:middle line:84%
+But many things that
+empirical work can do for us.
+
+00:00:48.950 --> 00:00:51.440 align:middle line:84%
+In some sense, it's asking
+whether the assumptions are
+
+00:00:51.440 --> 00:00:53.750 align:middle line:84%
+correct and whether things
+are working like we think
+
+00:00:53.750 --> 00:00:56.167 align:middle line:84%
+or whether there should be
+other assumptions in the model.
+
+00:00:56.167 --> 00:00:58.610 align:middle line:84%
+So questions, examples
+we get help with.
+
+00:00:58.610 --> 00:01:01.730 align:middle line:90%
+Do firms price discriminate?
+
+00:01:01.730 --> 00:01:04.970 align:middle line:84%
+Is the way that firms are
+pricing consistent with what
+
+00:01:04.970 --> 00:01:08.990 align:middle line:84%
+the models say about how prices
+would be related to elasticities
+
+00:01:08.990 --> 00:01:14.040 align:middle line:84%
+and other things if firms
+were profit maximizing?
+
+00:01:14.040 --> 00:01:16.348 align:middle line:90%
+Magnitudes are important.
+
+00:01:16.348 --> 00:01:18.640 align:middle line:84%
+Literature makes a big deal
+about price discrimination.
+
+00:01:18.640 --> 00:01:20.350 align:middle line:84%
+How important would
+it be in practice?
+
+00:01:20.350 --> 00:01:23.130 align:middle line:84%
+How large would the
+profit gains be?
+
+00:01:23.130 --> 00:01:26.640 align:middle line:84%
+Would firms really be
+incentivized to do it?
+
+00:01:26.640 --> 00:01:30.330 align:middle line:84%
+I discussed Bergemann, Brooks,
+Morris, whether consumer surplus
+
+00:01:30.330 --> 00:01:32.640 align:middle line:84%
+goes up or down with price
+discrimination really
+
+00:01:32.640 --> 00:01:35.260 align:middle line:84%
+depends on what kind of
+information the firms have.
+
+00:01:35.260 --> 00:01:37.060 align:middle line:84%
+What do those look
+like in practice?
+
+00:01:37.060 --> 00:01:38.640 align:middle line:84%
+And if you are going
+to discriminate,
+
+00:01:38.640 --> 00:01:41.410 align:middle line:84%
+what types of information
+do we need to discriminate?
+
+00:01:41.410 --> 00:01:44.020 align:middle line:84%
+And I think this is
+something that's--
+
+00:01:44.020 --> 00:01:47.640 align:middle line:84%
+as I talked about, the interest
+in online price discrimination
+
+00:01:47.640 --> 00:01:49.620 align:middle line:84%
+has really increased
+attention to the field
+
+00:01:49.620 --> 00:01:52.260 align:middle line:84%
+because it used to be
+discrimination only occurred
+
+00:01:52.260 --> 00:01:54.540 align:middle line:84%
+on expensive items where
+you could pay somebody
+
+00:01:54.540 --> 00:01:56.740 align:middle line:84%
+to try to discriminate
+among consumers.
+
+00:01:56.740 --> 00:01:58.948 align:middle line:84%
+Now, in the online world,
+where you know so much more
+
+00:01:58.948 --> 00:02:00.323 align:middle line:84%
+about people,
+maybe there's going
+
+00:02:00.323 --> 00:02:02.230 align:middle line:84%
+to be much more scope
+for discrimination.
+
+00:02:02.230 --> 00:02:04.016 align:middle line:84%
+At least it's an
+interesting hypothesis.
+
+00:02:04.016 --> 00:02:08.509 align:middle line:90%
+
+
+00:02:08.509 --> 00:02:12.080 align:middle line:84%
+Early papers on
+price discrimination.
+
+00:02:12.080 --> 00:02:14.480 align:middle line:84%
+One of the first things that
+happened in this literature,
+
+00:02:14.480 --> 00:02:17.390 align:middle line:84%
+after the NEIO revolution,
+was just people arguing,
+
+00:02:17.390 --> 00:02:19.130 align:middle line:84%
+do firms actually
+price discriminate?
+
+00:02:19.130 --> 00:02:21.380 align:middle line:84%
+How can we tell whether price
+discrimination is really
+
+00:02:21.380 --> 00:02:26.000 align:middle line:84%
+occurring or if it's just
+cost-based price differences?
+
+00:02:26.000 --> 00:02:28.250 align:middle line:90%
+Two of the early papers on this.
+
+00:02:28.250 --> 00:02:32.065 align:middle line:84%
+Severin Borenstein had this very
+nice paper that just argued--
+
+00:02:32.065 --> 00:02:33.440 align:middle line:84%
+at the time in
+the United States,
+
+00:02:33.440 --> 00:02:37.078 align:middle line:84%
+you could either buy
+leaded or unleaded gas.
+
+00:02:37.078 --> 00:02:39.620 align:middle line:84%
+At some point, we switched from
+having leaded gas to unleaded
+
+00:02:39.620 --> 00:02:43.070 align:middle line:84%
+gas because leaded gas caused
+lead poisoning, all kinds
+
+00:02:43.070 --> 00:02:45.890 align:middle line:90%
+of public health problems.
+
+00:02:45.890 --> 00:02:49.130 align:middle line:84%
+Because unleaded
+gas was initially
+
+00:02:49.130 --> 00:02:51.508 align:middle line:84%
+used by people who
+had newer cars,
+
+00:02:51.508 --> 00:02:53.300 align:middle line:84%
+those people were
+wealthier than the people
+
+00:02:53.300 --> 00:02:56.060 align:middle line:84%
+who had cars that
+ran on leaded gas.
+
+00:02:56.060 --> 00:02:58.552 align:middle line:84%
+Unleaded gas was a lot more
+expensive than leaded gas.
+
+00:02:58.552 --> 00:03:01.010 align:middle line:84%
+And so the question was, was
+that because of the difficulty
+
+00:03:01.010 --> 00:03:04.130 align:middle line:84%
+of preparing unleaded gas,
+or was that due to price
+
+00:03:04.130 --> 00:03:04.990 align:middle line:90%
+discrimination?
+
+00:03:04.990 --> 00:03:07.790 align:middle line:84%
+Borenstein has this
+paper, just basically
+
+00:03:07.790 --> 00:03:09.880 align:middle line:84%
+doing very detailed
+cost accounting
+
+00:03:09.880 --> 00:03:11.630 align:middle line:84%
+and arguing that, no,
+the price difference
+
+00:03:11.630 --> 00:03:13.463 align:middle line:84%
+between leaded and
+unleaded gas was much too
+
+00:03:13.463 --> 00:03:15.990 align:middle line:84%
+large to be anything other
+than price discrimination.
+
+00:03:15.990 --> 00:03:18.110 align:middle line:84%
+And then Andrea
+Shepard has this paper,
+
+00:03:18.110 --> 00:03:20.660 align:middle line:84%
+which would be totally
+self-evident to those of you who
+
+00:03:20.660 --> 00:03:21.902 align:middle line:90%
+are from California.
+
+00:03:21.902 --> 00:03:23.360 align:middle line:84%
+I know in California,
+you go there,
+
+00:03:23.360 --> 00:03:27.020 align:middle line:84%
+and it's like self-serve
+gas is $5.99 a gallon
+
+00:03:27.020 --> 00:03:29.370 align:middle line:84%
+and full-serve gas
+is $7.59 a gallon.
+
+00:03:29.370 --> 00:03:31.010 align:middle line:84%
+And you just do the
+math in your head.
+
+00:03:31.010 --> 00:03:33.200 align:middle line:84%
+I'm paying someone $1.50
+a gallon to pump my gas.
+
+00:03:33.200 --> 00:03:34.130 align:middle line:90%
+That's $2.
+
+00:03:34.130 --> 00:03:36.060 align:middle line:84%
+That person, they
+only make $15 an hour.
+
+00:03:36.060 --> 00:03:37.560 align:middle line:84%
+There's no way
+that's what it costs.
+
+00:03:37.560 --> 00:03:40.160 align:middle line:84%
+But Andrea Shepard
+has a paper that
+
+00:03:40.160 --> 00:03:44.920 align:middle line:84%
+looks at stations
+actually in Massachusetts,
+
+00:03:44.920 --> 00:03:47.110 align:middle line:84%
+comparing stations
+that offer both self
+
+00:03:47.110 --> 00:03:49.690 align:middle line:84%
+and full-service with stations
+that offer self-service
+
+00:03:49.690 --> 00:03:51.550 align:middle line:84%
+only and full-service
+only, and using
+
+00:03:51.550 --> 00:03:55.000 align:middle line:84%
+the gap between the self
+and full-serve only stations
+
+00:03:55.000 --> 00:03:57.440 align:middle line:84%
+to estimate what the cost
+differences could be.
+
+00:03:57.440 --> 00:04:00.240 align:middle line:84%
+And then looking at the mark-ups
+between the dual product
+
+00:04:00.240 --> 00:04:02.740 align:middle line:84%
+stations and arguing that that's
+clear evidence that there's
+
+00:04:02.740 --> 00:04:04.810 align:middle line:84%
+second degree price
+discrimination going on,
+
+00:04:04.810 --> 00:04:06.910 align:middle line:84%
+where you're charging
+the wealthier people more
+
+00:04:06.910 --> 00:04:10.030 align:middle line:84%
+for the high-quality product
+as the gas that someone else
+
+00:04:10.030 --> 00:04:13.060 align:middle line:90%
+pumps for you.
+
+00:04:13.060 --> 00:04:13.960 align:middle line:90%
+It's instructive.
+
+00:04:13.960 --> 00:04:16.480 align:middle line:84%
+If you want to go back and
+get a sense for the history
+
+00:04:16.480 --> 00:04:19.540 align:middle line:84%
+of the economics profession
+and how much the required
+
+00:04:19.540 --> 00:04:22.160 align:middle line:84%
+level of statistics
+and data has changed,
+
+00:04:22.160 --> 00:04:25.820 align:middle line:84%
+if you compare Shepard's
+paper in the JPE
+
+00:04:25.820 --> 00:04:28.600 align:middle line:84%
+30 years ago to the most
+recent paper, last paper I'm
+
+00:04:28.600 --> 00:04:30.710 align:middle line:84%
+going to cover in
+this lecture, you
+
+00:04:30.710 --> 00:04:32.590 align:middle line:84%
+get the sense of
+how the economics
+
+00:04:32.590 --> 00:04:37.090 align:middle line:84%
+profession has changed in
+standards for empirical work.
+
+00:04:37.090 --> 00:04:38.680 align:middle line:84%
+Second topic I
+wanted to discuss,
+
+00:04:38.680 --> 00:04:42.470 align:middle line:84%
+though, is racial and gender
+discrimination in retail prices.
+
+00:04:42.470 --> 00:04:44.650 align:middle line:84%
+This is another place
+where IO is definitely
+
+00:04:44.650 --> 00:04:48.080 align:middle line:84%
+overlapping with the
+public policy question.
+
+00:04:48.080 --> 00:04:53.290 align:middle line:84%
+The public policy
+question is, do prices
+
+00:04:53.290 --> 00:04:55.040 align:middle line:90%
+differ by race and gender?
+
+00:04:55.040 --> 00:04:58.510 align:middle line:84%
+And what's the effect of
+race and gender-based price
+
+00:04:58.510 --> 00:05:02.530 align:middle line:84%
+discrimination on people
+in disadvantaged groups
+
+00:05:02.530 --> 00:05:04.590 align:middle line:84%
+or potentially people
+in advantaged groups?
+
+00:05:04.590 --> 00:05:07.120 align:middle line:90%
+
+
+00:05:07.120 --> 00:05:09.220 align:middle line:84%
+The early papers
+in this literature
+
+00:05:09.220 --> 00:05:11.390 align:middle line:90%
+reported very different results.
+
+00:05:11.390 --> 00:05:13.750 align:middle line:90%
+I think one of the--
+
+00:05:13.750 --> 00:05:16.450 align:middle line:84%
+really one of the first audit
+studies in economics, Ayres
+
+00:05:16.450 --> 00:05:19.840 align:middle line:90%
+and Siegelman.
+
+00:05:19.840 --> 00:05:22.420 align:middle line:84%
+Ayres and Siegelman, basically
+the idea was, they just
+
+00:05:22.420 --> 00:05:25.810 align:middle line:84%
+trained 38
+undergraduate students
+
+00:05:25.810 --> 00:05:30.290 align:middle line:84%
+who are like juniors or seniors
+to bargain for car prices.
+
+00:05:30.290 --> 00:05:33.530 align:middle line:84%
+And they train them with
+a very specific script.
+
+00:05:33.530 --> 00:05:36.160 align:middle line:84%
+So they were supposed to walk
+into a car dealer and say,
+
+00:05:36.160 --> 00:05:40.580 align:middle line:84%
+I would like the Toyota Corolla,
+four cylinder engine, base trim.
+
+00:05:40.580 --> 00:05:43.190 align:middle line:90%
+I'm willing to pay $10,200.
+
+00:05:43.190 --> 00:05:44.770 align:middle line:90%
+I don't need financing.
+
+00:05:44.770 --> 00:05:46.520 align:middle line:90%
+Can I have it at that price?
+
+00:05:46.520 --> 00:05:51.490 align:middle line:84%
+And then they just recorded what
+did the dealer say back to them.
+
+00:05:51.490 --> 00:05:55.930 align:middle line:84%
+And they took these 38 trained
+dealers-- of the 38 students
+
+00:05:55.930 --> 00:05:58.510 align:middle line:84%
+they trained, 19
+were white males,
+
+00:05:58.510 --> 00:06:00.980 align:middle line:84%
+and the other 19
+were not white males.
+
+00:06:00.980 --> 00:06:04.660 align:middle line:84%
+And they sent pairs of
+them to the same dealer
+
+00:06:04.660 --> 00:06:09.190 align:middle line:84%
+to ask for the same car, at
+times far enough apart that it
+
+00:06:09.190 --> 00:06:11.080 align:middle line:90%
+wouldn't seem suspicious.
+
+00:06:11.080 --> 00:06:14.500 align:middle line:84%
+And then they report back,
+what were the dealers' initial
+
+00:06:14.500 --> 00:06:17.200 align:middle line:84%
+counteroffers, what was the end
+of the price they got after they
+
+00:06:17.200 --> 00:06:20.120 align:middle line:84%
+had a long bargaining script
+they were supposed to follow,
+
+00:06:20.120 --> 00:06:23.390 align:middle line:84%
+which included things
+like, if you say $10,000,
+
+00:06:23.390 --> 00:06:25.740 align:middle line:84%
+he says $12,000, say,
+how about $11,000?
+
+00:06:25.740 --> 00:06:27.710 align:middle line:84%
+Or if he says $10,000,
+you say $12,000,
+
+00:06:27.710 --> 00:06:29.540 align:middle line:90%
+how about $10,200 or whatever?
+
+00:06:29.540 --> 00:06:31.070 align:middle line:84%
+So they gave them
+specific scripts
+
+00:06:31.070 --> 00:06:33.740 align:middle line:90%
+they were supposed to follow.
+
+00:06:33.740 --> 00:06:35.870 align:middle line:84%
+If you read the
+paper, they even said,
+
+00:06:35.870 --> 00:06:38.780 align:middle line:84%
+they rated all the students as
+being of average attractiveness
+
+00:06:38.780 --> 00:06:41.810 align:middle line:84%
+because they were concerned
+that better looking people
+
+00:06:41.810 --> 00:06:42.810 align:middle line:90%
+will get better deals.
+
+00:06:42.810 --> 00:06:46.320 align:middle line:84%
+So they had white and Black
+students, men and women.
+
+00:06:46.320 --> 00:06:48.800 align:middle line:84%
+They rated them all as being
+of average attractiveness
+
+00:06:48.800 --> 00:06:50.957 align:middle line:84%
+in their hiring
+process, which I don't
+
+00:06:50.957 --> 00:06:52.790 align:middle line:84%
+know whether hiring
+people by attractiveness
+
+00:06:52.790 --> 00:06:53.707 align:middle line:90%
+is allowed these days.
+
+00:06:53.707 --> 00:06:54.980 align:middle line:90%
+But anyway, they did that.
+
+00:06:54.980 --> 00:06:57.560 align:middle line:84%
+And that was-- results
+were that there
+
+00:06:57.560 --> 00:07:01.170 align:middle line:84%
+was tremendous discrimination
+against women and minorities.
+
+00:07:01.170 --> 00:07:05.250 align:middle line:84%
+So the Black males were the
+ones who were treated worse.
+
+00:07:05.250 --> 00:07:08.360 align:middle line:84%
+They were charged $1,100 more
+than white males for a car
+
+00:07:08.360 --> 00:07:09.660 align:middle line:90%
+in the initial offer.
+
+00:07:09.660 --> 00:07:12.180 align:middle line:84%
+And cars at the time
+were about $10,000.
+
+00:07:12.180 --> 00:07:16.450 align:middle line:84%
+That's like charging 10%
+more on the price of a car.
+
+00:07:16.450 --> 00:07:21.950 align:middle line:90%
+
+
+00:07:21.950 --> 00:07:24.222 align:middle line:84%
+Black females were $410
+more than white females.
+
+00:07:24.222 --> 00:07:26.930 align:middle line:84%
+And I forget what the number is,
+but white females were also more
+
+00:07:26.930 --> 00:07:28.490 align:middle line:90%
+than white males.
+
+00:07:28.490 --> 00:07:32.250 align:middle line:84%
+So they reported there was this
+substantial discrimination, 5%
+
+00:07:32.250 --> 00:07:33.820 align:middle line:90%
+to 10%, in the price of cars.
+
+00:07:33.820 --> 00:07:36.510 align:middle line:90%
+
+
+00:07:36.510 --> 00:07:38.250 align:middle line:84%
+About the same
+time, Penny Goldberg
+
+00:07:38.250 --> 00:07:42.060 align:middle line:84%
+had a follow-up article, looking
+at exactly the same topic,
+
+00:07:42.060 --> 00:07:45.340 align:middle line:84%
+using data from the
+Consumer Expenditure Survey.
+
+00:07:45.340 --> 00:07:47.730 align:middle line:84%
+And one thing you worry
+about with the audit study
+
+00:07:47.730 --> 00:07:50.970 align:middle line:84%
+is that these people were
+not actually buying cars
+
+00:07:50.970 --> 00:07:55.090 align:middle line:84%
+and were the people who were
+not actually buying cars,
+
+00:07:55.090 --> 00:07:57.280 align:middle line:84%
+would the prices
+they're bargaining
+
+00:07:57.280 --> 00:07:59.830 align:middle line:84%
+end up being the same for
+real people who buy cars,
+
+00:07:59.830 --> 00:08:02.273 align:middle line:84%
+and maybe the way that the
+dealers react to these college
+
+00:08:02.273 --> 00:08:03.940 align:middle line:84%
+students was different
+from the way they
+
+00:08:03.940 --> 00:08:06.160 align:middle line:90%
+would react to other people.
+
+00:08:06.160 --> 00:08:09.430 align:middle line:84%
+So Goldberg used car purchases
+from the Consumer Expenditure
+
+00:08:09.430 --> 00:08:12.250 align:middle line:84%
+Survey and did the
+same racial test.
+
+00:08:12.250 --> 00:08:16.660 align:middle line:84%
+And she found no difference at
+all in prices paid for cars.
+
+00:08:16.660 --> 00:08:20.050 align:middle line:84%
+Again, though, data
+limitation of Goldberg's paper
+
+00:08:20.050 --> 00:08:23.920 align:middle line:84%
+was that, the way the Consumer
+Expenditure Survey is, is it's
+
+00:08:23.920 --> 00:08:25.090 align:middle line:90%
+an annual survey.
+
+00:08:25.090 --> 00:08:27.940 align:middle line:84%
+And you go to people
+like me and say, Glenn,
+
+00:08:27.940 --> 00:08:30.130 align:middle line:84%
+did you buy a car
+in the last year?
+
+00:08:30.130 --> 00:08:31.510 align:middle line:90%
+And I'd say, yes.
+
+00:08:31.510 --> 00:08:32.770 align:middle line:90%
+What kind of car is it?
+
+00:08:32.770 --> 00:08:36.400 align:middle line:90%
+It's a Hyundai Kona SUV.
+
+00:08:36.400 --> 00:08:38.450 align:middle line:84%
+And then what did
+you pay for it?
+
+00:08:38.450 --> 00:08:42.280 align:middle line:84%
+And so you're relying on both
+people describing the car to you
+
+00:08:42.280 --> 00:08:46.210 align:middle line:84%
+and their memory 0 to
+12 months later of,
+
+00:08:46.210 --> 00:08:47.890 align:middle line:84%
+what price did you
+pay for your car?
+
+00:08:47.890 --> 00:08:51.475 align:middle line:84%
+If you asked me what I paid
+for my last car that I bought,
+
+00:08:51.475 --> 00:08:53.100 align:middle line:84%
+I have no idea within
+several thousand.
+
+00:08:53.100 --> 00:08:55.920 align:middle line:84%
+At the time, when I was
+bargaining for the car,
+
+00:08:55.920 --> 00:08:58.048 align:middle line:84%
+I knew very well what I
+should pay for the car
+
+00:08:58.048 --> 00:08:59.590 align:middle line:84%
+and what a good deal
+was or whatever.
+
+00:08:59.590 --> 00:09:02.610 align:middle line:84%
+But six months later, do
+I have any recollection
+
+00:09:02.610 --> 00:09:04.710 align:middle line:90%
+of what the numbers were?
+
+00:09:04.710 --> 00:09:06.480 align:middle line:90%
+I would say I don't.
+
+00:09:06.480 --> 00:09:07.620 align:middle line:90%
+So anyway.
+
+00:09:07.620 --> 00:09:10.350 align:middle line:84%
+But what Goldberg found was
+that there was no difference
+
+00:09:10.350 --> 00:09:13.080 align:middle line:90%
+across racial groups.
+
+00:09:13.080 --> 00:09:17.430 align:middle line:84%
+One other study about the
+same time, Katy Graddy
+
+00:09:17.430 --> 00:09:20.490 align:middle line:84%
+had a paper where she
+looked at purchases of fish
+
+00:09:20.490 --> 00:09:22.500 align:middle line:84%
+at the New York Fulton
+Street Fish Market
+
+00:09:22.500 --> 00:09:24.480 align:middle line:90%
+and looked at the same question.
+
+00:09:24.480 --> 00:09:27.240 align:middle line:84%
+There, she did it by just
+going to the Fulton Street Fish
+
+00:09:27.240 --> 00:09:30.180 align:middle line:84%
+Market, watching
+people buying fish,
+
+00:09:30.180 --> 00:09:34.860 align:middle line:84%
+and recording what price they
+agreed to buy the fish at.
+
+00:09:34.860 --> 00:09:37.750 align:middle line:84%
+And she found that actually
+here, discrimination
+
+00:09:37.750 --> 00:09:39.750 align:middle line:84%
+against whites at the
+Fulton Street Fish Market,
+
+00:09:39.750 --> 00:09:45.530 align:middle line:84%
+that Asians paid 7% less than
+whites for the same fish.
+
+00:09:45.530 --> 00:09:48.050 align:middle line:84%
+But again, these are
+limited number of cars.
+
+00:09:48.050 --> 00:09:51.540 align:middle line:84%
+Ayres and Siegelman,
+it's 500 observations.
+
+00:09:51.540 --> 00:09:53.390 align:middle line:90%
+Goldberg, it's not so many.
+
+00:09:53.390 --> 00:09:57.680 align:middle line:84%
+It's more observations, but much
+more heterogeneity in the cars.
+
+00:09:57.680 --> 00:10:00.750 align:middle line:84%
+And hard to know what the
+prices are in Graddy's.
+
+00:10:00.750 --> 00:10:01.990 align:middle line:90%
+Again, it's a limited sample.
+
+00:10:01.990 --> 00:10:05.570 align:middle line:84%
+What could one graduate student
+do hanging out in New York Fish
+
+00:10:05.570 --> 00:10:08.520 align:middle line:90%
+Market for a month?
+
+00:10:08.520 --> 00:10:09.020 align:middle line:90%
+OK.
+
+00:10:09.020 --> 00:10:11.330 align:middle line:84%
+So first bit I wanted
+to cover was this one
+
+00:10:11.330 --> 00:10:16.550 align:middle line:84%
+by Scott Morton,
+Zettelmeyer, Silva-Risso.
+
+00:10:16.550 --> 00:10:18.330 align:middle line:90%
+Multiple motivations.
+
+00:10:18.330 --> 00:10:21.620 align:middle line:84%
+One of them is just to
+re-examine the earlier
+
+00:10:21.620 --> 00:10:24.560 align:middle line:90%
+findings with much better data.
+
+00:10:24.560 --> 00:10:27.500 align:middle line:84%
+And then besides me wanting
+to ask the applied question
+
+00:10:27.500 --> 00:10:31.460 align:middle line:84%
+of, Is there racial and gender
+discrimination in car prices?,
+
+00:10:31.460 --> 00:10:33.200 align:middle line:84%
+it's a little bit
+of trying to think
+
+00:10:33.200 --> 00:10:35.480 align:middle line:84%
+about, how would we think
+about this from an IO
+
+00:10:35.480 --> 00:10:38.712 align:middle line:84%
+perspective of IO says that
+people with different price
+
+00:10:38.712 --> 00:10:40.670 align:middle line:84%
+elasticities are going
+to pay different prices,
+
+00:10:40.670 --> 00:10:43.190 align:middle line:84%
+and do we see evidence that
+these price patterns look
+
+00:10:43.190 --> 00:10:46.920 align:middle line:84%
+like they follow price
+elasticity and other models?
+
+00:10:46.920 --> 00:10:50.930 align:middle line:84%
+And then the other
+motivation was,
+
+00:10:50.930 --> 00:10:54.140 align:middle line:84%
+look at this shift
+from online sale--
+
+00:10:54.140 --> 00:10:56.030 align:middle line:84%
+from offline sales
+to online sales
+
+00:10:56.030 --> 00:10:57.560 align:middle line:84%
+and whether online
+sales are going
+
+00:10:57.560 --> 00:11:00.560 align:middle line:84%
+to change whether we get
+discrimination, which you could
+
+00:11:00.560 --> 00:11:03.590 align:middle line:84%
+imagine-- you could imagine
+that in online sales people,
+
+00:11:03.590 --> 00:11:06.260 align:middle line:84%
+the dealers don't know the race
+and gender of the person buying
+
+00:11:06.260 --> 00:11:08.730 align:middle line:84%
+the car, and therefore they
+quote different prices.
+
+00:11:08.730 --> 00:11:12.500 align:middle line:84%
+Or you could also get the
+signaling of things differ--
+
+00:11:12.500 --> 00:11:16.110 align:middle line:84%
+signaling of knowledge
+and other things differs.
+
+00:11:16.110 --> 00:11:19.810 align:middle line:84%
+So she's got the cartoon from
+the paper on the internet.
+
+00:11:19.810 --> 00:11:20.920 align:middle line:90%
+Nobody knows you're a dog.
+
+00:11:20.920 --> 00:11:22.795 align:middle line:84%
+And so dogs can do things
+different from what
+
+00:11:22.795 --> 00:11:27.000 align:middle line:90%
+they can do in real life.
+
+00:11:27.000 --> 00:11:27.660 align:middle line:90%
+OK.
+
+00:11:27.660 --> 00:11:29.680 align:middle line:90%
+This is early internet.
+
+00:11:29.680 --> 00:11:33.000 align:middle line:84%
+So this is data
+from 1999 to 2000.
+
+00:11:33.000 --> 00:11:37.950 align:middle line:84%
+Autobytel was the leading online
+car purchasing site in 1999.
+
+00:11:37.950 --> 00:11:41.470 align:middle line:84%
+The way Autobytel worked was
+you would go to Autobytel,
+
+00:11:41.470 --> 00:11:43.350 align:middle line:84%
+you would fill out
+a form telling it,
+
+00:11:43.350 --> 00:11:46.710 align:middle line:90%
+I want to buy a Toyota Corolla.
+
+00:11:46.710 --> 00:11:51.270 align:middle line:84%
+And then Autobytel would simply
+send your name and email address
+
+00:11:51.270 --> 00:11:53.050 align:middle line:90%
+to one dealer.
+
+00:11:53.050 --> 00:11:57.330 align:middle line:84%
+And that one dealer was supposed
+to quote you a good, fair price.
+
+00:11:57.330 --> 00:11:59.530 align:middle line:84%
+So it was supposed to be
+a no haggle experience.
+
+00:11:59.530 --> 00:12:01.420 align:middle line:84%
+You just say, I want
+a Toyota Corolla.
+
+00:12:01.420 --> 00:12:03.360 align:middle line:84%
+They pass your name on
+to exactly one dealer,
+
+00:12:03.360 --> 00:12:06.000 align:middle line:84%
+and that dealer emails you
+half an hour later and says,
+
+00:12:06.000 --> 00:12:11.130 align:middle line:84%
+I could sell you that
+Corolla for $11,300.
+
+00:12:11.130 --> 00:12:12.210 align:middle line:90%
+OK.
+
+00:12:12.210 --> 00:12:14.310 align:middle line:84%
+The nice thing about
+this paper, though,
+
+00:12:14.310 --> 00:12:16.740 align:middle line:84%
+when you compare it to the
+earlier ones on discrimination
+
+00:12:16.740 --> 00:12:20.190 align:middle line:84%
+is, the data from
+autobytel.com, they
+
+00:12:20.190 --> 00:12:22.060 align:middle line:84%
+have the complete
+Autobytel database.
+
+00:12:22.060 --> 00:12:25.330 align:middle line:84%
+So 2 million people sent in
+such requests to Autobytel.
+
+00:12:25.330 --> 00:12:29.650 align:middle line:84%
+They can track whether each
+of those-- what dealer each
+
+00:12:29.650 --> 00:12:32.080 align:middle line:90%
+of those requests was sent to.
+
+00:12:32.080 --> 00:12:34.510 align:middle line:84%
+And then the more
+impressive data set,
+
+00:12:34.510 --> 00:12:36.400 align:middle line:84%
+there's a firm
+called JD Power that
+
+00:12:36.400 --> 00:12:38.390 align:middle line:90%
+gathers data from car dealers.
+
+00:12:38.390 --> 00:12:40.610 align:middle line:84%
+And JD Power is basically--
+it's a data provider.
+
+00:12:40.610 --> 00:12:42.610 align:middle line:84%
+They gather information from
+car dealers about the sales,
+
+00:12:42.610 --> 00:12:44.560 align:middle line:84%
+and then they share that
+information with other car
+
+00:12:44.560 --> 00:12:47.018 align:middle line:84%
+dealers who want to know what
+other car dealers are selling
+
+00:12:47.018 --> 00:12:48.880 align:middle line:84%
+things for and with
+the car manufacturers.
+
+00:12:48.880 --> 00:12:52.090 align:middle line:84%
+And basically,
+the JD Power data,
+
+00:12:52.090 --> 00:12:54.520 align:middle line:84%
+it's a complete
+listing of all cars
+
+00:12:54.520 --> 00:12:58.180 align:middle line:84%
+purchased in the United States
+from thousands of dealerships
+
+00:12:58.180 --> 00:13:01.350 align:middle line:84%
+and has a tremendous amount of
+information about those cars.
+
+00:13:01.350 --> 00:13:04.060 align:middle line:90%
+So it's transaction-level data.
+
+00:13:04.060 --> 00:13:11.710 align:middle line:84%
+It has 671,000 car purchases
+from 3,562 dealerships.
+
+00:13:11.710 --> 00:13:15.860 align:middle line:84%
+On every car, you not just
+get, it's a Toyota Corolla.
+
+00:13:15.860 --> 00:13:21.110 align:middle line:84%
+You get, it's the Toyota Corolla
+LX with a 1.4 liter engine.
+
+00:13:21.110 --> 00:13:23.830 align:middle line:84%
+Here are the 14 accessories
+on the window sticker
+
+00:13:23.830 --> 00:13:24.950 align:middle line:90%
+that it had installed.
+
+00:13:24.950 --> 00:13:26.030 align:middle line:90%
+It had the cup holder.
+
+00:13:26.030 --> 00:13:27.650 align:middle line:90%
+It had this radio.
+
+00:13:27.650 --> 00:13:30.430 align:middle line:84%
+It had, I don't
+know, the sunroof.
+
+00:13:30.430 --> 00:13:33.580 align:middle line:84%
+All the accessories that are
+listed on the window sticker.
+
+00:13:33.580 --> 00:13:38.630 align:middle line:84%
+It has the dealer cost of
+all of those accessories.
+
+00:13:38.630 --> 00:13:41.560 align:middle line:84%
+So it knows that if you
+go into the car dealer
+
+00:13:41.560 --> 00:13:44.080 align:middle line:84%
+and the upgraded
+radio is $399, it
+
+00:13:44.080 --> 00:13:47.020 align:middle line:84%
+knows that radio
+cost the dealer $127.
+
+00:13:47.020 --> 00:13:48.970 align:middle line:90%
+And so it records all that.
+
+00:13:48.970 --> 00:13:52.570 align:middle line:84%
+It also records the
+trade-in in overallowance.
+
+00:13:52.570 --> 00:13:56.240 align:middle line:84%
+People often are selling a
+car when they're buying a car.
+
+00:13:56.240 --> 00:13:58.240 align:middle line:84%
+And you bring your old
+car, and the dealer says,
+
+00:13:58.240 --> 00:14:01.550 align:middle line:84%
+I'll give you $3,500
+for your 9-year-old car.
+
+00:14:01.550 --> 00:14:03.490 align:middle line:84%
+They actually record
+the dealer's notation
+
+00:14:03.490 --> 00:14:05.440 align:middle line:84%
+of both how much the
+dealer paid for the car
+
+00:14:05.440 --> 00:14:07.860 align:middle line:84%
+and what the dealer thought
+the car was actually worth.
+
+00:14:07.860 --> 00:14:11.170 align:middle line:84%
+So the dealer puts in, I gave
+a $3,500 trade-in allowance
+
+00:14:11.170 --> 00:14:16.630 align:middle line:84%
+for a car that was worth $3,750
+or a car that was worth $2,850.
+
+00:14:16.630 --> 00:14:21.640 align:middle line:84%
+So it's tremendous price
+data compared to what you
+
+00:14:21.640 --> 00:14:25.000 align:middle line:90%
+got in Goldberg or whatever.
+
+00:14:25.000 --> 00:14:29.400 align:middle line:84%
+It also contains--
+this is not privacy.
+
+00:14:29.400 --> 00:14:32.030 align:middle line:84%
+I'm sure they had to go a
+while through the IRB for this.
+
+00:14:32.030 --> 00:14:34.480 align:middle line:84%
+The data set has the
+buyer's home address.
+
+00:14:34.480 --> 00:14:36.420 align:middle line:90%
+It has the buyer's name.
+
+00:14:36.420 --> 00:14:38.460 align:middle line:84%
+And based on having
+the buyer's name,
+
+00:14:38.460 --> 00:14:41.760 align:middle line:84%
+they make guesses of
+the buyer's gender
+
+00:14:41.760 --> 00:14:47.340 align:middle line:84%
+and whether the buyer is
+Latinx or Asian ethnicity.
+
+00:14:47.340 --> 00:14:49.660 align:middle line:90%
+OK.
+
+00:14:49.660 --> 00:14:50.160 align:middle line:90%
+Anyway.
+
+00:14:50.160 --> 00:14:52.285 align:middle line:84%
+And then, yeah, the
+transaction data from Autobytel
+
+00:14:52.285 --> 00:14:56.100 align:middle line:90%
+has 2 million requests.
+
+00:14:56.100 --> 00:14:59.280 align:middle line:84%
+Because the Autobytel data also
+has the buyer's home address
+
+00:14:59.280 --> 00:15:01.168 align:middle line:84%
+and name, they can
+match it to this data
+
+00:15:01.168 --> 00:15:03.210 align:middle line:84%
+and see whether the person
+bought from the dealer
+
+00:15:03.210 --> 00:15:06.060 align:middle line:84%
+Autobytel sent them to or
+whether the person bought a car
+
+00:15:06.060 --> 00:15:07.655 align:middle line:90%
+from a different dealer later.
+
+00:15:07.655 --> 00:15:12.150 align:middle line:90%
+
+
+00:15:12.150 --> 00:15:15.980 align:middle line:84%
+So initial analysis of this
+data is very, very simple.
+
+00:15:15.980 --> 00:15:17.240 align:middle line:90%
+It's just a regression.
+
+00:15:17.240 --> 00:15:20.140 align:middle line:84%
+They're just regressing
+the log of the price paid
+
+00:15:20.140 --> 00:15:25.540 align:middle line:84%
+on demographics of the buyer
+and a set of controls x.
+
+00:15:25.540 --> 00:15:29.170 align:middle line:84%
+The set of controls
+has car fixed effects,
+
+00:15:29.170 --> 00:15:32.120 align:middle line:84%
+controls for the cost of all
+the included accessories.
+
+00:15:32.120 --> 00:15:36.160 align:middle line:84%
+It's got month, region,
+weekend, end-of-month dummies,
+
+00:15:36.160 --> 00:15:38.325 align:middle line:90%
+a whole bunch of fixed effects.
+
+00:15:38.325 --> 00:15:39.700 align:middle line:84%
+And the idea is
+that you can just
+
+00:15:39.700 --> 00:15:42.550 align:middle line:84%
+pick up the demographic
+differences in prices
+
+00:15:42.550 --> 00:15:45.220 align:middle line:84%
+from those demographic
+coefficients.
+
+00:15:45.220 --> 00:15:48.550 align:middle line:84%
+And most of this is just playing
+off the JD Power data, not
+
+00:15:48.550 --> 00:15:49.560 align:middle line:90%
+the Autobytel data.
+
+00:15:49.560 --> 00:15:53.070 align:middle line:90%
+
+
+00:15:53.070 --> 00:15:53.760 align:middle line:90%
+OK.
+
+00:15:53.760 --> 00:15:54.640 align:middle line:90%
+What do they find?
+
+00:15:54.640 --> 00:15:58.680 align:middle line:84%
+Well, they're getting much
+more precise estimates
+
+00:15:58.680 --> 00:16:02.170 align:middle line:84%
+than previous papers because
+they have so much more data.
+
+00:16:02.170 --> 00:16:03.840 align:middle line:84%
+And basically what
+these data say
+
+00:16:03.840 --> 00:16:07.500 align:middle line:84%
+is that there is
+discrimination in pricing,
+
+00:16:07.500 --> 00:16:10.650 align:middle line:84%
+but that it's a lot smaller
+than Ayres and Siegelman had
+
+00:16:10.650 --> 00:16:13.950 align:middle line:84%
+suggested discrimination
+might be in equilibrium.
+
+00:16:13.950 --> 00:16:14.680 align:middle line:90%
+So examples.
+
+00:16:14.680 --> 00:16:17.220 align:middle line:90%
+
+
+00:16:17.220 --> 00:16:19.680 align:middle line:84%
+They don't know who
+is Black, but they
+
+00:16:19.680 --> 00:16:25.590 align:middle line:84%
+do know the percentage Black
+in the census block group
+
+00:16:25.590 --> 00:16:26.830 align:middle line:90%
+where you live.
+
+00:16:26.830 --> 00:16:30.210 align:middle line:84%
+And they know whether the census
+block group where you live
+
+00:16:30.210 --> 00:16:31.830 align:middle line:90%
+is primarily Black.
+
+00:16:31.830 --> 00:16:36.000 align:middle line:84%
+And they find that this suggests
+that those in Black areas
+
+00:16:36.000 --> 00:16:40.050 align:middle line:84%
+pay roughly 1.5% more than
+those living in white areas.
+
+00:16:40.050 --> 00:16:45.812 align:middle line:84%
+Those in Hispanic
+areas pay 1.1% more.
+
+00:16:45.812 --> 00:16:47.270 align:middle line:84%
+All these coefficients
+are circled.
+
+00:16:47.270 --> 00:16:48.687 align:middle line:84%
+I don't know if
+that really helps.
+
+00:16:48.687 --> 00:16:53.920 align:middle line:84%
+Those in Asian areas are
+paying 4/10 of a percent less.
+
+00:16:53.920 --> 00:16:58.870 align:middle line:84%
+The Hispanic and Asian effects,
+you can also see them--
+
+00:16:58.870 --> 00:17:02.710 align:middle line:84%
+people who live in more
+heavily Hispanic-- more heavily
+
+00:17:02.710 --> 00:17:08.089 align:middle line:90%
+Asian census blocks pay less.
+
+00:17:08.089 --> 00:17:14.140 align:middle line:84%
+Those who themselves have Asian
+sounding names also pay less.
+
+00:17:14.140 --> 00:17:17.119 align:middle line:90%
+And women pay more for cars.
+
+00:17:17.119 --> 00:17:19.160 align:middle line:90%
+This one is small.
+
+00:17:19.160 --> 00:17:23.450 align:middle line:84%
+Women pay 2/10 of a percent
+more for cars on average.
+
+00:17:23.450 --> 00:17:27.160 align:middle line:90%
+
+
+00:17:27.160 --> 00:17:31.270 align:middle line:84%
+In addition to these
+demographic differences,
+
+00:17:31.270 --> 00:17:33.430 align:middle line:90%
+you also see differences--
+
+00:17:33.430 --> 00:17:36.430 align:middle line:84%
+I guess, given the
+670,000 car sample,
+
+00:17:36.430 --> 00:17:38.810 align:middle line:84%
+just about everything
+is significant.
+
+00:17:38.810 --> 00:17:40.780 align:middle line:84%
+And so you get,
+for instance, those
+
+00:17:40.780 --> 00:17:43.670 align:middle line:84%
+who live in more college
+educated areas pay less.
+
+00:17:43.670 --> 00:17:46.360 align:middle line:84%
+Those in areas with more
+home owners pay less.
+
+00:17:46.360 --> 00:17:48.360 align:middle line:90%
+So you get other--
+
+00:17:48.360 --> 00:17:50.670 align:middle line:84%
+you might have thought
+the discrimination would
+
+00:17:50.670 --> 00:17:54.150 align:middle line:84%
+go in the sense of, like with
+the leaded/unleaded gasoline,
+
+00:17:54.150 --> 00:17:57.060 align:middle line:84%
+high income people end up
+being charged higher prices.
+
+00:17:57.060 --> 00:17:59.402 align:middle line:84%
+Here, the messages sound
+like the discrimination,
+
+00:17:59.402 --> 00:18:01.110 align:middle line:84%
+to the extent it's
+there, looks like it's
+
+00:18:01.110 --> 00:18:04.660 align:middle line:84%
+discrimination in favor of
+more sophisticated buyers.
+
+00:18:04.660 --> 00:18:06.510 align:middle line:84%
+So the people who
+have college degrees,
+
+00:18:06.510 --> 00:18:09.390 align:middle line:84%
+own their homes, whatever,
+they end up paying less
+
+00:18:09.390 --> 00:18:12.060 align:middle line:84%
+for their cars, perhaps
+because as if they're
+
+00:18:12.060 --> 00:18:15.150 align:middle line:84%
+better at bargaining or have
+more information or more ability
+
+00:18:15.150 --> 00:18:17.790 align:middle line:84%
+to comparison shop
+at multiple dealers
+
+00:18:17.790 --> 00:18:19.260 align:middle line:84%
+or are better
+using the internet,
+
+00:18:19.260 --> 00:18:22.940 align:middle line:90%
+whatever the factor is.
+
+00:18:22.940 --> 00:18:25.515 align:middle line:84%
+But again, these effects
+tend to be relatively small.
+
+00:18:25.515 --> 00:18:27.140 align:middle line:84%
+They're all in the
+orders of a fraction
+
+00:18:27.140 --> 00:18:29.125 align:middle line:90%
+of a percent in the price.
+
+00:18:29.125 --> 00:18:34.890 align:middle line:90%
+
+
+00:18:34.890 --> 00:18:36.450 align:middle line:90%
+OK.
+
+00:18:36.450 --> 00:18:37.998 align:middle line:84%
+Why are these
+prices differences?
+
+00:18:37.998 --> 00:18:39.540 align:middle line:84%
+You can think of a
+number of reasons.
+
+00:18:39.540 --> 00:18:42.810 align:middle line:84%
+If you are a Chicago School
+economist, you can come up with,
+
+00:18:42.810 --> 00:18:45.480 align:middle line:84%
+no, these are all just
+picking up cost differences
+
+00:18:45.480 --> 00:18:49.020 align:middle line:84%
+because my cost of
+selling someone a car,
+
+00:18:49.020 --> 00:18:51.660 align:middle line:84%
+there is this cost of, I
+have a salesperson's time
+
+00:18:51.660 --> 00:18:53.640 align:middle line:84%
+talking to them that
+I have to recoup,
+
+00:18:53.640 --> 00:18:55.660 align:middle line:90%
+even if the person doesn't buy.
+
+00:18:55.660 --> 00:18:59.412 align:middle line:84%
+And so people less likely to buy
+might get quoted higher prices.
+
+00:18:59.412 --> 00:19:00.870 align:middle line:84%
+You also have these
+effects of, who
+
+00:19:00.870 --> 00:19:03.690 align:middle line:84%
+is going to bring the car
+into the dealer for service?
+
+00:19:03.690 --> 00:19:06.762 align:middle line:84%
+And perhaps the
+wealthier people are
+
+00:19:06.762 --> 00:19:08.970 align:middle line:84%
+going to bring the car back
+to the dealer for service
+
+00:19:08.970 --> 00:19:11.680 align:middle line:84%
+and get charged $199
+for an oil change
+
+00:19:11.680 --> 00:19:14.560 align:middle line:84%
+instead of going to the
+Jiffy Lube and paying $19.99.
+
+00:19:14.560 --> 00:19:17.430 align:middle line:84%
+Therefore, the car dealers are
+more anxious to sell to them
+
+00:19:17.430 --> 00:19:19.972 align:middle line:84%
+because they know they're going
+to make the money back later.
+
+00:19:19.972 --> 00:19:23.080 align:middle line:90%
+
+
+00:19:23.080 --> 00:19:25.120 align:middle line:84%
+Obviously, the price
+discrimination theory
+
+00:19:25.120 --> 00:19:28.750 align:middle line:84%
+suggests that this could
+just be profit maximizing
+
+00:19:28.750 --> 00:19:32.560 align:middle line:84%
+against differences, either
+differences in intensity
+
+00:19:32.560 --> 00:19:36.940 align:middle line:84%
+of preferences or search costs,
+ability to comparison shop,
+
+00:19:36.940 --> 00:19:38.950 align:middle line:84%
+differences in
+bargaining skills.
+
+00:19:38.950 --> 00:19:42.760 align:middle line:84%
+Or there could be
+racial or gender bias.
+
+00:19:42.760 --> 00:19:43.970 align:middle line:90%
+I dislike women.
+
+00:19:43.970 --> 00:19:46.090 align:middle line:84%
+I'm going to charge
+women more for cars
+
+00:19:46.090 --> 00:19:49.150 align:middle line:90%
+just because I don't like them.
+
+00:19:49.150 --> 00:19:55.120 align:middle line:84%
+So the data set, unfortunately,
+while it's very rich,
+
+00:19:55.120 --> 00:19:56.530 align:middle line:90%
+it doesn't have--
+
+00:19:56.530 --> 00:19:59.180 align:middle line:84%
+there's no exogenous price
+variation in this data.
+
+00:19:59.180 --> 00:20:02.160 align:middle line:84%
+So there's nothing really to
+estimate price elasticities
+
+00:20:02.160 --> 00:20:02.660 align:middle line:90%
+here.
+
+00:20:02.660 --> 00:20:05.480 align:middle line:84%
+This is just
+equilibrium prices paid.
+
+00:20:05.480 --> 00:20:08.470 align:middle line:84%
+So that really knocks out
+a lot of the opportunities
+
+00:20:08.470 --> 00:20:11.110 align:middle line:84%
+you would like to see of, is
+the price discrimination model
+
+00:20:11.110 --> 00:20:12.200 align:middle line:90%
+really explaining this?
+
+00:20:12.200 --> 00:20:14.170 align:middle line:84%
+You'd really like
+to say, do women
+
+00:20:14.170 --> 00:20:16.042 align:middle line:84%
+have different demand
+elasticities than men?
+
+00:20:16.042 --> 00:20:18.250 align:middle line:84%
+And are those demand
+elasticities such that you would
+
+00:20:18.250 --> 00:20:22.100 align:middle line:84%
+price 2/10 of a percent
+different because of them?
+
+00:20:22.100 --> 00:20:26.890 align:middle line:84%
+So instead, they just have
+some auxiliary regressions,
+
+00:20:26.890 --> 00:20:30.310 align:middle line:84%
+trying to make the
+case that they think--
+
+00:20:30.310 --> 00:20:33.237 align:middle line:84%
+so I guess, I don't know if
+they're trying to make a case.
+
+00:20:33.237 --> 00:20:33.820 align:middle line:90%
+They come now.
+
+00:20:33.820 --> 00:20:35.237 align:middle line:84%
+Their bottom line
+is they're going
+
+00:20:35.237 --> 00:20:38.470 align:middle line:84%
+to argue that this looks a lot
+like profit maximizing, price
+
+00:20:38.470 --> 00:20:42.460 align:middle line:84%
+discrimination, and exploitation
+of consumers with higher search
+
+00:20:42.460 --> 00:20:45.730 align:middle line:84%
+costs or who are less
+sophisticated at shopping.
+
+00:20:45.730 --> 00:20:49.633 align:middle line:84%
+So what are some of the
+things that do this?
+
+00:20:49.633 --> 00:20:50.133 align:middle line:90%
+OK.
+
+00:20:50.133 --> 00:20:55.850 align:middle line:84%
+So doo doo doo doo doo doo
+doo doo doo doo doo doo.
+
+00:20:55.850 --> 00:20:56.390 align:middle line:90%
+Yeah.
+
+00:20:56.390 --> 00:21:00.470 align:middle line:84%
+So, for instance, the
+race and gender effects
+
+00:21:00.470 --> 00:21:02.300 align:middle line:84%
+are only a little
+smaller in the sample
+
+00:21:02.300 --> 00:21:04.320 align:middle line:90%
+that doesn't require financing.
+
+00:21:04.320 --> 00:21:07.490 align:middle line:84%
+And so they argue that in the
+sample that comes in and tells
+
+00:21:07.490 --> 00:21:10.160 align:middle line:84%
+you, I have cash, I don't
+need dealer financing,
+
+00:21:10.160 --> 00:21:13.640 align:middle line:84%
+you're more sure that
+the sale will go through.
+
+00:21:13.640 --> 00:21:15.260 align:middle line:84%
+The cost base
+difference of I'm not
+
+00:21:15.260 --> 00:21:17.927 align:middle line:84%
+worried this person isn't going
+to be able to buy the car anyway
+
+00:21:17.927 --> 00:21:18.810 align:middle line:90%
+isn't there.
+
+00:21:18.810 --> 00:21:21.170 align:middle line:84%
+They notice that the effects
+are really only slightly
+
+00:21:21.170 --> 00:21:23.630 align:middle line:90%
+different in that effect.
+
+00:21:23.630 --> 00:21:26.180 align:middle line:84%
+Another one is they look
+at the subsample of people
+
+00:21:26.180 --> 00:21:28.280 align:middle line:90%
+who are trading in cars.
+
+00:21:28.280 --> 00:21:31.970 align:middle line:84%
+The subsample of people
+who are trading in cars,
+
+00:21:31.970 --> 00:21:35.173 align:middle line:84%
+if someone is trading in
+a car, they have a car,
+
+00:21:35.173 --> 00:21:36.590 align:middle line:84%
+and they ought to
+be just about as
+
+00:21:36.590 --> 00:21:39.380 align:middle line:84%
+good at driving around to other
+dealers and doing comparison.
+
+00:21:39.380 --> 00:21:42.290 align:middle line:84%
+They have similar opportunities
+to drive in and do
+
+00:21:42.290 --> 00:21:45.090 align:middle line:84%
+comparison shopping because you
+know they already own a car.
+
+00:21:45.090 --> 00:21:48.080 align:middle line:84%
+And what they find is that in
+this restricting the sample
+
+00:21:48.080 --> 00:21:53.820 align:middle line:84%
+to the people who
+are trading in cars,
+
+00:21:53.820 --> 00:21:57.720 align:middle line:84%
+the race premiums
+are about half as big
+
+00:21:57.720 --> 00:21:59.700 align:middle line:90%
+as they are in the full sample.
+
+00:21:59.700 --> 00:22:03.150 align:middle line:84%
+And so they say that that
+suggests that the differential
+
+00:22:03.150 --> 00:22:06.780 align:middle line:84%
+ability to shop, perhaps
+because you don't have a car,
+
+00:22:06.780 --> 00:22:09.450 align:middle line:84%
+are less able to
+shop around, would
+
+00:22:09.450 --> 00:22:11.850 align:middle line:84%
+be explaining at least
+half of the premium
+
+00:22:11.850 --> 00:22:14.910 align:middle line:84%
+that they're finding
+to begin with.
+
+00:22:14.910 --> 00:22:17.795 align:middle line:84%
+And obviously, I think part
+of-- from this comparison,
+
+00:22:17.795 --> 00:22:19.920 align:middle line:84%
+that the effect is only so
+big if you don't control
+
+00:22:19.920 --> 00:22:22.380 align:middle line:84%
+for anything, they
+would argue that, look,
+
+00:22:22.380 --> 00:22:24.690 align:middle line:84%
+if it's down to
+0.8 and 0.6 here,
+
+00:22:24.690 --> 00:22:27.452 align:middle line:84%
+if we controlled for additional
+demographic variables,
+
+00:22:27.452 --> 00:22:29.285 align:middle line:84%
+we would expect the gap
+to get even smaller.
+
+00:22:29.285 --> 00:22:33.320 align:middle line:90%
+
+
+00:22:33.320 --> 00:22:35.700 align:middle line:90%
+Questions on that?
+
+00:22:35.700 --> 00:22:36.200 align:middle line:90%
+OK.
+
+00:22:36.200 --> 00:22:40.940 align:middle line:84%
+Then the final part
+of the paper is
+
+00:22:40.940 --> 00:22:44.300 align:middle line:84%
+they also look at
+people who bought
+
+00:22:44.300 --> 00:22:47.030 align:middle line:90%
+the cars through Autobytel.
+
+00:22:47.030 --> 00:22:49.790 align:middle line:84%
+And the Autobytel sample,
+the main sample they look for
+
+00:22:49.790 --> 00:22:52.970 align:middle line:84%
+is people who shop
+through Autobytel
+
+00:22:52.970 --> 00:22:56.620 align:middle line:84%
+and buy from the dealer that
+Autobytel assigns them to.
+
+00:22:56.620 --> 00:22:57.762 align:middle line:90%
+All right.
+
+00:22:57.762 --> 00:22:59.720 align:middle line:84%
+I forget whether it was
+buy through that dealer
+
+00:22:59.720 --> 00:23:00.900 align:middle line:90%
+or buy through--
+
+00:23:00.900 --> 00:23:01.400 align:middle line:90%
+no.
+
+00:23:01.400 --> 00:23:06.302 align:middle line:84%
+I guess it's eventually
+bought on autobytel.com
+
+00:23:06.302 --> 00:23:08.510 align:middle line:84%
+the same car that they
+searched for, not a different.
+
+00:23:08.510 --> 00:23:10.552 align:middle line:84%
+So you throw out people
+who searched on Autobytel
+
+00:23:10.552 --> 00:23:12.480 align:middle line:84%
+for a Corolla and then
+buy a Honda Civic,
+
+00:23:12.480 --> 00:23:13.970 align:middle line:84%
+but they keep
+everyone who searched
+
+00:23:13.970 --> 00:23:16.490 align:middle line:84%
+on Autobytel for a Corolla
+and buys a Corolla.
+
+00:23:16.490 --> 00:23:18.470 align:middle line:90%
+What they find is that--
+
+00:23:18.470 --> 00:23:19.440 align:middle line:90%
+two main results here.
+
+00:23:19.440 --> 00:23:20.300 align:middle line:90%
+Do I have arrows?
+
+00:23:20.300 --> 00:23:21.800 align:middle line:90%
+I do not have arrows.
+
+00:23:21.800 --> 00:23:25.330 align:middle line:84%
+One is that Autobytel
+buyers pay less.
+
+00:23:25.330 --> 00:23:27.830 align:middle line:84%
+They pay about 9/10 less than
+the people searching for a car
+
+00:23:27.830 --> 00:23:29.360 align:middle line:90%
+through traditional means.
+
+00:23:29.360 --> 00:23:31.010 align:middle line:84%
+So this is, again,
+arguing something
+
+00:23:31.010 --> 00:23:34.800 align:middle line:84%
+about either the Autobytel
+company or sophistication
+
+00:23:34.800 --> 00:23:36.010 align:middle line:90%
+of people using the internet.
+
+00:23:36.010 --> 00:23:37.740 align:middle line:84%
+The fact that they're using
+an internet to buy a car
+
+00:23:37.740 --> 00:23:39.720 align:middle line:84%
+and getting a price
+quote, they end up
+
+00:23:39.720 --> 00:23:41.340 align:middle line:90%
+paying less for their cars.
+
+00:23:41.340 --> 00:23:45.090 align:middle line:84%
+And then the interactions
+with the demographics,
+
+00:23:45.090 --> 00:23:49.810 align:middle line:84%
+you'll see that the Black
+coefficient here was 1.5%
+
+00:23:49.810 --> 00:23:53.370 align:middle line:84%
+but that Autobytel times
+Black is minus 1.2.
+
+00:23:53.370 --> 00:23:58.870 align:middle line:84%
+Hispanic was 0.7 plus
+0.5, is like 1.2.
+
+00:23:58.870 --> 00:24:01.840 align:middle line:84%
+You get a minus 2%
+for buying it online.
+
+00:24:01.840 --> 00:24:09.450 align:middle line:84%
+So that the-- it seems like the
+people buying through Autobytel,
+
+00:24:09.450 --> 00:24:15.950 align:middle line:84%
+the race and gender effects
+have largely been eliminated.
+
+00:24:15.950 --> 00:24:18.750 align:middle line:84%
+And obviously, in many
+cases, the dealers
+
+00:24:18.750 --> 00:24:21.180 align:middle line:84%
+are still going--
+at least the gender,
+
+00:24:21.180 --> 00:24:22.800 align:middle line:84%
+the Asian/Hispanic
+things, dealers
+
+00:24:22.800 --> 00:24:24.790 align:middle line:84%
+are going to see the name of
+the person buying the car.
+
+00:24:24.790 --> 00:24:26.332 align:middle line:84%
+So they would be
+able to discriminate
+
+00:24:26.332 --> 00:24:27.720 align:middle line:90%
+based on those factors.
+
+00:24:27.720 --> 00:24:31.782 align:middle line:84%
+But they appear not to
+in the Autobytel data.
+
+00:24:31.782 --> 00:24:33.490 align:middle line:84%
+And they argue that
+this, again, suggests
+
+00:24:33.490 --> 00:24:36.070 align:middle line:84%
+that a lot of what we're
+seeing is discrimination
+
+00:24:36.070 --> 00:24:39.190 align:middle line:84%
+against people who
+are less able to shop
+
+00:24:39.190 --> 00:24:40.845 align:middle line:90%
+or less savvy at shopping.
+
+00:24:40.845 --> 00:24:48.120 align:middle line:90%
+
+
+00:24:48.120 --> 00:24:51.380 align:middle line:90%
+Any questions on that paper?
+
+00:24:51.380 --> 00:24:52.960 align:middle line:90%
+No?
+
+00:24:52.960 --> 00:24:55.300 align:middle line:90%
+OK.
+
+00:24:55.300 --> 00:25:00.340 align:middle line:90%
+So yeah.
+
+00:25:00.340 --> 00:25:02.190 align:middle line:84%
+I guess one final
+comment I wanted to make
+
+00:25:02.190 --> 00:25:07.350 align:middle line:84%
+is that if you were to ask, What
+would be the effect of banning
+
+00:25:07.350 --> 00:25:11.220 align:middle line:84%
+discrimination here, at least
+banning mean discrimination?,
+
+00:25:11.220 --> 00:25:14.490 align:middle line:84%
+this paper essentially
+makes it suggest
+
+00:25:14.490 --> 00:25:16.890 align:middle line:84%
+that banning
+discrimination would not do
+
+00:25:16.890 --> 00:25:18.580 align:middle line:90%
+much at all to dealer profits.
+
+00:25:18.580 --> 00:25:24.080 align:middle line:84%
+Because if you think about it,
+a feature of monopoly pricing is
+
+00:25:24.080 --> 00:25:29.050 align:middle line:84%
+that d(pi)/d(p)
+evaluated at pm equals 0.
+
+00:25:29.050 --> 00:25:32.960 align:middle line:84%
+So a change in the price has
+only a second order effect
+
+00:25:32.960 --> 00:25:34.650 align:middle line:90%
+on the dealer's profits.
+
+00:25:34.650 --> 00:25:38.987 align:middle line:84%
+And so if you're only
+changing-- if d(pi)/d(p)--
+
+00:25:38.987 --> 00:25:41.570 align:middle line:84%
+if you have only a second order
+effect on profits from a price
+
+00:25:41.570 --> 00:25:42.945 align:middle line:84%
+change and you're
+banning dealers
+
+00:25:42.945 --> 00:25:45.703 align:middle line:84%
+from having 1% price
+differences, that
+
+00:25:45.703 --> 00:25:47.870 align:middle line:84%
+seems like that would have
+a very, very minor effect
+
+00:25:47.870 --> 00:25:49.170 align:middle line:90%
+on dealer profits.
+
+00:25:49.170 --> 00:25:53.568 align:middle line:84%
+Now, this is banning mean
+price discrimination.
+
+00:25:53.568 --> 00:25:55.110 align:middle line:84%
+It is the case that
+in the data there
+
+00:25:55.110 --> 00:25:57.210 align:middle line:84%
+are some people
+who pay 5% or 10%
+
+00:25:57.210 --> 00:25:59.890 align:middle line:84%
+more and some people who pay
+5% or 10% less than others.
+
+00:25:59.890 --> 00:26:03.180 align:middle line:84%
+So it could be that the dealers
+are making a lot of profits
+
+00:26:03.180 --> 00:26:05.670 align:middle line:84%
+from being allowed
+to discriminate,
+
+00:26:05.670 --> 00:26:07.950 align:middle line:84%
+but being allowed to
+discriminate in a way that
+
+00:26:07.950 --> 00:26:12.210 align:middle line:84%
+systematically disadvantages
+demographic groups that can't
+
+00:26:12.210 --> 00:26:13.415 align:middle line:90%
+be important to the dealers.
+
+00:26:13.415 --> 00:26:18.540 align:middle line:90%
+
+
+00:26:18.540 --> 00:26:19.350 align:middle line:90%
+Questions?
+
+00:26:19.350 --> 00:26:23.190 align:middle line:90%
+
+
+00:26:23.190 --> 00:26:23.690 align:middle line:90%
+OK.
+
+00:26:23.690 --> 00:26:26.397 align:middle line:84%
+So then the second
+topic I figured
+
+00:26:26.397 --> 00:26:27.980 align:middle line:84%
+I'd focus on with
+the other two papers
+
+00:26:27.980 --> 00:26:32.560 align:middle line:84%
+was this question
+of, how large are
+
+00:26:32.560 --> 00:26:35.080 align:middle line:84%
+the gains from price
+discrimination online going
+
+00:26:35.080 --> 00:26:36.070 align:middle line:90%
+to be?
+
+00:26:36.070 --> 00:26:39.580 align:middle line:84%
+And what would that
+price discrimination
+
+00:26:39.580 --> 00:26:41.800 align:middle line:84%
+do to consumer
+surplus and welfare?
+
+00:26:41.800 --> 00:26:43.960 align:middle line:84%
+And again, as I said at
+the start of this lecture,
+
+00:26:43.960 --> 00:26:47.047 align:middle line:84%
+in the previous time, we know
+that price discrimination
+
+00:26:47.047 --> 00:26:48.880 align:middle line:84%
+is always good for firms
+because they always
+
+00:26:48.880 --> 00:26:51.310 align:middle line:90%
+have the option not to do it.
+
+00:26:51.310 --> 00:26:58.090 align:middle line:84%
+But there was that sort of-- we
+had the Bergemann-Brooks-Morris
+
+00:26:58.090 --> 00:27:01.330 align:middle line:84%
+triangle that said,
+monopoly pricing is here.
+
+00:27:01.330 --> 00:27:03.710 align:middle line:84%
+Perfect price
+discrimination is here.
+
+00:27:03.710 --> 00:27:07.810 align:middle line:84%
+If you allow firms to
+start price discriminating,
+
+00:27:07.810 --> 00:27:09.400 align:middle line:84%
+we don't know whether
+you go this way
+
+00:27:09.400 --> 00:27:11.600 align:middle line:90%
+or this way or this way.
+
+00:27:11.600 --> 00:27:16.712 align:middle line:84%
+And this was consumer surplus on
+this axis, profit on this axis.
+
+00:27:16.712 --> 00:27:18.170 align:middle line:84%
+You let firms start
+discriminating.
+
+00:27:18.170 --> 00:27:20.380 align:middle line:84%
+You don't know-- you know
+profits are going up,
+
+00:27:20.380 --> 00:27:23.230 align:middle line:84%
+but you don't know whether
+consumer surplus is going up,
+
+00:27:23.230 --> 00:27:26.020 align:middle line:84%
+is being flat, or is going
+down, or is going down
+
+00:27:26.020 --> 00:27:28.990 align:middle line:84%
+by enough to be below
+the 45 degree line
+
+00:27:28.990 --> 00:27:31.783 align:middle line:90%
+and make social welfare go down.
+
+00:27:31.783 --> 00:27:33.700 align:middle line:84%
+So in some sense, what
+these papers are trying
+
+00:27:33.700 --> 00:27:37.900 align:middle line:90%
+to answer is, which direction--
+
+00:27:37.900 --> 00:27:39.490 align:middle line:90%
+how big are these arrows?
+
+00:27:39.490 --> 00:27:43.370 align:middle line:84%
+Do profits move a lot, or
+do profits move a little?
+
+00:27:43.370 --> 00:27:47.440 align:middle line:84%
+And in what direction does
+the consumer surplus change
+
+00:27:47.440 --> 00:27:49.730 align:middle line:90%
+when the profits are changing?
+
+00:27:49.730 --> 00:27:52.040 align:middle line:90%
+OK.
+
+00:27:52.040 --> 00:27:55.580 align:middle line:84%
+So first, I'm going to
+cover the paper written
+
+00:27:55.580 --> 00:27:58.610 align:middle line:84%
+by someone who was a graduate
+student at the time using
+
+00:27:58.610 --> 00:28:02.970 align:middle line:84%
+graduate student
+accessible data.
+
+00:28:02.970 --> 00:28:08.930 align:middle line:84%
+So Shiller is using information
+from web browsing activities
+
+00:28:08.930 --> 00:28:10.250 align:middle line:90%
+from ComScore.
+
+00:28:10.250 --> 00:28:17.460 align:middle line:84%
+So ComScore data, it's not
+free, but it's purchasable.
+
+00:28:17.460 --> 00:28:18.500 align:middle line:90%
+You can access it.
+
+00:28:18.500 --> 00:28:22.850 align:middle line:84%
+He accessed it through Wharton
+Research Data Services.
+
+00:28:22.850 --> 00:28:25.710 align:middle line:84%
+ComScore data, it's
+modified web logs.
+
+00:28:25.710 --> 00:28:26.840 align:middle line:90%
+So he has this.
+
+00:28:26.840 --> 00:28:29.240 align:middle line:84%
+ComScore is a company
+that, basically, it's
+
+00:28:29.240 --> 00:28:34.210 align:middle line:84%
+an information broker that
+sells information to firms.
+
+00:28:34.210 --> 00:28:36.580 align:middle line:90%
+What they do is you allow--
+
+00:28:36.580 --> 00:28:37.837 align:middle line:90%
+ComScore will pay you money.
+
+00:28:37.837 --> 00:28:39.670 align:middle line:84%
+I don't know if it's
+like they pay you $100.
+
+00:28:39.670 --> 00:28:44.260 align:middle line:84%
+And they will say, can you
+install this browser add-on?
+
+00:28:44.260 --> 00:28:46.120 align:middle line:84%
+And this browser add-on
+is going to track
+
+00:28:46.120 --> 00:28:49.160 align:middle line:84%
+everything you do online
+and send it up to ComScore.
+
+00:28:49.160 --> 00:28:52.090 align:middle line:84%
+So you have to be
+fairly confident
+
+00:28:52.090 --> 00:28:53.840 align:middle line:90%
+in the anonymity of that.
+
+00:28:53.840 --> 00:28:57.160 align:middle line:84%
+And obviously, we all know it's
+very hard to have anonymous--
+
+00:28:57.160 --> 00:28:59.290 align:middle line:84%
+given that people tend to
+look at their own page,
+
+00:28:59.290 --> 00:29:01.840 align:middle line:84%
+their own Facebook,
+or their own whatever,
+
+00:29:01.840 --> 00:29:04.552 align:middle line:84%
+how anonymous is your
+entire stream of web usage?
+
+00:29:04.552 --> 00:29:06.010 align:middle line:84%
+Can someone figure
+out who you were
+
+00:29:06.010 --> 00:29:08.410 align:middle line:84%
+and what else you were
+looking at online?
+
+00:29:08.410 --> 00:29:13.150 align:middle line:84%
+But anyway, the ComScore panel
+at the time had 61,000 users who
+
+00:29:13.150 --> 00:29:15.400 align:middle line:84%
+were allowing ComScore to
+track everything they did
+
+00:29:15.400 --> 00:29:16.790 align:middle line:90%
+and reporting that.
+
+00:29:16.790 --> 00:29:19.743 align:middle line:84%
+And then firms interested
+in tracking consumers
+
+00:29:19.743 --> 00:29:21.160 align:middle line:84%
+or understanding
+consumer behavior
+
+00:29:21.160 --> 00:29:23.140 align:middle line:90%
+could buy ComScore data.
+
+00:29:23.140 --> 00:29:26.950 align:middle line:90%
+So Ben bought the ComScore data.
+
+00:29:26.950 --> 00:29:30.010 align:middle line:84%
+The ComScore data that you
+get in this public way,
+
+00:29:30.010 --> 00:29:32.300 align:middle line:90%
+it's not the full browsing logs.
+
+00:29:32.300 --> 00:29:34.270 align:middle line:84%
+They realized that was
+a little sensitive,
+
+00:29:34.270 --> 00:29:36.020 align:middle line:84%
+but what they do provide
+you with is still
+
+00:29:36.020 --> 00:29:41.180 align:middle line:84%
+a lot, which is timestamped
+lists of all the domains
+
+00:29:41.180 --> 00:29:42.060 align:middle line:90%
+that you go to.
+
+00:29:42.060 --> 00:29:45.020 align:middle line:84%
+So for instance, this
+person went to facebook.com.
+
+00:29:45.020 --> 00:29:47.660 align:middle line:84%
+They viewed 83 pages
+on facebook.com
+
+00:29:47.660 --> 00:29:49.650 align:middle line:90%
+over a period of 57 minutes.
+
+00:29:49.650 --> 00:29:52.280 align:middle line:84%
+Then they went to
+ebay.com, they did this.
+
+00:29:52.280 --> 00:29:53.960 align:middle line:84%
+Then they went to
+newyorktimes.com.
+
+00:29:53.960 --> 00:29:56.910 align:middle line:84%
+They viewed 12 pages
+there, spent 15 minutes.
+
+00:29:56.910 --> 00:29:59.570 align:middle line:84%
+And it just gives you
+the entire history.
+
+00:29:59.570 --> 00:30:01.048 align:middle line:90%
+It does also contain--
+
+00:30:01.048 --> 00:30:02.840 align:middle line:84%
+because it's meant for
+commercial purposes,
+
+00:30:02.840 --> 00:30:07.310 align:middle line:84%
+it does also contain information
+on things that they purchased.
+
+00:30:07.310 --> 00:30:11.000 align:middle line:84%
+So if you went to Netflix
+and signed up for Netflix,
+
+00:30:11.000 --> 00:30:13.310 align:middle line:84%
+that would be recorded
+in the ComScore data.
+
+00:30:13.310 --> 00:30:15.920 align:middle line:84%
+This person went to
+Netflix, viewed 12 pages,
+
+00:30:15.920 --> 00:30:17.900 align:middle line:90%
+and purchased a subscription.
+
+00:30:17.900 --> 00:30:18.400 align:middle line:90%
+OK?
+
+00:30:18.400 --> 00:30:20.960 align:middle line:90%
+
+
+00:30:20.960 --> 00:30:25.550 align:middle line:84%
+The paper focuses on demand
+for Netflix at the time.
+
+00:30:25.550 --> 00:30:28.290 align:middle line:84%
+Maybe you guys are too young
+to remember this world.
+
+00:30:28.290 --> 00:30:30.620 align:middle line:84%
+Netflix was not
+an online service
+
+00:30:30.620 --> 00:30:32.360 align:middle line:84%
+where you clicked
+on movies and could
+
+00:30:32.360 --> 00:30:33.930 align:middle line:90%
+download them and watch them.
+
+00:30:33.930 --> 00:30:36.680 align:middle line:84%
+Netflix was a service
+that mailed you DVDs.
+
+00:30:36.680 --> 00:30:38.360 align:middle line:84%
+So you would have a
+list on Netflix of,
+
+00:30:38.360 --> 00:30:40.760 align:middle line:84%
+these are the movies
+that I want to watch.
+
+00:30:40.760 --> 00:30:44.300 align:middle line:84%
+Netflix would mail you
+a movie in an envelope.
+
+00:30:44.300 --> 00:30:46.460 align:middle line:84%
+And then, when you were
+done watching your movie,
+
+00:30:46.460 --> 00:30:47.930 align:middle line:84%
+you would put the
+envelope in the mail,
+
+00:30:47.930 --> 00:30:49.347 align:middle line:84%
+you would mail it
+back to Netflix,
+
+00:30:49.347 --> 00:30:51.620 align:middle line:84%
+and the next movie on
+your queue would arrive.
+
+00:30:51.620 --> 00:30:53.900 align:middle line:84%
+So it was kind of like
+a video rental store,
+
+00:30:53.900 --> 00:30:56.410 align:middle line:84%
+except you didn't have to walk
+to the video rental store.
+
+00:30:56.410 --> 00:30:58.160 align:middle line:84%
+And you could have
+different subscriptions
+
+00:30:58.160 --> 00:31:00.110 align:middle line:84%
+like a subscription
+where you only
+
+00:31:00.110 --> 00:31:01.880 align:middle line:84%
+have one movie at a
+time or a subscription
+
+00:31:01.880 --> 00:31:03.360 align:middle line:84%
+where you got two
+movies at a time
+
+00:31:03.360 --> 00:31:05.642 align:middle line:90%
+so that you didn't have to wait.
+
+00:31:05.642 --> 00:31:07.100 align:middle line:84%
+The two-movie
+subscription, as soon
+
+00:31:07.100 --> 00:31:09.050 align:middle line:84%
+as you watch one of the
+two, you mail it back.
+
+00:31:09.050 --> 00:31:11.090 align:middle line:84%
+And then the second one
+can arrive in the mail
+
+00:31:11.090 --> 00:31:13.173 align:middle line:84%
+two days later, giving
+you time to watch it.
+
+00:31:13.173 --> 00:31:14.840 align:middle line:84%
+You still have the
+second movie to watch
+
+00:31:14.840 --> 00:31:17.660 align:middle line:90%
+while you're doing that.
+
+00:31:17.660 --> 00:31:19.140 align:middle line:90%
+Why does he do this?
+
+00:31:19.140 --> 00:31:21.980 align:middle line:84%
+In some ways, this is
+a very clever design.
+
+00:31:21.980 --> 00:31:23.480 align:middle line:84%
+I think, if you
+think about somebody
+
+00:31:23.480 --> 00:31:26.210 align:middle line:84%
+who has access to
+this limited data,
+
+00:31:26.210 --> 00:31:29.270 align:middle line:84%
+and he's trying to understand
+price discrimination,
+
+00:31:29.270 --> 00:31:32.520 align:middle line:84%
+there are several nice
+things about Netflix.
+
+00:31:32.520 --> 00:31:37.160 align:middle line:84%
+One is the number of people who
+purchase something in a year
+
+00:31:37.160 --> 00:31:38.160 align:middle line:90%
+is limited.
+
+00:31:38.160 --> 00:31:40.580 align:middle line:84%
+But he can get everyone
+who's a Netflix subscriber
+
+00:31:40.580 --> 00:31:42.500 align:middle line:84%
+because if you're a
+Netflix subscriber,
+
+00:31:42.500 --> 00:31:45.680 align:middle line:84%
+you regularly go to netflix.com
+and view multiple pages
+
+00:31:45.680 --> 00:31:47.880 align:middle line:84%
+and spend a little time
+there choosing your movies.
+
+00:31:47.880 --> 00:31:50.840 align:middle line:84%
+And so by seeing whether
+someone is a regular visitor
+
+00:31:50.840 --> 00:31:53.360 align:middle line:84%
+to netflix.com, you'll
+know whether they're
+
+00:31:53.360 --> 00:31:55.936 align:middle line:84%
+a Netflix subscriber or
+not a Netflix subscriber.
+
+00:31:55.936 --> 00:31:58.910 align:middle line:90%
+
+
+00:31:58.910 --> 00:32:01.760 align:middle line:84%
+You can reasonably treat
+Netflix as a monopolist.
+
+00:32:01.760 --> 00:32:04.880 align:middle line:84%
+Blockbuster video also
+had a DVD by mail program,
+
+00:32:04.880 --> 00:32:07.290 align:middle line:84%
+but Netflix had a
+dominant market share.
+
+00:32:07.290 --> 00:32:10.880 align:middle line:84%
+And you can think of
+them as monopoly pricing.
+
+00:32:10.880 --> 00:32:13.940 align:middle line:84%
+The fact that 16%
+of all Americans
+
+00:32:13.940 --> 00:32:16.310 align:middle line:84%
+had Netflix
+subscriptions at the time
+
+00:32:16.310 --> 00:32:18.710 align:middle line:84%
+means if you're trying to
+think about estimating demand
+
+00:32:18.710 --> 00:32:20.425 align:middle line:90%
+for something, you need the--
+
+00:32:20.425 --> 00:32:22.930 align:middle line:90%
+
+
+00:32:22.930 --> 00:32:27.130 align:middle line:84%
+you have 60,000 users, but if
+only 50 of them have bought
+
+00:32:27.130 --> 00:32:30.350 align:middle line:84%
+something, you really only have
+50 observations in some sense.
+
+00:32:30.350 --> 00:32:34.690 align:middle line:84%
+So the fact that you have
+60,000 observations and 16% have
+
+00:32:34.690 --> 00:32:37.840 align:middle line:84%
+Netflix subscriptions mean
+you've got 10,000 subscribers
+
+00:32:37.840 --> 00:32:39.370 align:middle line:90%
+and 50,000 non-subscribers.
+
+00:32:39.370 --> 00:32:42.550 align:middle line:84%
+And comparing the subscribers
+and non-subscribers is much more
+
+00:32:42.550 --> 00:32:49.780 align:middle line:84%
+powerful than if you're
+comparing 60 and 59,940.
+
+00:32:49.780 --> 00:32:52.990 align:middle line:84%
+And then another
+aspect is, like I said,
+
+00:32:52.990 --> 00:32:55.340 align:middle line:84%
+people do studies
+of cardboard boxes.
+
+00:32:55.340 --> 00:32:58.030 align:middle line:84%
+Netflix is a very
+simple business.
+
+00:32:58.030 --> 00:33:00.550 align:middle line:84%
+You can estimate very
+well Netflix's cost, which
+
+00:33:00.550 --> 00:33:03.170 align:middle line:90%
+is Netflix has to buy DVDs.
+
+00:33:03.170 --> 00:33:05.800 align:middle line:84%
+They have to have people
+put them in envelopes,
+
+00:33:05.800 --> 00:33:08.170 align:middle line:84%
+send them in the mail,
+and then get them back
+
+00:33:08.170 --> 00:33:09.760 align:middle line:90%
+and sort them again.
+
+00:33:09.760 --> 00:33:11.260 align:middle line:90%
+Netflix also had just--
+
+00:33:11.260 --> 00:33:13.210 align:middle line:84%
+so if you look at
+Netflix's accounting data
+
+00:33:13.210 --> 00:33:15.730 align:middle line:84%
+and you look at how much
+they spend buying DVDs,
+
+00:33:15.730 --> 00:33:17.890 align:middle line:84%
+how much do they spend
+on their mail rooms,
+
+00:33:17.890 --> 00:33:20.740 align:middle line:84%
+you can get very good
+accounting estimates of,
+
+00:33:20.740 --> 00:33:24.620 align:middle line:84%
+what is Netflix's cost
+of having a subscriber?
+
+00:33:24.620 --> 00:33:28.250 align:middle line:84%
+So he treats this as
+this is a product where
+
+00:33:28.250 --> 00:33:31.940 align:middle line:84%
+we can observe demand well, and
+we know the cost from accounting
+
+00:33:31.940 --> 00:33:34.640 align:middle line:90%
+data.
+
+00:33:34.640 --> 00:33:40.130 align:middle line:84%
+Big limitation, there
+is no price variation.
+
+00:33:40.130 --> 00:33:42.500 align:middle line:84%
+Netflix did have some
+coupons or whatever,
+
+00:33:42.500 --> 00:33:44.057 align:middle line:90%
+but he doesn't know that.
+
+00:33:44.057 --> 00:33:45.890 align:middle line:84%
+He doesn't know what
+most of his subscribers
+
+00:33:45.890 --> 00:33:47.348 align:middle line:84%
+paid for Netflix
+because he doesn't
+
+00:33:47.348 --> 00:33:48.643 align:middle line:90%
+observe them buying Netflix.
+
+00:33:48.643 --> 00:33:50.810 align:middle line:84%
+He doesn't know what kind
+of subscription they have,
+
+00:33:50.810 --> 00:33:53.030 align:middle line:84%
+whether it's a
+two-disc subscription
+
+00:33:53.030 --> 00:33:55.680 align:middle line:84%
+or a three-disc subscription
+or something like that.
+
+00:33:55.680 --> 00:34:00.800 align:middle line:84%
+So normally you think of, I
+need exogenous price variation
+
+00:34:00.800 --> 00:34:02.960 align:middle line:90%
+to estimate demand elasticities.
+
+00:34:02.960 --> 00:34:07.730 align:middle line:84%
+So I guess the
+second clever insight
+
+00:34:07.730 --> 00:34:09.770 align:middle line:84%
+that he makes in the
+paper, besides that Netflix
+
+00:34:09.770 --> 00:34:11.540 align:middle line:84%
+is a good experimental
+subject, is
+
+00:34:11.540 --> 00:34:16.310 align:middle line:84%
+that you can try to estimate
+price elasticities here
+
+00:34:16.310 --> 00:34:18.179 align:middle line:90%
+without any price variation.
+
+00:34:18.179 --> 00:34:22.370 align:middle line:84%
+So Tobias is going to talk
+about demand estimation
+
+00:34:22.370 --> 00:34:24.500 align:middle line:84%
+in a couple of weeks,
+which can't come too soon,
+
+00:34:24.500 --> 00:34:25.917 align:middle line:84%
+it seems, the
+papers I'm covering.
+
+00:34:25.917 --> 00:34:28.133 align:middle line:90%
+
+
+00:34:28.133 --> 00:34:29.550 align:middle line:84%
+A basic insight
+of that literature
+
+00:34:29.550 --> 00:34:31.440 align:middle line:84%
+is, if you have exogenous
+price variation,
+
+00:34:31.440 --> 00:34:33.840 align:middle line:84%
+you can estimate
+demand elasticities.
+
+00:34:33.840 --> 00:34:37.350 align:middle line:84%
+And then once you've estimated
+the demand elasticities,
+
+00:34:37.350 --> 00:34:40.469 align:middle line:84%
+if you're willing to assume that
+firms are profit maximizing,
+
+00:34:40.469 --> 00:34:44.580 align:middle line:84%
+then you've got this condition
+that the firm is maximizing
+
+00:34:44.580 --> 00:34:50.070 align:middle line:84%
+over p, p minus c
+D of p, or the firm
+
+00:34:50.070 --> 00:34:52.469 align:middle line:84%
+is going to be doing
+p minus c over p
+
+00:34:52.469 --> 00:34:55.250 align:middle line:84%
+equals 1 over the
+elasticity of demand.
+
+00:34:55.250 --> 00:34:57.270 align:middle line:84%
+So if I observe the
+elasticity of demand
+
+00:34:57.270 --> 00:35:00.000 align:middle line:84%
+and I observe the
+prices, I can figure out
+
+00:35:00.000 --> 00:35:02.460 align:middle line:84%
+what the firm's costs
+are without any cost data
+
+00:35:02.460 --> 00:35:08.220 align:middle line:84%
+if I assume that firms are
+profit maximizing monopolists.
+
+00:35:08.220 --> 00:35:11.970 align:middle line:84%
+What Shiller notes is that if
+you think about this equation,
+
+00:35:11.970 --> 00:35:15.060 align:middle line:84%
+let's suppose that we
+know that costs are known
+
+00:35:15.060 --> 00:35:18.240 align:middle line:84%
+and Netflix is
+profit maximizing.
+
+00:35:18.240 --> 00:35:22.050 align:middle line:84%
+If costs are known and
+Netflix is profit maximizing,
+
+00:35:22.050 --> 00:35:25.530 align:middle line:84%
+then I know p and
+I know c and I know
+
+00:35:25.530 --> 00:35:29.800 align:middle line:84%
+p, which means I can
+infer what the epsilon is.
+
+00:35:29.800 --> 00:35:35.350 align:middle line:84%
+So having the knowledge of
+what fraction of people buy
+
+00:35:35.350 --> 00:35:40.540 align:middle line:84%
+lets me get dq / dp
+because epsilon is dq / dp
+
+00:35:40.540 --> 00:35:42.110 align:middle line:90%
+times p over q or whatever.
+
+00:35:42.110 --> 00:35:46.480 align:middle line:84%
+So if I know p and I know q,
+then I can also get dq / dp.
+
+00:35:46.480 --> 00:35:48.855 align:middle line:90%
+So that gives me dq / dp.
+
+00:35:48.855 --> 00:35:53.300 align:middle line:90%
+
+
+00:35:53.300 --> 00:35:57.500 align:middle line:84%
+So I can really do
+what we often want
+
+00:35:57.500 --> 00:36:01.580 align:middle line:84%
+to get out of demand estimation,
+even without any exogenous price
+
+00:36:01.580 --> 00:36:04.100 align:middle line:84%
+variation, if I have
+cost variation and profit
+
+00:36:04.100 --> 00:36:05.990 align:middle line:90%
+maximization.
+
+00:36:05.990 --> 00:36:08.790 align:middle line:90%
+So anyway, what does he do?
+
+00:36:08.790 --> 00:36:12.590 align:middle line:84%
+So again, it looks like a lot of
+the logit-like demand structures
+
+00:36:12.590 --> 00:36:13.850 align:middle line:90%
+I talked about earlier.
+
+00:36:13.850 --> 00:36:15.920 align:middle line:84%
+He assumes that
+consumer i's utility
+
+00:36:15.920 --> 00:36:24.170 align:middle line:84%
+from buying Netflix package j
+is some utility from Netflix
+
+00:36:24.170 --> 00:36:28.620 align:middle line:84%
+minus alpha times the
+price of the package.
+
+00:36:28.620 --> 00:36:30.980 align:middle line:84%
+So alpha is this
+price sensitivity.
+
+00:36:30.980 --> 00:36:35.870 align:middle line:84%
+Plus xi j, which is the
+quality of package j,
+
+00:36:35.870 --> 00:36:38.120 align:middle line:84%
+plus this random
+error term that makes
+
+00:36:38.120 --> 00:36:43.740 align:middle line:84%
+some people who are similar
+buy and some people not buy.
+
+00:36:43.740 --> 00:36:46.830 align:middle line:84%
+And he assumes that
+this average willingness
+
+00:36:46.830 --> 00:36:51.930 align:middle line:84%
+to pay for Netflix among
+people with demographics X
+
+00:36:51.930 --> 00:36:54.110 align:middle line:90%
+is Xi times beta.
+
+00:36:54.110 --> 00:36:57.120 align:middle line:84%
+And he's going to think about
+that Netflix could discriminate
+
+00:36:57.120 --> 00:36:58.710 align:middle line:84%
+by charging different
+prices to people
+
+00:36:58.710 --> 00:37:01.020 align:middle line:90%
+with different observables Xi.
+
+00:37:01.020 --> 00:37:04.720 align:middle line:84%
+And in his data set, there
+are all kinds of observables.
+
+00:37:04.720 --> 00:37:08.550 align:middle line:84%
+So he has 18
+demographic variables,
+
+00:37:08.550 --> 00:37:13.170 align:middle line:84%
+15 variables that relate to the
+quantity and timing of when you
+
+00:37:13.170 --> 00:37:18.930 align:middle line:84%
+are on the internet, but then he
+puts in 4,600 other variables,
+
+00:37:18.930 --> 00:37:21.480 align:middle line:84%
+recording things like,
+how much time do you spend
+
+00:37:21.480 --> 00:37:23.528 align:middle line:90%
+on microsoftnetwork.com?
+
+00:37:23.528 --> 00:37:25.570 align:middle line:84%
+How much time do you spend
+on the New York Times?
+
+00:37:25.570 --> 00:37:27.370 align:middle line:84%
+How much time do you
+spend on Gamefly?
+
+00:37:27.370 --> 00:37:30.340 align:middle line:84%
+How much time do you spend
+on many other websites?
+
+00:37:30.340 --> 00:37:34.860 align:middle line:84%
+And so he basically takes the
+time spent on the 4,600 most
+
+00:37:34.860 --> 00:37:40.290 align:middle line:84%
+popular websites as a 4,600
+dimensional description of you.
+
+00:37:40.290 --> 00:37:48.050 align:middle line:84%
+And then, in his model,
+there's only a single alpha.
+
+00:37:48.050 --> 00:37:51.310 align:middle line:90%
+So dq / dp is the same for--
+
+00:37:51.310 --> 00:37:53.020 align:middle line:84%
+well, not dq / dp,
+but d (utility)
+
+00:37:53.020 --> 00:37:55.990 align:middle line:84%
+/ d(p) is the same
+for everybody.
+
+00:37:55.990 --> 00:38:04.247 align:middle line:84%
+But because the mean
+utilities differ,
+
+00:38:04.247 --> 00:38:06.580 align:middle line:84%
+people who have a very high
+v are going to buy the thing
+
+00:38:06.580 --> 00:38:08.630 align:middle line:84%
+basically almost regardless
+of what the price is.
+
+00:38:08.630 --> 00:38:11.720 align:middle line:84%
+People with a very low v are
+highly unlikely to buy it.
+
+00:38:11.720 --> 00:38:14.650 align:middle line:84%
+And so the price sensitivity
+does differ across people
+
+00:38:14.650 --> 00:38:17.770 align:middle line:84%
+because you have these
+nonlinearities in how much
+
+00:38:17.770 --> 00:38:19.270 align:middle line:84%
+it's worth to you,
+and that affects
+
+00:38:19.270 --> 00:38:21.170 align:middle line:90%
+how much you're willing to pay.
+
+00:38:21.170 --> 00:38:29.430 align:middle line:84%
+And so then he's going to
+estimate these beta parameters.
+
+00:38:29.430 --> 00:38:31.180 align:middle line:84%
+He's going to estimate
+the beta parameters
+
+00:38:31.180 --> 00:38:36.050 align:middle line:84%
+via a Lasso-like maximum
+likelihood estimation.
+
+00:38:36.050 --> 00:38:38.480 align:middle line:84%
+Do people here know
+what Lasso models are?
+
+00:38:38.480 --> 00:38:38.980 align:middle line:90%
+OK.
+
+00:38:38.980 --> 00:38:45.880 align:middle line:84%
+So Lasso model, you're used
+to seeing simple regression.
+
+00:38:45.880 --> 00:38:47.630 align:middle line:90%
+How does OLS regression work?
+
+00:38:47.630 --> 00:38:53.740 align:middle line:84%
+I'm just trying to maximize the
+sum of y minus yi minus beta Xi
+
+00:38:53.740 --> 00:38:55.030 align:middle line:90%
+squared.
+
+00:38:55.030 --> 00:38:58.120 align:middle line:84%
+And this is my OLS
+estimator of beta.
+
+00:38:58.120 --> 00:39:03.730 align:middle line:84%
+Sorry, I minimize over beta
+y minus x beta squared.
+
+00:39:03.730 --> 00:39:05.980 align:middle line:90%
+OK?
+
+00:39:05.980 --> 00:39:09.995 align:middle line:84%
+The lasso model is,
+suppose you have--
+
+00:39:09.995 --> 00:39:12.370 align:middle line:84%
+and something you're taught
+in undergraduate econometrics
+
+00:39:12.370 --> 00:39:14.380 align:middle line:84%
+is if I'm going
+to do this, I need
+
+00:39:14.380 --> 00:39:17.270 align:middle line:84%
+to have many fewer x's
+than I have observations.
+
+00:39:17.270 --> 00:39:20.290 align:middle line:90%
+And so I need the--
+
+00:39:20.290 --> 00:39:23.260 align:middle line:84%
+if the number of variables is N
+and the number of observations
+
+00:39:23.260 --> 00:39:25.400 align:middle line:84%
+is T, I need N
+small relative to T.
+
+00:39:25.400 --> 00:39:28.510 align:middle line:84%
+I need T going to infinity
+relative to the number
+
+00:39:28.510 --> 00:39:33.130 align:middle line:84%
+of right-hand side variables in
+order to estimate this equation.
+
+00:39:33.130 --> 00:39:37.480 align:middle line:84%
+What econometricians or computer
+scientists and econometricians
+
+00:39:37.480 --> 00:39:39.397 align:middle line:84%
+have noticed is that
+you don't actually
+
+00:39:39.397 --> 00:39:41.230 align:middle line:84%
+need that to estimate
+a regression if you're
+
+00:39:41.230 --> 00:39:44.982 align:middle line:84%
+willing to make the assumption
+that most of the betas are 0.
+
+00:39:44.982 --> 00:39:46.690 align:middle line:84%
+And if you're willing
+to-- the assumption
+
+00:39:46.690 --> 00:39:48.107 align:middle line:84%
+is you have a
+regression where you
+
+00:39:48.107 --> 00:39:50.180 align:middle line:84%
+have many, many
+right-hand side variables.
+
+00:39:50.180 --> 00:39:52.210 align:middle line:90%
+Most of the betas are 0.
+
+00:39:52.210 --> 00:39:54.470 align:middle line:84%
+The only thing is, you
+don't know which ones are 0.
+
+00:39:54.470 --> 00:40:00.250 align:middle line:84%
+Then what you can do is
+instead minimize over beta
+
+00:40:00.250 --> 00:40:03.760 align:middle line:90%
+the sum across observations i.
+
+00:40:03.760 --> 00:40:09.010 align:middle line:90%
+yi minus Xi beta squared.
+
+00:40:09.010 --> 00:40:18.995 align:middle line:84%
+And then subtract off the
+sum over all j of lambda j.
+
+00:40:18.995 --> 00:40:20.120 align:middle line:90%
+I actually want to do this.
+
+00:40:20.120 --> 00:40:25.700 align:middle line:84%
+Minus lambda the sum over
+j absolute value beta j.
+
+00:40:25.700 --> 00:40:29.390 align:middle line:84%
+So I'm using i to index
+people, j to index
+
+00:40:29.390 --> 00:40:31.700 align:middle line:90%
+variables in the equation.
+
+00:40:31.700 --> 00:40:34.640 align:middle line:84%
+So if I instead
+minimize an objective
+
+00:40:34.640 --> 00:40:36.320 align:middle line:84%
+function like this,
+where I'm minimizing
+
+00:40:36.320 --> 00:40:39.380 align:middle line:84%
+the sum of squared
+residuals minus the sum
+
+00:40:39.380 --> 00:40:42.020 align:middle line:84%
+of the absolute values
+of the coefficients.
+
+00:40:42.020 --> 00:40:45.020 align:middle line:84%
+And because you're minimizing
+the sum of the absolute value
+
+00:40:45.020 --> 00:40:46.580 align:middle line:84%
+of the coefficients,
+it's like you're
+
+00:40:46.580 --> 00:40:49.880 align:middle line:84%
+putting a penalty function
+that looks like this if you
+
+00:40:49.880 --> 00:40:52.230 align:middle line:90%
+use a nonzero beta j.
+
+00:40:52.230 --> 00:40:55.940 align:middle line:84%
+And so anything where
+the beta j looks like it
+
+00:40:55.940 --> 00:40:57.832 align:middle line:84%
+has a very, very
+small effect, you
+
+00:40:57.832 --> 00:40:59.540 align:middle line:84%
+minimize a function
+like this with a kink
+
+00:40:59.540 --> 00:41:02.810 align:middle line:84%
+by just setting
+beta j equal to 0.
+
+00:41:02.810 --> 00:41:05.570 align:middle line:84%
+And so what you do
+in a Lasso model is
+
+00:41:05.570 --> 00:41:07.460 align:middle line:84%
+you estimate a
+regression like this,
+
+00:41:07.460 --> 00:41:10.070 align:middle line:84%
+and you put in these
+penalty functions.
+
+00:41:10.070 --> 00:41:11.540 align:middle line:84%
+And you put those
+penalty functions
+
+00:41:11.540 --> 00:41:14.600 align:middle line:84%
+in in a way that sets most of
+the coefficients equal to zero.
+
+00:41:14.600 --> 00:41:18.135 align:middle line:84%
+And that is asymptotically
+a valid estimate
+
+00:41:18.135 --> 00:41:19.760 align:middle line:84%
+under some set of
+assumptions about how
+
+00:41:19.760 --> 00:41:25.070 align:middle line:84%
+fast the number of nonzero
+coefficients increases with t.
+
+00:41:25.070 --> 00:41:26.060 align:middle line:90%
+OK?
+
+00:41:26.060 --> 00:41:28.670 align:middle line:84%
+So he's doing
+something very much
+
+00:41:28.670 --> 00:41:31.010 align:middle line:84%
+like that in maximum
+likelihood estimation,
+
+00:41:31.010 --> 00:41:36.080 align:middle line:84%
+where what he's doing
+is he's maximizing
+
+00:41:36.080 --> 00:41:41.510 align:middle line:84%
+the sum of the likelihood
+of yi given Xi.
+
+00:41:41.510 --> 00:41:45.800 align:middle line:84%
+And then also subtracting lambda
+times the sum of the absolute
+
+00:41:45.800 --> 00:41:47.480 align:middle line:90%
+value of the beta j's.
+
+00:41:47.480 --> 00:41:49.760 align:middle line:84%
+So he's doing a maximum
+likelihood version
+
+00:41:49.760 --> 00:41:52.640 align:middle line:84%
+of that, where you're maximizing
+the sum of the log likelihoods
+
+00:41:52.640 --> 00:41:55.040 align:middle line:84%
+and subtracting this penalty
+function for every nonzero
+
+00:41:55.040 --> 00:41:56.320 align:middle line:90%
+coefficient.
+
+00:41:56.320 --> 00:41:59.630 align:middle line:84%
+And so what his model
+does in practice, I mean,
+
+00:41:59.630 --> 00:42:03.420 align:middle line:84%
+I'm a little surprised at
+how many variables he keeps,
+
+00:42:03.420 --> 00:42:06.570 align:middle line:84%
+but roughly he keeps 900
+of the right-hand side
+
+00:42:06.570 --> 00:42:08.230 align:middle line:90%
+variables in the equation.
+
+00:42:08.230 --> 00:42:11.550 align:middle line:84%
+But then it's as if the other
+3,700 variables get dropped from
+
+00:42:11.550 --> 00:42:14.490 align:middle line:84%
+the equation because the beta
+estimates are so small that you
+
+00:42:14.490 --> 00:42:15.455 align:middle line:90%
+just set them to 0.
+
+00:42:15.455 --> 00:42:19.240 align:middle line:90%
+
+
+00:42:19.240 --> 00:42:22.300 align:middle line:84%
+Just to give a sense of
+what his data looks like,
+
+00:42:22.300 --> 00:42:25.390 align:middle line:84%
+the demographics are things
+like the age of the people.
+
+00:42:25.390 --> 00:42:29.140 align:middle line:84%
+Is the oldest person in the
+household, 21 to 24, 25 to 29,
+
+00:42:29.140 --> 00:42:30.940 align:middle line:90%
+30 to 34?
+
+00:42:30.940 --> 00:42:32.450 align:middle line:90%
+He's got race in there.
+
+00:42:32.450 --> 00:42:34.600 align:middle line:90%
+He's got income in there.
+
+00:42:34.600 --> 00:42:37.570 align:middle line:84%
+And then the browsing
+habits, he's got things like,
+
+00:42:37.570 --> 00:42:40.810 align:middle line:84%
+what fraction of your internet
+use is midnight to 6:00 AM?
+
+00:42:40.810 --> 00:42:43.100 align:middle line:84%
+What fraction is
+6:00 AM to 9:00 AM?
+
+00:42:43.100 --> 00:42:45.145 align:middle line:84%
+What fraction is
+6:00 PM to midnight?
+
+00:42:45.145 --> 00:42:47.770 align:middle line:84%
+How much do you use the internet
+on Monday, Tuesday, Wednesday,
+
+00:42:47.770 --> 00:42:49.490 align:middle line:90%
+Thursday, Friday, Saturday?
+
+00:42:49.490 --> 00:42:54.190 align:middle line:84%
+So he has this set of
+minimal demographics
+
+00:42:54.190 --> 00:42:57.200 align:middle line:84%
+on people, although more
+than you would often see.
+
+00:42:57.200 --> 00:42:59.690 align:middle line:84%
+At least he does have some
+set of income brackets.
+
+00:42:59.690 --> 00:43:04.030 align:middle line:84%
+And then he's got all of
+your 4,600 website visits.
+
+00:43:04.030 --> 00:43:07.862 align:middle line:84%
+And the results come out that
+the most powerful predictor
+
+00:43:07.862 --> 00:43:09.820 align:middle line:84%
+of whether you're going
+to subscribe to Netflix
+
+00:43:09.820 --> 00:43:13.210 align:middle line:84%
+is whether you're a frequent
+visitor to Gamefly.com.
+
+00:43:13.210 --> 00:43:14.990 align:middle line:84%
+I don't know if
+Gamefly still exists.
+
+00:43:14.990 --> 00:43:17.110 align:middle line:84%
+Gamefly was a
+company like Netflix,
+
+00:43:17.110 --> 00:43:21.340 align:middle line:84%
+but that mailed you
+video game CD-ROMs.
+
+00:43:21.340 --> 00:43:24.940 align:middle line:84%
+So you would just have a
+CD-ROM subscription to Gamefly.
+
+00:43:24.940 --> 00:43:26.693 align:middle line:90%
+You're playing Call of Duty 3.
+
+00:43:26.693 --> 00:43:28.610 align:middle line:84%
+You get tired of it, you
+mail it back to them,
+
+00:43:28.610 --> 00:43:30.580 align:middle line:84%
+and they send you the next
+video game on your list.
+
+00:43:30.580 --> 00:43:32.020 align:middle line:84%
+You play that for a
+month, you send it back,
+
+00:43:32.020 --> 00:43:33.830 align:middle line:84%
+they send you the
+next one on your list.
+
+00:43:33.830 --> 00:43:34.330 align:middle line:90%
+But anyway.
+
+00:43:34.330 --> 00:43:38.020 align:middle line:84%
+So subscription to gamefly.com
+was the most powerful
+
+00:43:38.020 --> 00:43:38.920 align:middle line:90%
+positive predictor.
+
+00:43:38.920 --> 00:43:40.420 align:middle line:84%
+The most powerful
+negative predictor
+
+00:43:40.420 --> 00:43:46.540 align:middle line:84%
+of having a Netflix subscription
+was, I don't know, ameblo.jp.
+
+00:43:46.540 --> 00:43:50.560 align:middle line:84%
+Some kind of Japanese
+blogging site.
+
+00:43:50.560 --> 00:43:52.220 align:middle line:84%
+People, I guess,
+who apparently visit
+
+00:43:52.220 --> 00:43:55.190 align:middle line:84%
+Japanese blogging sites
+don't do a lot of watching
+
+00:43:55.190 --> 00:43:56.160 align:middle line:90%
+Netflix movies.
+
+00:43:56.160 --> 00:43:58.070 align:middle line:90%
+I don't know.
+
+00:43:58.070 --> 00:44:01.700 align:middle line:84%
+People who visit
+audible.com and rent music
+
+00:44:01.700 --> 00:44:03.675 align:middle line:90%
+also tend to rent DVDs.
+
+00:44:03.675 --> 00:44:06.560 align:middle line:90%
+
+
+00:44:06.560 --> 00:44:10.550 align:middle line:84%
+People who do things like
+visit jacksonville.com,
+
+00:44:10.550 --> 00:44:15.350 align:middle line:84%
+they don't watch
+a lot of Netflix.
+
+00:44:15.350 --> 00:44:17.000 align:middle line:90%
+You get the sense it's sort of--
+
+00:44:17.000 --> 00:44:19.100 align:middle line:84%
+obviously he has
+the age in there,
+
+00:44:19.100 --> 00:44:21.860 align:middle line:84%
+but there are people
+who sit around and read
+
+00:44:21.860 --> 00:44:27.350 align:middle line:84%
+local news on the internet and
+people who watch entertainment.
+
+00:44:27.350 --> 00:44:29.360 align:middle line:90%
+And it is--
+
+00:44:29.360 --> 00:44:30.540 align:middle line:90%
+I don't know.
+
+00:44:30.540 --> 00:44:33.770 align:middle line:84%
+I find this
+interesting, that, yes,
+
+00:44:33.770 --> 00:44:36.353 align:middle line:84%
+once you think about it, yes,
+many, many, many of these things
+
+00:44:36.353 --> 00:44:38.603 align:middle line:84%
+make sense if I'm trying to
+predict whether someone is
+
+00:44:38.603 --> 00:44:39.890 align:middle line:90%
+likely to buy Netflix or not.
+
+00:44:39.890 --> 00:44:42.390 align:middle line:84%
+There's a tremendous amount of
+information in their website.
+
+00:44:42.390 --> 00:44:43.920 align:middle line:84%
+And people are very,
+very different,
+
+00:44:43.920 --> 00:44:46.580 align:middle line:84%
+and it could be revealed through
+these many different channels
+
+00:44:46.580 --> 00:44:47.486 align:middle line:90%
+simultaneously.
+
+00:44:47.486 --> 00:44:51.600 align:middle line:90%
+
+
+00:44:51.600 --> 00:44:52.100 align:middle line:90%
+OK.
+
+00:44:52.100 --> 00:44:53.750 align:middle line:90%
+What does he find?
+
+00:44:53.750 --> 00:44:59.360 align:middle line:84%
+First finding here is that
+demographic targeting--
+
+00:44:59.360 --> 00:45:01.765 align:middle line:84%
+and again, remember, he
+had the same demographics
+
+00:45:01.765 --> 00:45:03.390 align:middle line:84%
+we were talking about
+in the car paper.
+
+00:45:03.390 --> 00:45:08.120 align:middle line:84%
+He does have-- he has
+race, he has Hispanic.
+
+00:45:08.120 --> 00:45:10.080 align:middle line:90%
+He's actually got income.
+
+00:45:10.080 --> 00:45:12.440 align:middle line:84%
+All of those things,
+he says, are basically
+
+00:45:12.440 --> 00:45:14.750 align:middle line:90%
+useless for pricing Netflix.
+
+00:45:14.750 --> 00:45:17.870 align:middle line:90%
+He said that if you estimate--
+
+00:45:17.870 --> 00:45:19.910 align:middle line:84%
+I'm going to estimate
+demand elasticities
+
+00:45:19.910 --> 00:45:21.950 align:middle line:84%
+as a function of the
+demographic group
+
+00:45:21.950 --> 00:45:24.500 align:middle line:84%
+and think about switching
+from the optimal uniform price
+
+00:45:24.500 --> 00:45:27.930 align:middle line:84%
+to the optimal demographic
+targeted price.
+
+00:45:27.930 --> 00:45:30.560 align:middle line:84%
+And he finds that
+targeting the demographics
+
+00:45:30.560 --> 00:45:33.060 align:middle line:84%
+would let Netflix increase
+its profits by 0.3%.
+
+00:45:33.060 --> 00:45:35.690 align:middle line:90%
+
+
+00:45:35.690 --> 00:45:37.310 align:middle line:84%
+I think, though,
+in some sense, this
+
+00:45:37.310 --> 00:45:41.030 align:middle line:84%
+is consistent with what
+I said before in that,
+
+00:45:41.030 --> 00:45:42.200 align:middle line:90%
+again, with that sort of--
+
+00:45:42.200 --> 00:45:45.380 align:middle line:84%
+if profits are quadratic
+in the extent to which you
+
+00:45:45.380 --> 00:45:47.150 align:middle line:90%
+want to change the price--
+
+00:45:47.150 --> 00:45:50.580 align:middle line:84%
+and profit, it's a
+second order change.
+
+00:45:50.580 --> 00:45:53.710 align:middle line:84%
+You only want to make changes
+on the order of a few percent,
+
+00:45:53.710 --> 00:45:56.130 align:middle line:84%
+then the profit effect
+from that has to be small.
+
+00:45:56.130 --> 00:45:57.420 align:middle line:90%
+And that's what he says.
+
+00:45:57.420 --> 00:46:01.270 align:middle line:90%
+The profit impact is 0.3%.
+
+00:46:01.270 --> 00:46:05.140 align:middle line:84%
+He argues that targeting on
+the web, though, in some sense,
+
+00:46:05.140 --> 00:46:09.070 align:middle line:84%
+may be much more common than
+targeting in the offline world
+
+00:46:09.070 --> 00:46:11.920 align:middle line:84%
+would be because these browsing
+variables are much more
+
+00:46:11.920 --> 00:46:12.950 align:middle line:90%
+powerful.
+
+00:46:12.950 --> 00:46:15.700 align:middle line:84%
+He estimates that they would let
+you increase Netflix's profits
+
+00:46:15.700 --> 00:46:18.000 align:middle line:90%
+by 13%.
+
+00:46:18.000 --> 00:46:20.500 align:middle line:84%
+It's still not a huge number
+when you think about you've got
+
+00:46:20.500 --> 00:46:22.670 align:middle line:90%
+those 4,600 variables in there.
+
+00:46:22.670 --> 00:46:24.508 align:middle line:84%
+What could you do
+with all of those?
+
+00:46:24.508 --> 00:46:26.050 align:middle line:84%
+He says it's much,
+much more than you
+
+00:46:26.050 --> 00:46:28.870 align:middle line:84%
+can do with demographics,
+but it's 13%.
+
+00:46:28.870 --> 00:46:33.360 align:middle line:90%
+
+
+00:46:33.360 --> 00:46:36.200 align:middle line:90%
+What are the welfare effects?
+
+00:46:36.200 --> 00:46:37.230 align:middle line:90%
+Oh, do I have it?
+
+00:46:37.230 --> 00:46:37.980 align:middle line:90%
+OK.
+
+00:46:37.980 --> 00:46:42.540 align:middle line:90%
+So welfare effects are--
+
+00:46:42.540 --> 00:46:46.050 align:middle line:84%
+here he's arguing that
+with demographic targeting,
+
+00:46:46.050 --> 00:46:47.970 align:middle line:90%
+we're actually--
+
+00:46:47.970 --> 00:46:52.620 align:middle line:84%
+in this diagram, it's the
+tiniest arrow in the world,
+
+00:46:52.620 --> 00:46:54.370 align:middle line:90%
+but it's an arrow to the right.
+
+00:46:54.370 --> 00:46:58.360 align:middle line:84%
+That is, the profits
+are going up by 0.3%.
+
+00:46:58.360 --> 00:47:04.230 align:middle line:84%
+The consumer surplus
+is going up by 0.05%.
+
+00:47:04.230 --> 00:47:08.230 align:middle line:84%
+Demographic targeting, it's
+like this kind of arrow.
+
+00:47:08.230 --> 00:47:11.310 align:middle line:84%
+So it's a bigger
+arrow, going up 13%.
+
+00:47:11.310 --> 00:47:17.700 align:middle line:84%
+And it's going slightly down
+on the consumer surplus side.
+
+00:47:17.700 --> 00:47:19.770 align:middle line:84%
+Total social welfare,
+I assume, has
+
+00:47:19.770 --> 00:47:22.560 align:middle line:84%
+got to be going
+up because you've
+
+00:47:22.560 --> 00:47:24.450 align:middle line:90%
+got the 13% increase in profit.
+
+00:47:24.450 --> 00:47:26.920 align:middle line:84%
+The only negative, a half
+percent on consumer surplus.
+
+00:47:26.920 --> 00:47:28.890 align:middle line:84%
+I don't know what the
+mean consumer surplus is
+
+00:47:28.890 --> 00:47:33.610 align:middle line:84%
+versus profits, but assuming
+that they're roughly comparable,
+
+00:47:33.610 --> 00:47:36.713 align:middle line:84%
+social welfare has got to
+be going up in both cases.
+
+00:47:36.713 --> 00:47:39.650 align:middle line:90%
+
+
+00:47:39.650 --> 00:47:43.250 align:middle line:84%
+He does not have nearly
+as much data to do this.
+
+00:47:43.250 --> 00:47:46.390 align:middle line:84%
+But he says, if Netflix were to
+use second degree discrimination
+
+00:47:46.390 --> 00:47:52.300 align:middle line:84%
+instead, discriminating across
+people by offering the one CD
+
+00:47:52.300 --> 00:47:55.970 align:middle line:84%
+plan, the two DVD plan,
+and the three DVD plan,
+
+00:47:55.970 --> 00:47:58.090 align:middle line:84%
+there, he argues that
+second degree discrimination
+
+00:47:58.090 --> 00:48:00.210 align:middle line:90%
+would be much more powerful.
+
+00:48:00.210 --> 00:48:02.468 align:middle line:84%
+And he claims, based on a
+conversation with a Netflix
+
+00:48:02.468 --> 00:48:04.510 align:middle line:84%
+executive, that they were
+not doing second degree
+
+00:48:04.510 --> 00:48:06.350 align:middle line:90%
+discrimination at the time.
+
+00:48:06.350 --> 00:48:09.130 align:middle line:90%
+He said that they were doing--
+
+00:48:09.130 --> 00:48:12.580 align:middle line:84%
+plans are priced proportional to
+cost with a single multiplier,
+
+00:48:12.580 --> 00:48:14.200 align:middle line:84%
+whereas secondary
+discrimination model
+
+00:48:14.200 --> 00:48:16.930 align:middle line:84%
+says you should be
+charging different markups
+
+00:48:16.930 --> 00:48:19.390 align:middle line:90%
+to different groups.
+
+00:48:19.390 --> 00:48:20.050 align:middle line:90%
+But anyway.
+
+00:48:20.050 --> 00:48:22.180 align:middle line:84%
+He says that secondary
+discrimination could raise
+
+00:48:22.180 --> 00:48:24.970 align:middle line:84%
+profits by much more and
+is a much bigger deal
+
+00:48:24.970 --> 00:48:29.560 align:middle line:84%
+than the third degree
+discrimination they can do.
+
+00:48:29.560 --> 00:48:33.580 align:middle line:84%
+And here's an example
+of what he's estimating,
+
+00:48:33.580 --> 00:48:35.860 align:middle line:90%
+the consumer types.
+
+00:48:35.860 --> 00:48:39.173 align:middle line:84%
+If you have no
+demographics at all,
+
+00:48:39.173 --> 00:48:40.840 align:middle line:84%
+it's as if you're
+assuming that everyone
+
+00:48:40.840 --> 00:48:43.750 align:middle line:84%
+has the constant
+mean willingness
+
+00:48:43.750 --> 00:48:45.860 align:middle line:90%
+to pay v for the product.
+
+00:48:45.860 --> 00:48:47.620 align:middle line:84%
+If you put in the
+demographics, it's
+
+00:48:47.620 --> 00:48:51.520 align:middle line:84%
+basically saying, instead of
+having a spike here, almost
+
+00:48:51.520 --> 00:48:54.280 align:middle line:84%
+everybody has one of
+these two willingness
+
+00:48:54.280 --> 00:48:56.350 align:middle line:84%
+to pay that are very
+close to each other.
+
+00:48:56.350 --> 00:48:59.320 align:middle line:84%
+And then when you look at the
+full model with web browsing
+
+00:48:59.320 --> 00:49:04.690 align:middle line:84%
+data, you get this bigger
+distribution like that.
+
+00:49:04.690 --> 00:49:07.690 align:middle line:84%
+And if you remember back to what
+I said about Bergemann, Brooks,
+
+00:49:07.690 --> 00:49:10.880 align:middle line:84%
+Morris, it's the shape of
+this distribution that's
+
+00:49:10.880 --> 00:49:13.190 align:middle line:84%
+going to tend to determine
+whether consumer surplus is
+
+00:49:13.190 --> 00:49:14.640 align:middle line:90%
+going up or down.
+
+00:49:14.640 --> 00:49:17.810 align:middle line:84%
+And it seems like the
+shape of this distribution
+
+00:49:17.810 --> 00:49:20.330 align:middle line:84%
+is something to the fact that
+it keeps them from raising
+
+00:49:20.330 --> 00:49:21.990 align:middle line:90%
+their prices by too much.
+
+00:49:21.990 --> 00:49:25.370 align:middle line:84%
+And that's why that
+would have to be
+
+00:49:25.370 --> 00:49:30.200 align:middle line:84%
+involved in consumer
+surplus not going down a lot
+
+00:49:30.200 --> 00:49:30.910 align:middle line:90%
+when you do this.
+
+00:49:30.910 --> 00:49:36.350 align:middle line:90%
+
+
+00:49:36.350 --> 00:49:38.070 align:middle line:90%
+Questions on Shiller?
+
+00:49:38.070 --> 00:49:38.632 align:middle line:90%
+No?
+
+00:49:38.632 --> 00:49:39.840 align:middle line:90%
+I think I had one more slide.
+
+00:49:39.840 --> 00:49:41.210 align:middle line:90%
+So some comments.
+
+00:49:41.210 --> 00:49:44.360 align:middle line:90%
+
+
+00:49:44.360 --> 00:49:47.330 align:middle line:84%
+Again, I think this is
+a nice, creative paper
+
+00:49:47.330 --> 00:49:50.470 align:middle line:84%
+if you think about what
+it takes to write papers
+
+00:49:50.470 --> 00:49:51.640 align:middle line:90%
+as graduate students.
+
+00:49:51.640 --> 00:49:53.320 align:middle line:90%
+He had this sort of--
+
+00:49:53.320 --> 00:49:55.330 align:middle line:84%
+just uses an
+off-the-shelf data set,
+
+00:49:55.330 --> 00:49:57.730 align:middle line:84%
+and he has these
+two different ideas.
+
+00:49:57.730 --> 00:50:00.550 align:middle line:84%
+One is this identification
+idea that, if I
+
+00:50:00.550 --> 00:50:02.770 align:middle line:84%
+can find a product where
+I think cost is known,
+
+00:50:02.770 --> 00:50:04.360 align:middle line:84%
+I can estimate
+demand elasticities
+
+00:50:04.360 --> 00:50:07.430 align:middle line:84%
+without having any price
+variation in the data.
+
+00:50:07.430 --> 00:50:11.500 align:middle line:84%
+And Netflix is a product
+that's both very popular
+
+00:50:11.500 --> 00:50:14.200 align:middle line:84%
+and where I can track
+usage and where I can
+
+00:50:14.200 --> 00:50:16.215 align:middle line:90%
+get the observable cost data.
+
+00:50:16.215 --> 00:50:19.440 align:middle line:90%
+
+
+00:50:19.440 --> 00:50:21.210 align:middle line:84%
+He also has this
+other nice observation
+
+00:50:21.210 --> 00:50:24.360 align:middle line:84%
+where I can do this comparison
+of demographic price
+
+00:50:24.360 --> 00:50:29.430 align:middle line:84%
+discrimination versus web
+browsing price discrimination.
+
+00:50:29.430 --> 00:50:32.100 align:middle line:84%
+I think these are important
+applied observations
+
+00:50:32.100 --> 00:50:36.300 align:middle line:84%
+to the extent that, obviously,
+the limitations of the data
+
+00:50:36.300 --> 00:50:38.640 align:middle line:90%
+may make it--
+
+00:50:38.640 --> 00:50:41.820 align:middle line:84%
+it's a good data point, but I
+don't know how much we believe.
+
+00:50:41.820 --> 00:50:44.610 align:middle line:84%
+But to the extent we
+believe that, it suggests
+
+00:50:44.610 --> 00:50:47.070 align:middle line:84%
+that demographics are of
+very little value for price
+
+00:50:47.070 --> 00:50:48.450 align:middle line:90%
+discrimination.
+
+00:50:48.450 --> 00:50:49.980 align:middle line:84%
+So maybe we really
+shouldn't expect
+
+00:50:49.980 --> 00:50:52.800 align:middle line:84%
+to see much demographic
+price discrimination.
+
+00:50:52.800 --> 00:50:56.980 align:middle line:84%
+It shows that web browsing can
+reveal a lot of information.
+
+00:50:56.980 --> 00:51:00.390 align:middle line:84%
+And something else I would say
+is that it also shows that web
+
+00:51:00.390 --> 00:51:02.820 align:middle line:84%
+browsing-based
+discrimination is--
+
+00:51:02.820 --> 00:51:04.560 align:middle line:84%
+one obstacle to
+discrimination is always
+
+00:51:04.560 --> 00:51:07.260 align:middle line:90%
+people hiding who they are.
+
+00:51:07.260 --> 00:51:08.850 align:middle line:90%
+If you try to have a student--
+
+00:51:08.850 --> 00:51:11.613 align:middle line:84%
+imagine you try to have a
+student surcharge at ART.
+
+00:51:11.613 --> 00:51:13.530 align:middle line:84%
+If you go there and
+you're a graduate student,
+
+00:51:13.530 --> 00:51:17.370 align:middle line:84%
+they charge you 20% more than
+someone who's not a student.
+
+00:51:17.370 --> 00:51:19.510 align:middle line:84%
+It would be very
+hard to get someone
+
+00:51:19.510 --> 00:51:21.933 align:middle line:84%
+to prove they're not
+a student to you.
+
+00:51:21.933 --> 00:51:23.350 align:middle line:84%
+That price
+discrimination wouldn't
+
+00:51:23.350 --> 00:51:25.750 align:middle line:84%
+work because it's hard to
+prove that you're not actually
+
+00:51:25.750 --> 00:51:28.540 align:middle line:90%
+in school somewhere.
+
+00:51:28.540 --> 00:51:34.120 align:middle line:84%
+Here, it would be very hard
+to distort your web browsing
+
+00:51:34.120 --> 00:51:37.240 align:middle line:84%
+behavior in a way that prevented
+Netflix from discriminating
+
+00:51:37.240 --> 00:51:40.990 align:middle line:84%
+against you because Netflix
+can discriminate against you
+
+00:51:40.990 --> 00:51:45.350 align:middle line:84%
+by looking at your visits
+to 4,000 different websites.
+
+00:51:45.350 --> 00:51:49.120 align:middle line:84%
+And OK, maybe I'm going to stay
+off gamefly.com in the month
+
+00:51:49.120 --> 00:51:51.620 align:middle line:84%
+before I'm trying to buy Netflix
+to get my price to go down.
+
+00:51:51.620 --> 00:51:54.162 align:middle line:84%
+But that's just-- they're only
+putting three times the weight
+
+00:51:54.162 --> 00:51:59.460 align:middle line:84%
+on that as they use on these
+thousands of other websites.
+
+00:51:59.460 --> 00:52:02.250 align:middle line:84%
+And so you really would have
+to do a tremendous amount
+
+00:52:02.250 --> 00:52:04.930 align:middle line:84%
+of distorting your behavior to
+try to save money on Netflix.
+
+00:52:04.930 --> 00:52:07.650 align:middle line:84%
+And given that it's distorting
+your behavior on 4,000 other
+
+00:52:07.650 --> 00:52:09.870 align:middle line:84%
+websites to get whatever
+discount they're giving you,
+
+00:52:09.870 --> 00:52:13.590 align:middle line:84%
+it's just going to be impossible
+for consumers to hide who they
+
+00:52:13.590 --> 00:52:17.340 align:middle line:84%
+are, other than consumers
+hiding who they are via some
+
+00:52:17.340 --> 00:52:21.387 align:middle line:84%
+technological means, like some
+tracking blocker software.
+
+00:52:21.387 --> 00:52:23.220 align:middle line:84%
+But then again, obviously
+what we don't know
+
+00:52:23.220 --> 00:52:25.170 align:middle line:84%
+is, what's the mean willingness
+to pay in people who
+
+00:52:25.170 --> 00:52:26.483 align:middle line:90%
+use tracker blocking software?
+
+00:52:26.483 --> 00:52:27.650 align:middle line:90%
+Do they pay even more money?
+
+00:52:27.650 --> 00:52:31.080 align:middle line:90%
+
+
+00:52:31.080 --> 00:52:34.020 align:middle line:84%
+AUDIENCE: Was Netflix able to
+see people's browser activity
+
+00:52:34.020 --> 00:52:36.000 align:middle line:90%
+back during this time?
+
+00:52:36.000 --> 00:52:40.460 align:middle line:90%
+GLENN ELLISON: So yeah.
+
+00:52:40.460 --> 00:52:44.120 align:middle line:84%
+Obviously, there are many
+data brokers out there
+
+00:52:44.120 --> 00:52:48.710 align:middle line:84%
+who stick cookies
+on your computer
+
+00:52:48.710 --> 00:52:50.190 align:middle line:90%
+when you visit websites.
+
+00:52:50.190 --> 00:52:53.300 align:middle line:84%
+And Netflix could
+have made agreements
+
+00:52:53.300 --> 00:52:55.670 align:middle line:84%
+with some of these
+firms to buy their data
+
+00:52:55.670 --> 00:52:57.730 align:middle line:84%
+and get the tracking
+data from you.
+
+00:52:57.730 --> 00:53:00.470 align:middle line:90%
+
+
+00:53:00.470 --> 00:53:04.310 align:middle line:84%
+I think in 2006, we
+know Netflix was--
+
+00:53:04.310 --> 00:53:07.760 align:middle line:84%
+I mean, they're just basically
+doing $6.99 if you want one DVD,
+
+00:53:07.760 --> 00:53:08.420 align:middle line:90%
+$8.99.
+
+00:53:08.420 --> 00:53:12.140 align:middle line:84%
+They weren't doing any
+discrimination whatsoever.
+
+00:53:12.140 --> 00:53:16.010 align:middle line:84%
+I don't know when those data
+markets developed, but it
+
+00:53:16.010 --> 00:53:17.720 align:middle line:84%
+certainly wasn't long
+after this that you
+
+00:53:17.720 --> 00:53:22.363 align:middle line:84%
+could purchase an awful lot of
+data about users from many--
+
+00:53:22.363 --> 00:53:23.780 align:middle line:84%
+there are many
+businesses who have
+
+00:53:23.780 --> 00:53:25.880 align:middle line:84%
+this model of sticking
+cookies on your machine
+
+00:53:25.880 --> 00:53:27.965 align:middle line:84%
+and then selling the
+data about you every time
+
+00:53:27.965 --> 00:53:28.840 align:middle line:90%
+you visit their site.
+
+00:53:28.840 --> 00:53:29.465 align:middle line:90%
+AUDIENCE: Sure.
+
+00:53:29.465 --> 00:53:34.860 align:middle line:90%
+
+
+00:53:34.860 --> 00:53:37.745 align:middle line:84%
+GLENN ELLISON: Obviously,
+critical aspects of the paper.
+
+00:53:37.745 --> 00:53:41.368 align:middle line:90%
+
+
+00:53:41.368 --> 00:53:43.410 align:middle line:84%
+It's a very nice observation
+that you can do this
+
+00:53:43.410 --> 00:53:46.440 align:middle line:84%
+without any price variation, but
+it takes some strong assumptions
+
+00:53:46.440 --> 00:53:48.270 align:middle line:90%
+to do this.
+
+00:53:48.270 --> 00:53:50.310 align:middle line:90%
+I really would like to have--
+
+00:53:50.310 --> 00:54:00.930 align:middle line:84%
+he's got-- he had vi minus alpha
+pj plus xi j plus epsilon ij.
+
+00:54:00.930 --> 00:54:03.810 align:middle line:90%
+He's got the vi is Xi beta.
+
+00:54:03.810 --> 00:54:06.030 align:middle line:84%
+You would really like
+to have the alpha also
+
+00:54:06.030 --> 00:54:08.940 align:middle line:90%
+be Xi times gamma.
+
+00:54:08.940 --> 00:54:11.880 align:middle line:84%
+You would really like to be able
+to get at variation in the alpha
+
+00:54:11.880 --> 00:54:13.505 align:middle line:84%
+separate from the
+variation in the v's.
+
+00:54:13.505 --> 00:54:17.954 align:middle line:84%
+And maybe we would also
+like a coefficient here too.
+
+00:54:17.954 --> 00:54:20.940 align:middle line:90%
+Xi times eta times the xi j.
+
+00:54:20.940 --> 00:54:23.520 align:middle line:84%
+Like do people-- also,
+does their valuation
+
+00:54:23.520 --> 00:54:25.170 align:middle line:84%
+for high quality
+versus low quality
+
+00:54:25.170 --> 00:54:26.920 align:middle line:84%
+also differ with
+their demographics?
+
+00:54:26.920 --> 00:54:32.560 align:middle line:84%
+So you've just got limited
+things that you can do.
+
+00:54:32.560 --> 00:54:34.740 align:middle line:84%
+And another thing
+we have is that,
+
+00:54:34.740 --> 00:54:36.740 align:middle line:84%
+what are the properties
+of the utility function?
+
+00:54:36.740 --> 00:54:39.490 align:middle line:84%
+If you remember, I said,
+with linear demand curves,
+
+00:54:39.490 --> 00:54:41.410 align:middle line:84%
+we know that price
+discrimination is always
+
+00:54:41.410 --> 00:54:44.020 align:middle line:90%
+bad for welfare.
+
+00:54:44.020 --> 00:54:49.060 align:middle line:84%
+And so does this
+model with variation
+
+00:54:49.060 --> 00:54:51.670 align:middle line:84%
+in v's, does it
+have properties that
+
+00:54:51.670 --> 00:54:54.722 align:middle line:84%
+make it so that the consumer
+surplus doesn't go down much?
+
+00:54:54.722 --> 00:54:56.680 align:middle line:84%
+Or is that something that
+he's estimated, or is
+
+00:54:56.680 --> 00:54:59.177 align:middle line:90%
+that something he's assumed?
+
+00:54:59.177 --> 00:55:01.510 align:middle line:84%
+I don't know so much about
+the properties of this demand
+
+00:55:01.510 --> 00:55:03.010 align:middle line:84%
+system, but in some
+sense you'd like
+
+00:55:03.010 --> 00:55:05.830 align:middle line:84%
+to try to get at, what are the
+properties of the demand system
+
+00:55:05.830 --> 00:55:08.770 align:middle line:90%
+that can do that or not?
+
+00:55:08.770 --> 00:55:10.597 align:middle line:90%
+OK.
+
+00:55:10.597 --> 00:55:11.555 align:middle line:90%
+Questions?
+
+00:55:11.555 --> 00:55:14.420 align:middle line:90%
+
+
+00:55:14.420 --> 00:55:14.920 align:middle line:90%
+OK.
+
+00:55:14.920 --> 00:55:20.410 align:middle line:84%
+So then the final paper I was
+going to talk about today, Dubé
+
+00:55:20.410 --> 00:55:24.730 align:middle line:90%
+and Misra, it's an example.
+
+00:55:24.730 --> 00:55:28.750 align:middle line:84%
+This is sort of very
+high quality data set,
+
+00:55:28.750 --> 00:55:31.540 align:middle line:90%
+very high quality econometrics.
+
+00:55:31.540 --> 00:55:35.680 align:middle line:84%
+Again, the paper you would love
+to have as a job market paper.
+
+00:55:35.680 --> 00:55:38.800 align:middle line:84%
+Obviously, a big difficulty
+of this job market paper--
+
+00:55:38.800 --> 00:55:41.710 align:middle line:84%
+this kind of paper
+is it shows there
+
+00:55:41.710 --> 00:55:45.190 align:middle line:84%
+is this huge benefit
+towards data in this world
+
+00:55:45.190 --> 00:55:47.680 align:middle line:84%
+and having
+connections with firms
+
+00:55:47.680 --> 00:55:49.930 align:middle line:84%
+that can generate
+such data sets for you
+
+00:55:49.930 --> 00:55:53.410 align:middle line:84%
+and let you be the person who
+can analyze such data sets.
+
+00:55:53.410 --> 00:55:57.730 align:middle line:84%
+So the particular
+application is--
+
+00:55:57.730 --> 00:56:00.020 align:middle line:84%
+I don't know if
+people have heard of--
+
+00:56:00.020 --> 00:56:01.700 align:middle line:84%
+we are back in the
+modern world now.
+
+00:56:01.700 --> 00:56:03.940 align:middle line:90%
+So this is ZipRecruiter.
+
+00:56:03.940 --> 00:56:07.720 align:middle line:84%
+ZipRecruiter is an
+employment website.
+
+00:56:07.720 --> 00:56:09.550 align:middle line:84%
+If you're a small
+firm or a big firm
+
+00:56:09.550 --> 00:56:11.800 align:middle line:84%
+and you want to
+hire employees, you
+
+00:56:11.800 --> 00:56:14.920 align:middle line:84%
+can sign up for an
+account with ZipRecruiter,
+
+00:56:14.920 --> 00:56:17.690 align:middle line:84%
+and then ask
+ZipRecruiter to send you
+
+00:56:17.690 --> 00:56:20.300 align:middle line:84%
+resumes of people
+who have signed up
+
+00:56:20.300 --> 00:56:24.000 align:middle line:84%
+on ZipRecruiter saying, I would
+like to be a software engineer.
+
+00:56:24.000 --> 00:56:25.350 align:middle line:90%
+I have these qualifications.
+
+00:56:25.350 --> 00:56:28.070 align:middle line:84%
+You can have ZipRecruiter
+send you resumes
+
+00:56:28.070 --> 00:56:32.420 align:middle line:84%
+of people who are currently
+looking for jobs, who meet
+
+00:56:32.420 --> 00:56:36.170 align:middle line:90%
+the description for your job.
+
+00:56:36.170 --> 00:56:39.650 align:middle line:84%
+The way ZipRecruiter
+works is it's
+
+00:56:39.650 --> 00:56:42.068 align:middle line:90%
+free to use for job searchers.
+
+00:56:42.068 --> 00:56:44.360 align:middle line:84%
+If you're a job searcher,
+you can just post your resume
+
+00:56:44.360 --> 00:56:48.500 align:middle line:90%
+on ZipRecruiter.com for free.
+
+00:56:48.500 --> 00:56:51.320 align:middle line:84%
+But then the firms who
+are looking to hire people
+
+00:56:51.320 --> 00:56:54.980 align:middle line:84%
+have to pay a monthly fee
+to be on ZipRecruiter.
+
+00:56:54.980 --> 00:56:59.340 align:middle line:84%
+The paper is dealing
+with small employers.
+
+00:56:59.340 --> 00:57:02.690 align:middle line:84%
+The small firms are firms that
+had 50 or fewer employees,
+
+00:57:02.690 --> 00:57:05.330 align:middle line:84%
+reported they were going to
+search for fewer than one
+
+00:57:05.330 --> 00:57:08.120 align:middle line:84%
+to three employees
+in the near future.
+
+00:57:08.120 --> 00:57:10.700 align:middle line:84%
+And what ZipRecruiter would
+do with such new firms
+
+00:57:10.700 --> 00:57:15.210 align:middle line:84%
+when they sign up is charge them
+a $99 a month subscription fee.
+
+00:57:15.210 --> 00:57:16.980 align:middle line:84%
+And so you can sign
+up to ZipRecruiter.
+
+00:57:16.980 --> 00:57:18.170 align:middle line:90%
+You pay $99 a month.
+
+00:57:18.170 --> 00:57:21.575 align:middle line:84%
+And then you post the
+job that you want to get,
+
+00:57:21.575 --> 00:57:23.700 align:middle line:84%
+and they send you a bunch
+of resumes that match it.
+
+00:57:23.700 --> 00:57:26.000 align:middle line:84%
+And then you can try to
+interview or whatever,
+
+00:57:26.000 --> 00:57:29.100 align:middle line:90%
+look over those resumes.
+
+00:57:29.100 --> 00:57:32.940 align:middle line:84%
+This paper, they had internal
+access to ZipRecruiter.
+
+00:57:32.940 --> 00:57:36.180 align:middle line:84%
+And actually, ZipRecruiter
+was willing to run
+
+00:57:36.180 --> 00:57:37.630 align:middle line:90%
+experiments for them.
+
+00:57:37.630 --> 00:57:42.930 align:middle line:84%
+You get the sense that this is,
+in some sense, a joint research
+
+00:57:42.930 --> 00:57:45.990 align:middle line:84%
+consulting kind of
+relationship with ZipRecruiter,
+
+00:57:45.990 --> 00:57:50.070 align:middle line:84%
+where they get ZipRecruiter
+to let them run experiments
+
+00:57:50.070 --> 00:57:52.892 align:middle line:84%
+on ZipRecruiter's pricing, and
+then they report the results
+
+00:57:52.892 --> 00:57:54.600 align:middle line:84%
+back to ZipRecruiter
+because ZipRecruiter
+
+00:57:54.600 --> 00:57:57.540 align:middle line:84%
+was interested in the question
+of, what price should we
+
+00:57:57.540 --> 00:57:58.040 align:middle line:90%
+be charging?
+
+00:57:58.040 --> 00:57:59.748 align:middle line:84%
+Should we be discriminating
+against firms
+
+00:57:59.748 --> 00:58:02.350 align:middle line:84%
+in charging some firms more
+than we're charging other firms?
+
+00:58:02.350 --> 00:58:06.300 align:middle line:84%
+And can we make
+more money that way?
+
+00:58:06.300 --> 00:58:11.850 align:middle line:84%
+So the way it worked is they
+had this experiment where
+
+00:58:11.850 --> 00:58:14.640 align:middle line:84%
+if you go to ZipRecruiter
+on the firm side,
+
+00:58:14.640 --> 00:58:16.150 align:middle line:90%
+you can't just sign up.
+
+00:58:16.150 --> 00:58:20.310 align:middle line:84%
+You have to enter in
+information about your firm.
+
+00:58:20.310 --> 00:58:24.420 align:middle line:84%
+So what are the things about
+the firm you have to enter?
+
+00:58:24.420 --> 00:58:27.600 align:middle line:84%
+One-- oh, I guess not here--
+is the number of employees that
+
+00:58:27.600 --> 00:58:29.003 align:middle line:90%
+you-- this sort of basic--
+
+00:58:29.003 --> 00:58:30.420 align:middle line:84%
+to get into the
+bucket at all, you
+
+00:58:30.420 --> 00:58:32.810 align:middle line:84%
+had to be the under 50
+employees and looking
+
+00:58:32.810 --> 00:58:35.100 align:middle line:90%
+to hire one to three people.
+
+00:58:35.100 --> 00:58:37.170 align:middle line:84%
+And then you have lots
+of features of the jobs,
+
+00:58:37.170 --> 00:58:39.160 align:middle line:84%
+like where is the job
+going to be located?
+
+00:58:39.160 --> 00:58:40.960 align:middle line:90%
+What type of company are you?
+
+00:58:40.960 --> 00:58:42.760 align:middle line:84%
+How many people do
+you need to hire?
+
+00:58:42.760 --> 00:58:44.642 align:middle line:90%
+Does the job provide benefits?
+
+00:58:44.642 --> 00:58:45.850 align:middle line:90%
+Do you need to have a resume?
+
+00:58:45.850 --> 00:58:49.320 align:middle line:84%
+Do you provide mental
+benefits, dental benefits?
+
+00:58:49.320 --> 00:58:51.670 align:middle line:84%
+What category does
+the job fall in?
+
+00:58:51.670 --> 00:58:53.610 align:middle line:84%
+Is it an administrative
+job, a technical job,
+
+00:58:53.610 --> 00:58:57.150 align:middle line:90%
+a programming job, whatever?
+
+00:58:57.150 --> 00:59:00.220 align:middle line:84%
+It's fairly minimal
+evidence from a menu.
+
+00:59:00.220 --> 00:59:03.060 align:middle line:84%
+But you've got to do all
+this before ZipRecruiter will
+
+00:59:03.060 --> 00:59:04.600 align:middle line:90%
+tell you what the price is.
+
+00:59:04.600 --> 00:59:07.540 align:middle line:84%
+And obviously, if you told
+ZipRecruiter I'm a 50,000-person
+
+00:59:07.540 --> 00:59:09.822 align:middle line:84%
+firm, I'm going to hire
+hundreds of people a month,
+
+00:59:09.822 --> 00:59:12.280 align:middle line:84%
+they were already discriminating
+based on that information.
+
+00:59:12.280 --> 00:59:13.988 align:middle line:84%
+And they would say,
+if you want to hire--
+
+00:59:13.988 --> 00:59:16.330 align:middle line:84%
+if you're a
+10,000-person-- you're MIT,
+
+00:59:16.330 --> 00:59:19.180 align:middle line:84%
+you've got 15,000 employees,
+you're going to use ZipRecruiter
+
+00:59:19.180 --> 00:59:22.420 align:middle line:84%
+to hire 1,000 people a year,
+you'll get charged many,
+
+00:59:22.420 --> 00:59:26.890 align:middle line:84%
+many thousands of dollars
+a month, not $99 a month.
+
+00:59:26.890 --> 00:59:29.620 align:middle line:84%
+But what they did in
+the experiment was,
+
+00:59:29.620 --> 00:59:32.020 align:middle line:84%
+they had a month-long
+experiment where
+
+00:59:32.020 --> 00:59:34.540 align:middle line:84%
+when you signed up, if you
+answered everything that put you
+
+00:59:34.540 --> 00:59:37.390 align:middle line:84%
+in the low category, the
+under 50 employee category,
+
+00:59:37.390 --> 00:59:40.010 align:middle line:84%
+they randomized what they
+told you the monthly price was
+
+00:59:40.010 --> 00:59:40.510 align:middle line:90%
+going to be.
+
+00:59:40.510 --> 00:59:41.920 align:middle line:90%
+And they did it--
+
+00:59:41.920 --> 00:59:44.570 align:middle line:84%
+$99 was the price they
+were currently charging.
+
+00:59:44.570 --> 00:59:46.570 align:middle line:84%
+But then, in the
+randomized sample,
+
+00:59:46.570 --> 00:59:49.480 align:middle line:84%
+some people were charged
+$19, $39, $59, $79,
+
+00:59:49.480 --> 00:59:52.330 align:middle line:84%
+going all the way
+up to $399 a month.
+
+00:59:52.330 --> 00:59:55.900 align:middle line:84%
+So they have this explicitly
+randomized experiment
+
+00:59:55.900 --> 00:59:58.360 align:middle line:84%
+and an explicitly
+randomized experiment
+
+00:59:58.360 --> 01:00:00.670 align:middle line:84%
+where they can think
+about discriminating
+
+01:00:00.670 --> 01:00:04.570 align:middle line:84%
+based on the 133 features
+they get out of this.
+
+01:00:04.570 --> 01:00:06.580 align:middle line:90%
+What are the 133 features?
+
+01:00:06.580 --> 01:00:09.040 align:middle line:84%
+You get a whole bunch of
+them out of state dummies.
+
+01:00:09.040 --> 01:00:12.430 align:middle line:84%
+So you get 50 state dummies and
+some Canadian province dummies.
+
+01:00:12.430 --> 01:00:14.330 align:middle line:90%
+You do get job categories.
+
+01:00:14.330 --> 01:00:15.935 align:middle line:90%
+You get benefits, yes or no.
+
+01:00:15.935 --> 01:00:17.560 align:middle line:84%
+Some of these are
+binary, some are not.
+
+01:00:17.560 --> 01:00:19.607 align:middle line:84%
+Anyway, they had 133,
+quote, "features"
+
+01:00:19.607 --> 01:00:21.690 align:middle line:84%
+they could then think about
+discriminating versus.
+
+01:00:21.690 --> 01:00:26.080 align:middle line:90%
+
+
+01:00:26.080 --> 01:00:29.000 align:middle line:84%
+So the experiment,
+it's a big experiment.
+
+01:00:29.000 --> 01:00:31.450 align:middle line:84%
+I think the experiment
+was everyone who came
+
+01:00:31.450 --> 01:00:34.870 align:middle line:84%
+to ZipRecruiter that month, but
+that's still a sample of just
+
+01:00:34.870 --> 01:00:40.510 align:middle line:90%
+7,867 firms.
+
+01:00:40.510 --> 01:00:42.970 align:middle line:84%
+Utility model is
+very similar to what
+
+01:00:42.970 --> 01:00:44.300 align:middle line:90%
+you saw in the previous paper.
+
+01:00:44.300 --> 01:00:46.690 align:middle line:84%
+It's simpler here
+because Netflix
+
+01:00:46.690 --> 01:00:50.980 align:middle line:84%
+had many different products that
+needed xi j's to determine which
+
+01:00:50.980 --> 01:00:53.480 align:middle line:90%
+Netflix DVD level you bought.
+
+01:00:53.480 --> 01:00:54.648 align:middle line:90%
+Here, there's just one.
+
+01:00:54.648 --> 01:00:56.440 align:middle line:84%
+It's just like you go
+through this process,
+
+01:00:56.440 --> 01:00:58.040 align:middle line:90%
+and it's either 1 or 0.
+
+01:00:58.040 --> 01:01:01.870 align:middle line:84%
+You click, yes, I'll give you my
+credit card and sign up for $99
+
+01:01:01.870 --> 01:01:04.930 align:middle line:84%
+a month, or no, I don't
+want to sign up now.
+
+01:01:04.930 --> 01:01:11.530 align:middle line:84%
+So the utility is again, Xi
+beta is your mean utility
+
+01:01:11.530 --> 01:01:16.720 align:middle line:84%
+given your characteristics, Xi,
+for signing up for ZipRecruiter.
+
+01:01:16.720 --> 01:01:20.750 align:middle line:84%
+They then have the alpha
+coefficient vary across firms.
+
+01:01:20.750 --> 01:01:24.350 align:middle line:84%
+So you take the Xi multiplied
+by another coefficient vector
+
+01:01:24.350 --> 01:01:26.450 align:middle line:84%
+gives you your
+price sensitivity.
+
+01:01:26.450 --> 01:01:29.090 align:middle line:84%
+And then you have
+an epsilon i again
+
+01:01:29.090 --> 01:01:32.000 align:middle line:84%
+logit error term at the
+end, where it's just
+
+01:01:32.000 --> 01:01:34.130 align:middle line:84%
+some consumers with the
+same characteristics
+
+01:01:34.130 --> 01:01:37.970 align:middle line:84%
+are willing to pay more or
+less to be on ZipRecruiter.
+
+01:01:37.970 --> 01:01:43.310 align:middle line:84%
+And they estimate this by
+three different procedures.
+
+01:01:43.310 --> 01:01:47.870 align:middle line:84%
+One is a pure maximum likelihood
+estimation to estimate the--
+
+01:01:47.870 --> 01:01:52.200 align:middle line:84%
+again, this is 133 parameters
+here, 133 parameters here.
+
+01:01:52.200 --> 01:01:55.850 align:middle line:84%
+So 266 parameters
+to be estimated.
+
+01:01:55.850 --> 01:01:58.680 align:middle line:90%
+7,867 customers.
+
+01:01:58.680 --> 01:02:02.620 align:middle line:84%
+One thing they do is just pure
+maximum likelihood estimation.
+
+01:02:02.620 --> 01:02:05.990 align:middle line:84%
+Again, empirically,
+people worry about over--
+
+01:02:05.990 --> 01:02:11.030 align:middle line:84%
+200 and whatever, 266, is too
+many parameters to estimate with
+
+01:02:11.030 --> 01:02:12.320 align:middle line:90%
+7,000 observations.
+
+01:02:12.320 --> 01:02:14.410 align:middle line:90%
+You end up overfitting the data.
+
+01:02:14.410 --> 01:02:19.070 align:middle line:84%
+So they use a Lasso-like
+MLE procedure again
+
+01:02:19.070 --> 01:02:24.480 align:middle line:84%
+to estimate this, or maybe
+it's a pure Lasso procedure.
+
+01:02:24.480 --> 01:02:24.980 align:middle line:90%
+I forget.
+
+01:02:24.980 --> 01:02:28.040 align:middle line:84%
+They use a Lasso procedure
+also to estimate this,
+
+01:02:28.040 --> 01:02:30.500 align:middle line:84%
+setting more
+coefficients equal to 0.
+
+01:02:30.500 --> 01:02:35.120 align:middle line:84%
+And then they also do a Weighted
+Likelihood Bootstrap Lasso,
+
+01:02:35.120 --> 01:02:36.540 align:middle line:90%
+which you can look in the paper.
+
+01:02:36.540 --> 01:02:38.490 align:middle line:84%
+It takes up multiple
+pages describing
+
+01:02:38.490 --> 01:02:40.320 align:middle line:90%
+what this procedure is.
+
+01:02:40.320 --> 01:02:43.800 align:middle line:84%
+The Weighted Likelihood
+Bootstrap procedure,
+
+01:02:43.800 --> 01:02:47.490 align:middle line:84%
+the Lasso model essentially
+sets some number of coefficients
+
+01:02:47.490 --> 01:02:48.790 align:middle line:90%
+equal to 0.
+
+01:02:48.790 --> 01:02:50.310 align:middle line:84%
+And all the inference
+on it is based
+
+01:02:50.310 --> 01:02:51.555 align:middle line:90%
+on assuming those are all 0.
+
+01:02:51.555 --> 01:02:53.430 align:middle line:84%
+And then what's the
+uncertainty in estimating
+
+01:02:53.430 --> 01:02:56.010 align:middle line:90%
+the rest of the coefficients?
+
+01:02:56.010 --> 01:02:58.950 align:middle line:84%
+This Weighted Likelihood
+Bootstrap model
+
+01:02:58.950 --> 01:03:01.470 align:middle line:84%
+is keeping track of both
+uncertainty over which
+
+01:03:01.470 --> 01:03:03.510 align:middle line:84%
+coefficients are
+nonzero and uncertainty
+
+01:03:03.510 --> 01:03:04.960 align:middle line:90%
+over the coefficient values.
+
+01:03:04.960 --> 01:03:07.530 align:middle line:84%
+So it's like giving you
+a posterior over all
+
+01:03:07.530 --> 01:03:09.600 align:middle line:84%
+the different models
+that might be true
+
+01:03:09.600 --> 01:03:12.970 align:middle line:84%
+and reflecting that you don't
+know what the correct model is.
+
+01:03:12.970 --> 01:03:14.280 align:middle line:90%
+You have a posterior over that.
+
+01:03:14.280 --> 01:03:15.697 align:middle line:84%
+And then you also
+have a posterior
+
+01:03:15.697 --> 01:03:17.610 align:middle line:84%
+over coefficients
+within the correct model
+
+01:03:17.610 --> 01:03:21.383 align:middle line:84%
+or within each correct
+and incorrect model.
+
+01:03:21.383 --> 01:03:22.800 align:middle line:84%
+Typical way these
+things are done,
+
+01:03:22.800 --> 01:03:24.730 align:middle line:90%
+you have a held-out sample.
+
+01:03:24.730 --> 01:03:27.250 align:middle line:84%
+You estimate the model
+on 90% of the data,
+
+01:03:27.250 --> 01:03:28.680 align:middle line:84%
+and then see how
+well it predicts
+
+01:03:28.680 --> 01:03:30.490 align:middle line:90%
+on the other 10% of the data.
+
+01:03:30.490 --> 01:03:33.630 align:middle line:84%
+And they say that from that
+validation kind of exercise,
+
+01:03:33.630 --> 01:03:37.560 align:middle line:84%
+they find that the Weighted
+Likelihood Bootstrap
+
+01:03:37.560 --> 01:03:40.300 align:middle line:84%
+estimates are the best estimates
+relative to the other two.
+
+01:03:40.300 --> 01:03:42.090 align:middle line:90%
+That is, they do a--
+
+01:03:42.090 --> 01:03:45.510 align:middle line:84%
+the maximum likelihood
+always fits the data best
+
+01:03:45.510 --> 01:03:46.690 align:middle line:90%
+on the in-sample part.
+
+01:03:46.690 --> 01:03:48.572 align:middle line:84%
+But then when you go
+to the out-sample data,
+
+01:03:48.572 --> 01:03:50.280 align:middle line:84%
+this one is doing a
+better job predicting
+
+01:03:50.280 --> 01:03:54.210 align:middle line:84%
+the out-of-sample data
+than are the MLE estimates.
+
+01:03:54.210 --> 01:03:58.200 align:middle line:90%
+So that's what they recommend.
+
+01:03:58.200 --> 01:03:59.270 align:middle line:90%
+What happens?
+
+01:03:59.270 --> 01:04:03.770 align:middle line:84%
+So first, this is really a
+monopoly pricing problem--
+
+01:04:03.770 --> 01:04:08.198 align:middle line:84%
+a monopoly pricing
+observation, not a price
+
+01:04:08.198 --> 01:04:09.240 align:middle line:90%
+discriminate observation.
+
+01:04:09.240 --> 01:04:13.340 align:middle line:84%
+But what they find is
+that ZipRecruiter was not
+
+01:04:13.340 --> 01:04:16.190 align:middle line:84%
+short-run profit maximizing
+to these consumers.
+
+01:04:16.190 --> 01:04:19.610 align:middle line:84%
+This chart here at the bottom
+is, how much money would they
+
+01:04:19.610 --> 01:04:20.903 align:middle line:90%
+make?
+
+01:04:20.903 --> 01:04:22.820 align:middle line:84%
+How much money do they
+make in the first month
+
+01:04:22.820 --> 01:04:26.030 align:middle line:84%
+off the customers who got
+different prices shown to them?
+
+01:04:26.030 --> 01:04:30.500 align:middle line:84%
+And you show them $19 a
+month, still only half of them
+
+01:04:30.500 --> 01:04:31.820 align:middle line:90%
+buy at $19 a month.
+
+01:04:31.820 --> 01:04:35.000 align:middle line:84%
+So you're only getting
+like $8 a month in revenue.
+
+01:04:35.000 --> 01:04:39.200 align:middle line:84%
+As you go up, $39,
+$59, $79, $99, you
+
+01:04:39.200 --> 01:04:42.600 align:middle line:84%
+keep making more money
+because fewer people sign up,
+
+01:04:42.600 --> 01:04:45.420 align:middle line:84%
+but this price is
+five times that price.
+
+01:04:45.420 --> 01:04:47.300 align:middle line:84%
+It's not one fifth the
+number of customers.
+
+01:04:47.300 --> 01:04:48.680 align:middle line:90%
+You make more money.
+
+01:04:48.680 --> 01:04:51.380 align:middle line:84%
+But then you go to the
+right of where ZipRecruiter
+
+01:04:51.380 --> 01:04:55.280 align:middle line:84%
+was at the time to
+$159, $199 to $249,
+
+01:04:55.280 --> 01:04:59.910 align:middle line:84%
+and it looks like the profits
+just keep marching up.
+
+01:04:59.910 --> 01:05:04.110 align:middle line:84%
+So the result is that
+ZipRecruiter was just
+
+01:05:04.110 --> 01:05:05.610 align:middle line:84%
+charging too little
+for its service
+
+01:05:05.610 --> 01:05:08.470 align:middle line:84%
+from the short-run profit
+maximization perspective.
+
+01:05:08.470 --> 01:05:12.000 align:middle line:84%
+And the standard error
+bars, they're not
+
+01:05:12.000 --> 01:05:14.020 align:middle line:90%
+insignificant on each of these.
+
+01:05:14.020 --> 01:05:16.920 align:middle line:84%
+But clearly, if you're
+fitting a curve through that,
+
+01:05:16.920 --> 01:05:20.520 align:middle line:84%
+it looks like it goes like this
+and profits are maximized up
+
+01:05:20.520 --> 01:05:23.240 align:middle line:90%
+here somewhere.
+
+01:05:23.240 --> 01:05:26.180 align:middle line:84%
+So anyway, they estimate
+the optimal price would be
+
+01:05:26.180 --> 01:05:30.440 align:middle line:90%
+$327 a month, not $99 a month.
+
+01:05:30.440 --> 01:05:32.160 align:middle line:90%
+OK.
+
+01:05:32.160 --> 01:05:32.660 align:middle line:90%
+Anyway.
+
+01:05:32.660 --> 01:05:34.680 align:middle line:84%
+So that's a test of
+monopoly pricing,
+
+01:05:34.680 --> 01:05:37.290 align:middle line:84%
+is that ZipRecruiter is
+not static monopoly pricing
+
+01:05:37.290 --> 01:05:39.360 align:middle line:90%
+before this experiment is run.
+
+01:05:39.360 --> 01:05:41.820 align:middle line:84%
+Incidentally, one of the
+postscripts of the paper
+
+01:05:41.820 --> 01:05:45.630 align:middle line:84%
+is that seeing these results,
+ZipRecruiter switched to $249
+
+01:05:45.630 --> 01:05:48.090 align:middle line:90%
+a month.
+
+01:05:48.090 --> 01:05:50.460 align:middle line:84%
+So then maybe short-run
+profit maximization model
+
+01:05:50.460 --> 01:05:52.740 align:middle line:84%
+does work once you've
+hired consultants
+
+01:05:52.740 --> 01:05:55.590 align:middle line:90%
+from Chicago Business School.
+
+01:05:55.590 --> 01:05:58.620 align:middle line:84%
+So second observation
+is, there's substantial
+
+01:05:58.620 --> 01:06:00.660 align:middle line:84%
+heterogeneity, both
+in price sensitivity
+
+01:06:00.660 --> 01:06:02.500 align:middle line:90%
+and in the consumer surplus.
+
+01:06:02.500 --> 01:06:04.770 align:middle line:84%
+So as I said, they've
+got heterogeneity
+
+01:06:04.770 --> 01:06:07.740 align:middle line:84%
+both in the v's
+and in the alphas.
+
+01:06:07.740 --> 01:06:10.270 align:middle line:84%
+And the paper says
+there's a lot of both.
+
+01:06:10.270 --> 01:06:15.110 align:middle line:84%
+So this is the fitted
+price coefficient,
+
+01:06:15.110 --> 01:06:22.290 align:middle line:84%
+what I was calling the Xi times
+theta alpha, the predicted price
+
+01:06:22.290 --> 01:06:23.640 align:middle line:90%
+coefficient here.
+
+01:06:23.640 --> 01:06:28.180 align:middle line:84%
+And you can see, on an
+absolute scale, this is 0.02.
+
+01:06:28.180 --> 01:06:29.770 align:middle line:90%
+So this is like 0.
+
+01:06:29.770 --> 01:06:34.520 align:middle line:84%
+So this thing is double the
+price sensitivity of this.
+
+01:06:34.520 --> 01:06:38.050 align:middle line:84%
+There's just a great
+deal of heterogeneity
+
+01:06:38.050 --> 01:06:39.970 align:middle line:90%
+in that price coefficient.
+
+01:06:39.970 --> 01:06:42.130 align:middle line:84%
+So there is substantial
+number of people
+
+01:06:42.130 --> 01:06:43.850 align:middle line:90%
+who are-- it's around 0.3.
+
+01:06:43.850 --> 01:06:46.703 align:middle line:84%
+There's a lot who
+it's around 0.6.
+
+01:06:46.703 --> 01:06:49.120 align:middle line:84%
+There's a lot of difference
+in what that price coefficient
+
+01:06:49.120 --> 01:06:50.210 align:middle line:90%
+seems to be.
+
+01:06:50.210 --> 01:06:53.062 align:middle line:84%
+And again, this exogenous
+variation in price
+
+01:06:53.062 --> 01:06:55.020 align:middle line:84%
+means we can estimate
+these things pretty well.
+
+01:06:55.020 --> 01:06:57.610 align:middle line:90%
+
+
+01:06:57.610 --> 01:06:59.410 align:middle line:84%
+What is the
+heterogeneity in how much
+
+01:06:59.410 --> 01:07:02.908 align:middle line:84%
+consumer surplus those who
+are purchasing are getting?
+
+01:07:02.908 --> 01:07:04.450 align:middle line:84%
+Again, their estimate
+is that there's
+
+01:07:04.450 --> 01:07:10.380 align:middle line:84%
+this big upper tail of values
+and that some people are getting
+
+01:07:10.380 --> 01:07:12.880 align:middle line:84%
+very little surplus and are on
+the margin to buying and not,
+
+01:07:12.880 --> 01:07:16.220 align:middle line:84%
+but most people are getting
+at least $50 worth of surplus.
+
+01:07:16.220 --> 01:07:18.880 align:middle line:84%
+And then there's
+this thick fat tail
+
+01:07:18.880 --> 01:07:20.590 align:middle line:84%
+of people getting
+very high consumer
+
+01:07:20.590 --> 01:07:22.083 align:middle line:90%
+surplus from this product.
+
+01:07:22.083 --> 01:07:23.500 align:middle line:84%
+So they're estimating
+that there's
+
+01:07:23.500 --> 01:07:26.920 align:middle line:84%
+a tremendous amount of
+consumer surplus, where
+
+01:07:26.920 --> 01:07:27.880 align:middle line:90%
+consumer means firm.
+
+01:07:27.880 --> 01:07:33.310 align:middle line:84%
+But firm surplus from using
+ZipRecruiter at the time.
+
+01:07:33.310 --> 01:07:34.880 align:middle line:90%
+How much surplus is there?
+
+01:07:34.880 --> 01:07:37.780 align:middle line:84%
+Well, they estimate that
+if you look at what optimal
+
+01:07:37.780 --> 01:07:40.480 align:middle line:84%
+personalized prices would be,
+the optimal personalized prices
+
+01:07:40.480 --> 01:07:47.440 align:middle line:84%
+would range from $126
+to $6,292 a month.
+
+01:07:47.440 --> 01:07:50.433 align:middle line:84%
+The $126 is noteworthy because
+they were only charging $99.
+
+01:07:50.433 --> 01:07:51.850 align:middle line:84%
+So this would say,
+even if someone
+
+01:07:51.850 --> 01:07:53.470 align:middle line:84%
+has all of the
+attributes that make
+
+01:07:53.470 --> 01:07:55.990 align:middle line:84%
+you think they're the most
+price-sensitive consumer
+
+01:07:55.990 --> 01:07:58.650 align:middle line:84%
+with the lowest value,
+what would you charge?
+
+01:07:58.650 --> 01:08:01.330 align:middle line:90%
+The answer is $126.
+
+01:08:01.330 --> 01:08:05.140 align:middle line:84%
+$6,292, it's a little
+heroic there because they
+
+01:08:05.140 --> 01:08:07.760 align:middle line:84%
+didn't experiment with
+any price above $399.
+
+01:08:07.760 --> 01:08:11.290 align:middle line:84%
+So having an experiment where
+the maximum price is $399
+
+01:08:11.290 --> 01:08:13.180 align:middle line:84%
+and then you say, OK,
+given that experiment,
+
+01:08:13.180 --> 01:08:15.580 align:middle line:84%
+$6,000 is what you
+should charge that guy,
+
+01:08:15.580 --> 01:08:18.819 align:middle line:84%
+obviously you've got all kinds
+of functional form assumptions
+
+01:08:18.819 --> 01:08:21.160 align:middle line:84%
+for what happens out of sample,
+and is that price really
+
+01:08:21.160 --> 01:08:22.010 align:middle line:90%
+correct?
+
+01:08:22.010 --> 01:08:25.750 align:middle line:84%
+So I think, in fact,
+when they see things--
+
+01:08:25.750 --> 01:08:30.010 align:middle line:84%
+one thing they do say is, the
+mean price would only be $277,
+
+01:08:30.010 --> 01:08:32.510 align:middle line:84%
+whereas its $327
+with a uniform price.
+
+01:08:32.510 --> 01:08:35.470 align:middle line:84%
+So the skew is such that you
+do charge a lot of people
+
+01:08:35.470 --> 01:08:36.580 align:middle line:90%
+low prices.
+
+01:08:36.580 --> 01:08:41.290 align:middle line:84%
+And even with the $6,000s mixed
+in, you do a lower mean price
+
+01:08:41.290 --> 01:08:45.850 align:middle line:84%
+with discriminating than you
+do without discriminating.
+
+01:08:45.850 --> 01:08:50.620 align:middle line:84%
+And the I think more reasonable
+treatment of this data
+
+01:08:50.620 --> 01:08:53.979 align:middle line:84%
+is, let's look at-- suppose we
+look at the personalized prices
+
+01:08:53.979 --> 01:08:56.120 align:middle line:90%
+and just cap them all at $499.
+
+01:08:56.120 --> 01:08:57.670 align:middle line:90%
+And when they actually--
+
+01:08:57.670 --> 01:08:59.410 align:middle line:84%
+ZipRecruiter said
+that to them, is
+
+01:08:59.410 --> 01:09:02.170 align:middle line:84%
+that we're not going above
+$499 no matter what you say.
+
+01:09:02.170 --> 01:09:03.670 align:middle line:84%
+So they have this
+counterfactual of,
+
+01:09:03.670 --> 01:09:05.620 align:middle line:84%
+let's suppose they
+discriminated,
+
+01:09:05.620 --> 01:09:10.750 align:middle line:84%
+but they let prices go up to
+$499 based on this prediction.
+
+01:09:10.750 --> 01:09:13.840 align:middle line:84%
+The model estimates
+were that discriminating
+
+01:09:13.840 --> 01:09:19.029 align:middle line:84%
+would increase profits by 8.2%
+relative to the $327 price.
+
+01:09:19.029 --> 01:09:23.720 align:middle line:84%
+So if you discriminate, that's
+the magnitude of discrimination.
+
+01:09:23.720 --> 01:09:28.720 align:middle line:84%
+So obviously it's much
+bigger than Shiller's number.
+
+01:09:28.720 --> 01:09:33.300 align:middle line:84%
+But I think of it as
+still relatively small.
+
+01:09:33.300 --> 01:09:37.140 align:middle line:90%
+
+
+01:09:37.140 --> 01:09:39.955 align:middle line:84%
+What would the optimal
+personalized prices do?
+
+01:09:39.955 --> 01:09:42.330 align:middle line:84%
+The optimal personalized prices
+are the ones that include
+
+01:09:42.330 --> 01:09:44.609 align:middle line:90%
+the $6,000 numbers in them.
+
+01:09:44.609 --> 01:09:46.620 align:middle line:84%
+They say the optimal
+personalized prices
+
+01:09:46.620 --> 01:09:51.060 align:middle line:84%
+would reduce consumer
+surplus by about 25%
+
+01:09:51.060 --> 01:09:55.410 align:middle line:84%
+and would reduce social welfare
+relative to the uniform pricing.
+
+01:09:55.410 --> 01:09:56.260 align:middle line:90%
+Why is that?
+
+01:09:56.260 --> 01:09:56.935 align:middle line:90%
+Well, one thing.
+
+01:09:56.935 --> 01:09:58.560 align:middle line:84%
+The summary, essentially,
+of the report
+
+01:09:58.560 --> 01:10:01.200 align:middle line:84%
+is, under these
+discriminatory prices,
+
+01:10:01.200 --> 01:10:04.710 align:middle line:84%
+even though the mean is
+$277 instead of $327,
+
+01:10:04.710 --> 01:10:06.930 align:middle line:90%
+demand goes down.
+
+01:10:06.930 --> 01:10:08.400 align:middle line:84%
+And the reason
+is, they're taking
+
+01:10:08.400 --> 01:10:12.270 align:middle line:84%
+all of these super high
+value people and monopoly
+
+01:10:12.270 --> 01:10:13.570 align:middle line:90%
+pricing against them.
+
+01:10:13.570 --> 01:10:18.840 align:middle line:84%
+And as I said, when you
+do monopoly pricing,
+
+01:10:18.840 --> 01:10:21.360 align:middle line:84%
+no matter how high demand
+is, monopoly pricing,
+
+01:10:21.360 --> 01:10:25.075 align:middle line:84%
+you're always, in some sense,
+selling to half the consumers.
+
+01:10:25.075 --> 01:10:27.450 align:middle line:84%
+And so if there are all these
+high value people out there
+
+01:10:27.450 --> 01:10:29.242 align:middle line:84%
+willing to pay thousands
+of dollars a month
+
+01:10:29.242 --> 01:10:31.140 align:middle line:84%
+and you still only
+sell to half of them,
+
+01:10:31.140 --> 01:10:33.270 align:middle line:84%
+there's a huge amount
+of deadweight loss
+
+01:10:33.270 --> 01:10:34.980 align:middle line:90%
+that comes from not selling to--
+
+01:10:34.980 --> 01:10:38.910 align:middle line:84%
+taking every one of those
+really high value populations
+
+01:10:38.910 --> 01:10:43.170 align:middle line:84%
+and not selling to a
+lot of people in those.
+
+01:10:43.170 --> 01:10:45.960 align:middle line:84%
+So anyway, the estimate is
+that consumer surplus goes down
+
+01:10:45.960 --> 01:10:48.210 align:middle line:90%
+by 25% here.
+
+01:10:48.210 --> 01:10:53.240 align:middle line:84%
+And so total social
+welfare has gone down.
+
+01:10:53.240 --> 01:10:56.880 align:middle line:90%
+Again, profits only go up by 8%.
+
+01:10:56.880 --> 01:10:58.653 align:middle line:84%
+Consumer surplus
+goes down by 25%.
+
+01:10:58.653 --> 01:11:01.070 align:middle line:84%
+And then how big was consumer
+surplus relative to profits?
+
+01:11:01.070 --> 01:11:03.200 align:middle line:84%
+Well, it looks like consumer
+surplus was actually
+
+01:11:03.200 --> 01:11:04.780 align:middle line:90%
+quite big relative to profits.
+
+01:11:04.780 --> 01:11:09.770 align:middle line:90%
+
+
+01:11:09.770 --> 01:11:11.480 align:middle line:90%
+OK.
+
+01:11:11.480 --> 01:11:13.850 align:middle line:84%
+It's a nice paper in
+that they actually
+
+01:11:13.850 --> 01:11:17.060 align:middle line:84%
+include my
+Bergemann-Brooks-Morris triangle
+
+01:11:17.060 --> 01:11:18.330 align:middle line:90%
+themselves.
+
+01:11:18.330 --> 01:11:19.980 align:middle line:84%
+So I don't have to
+draw in the arrow.
+
+01:11:19.980 --> 01:11:23.010 align:middle line:84%
+So here's what they say
+personalization does.
+
+01:11:23.010 --> 01:11:24.680 align:middle line:84%
+So personalization
+takes you from here,
+
+01:11:24.680 --> 01:11:27.210 align:middle line:84%
+and it's headed
+in that direction.
+
+01:11:27.210 --> 01:11:29.000 align:middle line:84%
+So it's going to
+the direction where
+
+01:11:29.000 --> 01:11:30.770 align:middle line:90%
+you're really getting only--
+
+01:11:30.770 --> 01:11:32.840 align:middle line:90%
+if this is the gap in there--
+
+01:11:32.840 --> 01:11:34.230 align:middle line:84%
+they've done this
+for their data.
+
+01:11:34.230 --> 01:11:36.597 align:middle line:84%
+So this is the gap between
+uninformed monopoly prices
+
+01:11:36.597 --> 01:11:38.930 align:middle line:84%
+and what they think would
+happen with first degree price
+
+01:11:38.930 --> 01:11:40.012 align:middle line:90%
+discrimination.
+
+01:11:40.012 --> 01:11:41.720 align:middle line:84%
+And so first degree
+price discrimination,
+
+01:11:41.720 --> 01:11:43.950 align:middle line:84%
+you'd make a huge
+increase in profits.
+
+01:11:43.950 --> 01:11:46.280 align:middle line:84%
+You're only getting a
+little bit off the floor
+
+01:11:46.280 --> 01:11:49.730 align:middle line:84%
+by doing this personalization
+with 133 variables.
+
+01:11:49.730 --> 01:11:52.280 align:middle line:84%
+And you're getting it
+in this arrow that's
+
+01:11:52.280 --> 01:11:54.860 align:middle line:84%
+going very much
+horizontally, is their claim,
+
+01:11:54.860 --> 01:11:58.280 align:middle line:84%
+that consumer surplus is
+just going down rapidly,
+
+01:11:58.280 --> 01:12:02.430 align:middle line:84%
+and profits is only going up
+a little in this application.
+
+01:12:02.430 --> 01:12:05.800 align:middle line:90%
+
+
+01:12:05.800 --> 01:12:08.500 align:middle line:84%
+So in some sense, this
+is one where this is--
+
+01:12:08.500 --> 01:12:12.790 align:middle line:84%
+it's a positive and negative
+message from social perspective.
+
+01:12:12.790 --> 01:12:16.520 align:middle line:84%
+One is that it's
+saying socially,
+
+01:12:16.520 --> 01:12:19.970 align:middle line:84%
+price discrimination is really
+bad in this application.
+
+01:12:19.970 --> 01:12:22.190 align:middle line:84%
+It's destroying an awful
+lot of social surplus
+
+01:12:22.190 --> 01:12:24.210 align:middle line:84%
+just to raise a
+tiny bit of profit.
+
+01:12:24.210 --> 01:12:26.120 align:middle line:84%
+But then the positive
+counterpoint to that
+
+01:12:26.120 --> 01:12:28.562 align:middle line:84%
+is that given the profit
+gain is so little,
+
+01:12:28.562 --> 01:12:30.020 align:middle line:84%
+maybe the firm
+wouldn't even bother
+
+01:12:30.020 --> 01:12:33.120 align:middle line:84%
+to do it because it's only
+an 8% increase in profits.
+
+01:12:33.120 --> 01:12:35.850 align:middle line:84%
+And what are the other
+downsides of doing it?
+
+01:12:35.850 --> 01:12:39.230 align:middle line:84%
+Are you going to pay the
+consultants to do this and take
+
+01:12:39.230 --> 01:12:42.110 align:middle line:84%
+whatever political pressure,
+bad news you might get,
+
+01:12:42.110 --> 01:12:43.110 align:middle line:90%
+or whatever to do it?
+
+01:12:43.110 --> 01:12:44.990 align:middle line:84%
+And in fact,
+follow-up experiment
+
+01:12:44.990 --> 01:12:47.840 align:middle line:84%
+is, ZipRecruiter, in fact,
+seeing these results,
+
+01:12:47.840 --> 01:12:49.080 align:middle line:90%
+did not do it.
+
+01:12:49.080 --> 01:12:51.420 align:middle line:84%
+ZipRecruiter said,
+thank you very much.
+
+01:12:51.420 --> 01:12:53.120 align:middle line:84%
+Good to know our
+prices are too low.
+
+01:12:53.120 --> 01:12:55.520 align:middle line:90%
+We'll start charging $249.
+
+01:12:55.520 --> 01:12:57.530 align:middle line:84%
+And actually, a very
+nice part of the paper
+
+01:12:57.530 --> 01:12:59.660 align:middle line:84%
+is that ZipRecruiter then
+let them come in and do
+
+01:12:59.660 --> 01:13:03.590 align:middle line:84%
+a follow-on study,
+judging, you have
+
+01:13:03.590 --> 01:13:05.300 align:middle line:84%
+all these very
+out-of-sample predictions
+
+01:13:05.300 --> 01:13:06.660 align:middle line:90%
+of what things would do.
+
+01:13:06.660 --> 01:13:08.678 align:middle line:84%
+Let's see you
+discriminate in practice.
+
+01:13:08.678 --> 01:13:09.720 align:middle line:90%
+Again, a held-out sample.
+
+01:13:09.720 --> 01:13:12.380 align:middle line:84%
+So they use experiment
+number one to predict--
+
+01:13:12.380 --> 01:13:19.170 align:middle line:84%
+to find the beta hat
+or theta alpha hat.
+
+01:13:19.170 --> 01:13:21.720 align:middle line:84%
+And then that lets
+them get, what
+
+01:13:21.720 --> 01:13:24.180 align:middle line:90%
+is pi hat for every consumer i?
+
+01:13:24.180 --> 01:13:27.840 align:middle line:84%
+Let's see how well does your
+price discrimination scheme
+
+01:13:27.840 --> 01:13:30.600 align:middle line:84%
+work, reflecting
+the fact that there
+
+01:13:30.600 --> 01:13:32.220 align:middle line:84%
+is estimation error
+in these things
+
+01:13:32.220 --> 01:13:34.262 align:middle line:84%
+and you're trying it some
+number of months later.
+
+01:13:34.262 --> 01:13:36.030 align:middle line:84%
+Does your model
+still tell us who's
+
+01:13:36.030 --> 01:13:38.100 align:middle line:90%
+price sensitive or whatever?
+
+01:13:38.100 --> 01:13:40.360 align:middle line:84%
+So anyway, they ran
+a second experiment.
+
+01:13:40.360 --> 01:13:45.100 align:middle line:84%
+In the second experiment, $249
+had been the standard price
+
+01:13:45.100 --> 01:13:46.710 align:middle line:90%
+before the experiment was run.
+
+01:13:46.710 --> 01:13:49.470 align:middle line:84%
+They experimented with
+25% of the subjects
+
+01:13:49.470 --> 01:13:55.560 align:middle line:84%
+going back to the $99 price,
+25% keeping the $249 price,
+
+01:13:55.560 --> 01:14:00.090 align:middle line:84%
+and then 50% of the sample being
+on the personalized prices that
+
+01:14:00.090 --> 01:14:05.670 align:middle line:90%
+varied from $129 up to $499.
+
+01:14:05.670 --> 01:14:08.370 align:middle line:84%
+They rounded everything
+to the nearest 9.
+
+01:14:08.370 --> 01:14:12.130 align:middle line:84%
+And what you find is
+that, really, it's
+
+01:14:12.130 --> 01:14:16.205 align:middle line:84%
+impressive in showing
+that their model is pretty
+
+01:14:16.205 --> 01:14:18.580 align:middle line:84%
+accurately predicting what
+would happen under these three
+
+01:14:18.580 --> 01:14:19.640 align:middle line:90%
+policies.
+
+01:14:19.640 --> 01:14:22.990 align:middle line:84%
+So what their prediction was
+was that the mean probability
+
+01:14:22.990 --> 01:14:28.540 align:middle line:84%
+of signing up would be
+26% in the $99 group,
+
+01:14:28.540 --> 01:14:34.390 align:middle line:84%
+15% in the $249 group, and only
+14% in the personalized group
+
+01:14:34.390 --> 01:14:36.550 align:middle line:84%
+where they're charging
+high prices to some
+
+01:14:36.550 --> 01:14:38.770 align:middle line:90%
+of these high value populations.
+
+01:14:38.770 --> 01:14:41.920 align:middle line:84%
+And what they find in the
+data, just a simple comparison
+
+01:14:41.920 --> 01:14:44.500 align:middle line:84%
+of means, it was
+actually only 23%
+
+01:14:44.500 --> 01:14:48.190 align:middle line:84%
+instead of 26% in the
+$99 group, it matched 15%
+
+01:14:48.190 --> 01:14:50.590 align:middle line:84%
+in the $249 group,
+and it was 15%
+
+01:14:50.590 --> 01:14:53.280 align:middle line:84%
+versus 14% in the
+personalized group.
+
+01:14:53.280 --> 01:14:55.230 align:middle line:84%
+If you look at the
+revenue predictions,
+
+01:14:55.230 --> 01:14:58.470 align:middle line:84%
+they were predicting the
+revenues, per consumer,
+
+01:14:58.470 --> 01:15:01.360 align:middle line:90%
+would be $25, $38, $41.
+
+01:15:01.360 --> 01:15:06.420 align:middle line:90%
+It's $22, $38, $41.50.
+
+01:15:06.420 --> 01:15:09.570 align:middle line:84%
+So I think this experiment
+gives you a lot of confidence
+
+01:15:09.570 --> 01:15:13.980 align:middle line:84%
+that, at least in the short
+run, yes, price discrimination
+
+01:15:13.980 --> 01:15:15.750 align:middle line:84%
+would raise
+ZipRecruiter's profits
+
+01:15:15.750 --> 01:15:19.373 align:middle line:84%
+by 8% using this feasible
+price discrimination scheme.
+
+01:15:19.373 --> 01:15:22.080 align:middle line:90%
+
+
+01:15:22.080 --> 01:15:25.387 align:middle line:84%
+And obviously,
+ZipRecruiter, I believe,
+
+01:15:25.387 --> 01:15:26.970 align:middle line:84%
+having seen the
+results of this, still
+
+01:15:26.970 --> 01:15:29.730 align:middle line:84%
+just stuck with the
+$249 price and didn't
+
+01:15:29.730 --> 01:15:32.220 align:middle line:84%
+go ahead and change
+and adopt this change
+
+01:15:32.220 --> 01:15:34.145 align:middle line:84%
+to try to get that
+8% out of people.
+
+01:15:34.145 --> 01:15:37.240 align:middle line:90%
+
+
+01:15:37.240 --> 01:15:38.770 align:middle line:90%
+OK, some comments.
+
+01:15:38.770 --> 01:15:43.540 align:middle line:84%
+Again, benefits of working
+collaboratively with firms
+
+01:15:43.540 --> 01:15:45.400 align:middle line:90%
+is just huge here.
+
+01:15:45.400 --> 01:15:49.090 align:middle line:84%
+It's very nice that Shiller
+could be clever and think
+
+01:15:49.090 --> 01:15:51.903 align:middle line:84%
+about his identification
+ability and the ability
+
+01:15:51.903 --> 01:15:53.320 align:middle line:84%
+to do this without
+any price data,
+
+01:15:53.320 --> 01:15:57.040 align:middle line:90%
+but price variation is good.
+
+01:15:57.040 --> 01:15:59.740 align:middle line:84%
+So obviously, can you
+walk into ZipRecruiter
+
+01:15:59.740 --> 01:16:03.190 align:middle line:84%
+and get them to run
+this experiment for you?
+
+01:16:03.190 --> 01:16:03.920 align:middle line:90%
+Probably not.
+
+01:16:03.920 --> 01:16:07.240 align:middle line:84%
+But if you have friends who have
+internet startups that are still
+
+01:16:07.240 --> 01:16:09.490 align:middle line:84%
+small enough they would
+rather hire a graduate student
+
+01:16:09.490 --> 01:16:12.460 align:middle line:84%
+than some Chicago Business
+School marketing professors
+
+01:16:12.460 --> 01:16:15.070 align:middle line:84%
+to do their
+experiments for them,
+
+01:16:15.070 --> 01:16:18.370 align:middle line:84%
+finding those opportunities
+to get data sets like this
+
+01:16:18.370 --> 01:16:20.080 align:middle line:90%
+and let someone run experiments.
+
+01:16:20.080 --> 01:16:24.160 align:middle line:84%
+And often, actually, you can
+go to MIT alums or people
+
+01:16:24.160 --> 01:16:30.700 align:middle line:84%
+who work at not quite so
+fancy companies may help out.
+
+01:16:30.700 --> 01:16:32.585 align:middle line:90%
+Wayfair is in Boston.
+
+01:16:32.585 --> 01:16:34.460 align:middle line:84%
+Maybe you have a friend
+who works at Wayfair.
+
+01:16:34.460 --> 01:16:37.760 align:middle line:84%
+They can get you an introduction
+to their data science team.
+
+01:16:37.760 --> 01:16:41.780 align:middle line:84%
+Could run experiments
+through firms like that.
+
+01:16:41.780 --> 01:16:46.220 align:middle line:84%
+I have to say that
+segmentation analysis here,
+
+01:16:46.220 --> 01:16:48.140 align:middle line:84%
+that second experiment
+really shows you
+
+01:16:48.140 --> 01:16:52.050 align:middle line:84%
+that the Weighted
+Likelihood Bootstrap Lasso
+
+01:16:52.050 --> 01:16:54.450 align:middle line:84%
+thing that they're doing
+seems like that is doing
+
+01:16:54.450 --> 01:16:56.040 align:middle line:84%
+a good job of
+segmenting the consumers
+
+01:16:56.040 --> 01:16:57.248 align:middle line:90%
+and predicting their demands.
+
+01:16:57.248 --> 01:17:00.360 align:middle line:84%
+And at least they don't give
+you so much sense of like,
+
+01:17:00.360 --> 01:17:01.920 align:middle line:84%
+are the price
+elasticities estimated
+
+01:17:01.920 --> 01:17:04.503 align:middle line:84%
+from the new data the same as
+they would be from the old data?
+
+01:17:04.503 --> 01:17:07.050 align:middle line:84%
+But at least it looks like
+this is a very good method
+
+01:17:07.050 --> 01:17:08.470 align:middle line:90%
+for segmenting people.
+
+01:17:08.470 --> 01:17:13.700 align:middle line:84%
+And if you wanted to think
+about doing another study,
+
+01:17:13.700 --> 01:17:16.880 align:middle line:84%
+I think of the applied results
+as being similar to Shiller's
+
+01:17:16.880 --> 01:17:18.980 align:middle line:90%
+in that demographics are just--
+
+01:17:18.980 --> 01:17:21.200 align:middle line:84%
+they have more demographics
+than Shiller did.
+
+01:17:21.200 --> 01:17:23.030 align:middle line:84%
+They're using 133
+features, whereas he
+
+01:17:23.030 --> 01:17:25.400 align:middle line:90%
+was using 33 features.
+
+01:17:25.400 --> 01:17:27.192 align:middle line:84%
+They're getting more
+powerful results.
+
+01:17:27.192 --> 01:17:29.150 align:middle line:84%
+Maybe there's a sense of
+having done the demand
+
+01:17:29.150 --> 01:17:30.470 align:middle line:90%
+estimation better.
+
+01:17:30.470 --> 01:17:32.993 align:middle line:90%
+But it's still not all that big.
+
+01:17:32.993 --> 01:17:36.123 align:middle line:90%
+
+
+01:17:36.123 --> 01:17:38.540 align:middle line:84%
+Another concern, as I said,
+going back to Shiller's paper,
+
+01:17:38.540 --> 01:17:42.530 align:middle line:84%
+is it's a very nice
+study, but it is--
+
+01:17:42.530 --> 01:17:45.740 align:middle line:84%
+got this maintained
+assumptions that people
+
+01:17:45.740 --> 01:17:48.770 align:middle line:84%
+have these logit demands
+with the logit demand errors,
+
+01:17:48.770 --> 01:17:50.810 align:middle line:84%
+and it's only heterogeneity
+in this coefficient
+
+01:17:50.810 --> 01:17:53.690 align:middle line:90%
+and this coefficient.
+
+01:17:53.690 --> 01:17:56.720 align:middle line:84%
+Again, we would like
+to know more about,
+
+01:17:56.720 --> 01:17:58.820 align:middle line:84%
+to what extent are
+these predictions
+
+01:17:58.820 --> 01:18:04.050 align:middle line:84%
+of the model versus results
+estimated from the model?
+
+01:18:04.050 --> 01:18:06.050 align:middle line:84%
+I mean, I think it's nice
+as an empirical result
+
+01:18:06.050 --> 01:18:14.947 align:middle line:84%
+that Shiller was finding this
+and Dubé and Misra find this.
+
+01:18:14.947 --> 01:18:17.030 align:middle line:84%
+It makes you think that
+maybe this model is fairly
+
+01:18:17.030 --> 01:18:19.460 align:middle line:84%
+flexible in which direction
+those arrows could end up
+
+01:18:19.460 --> 01:18:21.170 align:middle line:90%
+pointing.
+
+01:18:21.170 --> 01:18:25.580 align:middle line:84%
+But it would be nice to
+know more about that.
+
+01:18:25.580 --> 01:18:27.590 align:middle line:84%
+One other thing that's
+important-- maybe this
+
+01:18:27.590 --> 01:18:30.860 align:middle line:84%
+is more of a practical
+consulting point than a paper.
+
+01:18:30.860 --> 01:18:37.120 align:middle line:84%
+But these experiments
+only identify
+
+01:18:37.120 --> 01:18:39.440 align:middle line:90%
+short-run individual effects.
+
+01:18:39.440 --> 01:18:41.440 align:middle line:84%
+They have a bit in the
+paper where they look at,
+
+01:18:41.440 --> 01:18:43.910 align:middle line:84%
+do people persist on
+ZipRecruiter for more than just
+
+01:18:43.910 --> 01:18:47.560 align:middle line:84%
+the sign-up month if you charge
+them $249 instead of $99?
+
+01:18:47.560 --> 01:18:49.630 align:middle line:84%
+But there are all
+kinds of things
+
+01:18:49.630 --> 01:18:51.220 align:middle line:84%
+that these estimates
+are never going
+
+01:18:51.220 --> 01:18:55.990 align:middle line:84%
+to-- these sort of what we call
+A/B testing in models like this
+
+01:18:55.990 --> 01:18:57.700 align:middle line:84%
+are going to not
+tell you, which is,
+
+01:18:57.700 --> 01:19:01.030 align:middle line:84%
+what are the general
+equilibrium or systemic effects?
+
+01:19:01.030 --> 01:19:03.550 align:middle line:84%
+Is there a word of mouth
+customer acquisition effect,
+
+01:19:03.550 --> 01:19:06.550 align:middle line:84%
+where someone signs up
+for ZipRecruiter at $99,
+
+01:19:06.550 --> 01:19:08.050 align:middle line:84%
+they're satisfied
+with ZipRecruiter,
+
+01:19:08.050 --> 01:19:09.890 align:middle line:84%
+they recommend ZipRecruiter
+to someone else.
+
+01:19:09.890 --> 01:19:12.610 align:middle line:84%
+Whereas the $249 people are
+signing up for ZipRecruiter,
+
+01:19:12.610 --> 01:19:16.660 align:middle line:84%
+but they're not telling their
+friends to sign up for it.
+
+01:19:16.660 --> 01:19:20.170 align:middle line:84%
+Does the price
+per quality affect
+
+01:19:20.170 --> 01:19:22.060 align:middle line:84%
+when the experts
+are writing articles
+
+01:19:22.060 --> 01:19:27.610 align:middle line:84%
+in the newspaper about which
+employment site should your firm
+
+01:19:27.610 --> 01:19:29.350 align:middle line:90%
+work with.
+
+01:19:29.350 --> 01:19:32.710 align:middle line:84%
+Is there some possibility that
+there will be popular outrage?
+
+01:19:32.710 --> 01:19:37.950 align:middle line:84%
+Also, we've dropped the
+number of firms here.
+
+01:19:37.950 --> 01:19:45.080 align:middle line:84%
+It was 23% going down
+to 15% using the site.
+
+01:19:45.080 --> 01:19:47.330 align:middle line:84%
+In some sense, that means
+there are one third fewer
+
+01:19:47.330 --> 01:19:50.960 align:middle line:84%
+jobs on the site from
+small new employers.
+
+01:19:50.960 --> 01:19:53.780 align:middle line:84%
+One third fewer jobs is
+going to mean fewer resumes
+
+01:19:53.780 --> 01:19:54.840 align:middle line:90%
+posted to the site.
+
+01:19:54.840 --> 01:19:56.520 align:middle line:84%
+Fewer resumes
+posted to the site,
+
+01:19:56.520 --> 01:19:59.030 align:middle line:84%
+is the thing less
+valuable to employers?
+
+01:19:59.030 --> 01:20:04.250 align:middle line:84%
+Is there a spiral down where
+fewer people sign up for it,
+
+01:20:04.250 --> 01:20:07.340 align:middle line:84%
+therefore fewer
+people use the site?
+
+01:20:07.340 --> 01:20:08.870 align:middle line:90%
+Thinking about it.
+
+01:20:08.870 --> 01:20:10.250 align:middle line:84%
+Also, I think John
+is going to do
+
+01:20:10.250 --> 01:20:13.290 align:middle line:84%
+in a few weeks
+two-sided market models.
+
+01:20:13.290 --> 01:20:15.110 align:middle line:84%
+But this is a
+two-sided market model
+
+01:20:15.110 --> 01:20:17.610 align:middle line:84%
+where you shouldn't be doing
+the one-sided monopoly pricing.
+
+01:20:17.610 --> 01:20:20.172 align:middle line:84%
+You should think about,
+we're setting our price.
+
+01:20:20.172 --> 01:20:22.880 align:middle line:84%
+It's a multi-product thing where
+I might price to firms and price
+
+01:20:22.880 --> 01:20:24.090 align:middle line:90%
+to consumers.
+
+01:20:24.090 --> 01:20:25.728 align:middle line:84%
+My price to consumers
+is fixed at zero,
+
+01:20:25.728 --> 01:20:27.770 align:middle line:84%
+but I still want more of
+them to be there to make
+
+01:20:27.770 --> 01:20:29.400 align:middle line:90%
+it more valuable for the firms.
+
+01:20:29.400 --> 01:20:35.290 align:middle line:84%
+I should be thinking that
+multi-side thing into effect.
+
+01:20:35.290 --> 01:20:38.530 align:middle line:84%
+And actually, final
+thing is, this
+
+01:20:38.530 --> 01:20:40.570 align:middle line:84%
+is a feature from
+several years ago
+
+01:20:40.570 --> 01:20:45.700 align:middle line:84%
+where Jeff Bezos, back in the
+early days of Amazon, Amazon
+
+01:20:45.700 --> 01:20:47.920 align:middle line:84%
+appeared to be price
+discriminating against consumers
+
+01:20:47.920 --> 01:20:50.560 align:middle line:84%
+and charging different
+people different amounts,
+
+01:20:50.560 --> 01:20:52.540 align:middle line:84%
+just like there's
+outrage against price
+
+01:20:52.540 --> 01:20:56.980 align:middle line:84%
+gouging for gasoline
+during bad weather.
+
+01:20:56.980 --> 01:20:59.685 align:middle line:84%
+Anyway, Amazon get into
+a tremendous bad press
+
+01:20:59.685 --> 01:21:01.060 align:middle line:84%
+for discriminating
+against people
+
+01:21:01.060 --> 01:21:04.150 align:middle line:84%
+and charging some
+people more than others.
+
+01:21:04.150 --> 01:21:07.000 align:middle line:84%
+And Amazon had to come
+out and say, OK, we
+
+01:21:07.000 --> 01:21:08.770 align:middle line:84%
+promise we're never
+going to do this.
+
+01:21:08.770 --> 01:21:12.460 align:middle line:84%
+Again, we don't know, are there
+going to be similar effects--
+
+01:21:12.460 --> 01:21:15.053 align:middle line:84%
+is this part of why ZipRecruiter
+said 8% is not enough,
+
+01:21:15.053 --> 01:21:17.470 align:middle line:84%
+because they don't want to get
+caught price discriminating
+
+01:21:17.470 --> 01:21:19.750 align:middle line:90%
+against people?
+
+01:21:19.750 --> 01:21:20.350 align:middle line:90%
+OK.
+
+01:21:20.350 --> 01:21:21.980 align:middle line:90%
+That's what I've got for today.
+
+01:21:21.980 --> 01:21:26.140 align:middle line:84%
+So Wednesday, I'm back
+to oligopoly competition.
+
+01:21:26.140 --> 01:21:28.570 align:middle line:90%
+It's also going to be a very--
+
+01:21:28.570 --> 01:21:31.140 align:middle line:84%
+back to a mostly textbook
+chapter where a lot of it
+
+01:21:31.140 --> 01:21:31.640 align:middle line:90%
+is old.
+
+01:21:31.640 --> 01:21:33.223 align:middle line:84%
+I'll get to some new
+stuff at the end.
+
+01:21:33.223 --> 01:21:34.900 align:middle line:84%
+But I think actually
+the new theory
+
+01:21:34.900 --> 01:21:36.800 align:middle line:84%
+gets pushed into
+next Monday's lecture
+
+01:21:36.800 --> 01:21:39.860 align:middle line:84%
+because I'm doing less
+empirical and more theory
+
+01:21:39.860 --> 01:21:42.010 align:middle line:90%
+on oligopoly pricing.
+
+01:21:42.010 --> 01:22:00.000 align:middle line:90%
