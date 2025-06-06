@@ -1,0 +1,33 @@
+Git commands to commit and push all changes to main branch
+⸻
+TERMINAL COMMANDS
+
+# 1. See what's changed
+git status
+
+# 2. Stage all changes (tracked + untracked files)
+git add .
+
+# 3. Commit with a message (edit your message between the quotes)
+git commit -m "Your descriptive commit message here"
+
+# 4. Push changes to the main branch
+git push origin main
+
+
+⸻
+	•	If you’re unsure about what you’re adding, use git add -p to add file chunks interactively.
+	•	If you’re pushing to a branch other than main, just replace it:
+
+git push origin your-branch-name
+
+
+
+⸻
+
+Example Full Flow
+
+git status
+git add .
+git commit -m "Updated sales reports and removed outdated quarterly file"
+git push origin main
